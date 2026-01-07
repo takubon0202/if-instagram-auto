@@ -349,7 +349,7 @@ JSON形式で出力:
 class ImageGenerationAgent:
     """
     画像生成エージェント
-    Imagen 3.0 で Instagram用画像を生成
+    Gemini 2.5 Flash Image (Nano Banana) で Instagram用画像を生成
     5シーン構成対応
     """
 
@@ -357,18 +357,6 @@ class ImageGenerationAgent:
         self.client = client
         self.model = MODELS["image"]
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
-
-    def _get_aspect_ratio(self, size: dict) -> str:
-        """サイズ情報からImagen用アスペクト比を取得"""
-        ratio = size.get('ratio', '1:1')
-        # Imagen 3.0 サポート: 1:1, 3:4, 4:3, 9:16, 16:9
-        supported_ratios = ['1:1', '3:4', '4:3', '9:16', '16:9']
-        if ratio in supported_ratios:
-            return ratio
-        # 4:5 は 3:4 に近いのでフォールバック
-        if ratio == '4:5':
-            return '3:4'
-        return '1:1'
 
     def generate_scene_image(
         self,
@@ -378,7 +366,7 @@ class ImageGenerationAgent:
         size: dict
     ) -> str:
         """
-        シーン用画像を生成（Imagen 3.0）
+        シーン用画像を生成（Gemini 2.5 Flash Image）
 
         Args:
             post_id: 投稿ID
@@ -389,49 +377,47 @@ class ImageGenerationAgent:
         if not self.client.is_available():
             raise Exception("Gemini client not available")
 
-        # Imagen用プロンプト（シンプルで効果的な記述）
+        # Gemini 2.5 Flash Image用プロンプト
         prompt = f"""
-Create an Instagram post background image.
+Create an Instagram post background image for a programming school.
 
 Style: {category['visual_style']}
 Category: {category['name']}
-Color scheme: {category['colors']['primary']} and {category['colors']['secondary']}
-Scene purpose: {scene.get('purpose', 'content slide')}
+Color scheme: Primary {category['colors']['primary']}, Secondary {category['colors']['secondary']}
+Scene: {scene.get('label', '')} - {scene.get('purpose', 'content slide')}
 
 Requirements:
 - Modern, clean design suitable for text overlay
 - Tech-inspired aesthetic with gradient backgrounds
-- Leave clear space in center for Japanese text
-- No text or letters in the image
+- Leave clear space in center for Japanese text overlay
+- No text, letters, or words in the image
 - Professional look for education/programming school
-- Brand colors: {category['colors']['primary']}, {category['colors']['secondary']}
+- Aspect ratio: {size.get('ratio', '4:5')} ({size.get('width', 1080)}x{size.get('height', 1350)}px)
 """
 
         try:
-            # Imagen 3.0 API を使用
-            response = self.client.client.models.generate_images(
+            # Gemini 2.5 Flash Image API を使用
+            response = self.client.client.models.generate_content(
                 model=self.model,
-                prompt=prompt,
-                config={
-                    "number_of_images": 1,
-                    "aspect_ratio": self._get_aspect_ratio(size),
-                    "safety_filter_level": "BLOCK_MEDIUM_AND_ABOVE",
-                }
+                contents=[prompt],
             )
 
-            # 生成された画像を保存
-            if response.generated_images and len(response.generated_images) > 0:
-                image = response.generated_images[0]
-                image_data = image.image.image_bytes
+            # レスポンスから画像を抽出
+            for part in response.parts:
+                if part.text is not None:
+                    # テキストレスポンスはスキップ
+                    continue
+                elif part.inline_data is not None:
+                    # 画像データを保存
+                    image = part.as_image()
 
-                filename = f"{post_id}-{scene['scene_id']:02d}.png"
-                output_path = self.output_dir / filename
-                output_path.parent.mkdir(parents=True, exist_ok=True)
+                    filename = f"{post_id}-{scene['scene_id']:02d}.png"
+                    output_path = self.output_dir / filename
+                    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-                with open(output_path, 'wb') as f:
-                    f.write(image_data)
+                    image.save(str(output_path))
 
-                return f"assets/img/posts/{filename}"
+                    return f"assets/img/posts/{filename}"
 
             raise Exception("No image data in response")
 
