@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect fill="#f0f7f9" width="400" height="400"/>
+  <rect fill="#7CB8A8" x="40" y="30" width="320" height="50" rx="8"/>
+  <text x="200" y="62" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" font-weight="bold">効く言葉 ②</text>
+  <text x="200" y="140" text-anchor="middle" fill="#333" font-family="sans-serif" font-size="22" font-weight="bold">「去年できたこと何？」</text>
+  <rect fill="#fff" x="50" y="180" width="300" height="120" rx="8" stroke="#ddd"/>
+  <text x="200" y="220" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="14">できなかったことではなく</text>
+  <text x="200" y="245" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="14">「できたこと」に注目</text>
+  <text x="200" y="280" text-anchor="middle" fill="#4A90A4" font-family="sans-serif" font-size="14">↓ 自己肯定感がアップ</text>
+  <text x="200" y="370" text-anchor="middle" fill="#999" font-family="sans-serif" font-size="14">4/7</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect fill="#1a1a2e" width="400" height="400"/>
+  <text x="200" y="120" text-anchor="middle" fill="white" font-family="sans-serif" font-size="14">「学校行きたくない」</text>
+  <text x="200" y="170" text-anchor="middle" fill="#e74c3c" font-family="sans-serif" font-size="24" font-weight="bold">言えない子が</text>
+  <text x="200" y="210" text-anchor="middle" fill="#e74c3c" font-family="sans-serif" font-size="24" font-weight="bold">増えています</text>
+  <circle cx="200" cy="290" r="40" fill="#4A90A4" opacity="0.3"/>
+  <polygon points="185,275 185,305 215,290" fill="white"/>
+  <text x="200" y="370" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="sans-serif" font-size="14">REEL</text>
+</svg>

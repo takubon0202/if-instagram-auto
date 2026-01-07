@@ -1,0 +1,32 @@
+{
+  "highlights": [
+    {
+      "id": "highlight-free-trial",
+      "name": "無料体験",
+      "icon": "assets/img/stories/highlight-free-trial.svg",
+      "description": "無料体験のご案内・お申し込み方法",
+      "order": 1
+    },
+    {
+      "id": "highlight-parents",
+      "name": "保護者向け",
+      "icon": "assets/img/stories/highlight-parents.svg",
+      "description": "保護者の方へのお知らせ・サポート情報",
+      "order": 2
+    },
+    {
+      "id": "highlight-business",
+      "name": "企業研修",
+      "icon": "assets/img/stories/highlight-business.svg",
+      "description": "企業向けAI研修・ワークフロー設計",
+      "order": 3
+    },
+    {
+      "id": "highlight-results",
+      "name": "実績",
+      "icon": "assets/img/stories/highlight-results.svg",
+      "description": "生徒さんの声・導入事例",
+      "order": 4
+    }
+  ]
+}

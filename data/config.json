@@ -1,0 +1,40 @@
+{
+  "site": {
+    "name": "if(塾)",
+    "tagline": "AIで支援 / 個別最適 / 第三の居場所",
+    "description": "不登校・発達特性のある子どもたちのためのオンラインプログラミング塾",
+    "url": "https://if-juku.net/",
+    "cta_primary": {
+      "label": "無料体験に申し込む",
+      "url": "https://if-juku.net/"
+    },
+    "cta_secondary": {
+      "label": "企業相談はこちら",
+      "url": "https://if-juku.net/"
+    }
+  },
+  "brand": {
+    "primary_color": "#4A90A4",
+    "secondary_color": "#7CB8A8",
+    "accent_color": "#F5F5F5",
+    "text_color": "#333333",
+    "background_color": "#FFFFFF"
+  },
+  "posting": {
+    "schedule": ["09:00", "12:30", "20:00"],
+    "ratio": {
+      "juku": 2,
+      "business": 1
+    }
+  },
+  "story": {
+    "duration_seconds": 4,
+    "auto_advance": true
+  },
+  "highlight_categories": [
+    "無料体験",
+    "保護者向け",
+    "企業研修",
+    "実績"
+  ]
+}

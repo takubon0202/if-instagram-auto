@@ -1,0 +1,60 @@
+{
+  "stories": [
+    {
+      "id": "story-2026-01-07-01",
+      "datetime": "2026-01-07T10:00:00+09:00",
+      "type": "image",
+      "src": "assets/img/stories/placeholder-story-1.svg",
+      "alt": "今日のif(塾)：月曜17時から開講",
+      "duration": 4,
+      "highlight": "無料体験",
+      "link": {
+        "url": "https://if-juku.net/",
+        "label": "詳しくはこちら"
+      },
+      "text_overlay": "今日も17時から開講"
+    },
+    {
+      "id": "story-2026-01-07-02",
+      "datetime": "2026-01-07T11:00:00+09:00",
+      "type": "image",
+      "src": "assets/img/stories/placeholder-story-2.svg",
+      "alt": "保護者の方へ：無料体験受付中",
+      "duration": 4,
+      "highlight": "保護者向け",
+      "link": {
+        "url": "https://if-juku.net/",
+        "label": "無料体験を申し込む"
+      },
+      "text_overlay": "無料体験受付中"
+    },
+    {
+      "id": "story-2026-01-07-03",
+      "datetime": "2026-01-07T13:00:00+09:00",
+      "type": "image",
+      "src": "assets/img/stories/placeholder-story-3.svg",
+      "alt": "企業向け：AI研修のご案内",
+      "duration": 4,
+      "highlight": "企業研修",
+      "link": {
+        "url": "https://if-juku.net/",
+        "label": "研修について相談する"
+      },
+      "text_overlay": "AI研修のご相談"
+    },
+    {
+      "id": "story-2026-01-07-04",
+      "datetime": "2026-01-07T15:00:00+09:00",
+      "type": "image",
+      "src": "assets/img/stories/placeholder-story-4.svg",
+      "alt": "生徒さんの声（匿名）",
+      "duration": 4,
+      "highlight": "実績",
+      "link": {
+        "url": "https://if-juku.net/",
+        "label": "もっと見る"
+      },
+      "text_overlay": "安心して通えています"
+    }
+  ]
+}

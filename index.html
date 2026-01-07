@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="if(塾) - 不登校・発達特性のある子どもたちのためのオンラインプログラミング塾。AIで支援、個別最適、第三の居場所。">
+  <meta name="theme-color" content="#4A90A4">
+  <title>if(塾) | AIで支援・個別最適・第三の居場所</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏠</text></svg>">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1 class="header__logo"><span>if(</span>塾<span>)</span></h1>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main">
+    <!-- Stories -->
+    <section class="stories" aria-label="ストーリー">
+      <div id="stories-container" class="stories__container">
+        <!-- Stories will be rendered here -->
+      </div>
+    </section>
+
+    <!-- Highlights -->
+    <nav id="highlights-container" class="highlights" aria-label="ハイライト">
+      <!-- Highlights will be rendered here -->
+    </nav>
+
+    <!-- Posts Grid -->
+    <section class="posts-grid" id="posts-grid" aria-label="投稿一覧">
+      <!-- Posts will be rendered here -->
+    </section>
+  </main>
+
+  <!-- Fixed CTA Buttons -->
+  <div class="cta-fixed">
+    <a href="https://if-juku.net/" class="cta-fixed__button cta-fixed__button--primary">
+      無料体験に申し込む
+    </a>
+    <a href="https://if-juku.net/" class="cta-fixed__button cta-fixed__button--secondary">
+      企業相談
+    </a>
+  </div>
+
+  <!-- Post Modal -->
+  <div id="post-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal__backdrop"></div>
+    <button class="modal__close" aria-label="閉じる">&times;</button>
+    <div class="modal__content">
+      <!-- Carousel -->
+      <div class="carousel">
+        <div class="carousel__track">
+          <!-- Slides will be rendered here -->
+        </div>
+        <button class="carousel__nav carousel__nav--prev" aria-label="前の画像">&lsaquo;</button>
+        <button class="carousel__nav carousel__nav--next" aria-label="次の画像">&rsaquo;</button>
+        <div class="carousel__dots">
+          <!-- Dots will be rendered here -->
+        </div>
+      </div>
+
+      <!-- Post Details -->
+      <div class="post-details">
+        <div class="post-details__header">
+          <div class="post-details__avatar">if</div>
+          <span class="post-details__username">if_juku</span>
+        </div>
+        <div class="post-details__body">
+          <p id="modal-title" class="sr-only">投稿詳細</p>
+          <p class="post-details__caption"></p>
+          <p class="post-details__hashtags"></p>
+          <time class="post-details__datetime"></time>
+        </div>
+        <div class="post-details__cta">
+          <a href="https://if-juku.net/" class="post-details__cta-button" target="_blank" rel="noopener noreferrer">
+            詳しく見る
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Story Viewer -->
+  <div id="story-viewer" class="story-viewer" role="dialog" aria-modal="true" aria-label="ストーリービューアー">
+    <div class="story-viewer__header">
+      <div class="story-viewer__progress">
+        <!-- Progress bars will be rendered here -->
+      </div>
+      <div class="story-viewer__info">
+        <div class="story-viewer__user">
+          <div class="story-viewer__avatar"></div>
+          <div>
+            <div class="story-viewer__name">if(塾)</div>
+            <div class="story-viewer__time">今日</div>
+          </div>
+        </div>
+        <button class="story-viewer__close" aria-label="閉じる">&times;</button>
+      </div>
+    </div>
+    <div class="story-viewer__content">
+      <div class="story-viewer__nav story-viewer__nav--prev"></div>
+      <img src="" alt="" class="story-viewer__image">
+      <div class="story-viewer__nav story-viewer__nav--next"></div>
+      <p class="story-viewer__text"></p>
+    </div>
+    <a href="" class="story-viewer__link" target="_blank" rel="noopener noreferrer">詳しくはこちら</a>
+  </div>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

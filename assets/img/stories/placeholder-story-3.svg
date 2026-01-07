@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 700">
+  <rect fill="#333" width="400" height="700"/>
+  <text x="200" y="280" text-anchor="middle" fill="white" font-family="sans-serif" font-size="18">企業向け</text>
+  <text x="200" y="350" text-anchor="middle" fill="white" font-family="sans-serif" font-size="28" font-weight="bold">AI研修の</text>
+  <text x="200" y="400" text-anchor="middle" fill="white" font-family="sans-serif" font-size="28" font-weight="bold">ご相談</text>
+  <text x="200" y="470" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="sans-serif" font-size="16">御社の業務に合わせた</text>
+  <text x="200" y="500" text-anchor="middle" fill="rgba(255,255,255,0.8)" font-family="sans-serif" font-size="16">実践的な研修をご提供</text>
+  <rect fill="#4A90A4" x="120" y="540" width="160" height="40" rx="20"/>
+  <text x="200" y="567" text-anchor="middle" fill="white" font-family="sans-serif" font-size="14" font-weight="bold">相談する</text>
+</svg>

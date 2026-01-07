@@ -1,0 +1,13 @@
+# if(塾) Instagram Workflow - Python Dependencies
+
+# Gemini API
+google-genai>=0.4.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: Image processing
+Pillow>=10.0.0
