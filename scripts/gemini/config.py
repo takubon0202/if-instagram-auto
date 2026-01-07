@@ -253,3 +253,87 @@ DESIGN_CONFIG = {
         "thanks": "pulse"
     }
 }
+
+# ============================================
+# Webサイト用デザイン設定 (if Business準拠)
+# ============================================
+WEB_DESIGN_CONFIG = {
+    "theme": "dark",
+    "colors": {
+        "bg_primary": "#0f172a",
+        "bg_secondary": "#1a1f2e",
+        "bg_card": "rgba(255, 255, 255, 0.05)",
+        "accent_blue": "#3b82f6",
+        "accent_blue_light": "#60a5fa",
+        "accent_purple": "#9333ea",
+        "accent_purple_light": "#a855f7",
+        "accent_gold": "#fbbf24",
+        "accent_green": "#10b981",
+        "accent_orange": "#f97316",
+        "text_primary": "#ffffff",
+        "text_secondary": "rgba(255, 255, 255, 0.8)",
+        "text_muted": "rgba(255, 255, 255, 0.5)",
+        "border": "rgba(255, 255, 255, 0.1)"
+    },
+    "gradients": {
+        "blue": "linear-gradient(135deg, #3b82f6 0%, #60a5fa 100%)",
+        "purple": "linear-gradient(135deg, #9333ea 0%, #a855f7 100%)",
+        "gold": "linear-gradient(135deg, #fbbf24 0%, #f97316 100%)",
+        "story": "linear-gradient(45deg, #3b82f6, #9333ea, #f97316)"
+    },
+    "shadows": {
+        "glow_blue": "0 0 40px rgba(59, 130, 246, 0.3)",
+        "glow_purple": "0 0 40px rgba(147, 51, 234, 0.3)"
+    },
+    "reference": "https://service.if-juku.net/"
+}
+
+# ============================================
+# サービスプラン設定 (if Business)
+# ============================================
+SERVICE_PLANS = {
+    "ai_advisor": {
+        "name": "AIパーソナル顧問プラン",
+        "price": 55000,
+        "price_text": "¥55,000/月",
+        "target": "AI導入を検討中の企業",
+        "features": [
+            "48時間以内チャットレスポンス",
+            "月1回60分ミーティング",
+            "最適なAIツール選定サポート"
+        ]
+    },
+    "ai_training": {
+        "name": "AI人材育成プラン",
+        "price": 33000,
+        "price_text": "¥33,000/月/人",
+        "target": "社内AI人材を育成したい組織",
+        "features": [
+            "月1回個別トレーニング",
+            "毎日のQ&Aサポート",
+            "トレーニング後フォローアップ"
+        ]
+    },
+    "ai_development": {
+        "name": "AI開発支援プラン",
+        "price": 110000,
+        "price_text": "¥110,000~/月",
+        "target": "カスタムAIシステムが必要な企業",
+        "features": [
+            "Web・アプリ開発+AI統合",
+            "自動化システム構築",
+            "月次レビューミーティング"
+        ]
+    },
+    "ai_course": {
+        "name": "AI講座プログラム",
+        "price": 11000,
+        "price_text": "¥11,000/月",
+        "target": "自主学習したい方",
+        "features": [
+            "動画コンテンツ見放題",
+            "画像生成・データ分析・コーディング",
+            "コミュニティ参加"
+        ]
+    }
+}
