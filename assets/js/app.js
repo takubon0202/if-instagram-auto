@@ -68,12 +68,19 @@
   // ========================================
   async function loadData() {
     try {
+      console.log('[if塾] Loading data...');
+
       const [configRes, postsRes, storiesRes, highlightsRes] = await Promise.all([
         fetch('data/config.json'),
         fetch('data/posts.json'),
         fetch('data/stories.json'),
         fetch('data/highlights.json')
       ]);
+
+      // Check response status
+      if (!postsRes.ok) {
+        throw new Error(`Posts fetch failed: ${postsRes.status} ${postsRes.statusText}`);
+      }
 
       state.config = await configRes.json();
       const postsData = await postsRes.json();
@@ -84,6 +91,8 @@
       state.stories = storiesData.stories || [];
       state.highlights = highlightsData.highlights || [];
 
+      console.log(`[if塾] Loaded ${state.posts.length} posts, ${state.stories.length} stories, ${state.highlights.length} highlights`);
+
       // Extract unique categories from posts
       extractCategories();
 
@@ -93,7 +102,7 @@
 
       return true;
     } catch (error) {
-      console.error('Failed to load data:', error);
+      console.error('[if塾] Failed to load data:', error);
       return false;
     }
   }
@@ -151,6 +160,7 @@
     buttons.forEach(btn => {
       const isActive = btn.dataset.category === state.currentCategory;
       btn.classList.toggle('is-active', isActive);
+      btn.classList.toggle('category-btn--active', isActive);
     });
   }
 
@@ -177,8 +187,14 @@
     const gridBtn = elements.viewToggle.querySelector('[data-view="grid"]');
     const feedBtn = elements.viewToggle.querySelector('[data-view="feed"]');
 
-    if (gridBtn) gridBtn.classList.toggle('is-active', state.viewMode === 'grid');
-    if (feedBtn) feedBtn.classList.toggle('is-active', state.viewMode === 'feed');
+    if (gridBtn) {
+      gridBtn.classList.toggle('is-active', state.viewMode === 'grid');
+      gridBtn.classList.toggle('view-tab--active', state.viewMode === 'grid');
+    }
+    if (feedBtn) {
+      feedBtn.classList.toggle('is-active', state.viewMode === 'feed');
+      feedBtn.classList.toggle('view-tab--active', state.viewMode === 'feed');
+    }
   }
 
   // ========================================
@@ -188,16 +204,22 @@
     if (!elements.postCount) return;
 
     const total = state.filteredPosts.length;
-    const displayed = state.displayedPosts.length;
 
-    elements.postCount.textContent = `${displayed} / ${total} 件の投稿`;
+    // HTML structure is: <strong id="post-count">0</strong> 投稿
+    // So we only set the number
+    elements.postCount.textContent = total;
   }
 
   // ========================================
   // Infinite Scroll & Loading
   // ========================================
   function loadMorePosts() {
-    if (state.isLoading || !state.hasMorePosts) return;
+    if (state.isLoading || !state.hasMorePosts) {
+      console.log(`[if塾] loadMorePosts skipped: isLoading=${state.isLoading}, hasMorePosts=${state.hasMorePosts}`);
+      return;
+    }
+
+    console.log(`[if塾] loadMorePosts: loading page ${state.currentPage}`);
 
     state.isLoading = true;
     showLoading();
@@ -207,6 +229,8 @@
       const start = state.currentPage * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
       const newPosts = state.filteredPosts.slice(start, end);
+
+      console.log(`[if塾] Loading posts ${start} to ${end}, found ${newPosts.length} posts`);
 
       if (newPosts.length > 0) {
         state.displayedPosts = [...state.displayedPosts, ...newPosts];
@@ -219,6 +243,8 @@
 
       hideLoading();
       updatePostCount();
+
+      console.log(`[if塾] After load: displayed=${state.displayedPosts.length}, hasMore=${state.hasMorePosts}`);
     });
   }
 
@@ -323,60 +349,17 @@
   }
 
   function renderControlsUI() {
-    // Create posts section wrapper if not exists
+    // Use existing HTML elements instead of creating duplicates
     const postsGrid = elements.postsGrid;
     if (!postsGrid) return;
 
-    // Create controls container
-    const controlsHtml = `
-      <div class="posts-controls">
-        <div class="posts-controls__left">
-          <div class="view-toggle" id="view-toggle">
-            <button class="view-toggle__btn is-active" data-view="grid" aria-label="グリッド表示">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                <rect x="3" y="3" width="7" height="7" rx="1"/>
-                <rect x="14" y="3" width="7" height="7" rx="1"/>
-                <rect x="3" y="14" width="7" height="7" rx="1"/>
-                <rect x="14" y="14" width="7" height="7" rx="1"/>
-              </svg>
-            </button>
-            <button class="view-toggle__btn" data-view="feed" aria-label="フィード表示">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                <rect x="3" y="3" width="18" height="6" rx="1"/>
-                <rect x="3" y="12" width="18" height="6" rx="1"/>
-              </svg>
-            </button>
-          </div>
-          <span class="posts-count" id="posts-count">0 / 0 件の投稿</span>
-        </div>
-        <div class="category-filter" id="category-filter">
-          <button class="category-btn is-active" data-category="all">すべて</button>
-          ${state.categories.map(cat => `
-            <button class="category-btn" data-category="${cat}">${cat}</button>
-          `).join('')}
-        </div>
-      </div>
-    `;
+    // Cache existing elements from HTML
+    elements.viewToggle = document.querySelector('.view-tabs');
+    elements.categoryFilter = document.querySelector('.category-filter');
+    elements.postCount = document.getElementById('post-count');
+    elements.loadingIndicator = document.getElementById('load-more');
 
-    // Insert controls before posts grid
-    postsGrid.insertAdjacentHTML('beforebegin', controlsHtml);
-
-    // Create loading indicator
-    const loadingHtml = `
-      <div class="posts-loading" id="posts-loading">
-        <div class="loading__spinner"></div>
-        <span>読み込み中...</span>
-      </div>
-    `;
-    postsGrid.insertAdjacentHTML('afterend', loadingHtml);
-
-    // Cache new elements
-    elements.viewToggle = document.getElementById('view-toggle');
-    elements.categoryFilter = document.getElementById('category-filter');
-    elements.postCount = document.getElementById('posts-count');
-    elements.loadingIndicator = document.getElementById('posts-loading');
-
-    // Add event listeners for controls
+    // Add event listeners for existing controls
     initControlsListeners();
   }
 
@@ -550,12 +533,18 @@
 
   function renderPosts() {
     const container = elements.postsGrid;
-    if (!container) return;
+    if (!container) {
+      console.error('[if塾] Posts grid container not found!');
+      return;
+    }
+
+    console.log(`[if塾] renderPosts called, posts count: ${state.posts.length}`);
 
     // Clear and show initial loading
     container.innerHTML = '';
 
     if (state.posts.length === 0) {
+      console.log('[if塾] No posts to display');
       container.innerHTML = `
         <div class="empty" style="grid-column: 1 / -1;">
           <div class="empty__icon">📷</div>
@@ -923,8 +912,11 @@
     // Event listeners
     initEventListeners();
 
-    console.log('if(塾) Instagram風ブログ initialized');
-    console.log(`Total posts: ${state.posts.length}, Categories: ${state.categories.join(', ')}`);
+    console.log('[if塾] Instagram風ブログ initialized');
+    console.log(`[if塾] Total posts: ${state.posts.length}`);
+    console.log(`[if塾] Displayed posts: ${state.displayedPosts.length}`);
+    console.log(`[if塾] Categories: ${state.categories.join(', ')}`);
+    console.log(`[if塾] Posts grid element:`, elements.postsGrid);
   }
 
   // ========================================

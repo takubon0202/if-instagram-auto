@@ -1096,14 +1096,18 @@ a {
 }
 
 /* View Toggle */
-.view-toggle {
+.view-toggle,
+.view-tabs {
   display: flex;
   background: var(--bg-secondary);
   border-radius: var(--radius-md);
   padding: 4px;
+  margin: 0 16px 16px;
+  width: fit-content;
 }
 
-.view-toggle__btn {
+.view-toggle__btn,
+.view-tab {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1114,12 +1118,15 @@ a {
   transition: all var(--transition-fast);
 }
 
-.view-toggle__btn:hover {
+.view-toggle__btn:hover,
+.view-tab:hover {
   color: var(--text-secondary);
   background: var(--bg-card-hover);
 }
 
-.view-toggle__btn.is-active {
+.view-toggle__btn.is-active,
+.view-tab.is-active,
+.view-tab.view-tab--active {
   color: var(--text-primary);
   background: var(--accent-blue);
 }
@@ -1138,7 +1145,7 @@ a {
   flex-wrap: wrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  padding-bottom: 4px;
+  padding: 0 16px 16px;
 }
 
 .category-filter::-webkit-scrollbar {
@@ -1168,7 +1175,8 @@ a {
   border-color: var(--border-color-hover);
 }
 
-.category-btn.is-active {
+.category-btn.is-active,
+.category-btn.category-btn--active {
   color: white;
   background: var(--accent-blue);
   border-color: var(--accent-blue);
@@ -1318,7 +1326,8 @@ a {
 /* ========================================
    Posts Loading Indicator
    ======================================== */
-.posts-loading {
+.posts-loading,
+.load-more {
   display: none;
   align-items: center;
   justify-content: center;
@@ -1328,11 +1337,13 @@ a {
   font-size: 0.9rem;
 }
 
-.posts-loading.is-visible {
+.posts-loading.is-visible,
+.load-more.is-visible {
   display: flex;
 }
 
-.posts-loading .loading__spinner {
+.posts-loading .loading__spinner,
+.load-more .loading__spinner {
   width: 24px;
   height: 24px;
 }
