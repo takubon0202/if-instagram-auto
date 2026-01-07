@@ -20,7 +20,9 @@ except ImportError:
 from .config import (
     GEMINI_API_KEY, MODELS, IMAGE_SIZES, BRAND_CONFIG,
     CATEGORIES, THANKS_IMAGE, SCENE_STRUCTURE,
-    IMAGE_GENERATION_CONFIG, LOGO_CONFIG
+    IMAGE_GENERATION_CONFIG, LOGO_CONFIG,
+    STYLE_PRESETS, NEGATIVE_PROMPTS, CONCEPT_TO_VISUAL,
+    CATEGORY_ANIME_STYLES, SCENE_MATERIAL_TEMPLATES
 )
 
 
@@ -349,10 +351,13 @@ JSON形式で出力:
 
 class ImageGenerationAgent:
     """
-    画像生成エージェント
-    Gemini 3 Pro Image Preview で Instagram用画像を生成
-    5シーン構成対応 - 日本語テキスト込みの完成画像を生成
-    if塾ロゴ入り
+    画像生成エージェント v3.0
+    Gemini 3 Pro Image Preview で純粋なアニメイラストを生成
+
+    【Material vs Context 分離アプローチ】
+    - 画像: 純粋なアニメイラスト素材（テキスト・UI要素なし）
+    - テキスト: フロントエンドでオーバーレイ表示
+    - ロゴ: フロントエンドで重ねて表示
     """
 
     def __init__(self, client: GeminiClient):
@@ -361,7 +366,11 @@ class ImageGenerationAgent:
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
         self.max_retries = 3
         self.image_config = IMAGE_GENERATION_CONFIG
-        self.logo_config = LOGO_CONFIG
+        self.style_presets = STYLE_PRESETS
+        self.negative_prompts = NEGATIVE_PROMPTS
+        self.concept_to_visual = CONCEPT_TO_VISUAL
+        self.category_anime_styles = CATEGORY_ANIME_STYLES
+        self.scene_templates = SCENE_MATERIAL_TEMPLATES
 
     def generate_scene_image(
         self,
@@ -372,66 +381,58 @@ class ImageGenerationAgent:
     ) -> str:
         """
         シーン用画像を生成（Gemini 3 Pro Image Preview）
-        日本語テキストとif塾ロゴを含む完成したInstagram投稿画像を生成
+        純粋なアニメイラスト素材を生成（テキスト・UI要素なし）
 
         Args:
             post_id: 投稿ID
             scene: シーン情報（headline, subtext含む）
             category: カテゴリ情報
             size: 画像サイズ（未使用、ImageConfigで制御）
+
+        Returns:
+            str: 生成された画像のパス
         """
         if not self.client.is_available():
             raise Exception("Gemini client not available")
 
-        # シーンのテキスト情報を取得
-        headline = scene.get('headline', '') or scene.get('label', '')
-        subtext = scene.get('subtext', '')
         scene_id = scene.get('scene_id', 1)
-        scene_label = scene.get('label', '')
+        category_id = category.get('id', 'activity')
 
-        # シーン別のデザインディレクション
-        scene_directions = self._get_scene_design_direction_jp(scene, category)
+        # 概念からビジュアル記述への変換
+        visual_scene = self._convert_concept_to_visual(scene, category_id)
 
-        # 日本語プロンプト（if塾ロゴ入り）
-        prompt = f"""
-プログラミング教室「if塾」のInstagram投稿画像を作成してください。
+        # スタイルプリセットの取得
+        style_key = self.category_anime_styles.get(category_id, {}).get('recommended_style', 'japanese_anime')
+        style = self.style_presets.get(style_key, self.style_presets['japanese_anime'])
 
-【ブランドロゴ】
-右下に「if塾」のロゴを配置してください：
-- 黒いモニターフレームの中にオレンジ色の「IF」の文字
-- 立体的な縁取りのあるデザイン
-- 控えめなサイズで、メインコンテンツの邪魔にならないように
+        # カテゴリ別アニメスタイルの取得
+        anime_style = self.category_anime_styles.get(category_id, self.category_anime_styles['activity'])
 
-【カテゴリ】{category['name']}
-【カラー】メイン: {category['colors']['primary']}、サブ: {category['colors']['secondary']}
+        # シーン別素材テンプレートの取得
+        scene_template = self.scene_templates.get(scene_id, self.scene_templates[1])
 
-【シーン {scene_id}/5】{scene_label}
+        # 純粋なアニメイラスト用プロンプトを構築（英語）
+        prompt = self._build_material_prompt(
+            visual_scene=visual_scene,
+            style=style,
+            anime_style=anime_style,
+            scene_template=scene_template,
+            category=category
+        )
 
-【メインテキスト（大きく中央に表示）】
-{headline}
+        # ネガティブプロンプトを構築
+        negative_prompt = self._build_negative_prompt()
 
-【サブテキスト（小さく表示）】
-{subtext}
-
-【デザイン要件】
-{scene_directions}
-
-【重要な指示】
-- すべてのテキストは日本語で画像内にレンダリングすること
-- 文字は極太ゴシック体で視認性を最大化
-- グラデーション背景を使用
-- プロフェッショナルで現代的なInstagramマーケティングスタイル
-- テキストが主役、背景要素は控えめに
-"""
+        print(f"      [Prompt] {prompt[:100]}...")
 
         # リトライロジック付きで画像生成
         last_error = None
         for attempt in range(self.max_retries):
             try:
-                # Gemini 3 Pro Image Preview API を使用（ImageConfig対応）
+                # Gemini 3 Pro Image Preview API を使用
                 response = self.client.client.models.generate_content(
                     model=self.model,
-                    contents=prompt,
+                    contents=f"{prompt}\n\nNegative: {negative_prompt}",
                     config=types.GenerateContentConfig(
                         image_config=types.ImageConfig(
                             aspect_ratio=self.image_config["aspect_ratio"],  # "4:5"
@@ -452,56 +453,156 @@ class ImageGenerationAgent:
                         output_path.parent.mkdir(parents=True, exist_ok=True)
 
                         image.save(str(output_path))
-                        print(f"      [OK] シーン{scene_id}: {headline[:15]}...")
+                        print(f"      [OK] Scene {scene_id}: Pure anime illustration saved")
                         return f"assets/img/posts/{filename}"
 
-                raise Exception("レスポンスに画像データがありません")
+                raise Exception("No image data in response")
 
             except Exception as e:
                 last_error = e
-                print(f"      [リトライ {attempt + 1}/{self.max_retries}] {e}")
+                print(f"      [Retry {attempt + 1}/{self.max_retries}] {e}")
                 if attempt < self.max_retries - 1:
                     import time
                     time.sleep(2)
 
-        raise Exception(f"{self.max_retries}回試行後も画像生成に失敗: {last_error}")
+        raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
 
-    def _get_scene_design_direction_jp(self, scene: dict, category: dict) -> str:
-        """シーン別のデザインディレクション（日本語）"""
-        scene_id = scene.get('scene_id', 1)
+    def _convert_concept_to_visual(self, scene: dict, category_id: str) -> str:
+        """
+        概念的な内容を具体的な視覚描写に変換
+
+        例: "安心感" → "warm soft lighting, cozy room, gentle smile"
+        """
+        headline = scene.get('headline', '') or scene.get('label', '')
+        subtext = scene.get('subtext', '')
+
+        # 概念辞書から変換を試みる
+        visual_elements = []
+
+        for concept, visual in self.concept_to_visual.items():
+            if concept in headline or concept in subtext:
+                visual_elements.append(visual)
+
+        # カテゴリに基づくデフォルトビジュアル
+        anime_style = self.category_anime_styles.get(category_id, {})
+        if anime_style:
+            visual_elements.append(anime_style.get('setting', ''))
+            visual_elements.append(anime_style.get('illustration_focus', ''))
+
+        # 変換結果がない場合はプログラミング学習のデフォルト
+        if not visual_elements:
+            visual_elements.append(
+                "anime student at computer, focused expression, coding on screen, "
+                "modern classroom background, warm lighting"
+            )
+
+        return ", ".join(filter(None, visual_elements))
+
+    def _build_material_prompt(
+        self,
+        visual_scene: str,
+        style: dict,
+        anime_style: dict,
+        scene_template: dict,
+        category: dict
+    ) -> str:
+        """
+        Material（素材）フォーカスのプロンプトを構築
+
+        【重要】「Instagram」や「投稿」という言葉を使用しない
+        純粋なアニメイラスト素材として生成
+        """
+        # スタイルプレフィックス
+        style_prefix = style.get('prompt_prefix', 'Japanese anime style, high quality')
+        visual_quality = style.get('visual_quality', 'studio quality anime illustration')
+        atmosphere = style.get('atmosphere', 'warm and inviting')
+
+        # キャラクターと設定
+        character_mood = anime_style.get('character_mood', 'happy, engaged')
+        setting = anime_style.get('setting', 'modern classroom')
+        color_palette = anime_style.get('color_palette', 'vibrant colors')
+
+        # シーン構成
+        composition = scene_template.get('composition', 'centered character')
+
+        # カテゴリカラー
+        primary_color = category.get('colors', {}).get('primary', '#4A90A4')
+        secondary_color = category.get('colors', {}).get('secondary', '#7CB8A8')
+
+        prompt = f"""
+{style_prefix},
+{visual_quality},
+
+Scene description: {visual_scene},
+
+Character: anime style student character, {character_mood}, expressive eyes,
+Setting: {setting},
+Color palette: {color_palette}, accent colors {primary_color} and {secondary_color},
+Atmosphere: {atmosphere},
+Composition: {composition},
+
+Technical requirements:
+- Pure illustration with no text, no UI elements, no borders
+- Clean background suitable for text overlay
+- High quality anime art style
+- Professional illustration quality
+- No watermarks or signatures
+- Leave space for text overlay (especially top and bottom areas)
+"""
+        return prompt.strip()
+
+    def _build_negative_prompt(self) -> str:
+        """
+        ネガティブプロンプトを構築
+        UI要素、テキスト、低品質要素を除外
+        """
+        all_negatives = []
+        all_negatives.extend(self.negative_prompts.get('global', []))
+        all_negatives.extend(self.negative_prompts.get('ui_elements', []))
+        all_negatives.extend(self.negative_prompts.get('text_elements', []))
+        all_negatives.extend(self.negative_prompts.get('unwanted_styles', []))
+
+        return ", ".join(all_negatives)
+
+    def _get_scene_material_direction(self, scene_id: int, category_id: str) -> str:
+        """
+        シーン別の素材方向性を取得（UIではなくイラスト素材として）
+        """
+        anime_style = self.category_anime_styles.get(category_id, {})
+        scene_template = self.scene_templates.get(scene_id, self.scene_templates[1])
 
         directions = {
-            1: """
-【表紙スライド】
-- 目を引く、大胆なデザイン
-- メインテキストは画面の40%以上を占める大きさ
-- ドラマチックなグラデーション背景
-- テック感・プログラミング感のある視覚要素を追加
-- 緊急性や好奇心を刺激するデザイン""",
-            2: """
-【内容スライド1：課題提示】
-- 読みやすく整理されたレイアウト
-- メインテキストは目立つが圧迫感がない
-- アイコンやシンプルなイラストでテキストを補完
-- ブランドカラーをアクセントとして使用
-- プロフェッショナルで教育的な雰囲気""",
-            3: """
-【内容スライド2：解決策】
-- 情報を整理した構造的なレイアウト
-- テキストはスキャンしやすく
-- 見出しとサブテキストの視覚的階層を明確に
-- コード、テック、学習に関連するビジュアル要素
-- スライド1と一貫したデザイン""",
-            4: """
-【内容スライド3：まとめ・CTA】
-- 行動を促す魅力的なデザイン
-- メインテキストは行動を喚起する内容
-- 矢印などの方向性を示す要素を含む
-- 表紙スライドのエネルギーを維持
-- 次のスライド（サンクス）への誘導"""
+            1: f"""
+Cover illustration: Eye-catching hero image
+- {anime_style.get('character_mood', 'energetic')} anime character
+- {anime_style.get('setting', 'classroom')} background
+- Dynamic pose, looking at viewer
+- Space at top for title text overlay
+- {scene_template.get('composition', 'centered')}""",
+            2: f"""
+Problem/Context illustration: Storytelling scene
+- Character showing curiosity or concern
+- {anime_style.get('setting', 'study environment')}
+- Thought bubble or question mark visual metaphor
+- Clear space for explanatory text
+- {scene_template.get('composition', 'character in context')}""",
+            3: f"""
+Solution illustration: Positive transformation
+- Character with confident, happy expression
+- Visual metaphor of growth or achievement
+- Bright, optimistic color tones
+- Space for solution text overlay
+- {scene_template.get('composition', 'transformation visual')}""",
+            4: f"""
+Call-to-action illustration: Forward momentum
+- Character moving forward or gesturing invitation
+- Open door or path visual metaphor
+- Encouraging, welcoming atmosphere
+- Space for CTA text overlay
+- {scene_template.get('composition', 'directional elements')}"""
         }
 
-        return directions.get(scene_id, directions[2])
+        return directions.get(scene_id, directions[1])
 
     def generate_complete_post_images(
         self,
@@ -511,31 +612,36 @@ class ImageGenerationAgent:
         size: dict = None
     ) -> list:
         """
-        コンテンツから5シーン全ての画像を一括生成
+        コンテンツから4シーンの純粋なイラスト素材を一括生成
+
+        【注意】テキストは画像に含めず、別途overlay_textとして保持
 
         Args:
             post_id: 投稿ID
             content: ContentGenerationAgentからのコンテンツ
             category: カテゴリ情報
             size: 画像サイズ（未使用、ImageConfigで制御）
+
+        Returns:
+            list: 生成された画像パスのリスト（4シーン分）
         """
         scenes = [
             {"scene_id": 1, "scene_name": "cover", "label": "表紙",
              "headline": content.get("cover", {}).get("headline", ""),
              "subtext": content.get("cover", {}).get("subtext", ""),
-             "purpose": "インパクト重視のタイトル"},
+             "purpose": "hook_attention"},
             {"scene_id": 2, "scene_name": "content1", "label": "内容1",
              "headline": content.get("content1", {}).get("headline", ""),
              "subtext": content.get("content1", {}).get("subtext", ""),
-             "purpose": "概要・課題提示"},
+             "purpose": "problem_presentation"},
             {"scene_id": 3, "scene_name": "content2", "label": "内容2",
              "headline": content.get("content2", {}).get("headline", ""),
              "subtext": content.get("content2", {}).get("subtext", ""),
-             "purpose": "メリット・解決策"},
+             "purpose": "solution_showcase"},
             {"scene_id": 4, "scene_name": "content3", "label": "内容3",
              "headline": content.get("content3", {}).get("headline", ""),
              "subtext": content.get("content3", {}).get("subtext", ""),
-             "purpose": "詳細・提案"},
+             "purpose": "action_inspiration"},
         ]
 
         image_paths = []
@@ -544,7 +650,7 @@ class ImageGenerationAgent:
                 path = self.generate_scene_image(post_id, scene, category)
                 image_paths.append(path)
             except Exception as e:
-                print(f"    シーン{scene['scene_id']}の生成に失敗: {e}")
+                print(f"    Scene {scene['scene_id']} generation failed: {e}")
                 raise
 
         return image_paths

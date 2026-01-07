@@ -407,7 +407,25 @@ if塾では、子どもの可能性を最大限に発揮する
         existing_ids = {p["id"] for p in data["posts"]}
 
         for post in new_posts:
-            # 新しい投稿データを整形
+            # シーンとメディアを結合してpages構造を作成
+            scenes = post.get("scenes", [])
+            generated_images = post.get("generated_images", [])
+
+            # Material vs Context分離: 各ページに画像素材とオーバーレイテキストを分離
+            pages = []
+            for i, (scene, img_path) in enumerate(zip(scenes, generated_images)):
+                page = {
+                    "scene_id": scene.get("scene_id", i + 1),
+                    "scene_name": scene.get("scene_name", f"scene{i+1}"),
+                    "label": scene.get("label", f"シーン{i+1}"),
+                    "image_url": img_path,
+                    "overlay_text": scene.get("headline", ""),
+                    "subtext": scene.get("subtext", ""),
+                    "alt": f"{scene.get('label', f'シーン{i+1}')} - {scene.get('headline', '')[:20]}"
+                }
+                pages.append(page)
+
+            # 新しい投稿データを整形（Material vs Context対応）
             post_data = {
                 "id": post["id"],
                 "datetime": post["datetime"],
@@ -417,9 +435,10 @@ if塾では、子どもの可能性を最大限に発揮する
                 "caption": post["caption"],
                 "hashtags": post["hashtags"],
                 "cta_url": post["cta_url"],
+                "pages": pages,
                 "media": [
                     {"kind": "image", "src": img, "alt": f"シーン{i+1}"}
-                    for i, img in enumerate(post.get("generated_images", []))
+                    for i, img in enumerate(generated_images)
                 ],
                 "highlight": post["category_name"],
                 "staff": post.get("staff"),
@@ -434,7 +453,7 @@ if塾では、子どもの可能性を最大限に発揮する
                 "notes_for_instagram": {
                     "cover_text": post["title"][:20],
                     "first_comment": "詳細は if-juku.net から",
-                    "scenes": post.get("scenes", [])
+                    "scenes": scenes
                 }
             }
 

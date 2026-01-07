@@ -3,6 +3,20 @@
 ## 役割
 Gemini 3 Pro Image Preview を使用して、if塾のInstagram投稿用画像を生成する。
 
+## 設計思想: Material vs Context 分離
+
+**重要**: 画像生成において「素材（Material）」と「文脈（Context）」を明確に分離する。
+
+| 項目 | 担当 | 説明 |
+|------|------|------|
+| 画像素材 | Gemini API | 純粋なアニメイラスト（テキスト・UI要素なし） |
+| テキスト表示 | フロントエンド | CSSオーバーレイまたは画像合成 |
+| ロゴ表示 | フロントエンド | HTML/CSSで重ね表示 |
+
+### なぜ分離するのか？
+- **問題**: Instagramという文脈をプロンプトに含めると、モデルがInstagramのUI（いいねボタン、枠など）を描画してしまう
+- **解決**: 「純粋なアニメイラスト」として生成し、テキスト・UIは後処理で追加
+
 ## モデル
 `gemini-3-pro-image-preview`
 
@@ -13,7 +27,8 @@ Gemini 3 Pro Image Preview を使用して、if塾のInstagram投稿用画像を
 
 ## 出力
 - PNG画像（1K解像度、4:5比率）
-- 画像パス（assets/img/posts/{post_id}-{scene_id:02d}.png）
+- **純粋なアニメイラスト素材**（テキスト・UI要素を含まない）
+- 画像パス: `assets/img/posts/{post_id}-{scene_id:02d}.png`
 
 ## 画像仕様
 
@@ -22,41 +37,52 @@ Gemini 3 Pro Image Preview を使用して、if塾のInstagram投稿用画像を
 | モデル | gemini-3-pro-image-preview |
 | 解像度 | 1K |
 | アスペクト比 | 4:5（Instagram縦長投稿） |
-| 言語 | 日本語 |
+| プロンプト言語 | 英語（精度向上のため） |
+| 出力スタイル | 日本のアニメ風イラスト |
 | リトライ | 最大3回 |
 
-## if塾ロゴ
+## スタイルプリセット
 
-生成される全ての画像には右下にif塾ロゴが配置されます：
+利用可能なスタイルプリセット:
 
-```
-【ロゴ仕様】
-- 黒いモニターフレーム内にオレンジ色の「IF」文字
-- 立体的な縁取り
-- 控えめなサイズ
-- 位置: 右下
-```
+| プリセット | 説明 | 使用場面 |
+|-----------|------|---------|
+| japanese_anime | 高品質な日本のアニメイラスト | デフォルト |
+| makoto_shinkai | 新海誠風の美しい背景 | B2B向け |
+| lofi_aesthetic | Lo-Fi風リラックス | 不登校支援 |
 
-## シーン別デザイン
+## ネガティブプロンプト（除外要素）
 
-| シーン | デザイン方針 |
-|--------|-------------|
-| 1. 表紙 | 大胆、テキスト40%以上、緊急性 |
-| 2. 内容1 | 読みやすい、課題提示 |
-| 3. 内容2 | 構造的、解決策提示 |
-| 4. 内容3 | CTA、行動喚起 |
-| 5. サンクス | 固定画像使用 |
+以下の要素は自動的に除外されます:
 
-## カテゴリ別カラー
+- **UI要素**: instagram frame, social media interface, buttons, icons
+- **テキスト**: text overlay, caption, hashtag, watermark, letters
+- **品質低下**: low quality, blurry, distorted, ugly
+- **不要スタイル**: photorealistic, 3d render, photograph
 
-| カテゴリ | Primary | Secondary |
-|----------|---------|-----------|
-| announcement | #E53935 | #FF6F61 |
-| development | #1E88E5 | #00BCD4 |
-| activity | #43A047 | #66BB6A |
-| education | #FF9800 | #FFB74D |
-| ai_column | #7B1FA2 | #AB47BC |
-| business | #FFC107 | #FFD54F |
+## 概念→視覚変換
+
+抽象的な概念を具体的な視覚描写に自動変換:
+
+| 概念 | 視覚変換 |
+|------|---------|
+| 安心感 | warm soft lighting, cozy room, gentle smile |
+| 達成感 | sparkling eyes, proud expression, confetti |
+| 集中 | focused eyes, clean desk, soft background |
+| 成長 | morning light, sprouting plant, hopeful sky |
+
+## カテゴリ別アニメスタイル
+
+各カテゴリに最適化されたアニメスタイル設定:
+
+| カテゴリ | キャラクターの雰囲気 | 背景 | カラーパレット |
+|----------|---------------------|------|---------------|
+| announcement | excited, energetic | bright classroom | warm reds |
+| development | curious, innovative | modern workspace | tech blues |
+| activity | happy, engaged | outdoor/workshop | vibrant greens |
+| education | studious, focused | library/study | warm oranges |
+| ai_column | futuristic, intelligent | cyber/holographic | purples |
+| business | professional, confident | modern office | golden tones |
 
 ## 使用例
 
@@ -76,27 +102,32 @@ scene = {
 }
 category = CATEGORIES["ai_column"]
 
+# 生成される画像は純粋なアニメイラスト素材
+# テキストは含まれない（フロントエンドでオーバーレイ）
 image_path = agent.generate_scene_image(
     post_id="2026-01-07-0900-ai_column-carousel-01",
     scene=scene,
     category=category
 )
-print(image_path)
-# assets/img/posts/2026-01-07-0900-ai_column-carousel-01-01.png
+```
 
-# 5シーン一括生成
-content = {
-    "cover": {"headline": "AIで変わる学習体験", "subtext": "最新トレンド"},
-    "content1": {"headline": "こんな悩みありませんか？", "subtext": ""},
-    "content2": {"headline": "解決策をご紹介", "subtext": ""},
-    "content3": {"headline": "今すぐ始めよう", "subtext": "詳細はプロフィールから"}
+## JSON出力構造（Material vs Context対応）
+
+```json
+{
+  "post_id": "2026-01-07-0900-ai_column-carousel-01",
+  "type": "carousel",
+  "pages": [
+    {
+      "scene_id": 1,
+      "scene_name": "cover",
+      "label": "表紙",
+      "image_url": "assets/img/posts/...",
+      "overlay_text": "AIで変わる学習体験",
+      "subtext": "if塾からお届け"
+    }
+  ]
 }
-
-image_paths = agent.generate_complete_post_images(
-    post_id="2026-01-07-0900-ai_column-carousel-01",
-    content=content,
-    category=category
-)
 ```
 
 ## API設定
@@ -105,14 +136,30 @@ image_paths = agent.generate_complete_post_images(
 # Gemini 3 Pro Image Preview の呼び出し
 response = client.models.generate_content(
     model="gemini-3-pro-image-preview",
-    contents=prompt,
+    contents=english_prompt,  # 英語プロンプト
     config=types.GenerateContentConfig(
         image_config=types.ImageConfig(
-            aspect_ratio="4:5",  # Instagram縦長
-            image_size="1K"      # 1K解像度
+            aspect_ratio="4:5",
+            image_size="1K"
         )
     )
 )
+```
+
+## プロンプト構造（内部処理）
+
+```
+[スタイルプリセット]
+Japanese anime style, cel shading, high quality, masterpiece...
+
+[シーン視覚描写]
+A cheerful junior high school student with sparkling eyes...
+
+[構図指示]
+centered composition, aspect ratio 4:5...
+
+[除外指示]
+Avoid: text, ui, instagram frame, watermark...
 ```
 
 ## エラーハンドリング
@@ -126,3 +173,10 @@ response = client.models.generate_content(
 - GEMINI_API_KEY 環境変数が必要
 - ネットワーク接続が必要
 - 1画像あたり約2-5秒の生成時間
+- **重要**: 生成画像にはテキストを含めない（フロントエンドで処理）
+
+## 関連ファイル
+
+- `scripts/gemini/config.py` - スタイルプリセット、ネガティブプロンプト設定
+- `scripts/gemini/client.py` - ImageGenerationAgentクラス
+- `.claude/skills/generate-image.md` - スキル定義

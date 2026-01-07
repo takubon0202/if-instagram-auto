@@ -21,8 +21,164 @@ MODELS = {
 IMAGE_GENERATION_CONFIG = {
     "model": "gemini-3-pro-image-preview",
     "resolution": "1K",           # 1K解像度
-    "aspect_ratio": "4:5",        # Instagram縦長投稿
+    "aspect_ratio": "4:5",        # 縦長投稿
     "language": "ja",             # 日本語
+    "default_style": "japanese_anime",  # デフォルトスタイル
+}
+
+# ============================================
+# スタイルプリセット（画像生成用）
+# ============================================
+STYLE_PRESETS = {
+    "japanese_anime": {
+        "name": "Japanese Anime Style",
+        "description": "高品質な日本のアニメイラスト",
+        "prompt_prefix": "Japanese anime style, cel shading, high quality, masterpiece, vivid colors, expressive eyes, clean line art, dynamic composition",
+        "visual_quality": "studio quality anime illustration, professional animation aesthetic, emotional depth through art direction",
+        "atmosphere": "warm and inviting, hopeful, inspiring"
+    },
+    "makoto_shinkai": {
+        "name": "Makoto Shinkai Style",
+        "description": "新海誠風の美しい背景と光の表現",
+        "prompt_prefix": "Makoto Shinkai style, beautiful detailed background, volumetric lighting, lens flare, detailed clouds, stunning scenery, anime aesthetic",
+        "visual_quality": "cinematic quality, photorealistic backgrounds with anime characters",
+        "atmosphere": "nostalgic, dreamy, emotionally evocative"
+    },
+    "lofi_aesthetic": {
+        "name": "Lo-Fi Aesthetic",
+        "description": "リラックスした落ち着いた雰囲気",
+        "prompt_prefix": "Lo-fi aesthetic, soft pastel colors, cozy atmosphere, relaxed mood, warm lighting, hand-drawn feel, anime style",
+        "visual_quality": "gentle illustration, calming visual tone",
+        "atmosphere": "peaceful, comfortable, safe space"
+    }
+}
+
+# ============================================
+# ネガティブプロンプト設定（UI/テキスト除去）
+# ============================================
+NEGATIVE_PROMPTS = {
+    "global": [
+        "low quality", "blurry", "distorted", "ugly", "watermark",
+        "text", "letters", "words", "signature", "deformed", "bad quality",
+        "worst quality", "jpeg artifacts"
+    ],
+    "ui_elements": [
+        "instagram frame", "instagram ui", "social media interface",
+        "buttons", "icons", "like button", "heart icon", "comment icon",
+        "share button", "save button", "username", "profile picture",
+        "screenshot", "app interface", "phone screen", "notification",
+        "status bar", "navigation bar", "border", "frame"
+    ],
+    "text_elements": [
+        "text overlay", "caption", "hashtag", "watermark text",
+        "title text", "subtitle", "logo text", "brand name text",
+        "japanese text in image", "english text in image"
+    ],
+    "unwanted_styles": [
+        "photorealistic", "3d render", "photograph", "real photo",
+        "stock photo", "clipart", "icon style", "flat design ui"
+    ]
+}
+
+# ============================================
+# 概念→視覚変換テンプレート
+# ============================================
+CONCEPT_TO_VISUAL = {
+    # 感情・雰囲気の変換
+    "安心感": "warm soft lighting, cozy room, comfortable furniture, gentle smile, relaxed posture",
+    "達成感": "sparkling eyes, proud expression, raised fist, bright sunlight, confetti",
+    "成長": "seedling growing into tree, before-after comparison, level up visual, ascending stairs",
+    "可能性": "open door with bright light, endless sky, floating islands, multiple paths",
+    "集中": "focused eyes on screen, headphones on, organized desk, soft ambient glow",
+    "楽しさ": "bright colors, playful expression, dynamic pose, sparkle effects",
+    "挑戦": "character facing mountain, determined expression, clenched fist, sunrise background",
+    "つながり": "multiple characters together, hands reaching out, network visualization",
+
+    # テーマの変換
+    "不登校支援": "cozy home learning setup, gentle anime character at desk, warm room lighting, supportive atmosphere",
+    "プログラミング学習": "anime student at computer, code visualization floating in air, glowing screen, futuristic classroom",
+    "AI活用": "friendly robot assistant, holographic interface, collaboration scene, bright tech aesthetic",
+    "ビジネススキル": "young entrepreneur character, startup office, vision board, growth chart visualization",
+    "創造性": "artist character with floating ideas, colorful imagination clouds, creative workspace",
+    "コミュニティ": "diverse anime characters in circle, collaboration scene, shared workspace"
+}
+
+# ============================================
+# カテゴリ別アニメスタイル設定
+# ============================================
+CATEGORY_ANIME_STYLES = {
+    "announcement": {
+        "character_mood": "excited, energetic, welcoming",
+        "setting": "bright classroom entrance, open door with light",
+        "color_palette": "warm reds and oranges, inviting tones",
+        "illustration_focus": "anime character making announcement gesture",
+        "recommended_style": "japanese_anime"
+    },
+    "development": {
+        "character_mood": "proud, accomplished, creative",
+        "setting": "modern tech workspace, multiple monitors, code floating",
+        "color_palette": "cool blues and cyans, tech glow",
+        "illustration_focus": "student showing completed project on screen",
+        "recommended_style": "japanese_anime"
+    },
+    "activity": {
+        "character_mood": "happy, engaged, collaborative",
+        "setting": "classroom with students working together",
+        "color_palette": "fresh greens, natural tones",
+        "illustration_focus": "group learning scene, hands-on activity",
+        "recommended_style": "lofi_aesthetic"
+    },
+    "education": {
+        "character_mood": "thoughtful, curious, inspired",
+        "setting": "library or study room with warm lighting",
+        "color_palette": "warm oranges, sunset tones",
+        "illustration_focus": "parent and child or teacher explaining concept",
+        "recommended_style": "makoto_shinkai"
+    },
+    "ai_column": {
+        "character_mood": "amazed, curious, tech-savvy",
+        "setting": "futuristic space with AI visualization",
+        "color_palette": "purples and magentas, neon accents",
+        "illustration_focus": "character interacting with AI hologram",
+        "recommended_style": "japanese_anime"
+    },
+    "business": {
+        "character_mood": "confident, entrepreneurial, motivated",
+        "setting": "modern startup office, vision board background",
+        "color_palette": "gold and yellow, success tones",
+        "illustration_focus": "young entrepreneur with business ideas floating",
+        "recommended_style": "japanese_anime"
+    }
+}
+
+# ============================================
+# シーン別素材テンプレート
+# ============================================
+SCENE_MATERIAL_TEMPLATES = {
+    1: {  # 表紙
+        "role": "hook_attention",
+        "material_focus": "character_emotion_highlight",
+        "composition": "centered character, dynamic background, eye-catching pose",
+        "visual_weight": "80% character, 20% background elements"
+    },
+    2: {  # 内容1
+        "role": "problem_presentation",
+        "material_focus": "situation_illustration",
+        "composition": "character in context, showing challenge or question",
+        "visual_weight": "60% character, 40% environment"
+    },
+    3: {  # 内容2
+        "role": "solution_showcase",
+        "material_focus": "transformation_visual",
+        "composition": "character with solution elements, positive atmosphere",
+        "visual_weight": "50% character, 50% solution visualization"
+    },
+    4: {  # 内容3
+        "role": "action_inspiration",
+        "material_focus": "future_vision",
+        "composition": "character moving forward, path or door metaphor",
+        "visual_weight": "70% character, 30% directional elements"
+    }
 }
 
 # if塾ロゴ設定
@@ -36,7 +192,8 @@ LOGO_CONFIG = {
     },
     "logo_style": "モニターフレーム内にオレンジ色の「IF」ロゴ、立体的な縁取り",
     "placement": "bottom-right",  # 右下配置
-    "size": "small"               # 控えめなサイズ
+    "size": "small",              # 控えめなサイズ
+    "include_in_image": False     # 画像には含めず、フロントエンドで重ねる
 }
 
 # Instagram Image Sizes (2026 Recommended)
