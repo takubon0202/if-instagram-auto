@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 12,
-    "last_updated": "2026-01-07T17:59:55.188189",
+    "last_updated": "2026-01-07T18:12:17.855922",
     "categories": [
       "announcement",
       "development",
@@ -762,8 +762,8 @@
       "datetime": "2026-01-07T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "title": "生成AI活用アプリ (ChatGPT API連携)",
-      "caption": "生成AI活用アプリ (ChatGPT API連携)\n\n開発物をお届けします。\n\n担当: 山﨑琢己（講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
+      "title": "生成AI×Python活用事例 (ChatGPT/Claude連携)",
+      "caption": "生成AI×Python活用事例 (ChatGPT/Claude連携)\n\n開発物をお届けします。\n\n担当: 加賀屋結眞（講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
       "hashtags": [
         "#if塾",
         "#プログラミング",
@@ -777,22 +777,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-01.svg",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-01.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-02.svg",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-02.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.svg",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-04.svg",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-04.png",
           "alt": "シーン4"
         },
         {
@@ -803,16 +803,16 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "アプリ開発"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "kagaya_yuma",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
@@ -824,14 +824,14 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "生成AI活用アプリ (ChatGPT A",
+        "cover_text": "生成AI×Python活用事例 (Cha",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "生成AI活用アプリ (ChatGPT API連携)",
+            "headline": "生成AI×Python活用事例 (ChatGPT/Claude連携)",
             "subtext": "",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
