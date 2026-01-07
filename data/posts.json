@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 12,
-    "last_updated": "2026-01-07T18:37:50.695746",
+    "last_updated": "2026-01-07T20:27:49.159652",
     "categories": [
       "announcement",
       "development",
@@ -762,16 +762,17 @@
       "datetime": "2026-01-07T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "title": "高校生起業家・学生CEOの日常",
-      "caption": "高校生起業家・学生CEOの日常\n\n開発物をお届けします。\n\n担当: 高崎翔太（代表・講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
+      "title": "【保存版】ChatGPT APIで自分専用の「要約アプリ」作ってみた",
+      "caption": "こんにちは！if塾です。\n.\n今回は、最近話題の生成AIを活用して\n自分専用の「Web記事要約アプリ」を作ってみました！💻\n.\nニュースや技術ブログ、\n「あとで読む」に溜まってませんか？\n.\nChatGPT APIを使えば、\nURLをコピペするだけで\n要点をサクッとまとめてくれるツールが\n意外と簡単に作れちゃいます✨\n.\n【使った技術】\n・Python\n・LangChain\n・Streamlit\n.\nプログラミングを学ぶと、\n日々の「面倒くさい」を「便利」に変えられます。\n.\n皆さんはAIを使って\nどんなアプリを作ってみたいですか？\nコメントでアイデア教えてください！👇\n.\n-----------------------------\nif塾では実践的な開発スキルを\n未経験から学べる環境を提供中！\n詳細はプロフィールのリンクから🔗\n-----------------------------",
       "hashtags": [
         "#if塾",
+        "#生成AI",
+        "#ChatGPT",
         "#プログラミング",
-        "#アプリ開発",
-        "#生徒作品",
+        "#個人開発",
         "#Python",
-        "#JavaScript",
-        "#AIアプリ"
+        "#業務効率化",
+        "#エンジニア"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
@@ -787,7 +788,7 @@
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.svg",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.png",
           "alt": "シーン3"
         },
         {
@@ -825,15 +826,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "高校生起業家・学生CEOの日常",
+        "cover_text": "【保存版】ChatGPT APIで自分専",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "高校生起業家・学生CEOの日常",
-            "subtext": "",
+            "headline": "【保存版】ChatGPT APIで自分専用の「要約アプリ」作ってみた",
+            "subtext": "開発時間わずか3時間！業務効率化の決定版",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -841,8 +842,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "",
-            "subtext": "",
+            "headline": "長い文章を読むの、正直疲れませんか？",
+            "subtext": "ニュース記事、論文、会議のログ... 大量のテキストを目にする毎日。「要点だけ知りたいのに時間が足りない」その悩み、解消します。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -850,8 +851,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "",
-            "subtext": "",
+            "headline": "解決策：URLを貼るだけで3行要約！",
+            "subtext": "Python × Streamlit × ChatGPT APIを使用。リンクを渡すと、AIが中身を読んで大事なポイントだけを箇条書きにしてくれます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -859,8 +860,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "",
-            "subtext": "",
+            "headline": "情報収集のスピードが3倍にアップ！",
+            "subtext": "読む時間が減り、考える時間が増えました。自分好みのプロンプトに調整できるのも、自作アプリならではの強みです。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
