@@ -350,13 +350,14 @@ class ImageGenerationAgent:
     """
     画像生成エージェント
     Gemini 2.5 Flash Image (Nano Banana) で Instagram用画像を生成
-    5シーン構成対応
+    5シーン構成対応 - テキスト込みの完成画像を生成
     """
 
     def __init__(self, client: GeminiClient):
         self.client = client
         self.model = MODELS["image"]
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
+        self.max_retries = 3
 
     def generate_scene_image(
         self,
@@ -367,62 +368,185 @@ class ImageGenerationAgent:
     ) -> str:
         """
         シーン用画像を生成（Gemini 2.5 Flash Image）
+        テキストを含む完成したInstagram投稿画像を生成
 
         Args:
             post_id: 投稿ID
-            scene: シーン情報
+            scene: シーン情報（headline, subtext含む）
             category: カテゴリ情報
             size: 画像サイズ
         """
         if not self.client.is_available():
             raise Exception("Gemini client not available")
 
-        # Gemini 2.5 Flash Image用プロンプト
+        # シーンのテキスト情報を取得
+        headline = scene.get('headline', '') or scene.get('label', '')
+        subtext = scene.get('subtext', '')
+        scene_label = scene.get('label', '')
+        scene_purpose = scene.get('purpose', '')
+
+        # シーン別のデザインディレクション
+        scene_directions = self._get_scene_design_direction(scene, category)
+
+        # テキスト込み完成画像用プロンプト
         prompt = f"""
-Create an Instagram post background image for a programming school.
+Create a complete Instagram post image for "if塾" (a Japanese programming school).
 
-Style: {category['visual_style']}
-Category: {category['name']}
-Color scheme: Primary {category['colors']['primary']}, Secondary {category['colors']['secondary']}
-Scene: {scene.get('label', '')} - {scene.get('purpose', 'content slide')}
+【Image Type】
+Complete Instagram carousel slide with Japanese text rendered IN the image.
 
-Requirements:
-- Modern, clean design suitable for text overlay
-- Tech-inspired aesthetic with gradient backgrounds
-- Leave clear space in center for Japanese text overlay
-- No text, letters, or words in the image
-- Professional look for education/programming school
-- Aspect ratio: {size.get('ratio', '4:5')} ({size.get('width', 1080)}x{size.get('height', 1350)}px)
+【Category & Style】
+- Category: {category['name']}
+- Visual Style: {category['visual_style']}
+- Primary Color: {category['colors']['primary']}
+- Secondary Color: {category['colors']['secondary']}
+- Accent Color: {category['colors'].get('accent', '#FFFFFF')}
+
+【Scene Information】
+- Scene: {scene_label} (Scene {scene.get('scene_id', 1)} of 5)
+- Purpose: {scene_purpose}
+
+【Text Content - MUST be rendered in the image】
+Main Headline (大きく表示): {headline}
+Subtext (小さく表示): {subtext}
+
+【Design Requirements】
+{scene_directions}
+
+【Technical Specifications】
+- Aspect Ratio: 4:5 (Instagram standard)
+- Dimensions: {size.get('width', 1080)}x{size.get('height', 1350)} pixels
+- High quality, sharp text rendering
+- The text MUST be in Japanese and clearly readable
+- Use modern, clean typography
+- Include subtle brand element "if" or "if塾" in corner
+
+【Style Reference】
+- Professional Japanese Instagram marketing style
+- Gradient backgrounds with category colors
+- Clean, modern typography
+- Minimalist but impactful design
+- Text should be the main focus, not background elements
 """
 
-        try:
-            # Gemini 2.5 Flash Image API を使用
-            response = self.client.client.models.generate_content(
-                model=self.model,
-                contents=[prompt],
-            )
+        # リトライロジック付きで画像生成
+        last_error = None
+        for attempt in range(self.max_retries):
+            try:
+                response = self.client.client.models.generate_content(
+                    model=self.model,
+                    contents=[prompt],
+                )
 
-            # レスポンスから画像を抽出
-            for part in response.parts:
-                if part.text is not None:
-                    # テキストレスポンスはスキップ
-                    continue
-                elif part.inline_data is not None:
-                    # 画像データを保存
-                    image = part.as_image()
+                # レスポンスから画像を抽出
+                for part in response.parts:
+                    if part.text is not None:
+                        continue
+                    elif part.inline_data is not None:
+                        image = part.as_image()
 
-                    filename = f"{post_id}-{scene['scene_id']:02d}.png"
-                    output_path = self.output_dir / filename
-                    output_path.parent.mkdir(parents=True, exist_ok=True)
+                        filename = f"{post_id}-{scene['scene_id']:02d}.png"
+                        output_path = self.output_dir / filename
+                        output_path.parent.mkdir(parents=True, exist_ok=True)
 
-                    image.save(str(output_path))
+                        image.save(str(output_path))
+                        print(f"      [OK] Scene {scene['scene_id']}: {headline[:15]}...")
+                        return f"assets/img/posts/{filename}"
 
-                    return f"assets/img/posts/{filename}"
+                raise Exception("No image data in response")
 
-            raise Exception("No image data in response")
+            except Exception as e:
+                last_error = e
+                print(f"      [Retry {attempt + 1}/{self.max_retries}] {e}")
+                if attempt < self.max_retries - 1:
+                    import time
+                    time.sleep(2)  # リトライ前に少し待機
 
-        except Exception as e:
-            raise Exception(f"Image generation failed: {e}")
+        raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
+
+    def _get_scene_design_direction(self, scene: dict, category: dict) -> str:
+        """シーン別のデザインディレクションを取得"""
+        scene_id = scene.get('scene_id', 1)
+        scene_name = scene.get('scene_name', '')
+
+        directions = {
+            1: """
+- COVER SLIDE: Eye-catching, bold design
+- Headline should be LARGE and prominent (占める面積: 40%以上)
+- Use dramatic gradient background
+- Add subtle tech/programming visual elements
+- Include "if塾" brand mark
+- Create urgency/curiosity with design""",
+            2: """
+- CONTENT SLIDE 1: Problem/Introduction
+- Clear, readable layout
+- Headline should be prominent but not overwhelming
+- Use icons or simple illustrations to support text
+- Maintain brand colors as accents
+- Professional, educational feel""",
+            3: """
+- CONTENT SLIDE 2: Solution/Details
+- Informative, structured layout
+- Text should be easy to scan
+- Use visual hierarchy with headline and subtext
+- Include relevant visual metaphors (code, tech, learning)
+- Keep design consistent with slide 1""",
+            4: """
+- CONTENT SLIDE 3: Action/Conclusion
+- Compelling call-to-action design
+- Headline should inspire action
+- Include directional cues (arrows, pointing elements)
+- Maintain energy from cover slide
+- Lead viewer to next slide (thanks)"""
+        }
+
+        return directions.get(scene_id, directions[2])
+
+    def generate_complete_post_images(
+        self,
+        post_id: str,
+        content: dict,
+        category: dict,
+        size: dict
+    ) -> list:
+        """
+        コンテンツから5シーン全ての画像を一括生成
+
+        Args:
+            post_id: 投稿ID
+            content: ContentGenerationAgentからのコンテンツ
+            category: カテゴリ情報
+            size: 画像サイズ
+        """
+        scenes = [
+            {"scene_id": 1, "scene_name": "cover", "label": "表紙",
+             "headline": content.get("cover", {}).get("headline", ""),
+             "subtext": content.get("cover", {}).get("subtext", ""),
+             "purpose": "インパクト重視のタイトル"},
+            {"scene_id": 2, "scene_name": "content1", "label": "内容1",
+             "headline": content.get("content1", {}).get("headline", ""),
+             "subtext": content.get("content1", {}).get("subtext", ""),
+             "purpose": "概要・課題提示"},
+            {"scene_id": 3, "scene_name": "content2", "label": "内容2",
+             "headline": content.get("content2", {}).get("headline", ""),
+             "subtext": content.get("content2", {}).get("subtext", ""),
+             "purpose": "メリット・解決策"},
+            {"scene_id": 4, "scene_name": "content3", "label": "内容3",
+             "headline": content.get("content3", {}).get("headline", ""),
+             "subtext": content.get("content3", {}).get("subtext", ""),
+             "purpose": "詳細・提案"},
+        ]
+
+        image_paths = []
+        for scene in scenes:
+            try:
+                path = self.generate_scene_image(post_id, scene, category, size)
+                image_paths.append(path)
+            except Exception as e:
+                print(f"    Scene {scene['scene_id']} generation failed: {e}")
+                raise
+
+        return image_paths
 
 
 class ContentImprovementAgent:

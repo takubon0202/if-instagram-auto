@@ -38,9 +38,25 @@
 | エージェント | モデル | 機能 |
 |-------------|--------|------|
 | TrendResearchAgent | `gemini-3-pro-preview` | Google Search グラウンディングでリサーチ |
-| ContentGenerationAgent | `gemini-3-pro-preview` | 5シーンコンテンツ生成 |
-| ImageGenerationAgent | `gemini-2.5-flash-image` | Instagram画像生成（4:5, 1080×1350px） |
+| ContentGenerationAgent | `gemini-3-pro-preview` | 5シーンコンテンツ生成（テキスト・キャプション） |
+| ImageGenerationAgent | `gemini-2.5-flash-image` | **テキスト込み完成画像**を生成（4:5, 1080×1350px） |
 | ContentImprovementAgent | `gemini-2.5-flash` | パフォーマンス分析・改善 |
+
+### 画像生成フロー（Image-First Content）
+
+```
+1. TrendResearchAgent → トレンドトピック取得
+2. ContentGenerationAgent → 5シーンのテキスト生成
+3. ImageGenerationAgent → テキストを画像に埋め込んで生成
+   ├─ 成功: PNG画像（テキスト込み完成版）
+   └─ 失敗: SVGフォールバック（同等のテキスト表示）
+```
+
+**特徴:**
+- 画像がそのまま投稿コンテンツとして完成
+- 日本語テキストが画像内にレンダリング
+- リトライロジック（最大3回）で安定性向上
+- フォールバックSVGも完成度の高いデザイン
 
 ---
 

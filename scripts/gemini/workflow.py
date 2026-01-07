@@ -138,13 +138,18 @@ class InstagramWorkflowV2:
         return results
 
     def _plan_5scene_post(self, date: str, category_id: str, research: dict) -> dict:
-        """5シーン構成の投稿を企画"""
+        """5シーン構成の投稿を企画（AIコンテンツ生成含む）"""
         category = CATEGORIES[category_id]
         post_id = f"{date}-0900-{category_id}-carousel-01"
 
         # トレンドからトピックを選択
         topics = research.get("trending_topics", [])
         topic = topics[0] if topics else f"{category['name']}について"
+
+        # コンテンツ生成（ContentGenerationAgentを使用）
+        print("    [AI] コンテンツ生成中...")
+        content = self.content_agent.generate_5scene_content(category_id, topic)
+        print(f"    [OK] コンテンツ生成完了")
 
         # スタッフ画像を選択
         staff_suggestion = self.staff_agent.suggest_staff_for_post(category_id, topic)
@@ -161,14 +166,14 @@ class InstagramWorkflowV2:
             if image_path:
                 scene_staff_images[scene_name] = image_path
 
-        # 5シーン構成
+        # 5シーン構成（AIで生成したテキストを含む）
         scenes = [
             {
                 "scene_id": 1,
                 "scene_name": "cover",
                 "label": "表紙",
-                "headline": topic,
-                "subtext": "",
+                "headline": content.get("cover", {}).get("headline", topic),
+                "subtext": content.get("cover", {}).get("subtext", "if塾からお届け"),
                 "purpose": category["cover_format"],
                 "staff_image": scene_staff_images.get("cover")
             },
@@ -176,8 +181,8 @@ class InstagramWorkflowV2:
                 "scene_id": 2,
                 "scene_name": "content1",
                 "label": "内容1",
-                "headline": "",
-                "subtext": "",
+                "headline": content.get("content1", {}).get("headline", "こんな悩みありませんか？"),
+                "subtext": content.get("content1", {}).get("subtext", ""),
                 "purpose": category["content1_format"],
                 "staff_image": scene_staff_images.get("content1")
             },
@@ -185,8 +190,8 @@ class InstagramWorkflowV2:
                 "scene_id": 3,
                 "scene_name": "content2",
                 "label": "内容2",
-                "headline": "",
-                "subtext": "",
+                "headline": content.get("content2", {}).get("headline", "解決策をご紹介"),
+                "subtext": content.get("content2", {}).get("subtext", ""),
                 "purpose": category["content2_format"],
                 "staff_image": scene_staff_images.get("content2")
             },
@@ -194,8 +199,8 @@ class InstagramWorkflowV2:
                 "scene_id": 4,
                 "scene_name": "content3",
                 "label": "内容3",
-                "headline": "",
-                "subtext": "",
+                "headline": content.get("content3", {}).get("headline", "今すぐ始めよう"),
+                "subtext": content.get("content3", {}).get("subtext", ""),
                 "purpose": category["content3_format"],
                 "staff_image": scene_staff_images.get("content3")
             },
@@ -210,8 +215,9 @@ class InstagramWorkflowV2:
             }
         ]
 
-        # キャプション生成
-        caption = self._generate_caption(category, topic, staff_info)
+        # キャプション生成（AIで生成したものがあれば使用）
+        caption = content.get("caption") or self._generate_caption(category, topic, staff_info)
+        hashtags = content.get("hashtags", category["hashtags"][:10])
 
         return {
             "id": post_id,
@@ -219,10 +225,10 @@ class InstagramWorkflowV2:
             "type": "carousel",
             "category": category_id,
             "category_name": category["name"],
-            "title": topic,
+            "title": content.get("cover", {}).get("headline", topic),
             "scenes": scenes,
             "caption": caption,
-            "hashtags": category["hashtags"][:10],
+            "hashtags": hashtags if isinstance(hashtags, list) else category["hashtags"][:10],
             "cta_url": BRAND_CONFIG["url"],
             "colors": category["colors"],
             "visual_style": category["visual_style"],
@@ -231,7 +237,8 @@ class InstagramWorkflowV2:
                 "staff_id": selected_staff["id"] if selected_staff else None,
                 "image_type": staff_suggestion.get("image_type"),
                 "reason": staff_suggestion.get("reason")
-            }
+            },
+            "generated_content": content  # 生成されたコンテンツを保存
         }
 
     def _generate_5scene_images(self, post: dict, category: dict) -> list:
@@ -273,26 +280,63 @@ class InstagramWorkflowV2:
         return image_paths
 
     def _create_scene_placeholder(self, post: dict, scene: dict, category: dict) -> str:
-        """シーン用プレースホルダーSVGを作成"""
+        """シーン用プレースホルダーSVGを作成（テキスト込み完成版）"""
         filename = f"{post['id']}-{scene['scene_id']:02d}.svg"
         colors = category["colors"]
-        headline = scene.get("headline", scene["label"])[:20]
-        purpose = scene.get("purpose", "")[:30]
+        headline = scene.get("headline", scene["label"])
+        subtext = scene.get("subtext", "")
+        scene_id = scene.get("scene_id", 1)
+
+        # ヘッドラインが長い場合は複数行に分割
+        headline_lines = self._split_text_to_lines(headline, 12)
+        subtext_lines = self._split_text_to_lines(subtext, 20) if subtext else []
+
+        # シーン別のデザイン設定
+        scene_designs = {
+            1: {"title_size": 72, "bg_style": "cover", "brand_size": 60},
+            2: {"title_size": 56, "bg_style": "content", "brand_size": 40},
+            3: {"title_size": 56, "bg_style": "content", "brand_size": 40},
+            4: {"title_size": 56, "bg_style": "content", "brand_size": 40},
+            5: {"title_size": 48, "bg_style": "thanks", "brand_size": 80},
+        }
+        design = scene_designs.get(scene_id, scene_designs[2])
+
+        # ヘッドラインテキストを生成
+        headline_y_start = 400 if scene_id == 1 else 350
+        headline_texts = ""
+        for i, line in enumerate(headline_lines[:4]):  # 最大4行
+            y = headline_y_start + (i * (design["title_size"] + 20))
+            headline_texts += f'  <text x="540" y="{y}" text-anchor="middle" fill="{colors["text"]}" font-family="sans-serif" font-size="{design["title_size"]}" font-weight="bold">{self._escape_svg_text(line)}</text>\n'
+
+        # サブテキストを生成
+        subtext_y_start = headline_y_start + (len(headline_lines[:4]) * (design["title_size"] + 20)) + 60
+        subtext_texts = ""
+        for i, line in enumerate(subtext_lines[:3]):  # 最大3行
+            y = subtext_y_start + (i * 45)
+            subtext_texts += f'  <text x="540" y="{y}" text-anchor="middle" fill="{colors["text"]}" font-family="sans-serif" font-size="36" opacity="0.9">{self._escape_svg_text(line)}</text>\n'
 
         svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg{scene_id}" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:{colors['primary']};stop-opacity:1" />
       <stop offset="100%" style="stop-color:{colors['secondary']};stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect fill="url(#bg)" width="1080" height="1350"/>
-  <rect fill="{colors['accent']}" x="80" y="100" width="920" height="200" rx="20" opacity="0.9"/>
-  <text x="540" y="220" text-anchor="middle" fill="{colors['text']}" font-family="sans-serif" font-size="60" font-weight="bold">{headline}</text>
-  <text x="540" y="280" text-anchor="middle" fill="{colors['text']}" font-family="sans-serif" font-size="30" opacity="0.8">{purpose}</text>
-  <circle cx="540" cy="700" r="150" fill="white" opacity="0.2"/>
-  <text x="540" y="720" text-anchor="middle" fill="white" font-family="sans-serif" font-size="80" font-weight="bold">if塾</text>
-  <text x="540" y="1280" text-anchor="middle" fill="white" font-family="sans-serif" font-size="24" opacity="0.7">Scene {scene['scene_id']}: {scene['label']}</text>
+  <rect fill="url(#bg{scene_id})" width="1080" height="1350"/>
+
+  <!-- メインコンテンツエリア -->
+  <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
+
+  <!-- ヘッドライン -->
+{headline_texts}
+  <!-- サブテキスト -->
+{subtext_texts}
+  <!-- ブランドマーク -->
+  <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
+  <text x="540" y="1170" text-anchor="middle" fill="white" font-family="sans-serif" font-size="{design["brand_size"]}" font-weight="bold">if</text>
+
+  <!-- シーン番号 -->
+  <text x="540" y="1320" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="20">{scene['label']} ({scene_id}/5)</text>
 </svg>'''
 
         output_path = self.assets_dir / filename
@@ -302,6 +346,25 @@ class InstagramWorkflowV2:
             f.write(svg_content)
 
         return f"assets/img/posts/{filename}"
+
+    def _split_text_to_lines(self, text: str, max_chars: int) -> list:
+        """テキストを指定文字数で分割"""
+        if not text:
+            return []
+        lines = []
+        current_line = ""
+        for char in text:
+            current_line += char
+            if len(current_line) >= max_chars:
+                lines.append(current_line)
+                current_line = ""
+        if current_line:
+            lines.append(current_line)
+        return lines
+
+    def _escape_svg_text(self, text: str) -> str:
+        """SVG用にテキストをエスケープ"""
+        return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
     def _generate_caption(self, category: dict, topic: str, staff_info: dict = None) -> str:
         """キャプションを生成"""
