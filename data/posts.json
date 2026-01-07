@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 12,
-    "last_updated": "2026-01-07T21:19:04.089012",
+    "total_posts": 13,
+    "last_updated": "2026-01-07T21:35:20.716724",
     "categories": [
       "announcement",
       "development",
@@ -910,6 +910,293 @@
             "label": "内容3",
             "headline": "24時間いつでも話し放題！\n最強の壁打ち相手が完成",
             "subtext": "AI相手なら間違えても恥ずかしくないから、\n発話量が圧倒的に増えました。\n「欲しいものを自分で作る」\nプログラミングの醍醐味です！",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20260107_development",
+      "post_id": "20260107_development",
+      "created_at": "2026-01-07T21:35:20",
+      "datetime": "2026-01-07T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "2026年、アプリ開発の常識が変わる",
+      "target_audience": "Students & Parents",
+      "title": "2026年、アプリ開発の常識が変わる",
+      "caption": "【2026年1月】AIネイティブ時代の到来📱✨\n\nあけましておめでとうございます！if塾です。\n\n2026年1月現在、プログラミング教育の現場は大きな転換期を迎えています。\n\nもはや「コードを書いて機能を実装する」だけでは足りません。\n生成AIがOSレベルで統合された今、求められているのは\n「AIといかに協働して、新しい体験を作るか」\nという視点です。\n\n今月のif塾生たちの開発テーマは『AI Native Apps』。\n\n・画面をタップせずとも動く\n・ユーザーの文脈を理解する\n・使うほどに自分専用に進化する\n\nそんな魔法のようなアプリが、教室から次々と生まれています。\n\n「プログラミングはAIに奪われる」\nそんな心配をよそに、子供たちはAIを使いこなし、\n創造力の翼を広げています。\n\n2026年のif塾も、テクノロジーで未来を切り拓く\nすべての学生を全力でサポートします！\n\n体験授業のお申し込みはプロフィールのリンクから🔗\n\n#if塾 #2026年 #生成AI #AIネイティブ #プログラミング教育 #アプリ開発 #最新テクノロジー #高校生エンジニア #教育ママ #未来の教育",
+      "caption_text": "【2026年1月】AIネイティブ時代の到来📱✨\n\nあけましておめでとうございます！if塾です。\n\n2026年1月現在、プログラミング教育の現場は大きな転換期を迎えています。\n\nもはや「コードを書いて機能を実装する」だけでは足りません。\n生成AIがOSレベルで統合された今、求められているのは\n「AIといかに協働して、新しい体験を作るか」\nという視点です。\n\n今月のif塾生たちの開発テーマは『AI Native Apps』。\n\n・画面をタップせずとも動く\n・ユーザーの文脈を理解する\n・使うほどに自分専用に進化する\n\nそんな魔法のようなアプリが、教室から次々と生まれています。\n\n「プログラミングはAIに奪われる」\nそんな心配をよそに、子供たちはAIを使いこなし、\n創造力の翼を広げています。\n\n2026年のif塾も、テクノロジーで未来を切り拓く\nすべての学生を全力でサポートします！\n\n体験授業のお申し込みはプロフィールのリンクから🔗\n\n#if塾 #2026年 #生成AI #AIネイティブ #プログラミング教育 #アプリ開発 #最新テクノロジー #高校生エンジニア #教育ママ #未来の教育",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#AIネイティブ",
+        "#プログラミング教育",
+        "#アプリ開発"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、アプリ開発の常識が変わる",
+          "sub_title": "1月の最新開発レポート｜AIネイティブ",
+          "text_content": "2026年、アプリ開発の常識が変わる",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-01.png",
+          "image_file": "assets/img/posts/20260107_development-01.png",
+          "overlay_text": "2026年、アプリ開発の常識が変わる",
+          "subtext": "1月の最新開発レポート｜AIネイティブ",
+          "alt": "表紙 - 2026年、アプリ開発の常識が変わる"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ボタン」が消える未来？",
+          "sub_title": "従来のアプリは人間が操作を覚える必要がありました。しかし2026年現在、if塾生が目指すのは「空気を読む」UI。ユーザーが何もしなくても、AIが先回りして必要な情報を出す。そんな課題に挑んでいます。",
+          "text_content": "「ボタン」が消える未来？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-02.png",
+          "image_file": "assets/img/posts/20260107_development-02.png",
+          "overlay_text": "「ボタン」が消える未来？",
+          "subtext": "従来のアプリは人間が操作を覚える必要がありました。しかし2026年現在、if塾生が目指すのは「空気を読む」UI。ユーザーが何もしなくても、AIが先回りして必要な情報を出す。そんな課題に挑んでいます。",
+          "alt": "内容1 - 「ボタン」が消える未来？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "会話だけでアプリが動く",
+          "sub_title": "最新のマルチモーダルAIを活用し、学生たちは「音声」と「カメラ」主体のアプリを開発中。例えば、机に向かうだけで集中モードに入り、つまづいた表情を検知してヒントを出す学習アプリが誕生しました。",
+          "text_content": "会話だけでアプリが動く",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-03.png",
+          "image_file": "assets/img/posts/20260107_development-03.png",
+          "overlay_text": "会話だけでアプリが動く",
+          "subtext": "最新のマルチモーダルAIを活用し、学生たちは「音声」と「カメラ」主体のアプリを開発中。例えば、机に向かうだけで集中モードに入り、つまづいた表情を検知してヒントを出す学習アプリが誕生しました。",
+          "alt": "内容2 - 会話だけでアプリが動く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "技術より「共感」の時代へ",
+          "sub_title": "コード生成がAIに代替された今、if塾で最も評価されるのは「人の痛みがわかること」。技術的な実装力以上に、誰のために、なぜAIを使うのかという「企画の解像度」が劇的に高まっています。",
+          "text_content": "技術より「共感」の時代へ",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-04.png",
+          "image_file": "assets/img/posts/20260107_development-04.png",
+          "overlay_text": "技術より「共感」の時代へ",
+          "subtext": "コード生成がAIに代替された今、if塾で最も評価されるのは「人の痛みがわかること」。技術的な実装力以上に、誰のために、なぜAIを使うのかという「企画の解像度」が劇的に高まっています。",
+          "alt": "内容3 - 技術より「共感」の時代へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、アプリ開発の常識が変わる",
+          "sub_title": "1月の最新開発レポート｜AIネイティブ",
+          "text_content": "2026年、アプリ開発の常識が変わる",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-01.png",
+          "image_file": "assets/img/posts/20260107_development-01.png",
+          "overlay_text": "2026年、アプリ開発の常識が変わる",
+          "subtext": "1月の最新開発レポート｜AIネイティブ",
+          "alt": "表紙 - 2026年、アプリ開発の常識が変わる"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ボタン」が消える未来？",
+          "sub_title": "従来のアプリは人間が操作を覚える必要がありました。しかし2026年現在、if塾生が目指すのは「空気を読む」UI。ユーザーが何もしなくても、AIが先回りして必要な情報を出す。そんな課題に挑んでいます。",
+          "text_content": "「ボタン」が消える未来？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-02.png",
+          "image_file": "assets/img/posts/20260107_development-02.png",
+          "overlay_text": "「ボタン」が消える未来？",
+          "subtext": "従来のアプリは人間が操作を覚える必要がありました。しかし2026年現在、if塾生が目指すのは「空気を読む」UI。ユーザーが何もしなくても、AIが先回りして必要な情報を出す。そんな課題に挑んでいます。",
+          "alt": "内容1 - 「ボタン」が消える未来？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "会話だけでアプリが動く",
+          "sub_title": "最新のマルチモーダルAIを活用し、学生たちは「音声」と「カメラ」主体のアプリを開発中。例えば、机に向かうだけで集中モードに入り、つまづいた表情を検知してヒントを出す学習アプリが誕生しました。",
+          "text_content": "会話だけでアプリが動く",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-03.png",
+          "image_file": "assets/img/posts/20260107_development-03.png",
+          "overlay_text": "会話だけでアプリが動く",
+          "subtext": "最新のマルチモーダルAIを活用し、学生たちは「音声」と「カメラ」主体のアプリを開発中。例えば、机に向かうだけで集中モードに入り、つまづいた表情を検知してヒントを出す学習アプリが誕生しました。",
+          "alt": "内容2 - 会話だけでアプリが動く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "技術より「共感」の時代へ",
+          "sub_title": "コード生成がAIに代替された今、if塾で最も評価されるのは「人の痛みがわかること」。技術的な実装力以上に、誰のために、なぜAIを使うのかという「企画の解像度」が劇的に高まっています。",
+          "text_content": "技術より「共感」の時代へ",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260107_development-04.png",
+          "image_file": "assets/img/posts/20260107_development-04.png",
+          "overlay_text": "技術より「共感」の時代へ",
+          "subtext": "コード生成がAIに代替された今、if塾で最も評価されるのは「人の痛みがわかること」。技術的な実装力以上に、誰のために、なぜAIを使うのかという「企画の解像度」が劇的に高まっています。",
+          "alt": "内容3 - 技術より「共感」の時代へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260107_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260107_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260107_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260107_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-07T21:33:53",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年、アプリ開発の常識が変わる",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年、アプリ開発の常識が変わる",
+            "subtext": "1月の最新開発レポート｜AIネイティブ",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「ボタン」が消える未来？",
+            "subtext": "従来のアプリは人間が操作を覚える必要がありました。しかし2026年現在、if塾生が目指すのは「空気を読む」UI。ユーザーが何もしなくても、AIが先回りして必要な情報を出す。そんな課題に挑んでいます。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "会話だけでアプリが動く",
+            "subtext": "最新のマルチモーダルAIを活用し、学生たちは「音声」と「カメラ」主体のアプリを開発中。例えば、机に向かうだけで集中モードに入り、つまづいた表情を検知してヒントを出す学習アプリが誕生しました。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "技術より「共感」の時代へ",
+            "subtext": "コード生成がAIに代替された今、if塾で最も評価されるのは「人の痛みがわかること」。技術的な実装力以上に、誰のために、なぜAIを使うのかという「企画の解像度」が劇的に高まっています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
