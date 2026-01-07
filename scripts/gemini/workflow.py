@@ -1,11 +1,14 @@
 """
-Gemini統合ワークフロー
-if(塾) Instagram自動投稿のメインワークフロー
+Gemini統合ワークフロー v2.0
+if塾 Instagram自動投稿システム
+
+6カテゴリ × 5シーン構成
+- 表紙 → 内容1 → 内容2 → 内容3 → サンクス
 
 使用方法:
-    python -m scripts.gemini.workflow daily
-    python -m scripts.gemini.workflow research
-    python -m scripts.gemini.workflow improve --post-id <POST_ID>
+    python -m scripts.gemini.workflow daily --date 2026-01-08
+    python -m scripts.gemini.workflow research --category ai_column
+    python -m scripts.gemini.workflow generate --category development --topic "AIチャットボット"
 """
 import argparse
 import json
@@ -21,109 +24,99 @@ from scripts.gemini.client import (
     GeminiClient,
     TrendResearchAgent,
     ImageGenerationAgent,
-    ContentImprovementAgent
+    ContentImprovementAgent,
+    ContentGenerationAgent
 )
 from scripts.gemini.config import (
     BRAND_CONFIG,
     IMAGE_SIZES,
+    CATEGORIES,
+    WEEKLY_SCHEDULE,
+    POSTING_TIMES,
+    THANKS_IMAGE,
+    SCENE_STRUCTURE,
     RESEARCH_CONFIG
 )
 
 
-class InstagramWorkflow:
+class InstagramWorkflowV2:
     """
-    Instagram投稿ワークフロー
-    Gemini APIを活用した自動コンテンツ生成
+    Instagram投稿ワークフロー v2.0
+    6カテゴリ × 5シーン構成
     """
 
     def __init__(self, api_key: str = None):
         self.client = GeminiClient(api_key)
         self.research_agent = TrendResearchAgent(self.client)
         self.image_agent = ImageGenerationAgent(self.client)
+        self.content_agent = ContentGenerationAgent(self.client)
         self.improvement_agent = ContentImprovementAgent(self.client)
 
         self.data_dir = Path(__file__).parent.parent.parent / "data"
         self.output_dir = Path(__file__).parent.parent.parent / "scripts"
+        self.assets_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
+
+    def get_category_for_date(self, date_str: str) -> str:
+        """指定日付のカテゴリを取得"""
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+        weekday = date_obj.weekday()
+        return WEEKLY_SCHEDULE.get(weekday, "activity")
 
     def run_daily_workflow(self, date: str = None) -> dict:
         """
         毎日のワークフローを実行
-
-        Args:
-            date: 対象日付（YYYY-MM-DD形式）
-
-        Returns:
-            生成結果
+        5シーン構成のカルーセル投稿を生成
         """
         date = date or datetime.now().strftime("%Y-%m-%d")
-        day_of_week = self._get_day_of_week(date)
+        category_id = self.get_category_for_date(date)
+        category = CATEGORIES[category_id]
+        day_names = ["月", "火", "水", "木", "金", "土", "日"]
+        day_of_week = day_names[datetime.strptime(date, "%Y-%m-%d").weekday()]
 
-        print(f"\n{'='*50}")
-        print(f"  if(塾) Daily Workflow - {date} ({day_of_week})")
-        print(f"{'='*50}\n")
+        print(f"\n{'='*60}")
+        print(f"  if塾 Daily Workflow v2.0 - {date} ({day_of_week})")
+        print(f"  カテゴリ: {category['name']}")
+        print(f"{'='*60}\n")
 
         results = {
             "date": date,
             "day_of_week": day_of_week,
-            "research": {},
+            "category": category_id,
+            "category_name": category["name"],
             "posts": [],
-            "images": [],
             "status": "success"
         }
 
         # Step 1: トレンドリサーチ
         print("[Step 1/5] トレンドリサーチ...")
         try:
-            juku_trends = self.research_agent.research_instagram_trends("juku")
-            biz_trends = self.research_agent.research_instagram_trends("business")
-            realtime_trends = self.research_agent.get_realtime_trends()
-
-            results["research"] = {
-                "juku": juku_trends,
-                "business": biz_trends,
-                "realtime": realtime_trends
-            }
-            print("  [OK] リサーチ完了")
+            trends = self.research_agent.research_category_trends(category_id)
+            results["research"] = trends
+            print(f"  [OK] {category['name']}のトレンド取得完了")
         except Exception as e:
             print(f"  [NG] リサーチエラー: {e}")
             results["research"] = {"error": str(e)}
 
-        # Step 2: コンテンツ企画
-        print("\n[Step 2/5] コンテンツ企画...")
-        posts = self._plan_daily_content(date, day_of_week, results["research"])
-        results["posts"] = posts
-        print(f"  [OK] {len(posts)}件の投稿を企画")
+        # Step 2: コンテンツ企画（5シーン構成）
+        print("\n[Step 2/5] コンテンツ企画（5シーン構成）...")
+        post = self._plan_5scene_post(date, category_id, results.get("research", {}))
+        results["posts"].append(post)
+        print(f"  [OK] 投稿企画完了: {post['title']}")
 
-        # Step 3: 画像生成
+        # Step 3: 画像生成（4枚 + サンクス画像）
         print("\n[Step 3/5] 画像生成...")
-        for i, post in enumerate(posts):
-            print(f"  投稿 {i+1}/{len(posts)}: {post['title']}")
-            try:
-                if post["type"] == "carousel":
-                    image_paths = self.image_agent.generate_carousel_images(
-                        post["id"],
-                        post.get("slides", []),
-                        "feed_portrait"  # 4:5 推奨
-                    )
-                    post["generated_images"] = image_paths
-                elif post["type"] == "reel":
-                    thumb_path = self.image_agent.generate_reel_thumbnail(
-                        post["id"],
-                        post,
-                        "reel_story"  # 9:16
-                    )
-                    post["generated_images"] = [thumb_path]
-
-                results["images"].extend(post.get("generated_images", []))
-                print(f"    [OK] {len(post.get('generated_images', []))}枚生成")
-            except Exception as e:
-                print(f"    [NG] 画像生成エラー: {e}")
-                post["generated_images"] = []
+        try:
+            image_paths = self._generate_5scene_images(post, category)
+            post["generated_images"] = image_paths
+            print(f"  [OK] {len(image_paths)}枚生成（サンクス画像含む）")
+        except Exception as e:
+            print(f"  [NG] 画像生成エラー: {e}")
+            post["generated_images"] = self._create_fallback_images(post, category)
 
         # Step 4: データ更新
         print("\n[Step 4/5] データ更新...")
         try:
-            self._update_posts_json(posts)
+            self._update_posts_json([post])
             print("  [OK] posts.json 更新完了")
         except Exception as e:
             print(f"  [NG] データ更新エラー: {e}")
@@ -134,296 +127,211 @@ class InstagramWorkflow:
         report_path = self._generate_daily_report(date, results)
         print(f"  [OK] レポート保存: {report_path}")
 
-        print(f"\n{'='*50}")
+        print(f"\n{'='*60}")
         print(f"  ワークフロー完了: {results['status']}")
-        print(f"{'='*50}\n")
+        print(f"{'='*60}\n")
 
         return results
 
-    def run_research_only(self, track: str = "both") -> dict:
-        """
-        リサーチのみ実行
+    def _plan_5scene_post(self, date: str, category_id: str, research: dict) -> dict:
+        """5シーン構成の投稿を企画"""
+        category = CATEGORIES[category_id]
+        post_id = f"{date}-0900-{category_id}-carousel-01"
 
-        Args:
-            track: "juku", "business", or "both"
-        """
-        print("\n[Research Mode]")
-        results = {}
+        # トレンドからトピックを選択
+        topics = research.get("trending_topics", [])
+        topic = topics[0] if topics else f"{category['name']}について"
 
-        if track in ["juku", "both"]:
-            print("塾向けトレンドリサーチ中...")
-            results["juku"] = self.research_agent.research_instagram_trends("juku")
-
-        if track in ["business", "both"]:
-            print("企業向けトレンドリサーチ中...")
-            results["business"] = self.research_agent.research_instagram_trends("business")
-
-        print("リアルタイムトレンド取得中...")
-        results["realtime"] = self.research_agent.get_realtime_trends()
-
-        print("\n競合分析中...")
-        results["competitor"] = self.research_agent.analyze_competitor_posts()
-
-        # 結果を保存
-        output_path = self.output_dir / "research_results.json"
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(results, f, ensure_ascii=False, indent=2)
-
-        print(f"\nリサーチ結果を保存: {output_path}")
-        return results
-
-    def run_improvement_analysis(self, post_id: str, metrics: dict = None) -> dict:
-        """
-        投稿改善分析を実行
-
-        Args:
-            post_id: 分析対象の投稿ID
-            metrics: パフォーマンス指標
-        """
-        print(f"\n[Improvement Analysis] Post: {post_id}")
-
-        # 投稿データを取得
-        posts_data = self._load_posts_json()
-        post = next((p for p in posts_data.get("posts", []) if p["id"] == post_id), None)
-
-        if not post:
-            print(f"投稿が見つかりません: {post_id}")
-            return {"error": "Post not found"}
-
-        metrics = metrics or {}
-
-        # パフォーマンス分析
-        print("パフォーマンス分析中...")
-        analysis = self.improvement_agent.analyze_post_performance(post, metrics)
-
-        # 改善提案
-        print("改善提案生成中...")
-        suggestions = self.improvement_agent.suggest_improvements(post)
-
-        results = {
-            "post_id": post_id,
-            "analysis": analysis,
-            "suggestions": suggestions,
-            "timestamp": datetime.now().isoformat()
-        }
-
-        # 結果を保存
-        output_path = self.output_dir / f"improvement_{post_id}.json"
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(results, f, ensure_ascii=False, indent=2)
-
-        print(f"\n分析結果を保存: {output_path}")
-        return results
-
-    def _plan_daily_content(self, date: str, day_of_week: str, research: dict) -> list:
-        """日次コンテンツを企画"""
-        posts = []
-
-        # 週次テーママッピング
-        juku_themes = {
-            "月": "安心・居場所",
-            "火": "学習のハードルを下げる",
-            "水": "保護者向け（声かけ）",
-            "木": "AI/ITスキル",
-            "金": "無料体験の背中押し",
-            "土": "FAQ",
-            "日": "まとめ"
-        }
-
-        biz_themes = {
-            "月": "研修の失敗パターン",
-            "水": "ワークフロー設計",
-            "金": "LP改善チェック",
-        }
-
-        # リサーチ結果から推奨フックを取得
-        juku_hooks = research.get("juku", {}).get("recommended_hooks", [])
-        biz_hooks = research.get("business", {}).get("recommended_hooks", [])
-
-        # 09:00 - 塾向けカルーセル
-        posts.append(self._create_post_plan(
-            date=date,
-            slot="0900",
-            track="juku",
-            post_type="carousel",
-            theme=juku_themes.get(day_of_week, "安心・居場所"),
-            hooks=juku_hooks,
-            research=research.get("juku", {})
-        ))
-
-        # 12:30 - 企業向けカルーセル
-        posts.append(self._create_post_plan(
-            date=date,
-            slot="1230",
-            track="business",
-            post_type="carousel",
-            theme=biz_themes.get(day_of_week, "AI活用"),
-            hooks=biz_hooks,
-            research=research.get("business", {})
-        ))
-
-        # 20:00 - 塾向けリール
-        posts.append(self._create_post_plan(
-            date=date,
-            slot="2000",
-            track="juku",
-            post_type="reel",
-            theme=juku_themes.get(day_of_week, "共感・安心"),
-            hooks=juku_hooks,
-            research=research.get("juku", {})
-        ))
-
-        return posts
-
-    def _create_post_plan(
-        self,
-        date: str,
-        slot: str,
-        track: str,
-        post_type: str,
-        theme: str,
-        hooks: list,
-        research: dict
-    ) -> dict:
-        """投稿企画を作成"""
-        track_short = "biz" if track == "business" else track
-        post_id = f"{date}-{slot}-{track_short}-{post_type}-01"
-
-        # フックを選択（リサーチ結果から or デフォルト）
-        hook = hooks[0] if hooks else f"{theme}について"
-
-        # スライド構成（カルーセルの場合）
-        slides = []
-        if post_type == "carousel":
-            num_slides = 7 if track == "juku" else 6
-            slides = [
-                {"number": 1, "type": "hook", "headline": hook, "subtext": ""},
-                {"number": 2, "type": "problem", "headline": "こんな悩みありませんか？", "subtext": ""},
-            ]
-            for i in range(3, num_slides):
-                slides.append({
-                    "number": i,
-                    "type": "solution",
-                    "headline": f"ポイント{i-2}",
-                    "subtext": ""
-                })
-            slides.append({
-                "number": num_slides,
-                "type": "cta",
-                "headline": "詳しくはこちら",
-                "subtext": "if-juku.net"
-            })
-
-        # リール台本（リールの場合）
-        reel_script = None
-        if post_type == "reel":
-            reel_script = {
-                "duration": 15,
-                "sections": [
-                    {"timestamp": "0:00-0:01", "text_overlay": hook},
-                    {"timestamp": "0:01-0:04", "text_overlay": "（問題提起）"},
-                    {"timestamp": "0:04-0:08", "text_overlay": "（視点転換）"},
-                    {"timestamp": "0:08-0:12", "text_overlay": "（解決策）"},
-                    {"timestamp": "0:12-0:15", "text_overlay": "if-juku.net"},
-                ]
+        # 5シーン構成
+        scenes = [
+            {
+                "scene_id": 1,
+                "scene_name": "cover",
+                "label": "表紙",
+                "headline": topic,
+                "subtext": "",
+                "purpose": category["cover_format"]
+            },
+            {
+                "scene_id": 2,
+                "scene_name": "content1",
+                "label": "内容1",
+                "headline": "",
+                "subtext": "",
+                "purpose": category["content1_format"]
+            },
+            {
+                "scene_id": 3,
+                "scene_name": "content2",
+                "label": "内容2",
+                "headline": "",
+                "subtext": "",
+                "purpose": category["content2_format"]
+            },
+            {
+                "scene_id": 4,
+                "scene_name": "content3",
+                "label": "内容3",
+                "headline": "",
+                "subtext": "",
+                "purpose": category["content3_format"]
+            },
+            {
+                "scene_id": 5,
+                "scene_name": "thanks",
+                "label": "サンクス",
+                "headline": "いつもありがとうございます！",
+                "subtext": "詳細はプロフィール欄から",
+                "purpose": "アクション誘導",
+                "fixed_image": THANKS_IMAGE
             }
+        ]
 
-        # ハッシュタグ
-        base_hashtags = RESEARCH_CONFIG["instagram_hashtags"].get(track, [])
-        trending_topics = research.get("trending_topics", [])
+        # キャプション生成
+        caption = self._generate_caption(category, topic)
 
         return {
             "id": post_id,
-            "datetime": f"{date}T{slot[:2]}:{slot[2:]}:00+09:00",
-            "type": post_type,
-            "track": track,
-            "title": f"{theme}（{date}）",
-            "theme": theme,
-            "hook": hook,
-            "slides": slides,
-            "reel_script": reel_script,
-            "caption": self._generate_caption(track, theme, hook),
-            "hashtags": base_hashtags[:10],
-            "cta_url": "https://if-juku.net/",
-            "highlight": "保護者向け" if track == "juku" else "企業研修",
-            "research_insights": {
-                "trending_topics": trending_topics[:3],
-                "recommended_content": research.get("content_recommendations", [])[:2]
-            }
+            "datetime": f"{date}T09:00:00+09:00",
+            "type": "carousel",
+            "category": category_id,
+            "category_name": category["name"],
+            "title": topic,
+            "scenes": scenes,
+            "caption": caption,
+            "hashtags": category["hashtags"][:10],
+            "cta_url": BRAND_CONFIG["url"],
+            "colors": category["colors"],
+            "visual_style": category["visual_style"]
         }
 
-    def _generate_caption(self, track: str, theme: str, hook: str) -> str:
+    def _generate_5scene_images(self, post: dict, category: dict) -> list:
+        """5シーン分の画像を生成"""
+        image_paths = []
+        size = IMAGE_SIZES["feed_portrait"]
+
+        for scene in post["scenes"]:
+            if scene.get("fixed_image"):
+                # サンクス画像は固定
+                image_paths.append(scene["fixed_image"])
+            else:
+                # 各シーンの画像を生成
+                try:
+                    path = self.image_agent.generate_scene_image(
+                        post_id=post["id"],
+                        scene=scene,
+                        category=category,
+                        size=size
+                    )
+                    image_paths.append(path)
+                except Exception as e:
+                    print(f"    Scene {scene['scene_id']} error: {e}")
+                    # フォールバック
+                    fallback = self._create_scene_placeholder(post, scene, category)
+                    image_paths.append(fallback)
+
+        return image_paths
+
+    def _create_fallback_images(self, post: dict, category: dict) -> list:
+        """フォールバック画像を作成"""
+        image_paths = []
+        for scene in post["scenes"]:
+            if scene.get("fixed_image"):
+                image_paths.append(scene["fixed_image"])
+            else:
+                path = self._create_scene_placeholder(post, scene, category)
+                image_paths.append(path)
+        return image_paths
+
+    def _create_scene_placeholder(self, post: dict, scene: dict, category: dict) -> str:
+        """シーン用プレースホルダーSVGを作成"""
+        filename = f"{post['id']}-{scene['scene_id']:02d}.svg"
+        colors = category["colors"]
+        headline = scene.get("headline", scene["label"])[:20]
+        purpose = scene.get("purpose", "")[:30]
+
+        svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:{colors['primary']};stop-opacity:1" />
+      <stop offset="100%" style="stop-color:{colors['secondary']};stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg)" width="1080" height="1350"/>
+  <rect fill="{colors['accent']}" x="80" y="100" width="920" height="200" rx="20" opacity="0.9"/>
+  <text x="540" y="220" text-anchor="middle" fill="{colors['text']}" font-family="sans-serif" font-size="60" font-weight="bold">{headline}</text>
+  <text x="540" y="280" text-anchor="middle" fill="{colors['text']}" font-family="sans-serif" font-size="30" opacity="0.8">{purpose}</text>
+  <circle cx="540" cy="700" r="150" fill="white" opacity="0.2"/>
+  <text x="540" y="720" text-anchor="middle" fill="white" font-family="sans-serif" font-size="80" font-weight="bold">if塾</text>
+  <text x="540" y="1280" text-anchor="middle" fill="white" font-family="sans-serif" font-size="24" opacity="0.7">Scene {scene['scene_id']}: {scene['label']}</text>
+</svg>'''
+
+        output_path = self.assets_dir / filename
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(svg_content)
+
+        return f"assets/img/posts/{filename}"
+
+    def _generate_caption(self, category: dict, topic: str) -> str:
         """キャプションを生成"""
-        if track == "juku":
-            caption = f"""{hook}
+        caption = f"""{topic}
 
-{theme}について、今日はお伝えします。
+{category['name']}をお届けします。
 
-お子さまのペースを大切に、
-一緒に考えていきましょう。
+---
 
-※お子さまの状況は一人ひとり異なります。
-必要に応じて専門家へのご相談もご検討ください。
+いつもご覧いただきありがとうございます！
+if塾では、子どもの可能性を最大限に発揮する
+プログラミング教育を提供しています。
 
-▼ 無料体験・ご相談は
-if-juku.net"""
-        else:
-            caption = f"""{hook}
+詳細・お申し込みはプロフィール欄から！
 
-{theme}について解説します。
-
-御社の課題に合わせた
-具体的なご提案をいたします。
-
-▼ 無料相談のご予約は
-if-juku.net"""
+{' '.join(category['hashtags'][:10])}"""
 
         return caption
 
-    def _load_posts_json(self) -> dict:
-        """posts.jsonを読み込み"""
-        posts_path = self.data_dir / "posts.json"
-        if posts_path.exists():
-            with open(posts_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        return {"posts": []}
-
     def _update_posts_json(self, new_posts: list):
         """posts.jsonを更新"""
-        data = self._load_posts_json()
+        posts_path = self.data_dir / "posts.json"
+
+        if posts_path.exists():
+            with open(posts_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        else:
+            data = {"posts": []}
 
         for post in new_posts:
-            # 既存の投稿を削除（同じIDがあれば）
+            # 既存の投稿を削除
             data["posts"] = [p for p in data["posts"] if p["id"] != post["id"]]
 
-            # 投稿データを整形
+            # 新しい投稿データを整形
             post_data = {
                 "id": post["id"],
                 "datetime": post["datetime"],
                 "type": post["type"],
-                "track": post["track"],
+                "category": post["category"],
                 "title": post["title"],
                 "caption": post["caption"],
                 "hashtags": post["hashtags"],
                 "cta_url": post["cta_url"],
                 "media": [
-                    {"kind": "image", "src": img, "alt": f"スライド{i+1}"}
+                    {"kind": "image", "src": img, "alt": f"シーン{i+1}"}
                     for i, img in enumerate(post.get("generated_images", []))
-                ] or [{"kind": "image", "src": f"assets/img/posts/{post['id']}.svg", "alt": post["title"]}],
-                "highlight": post["highlight"],
+                ],
+                "highlight": post["category_name"],
                 "notes_for_instagram": {
-                    "cover_text": post.get("hook", "")[:20],
+                    "cover_text": post["title"][:20],
                     "first_comment": "詳細は if-juku.net から",
-                    "reel_script": json.dumps(post.get("reel_script"), ensure_ascii=False) if post.get("reel_script") else None
+                    "scenes": post.get("scenes", [])
                 }
             }
             data["posts"].append(post_data)
 
         # 日時でソート
-        data["posts"].sort(key=lambda x: x["datetime"])
+        data["posts"].sort(key=lambda x: x["datetime"], reverse=True)
 
-        # 保存
-        posts_path = self.data_dir / "posts.json"
         with open(posts_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -438,28 +346,31 @@ if-juku.net"""
 
 ## サマリー
 - ステータス: {results['status']}
+- カテゴリ: {results['category_name']}
 - 生成投稿数: {len(results['posts'])}
-- 生成画像数: {len(results['images'])}
+
+## 5シーン構成
+| シーン | ラベル | 内容 |
+|--------|--------|------|
+| 1 | 表紙 | インパクト重視のタイトル |
+| 2 | 内容1 | 概要・課題提示 |
+| 3 | 内容2 | メリット・解決策 |
+| 4 | 内容3 | 詳細・提案 |
+| 5 | サンクス | アクション誘導（固定画像） |
 
 ## リサーチ結果
-
-### 塾向けトレンド
-{json.dumps(results['research'].get('juku', {}), ensure_ascii=False, indent=2)}
-
-### 企業向けトレンド
-{json.dumps(results['research'].get('business', {}), ensure_ascii=False, indent=2)}
+```json
+{json.dumps(results.get('research', {}), ensure_ascii=False, indent=2)}
+```
 
 ## 生成された投稿
-
 """
-        for i, post in enumerate(results['posts'], 1):
-            report_content += f"""### {i}. {post['title']}
+        for post in results['posts']:
+            report_content += f"""
+### {post['title']}
 - ID: {post['id']}
-- タイプ: {post['type']}
-- トラック: {post['track']}
-- フック: {post.get('hook', 'N/A')}
-- 画像: {len(post.get('generated_images', []))}枚
-
+- カテゴリ: {post['category_name']}
+- 画像数: {len(post.get('generated_images', []))}枚（サンクス画像含む）
 """
 
         report_content += f"""
@@ -478,39 +389,54 @@ Generated at: {datetime.now().isoformat()}
 
         return str(report_path)
 
-    def _get_day_of_week(self, date_str: str) -> str:
-        """曜日を取得"""
-        days = ["月", "火", "水", "木", "金", "土", "日"]
-        date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-        return days[date_obj.weekday()]
+    def run_research_only(self, category_id: str = None) -> dict:
+        """リサーチのみ実行"""
+        print("\n[Research Mode]")
+        results = {}
+
+        if category_id:
+            categories = [category_id]
+        else:
+            categories = list(CATEGORIES.keys())
+
+        for cat_id in categories:
+            category = CATEGORIES[cat_id]
+            print(f"{category['name']}のトレンドリサーチ中...")
+            results[cat_id] = self.research_agent.research_category_trends(cat_id)
+
+        # 結果を保存
+        output_path = self.output_dir / "research_results.json"
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+
+        print(f"\nリサーチ結果を保存: {output_path}")
+        return results
 
 
 def main():
-    parser = argparse.ArgumentParser(description="if(塾) Instagram Workflow with Gemini")
-    parser.add_argument("command", choices=["daily", "research", "improve"],
+    parser = argparse.ArgumentParser(description="if塾 Instagram Workflow v2.0 with Gemini")
+    parser.add_argument("command", choices=["daily", "research", "generate"],
                        help="実行するコマンド")
     parser.add_argument("--date", help="対象日付 (YYYY-MM-DD)")
-    parser.add_argument("--post-id", help="投稿ID (improveコマンド用)")
-    parser.add_argument("--track", choices=["juku", "business", "both"],
-                       default="both", help="リサーチ対象")
+    parser.add_argument("--category", help="カテゴリID")
+    parser.add_argument("--topic", help="トピック（generateコマンド用）")
     parser.add_argument("--api-key", help="Gemini API Key")
 
     args = parser.parse_args()
 
-    # 環境変数からAPIキーを取得（引数で上書き可能）
     api_key = args.api_key or os.environ.get("GEMINI_API_KEY")
-
-    workflow = InstagramWorkflow(api_key)
+    workflow = InstagramWorkflowV2(api_key)
 
     if args.command == "daily":
         workflow.run_daily_workflow(args.date)
     elif args.command == "research":
-        workflow.run_research_only(args.track)
-    elif args.command == "improve":
-        if not args.post_id:
-            print("Error: --post-id is required for improve command")
+        workflow.run_research_only(args.category)
+    elif args.command == "generate":
+        if not args.category:
+            print("Error: --category is required for generate command")
             sys.exit(1)
-        workflow.run_improvement_analysis(args.post_id)
+        # カスタム生成（将来実装）
+        print("Custom generation not yet implemented")
 
 
 if __name__ == "__main__":

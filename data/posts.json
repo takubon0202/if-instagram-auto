@@ -1,150 +1,252 @@
 {
   "posts": [
     {
-      "id": "2026-01-07-0900-juku-carousel-01",
-      "datetime": "2026-01-07T09:00:00+09:00",
-      "type": "carousel",
+      "id": "2026-01-09-2000-juku-reel-01",
+      "datetime": "2026-01-09T20:00:00+09:00",
+      "type": "reel",
       "track": "juku",
-      "title": "朝がつらい日、無理しなくていい",
-      "caption": "「今日も学校に行けなかった」\nそう思う朝があっても、大丈夫。\n\nif(塾)では、週1回・月曜17時から\n自分のペースで学べる場所があります。\n\n画面越しだから、顔を出さなくてもOK。\nまずは「ここにいていいんだ」と\n思える時間を一緒につくりませんか？\n\n一般的に、学校への登校が難しい時期は\nお子さまごとに状況が異なります。\n気になることがあれば、専門家への相談も\nご検討ください。\n\n▼ 無料体験のお申し込みは\nif-juku.net",
+      "title": "無料体験の背中押し（2026-01-09）",
+      "caption": "「学校に行きたくない」と言われたら\n\n無料体験の背中押しについて、今日はお伝えします。\n\nお子さまのペースを大切に、\n一緒に考えていきましょう。\n\n※お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談もご検討ください。\n\n▼ 無料体験・ご相談は\nif-juku.net",
       "hashtags": [
         "#不登校",
+        "#発達特性",
         "#オンライン塾",
         "#居場所づくり",
-        "#発達特性",
-        "#個別最適",
+        "#個別指導",
         "#プログラミング教育",
         "#小学生",
         "#中学生",
         "#高校生",
-        "#無料体験"
+        "#子育て"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-1.svg",
-          "alt": "1枚目：朝がつらい日、無理しなくていい"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/placeholder-2.svg",
-          "alt": "2枚目：if(塾)の特徴"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/placeholder-3.svg",
-          "alt": "3枚目：オンラインだから安心"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/placeholder-4.svg",
-          "alt": "4枚目：週1回・月曜17時から"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/placeholder-5.svg",
-          "alt": "5枚目：無料体験のご案内"
+          "src": "assets/img/posts/2026-01-09-2000-juku-reel-01-thumb.svg",
+          "alt": "スライド1"
         }
       ],
       "highlight": "保護者向け",
       "notes_for_instagram": {
-        "cover_text": "朝がつらい日に",
-        "first_comment": "ご質問はDMでお気軽にどうぞ。詳細は if-juku.net から。",
-        "reel_script": null
+        "cover_text": "「学校に行きたくない」と言われたら",
+        "first_comment": "詳細は if-juku.net から",
+        "reel_script": "{\"duration\": 15, \"sections\": [{\"timestamp\": \"0:00-0:01\", \"text_overlay\": \"「学校に行きたくない」と言われたら\"}, {\"timestamp\": \"0:01-0:04\", \"text_overlay\": \"（問題提起）\"}, {\"timestamp\": \"0:04-0:08\", \"text_overlay\": \"（視点転換）\"}, {\"timestamp\": \"0:08-0:12\", \"text_overlay\": \"（解決策）\"}, {\"timestamp\": \"0:12-0:15\", \"text_overlay\": \"if-juku.net\"}]}"
       }
     },
     {
-      "id": "2026-01-07-1230-biz-carousel-01",
-      "datetime": "2026-01-07T12:30:00+09:00",
+      "id": "2026-01-09-1230-biz-carousel-01",
+      "datetime": "2026-01-09T12:30:00+09:00",
       "type": "carousel",
       "track": "business",
-      "title": "生成AI研修でよくある失敗3選",
-      "caption": "「生成AI研修を導入したけど、現場で使われない」\nそんなお悩み、増えています。\n\n今回は、企業研修でよくある失敗パターンと\nその対策をまとめました。\n\n1. ツールの操作説明だけで終わる\n2. 自社業務との接点がない\n3. セキュリティルールが曖昧\n\nif(塾)のB2B研修では、\n御社の業務フローに合わせた\n実践的なプロンプト設計をお伝えします。\n\n▼ まずは無料相談から\nif-juku.net",
+      "title": "LP改善チェック（2026-01-09）",
+      "caption": "AI導入で失敗する会社の特徴\n\nLP改善チェックについて解説します。\n\n御社の課題に合わせた\n具体的なご提案をいたします。\n\n▼ 無料相談のご予約は\nif-juku.net",
       "hashtags": [
         "#生成AI",
         "#AI研修",
-        "#社内研修",
         "#DX推進",
-        "#プロンプト",
         "#業務効率化",
-        "#中小企業",
-        "#IT導入",
-        "#企業研修"
+        "#ChatGPT",
+        "#プロンプト",
+        "#企業研修",
+        "#中小企業DX"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-1.svg",
-          "alt": "1枚目：生成AI研修でよくある失敗3選"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-01.svg",
+          "alt": "スライド1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-2.svg",
-          "alt": "2枚目：失敗1 - 操作説明だけで終わる"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-02.svg",
+          "alt": "スライド2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-3.svg",
-          "alt": "3枚目：失敗2 - 自社業務との接点がない"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-03.svg",
+          "alt": "スライド3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-4.svg",
-          "alt": "4枚目：失敗3 - セキュリティルールが曖昧"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-04.svg",
+          "alt": "スライド4"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-5.svg",
-          "alt": "5枚目：if(塾)の研修の特徴"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-05.svg",
+          "alt": "スライド5"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/placeholder-biz-6.svg",
-          "alt": "6枚目：お問い合わせのご案内"
+          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-06.svg",
+          "alt": "スライド6"
         }
       ],
       "highlight": "企業研修",
       "notes_for_instagram": {
-        "cover_text": "AI研修の失敗3選",
-        "first_comment": "研修のご相談はDMまたは if-juku.net から。",
+        "cover_text": "AI導入で失敗する会社の特徴",
+        "first_comment": "詳細は if-juku.net から",
         "reel_script": null
       }
     },
     {
-      "id": "2026-01-07-2000-juku-reel-01",
-      "datetime": "2026-01-07T20:00:00+09:00",
-      "type": "reel",
+      "id": "2026-01-09-0900-juku-carousel-01",
+      "datetime": "2026-01-09T09:00:00+09:00",
+      "type": "carousel",
       "track": "juku",
-      "title": "「普通」じゃなくていい",
-      "caption": "「普通」って何だろう。\n\n学校に行くのが普通？\n毎日同じ時間に起きるのが普通？\n\nif(塾)では、\nあなたの「普通」を一緒に見つけます。\n\nプログラミングを通じて、\n自分のペースで、自分らしく。\n\nなお、お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談も\nご検討ください。\n\n▼ まずは無料体験から\nif-juku.net",
+      "title": "無料体験の背中押し（2026-01-09）",
+      "caption": "「学校に行きたくない」と言われたら\n\n無料体験の背中押しについて、今日はお伝えします。\n\nお子さまのペースを大切に、\n一緒に考えていきましょう。\n\n※お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談もご検討ください。\n\n▼ 無料体験・ご相談は\nif-juku.net",
       "hashtags": [
         "#不登校",
         "#発達特性",
-        "#居場所",
         "#オンライン塾",
-        "#プログラミング",
-        "#自分らしく",
-        "#安心できる場所",
+        "#居場所づくり",
+        "#個別指導",
+        "#プログラミング教育",
         "#小学生",
         "#中学生",
-        "#高校生"
+        "#高校生",
+        "#子育て"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-01.svg",
+          "alt": "スライド1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-02.svg",
+          "alt": "スライド2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-03.svg",
+          "alt": "スライド3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-04.svg",
+          "alt": "スライド4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-05.svg",
+          "alt": "スライド5"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-06.svg",
+          "alt": "スライド6"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-07.svg",
+          "alt": "スライド7"
+        }
+      ],
+      "highlight": "保護者向け",
+      "notes_for_instagram": {
+        "cover_text": "「学校に行きたくない」と言われたら",
+        "first_comment": "詳細は if-juku.net から",
+        "reel_script": null
+      }
+    },
+    {
+      "id": "2026-01-08-2000-juku-reel-01",
+      "datetime": "2026-01-08T20:00:00+09:00",
+      "type": "reel",
+      "track": "juku",
+      "title": "「行きたくない」を言えない子",
+      "caption": "冬休み明けの今、気持ちをうまく言葉にできないお子さまもいらっしゃいます。\n\n様子の変化が気になるときは、まず「安心して話せる雰囲気づくり」を意識してみてください。\n\n完璧な親である必要はありません。\n「どうしたの？」ではなく「今日はどんな気分？」と聞いてみるのも一つの方法です。\n\n---\nお子さまの状況は一人ひとり異なります。\n不安なことがあれば、専門機関への相談もご検討ください。\n\nif(塾)では、お子さまの気持ちに寄り添った学習サポートを行っています。\n\n▼ 無料体験・ご相談は\nif-juku.net",
+      "hashtags": [
+        "#不登校",
+        "#学校行きたくない",
+        "#冬休み明け",
+        "#子どもの居場所",
+        "#子育ての悩み",
+        "#小学生ママ",
+        "#中学生ママ",
+        "#親子関係",
+        "#子どもの本音",
+        "#オンライン塾"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "video",
-          "src": "assets/img/posts/placeholder-reel.svg",
-          "alt": "リール動画：「普通」じゃなくていい",
-          "thumbnail": "assets/img/posts/placeholder-reel-thumb.svg"
+          "src": "assets/img/posts/2026-01-08-2000-reel.svg",
+          "alt": "リール動画：「行きたくない」を言えない子のサイン",
+          "thumbnail": "assets/img/posts/2026-01-08-2000-thumb.svg"
         }
       ],
       "highlight": "無料体験",
       "notes_for_instagram": {
-        "cover_text": "普通じゃなくていい",
+        "cover_text": "言えない子のサイン",
         "first_comment": "気になることがあればDMでお気軽に。詳細は if-juku.net",
-        "reel_script": "【0-1秒】「普通」って何？（テロップ大きく）\n【1-3秒】学校に行くのが普通？毎日同じ時間に起きるのが普通？\n【3-5秒】if(塾)では、あなたの「普通」を一緒に見つけます\n【5-8秒】プログラミングを通じて、自分のペースで\n【8-10秒】まずは無料体験から（CTA表示）"
+        "reel_script": "【0-1秒】「学校行きたくない」言えない子が増えています（テロップ）\n【1-4秒】朝になると体調不良/口数が減った/笑顔が消えた（サイン表示）\n【4-8秒】でも「行きたくない」は言葉にできない（視点転換）\n【8-12秒】だから家庭に「安心して話せる時間」を（提案）\n【12-15秒】居場所づくり、一緒に考えませんか？プロフィールから無料相談（CTA）"
+      }
+    },
+    {
+      "id": "2026-01-08-1230-biz-carousel-01",
+      "datetime": "2026-01-08T12:30:00+09:00",
+      "type": "carousel",
+      "track": "business",
+      "title": "AI導入テンプレ公開",
+      "caption": "AI導入、何から始めればいい？\n\nそんな悩みを持つ企業担当者の方へ。\n\n実は成功している企業には共通の「型」があります。\n\nif(塾)では豊富な支援実績から生まれた導入テンプレートを活用し、貴社に最適なAI活用プランをご提案します。\n\n「うちの会社でもAI使えるの？」\nそんな疑問から、お気軽にご相談ください。\n\n▼ 無料相談のご予約は\nif-juku.net",
+      "hashtags": [
+        "#AI導入",
+        "#DX推進",
+        "#業務効率化",
+        "#AI活用",
+        "#法人研修",
+        "#生成AI",
+        "#ChatGPT活用",
+        "#企業DX",
+        "#働き方改革",
+        "#中小企業DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-01.svg",
+          "alt": "1枚目：AI導入の成功率が3倍になるテンプレ"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-02.svg",
+          "alt": "2枚目：なぜAI導入は失敗するのか"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-03.svg",
+          "alt": "3枚目：AI導入テンプレートの中身"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-04.svg",
+          "alt": "4枚目：テンプレ活用の効果"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-05.svg",
+          "alt": "5枚目：if塾の法人研修"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-08-1230-06.svg",
+          "alt": "6枚目：無料相談案内"
+        }
+      ],
+      "highlight": "企業研修",
+      "notes_for_instagram": {
+        "cover_text": "AI導入テンプレ公開",
+        "first_comment": "AI導入のご相談はDMまたは if-juku.net から。",
+        "reel_script": null
       }
     },
     {
@@ -214,252 +316,243 @@
       }
     },
     {
-      "id": "2026-01-08-1230-biz-carousel-01",
-      "datetime": "2026-01-08T12:30:00+09:00",
+      "id": "2026-01-08-0900-ai_column-carousel-01",
+      "datetime": "2026-01-08T09:00:00+09:00",
       "type": "carousel",
-      "track": "business",
-      "title": "AI導入テンプレ公開",
-      "caption": "AI導入、何から始めればいい？\n\nそんな悩みを持つ企業担当者の方へ。\n\n実は成功している企業には共通の「型」があります。\n\nif(塾)では豊富な支援実績から生まれた導入テンプレートを活用し、貴社に最適なAI活用プランをご提案します。\n\n「うちの会社でもAI使えるの？」\nそんな疑問から、お気軽にご相談ください。\n\n▼ 無料相談のご予約は\nif-juku.net",
+      "category": "ai_column",
+      "title": "Gemini 2.5の新機能",
+      "caption": "Gemini 2.5の新機能\n\nAIコラムをお届けします。\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #AI #ChatGPT #Gemini #生成AI #AIツール #最新テック",
       "hashtags": [
-        "#AI導入",
-        "#DX推進",
-        "#業務効率化",
-        "#AI活用",
-        "#法人研修",
+        "#if塾",
+        "#AI",
+        "#ChatGPT",
+        "#Gemini",
         "#生成AI",
-        "#ChatGPT活用",
-        "#企業DX",
-        "#働き方改革",
-        "#中小企業DX"
+        "#AIツール",
+        "#最新テック"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-01.svg",
-          "alt": "1枚目：AI導入の成功率が3倍になるテンプレ"
+          "src": "assets/img/posts/2026-01-08-0900-ai_column-carousel-01-01.svg",
+          "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-02.svg",
-          "alt": "2枚目：なぜAI導入は失敗するのか"
+          "src": "assets/img/posts/2026-01-08-0900-ai_column-carousel-01-02.svg",
+          "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-03.svg",
-          "alt": "3枚目：AI導入テンプレートの中身"
+          "src": "assets/img/posts/2026-01-08-0900-ai_column-carousel-01-03.svg",
+          "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-04.svg",
-          "alt": "4枚目：テンプレ活用の効果"
+          "src": "assets/img/posts/2026-01-08-0900-ai_column-carousel-01-04.svg",
+          "alt": "シーン4"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-05.svg",
-          "alt": "5枚目：if塾の法人研修"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-08-1230-06.svg",
-          "alt": "6枚目：無料相談案内"
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
         }
       ],
-      "highlight": "企業研修",
+      "highlight": "AIコラム",
       "notes_for_instagram": {
-        "cover_text": "AI導入テンプレ公開",
-        "first_comment": "AI導入のご相談はDMまたは if-juku.net から。",
-        "reel_script": null
+        "cover_text": "Gemini 2.5の新機能",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "Gemini 2.5の新機能",
+            "subtext": "",
+            "purpose": "ツール名 or 衝撃的な事実"
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "",
+            "subtext": "",
+            "purpose": "これは何？（ツール紹介）"
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "",
+            "subtext": "",
+            "purpose": "どう使う？（活用例）"
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "",
+            "subtext": "",
+            "purpose": "プロの視点（コツ・注意点）"
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
       }
     },
     {
-      "id": "2026-01-08-2000-juku-reel-01",
-      "datetime": "2026-01-08T20:00:00+09:00",
+      "id": "2026-01-07-2000-juku-reel-01",
+      "datetime": "2026-01-07T20:00:00+09:00",
       "type": "reel",
       "track": "juku",
-      "title": "「行きたくない」を言えない子",
-      "caption": "冬休み明けの今、気持ちをうまく言葉にできないお子さまもいらっしゃいます。\n\n様子の変化が気になるときは、まず「安心して話せる雰囲気づくり」を意識してみてください。\n\n完璧な親である必要はありません。\n「どうしたの？」ではなく「今日はどんな気分？」と聞いてみるのも一つの方法です。\n\n---\nお子さまの状況は一人ひとり異なります。\n不安なことがあれば、専門機関への相談もご検討ください。\n\nif(塾)では、お子さまの気持ちに寄り添った学習サポートを行っています。\n\n▼ 無料体験・ご相談は\nif-juku.net",
+      "title": "「普通」じゃなくていい",
+      "caption": "「普通」って何だろう。\n\n学校に行くのが普通？\n毎日同じ時間に起きるのが普通？\n\nif(塾)では、\nあなたの「普通」を一緒に見つけます。\n\nプログラミングを通じて、\n自分のペースで、自分らしく。\n\nなお、お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談も\nご検討ください。\n\n▼ まずは無料体験から\nif-juku.net",
       "hashtags": [
         "#不登校",
-        "#学校行きたくない",
-        "#冬休み明け",
-        "#子どもの居場所",
-        "#子育ての悩み",
-        "#小学生ママ",
-        "#中学生ママ",
-        "#親子関係",
-        "#子どもの本音",
-        "#オンライン塾"
+        "#発達特性",
+        "#居場所",
+        "#オンライン塾",
+        "#プログラミング",
+        "#自分らしく",
+        "#安心できる場所",
+        "#小学生",
+        "#中学生",
+        "#高校生"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "video",
-          "src": "assets/img/posts/2026-01-08-2000-reel.svg",
-          "alt": "リール動画：「行きたくない」を言えない子のサイン",
-          "thumbnail": "assets/img/posts/2026-01-08-2000-thumb.svg"
+          "src": "assets/img/posts/placeholder-reel.svg",
+          "alt": "リール動画：「普通」じゃなくていい",
+          "thumbnail": "assets/img/posts/placeholder-reel-thumb.svg"
         }
       ],
       "highlight": "無料体験",
       "notes_for_instagram": {
-        "cover_text": "言えない子のサイン",
+        "cover_text": "普通じゃなくていい",
         "first_comment": "気になることがあればDMでお気軽に。詳細は if-juku.net",
-        "reel_script": "【0-1秒】「学校行きたくない」言えない子が増えています（テロップ）\n【1-4秒】朝になると体調不良/口数が減った/笑顔が消えた（サイン表示）\n【4-8秒】でも「行きたくない」は言葉にできない（視点転換）\n【8-12秒】だから家庭に「安心して話せる時間」を（提案）\n【12-15秒】居場所づくり、一緒に考えませんか？プロフィールから無料相談（CTA）"
+        "reel_script": "【0-1秒】「普通」って何？（テロップ大きく）\n【1-3秒】学校に行くのが普通？毎日同じ時間に起きるのが普通？\n【3-5秒】if(塾)では、あなたの「普通」を一緒に見つけます\n【5-8秒】プログラミングを通じて、自分のペースで\n【8-10秒】まずは無料体験から（CTA表示）"
       }
     },
     {
-      "id": "2026-01-09-0900-juku-carousel-01",
-      "datetime": "2026-01-09T09:00:00+09:00",
-      "type": "carousel",
-      "track": "juku",
-      "title": "無料体験の背中押し（2026-01-09）",
-      "caption": "「学校に行きたくない」と言われたら\n\n無料体験の背中押しについて、今日はお伝えします。\n\nお子さまのペースを大切に、\n一緒に考えていきましょう。\n\n※お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談もご検討ください。\n\n▼ 無料体験・ご相談は\nif-juku.net",
-      "hashtags": [
-        "#不登校",
-        "#発達特性",
-        "#オンライン塾",
-        "#居場所づくり",
-        "#個別指導",
-        "#プログラミング教育",
-        "#小学生",
-        "#中学生",
-        "#高校生",
-        "#子育て"
-      ],
-      "cta_url": "https://if-juku.net/",
-      "media": [
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-01.svg",
-          "alt": "スライド1"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-02.svg",
-          "alt": "スライド2"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-03.svg",
-          "alt": "スライド3"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-04.svg",
-          "alt": "スライド4"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-05.svg",
-          "alt": "スライド5"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-06.svg",
-          "alt": "スライド6"
-        },
-        {
-          "kind": "image",
-          "src": "assets/img/posts/2026-01-09-0900-juku-carousel-01-07.svg",
-          "alt": "スライド7"
-        }
-      ],
-      "highlight": "保護者向け",
-      "notes_for_instagram": {
-        "cover_text": "「学校に行きたくない」と言われたら",
-        "first_comment": "詳細は if-juku.net から",
-        "reel_script": null
-      }
-    },
-    {
-      "id": "2026-01-09-1230-biz-carousel-01",
-      "datetime": "2026-01-09T12:30:00+09:00",
+      "id": "2026-01-07-1230-biz-carousel-01",
+      "datetime": "2026-01-07T12:30:00+09:00",
       "type": "carousel",
       "track": "business",
-      "title": "LP改善チェック（2026-01-09）",
-      "caption": "AI導入で失敗する会社の特徴\n\nLP改善チェックについて解説します。\n\n御社の課題に合わせた\n具体的なご提案をいたします。\n\n▼ 無料相談のご予約は\nif-juku.net",
+      "title": "生成AI研修でよくある失敗3選",
+      "caption": "「生成AI研修を導入したけど、現場で使われない」\nそんなお悩み、増えています。\n\n今回は、企業研修でよくある失敗パターンと\nその対策をまとめました。\n\n1. ツールの操作説明だけで終わる\n2. 自社業務との接点がない\n3. セキュリティルールが曖昧\n\nif(塾)のB2B研修では、\n御社の業務フローに合わせた\n実践的なプロンプト設計をお伝えします。\n\n▼ まずは無料相談から\nif-juku.net",
       "hashtags": [
         "#生成AI",
         "#AI研修",
+        "#社内研修",
         "#DX推進",
-        "#業務効率化",
-        "#ChatGPT",
         "#プロンプト",
-        "#企業研修",
-        "#中小企業DX"
+        "#業務効率化",
+        "#中小企業",
+        "#IT導入",
+        "#企業研修"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-01.svg",
-          "alt": "スライド1"
+          "src": "assets/img/posts/placeholder-biz-1.svg",
+          "alt": "1枚目：生成AI研修でよくある失敗3選"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-02.svg",
-          "alt": "スライド2"
+          "src": "assets/img/posts/placeholder-biz-2.svg",
+          "alt": "2枚目：失敗1 - 操作説明だけで終わる"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-03.svg",
-          "alt": "スライド3"
+          "src": "assets/img/posts/placeholder-biz-3.svg",
+          "alt": "3枚目：失敗2 - 自社業務との接点がない"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-04.svg",
-          "alt": "スライド4"
+          "src": "assets/img/posts/placeholder-biz-4.svg",
+          "alt": "4枚目：失敗3 - セキュリティルールが曖昧"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-05.svg",
-          "alt": "スライド5"
+          "src": "assets/img/posts/placeholder-biz-5.svg",
+          "alt": "5枚目：if(塾)の研修の特徴"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-1230-biz-carousel-01-06.svg",
-          "alt": "スライド6"
+          "src": "assets/img/posts/placeholder-biz-6.svg",
+          "alt": "6枚目：お問い合わせのご案内"
         }
       ],
       "highlight": "企業研修",
       "notes_for_instagram": {
-        "cover_text": "AI導入で失敗する会社の特徴",
-        "first_comment": "詳細は if-juku.net から",
+        "cover_text": "AI研修の失敗3選",
+        "first_comment": "研修のご相談はDMまたは if-juku.net から。",
         "reel_script": null
       }
     },
     {
-      "id": "2026-01-09-2000-juku-reel-01",
-      "datetime": "2026-01-09T20:00:00+09:00",
-      "type": "reel",
+      "id": "2026-01-07-0900-juku-carousel-01",
+      "datetime": "2026-01-07T09:00:00+09:00",
+      "type": "carousel",
       "track": "juku",
-      "title": "無料体験の背中押し（2026-01-09）",
-      "caption": "「学校に行きたくない」と言われたら\n\n無料体験の背中押しについて、今日はお伝えします。\n\nお子さまのペースを大切に、\n一緒に考えていきましょう。\n\n※お子さまの状況は一人ひとり異なります。\n必要に応じて専門家へのご相談もご検討ください。\n\n▼ 無料体験・ご相談は\nif-juku.net",
+      "title": "朝がつらい日、無理しなくていい",
+      "caption": "「今日も学校に行けなかった」\nそう思う朝があっても、大丈夫。\n\nif(塾)では、週1回・月曜17時から\n自分のペースで学べる場所があります。\n\n画面越しだから、顔を出さなくてもOK。\nまずは「ここにいていいんだ」と\n思える時間を一緒につくりませんか？\n\n一般的に、学校への登校が難しい時期は\nお子さまごとに状況が異なります。\n気になることがあれば、専門家への相談も\nご検討ください。\n\n▼ 無料体験のお申し込みは\nif-juku.net",
       "hashtags": [
         "#不登校",
-        "#発達特性",
         "#オンライン塾",
         "#居場所づくり",
-        "#個別指導",
+        "#発達特性",
+        "#個別最適",
         "#プログラミング教育",
         "#小学生",
         "#中学生",
         "#高校生",
-        "#子育て"
+        "#無料体験"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-09-2000-juku-reel-01-thumb.svg",
-          "alt": "スライド1"
+          "src": "assets/img/posts/placeholder-1.svg",
+          "alt": "1枚目：朝がつらい日、無理しなくていい"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/placeholder-2.svg",
+          "alt": "2枚目：if(塾)の特徴"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/placeholder-3.svg",
+          "alt": "3枚目：オンラインだから安心"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/placeholder-4.svg",
+          "alt": "4枚目：週1回・月曜17時から"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/placeholder-5.svg",
+          "alt": "5枚目：無料体験のご案内"
         }
       ],
       "highlight": "保護者向け",
       "notes_for_instagram": {
-        "cover_text": "「学校に行きたくない」と言われたら",
-        "first_comment": "詳細は if-juku.net から",
-        "reel_script": "{\"duration\": 15, \"sections\": [{\"timestamp\": \"0:00-0:01\", \"text_overlay\": \"「学校に行きたくない」と言われたら\"}, {\"timestamp\": \"0:01-0:04\", \"text_overlay\": \"（問題提起）\"}, {\"timestamp\": \"0:04-0:08\", \"text_overlay\": \"（視点転換）\"}, {\"timestamp\": \"0:08-0:12\", \"text_overlay\": \"（解決策）\"}, {\"timestamp\": \"0:12-0:15\", \"text_overlay\": \"if-juku.net\"}]}"
+        "cover_text": "朝がつらい日に",
+        "first_comment": "ご質問はDMでお気軽にどうぞ。詳細は if-juku.net から。",
+        "reel_script": null
       }
     }
   ]

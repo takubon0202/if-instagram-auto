@@ -1,104 +1,61 @@
-# if(塾) Instagram Workflow Prototype
+# if塾 Instagram Workflow v2.0
 
-不登校・発達特性のある子どもたちのためのオンラインプログラミング塾「if(塾)」のInstagram投稿自動生成ワークフロー。
+子どもの可能性を最大限に発揮する - プログラミング教室「if塾」のInstagram投稿自動生成システム。
 
 ## 概要
 
-このプロジェクトは以下の機能を提供します：
+**6カテゴリ × 5シーン構成**の自動投稿ワークフロー。
 
-1. **Instagram風プレビューサイト** - GitHub Pagesで投稿を事前確認
-2. **Gemini API連携** - AIによるトレンドリサーチ・画像生成・改善分析
-3. **サブエージェントワークフロー** - 8つの専門エージェントによるコンテンツ生成
-
----
-
-## ディレクトリ構成
-
-```
-ifjuku-ig-prototype/
-├── index.html                    # メインHTML（IG風UI）
-├── requirements.txt              # Python依存パッケージ
-├── assets/
-│   ├── css/
-│   │   └── style.css            # スタイルシート
-│   ├── js/
-│   │   └── app.js               # フロントエンドJS
-│   └── img/
-│       ├── posts/               # 投稿画像（SVG/PNG）
-│       └── stories/             # ストーリー画像
-├── data/
-│   ├── config.json              # サイト設定
-│   ├── posts.json               # 投稿データ
-│   ├── stories.json             # ストーリーデータ
-│   └── highlights.json          # ハイライト設定
-└── scripts/
-    ├── validate_data.js         # データ検証スクリプト
-    ├── workflow_runner.js       # ワークフロー自動化
-    ├── agents/                  # サブエージェント定義
-    │   ├── 00_gemini_workflow.md
-    │   ├── 01_trend_scout.md
-    │   ├── 02_planner.md
-    │   ├── 03_carousel_builder.md
-    │   ├── 04_reel_scriptwriter.md
-    │   ├── 05_jp_copywriter.md
-    │   ├── 06_anime_visual_prompt.md
-    │   ├── 07_safety_qa.md
-    │   └── 08_data_engineer.md
-    ├── gemini/                  # Gemini API統合
-    │   ├── __init__.py
-    │   ├── config.py
-    │   ├── client.py
-    │   └── workflow.py
-    └── daily_reports/           # 日次レポート
-```
+- **Gemini API連携**: リアルタイムトレンドリサーチ・画像生成・改善分析
+- **5シーン構成**: 表紙→内容1→内容2→内容3→サンクス（固定画像）
+- **曜日別カテゴリ**: 週次スケジュールで自動カテゴリ選択
 
 ---
 
-## 機能詳細
+## 5シーン構成
 
-### 1. Instagram風プレビューサイト
+全投稿で統一された構成:
 
-| 機能 | 説明 |
-|------|------|
-| グリッド表示 | 3列グリッドで投稿一覧を表示 |
-| 投稿モーダル | クリックで詳細表示（キャプション・ハッシュタグ） |
-| カルーセル | 横スワイプ対応のスライド表示 |
-| ストーリービューア | 自動再生・タップで次へ |
-| ハイライト | カテゴリ別フィルタリング |
+| シーン | ラベル | 目的 |
+|--------|--------|------|
+| 1 | 表紙 | インパクト重視のタイトル |
+| 2 | 内容1 | 概要・課題提示 |
+| 3 | 内容2 | メリット・解決策 |
+| 4 | 内容3 | 詳細・提案 |
+| 5 | サンクス | アクション誘導（固定画像） |
 
-### 2. 投稿スケジュール
-
-| 時刻 | トラック | 形式 | 内容 |
-|------|----------|------|------|
-| 09:00 | 塾向け | カルーセル | 保護者・本人向けコンテンツ |
-| 12:30 | 企業向け | カルーセル | B2B AI研修・DX推進 |
-| 20:00 | 塾向け | リール | 共感・安心を伝える短尺動画 |
-
-### 3. 週次テーマ
-
-**塾向け（juku）:**
-| 曜日 | テーマ |
-|------|--------|
-| 月 | 安心・居場所 |
-| 火 | 学習のハードルを下げる |
-| 水 | 保護者向け（声かけ） |
-| 木 | AI/ITスキル |
-| 金 | 無料体験の背中押し |
-| 土 | FAQ |
-| 日 | まとめ |
-
-**企業向け（business）:**
-| 曜日 | テーマ |
-|------|--------|
-| 月 | 研修の失敗パターン |
-| 水 | ワークフロー設計 |
-| 金 | LP改善チェック |
+**サンクス画像**: `assets/img/posts/ifjukuthanks.png`（必ず最後に使用）
 
 ---
 
-## Gemini API 連携
+## 6カテゴリ
 
-### セットアップ
+| ID | カテゴリ | 目的 | テーマカラー |
+|----|----------|------|--------------|
+| announcement | お知らせ | セミナー、募集、休校情報 | 赤・ピンク系 |
+| development | 開発物 | 生徒作品、技術力証明 | 青・ネオン系 |
+| activity | 活動報告 | 授業風景、イベント | 緑系 |
+| education | 教育コラム | 保護者向け啓蒙 | オレンジ系 |
+| ai_column | AIコラム | 最新AI情報、保存促進 | 紫系 |
+| business | ビジネスコラム | 稼ぐ力、差別化 | 金・黄色系 |
+
+---
+
+## 曜日別スケジュール
+
+| 曜日 | カテゴリ | 理由 |
+|------|----------|------|
+| 月 | お知らせ | 週の始まり |
+| 火 | 教育コラム | 保護者向け |
+| 水 | 開発物 | 成果物紹介 |
+| 木 | AIコラム | テック情報 |
+| 金 | ビジネスコラム | 週末に試してもらう |
+| 土 | 活動報告 | イベント報告 |
+| 日 | 活動報告 | イベント報告 |
+
+---
+
+## セットアップ
 
 ```bash
 # 1. 依存パッケージインストール
@@ -112,204 +69,130 @@ $env:GEMINI_API_KEY = "your-api-key"
 export GEMINI_API_KEY="your-api-key"
 ```
 
-### ワークフローコマンド
+---
+
+## ワークフローコマンド
 
 ```bash
-# デイリーワークフロー（リサーチ→企画→画像生成→データ更新→レポート）
-python -m scripts.gemini.workflow daily --date 2026-01-09
+# デイリーワークフロー（曜日に応じたカテゴリで5シーン投稿を生成）
+python -m scripts.gemini.workflow daily --date 2026-01-08
 
-# リサーチのみ実行
-python -m scripts.gemini.workflow research --track both
+# リサーチのみ（全カテゴリ or 指定カテゴリ）
+python -m scripts.gemini.workflow research
+python -m scripts.gemini.workflow research --category ai_column
 
-# 投稿改善分析
-python -m scripts.gemini.workflow improve --post-id 2026-01-08-0900-juku-carousel-01
+# カスタム生成（指定カテゴリ・トピック）
+python -m scripts.gemini.workflow generate --category development --topic "AIチャットボット"
 ```
 
-### 使用モデル
+---
+
+## 使用モデル
 
 | エージェント | モデル | 機能 |
 |-------------|--------|------|
-| TrendResearchAgent | gemini-3-pro-preview | Google Search グラウンディングでリアルタイムリサーチ |
-| ImageGenerationAgent | gemini-2.5-flash | Instagram投稿用画像生成 |
-| ContentImprovementAgent | gemini-2.5-flash | パフォーマンス分析・改善提案 |
-
-### 画像サイズ（2026年推奨）
-
-| 形式 | アスペクト比 | サイズ |
-|------|-------------|--------|
-| フィード（縦長） | 4:5 | 1080x1350px |
-| フィード（縦長大） | 3:4 | 1080x1440px |
-| リール/ストーリー | 9:16 | 1080x1920px |
-| 正方形 | 1:1 | 1080x1080px |
-
-### API未設定時の動作
-
-GEMINI_API_KEYが未設定の場合、モックデータで動作します：
-- トレンドリサーチ: サンプルトレンドデータを返却
-- 画像生成: SVGプレースホルダーを自動生成
-- 改善分析: サンプル分析結果を返却
+| TrendResearchAgent | gemini-3-pro-preview | Google Search グラウンディングでリサーチ |
+| ContentGenerationAgent | gemini-2.5-flash | 5シーンコンテンツ生成 |
+| ImageGenerationAgent | gemini-2.5-flash | Instagram画像生成（4:5） |
+| ContentImprovementAgent | gemini-2.5-flash | パフォーマンス分析・改善 |
 
 ---
 
-## サブエージェント構成
+## ディレクトリ構成
 
-### 8つの専門エージェント
-
-| # | エージェント | 役割 |
-|---|-------------|------|
-| 01 | Trend Scout | トレンド調査・競合分析 |
-| 02 | Planner | 投稿スケジュール・テーマ設計 |
-| 03 | Carousel Builder | カルーセル構成・スライド設計 |
-| 04 | Reel Scriptwriter | リール台本・テロップ作成 |
-| 05 | JP Copywriter | 日本語キャプション・ハッシュタグ |
-| 06 | Anime Visual Prompt | 画像生成プロンプト作成 |
-| 07 | Safety QA | 配慮文・禁止ワードチェック |
-| 08 | Data Engineer | JSON整形・バリデーション |
+```
+ifjuku-ig-prototype/
+├── index.html                    # プレビューサイト
+├── requirements.txt              # Python依存パッケージ
+├── assets/
+│   ├── css/style.css
+│   ├── js/app.js
+│   └── img/
+│       └── posts/
+│           └── ifjukuthanks.png  # サンクス画像（固定）
+├── data/
+│   ├── config.json
+│   ├── posts.json
+│   ├── topics.json               # 6カテゴリ設定
+│   ├── stories.json
+│   └── highlights.json
+└── scripts/
+    ├── validate_data.js
+    ├── agents/                   # サブエージェント定義
+    ├── gemini/                   # Gemini API統合
+    │   ├── config.py             # 6カテゴリ・5シーン設定
+    │   ├── client.py             # 4エージェント実装
+    │   └── workflow.py           # ワークフローv2.0
+    └── daily_reports/
+```
 
 ---
 
-## ブランドガイドライン
+## カテゴリ別テンプレート
 
-### ビジュアルスタイル
+### お知らせ（announcement）
+- **表紙**: インパクト重視のタイトル（例：「【緊急募集】残り3席！」）
+- **内容1**: 何が起きるのか？
+- **内容2**: 参加するとどうなる？
+- **内容3**: いつ・どこで？
 
-- 日本アニメ風、やわらかい線、安心感
-- 白＋淡いブルー/グリーン基調
+### 開発物（development）
+- **表紙**: 成果物＋キャッチコピー（例：「高校生が作ったAIアプリが凄すぎる」）
+- **内容1**: どんな悩みを解決？（Before）
+- **内容2**: どうやって動く？（Process）
+- **内容3**: 使った結果は？（After）
+
+### 活動報告（activity）
+- **表紙**: 授業風景・イベント（例：「今日の授業、盛り上がりすぎた」）
+- **内容1**: 今日何をした？
+- **内容2**: 生徒の反応は？
+- **内容3**: 指導者の視点
+
+### 教育コラム（education）
+- **表紙**: 問いかけ・逆説（例：「『プログラミングは不要』は本当か？」）
+- **内容1**: 世の中の流れ
+- **内容2**: if塾の考え
+- **内容3**: 今やるべきこと
+
+### AIコラム（ai_column）
+- **表紙**: ツール名・衝撃的事実（例：「ChatGPT、まだ普通に使ってるの？」）
+- **内容1**: これは何？
+- **内容2**: どう使う？
+- **内容3**: プロの視点
+
+### ビジネスコラム（business）
+- **表紙**: 金額・稼ぎ方（例：「中学生でも月3万稼ぐ方法」）
+- **内容1**: 何を使う？
+- **内容2**: 具体的なツール
+- **内容3**: マインドセット
+
+---
+
+## デザインルール
+
+### 配色（カテゴリ別）
+
+| カテゴリ | Primary | Secondary |
+|----------|---------|-----------|
+| お知らせ | #E53935 | #FF6F61 |
+| 開発物 | #1E88E5 | #00BCD4 |
+| 活動報告 | #43A047 | #66BB6A |
+| 教育コラム | #FF9800 | #FFB74D |
+| AIコラム | #7B1FA2 | #AB47BC |
+| ビジネス | #FFC107 | #FFD54F |
+
+### フォント・スタイル
+- **極太ゴシック体＋袋文字（縁取り）** で視認性最大化
 - 余白多め、テキストオーバーレイ用スペース確保
 
-### カラーパレット
-
-| 用途 | カラー |
-|------|--------|
-| Primary | #4A90A4 |
-| Secondary | #7CB8A8 |
-| Background | #F5F5F5 |
-
-### 禁止事項
-
-**ビジュアル:**
-- 派手すぎるデザイン
-- 過度なキラキラ効果
-- リアルな人物写真
-- 文字のレンダリング（後から追加）
-
-**コンテンツ:**
-- 未成年（生徒）の写真・動画
-- 発達・不登校に関する断定表現
-
-**禁止ワード:**
-- 診断
-- 治療
-- 治る
-- 障害（→「特性」を使用）
-- 普通の子（→「多くのお子さま」を使用）
-
-### 必須要素
-
-- 配慮文: 「お子さまの状況は一人ひとり異なります。必要に応じて専門家へのご相談もご検討ください。」
-- CTA: 常に `if-juku.net` へ誘導
-
 ---
 
-## データスキーマ
+## API未設定時の動作
 
-### posts.json
-
-```json
-{
-  "id": "2026-01-07-0900-juku-carousel-01",
-  "datetime": "2026-01-07T09:00:00+09:00",
-  "type": "carousel",
-  "track": "juku",
-  "title": "タイトル",
-  "caption": "キャプション本文...",
-  "hashtags": ["#不登校", "#オンライン塾"],
-  "cta_url": "https://if-juku.net/",
-  "media": [
-    {"kind": "image", "src": "assets/img/posts/xxx.svg", "alt": "説明"}
-  ],
-  "highlight": "保護者向け",
-  "notes_for_instagram": {
-    "cover_text": "カバーテキスト",
-    "first_comment": "最初のコメント",
-    "reel_script": null
-  }
-}
-```
-
-### type
-
-| 値 | 説明 |
-|----|------|
-| carousel | カルーセル（複数画像スライド） |
-| reel | リール動画 |
-| image | 単一画像 |
-
-### track
-
-| 値 | 説明 |
-|----|------|
-| juku | 塾向け（保護者・本人） |
-| business | 企業向け |
-
----
-
-## ローカル開発
-
-### プレビューサイト起動
-
-**方法1: Live Server（VS Code）**
-1. VS Codeで「Live Server」拡張機能をインストール
-2. `index.html` を右クリック → 「Open with Live Server」
-
-**方法2: Python**
-```bash
-cd ifjuku-ig-prototype
-python -m http.server 8000
-# http://localhost:8000 を開く
-```
-
-**方法3: Node.js**
-```bash
-npx serve ifjuku-ig-prototype
-```
-
-### データ検証
-
-```bash
-node scripts/validate_data.js
-```
-
----
-
-## 運用フロー
-
-### Daily Run（毎日実行）
-
-1. Gemini APIでトレンドリサーチ
-2. 3投稿を自動企画（09:00 / 12:30 / 20:00）
-3. 画像生成（またはSVGプレースホルダー）
-4. `data/posts.json` 更新
-5. Safety QAで配慮文・禁止ワードチェック
-6. 日次レポート生成
-7. `node scripts/validate_data.js` でエラー確認
-8. 人間が内容を最終チェック
-9. git push → GitHub Pages 自動反映
-10. Instagramへ手動投稿（任意）
-
-### Weekly Review（週1回）
-
-1. 週間パフォーマンス集計
-2. 改善分析実行
-3. 次週テーマ調整
-
----
-
-## GitHub Pages での公開
-
-1. GitHubにリポジトリを作成
-2. このフォルダの内容をpush
-3. Settings → Pages → Source で `main` ブランチを選択
-4. 数分後に `https://<username>.github.io/<repo>/` で公開
+GEMINI_API_KEYが未設定の場合、モックデータで動作:
+- **リサーチ**: カテゴリ別サンプルトレンドデータ
+- **画像生成**: カテゴリ色のSVGプレースホルダー
+- **分析**: サンプル改善提案
 
 ---
 
@@ -317,35 +200,49 @@ node scripts/validate_data.js
 
 | ファイル | 説明 |
 |----------|------|
-| `scripts/research_results.json` | リサーチ結果 |
+| `scripts/research_results.json` | カテゴリ別リサーチ結果 |
 | `scripts/daily_reports/YYYY-MM-DD.md` | 日次レポート |
-| `scripts/improvement_*.json` | 改善分析結果 |
-| `assets/img/posts/*.svg` | 生成画像/プレースホルダー |
+| `assets/img/posts/*.svg` | 生成プレースホルダー |
+| `assets/img/posts/ifjukuthanks.png` | サンクス画像（固定） |
 
 ---
 
-## トラブルシューティング
+## 運用フロー
 
-### Windowsでの文字化け
+### Daily Run（毎日実行）
+1. 曜日に応じたカテゴリを自動選択
+2. Gemini APIでトレンドリサーチ
+3. 5シーン構成で投稿企画
+4. 画像生成（4枚 + サンクス画像）
+5. posts.json更新
+6. 日次レポート生成
+7. 人間が最終確認
+8. Instagramへ投稿
 
-PowerShellで以下を実行：
-```powershell
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+---
+
+## ローカル開発
+
+```bash
+# プレビューサイト起動
+python -m http.server 8000
+
+# データ検証
+node scripts/validate_data.js
+
+# ワークフローテスト
+python -m scripts.gemini.workflow daily --date 2026-01-08
 ```
 
-### Gemini APIエラー
+---
 
-1. APIキーが正しく設定されているか確認
-2. レート制限に達していないか確認
-3. モックモードで動作確認
+## GitHub Pages
 
-### 画像生成失敗
-
-APIエラー時はSVGプレースホルダーが自動生成されます。
-後から実画像に差し替え可能です。
+1. Settings → Pages → Source: `main`
+2. `https://<username>.github.io/<repo>/` で公開
 
 ---
 
 ## ライセンス
 
-Copyright (c) if(塾). All rights reserved.
+Copyright (c) if塾. All rights reserved.

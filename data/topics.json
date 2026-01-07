@@ -1,0 +1,226 @@
+{
+  "version": "2.0",
+  "description": "if塾 Instagram投稿カテゴリ・テンプレート設定",
+  "thanks_image": "assets/img/posts/ifjukuthanks.png",
+  "scene_structure": {
+    "total_scenes": 5,
+    "scenes": [
+      {"id": 1, "name": "cover", "label": "表紙", "purpose": "インパクト重視のタイトル"},
+      {"id": 2, "name": "content1", "label": "内容1", "purpose": "概要・課題提示"},
+      {"id": 3, "name": "content2", "label": "内容2", "purpose": "メリット・解決策"},
+      {"id": 4, "name": "content3", "label": "内容3", "purpose": "詳細・提案"},
+      {"id": 5, "name": "thanks", "label": "サンクス", "purpose": "アクション誘導", "fixed_image": "assets/img/posts/ifjukuthanks.png"}
+    ]
+  },
+  "categories": {
+    "announcement": {
+      "id": "announcement",
+      "name": "お知らせ",
+      "purpose": "セミナー開催、新コース募集、休校情報など即時性の高い情報",
+      "color_theme": {
+        "primary": "#E53935",
+        "secondary": "#FF6F61",
+        "accent": "#FFCDD2",
+        "text": "#FFFFFF"
+      },
+      "background_style": "教室の明るい写真 or 拡声器やベルを持った3Dキャラクター",
+      "template": {
+        "cover": {
+          "format": "インパクト重視のタイトル",
+          "examples": ["【緊急募集】夏期講習、残り3席！", "サイトリニューアルしました", "新コース開講！"]
+        },
+        "content1": {
+          "format": "何が起きるのか？",
+          "examples": ["この夏、最強のAI合宿を開催します。"]
+        },
+        "content2": {
+          "format": "参加するとどうなる？",
+          "examples": ["3日でオリジナルアプリが完成。受験にも役立つ実績作り。"]
+        },
+        "content3": {
+          "format": "いつ・どこで？",
+          "examples": ["8月○日〜、オンライン開催。初心者歓迎。"]
+        },
+        "thanks_cta": ["詳細・申込はプロフのリンクから！", "質問はDMへ"]
+      },
+      "hashtags": ["#if塾", "#プログラミング塾", "#お知らせ", "#新コース", "#生徒募集", "#オンライン授業"]
+    },
+    "development": {
+      "id": "development",
+      "name": "開発物",
+      "purpose": "技術力の証明、生徒の成果物自慢",
+      "color_theme": {
+        "primary": "#1E88E5",
+        "secondary": "#00BCD4",
+        "accent": "#B3E5FC",
+        "text": "#FFFFFF"
+      },
+      "background_style": "実際のアプリ画面のスクショ or PCに向かってガッツポーズする人物",
+      "template": {
+        "cover": {
+          "format": "成果物の完成画像＋キャッチコピー",
+          "examples": ["高校生が作ったAIアプリが凄すぎる", "3時間でこれはヤバい", "中学生がゲーム開発！"]
+        },
+        "content1": {
+          "format": "どんな悩みを解決？（Before）",
+          "examples": ["単語暗記が面倒くさい…という悩みを解決するために開発。"]
+        },
+        "content2": {
+          "format": "どうやって動く？（Process）",
+          "examples": ["写真を撮るだけでAIが重要単語を抽出してクイズ化。"]
+        },
+        "content3": {
+          "format": "使った結果は？（After）",
+          "examples": ["通学時間が最強の勉強時間に。クラス全員で使ってます。"]
+        },
+        "thanks_cta": ["こんなアプリ作りたい人、募集中", "ソースコードは一部公開中"]
+      },
+      "hashtags": ["#if塾", "#プログラミング", "#アプリ開発", "#生徒作品", "#Python", "#JavaScript", "#AIアプリ"]
+    },
+    "activity": {
+      "id": "activity",
+      "name": "活動報告",
+      "purpose": "教室の雰囲気、信頼感の醸成、「楽しそう」と思わせる",
+      "color_theme": {
+        "primary": "#43A047",
+        "secondary": "#66BB6A",
+        "accent": "#C8E6C9",
+        "text": "#FFFFFF"
+      },
+      "background_style": "実際の授業風景写真（プライバシー加工済み）",
+      "template": {
+        "cover": {
+          "format": "笑顔の集合写真 or 授業風景",
+          "examples": ["今日の授業、盛り上がりすぎたｗ", "ハッカソン優勝しました！", "新しい仲間が増えました"]
+        },
+        "content1": {
+          "format": "今日何をした？（出来事）",
+          "examples": ["外部講師を招いて、最新の生成AIハッカソンを実施。"]
+        },
+        "content2": {
+          "format": "生徒の反応は？",
+          "examples": ["最初は苦戦していたけど、後半の集中力が凄かった。"]
+        },
+        "content3": {
+          "format": "指導者の視点（気付き）",
+          "examples": ["大人が教えるより、子供の柔軟な発想の方が進んでいるかも。"]
+        },
+        "thanks_cta": ["無料体験授業、毎日実施中！", "見学に来てね"]
+      },
+      "hashtags": ["#if塾", "#プログラミング教室", "#授業風景", "#ハッカソン", "#生徒の成長", "#楽しい授業"]
+    },
+    "education": {
+      "id": "education",
+      "name": "教育コラム",
+      "purpose": "保護者への啓蒙、教育方針の提示",
+      "color_theme": {
+        "primary": "#FF9800",
+        "secondary": "#FFB74D",
+        "accent": "#FFE0B2",
+        "text": "#212121"
+      },
+      "background_style": "考える人物のイラスト or 未来的な教室のイメージ",
+      "template": {
+        "cover": {
+          "format": "問いかけ・逆説",
+          "examples": ["『プログラミングは不要』は本当か？", "AI時代に消える職業、残る職業", "学校の成績より大切なこと"]
+        },
+        "content1": {
+          "format": "世の中の流れ（現状の課題）",
+          "examples": ["ただコードを書くだけの仕事はAIに代替されつつある。"]
+        },
+        "content2": {
+          "format": "if塾の考え（解決策・視点）",
+          "examples": ["重要なのはコードを書くことではなく、『何を作るか』を設計する力。"]
+        },
+        "content3": {
+          "format": "今やるべきこと（提案）",
+          "examples": ["だからこそ、若いうちからAIを『使う側』に回る経験が必要。"]
+        },
+        "thanks_cta": ["ためになったら『保存』ボタン", "教育相談も受付中"]
+      },
+      "hashtags": ["#if塾", "#教育", "#プログラミング教育", "#AI時代", "#子育て", "#保護者向け", "#将来のスキル"]
+    },
+    "ai_column": {
+      "id": "ai_column",
+      "name": "AIコラム",
+      "purpose": "情報感度の高さのアピール、リーチ獲得（保存されやすい）",
+      "color_theme": {
+        "primary": "#7B1FA2",
+        "secondary": "#AB47BC",
+        "accent": "#E1BEE7",
+        "text": "#FFFFFF"
+      },
+      "background_style": "サイバーパンク風のAIイメージ画像 or ツールロゴのコラージュ",
+      "template": {
+        "cover": {
+          "format": "ツール名 or 衝撃的な事実",
+          "examples": ["ChatGPT、まだ普通に使ってるの？", "画像生成AI、最新比較5選", "Gemini 2.5がヤバい理由"]
+        },
+        "content1": {
+          "format": "これは何？（ツール紹介）",
+          "examples": ["Googleの最新モデル『Gemini 2.5』が登場。ここが凄い。"]
+        },
+        "content2": {
+          "format": "どう使う？（活用例）",
+          "examples": ["宿題の画像を送るだけで、解説と類題を作ってくれる。"]
+        },
+        "content3": {
+          "format": "プロの視点（コツ・注意点）",
+          "examples": ["ただし、計算ミスもたまにあるので検算は必須。使い方がカギ。"]
+        },
+        "thanks_cta": ["友達にシェアして教えてあげて", "次回は動画生成AIを紹介"]
+      },
+      "hashtags": ["#if塾", "#AI", "#ChatGPT", "#Gemini", "#生成AI", "#AIツール", "#最新テック"]
+    },
+    "business": {
+      "id": "business",
+      "name": "ビジネスコラム",
+      "purpose": "子供の自立心刺激、実益への期待（差別化ポイント）",
+      "color_theme": {
+        "primary": "#FFC107",
+        "secondary": "#FFD54F",
+        "accent": "#212121",
+        "text": "#212121"
+      },
+      "background_style": "コインやグラフのイラスト or PCと通帳（比喩）の画像",
+      "template": {
+        "cover": {
+          "format": "金額 or 稼ぎ方",
+          "examples": ["中学生でも月3万稼ぐ方法", "LINEスタンプで小遣い稼ぎ", "高校生で副業デビュー"]
+        },
+        "content1": {
+          "format": "何を使う？（手段）",
+          "examples": ["生成AIでイラストを作成し、LINEスタンプとして販売する。"]
+        },
+        "content2": {
+          "format": "具体的なツール（手順）",
+          "examples": ["Midjourneyで画像生成 → Photoshopで透過 → 申請。"]
+        },
+        "content3": {
+          "format": "マインドセット（成功の秘訣）",
+          "examples": ["売れるまで改善し続ける『PDCA』が自然と身につくのが最大のメリット。"]
+        },
+        "thanks_cta": ["稼ぐ力は生きる力。一緒に学ぼう", "詳細はWebへ"]
+      },
+      "hashtags": ["#if塾", "#副業", "#中学生", "#高校生", "#お金の教育", "#LINEスタンプ", "#稼ぐ力"]
+    }
+  },
+  "weekly_schedule": {
+    "description": "曜日ごとにカテゴリを固定して視聴者が習慣化しやすく",
+    "schedule": {
+      "monday": {"category": "announcement", "reason": "週の始まり"},
+      "tuesday": {"category": "education", "reason": "保護者向け"},
+      "wednesday": {"category": "development", "reason": "成果物紹介"},
+      "thursday": {"category": "ai_column", "reason": "テック情報"},
+      "friday": {"category": "business", "reason": "週末に試してもらう"},
+      "saturday": {"category": "activity", "reason": "イベント報告"},
+      "sunday": {"category": "activity", "reason": "イベント報告"}
+    }
+  },
+  "posting_times": [
+    {"time": "09:00", "target": "朝の通勤・通学時間"},
+    {"time": "12:30", "target": "昼休み"},
+    {"time": "20:00", "target": "夜のリラックスタイム"}
+  ]
+}
