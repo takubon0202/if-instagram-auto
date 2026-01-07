@@ -349,7 +349,7 @@ JSON形式で出力:
 class ImageGenerationAgent:
     """
     画像生成エージェント
-    Gemini 2.5 Flash で Instagram用画像を生成
+    Imagen 3.0 で Instagram用画像を生成
     5シーン構成対応
     """
 
@@ -357,6 +357,18 @@ class ImageGenerationAgent:
         self.client = client
         self.model = MODELS["image"]
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
+
+    def _get_aspect_ratio(self, size: dict) -> str:
+        """サイズ情報からImagen用アスペクト比を取得"""
+        ratio = size.get('ratio', '1:1')
+        # Imagen 3.0 サポート: 1:1, 3:4, 4:3, 9:16, 16:9
+        supported_ratios = ['1:1', '3:4', '4:3', '9:16', '16:9']
+        if ratio in supported_ratios:
+            return ratio
+        # 4:5 は 3:4 に近いのでフォールバック
+        if ratio == '4:5':
+            return '3:4'
+        return '1:1'
 
     def generate_scene_image(
         self,
@@ -366,7 +378,7 @@ class ImageGenerationAgent:
         size: dict
     ) -> str:
         """
-        シーン用画像を生成
+        シーン用画像を生成（Imagen 3.0）
 
         Args:
             post_id: 投稿ID
@@ -377,58 +389,49 @@ class ImageGenerationAgent:
         if not self.client.is_available():
             raise Exception("Gemini client not available")
 
+        # Imagen用プロンプト（シンプルで効果的な記述）
         prompt = f"""
-Instagram投稿用の画像を生成してください。
+Create an Instagram post background image.
 
-## シーン情報
-シーン番号: {scene['scene_id']}
-シーン名: {scene['label']}
-目的: {scene.get('purpose', '')}
-見出し: {scene.get('headline', '')}
+Style: {category['visual_style']}
+Category: {category['name']}
+Color scheme: {category['colors']['primary']} and {category['colors']['secondary']}
+Scene purpose: {scene.get('purpose', 'content slide')}
 
-## スタイル要件
-- カテゴリ: {category['name']}
-- ビジュアルスタイル: {category['visual_style']}
-- プライマリカラー: {category['colors']['primary']}
-- セカンダリカラー: {category['colors']['secondary']}
-- アスペクト比: {size['ratio']} ({size['width']}x{size['height']}px)
-
-## デザイン要件
-- 極太ゴシック体風のテキストオーバーレイ用スペースを確保
-- 袋文字（縁取り）で視認性を最大化
-- ブランドカラーを活用
-- if塾のロゴスペースを確保
-
-## 禁止事項
-- 実際の文字をレンダリングしない（後から追加）
-- リアルな人物写真
-- 派手すぎるエフェクト
+Requirements:
+- Modern, clean design suitable for text overlay
+- Tech-inspired aesthetic with gradient backgrounds
+- Leave clear space in center for Japanese text
+- No text or letters in the image
+- Professional look for education/programming school
+- Brand colors: {category['colors']['primary']}, {category['colors']['secondary']}
 """
 
         try:
-            response = self.client.client.models.generate_content(
+            # Imagen 3.0 API を使用
+            response = self.client.client.models.generate_images(
                 model=self.model,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_modalities=["image"],
-                )
+                prompt=prompt,
+                config={
+                    "number_of_images": 1,
+                    "aspect_ratio": self._get_aspect_ratio(size),
+                    "safety_filter_level": "BLOCK_MEDIUM_AND_ABOVE",
+                }
             )
 
-            if response.candidates and response.candidates[0].content.parts:
-                for part in response.candidates[0].content.parts:
-                    if hasattr(part, 'inline_data') and part.inline_data:
-                        image_data = part.inline_data.data
-                        filename = f"{post_id}-{scene['scene_id']:02d}.png"
-                        output_path = self.output_dir / filename
-                        output_path.parent.mkdir(parents=True, exist_ok=True)
+            # 生成された画像を保存
+            if response.generated_images and len(response.generated_images) > 0:
+                image = response.generated_images[0]
+                image_data = image.image.image_bytes
 
-                        with open(output_path, 'wb') as f:
-                            if isinstance(image_data, str):
-                                f.write(base64.b64decode(image_data))
-                            else:
-                                f.write(image_data)
+                filename = f"{post_id}-{scene['scene_id']:02d}.png"
+                output_path = self.output_dir / filename
+                output_path.parent.mkdir(parents=True, exist_ok=True)
 
-                        return f"assets/img/posts/{filename}"
+                with open(output_path, 'wb') as f:
+                    f.write(image_data)
+
+                return f"assets/img/posts/{filename}"
 
             raise Exception("No image data in response")
 

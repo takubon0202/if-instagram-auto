@@ -10,9 +10,9 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Models
 MODELS = {
-    "research": "gemini-3-pro-preview",   # リサーチ・トレンド分析
+    "research": "gemini-2.5-flash",        # リサーチ・トレンド分析
     "content": "gemini-2.5-flash",         # コンテンツ生成
-    "image": "gemini-2.5-flash",           # 画像生成
+    "image": "imagen-3.0-generate-002",    # 画像生成（Imagen 3.0）
 }
 
 # Instagram Image Sizes (2026 Recommended)
