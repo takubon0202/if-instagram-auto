@@ -10,8 +10,8 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Models
 MODELS = {
-    "research": "gemini-2.5-flash",        # リサーチ・トレンド分析
-    "content": "gemini-2.5-flash",         # コンテンツ生成
+    "research": "gemini-3-pro-preview",    # リサーチ・トレンド分析（Google Search対応）
+    "content": "gemini-3-pro-preview",     # コンテンツ生成
     "image": "gemini-2.5-flash-image",     # 画像生成（Nano Banana）
 }
 
