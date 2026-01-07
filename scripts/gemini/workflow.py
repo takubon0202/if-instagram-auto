@@ -326,19 +326,24 @@ if塾では、子どもの可能性を最大限に発揮する
         return caption
 
     def _update_posts_json(self, new_posts: list):
-        """posts.jsonを更新"""
+        """
+        posts.jsonを更新（蓄積方式）
+        - 既存の投稿を削除せず、新しい投稿を追加
+        - 同じIDの投稿がある場合のみ更新
+        - 投稿はdatetime降順（新しい順）でソート
+        """
         posts_path = self.data_dir / "posts.json"
 
         if posts_path.exists():
             with open(posts_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
         else:
-            data = {"posts": []}
+            data = {"posts": [], "metadata": {}}
+
+        # 既存の投稿IDをセットで管理
+        existing_ids = {p["id"] for p in data["posts"]}
 
         for post in new_posts:
-            # 既存の投稿を削除
-            data["posts"] = [p for p in data["posts"] if p["id"] != post["id"]]
-
             # 新しい投稿データを整形
             post_data = {
                 "id": post["id"],
@@ -356,16 +361,40 @@ if塾では、子どもの可能性を最大限に発揮する
                 "highlight": post["category_name"],
                 "staff": post.get("staff"),
                 "staff_selection": post.get("staff_selection"),
+                "status": "published",
+                "engagement": {
+                    "likes": 0,
+                    "comments": 0,
+                    "saves": 0,
+                    "shares": 0
+                },
                 "notes_for_instagram": {
                     "cover_text": post["title"][:20],
                     "first_comment": "詳細は if-juku.net から",
                     "scenes": post.get("scenes", [])
                 }
             }
-            data["posts"].append(post_data)
 
-        # 日時でソート
+            if post["id"] in existing_ids:
+                # 同じIDの投稿がある場合は更新
+                data["posts"] = [
+                    post_data if p["id"] == post["id"] else p
+                    for p in data["posts"]
+                ]
+            else:
+                # 新しい投稿を追加
+                data["posts"].append(post_data)
+
+        # datetime降順（新しい順）でソート
         data["posts"].sort(key=lambda x: x["datetime"], reverse=True)
+
+        # メタデータを更新
+        data["metadata"] = {
+            "version": "3.0",
+            "total_posts": len(data["posts"]),
+            "last_updated": datetime.now().isoformat(),
+            "categories": list(CATEGORIES.keys())
+        }
 
         with open(posts_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)

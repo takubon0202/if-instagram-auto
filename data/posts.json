@@ -1,4 +1,10 @@
 {
+  "metadata": {
+    "version": "3.0",
+    "total_posts": 11,
+    "last_updated": "2026-01-07T12:00:00+09:00",
+    "categories": ["announcement", "development", "activity", "education", "ai_column", "business"]
+  },
   "posts": [
     {
       "id": "2026-01-09-2000-juku-reel-01",
@@ -32,7 +38,9 @@
         "cover_text": "「学校に行きたくない」と言われたら",
         "first_comment": "詳細は if-juku.net から",
         "reel_script": "{\"duration\": 15, \"sections\": [{\"timestamp\": \"0:00-0:01\", \"text_overlay\": \"「学校に行きたくない」と言われたら\"}, {\"timestamp\": \"0:01-0:04\", \"text_overlay\": \"（問題提起）\"}, {\"timestamp\": \"0:04-0:08\", \"text_overlay\": \"（視点転換）\"}, {\"timestamp\": \"0:08-0:12\", \"text_overlay\": \"（解決策）\"}, {\"timestamp\": \"0:12-0:15\", \"text_overlay\": \"if-juku.net\"}]}"
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-09-1230-biz-carousel-01",
@@ -89,7 +97,9 @@
         "cover_text": "AI導入で失敗する会社の特徴",
         "first_comment": "詳細は if-juku.net から",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-09-0900-juku-carousel-01",
@@ -153,7 +163,9 @@
         "cover_text": "「学校に行きたくない」と言われたら",
         "first_comment": "詳細は if-juku.net から",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-09-0900-business-carousel-01",
@@ -265,7 +277,9 @@
             "fixed_image": "assets/img/posts/ifjukuthanks.png"
           }
         ]
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-08-2000-juku-reel-01",
@@ -300,7 +314,9 @@
         "cover_text": "言えない子のサイン",
         "first_comment": "気になることがあればDMでお気軽に。詳細は if-juku.net",
         "reel_script": "【0-1秒】「学校行きたくない」言えない子が増えています（テロップ）\n【1-4秒】朝になると体調不良/口数が減った/笑顔が消えた（サイン表示）\n【4-8秒】でも「行きたくない」は言葉にできない（視点転換）\n【8-12秒】だから家庭に「安心して話せる時間」を（提案）\n【12-15秒】居場所づくり、一緒に考えませんか？プロフィールから無料相談（CTA）"
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-08-1230-biz-carousel-01",
@@ -359,7 +375,9 @@
         "cover_text": "AI導入テンプレ公開",
         "first_comment": "AI導入のご相談はDMまたは if-juku.net から。",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-08-0900-juku-carousel-01",
@@ -397,17 +415,17 @@
         {
           "kind": "image",
           "src": "assets/img/posts/2026-01-08-0900-03.svg",
-          "alt": "3枚目：効く言葉①「楽しみなこと何？」"
+          "alt": "3枚目：効く言葉1「楽しみなこと何？」"
         },
         {
           "kind": "image",
           "src": "assets/img/posts/2026-01-08-0900-04.svg",
-          "alt": "4枚目：効く言葉②「去年できたこと何？」"
+          "alt": "4枚目：効く言葉2「去年できたこと何？」"
         },
         {
           "kind": "image",
           "src": "assets/img/posts/2026-01-08-0900-05.svg",
-          "alt": "5枚目：効く言葉③「困ったら言ってね」"
+          "alt": "5枚目：効く言葉3「困ったら言ってね」"
         },
         {
           "kind": "image",
@@ -425,7 +443,9 @@
         "cover_text": "新学期前の声かけ",
         "first_comment": "ご質問はDMでお気軽にどうぞ。詳細は if-juku.net から。",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-08-0900-ai_column-carousel-01",
@@ -518,7 +538,9 @@
             "fixed_image": "assets/img/posts/ifjukuthanks.png"
           }
         ]
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-07-2000-juku-reel-01",
@@ -553,7 +575,9 @@
         "cover_text": "普通じゃなくていい",
         "first_comment": "気になることがあればDMでお気軽に。詳細は if-juku.net",
         "reel_script": "【0-1秒】「普通」って何？（テロップ大きく）\n【1-3秒】学校に行くのが普通？毎日同じ時間に起きるのが普通？\n【3-5秒】if(塾)では、あなたの「普通」を一緒に見つけます\n【5-8秒】プログラミングを通じて、自分のペースで\n【8-10秒】まずは無料体験から（CTA表示）"
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-07-1230-biz-carousel-01",
@@ -611,7 +635,9 @@
         "cover_text": "AI研修の失敗3選",
         "first_comment": "研修のご相談はDMまたは if-juku.net から。",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     },
     {
       "id": "2026-01-07-0900-juku-carousel-01",
@@ -665,7 +691,11 @@
         "cover_text": "朝がつらい日に",
         "first_comment": "ご質問はDMでお気軽にどうぞ。詳細は if-juku.net から。",
         "reel_script": null
-      }
+      },
+      "status": "published",
+      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
     }
-  ]
+  ],
+  "scheduled": [],
+  "drafts": []
 }

@@ -1068,6 +1068,276 @@ a {
 }
 
 /* ========================================
+   Posts Controls - View Toggle & Category Filter
+   ======================================== */
+.posts-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  margin-bottom: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+}
+
+@media (min-width: 640px) {
+  .posts-controls {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.posts-controls__left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+/* View Toggle */
+.view-toggle {
+  display: flex;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  padding: 4px;
+}
+
+.view-toggle__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.view-toggle__btn:hover {
+  color: var(--text-secondary);
+  background: var(--bg-card-hover);
+}
+
+.view-toggle__btn.is-active {
+  color: var(--text-primary);
+  background: var(--accent-blue);
+}
+
+/* Posts Count */
+.posts-count {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+/* Category Filter */
+.category-filter {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 4px;
+}
+
+.category-filter::-webkit-scrollbar {
+  height: 4px;
+}
+
+.category-filter::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 2px;
+}
+
+.category-btn {
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+}
+
+.category-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-card-hover);
+  border-color: var(--border-color-hover);
+}
+
+.category-btn.is-active {
+  color: white;
+  background: var(--accent-blue);
+  border-color: var(--accent-blue);
+}
+
+/* ========================================
+   Posts Grid Modes
+   ======================================== */
+.posts-grid--grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+}
+
+.posts-grid--feed {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Feed Mode Post Card */
+.post-card--feed {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: all var(--transition-normal);
+  aspect-ratio: auto;
+}
+
+.post-card--feed:hover {
+  border-color: var(--border-color-hover);
+  box-shadow: var(--shadow-md);
+}
+
+.post-card--feed .post-card__header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.post-card--feed .post-card__avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-round);
+  background: var(--gradient-if-brand);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 700;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.post-card--feed .post-card__meta {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.post-card--feed .post-card__username {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+}
+
+.post-card--feed .post-card__date {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.post-card--feed .post-card__category {
+  padding: 4px 10px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--accent-blue);
+  background: rgba(0, 149, 246, 0.1);
+  border-radius: var(--radius-sm);
+}
+
+.post-card--feed .post-card__media {
+  position: relative;
+  aspect-ratio: 1;
+  background: var(--bg-secondary);
+}
+
+.post-card--feed .post-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.post-card--feed .post-card__type-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  color: white;
+  font-size: 1rem;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.post-card--feed .post-card__media-count {
+  position: absolute;
+  top: 12px;
+  right: 40px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.post-card--feed .post-card__body {
+  padding: 14px 16px;
+}
+
+.post-card--feed .post-card__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.post-card--feed .post-card__caption {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Multi-image badge for grid view */
+.post-card__multi-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: white;
+  font-size: 0.9rem;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+/* ========================================
+   Posts Loading Indicator
+   ======================================== */
+.posts-loading {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 32px;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.posts-loading.is-visible {
+  display: flex;
+}
+
+.posts-loading .loading__spinner {
+  width: 24px;
+  height: 24px;
+}
+
+/* ========================================
    Responsive
    ======================================== */
 @media (max-width: 768px) {
@@ -1093,5 +1363,54 @@ a {
 
   .service-cards {
     grid-template-columns: 1fr;
+  }
+
+  /* Posts Controls Mobile */
+  .posts-controls {
+    padding: 12px;
+    gap: 12px;
+    margin: 0 12px 12px;
+  }
+
+  .posts-controls__left {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .category-filter {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    margin: 0 -12px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .category-btn {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+
+  /* Posts Grid Mobile */
+  .posts-grid--grid {
+    gap: 2px;
+    padding: 0;
+  }
+
+  .posts-grid--feed {
+    padding: 0 12px;
+    max-width: 100%;
+  }
+
+  .post-card--feed .post-card__header {
+    padding: 12px;
+  }
+
+  .post-card--feed .post-card__body {
+    padding: 12px;
+  }
+
+  .posts-loading {
+    padding: 24px;
   }
 }

@@ -1,10 +1,24 @@
 /**
  * if(塾) Instagram風ブログ - メインアプリケーション
  * 依存ライブラリなし（Vanilla JS）
+ *
+ * 機能:
+ * - Grid/Feed表示切り替え
+ * - 無限スクロール（12投稿ずつ読み込み）
+ * - カテゴリフィルター
+ * - 投稿カウント表示
+ * - ローディング状態
+ * - スクロール位置保持
  */
 
 (function() {
   'use strict';
+
+  // ========================================
+  // Constants
+  // ========================================
+  const POSTS_PER_PAGE = 12;
+  const SCROLL_THRESHOLD = 200; // px from bottom to trigger load
 
   // ========================================
   // State
@@ -19,7 +33,17 @@
     currentStory: 0,
     storyTimer: null,
     storyProgress: 0,
-    filteredStories: []
+    filteredStories: [],
+    // New state for infinite scroll and filtering
+    displayedPosts: [],
+    filteredPosts: [],
+    currentPage: 0,
+    isLoading: false,
+    hasMorePosts: true,
+    currentCategory: 'all',
+    viewMode: 'grid', // 'grid' or 'feed'
+    scrollPosition: 0,
+    categories: []
   };
 
   // ========================================
@@ -30,7 +54,13 @@
     highlightsContainer: null,
     postsGrid: null,
     modal: null,
-    storyViewer: null
+    storyViewer: null,
+    // New elements
+    postsSection: null,
+    viewToggle: null,
+    categoryFilter: null,
+    postCount: null,
+    loadingIndicator: null
   };
 
   // ========================================
@@ -54,11 +84,176 @@
       state.stories = storiesData.stories || [];
       state.highlights = highlightsData.highlights || [];
 
+      // Extract unique categories from posts
+      extractCategories();
+
+      // Initialize filtered posts with all posts
+      state.filteredPosts = [...state.posts];
+      state.hasMorePosts = state.filteredPosts.length > 0;
+
       return true;
     } catch (error) {
       console.error('Failed to load data:', error);
       return false;
     }
+  }
+
+  // ========================================
+  // Category Management
+  // ========================================
+  function extractCategories() {
+    const categorySet = new Set();
+
+    state.posts.forEach(post => {
+      // Check highlight field (most common category indicator)
+      if (post.highlight) {
+        categorySet.add(post.highlight);
+      }
+      // Also check track and category fields
+      if (post.track) {
+        categorySet.add(post.track);
+      }
+      if (post.category) {
+        categorySet.add(post.category);
+      }
+    });
+
+    state.categories = Array.from(categorySet).sort();
+  }
+
+  function filterByCategory(category) {
+    state.currentCategory = category;
+    state.currentPage = 0;
+    state.displayedPosts = [];
+    state.hasMorePosts = true;
+
+    if (category === 'all') {
+      state.filteredPosts = [...state.posts];
+    } else {
+      state.filteredPosts = state.posts.filter(post =>
+        post.highlight === category ||
+        post.track === category ||
+        post.category === category
+      );
+    }
+
+    // Re-render posts
+    clearPostsGrid();
+    loadMorePosts();
+    updatePostCount();
+    updateCategoryButtons();
+  }
+
+  function updateCategoryButtons() {
+    if (!elements.categoryFilter) return;
+
+    const buttons = elements.categoryFilter.querySelectorAll('.category-btn');
+    buttons.forEach(btn => {
+      const isActive = btn.dataset.category === state.currentCategory;
+      btn.classList.toggle('is-active', isActive);
+    });
+  }
+
+  // ========================================
+  // View Mode Toggle
+  // ========================================
+  function toggleViewMode() {
+    state.viewMode = state.viewMode === 'grid' ? 'feed' : 'grid';
+
+    if (elements.postsGrid) {
+      elements.postsGrid.classList.toggle('posts-grid--feed', state.viewMode === 'feed');
+      elements.postsGrid.classList.toggle('posts-grid--grid', state.viewMode === 'grid');
+    }
+
+    updateViewToggleButtons();
+
+    // Re-render displayed posts in new mode
+    rerenderDisplayedPosts();
+  }
+
+  function updateViewToggleButtons() {
+    if (!elements.viewToggle) return;
+
+    const gridBtn = elements.viewToggle.querySelector('[data-view="grid"]');
+    const feedBtn = elements.viewToggle.querySelector('[data-view="feed"]');
+
+    if (gridBtn) gridBtn.classList.toggle('is-active', state.viewMode === 'grid');
+    if (feedBtn) feedBtn.classList.toggle('is-active', state.viewMode === 'feed');
+  }
+
+  // ========================================
+  // Post Count
+  // ========================================
+  function updatePostCount() {
+    if (!elements.postCount) return;
+
+    const total = state.filteredPosts.length;
+    const displayed = state.displayedPosts.length;
+
+    elements.postCount.textContent = `${displayed} / ${total} 件の投稿`;
+  }
+
+  // ========================================
+  // Infinite Scroll & Loading
+  // ========================================
+  function loadMorePosts() {
+    if (state.isLoading || !state.hasMorePosts) return;
+
+    state.isLoading = true;
+    showLoading();
+
+    // Simulate async loading with requestAnimationFrame for smooth UI
+    requestAnimationFrame(() => {
+      const start = state.currentPage * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      const newPosts = state.filteredPosts.slice(start, end);
+
+      if (newPosts.length > 0) {
+        state.displayedPosts = [...state.displayedPosts, ...newPosts];
+        state.currentPage++;
+        appendPosts(newPosts, start);
+      }
+
+      state.hasMorePosts = end < state.filteredPosts.length;
+      state.isLoading = false;
+
+      hideLoading();
+      updatePostCount();
+    });
+  }
+
+  function showLoading() {
+    if (elements.loadingIndicator) {
+      elements.loadingIndicator.classList.add('is-visible');
+    }
+  }
+
+  function hideLoading() {
+    if (elements.loadingIndicator) {
+      elements.loadingIndicator.classList.remove('is-visible');
+    }
+  }
+
+  function handleScroll() {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    const windowHeight = window.innerHeight;
+    const documentHeight = document.documentElement.scrollHeight;
+
+    // Check if we're near the bottom
+    if (documentHeight - (scrollTop + windowHeight) < SCROLL_THRESHOLD) {
+      loadMorePosts();
+    }
+  }
+
+  // ========================================
+  // Scroll Position Management
+  // ========================================
+  function saveScrollPosition() {
+    state.scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+  }
+
+  function restoreScrollPosition() {
+    window.scrollTo(0, state.scrollPosition);
   }
 
   // ========================================
@@ -127,26 +322,136 @@
     });
   }
 
-  function renderPosts() {
-    const container = elements.postsGrid;
-    if (!container || state.posts.length === 0) {
-      if (container) {
-        container.innerHTML = `
-          <div class="empty" style="grid-column: 1 / -1;">
-            <div class="empty__icon">📷</div>
-            <p>投稿がありません</p>
+  function renderControlsUI() {
+    // Create posts section wrapper if not exists
+    const postsGrid = elements.postsGrid;
+    if (!postsGrid) return;
+
+    // Create controls container
+    const controlsHtml = `
+      <div class="posts-controls">
+        <div class="posts-controls__left">
+          <div class="view-toggle" id="view-toggle">
+            <button class="view-toggle__btn is-active" data-view="grid" aria-label="グリッド表示">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                <rect x="3" y="3" width="7" height="7" rx="1"/>
+                <rect x="14" y="3" width="7" height="7" rx="1"/>
+                <rect x="3" y="14" width="7" height="7" rx="1"/>
+                <rect x="14" y="14" width="7" height="7" rx="1"/>
+              </svg>
+            </button>
+            <button class="view-toggle__btn" data-view="feed" aria-label="フィード表示">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                <rect x="3" y="3" width="18" height="6" rx="1"/>
+                <rect x="3" y="12" width="18" height="6" rx="1"/>
+              </svg>
+            </button>
           </div>
-        `;
-      }
-      return;
+          <span class="posts-count" id="posts-count">0 / 0 件の投稿</span>
+        </div>
+        <div class="category-filter" id="category-filter">
+          <button class="category-btn is-active" data-category="all">すべて</button>
+          ${state.categories.map(cat => `
+            <button class="category-btn" data-category="${cat}">${cat}</button>
+          `).join('')}
+        </div>
+      </div>
+    `;
+
+    // Insert controls before posts grid
+    postsGrid.insertAdjacentHTML('beforebegin', controlsHtml);
+
+    // Create loading indicator
+    const loadingHtml = `
+      <div class="posts-loading" id="posts-loading">
+        <div class="loading__spinner"></div>
+        <span>読み込み中...</span>
+      </div>
+    `;
+    postsGrid.insertAdjacentHTML('afterend', loadingHtml);
+
+    // Cache new elements
+    elements.viewToggle = document.getElementById('view-toggle');
+    elements.categoryFilter = document.getElementById('category-filter');
+    elements.postCount = document.getElementById('posts-count');
+    elements.loadingIndicator = document.getElementById('posts-loading');
+
+    // Add event listeners for controls
+    initControlsListeners();
+  }
+
+  function initControlsListeners() {
+    // View toggle
+    if (elements.viewToggle) {
+      elements.viewToggle.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-view]');
+        if (btn && btn.dataset.view !== state.viewMode) {
+          toggleViewMode();
+        }
+      });
     }
 
-    const html = state.posts.map((post, index) => {
-      const firstMedia = post.media && post.media[0];
-      const imageSrc = firstMedia ? firstMedia.src : '';
-      const imageAlt = firstMedia ? firstMedia.alt : post.title;
-      const typeIcon = post.type === 'carousel' ? '◫' : (post.type === 'reel' ? '▶' : '');
+    // Category filter
+    if (elements.categoryFilter) {
+      elements.categoryFilter.addEventListener('click', (e) => {
+        const btn = e.target.closest('.category-btn');
+        if (btn) {
+          filterByCategory(btn.dataset.category);
+        }
+      });
+    }
+  }
 
+  function clearPostsGrid() {
+    if (elements.postsGrid) {
+      elements.postsGrid.innerHTML = '';
+    }
+  }
+
+  function renderPostCard(post, index) {
+    const firstMedia = post.media && post.media[0];
+    const imageSrc = firstMedia ? firstMedia.src : '';
+    const imageAlt = firstMedia ? firstMedia.alt : post.title;
+    const typeIcon = post.type === 'carousel' ? '&#9707;' : (post.type === 'reel' ? '&#9654;' : '');
+
+    if (state.viewMode === 'feed') {
+      // Feed view - larger card with more info
+      const datetime = new Date(post.datetime);
+      const dateStr = datetime.toLocaleDateString('ja-JP', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
+      });
+
+      return `
+        <article class="post-card post-card--feed" data-index="${index}" tabindex="0" role="button" aria-label="${post.title}">
+          <div class="post-card__header">
+            <div class="post-card__avatar">if</div>
+            <div class="post-card__meta">
+              <span class="post-card__username">if_juku</span>
+              <time class="post-card__date">${dateStr}</time>
+            </div>
+            ${post.highlight ? `<span class="post-card__category">${post.highlight}</span>` : ''}
+          </div>
+          <div class="post-card__media">
+            <img
+              src="${imageSrc}"
+              alt="${imageAlt}"
+              class="post-card__image"
+              loading="lazy"
+              onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect fill=%22%23f5f5f5%22 width=%22100%22 height=%22100%22/><text x=%2250%22 y=%2250%22 text-anchor=%22middle%22 fill=%22%23999%22 font-size=%228%22>${encodeURIComponent(post.title.substring(0, 10))}</text></svg>'"
+            >
+            ${typeIcon ? `<span class="post-card__type-badge" aria-hidden="true">${typeIcon}</span>` : ''}
+            ${post.media && post.media.length > 1 ? `<span class="post-card__media-count">${post.media.length}</span>` : ''}
+          </div>
+          <div class="post-card__body">
+            <h3 class="post-card__title">${post.title}</h3>
+            <p class="post-card__caption">${post.caption.split('\n')[0].substring(0, 100)}${post.caption.length > 100 ? '...' : ''}</p>
+          </div>
+        </article>
+      `;
+    } else {
+      // Grid view - compact card
       return `
         <article class="post-card" data-index="${index}" tabindex="0" role="button" aria-label="${post.title}">
           <img
@@ -160,33 +465,115 @@
             <span class="sr-only">詳細を見る</span>
           </div>
           ${typeIcon ? `<span class="post-card__type-badge" aria-hidden="true">${typeIcon}</span>` : ''}
+          ${post.media && post.media.length > 1 ? `<span class="post-card__multi-badge" aria-hidden="true">&#9707;</span>` : ''}
         </article>
       `;
-    }).join('');
+    }
+  }
 
-    container.innerHTML = html;
+  function appendPosts(posts, startIndex) {
+    const container = elements.postsGrid;
+    if (!container) return;
 
-    // Add click handlers
-    container.querySelectorAll('.post-card').forEach(card => {
+    const fragment = document.createDocumentFragment();
+
+    posts.forEach((post, i) => {
+      const wrapper = document.createElement('div');
+      wrapper.innerHTML = renderPostCard(post, startIndex + i);
+      const card = wrapper.firstElementChild;
+
+      // Add click handler
       card.addEventListener('click', () => {
-        const index = parseInt(card.dataset.index, 10);
-        openPostModal(index);
+        saveScrollPosition();
+        openPostModal(startIndex + i);
       });
+
       card.addEventListener('keydown', (e) => {
         if (e.key === 'Enter' || e.key === ' ') {
           e.preventDefault();
-          const index = parseInt(card.dataset.index, 10);
-          openPostModal(index);
+          saveScrollPosition();
+          openPostModal(startIndex + i);
+        }
+      });
+
+      // Add animation class
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(20px)';
+
+      fragment.appendChild(card);
+    });
+
+    container.appendChild(fragment);
+
+    // Animate new cards
+    requestAnimationFrame(() => {
+      const newCards = container.querySelectorAll('.post-card');
+      newCards.forEach((card, i) => {
+        if (i >= startIndex) {
+          setTimeout(() => {
+            card.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+            card.style.opacity = '1';
+            card.style.transform = 'translateY(0)';
+          }, (i - startIndex) * 50);
         }
       });
     });
+  }
+
+  function rerenderDisplayedPosts() {
+    clearPostsGrid();
+
+    const container = elements.postsGrid;
+    if (!container) return;
+
+    state.displayedPosts.forEach((post, index) => {
+      const wrapper = document.createElement('div');
+      wrapper.innerHTML = renderPostCard(post, index);
+      const card = wrapper.firstElementChild;
+
+      card.addEventListener('click', () => {
+        saveScrollPosition();
+        openPostModal(index);
+      });
+
+      card.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          saveScrollPosition();
+          openPostModal(index);
+        }
+      });
+
+      container.appendChild(card);
+    });
+  }
+
+  function renderPosts() {
+    const container = elements.postsGrid;
+    if (!container) return;
+
+    // Clear and show initial loading
+    container.innerHTML = '';
+
+    if (state.posts.length === 0) {
+      container.innerHTML = `
+        <div class="empty" style="grid-column: 1 / -1;">
+          <div class="empty__icon">📷</div>
+          <p>投稿がありません</p>
+        </div>
+      `;
+      return;
+    }
+
+    // Load first batch of posts
+    loadMorePosts();
   }
 
   // ========================================
   // Post Modal
   // ========================================
   function openPostModal(index) {
-    const post = state.posts[index];
+    const post = state.displayedPosts[index];
     if (!post) return;
 
     state.currentPost = post;
@@ -206,6 +593,11 @@
     modal.classList.remove('is-open');
     document.body.style.overflow = '';
     state.currentPost = null;
+
+    // Restore scroll position after modal closes
+    requestAnimationFrame(() => {
+      restoreScrollPosition();
+    });
   }
 
   function updateModalContent(post) {
@@ -468,6 +860,15 @@
       }
     });
 
+    // Infinite scroll
+    let scrollTimeout;
+    window.addEventListener('scroll', () => {
+      if (scrollTimeout) {
+        cancelAnimationFrame(scrollTimeout);
+      }
+      scrollTimeout = requestAnimationFrame(handleScroll);
+    }, { passive: true });
+
     // Swipe
     initSwipeSupport();
   }
@@ -506,6 +907,14 @@
       return;
     }
 
+    // Render UI controls
+    renderControlsUI();
+
+    // Add grid class for initial state
+    if (elements.postsGrid) {
+      elements.postsGrid.classList.add('posts-grid--grid');
+    }
+
     // Render
     renderStories();
     renderHighlights();
@@ -515,7 +924,19 @@
     initEventListeners();
 
     console.log('if(塾) Instagram風ブログ initialized');
+    console.log(`Total posts: ${state.posts.length}, Categories: ${state.categories.join(', ')}`);
   }
+
+  // ========================================
+  // Public API (for debugging)
+  // ========================================
+  window.ifJukuApp = {
+    loadMorePosts,
+    filterByCategory,
+    toggleViewMode,
+    updatePostCount,
+    getState: () => ({ ...state })
+  };
 
   // Run when DOM is ready
   if (document.readyState === 'loading') {
