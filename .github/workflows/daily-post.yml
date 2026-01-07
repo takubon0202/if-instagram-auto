@@ -1,0 +1,109 @@
+name: Daily Instagram Post
+
+on:
+  # 毎日 JST 9:00, 12:30, 20:00 に実行
+  schedule:
+    - cron: '0 0 * * *'   # UTC 0:00 = JST 9:00
+    - cron: '30 3 * * *'  # UTC 3:30 = JST 12:30
+    - cron: '0 11 * * *'  # UTC 11:00 = JST 20:00
+
+  # 手動実行
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'カテゴリ（空欄で自動選択）'
+        required: false
+        type: choice
+        options:
+          - ''
+          - ai_column
+          - development
+          - education
+          - activity
+          - announcement
+          - business
+      dry_run:
+        description: 'ドライラン（コミットしない）'
+        required: false
+        type: boolean
+        default: false
+
+env:
+  TZ: Asia/Tokyo
+
+jobs:
+  generate-post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run daily workflow
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          echo "Running daily workflow at $(date)"
+
+          # カテゴリ指定がある場合
+          if [ -n "${{ github.event.inputs.category }}" ]; then
+            python -m scripts.gemini.workflow generate --category "${{ github.event.inputs.category }}"
+          else
+            python -m scripts.gemini.workflow daily
+          fi
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.git-check.outputs.changes == 'true' && github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 変更をステージング
+          git add -A
+
+          # コミットメッセージ作成
+          DATE=$(date +%Y-%m-%d)
+          TIME=$(date +%H:%M)
+
+          git commit -m "$(cat <<EOF
+          🤖 Auto-post: ${DATE} ${TIME}
+
+          自動投稿ワークフローによる更新
+
+          Generated with GitHub Actions
+          EOF
+          )"
+
+          git push
+
+      - name: Summary
+        run: |
+          echo "## 実行結果" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 実行日時: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "- カテゴリ: ${{ github.event.inputs.category || '自動選択' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- ドライラン: ${{ github.event.inputs.dry_run || 'false' }}" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ steps.git-check.outputs.changes }}" == "true" ]; then
+            echo "- ステータス: ✅ 投稿を追加しました" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- ステータス: ℹ️ 変更なし" >> $GITHUB_STEP_SUMMARY
+          fi
