@@ -207,6 +207,71 @@ GEMINI_API_KEYが未設定の場合、モックデータで動作:
 
 ---
 
+## スタッフ画像システム
+
+### スタッフ一覧
+
+| ID | 名前 | 役割 | 対応カテゴリ |
+|----|------|------|--------------|
+| inoue_haruto | 井上陽斗 | 講師 | activity, development, education |
+| kagaya_yuma | 加賀屋結眞 | 講師 | activity, development, ai_column |
+| yamazaki_takumi | 山﨑琢己 | 講師 | activity, development, education |
+| watanabe_yuzuki | 渡辺柚気 | 講師 | activity, development, business |
+| fujimoto_hinata | 藤本陽向 | 講師 | activity, development, education |
+| takasaki_shota | 高崎翔太 | 代表・講師 | 全カテゴリ |
+
+### 画像タイプ
+
+| タイプ | 用途 | 推奨シーン |
+|--------|------|------------|
+| profile | プロフィール写真 | cover, announcement |
+| teaching | 授業風景 | content1, content2, development |
+| casual | カジュアル写真 | content3, activity |
+| business | ビジネス写真 | announcement, business |
+
+### カテゴリ別選択ルール
+
+| カテゴリ | 優先スタッフ | 画像タイプ |
+|----------|-------------|------------|
+| お知らせ | 高崎翔太 | business |
+| 開発物 | 全員からランダム | teaching |
+| 活動報告 | 全員からランダム | casual |
+| 教育コラム | 高崎翔太 | profile |
+| AIコラム | 高崎翔太, 加賀屋結眞 | casual |
+| ビジネスコラム | 高崎翔太 | business |
+
+### セットアップ
+
+```bash
+# スタッフディレクトリを作成
+python -m scripts.gemini.staff setup
+
+# 画像の状態をチェック
+python -m scripts.gemini.staff check
+```
+
+### 画像配置
+
+Google Drive からスタッフ画像をダウンロードして配置：
+- ソース: https://drive.google.com/drive/folders/1CYGZroIXSF6Mkh1ARfM_BPcTSa9FWapV
+
+```
+assets/img/staff/
+├── inoue_haruto/
+│   ├── profile.png
+│   ├── teaching.png
+│   └── casual.png
+├── kagaya_yuma/
+│   └── ...
+└── takasaki_shota/
+    ├── profile.png
+    ├── teaching.png
+    ├── casual.png
+    └── business.png
+```
+
+---
+
 ## 運用フロー
 
 ### Daily Run（毎日実行）

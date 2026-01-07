@@ -37,6 +37,7 @@ from scripts.gemini.config import (
     SCENE_STRUCTURE,
     RESEARCH_CONFIG
 )
+from scripts.gemini.staff import StaffImageAgent, StaffImageManager
 
 
 class InstagramWorkflowV2:
@@ -51,6 +52,7 @@ class InstagramWorkflowV2:
         self.image_agent = ImageGenerationAgent(self.client)
         self.content_agent = ContentGenerationAgent(self.client)
         self.improvement_agent = ContentImprovementAgent(self.client)
+        self.staff_agent = StaffImageAgent()
 
         self.data_dir = Path(__file__).parent.parent.parent / "data"
         self.output_dir = Path(__file__).parent.parent.parent / "scripts"
@@ -97,11 +99,13 @@ class InstagramWorkflowV2:
             print(f"  [NG] リサーチエラー: {e}")
             results["research"] = {"error": str(e)}
 
-        # Step 2: コンテンツ企画（5シーン構成）
+        # Step 2: コンテンツ企画（5シーン構成）+ スタッフ選択
         print("\n[Step 2/5] コンテンツ企画（5シーン構成）...")
         post = self._plan_5scene_post(date, category_id, results.get("research", {}))
         results["posts"].append(post)
         print(f"  [OK] 投稿企画完了: {post['title']}")
+        if post.get("staff"):
+            print(f"  [OK] スタッフ選択: {post['staff'].get('name', 'なし')}")
 
         # Step 3: 画像生成（4枚 + サンクス画像）
         print("\n[Step 3/5] 画像生成...")
@@ -142,6 +146,21 @@ class InstagramWorkflowV2:
         topics = research.get("trending_topics", [])
         topic = topics[0] if topics else f"{category['name']}について"
 
+        # スタッフ画像を選択
+        staff_suggestion = self.staff_agent.suggest_staff_for_post(category_id, topic)
+        selected_staff = staff_suggestion.get("suggested_staff")
+        staff_info = None
+        if selected_staff:
+            staff_info = self.staff_agent.manager.get_staff_info_for_post(selected_staff["id"])
+
+        # 各シーンのスタッフ画像を取得
+        scene_staff_images = {}
+        for scene_name in ["cover", "content1", "content2", "content3"]:
+            staff_id = selected_staff["id"] if selected_staff else None
+            image_path = self.staff_agent.get_image_for_scene(category_id, scene_name, staff_id)
+            if image_path:
+                scene_staff_images[scene_name] = image_path
+
         # 5シーン構成
         scenes = [
             {
@@ -150,7 +169,8 @@ class InstagramWorkflowV2:
                 "label": "表紙",
                 "headline": topic,
                 "subtext": "",
-                "purpose": category["cover_format"]
+                "purpose": category["cover_format"],
+                "staff_image": scene_staff_images.get("cover")
             },
             {
                 "scene_id": 2,
@@ -158,7 +178,8 @@ class InstagramWorkflowV2:
                 "label": "内容1",
                 "headline": "",
                 "subtext": "",
-                "purpose": category["content1_format"]
+                "purpose": category["content1_format"],
+                "staff_image": scene_staff_images.get("content1")
             },
             {
                 "scene_id": 3,
@@ -166,7 +187,8 @@ class InstagramWorkflowV2:
                 "label": "内容2",
                 "headline": "",
                 "subtext": "",
-                "purpose": category["content2_format"]
+                "purpose": category["content2_format"],
+                "staff_image": scene_staff_images.get("content2")
             },
             {
                 "scene_id": 4,
@@ -174,7 +196,8 @@ class InstagramWorkflowV2:
                 "label": "内容3",
                 "headline": "",
                 "subtext": "",
-                "purpose": category["content3_format"]
+                "purpose": category["content3_format"],
+                "staff_image": scene_staff_images.get("content3")
             },
             {
                 "scene_id": 5,
@@ -188,7 +211,7 @@ class InstagramWorkflowV2:
         ]
 
         # キャプション生成
-        caption = self._generate_caption(category, topic)
+        caption = self._generate_caption(category, topic, staff_info)
 
         return {
             "id": post_id,
@@ -202,7 +225,13 @@ class InstagramWorkflowV2:
             "hashtags": category["hashtags"][:10],
             "cta_url": BRAND_CONFIG["url"],
             "colors": category["colors"],
-            "visual_style": category["visual_style"]
+            "visual_style": category["visual_style"],
+            "staff": staff_info,
+            "staff_selection": {
+                "staff_id": selected_staff["id"] if selected_staff else None,
+                "image_type": staff_suggestion.get("image_type"),
+                "reason": staff_suggestion.get("reason")
+            }
         }
 
     def _generate_5scene_images(self, post: dict, category: dict) -> list:
@@ -274,12 +303,16 @@ class InstagramWorkflowV2:
 
         return f"assets/img/posts/{filename}"
 
-    def _generate_caption(self, category: dict, topic: str) -> str:
+    def _generate_caption(self, category: dict, topic: str, staff_info: dict = None) -> str:
         """キャプションを生成"""
+        staff_line = ""
+        if staff_info:
+            staff_line = f"\n担当: {staff_info.get('caption_text', '')}\n"
+
         caption = f"""{topic}
 
 {category['name']}をお届けします。
-
+{staff_line}
 ---
 
 いつもご覧いただきありがとうございます！
@@ -321,6 +354,8 @@ if塾では、子どもの可能性を最大限に発揮する
                     for i, img in enumerate(post.get("generated_images", []))
                 ],
                 "highlight": post["category_name"],
+                "staff": post.get("staff"),
+                "staff_selection": post.get("staff_selection"),
                 "notes_for_instagram": {
                     "cover_text": post["title"][:20],
                     "first_comment": "詳細は if-juku.net から",
@@ -366,10 +401,14 @@ if塾では、子どもの可能性を最大限に発揮する
 ## 生成された投稿
 """
         for post in results['posts']:
+            staff_name = post.get('staff', {}).get('name', 'なし') if post.get('staff') else 'なし'
+            staff_reason = post.get('staff_selection', {}).get('reason', '') if post.get('staff_selection') else ''
             report_content += f"""
 ### {post['title']}
 - ID: {post['id']}
 - カテゴリ: {post['category_name']}
+- 担当スタッフ: {staff_name}
+- 選択理由: {staff_reason}
 - 画像数: {len(post.get('generated_images', []))}枚（サンクス画像含む）
 """
 

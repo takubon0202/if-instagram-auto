@@ -156,6 +156,118 @@
       }
     },
     {
+      "id": "2026-01-09-0900-business-carousel-01",
+      "datetime": "2026-01-09T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "title": "中学生の副業術",
+      "caption": "中学生の副業術\n\nビジネスコラムをお届けします。\n\n担当: 高崎翔太（代表・講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #副業 #中学生 #高校生 #お金の教育 #LINEスタンプ #稼ぐ力",
+      "hashtags": [
+        "#if塾",
+        "#副業",
+        "#中学生",
+        "#高校生",
+        "#お金の教育",
+        "#LINEスタンプ",
+        "#稼ぐ力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-business-carousel-01-01.svg",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-business-carousel-01-02.svg",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-business-carousel-01-03.svg",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-09-0900-business-carousel-01-04.svg",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "notes_for_instagram": {
+        "cover_text": "中学生の副業術",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中学生の副業術",
+            "subtext": "",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "",
+            "subtext": "",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "",
+            "subtext": "",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "",
+            "subtext": "",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
+    {
       "id": "2026-01-08-2000-juku-reel-01",
       "datetime": "2026-01-08T20:00:00+09:00",
       "type": "reel",

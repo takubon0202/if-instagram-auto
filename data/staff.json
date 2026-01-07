@@ -1,0 +1,141 @@
+{
+  "version": "1.0",
+  "description": "if塾スタッフ画像レジストリ",
+  "source_folder": "https://drive.google.com/drive/folders/1CYGZroIXSF6Mkh1ARfM_BPcTSa9FWapV",
+  "local_directory": "assets/img/staff",
+  "staff": [
+    {
+      "id": "inoue_haruto",
+      "name": "井上陽斗",
+      "name_reading": "いのうえ はると",
+      "role": "講師",
+      "specialties": ["プログラミング", "ゲーム開発"],
+      "available_for": ["activity", "development", "education"],
+      "images": {
+        "profile": "assets/img/staff/inoue_haruto/profile.png",
+        "teaching": "assets/img/staff/inoue_haruto/teaching.png",
+        "casual": "assets/img/staff/inoue_haruto/casual.png"
+      },
+      "gdrive_folder": "井上陽斗"
+    },
+    {
+      "id": "kagaya_yuma",
+      "name": "加賀屋結眞",
+      "name_reading": "かがや ゆうま",
+      "role": "講師",
+      "specialties": ["AI", "Webアプリ開発"],
+      "available_for": ["activity", "development", "ai_column"],
+      "images": {
+        "profile": "assets/img/staff/kagaya_yuma/profile.png",
+        "teaching": "assets/img/staff/kagaya_yuma/teaching.png",
+        "casual": "assets/img/staff/kagaya_yuma/casual.png"
+      },
+      "gdrive_folder": "加賀屋結眞"
+    },
+    {
+      "id": "yamazaki_takumi",
+      "name": "山﨑琢己",
+      "name_reading": "やまざき たくみ",
+      "role": "講師",
+      "specialties": ["プログラミング", "アプリ開発"],
+      "available_for": ["activity", "development", "education"],
+      "images": {
+        "profile": "assets/img/staff/yamazaki_takumi/profile.png",
+        "teaching": "assets/img/staff/yamazaki_takumi/teaching.png",
+        "casual": "assets/img/staff/yamazaki_takumi/casual.png"
+      },
+      "gdrive_folder": "山﨑琢己"
+    },
+    {
+      "id": "watanabe_yuzuki",
+      "name": "渡辺柚気",
+      "name_reading": "わたなべ ゆずき",
+      "role": "講師",
+      "specialties": ["プログラミング", "デザイン"],
+      "available_for": ["activity", "development", "business"],
+      "images": {
+        "profile": "assets/img/staff/watanabe_yuzuki/profile.png",
+        "teaching": "assets/img/staff/watanabe_yuzuki/teaching.png",
+        "casual": "assets/img/staff/watanabe_yuzuki/casual.png"
+      },
+      "gdrive_folder": "渡辺柚気"
+    },
+    {
+      "id": "fujimoto_hinata",
+      "name": "藤本陽向",
+      "name_reading": "ふじもと ひなた",
+      "role": "講師",
+      "specialties": ["プログラミング", "ロボット"],
+      "available_for": ["activity", "development", "education"],
+      "images": {
+        "profile": "assets/img/staff/fujimoto_hinata/profile.png",
+        "teaching": "assets/img/staff/fujimoto_hinata/teaching.png",
+        "casual": "assets/img/staff/fujimoto_hinata/casual.png"
+      },
+      "gdrive_folder": "藤本陽向"
+    },
+    {
+      "id": "takasaki_shota",
+      "name": "高崎翔太",
+      "name_reading": "たかさき しょうた",
+      "role": "代表・講師",
+      "specialties": ["AI", "ビジネス", "教育"],
+      "available_for": ["announcement", "activity", "development", "education", "ai_column", "business"],
+      "images": {
+        "profile": "assets/img/staff/takasaki_shota/profile.png",
+        "teaching": "assets/img/staff/takasaki_shota/teaching.png",
+        "casual": "assets/img/staff/takasaki_shota/casual.png",
+        "business": "assets/img/staff/takasaki_shota/business.png"
+      },
+      "gdrive_folder": "高崎翔太"
+    }
+  ],
+  "image_types": {
+    "profile": {
+      "description": "プロフィール写真（正面、上半身）",
+      "use_cases": ["announcement", "education"],
+      "recommended_size": "1080x1080"
+    },
+    "teaching": {
+      "description": "授業風景写真",
+      "use_cases": ["activity", "development"],
+      "recommended_size": "1080x1350"
+    },
+    "casual": {
+      "description": "カジュアル写真",
+      "use_cases": ["activity", "ai_column"],
+      "recommended_size": "1080x1350"
+    },
+    "business": {
+      "description": "ビジネス写真",
+      "use_cases": ["business", "announcement"],
+      "recommended_size": "1080x1350"
+    }
+  },
+  "selection_rules": {
+    "announcement": {
+      "priority": ["takasaki_shota"],
+      "image_type": "business"
+    },
+    "development": {
+      "priority": ["all"],
+      "image_type": "teaching"
+    },
+    "activity": {
+      "priority": ["all"],
+      "image_type": "casual"
+    },
+    "education": {
+      "priority": ["takasaki_shota"],
+      "image_type": "profile"
+    },
+    "ai_column": {
+      "priority": ["takasaki_shota", "kagaya_yuma"],
+      "image_type": "casual"
+    },
+    "business": {
+      "priority": ["takasaki_shota"],
+      "image_type": "business"
+    }
+  }
+}
