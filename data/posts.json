@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 12,
-    "last_updated": "2026-01-07T18:28:37.496207",
+    "last_updated": "2026-01-07T18:37:50.695746",
     "categories": [
       "announcement",
       "development",
@@ -762,8 +762,8 @@
       "datetime": "2026-01-07T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "title": "ChatGPT APIを組み込んだAIアプリ開発",
-      "caption": "ChatGPT APIを組み込んだAIアプリ開発\n\n開発物をお届けします。\n\n担当: 高崎翔太（代表・講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
+      "title": "高校生起業家・学生CEOの日常",
+      "caption": "高校生起業家・学生CEOの日常\n\n開発物をお届けします。\n\n担当: 高崎翔太（代表・講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
       "hashtags": [
         "#if塾",
         "#プログラミング",
@@ -787,7 +787,7 @@
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.png",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.svg",
           "alt": "シーン3"
         },
         {
@@ -825,14 +825,14 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "ChatGPT APIを組み込んだAIア",
+        "cover_text": "高校生起業家・学生CEOの日常",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "ChatGPT APIを組み込んだAIアプリ開発",
+            "headline": "高校生起業家・学生CEOの日常",
             "subtext": "",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
