@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 12,
-    "last_updated": "2026-01-07T20:37:26.185208",
+    "last_updated": "2026-01-07T20:55:37.226929",
     "categories": [
       "announcement",
       "development",
@@ -762,16 +762,17 @@
       "datetime": "2026-01-07T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "title": "小学生が自作アプリで\n初収益を達成！？",
-      "caption": "「小学生でも起業できる？」\n\n答えはYESです！🚀\n\n今回のif塾生は、プログラミングスキルを活用して\nオリジナルのイラスト販売サイトを開発しました💻✨\n\nただコードを書くだけでなく、\n「どうすれば人が喜んでくれるか？」\n「どうやって届けるか？」\nを考えることが、ビジネスの第一歩。\n\nお小遣い不足という身近な課題を\n技術で解決した素晴らしい事例です👏\n\nif塾では、技術力だけでなく\n社会で生き抜く「起業家精神」も育みます。\n\nお子様の「やりたい！」を形にしませんか？\nまずは無料体験会へお越しください！🏫\n\n-----------------------------\n📍if塾（イフジュク）\n未来をつくるIT×ビジネススクール\n-----------------------------",
+      "title": "議事録作成、\n3秒で完了！？\nPython×生成AIの実力",
+      "caption": "「議事録作成、まだ手作業で消耗してませんか？💦」\n\n今回はPythonとChatGPT API（生成AI）を組み合わせて、\n面倒な要約業務を自動化するツールをご紹介しました！\n\nプログラミングといっても、\n実は数十行のコードで実装できちゃうんです💻\n\nAIに任せられる仕事は任せて、\n人間は「人間にしかできないこと」に集中しましょう✨\n\n-----------------------------\n\nif塾では、実務で使える\nプログラミングスキルを発信中！\n\n「こんなツール作ってみたい！」\nと思ったらコメントで教えてください🙌\n\n役に立ったら「いいね・保存」\nよろしくお願いします！\n\n-----------------------------",
       "hashtags": [
         "if塾",
-        "小学生起業",
-        "プログラミング教育",
-        "キッズプログラマー",
-        "子育て",
-        "STEM教育",
-        "アプリ開発"
+        "Python",
+        "ChatGPT",
+        "生成AI",
+        "業務効率化",
+        "プログラミング初心者",
+        "DX推進",
+        "エンジニア"
       ],
       "cta_url": "https://if-juku.net/",
       "media": [
@@ -803,17 +804,16 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "渡辺柚気",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "デザイン"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
@@ -825,15 +825,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "小学生が自作アプリで\n初収益を達成！？",
+        "cover_text": "議事録作成、\n3秒で完了！？\nPytho",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "小学生が自作アプリで\n初収益を達成！？",
-            "subtext": "【if塾 開発事例】プログラミング×起業スキル",
+            "headline": "議事録作成、\n3秒で完了！？\nPython×生成AIの実力",
+            "subtext": "ChatGPT APIで\n業務効率化ツール作ってみた",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -841,8 +841,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "きっかけは\n「お小遣い不足」でした",
-            "subtext": "「欲しいゲームがあるけど、ただ親にねだるのは違う気がする…」\nそんな自立心から、自分のスキルをお金に変える挑戦が始まりました。",
+            "headline": "1時間の会議、\nまとめに何分\nかけてますか？",
+            "subtext": "「聞き直すのが面倒…」\n「要点がまとまらない…」\nその時間、実は自動化できます。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -850,8 +850,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "得意なイラストを\n自動販売するWebアプリ",
-            "subtext": "Pythonを使って、描いた絵を自動でグッズ用データに変換。\n注文から決済まで完結するECサイトをひとりで構築しました。",
+            "headline": "仕組みはシンプル！\nPythonからAIに\n丸投げするだけ",
+            "subtext": "【Process】\n1. 音声/メモをテキスト化\n2. PythonでOpenAI APIを叩く\n3. プロンプト「要約して」と指示",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -859,8 +859,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "リリース1ヶ月で\n売上3,000円を達成！",
-            "subtext": "友達や親戚が最初のお客様に。\n「自分の技術が誰かの役に立ち、対価をもらえる」\nというビジネスの基本を、身をもって体験しました。",
+            "headline": "【結果】\nダラダラした会話が\nスッキリ箇条書きに！",
+            "subtext": "誤字脱字もAIが自動修正。\n作業時間が「1時間→5分」に短縮！\n空いた時間で別の仕事が進みます✨",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
