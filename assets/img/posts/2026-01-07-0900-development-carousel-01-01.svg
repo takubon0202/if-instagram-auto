@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E88E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00BCD4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg)" width="1080" height="1350"/>
+  <rect fill="#B3E5FC" x="80" y="100" width="920" height="200" rx="20" opacity="0.9"/>
+  <text x="540" y="220" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="60" font-weight="bold">生成AI活用アプリ (ChatGPT A</text>
+  <text x="540" y="280" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="30" opacity="0.8">成果物の完成画像＋キャッチコピー</text>
+  <circle cx="540" cy="700" r="150" fill="white" opacity="0.2"/>
+  <text x="540" y="720" text-anchor="middle" fill="white" font-family="sans-serif" font-size="80" font-weight="bold">if塾</text>
+  <text x="540" y="1280" text-anchor="middle" fill="white" font-family="sans-serif" font-size="24" opacity="0.7">Scene 1: 表紙</text>
+</svg>

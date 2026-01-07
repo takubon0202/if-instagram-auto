@@ -1,9 +1,16 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 11,
-    "last_updated": "2026-01-07T12:00:00+09:00",
-    "categories": ["announcement", "development", "activity", "education", "ai_column", "business"]
+    "total_posts": 12,
+    "last_updated": "2026-01-07T17:59:55.188189",
+    "categories": [
+      "announcement",
+      "development",
+      "activity",
+      "education",
+      "ai_column",
+      "business"
+    ]
   },
   "posts": [
     {
@@ -40,7 +47,12 @@
         "reel_script": "{\"duration\": 15, \"sections\": [{\"timestamp\": \"0:00-0:01\", \"text_overlay\": \"「学校に行きたくない」と言われたら\"}, {\"timestamp\": \"0:01-0:04\", \"text_overlay\": \"（問題提起）\"}, {\"timestamp\": \"0:04-0:08\", \"text_overlay\": \"（視点転換）\"}, {\"timestamp\": \"0:08-0:12\", \"text_overlay\": \"（解決策）\"}, {\"timestamp\": \"0:12-0:15\", \"text_overlay\": \"if-juku.net\"}]}"
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-09-1230-biz-carousel-01",
@@ -99,7 +111,12 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-09-0900-juku-carousel-01",
@@ -165,7 +182,12 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-09-0900-business-carousel-01",
@@ -279,7 +301,12 @@
         ]
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-08-2000-juku-reel-01",
@@ -316,7 +343,12 @@
         "reel_script": "【0-1秒】「学校行きたくない」言えない子が増えています（テロップ）\n【1-4秒】朝になると体調不良/口数が減った/笑顔が消えた（サイン表示）\n【4-8秒】でも「行きたくない」は言葉にできない（視点転換）\n【8-12秒】だから家庭に「安心して話せる時間」を（提案）\n【12-15秒】居場所づくり、一緒に考えませんか？プロフィールから無料相談（CTA）"
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-08-1230-biz-carousel-01",
@@ -377,7 +409,12 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-08-0900-juku-carousel-01",
@@ -445,7 +482,12 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-08-0900-ai_column-carousel-01",
@@ -540,7 +582,12 @@
         ]
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-07-2000-juku-reel-01",
@@ -577,7 +624,12 @@
         "reel_script": "【0-1秒】「普通」って何？（テロップ大きく）\n【1-3秒】学校に行くのが普通？毎日同じ時間に起きるのが普通？\n【3-5秒】if(塾)では、あなたの「普通」を一緒に見つけます\n【5-8秒】プログラミングを通じて、自分のペースで\n【8-10秒】まずは無料体験から（CTA表示）"
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-07-1230-biz-carousel-01",
@@ -637,7 +689,12 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
     },
     {
       "id": "2026-01-07-0900-juku-carousel-01",
@@ -693,7 +750,130 @@
         "reel_script": null
       },
       "status": "published",
-      "engagement": { "likes": 0, "comments": 0, "saves": 0, "shares": 0 }
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      }
+    },
+    {
+      "id": "2026-01-07-0900-development-carousel-01",
+      "datetime": "2026-01-07T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "title": "生成AI活用アプリ (ChatGPT API連携)",
+      "caption": "生成AI活用アプリ (ChatGPT API連携)\n\n開発物をお届けします。\n\n担当: 山﨑琢己（講師）\n\n---\n\nいつもご覧いただきありがとうございます！\nif塾では、子どもの可能性を最大限に発揮する\nプログラミング教育を提供しています。\n\n詳細・お申し込みはプロフィール欄から！\n\n#if塾 #プログラミング #アプリ開発 #生徒作品 #Python #JavaScript #AIアプリ",
+      "hashtags": [
+        "#if塾",
+        "#プログラミング",
+        "#アプリ開発",
+        "#生徒作品",
+        "#Python",
+        "#JavaScript",
+        "#AIアプリ"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-01.svg",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-02.svg",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-03.svg",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/2026-01-07-0900-development-carousel-01-04.svg",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "生成AI活用アプリ (ChatGPT A",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "生成AI活用アプリ (ChatGPT API連携)",
+            "subtext": "",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "",
+            "subtext": "",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "",
+            "subtext": "",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "",
+            "subtext": "",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
     }
   ],
   "scheduled": [],
