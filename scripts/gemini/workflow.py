@@ -1,9 +1,14 @@
 """
-Gemini統合ワークフロー v2.0
+Gemini統合ワークフロー v3.0
 if塾 Instagram自動投稿システム
 
 6カテゴリ × 5シーン構成
 - 表紙 → 内容1 → 内容2 → 内容3 → サンクス
+
+【v3.0 新機能】
+- 時間認識機能（Time-Aware）: 常に現在の年月を認識
+- 動的リサーチ: 2026年の最新情報を検索
+- 日付ベースのファイル命名: YYYYMMDD形式
 
 使用方法:
     python -m scripts.gemini.workflow daily --date 2026-01-08
@@ -35,15 +40,18 @@ from scripts.gemini.config import (
     POSTING_TIMES,
     THANKS_IMAGE,
     SCENE_STRUCTURE,
-    RESEARCH_CONFIG
+    RESEARCH_CONFIG,
+    get_current_time_context,
+    TIME_CONTEXT
 )
 from scripts.gemini.staff import StaffImageAgent, StaffImageManager
 
 
-class InstagramWorkflowV2:
+class InstagramWorkflowV3:
     """
-    Instagram投稿ワークフロー v2.0
+    Instagram投稿ワークフロー v3.0
     6カテゴリ × 5シーン構成
+    時間認識機能（Time-Aware）対応
     """
 
     def __init__(self, api_key: str = None):
@@ -138,9 +146,15 @@ class InstagramWorkflowV2:
         return results
 
     def _plan_5scene_post(self, date: str, category_id: str, research: dict) -> dict:
-        """5シーン構成の投稿を企画（AIコンテンツ生成含む）"""
+        """5シーン構成の投稿を企画（AIコンテンツ生成含む）時間認識対応"""
         category = CATEGORIES[category_id]
-        post_id = f"{date}-0900-{category_id}-carousel-01"
+
+        # 時間コンテキストを取得
+        time_ctx = get_current_time_context()
+        date_id = datetime.strptime(date, "%Y-%m-%d").strftime("%Y%m%d")
+
+        # 日付ベースのpost_id生成（YYYYMMDD_category形式）
+        post_id = f"{date_id}_{category_id}"
 
         # トレンドからトピックを選択
         topics = research.get("trending_topics", [])
@@ -415,27 +429,43 @@ if塾では、子どもの可能性を最大限に発揮する
             pages = []
             for i, (scene, img_path) in enumerate(zip(scenes, generated_images)):
                 page = {
+                    "page_number": i + 1,
                     "scene_id": scene.get("scene_id", i + 1),
                     "scene_name": scene.get("scene_name", f"scene{i+1}"),
+                    "layout_type": scene.get("scene_name", "content"),
                     "label": scene.get("label", f"シーン{i+1}"),
+                    "main_title": scene.get("headline", ""),
+                    "sub_title": scene.get("subtext", ""),
+                    "text_content": scene.get("headline", ""),
+                    "image_prompt": f"Japanese anime style, {scene.get('purpose', 'illustration')}, clean background, no text, no ui",
                     "image_url": img_path,
+                    "image_file": img_path,
                     "overlay_text": scene.get("headline", ""),
                     "subtext": scene.get("subtext", ""),
                     "alt": f"{scene.get('label', f'シーン{i+1}')} - {scene.get('headline', '')[:20]}"
                 }
                 pages.append(page)
 
-            # 新しい投稿データを整形（Material vs Context対応）
+            # 時間コンテキストを取得
+            time_ctx = get_current_time_context()
+
+            # 新しい投稿データを整形（Material vs Context対応 + 時間認識）
             post_data = {
                 "id": post["id"],
+                "post_id": post["id"],  # YYYYMMDD_category形式
+                "created_at": time_ctx["timestamp"],
                 "datetime": post["datetime"],
                 "type": post["type"],
                 "category": post["category"],
+                "theme": post["title"],
+                "target_audience": "Students & Parents",
                 "title": post["title"],
                 "caption": post["caption"],
+                "caption_text": post["caption"],  # 別名
                 "hashtags": post["hashtags"],
                 "cta_url": post["cta_url"],
-                "pages": pages,
+                "slides": pages,  # 新スキーマ名
+                "pages": pages,   # 互換性維持
                 "media": [
                     {"kind": "image", "src": img, "alt": f"シーン{i+1}"}
                     for i, img in enumerate(generated_images)
@@ -444,6 +474,7 @@ if塾では、子どもの可能性を最大限に発揮する
                 "staff": post.get("staff"),
                 "staff_selection": post.get("staff_selection"),
                 "status": "published",
+                "research_date": post.get("generated_content", {}).get("generated_at", time_ctx["today_str"]),
                 "engagement": {
                     "likes": 0,
                     "comments": 0,
@@ -564,7 +595,7 @@ Generated at: {datetime.now().isoformat()}
 
 
 def main():
-    parser = argparse.ArgumentParser(description="if塾 Instagram Workflow v2.0 with Gemini")
+    parser = argparse.ArgumentParser(description="if塾 Instagram Workflow v3.0 with Gemini (Time-Aware)")
     parser.add_argument("command", choices=["daily", "research", "generate"],
                        help="実行するコマンド")
     parser.add_argument("--date", help="対象日付 (YYYY-MM-DD)")
@@ -574,8 +605,12 @@ def main():
 
     args = parser.parse_args()
 
+    # 時間コンテキストを表示
+    time_ctx = get_current_time_context()
+    print(f"\n[Time-Aware Mode] 現在: {time_ctx['current_year']}年{time_ctx['current_month_name']}")
+
     api_key = args.api_key or os.environ.get("GEMINI_API_KEY")
-    workflow = InstagramWorkflowV2(api_key)
+    workflow = InstagramWorkflowV3(api_key)
 
     if args.command == "daily":
         workflow.run_daily_workflow(args.date)

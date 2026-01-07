@@ -22,7 +22,8 @@ from .config import (
     CATEGORIES, THANKS_IMAGE, SCENE_STRUCTURE,
     IMAGE_GENERATION_CONFIG, LOGO_CONFIG,
     STYLE_PRESETS, NEGATIVE_PROMPTS, CONCEPT_TO_VISUAL,
-    CATEGORY_ANIME_STYLES, SCENE_MATERIAL_TEMPLATES
+    CATEGORY_ANIME_STYLES, SCENE_MATERIAL_TEMPLATES,
+    get_current_time_context, get_search_queries, TIME_CONTEXT
 )
 
 
@@ -56,24 +57,35 @@ class GeminiClient:
 
 class TrendResearchAgent:
     """
-    トレンドリサーチエージェント
+    トレンドリサーチエージェント v3.0
     Gemini 3 Pro Preview + Google Search でリアルタイムリサーチ
-    6カテゴリ対応
+    6カテゴリ対応 + 時間認識機能（Time-Aware）
+
+    【重要】常に現在の年月を認識し、最新情報を検索
     """
 
     def __init__(self, client: GeminiClient):
         self.client = client
         self.model = MODELS["research"]
+        self.time_context = get_current_time_context()
 
     def research_category_trends(self, category_id: str) -> dict:
         """
-        カテゴリ別のInstagramトレンドをリサーチ
+        カテゴリ別のInstagramトレンドをリサーチ（時間認識対応）
 
         Args:
             category_id: カテゴリID (announcement, development, activity, education, ai_column, business)
+
+        【時間認識】現在は {year}年{month}月 のトレンドを検索
         """
         if category_id not in CATEGORIES:
             return {"error": f"Unknown category: {category_id}"}
+
+        # 時間コンテキストを更新
+        self.time_context = get_current_time_context()
+        year = self.time_context["current_year"]
+        month = self.time_context["current_month"]
+        month_name = self.time_context["current_month_name"]
 
         if not self.client.is_available():
             return self._mock_category_trends(category_id)
@@ -81,26 +93,42 @@ class TrendResearchAgent:
         category = CATEGORIES[category_id]
         hashtags = " ".join(category["hashtags"][:5])
 
+        # 時間認識検索クエリを取得
+        search_queries = get_search_queries(category_id)
+        search_queries_str = "\n".join([f"- {q}" for q in search_queries])
+
         prompt = f"""
 あなたはInstagramのトレンドリサーチャーです。
-以下のカテゴリに関連する最新のInstagramトレンドを調査してください。
+
+【重要】現在は{year}年{month_name}です。
+以下のカテゴリに関連する{year}年の最新トレンドを調査してください。
+古い情報（2024年以前）は使用しないでください。
 
 カテゴリ: {category['name']}
 目的: {category['purpose']}
 関連ハッシュタグ: {hashtags}
 
+検索キーワード例:
+{search_queries_str}
+
 以下の情報をJSON形式で出力してください:
 {{
-    "trending_topics": ["トピック1", "トピック2", "トピック3"],
-    "popular_hooks": ["フック案1", "フック案2", "フック案3"],
+    "research_date": "{self.time_context['today_str']}",
+    "trending_topics": ["{year}年のトピック1", "トピック2", "トピック3"],
+    "popular_hooks": [
+        "{year}年最新！〇〇",
+        "{month_name}のニュース：〇〇",
+        "今月の注目〇〇"
+    ],
     "content_ideas": [
         {{
-            "cover": "表紙のタイトル案",
+            "cover": "{year}年版タイトル案",
             "content1": "内容1の要点",
             "content2": "内容2の要点",
             "content3": "内容3の要点"
         }}
     ],
+    "news_sources": ["参照したニュースURL1", "ニュースURL2"],
     "best_posting_times": ["09:00", "12:30", "20:00"],
     "engagement_tips": ["ヒント1", "ヒント2"]
 }}
@@ -127,125 +155,142 @@ class TrendResearchAgent:
             return self._mock_category_trends(category_id)
 
     def _mock_category_trends(self, category_id: str) -> dict:
-        """カテゴリ別モックデータ"""
+        """カテゴリ別モックデータ（時間認識対応）"""
+        ctx = get_current_time_context()
+        year = ctx["current_year"]
+        month_name = ctx["current_month_name"]
+        today_str = ctx["today_str"]
+
         mock_data = {
             "announcement": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "夏期講習募集開始",
-                    "新コース開講",
+                    f"{year}年冬期講習募集開始",
+                    "新AIコース開講",
                     "無料体験キャンペーン"
                 ],
                 "popular_hooks": [
-                    "【緊急募集】残り3席！",
+                    f"【{year}年{month_name}】残り3席！",
                     "今だけ限定特典",
-                    "来週スタート！"
+                    f"{month_name}スタート！"
                 ],
                 "content_ideas": [{
-                    "cover": "夏期講習、始まります！",
-                    "content1": "この夏、AI×プログラミング合宿を開催",
-                    "content2": "3日間でオリジナルアプリを完成",
-                    "content3": "日程：8月10日〜12日、オンライン開催"
+                    "cover": f"{year}年、AI学習を始めよう！",
+                    "content1": f"この冬、AI×プログラミング合宿を開催",
+                    "content2": "3日間でオリジナルAIアプリを完成",
+                    "content3": f"日程：{year}年2月開催、オンライン"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["09:00", "12:30", "20:00"],
                 "engagement_tips": ["緊急性を出す", "限定感を演出"]
             },
             "development": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "生徒のAIアプリ作品",
-                    "ゲーム開発実績",
-                    "Webサービス公開"
+                    f"{year}年版生徒のAIアプリ作品",
+                    "Gemini API活用プロジェクト",
+                    f"{year}年トレンドのWebサービス"
                 ],
                 "popular_hooks": [
-                    "高校生が作ったAIアプリが凄い",
+                    f"【{year}年最新】高校生が作ったAIアプリが凄い",
                     "3時間でこれ作った",
-                    "中学生エンジニア誕生"
+                    f"{year}年の中学生エンジニア"
                 ],
                 "content_ideas": [{
-                    "cover": "高校生が作ったAIチャットボット",
-                    "content1": "勉強の質問に答えてくれるAIが欲しかった",
-                    "content2": "ChatGPT APIを使って自分専用の先生を作成",
+                    "cover": f"{year}年版：高校生が作ったAIチャットボット",
+                    "content1": f"{year}年、勉強の質問に答えてくれるAIが進化",
+                    "content2": "Gemini APIを使って自分専用の先生を作成",
                     "content3": "今ではクラス全員が使ってます"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["12:30", "18:00", "21:00"],
                 "engagement_tips": ["実際の画面を見せる", "ビフォーアフター"]
             },
             "activity": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "授業風景レポート",
-                    "ハッカソン結果",
+                    f"{month_name}の授業風景レポート",
+                    f"{year}年ハッカソン結果",
                     "生徒インタビュー"
                 ],
                 "popular_hooks": [
-                    "今日の授業、盛り上がりすぎた",
-                    "ハッカソン優勝！",
+                    f"【{month_name}】今日の授業、盛り上がりすぎた",
+                    f"{year}年ハッカソン優勝！",
                     "新しい仲間が増えました"
                 ],
                 "content_ideas": [{
-                    "cover": "本日のハッカソン結果発表！",
-                    "content1": "24時間でアプリを作るハッカソンを開催",
+                    "cover": f"{month_name}のハッカソン結果発表！",
+                    "content1": "24時間でAIアプリを作るハッカソンを開催",
                     "content2": "参加者8名、熱い議論が交わされました",
                     "content3": "子どもたちの発想力に驚かされた1日でした"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["18:00", "20:00", "21:00"],
                 "engagement_tips": ["リアルな写真を使う", "生徒の声を入れる"]
             },
             "education": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "AI時代の教育",
-                    "プログラミング教育の意義",
-                    "子どもの将来スキル"
+                    f"{year}年のAI時代の教育",
+                    f"大学入試「情報I」{year}年対策",
+                    f"{year}年に必要な子どものスキル"
                 ],
                 "popular_hooks": [
-                    "『プログラミングは不要』は本当か？",
-                    "AI時代に消える仕事、残る仕事",
+                    f"【{year}年版】プログラミングは本当に必要？",
+                    f"{year}年、AI時代に消える仕事・残る仕事",
                     "学校の成績より大切なこと"
                 ],
                 "content_ideas": [{
-                    "cover": "プログラミングは本当に必要？",
-                    "content1": "コードを書くだけの仕事はAIに代替される",
+                    "cover": f"{year}年、勉強はこう変わる",
+                    "content1": f"{year}年、コードを書くだけの仕事はAIに代替",
                     "content2": "大切なのは『何を作るか』を考える力",
                     "content3": "若いうちからAIを使う側に回る経験を"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["09:00", "12:30", "20:00"],
                 "engagement_tips": ["問いかけで始める", "保存したくなる情報"]
             },
             "ai_column": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "Gemini 2.5の新機能",
-                    "ChatGPT活用術",
-                    "画像生成AI比較"
+                    f"Gemini {year}年最新機能",
+                    f"ChatGPT {year}年活用術",
+                    f"{year}年注目の画像生成AI"
                 ],
                 "popular_hooks": [
-                    "ChatGPT、まだ普通に使ってるの？",
-                    "Gemini 2.5がヤバすぎる",
-                    "これ知らないと損するAIツール"
+                    f"【{year}年{month_name}】ChatGPT、まだ普通に使ってるの？",
+                    f"Gemini {year}がヤバすぎる",
+                    f"{year}年これ知らないと損するAIツール"
                 ],
                 "content_ideas": [{
-                    "cover": "Gemini 2.5、ここがヤバい",
-                    "content1": "Googleの最新AI「Gemini 2.5」が登場",
-                    "content2": "宿題の写真を送ると解説してくれる",
+                    "cover": f"{year}年{month_name}のAIニュースまとめ",
+                    "content1": f"Googleの最新AI「Gemini」{year}年アップデート",
+                    "content2": "宿題の写真を送ると解説してくれる新機能",
                     "content3": "ただし計算ミスもあるので検算必須"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["12:30", "18:00", "21:00"],
                 "engagement_tips": ["具体的なツール名を出す", "保存・シェア促進"]
             },
             "business": {
+                "research_date": today_str,
                 "trending_topics": [
-                    "中学生の副業術",
-                    "LINEスタンプ販売",
-                    "スキルを売る方法"
+                    f"{year}年中学生の副業術",
+                    f"AIスタンプ販売{year}",
+                    f"{year}年スキルを売る方法"
                 ],
                 "popular_hooks": [
-                    "中学生でも月3万稼ぐ方法",
-                    "LINEスタンプで小遣い稼ぎ",
-                    "高校生が副業で○万円"
+                    f"【{year}年版】中学生でも月3万稼ぐ方法",
+                    f"{year}年AIでスタンプ作成→販売",
+                    f"{year}年高校生が副業で○万円"
                 ],
                 "content_ideas": [{
-                    "cover": "中学生でも月3万稼げる方法",
-                    "content1": "生成AIでイラストを作ってLINEスタンプ販売",
-                    "content2": "Midjourney→Photoshop→申請の3ステップ",
+                    "cover": f"{year}年版：中学生でも月3万稼げる方法",
+                    "content1": f"{year}年、生成AIでイラストを作ってスタンプ販売",
+                    "content2": "Gemini画像生成→申請の3ステップ",
                     "content3": "売れるまで改善し続けるPDCAが身につく"
                 }],
+                "news_sources": [],
                 "best_posting_times": ["18:00", "20:00", "21:00"],
                 "engagement_tips": ["具体的な金額を出す", "手順を明確に"]
             }
@@ -256,42 +301,55 @@ class TrendResearchAgent:
 
 class ContentGenerationAgent:
     """
-    コンテンツ生成エージェント
+    コンテンツ生成エージェント v3.0
     5シーン構成のコンテンツを生成
+    時間認識機能（Time-Aware）対応
     """
 
     def __init__(self, client: GeminiClient):
         self.client = client
         self.model = MODELS["content"]
+        self.time_context = get_current_time_context()
 
     def generate_5scene_content(self, category_id: str, topic: str) -> dict:
-        """5シーン構成のコンテンツを生成"""
+        """5シーン構成のコンテンツを生成（時間認識対応）"""
         if not self.client.is_available():
             return self._mock_content(category_id, topic)
+
+        # 時間コンテキストを更新
+        self.time_context = get_current_time_context()
+        year = self.time_context["current_year"]
+        month_name = self.time_context["current_month_name"]
+        today_str = self.time_context["today_str"]
 
         category = CATEGORIES[category_id]
 
         prompt = f"""
 以下の条件で、Instagram投稿用の5シーンコンテンツを生成してください。
 
+【重要】現在は{year}年{month_name}です。
+この時期に保護者や学生が気にするトピックを意識して、{year}年の最新情報を反映してください。
+
 カテゴリ: {category['name']}
 トピック: {topic}
+投稿日: {today_str}
 
-5シーン構成:
-1. 表紙: {category['cover_format']}
-2. 内容1: {category['content1_format']}
-3. 内容2: {category['content2_format']}
-4. 内容3: {category['content3_format']}
-5. サンクス: アクション誘導（固定画像使用）
+5シーン構成（マガジン形式）:
+1. 表紙（Hook）: {category['cover_format']} - 「{year}年最新版」「{month_name}のニュース」など日付要素を含める
+2. 内容1（Problem/課題）: {category['content1_format']} - 読者の現状や悩み
+3. 内容2（Solution/ニュース）: {category['content2_format']} - 具体的な{year}年の情報やツール
+4. 内容3（Deep Dive/活用法）: {category['content3_format']} - if塾の視点での活用法
+5. サンクス（CTA/誘導）: アクション誘導（固定画像使用）
 
 ブランド: {BRAND_CONFIG['name']}
 トーン: {BRAND_CONFIG['style']['tone']}
 
 JSON形式で出力:
 {{
+    "generated_at": "{self.time_context['timestamp']}",
     "cover": {{
-        "headline": "表紙のタイトル（短く、インパクト重視）",
-        "subtext": "補足テキスト"
+        "headline": "{year}年版タイトル（短く、インパクト重視）",
+        "subtext": "{month_name}の最新情報"
     }},
     "content1": {{
         "headline": "内容1のメインテキスト",
@@ -305,8 +363,8 @@ JSON形式で出力:
         "headline": "内容3のメインテキスト",
         "subtext": "補足テキスト"
     }},
-    "caption": "Instagramキャプション（改行入り）",
-    "hashtags": ["ハッシュタグ1", "ハッシュタグ2"]
+    "caption": "【{year}年{month_name}】で始まるInstagramキャプション（改行入り）",
+    "hashtags": ["#if塾", "#{year}年", "ハッシュタグ"]
 }}
 """
 
@@ -326,26 +384,32 @@ JSON形式で出力:
             return self._mock_content(category_id, topic)
 
     def _mock_content(self, category_id: str, topic: str) -> dict:
-        """モックコンテンツ"""
+        """モックコンテンツ（時間認識対応）"""
+        ctx = get_current_time_context()
+        year = ctx["current_year"]
+        month_name = ctx["current_month_name"]
+        timestamp = ctx["timestamp"]
+
         return {
+            "generated_at": timestamp,
             "cover": {
-                "headline": topic[:20],
-                "subtext": "if塾からお届け"
+                "headline": f"{year}年版：{topic[:15]}",
+                "subtext": f"{month_name}の最新情報"
             },
             "content1": {
                 "headline": "こんな悩みありませんか？",
-                "subtext": ""
+                "subtext": f"{year}年の課題"
             },
             "content2": {
-                "headline": "解決策をご紹介",
-                "subtext": ""
+                "headline": f"{year}年の解決策をご紹介",
+                "subtext": "最新ツールで解決"
             },
             "content3": {
                 "headline": "今すぐ始めよう",
-                "subtext": ""
+                "subtext": "if塾で学ぶ"
             },
-            "caption": f"{topic}\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
-            "hashtags": CATEGORIES[category_id]["hashtags"][:10]
+            "caption": f"【{year}年{month_name}】{topic}\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+            "hashtags": ["#if塾", f"#{year}年"] + CATEGORIES[category_id]["hashtags"][:8]
         }
 
 
@@ -554,12 +618,13 @@ Technical requirements:
     def _build_negative_prompt(self) -> str:
         """
         ネガティブプロンプトを構築
-        UI要素、テキスト、低品質要素を除外
+        UI要素、テキスト、日付要素、低品質要素を除外
         """
         all_negatives = []
         all_negatives.extend(self.negative_prompts.get('global', []))
         all_negatives.extend(self.negative_prompts.get('ui_elements', []))
         all_negatives.extend(self.negative_prompts.get('text_elements', []))
+        all_negatives.extend(self.negative_prompts.get('date_elements', []))  # 日付要素も除外
         all_negatives.extend(self.negative_prompts.get('unwanted_styles', []))
 
         return ", ".join(all_negatives)

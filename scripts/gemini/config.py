@@ -1,9 +1,31 @@
 """
 Gemini API Configuration
-if塾 Instagram ワークフロー設定 v2.0
+if塾 Instagram ワークフロー設定 v3.0
 6カテゴリ × 5シーン構成
+時間認識機能（Time-Aware）対応
 """
 import os
+from datetime import datetime
+
+# ============================================
+# 時間認識設定（Time Awareness）
+# ============================================
+def get_current_time_context():
+    """現在の日時コンテキストを取得"""
+    now = datetime.now()
+    return {
+        "current_year": now.year,
+        "current_month": now.month,
+        "current_month_name": f"{now.month}月",
+        "current_day": now.day,
+        "today_str": now.strftime("%Y-%m-%d"),
+        "timestamp": now.strftime("%Y-%m-%dT%H:%M:%S"),
+        "date_id": now.strftime("%Y%m%d"),
+        "datetime_obj": now
+    }
+
+# 現在時刻のグローバルコンテキスト（インポート時に更新）
+TIME_CONTEXT = get_current_time_context()
 
 # API Key
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
@@ -74,11 +96,62 @@ NEGATIVE_PROMPTS = {
         "title text", "subtitle", "logo text", "brand name text",
         "japanese text in image", "english text in image"
     ],
+    "date_elements": [
+        "calendar", "date numbers", "year text", "month text",
+        "day numbers", "clock", "timestamp", "2026", "2025", "2024"
+    ],
     "unwanted_styles": [
         "photorealistic", "3d render", "photograph", "real photo",
         "stock photo", "clipart", "icon style", "flat design ui"
     ]
 }
+
+# ============================================
+# 時間認識リサーチ用検索クエリテンプレート
+# ============================================
+def get_search_queries(category_id: str) -> list:
+    """カテゴリ別の時間認識検索クエリを生成"""
+    ctx = get_current_time_context()
+    year = ctx["current_year"]
+    month = ctx["current_month"]
+
+    queries = {
+        "announcement": [
+            f"プログラミング教室 トレンド {year}",
+            f"オンライン塾 ニュース {year}年{month}月",
+            f"IT教育 最新 {year}"
+        ],
+        "development": [
+            f"学生 アプリ開発 事例 {year}",
+            f"高校生 プログラミング 作品 {year}",
+            f"AIアプリ 開発 中学生 {year}"
+        ],
+        "activity": [
+            f"プログラミング教室 活動 {year}",
+            f"ハッカソン 中高生 {year}年{month}月",
+            f"子供 プログラミング イベント {year}"
+        ],
+        "education": [
+            f"AI時代 教育 {year}",
+            f"プログラミング教育 必修化 {year}",
+            f"大学入試 情報I 対策 {year}",
+            f"子育て AI {year}年{month}月"
+        ],
+        "ai_column": [
+            f"最新 AIツール 学生向け {year}",
+            f"ChatGPT 活用 学習 {year}年{month}月",
+            f"Gemini 新機能 {year}",
+            f"生成AI 教育 {year}"
+        ],
+        "business": [
+            f"中学生 副業 {year}",
+            f"高校生 稼ぐ方法 {year}",
+            f"学生 起業 トレンド {year}年{month}月",
+            f"LINEスタンプ 販売 {year}"
+        ]
+    }
+
+    return queries.get(category_id, queries["activity"])
 
 # ============================================
 # 概念→視覚変換テンプレート
