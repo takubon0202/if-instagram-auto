@@ -1,48 +1,58 @@
 /* ========================================
-   if(塾) Instagram風ブログ - スタイルシート v2.0
-   デザイン：モダン・ダーク・プロフェッショナル
-   参照: if(Business) service.if-juku.net
+   if(塾) Instagram風ブログ - スタイルシート v3.0
+   デザイン：Instagram 2025 UI準拠
+   ダークモード対応・モダンデザイン
    ======================================== */
 
-/* CSS Variables */
+/* CSS Variables - Instagram 2025 Design System */
 :root {
-  /* Dark Theme Colors (if Business) */
-  --bg-primary: #0f172a;
-  --bg-secondary: #1a1f2e;
-  --bg-card: rgba(255, 255, 255, 0.05);
-  --bg-card-hover: rgba(255, 255, 255, 0.08);
+  /* Instagram 2025 Dark Theme Colors */
+  --bg-primary: #121212;
+  --bg-secondary: #1a1a1a;
+  --bg-card: #1a1a1a;
+  --bg-card-hover: #242424;
 
-  /* Accent Colors */
-  --accent-blue: #3b82f6;
-  --accent-blue-light: #60a5fa;
-  --accent-purple: #9333ea;
+  /* Instagram Gradient Colors (Story Ring) */
+  --ig-purple: #833ab4;
+  --ig-red: #fd1d1d;
+  --ig-orange: #fcb045;
+  --ig-yellow: #f9ce34;
+  --ig-pink: #ee2a7b;
+  --ig-blue: #6228d7;
+
+  /* Instagram UI Colors */
+  --accent-blue: #0095f6; /* Instagram Blue */
+  --accent-blue-light: #1aa1f7;
+  --accent-purple: #833ab4;
   --accent-purple-light: #a855f7;
   --accent-gold: #fbbf24;
   --accent-green: #10b981;
-  --accent-orange: #f97316;
+  --accent-orange: #fcb045;
 
   /* Text Colors */
   --text-primary: #ffffff;
-  --text-secondary: rgba(255, 255, 255, 0.8);
-  --text-muted: rgba(255, 255, 255, 0.5);
+  --text-secondary: #a8a8a8;
+  --text-muted: #737373;
 
-  /* Borders */
-  --border-color: rgba(255, 255, 255, 0.1);
-  --border-color-hover: rgba(255, 255, 255, 0.2);
+  /* Borders - Instagram Style */
+  --border-color: #262626;
+  --border-color-hover: #363636;
 
   /* Gradients */
-  --gradient-blue: linear-gradient(135deg, #3b82f6 0%, #60a5fa 100%);
+  --gradient-instagram: linear-gradient(45deg, var(--ig-yellow), var(--ig-orange), var(--ig-red), var(--ig-pink), var(--ig-purple), var(--ig-blue));
+  --gradient-story: linear-gradient(45deg, var(--ig-yellow), var(--ig-orange), var(--ig-red), var(--ig-pink), var(--ig-purple));
+  --gradient-if-brand: linear-gradient(135deg, #3b82f6 0%, #60a5fa 100%);
   --gradient-purple: linear-gradient(135deg, #9333ea 0%, #a855f7 100%);
   --gradient-gold: linear-gradient(135deg, #fbbf24 0%, #f97316 100%);
-  --gradient-hero: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-  --gradient-story: linear-gradient(45deg, #3b82f6, #9333ea, #f97316);
+  --gradient-hero: linear-gradient(135deg, #121212 0%, #1a1a1a 50%, #121212 100%);
 
   /* Shadows */
-  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
-  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
-  --shadow-glow-blue: 0 0 40px rgba(59, 130, 246, 0.3);
-  --shadow-glow-purple: 0 0 40px rgba(147, 51, 234, 0.3);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.6);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.7);
+  --shadow-glow-blue: 0 0 40px rgba(0, 149, 246, 0.3);
+  --shadow-glow-purple: 0 0 40px rgba(131, 58, 180, 0.3);
+  --shadow-glow-instagram: 0 0 30px rgba(253, 29, 29, 0.2), 0 0 40px rgba(131, 58, 180, 0.2);
 
   /* Radius */
   --radius-sm: 6px;
@@ -111,7 +121,7 @@ a {
   left: 0;
   right: 0;
   height: var(--header-height);
-  background: rgba(15, 23, 42, 0.95);
+  background: rgba(18, 18, 18, 0.95);
   backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border-color);
   display: flex;
@@ -127,8 +137,9 @@ a {
   letter-spacing: -0.5px;
 }
 
+/* if塾ブランドグラデーションを維持 */
 .header__logo span {
-  background: var(--gradient-blue);
+  background: var(--gradient-if-brand);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -145,7 +156,7 @@ a {
 }
 
 /* ========================================
-   Stories Section
+   Stories Section - Instagram 2025 Style
    ======================================== */
 .stories {
   background: var(--bg-card);
@@ -155,7 +166,6 @@ a {
   margin: 0 16px 32px;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  backdrop-filter: blur(10px);
 }
 
 .stories::-webkit-scrollbar {
@@ -190,13 +200,49 @@ a {
   transform: scale(1.05);
 }
 
+/* Instagram Rainbow Gradient Ring */
 .story-item__ring {
   width: var(--story-size);
   height: var(--story-size);
   border-radius: var(--radius-round);
   padding: 3px;
   background: var(--gradient-story);
-  box-shadow: var(--shadow-glow-blue);
+  box-shadow: var(--shadow-glow-instagram);
+  position: relative;
+}
+
+/* Animated gradient effect on hover */
+.story-item__ring::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-round);
+  padding: 3px;
+  background: var(--gradient-story);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0;
+  animation: rotate-gradient 3s linear infinite;
+  transition: opacity var(--transition-fast);
+}
+
+.story-item:hover .story-item__ring::before {
+  opacity: 1;
+}
+
+@keyframes rotate-gradient {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+.story-item__ring--viewed {
+  background: linear-gradient(45deg, rgba(115, 115, 115, 0.5), rgba(115, 115, 115, 0.3));
+  box-shadow: none;
 }
 
 .story-item__ring--highlight {
@@ -532,7 +578,7 @@ a {
   width: 44px;
   height: 44px;
   border-radius: var(--radius-round);
-  background: var(--gradient-blue);
+  background: var(--gradient-if-brand);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -563,7 +609,7 @@ a {
 
 .post-details__hashtags {
   margin-top: 20px;
-  color: var(--accent-blue-light);
+  color: var(--accent-blue);
   font-size: 0.9rem;
 }
 
@@ -580,11 +626,12 @@ a {
   border-top: 1px solid var(--border-color);
 }
 
+/* Instagram Blue Button */
 .post-details__cta-button {
   display: block;
   width: 100%;
   padding: 14px 28px;
-  background: var(--gradient-blue);
+  background: var(--accent-blue);
   color: white;
   border-radius: var(--radius-md);
   font-weight: 700;
@@ -595,6 +642,7 @@ a {
 }
 
 .post-details__cta-button:hover {
+  background: var(--accent-blue-light);
   transform: translateY(-2px);
   box-shadow: var(--shadow-glow-blue);
 }
@@ -666,7 +714,7 @@ a {
   height: 40px;
   border-radius: var(--radius-round);
   border: 2px solid white;
-  background: var(--gradient-blue);
+  background: var(--gradient-if-brand);
 }
 
 .story-viewer__name {
@@ -734,13 +782,14 @@ a {
   right: 0;
 }
 
+/* Instagram Blue Link Button */
 .story-viewer__link {
   position: absolute;
   bottom: 32px;
   left: 50%;
   transform: translateX(-50%);
   color: white;
-  background: var(--gradient-blue);
+  background: var(--accent-blue);
   padding: 14px 36px;
   border-radius: var(--radius-lg);
   font-weight: 600;
@@ -753,6 +802,7 @@ a {
 }
 
 .story-viewer__link:hover {
+  background: var(--accent-blue-light);
   transform: translateX(-50%) translateY(-3px);
 }
 
@@ -762,7 +812,7 @@ a {
 }
 
 /* ========================================
-   CTA Fixed Button
+   CTA Fixed Button - Instagram Blue
    ======================================== */
 .cta-fixed {
   position: fixed;
@@ -787,24 +837,25 @@ a {
 }
 
 .cta-fixed__button--primary {
-  background: var(--gradient-blue);
+  background: var(--accent-blue);
   color: white;
   box-shadow: var(--shadow-glow-blue);
 }
 
 .cta-fixed__button--primary:hover {
-  box-shadow: 0 0 60px rgba(59, 130, 246, 0.5);
+  background: var(--accent-blue-light);
+  box-shadow: 0 0 60px rgba(0, 149, 246, 0.5);
 }
 
 .cta-fixed__button--secondary {
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--bg-card);
   color: var(--text-primary);
   border: 1px solid var(--border-color);
   backdrop-filter: blur(10px);
 }
 
 .cta-fixed__button--secondary:hover {
-  background: rgba(255, 255, 255, 0.15);
+  background: var(--bg-card-hover);
   border-color: var(--accent-blue);
 }
 
@@ -881,19 +932,20 @@ a {
 }
 
 /* ========================================
-   Service Cards (New)
+   Service Cards - Instagram 2025 Style
    ======================================== */
 .service-section {
   padding: 32px 16px;
   margin-bottom: 32px;
 }
 
+/* if塾ブランドグラデーションを維持 */
 .service-section__title {
   font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
   margin-bottom: 24px;
-  background: var(--gradient-blue);
+  background: var(--gradient-if-brand);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -911,7 +963,6 @@ a {
   border-radius: var(--radius-lg);
   padding: 24px;
   transition: all var(--transition-normal);
-  backdrop-filter: blur(10px);
 }
 
 .service-card:hover {
@@ -930,7 +981,7 @@ a {
   width: 48px;
   height: 48px;
   border-radius: var(--radius-md);
-  background: var(--gradient-blue);
+  background: var(--gradient-if-brand);
   display: flex;
   align-items: center;
   justify-content: center;
