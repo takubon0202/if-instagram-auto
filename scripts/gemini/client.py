@@ -19,7 +19,8 @@ except ImportError:
 
 from .config import (
     GEMINI_API_KEY, MODELS, IMAGE_SIZES, BRAND_CONFIG,
-    CATEGORIES, THANKS_IMAGE, SCENE_STRUCTURE
+    CATEGORIES, THANKS_IMAGE, SCENE_STRUCTURE,
+    IMAGE_GENERATION_CONFIG, LOGO_CONFIG
 )
 
 
@@ -349,32 +350,35 @@ JSON形式で出力:
 class ImageGenerationAgent:
     """
     画像生成エージェント
-    Gemini 2.5 Flash Image (Nano Banana) で Instagram用画像を生成
-    5シーン構成対応 - テキスト込みの完成画像を生成
+    Gemini 3 Pro Image Preview で Instagram用画像を生成
+    5シーン構成対応 - 日本語テキスト込みの完成画像を生成
+    if塾ロゴ入り
     """
 
     def __init__(self, client: GeminiClient):
         self.client = client
-        self.model = MODELS["image"]
+        self.model = MODELS["image"]  # gemini-3-pro-image-preview
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
         self.max_retries = 3
+        self.image_config = IMAGE_GENERATION_CONFIG
+        self.logo_config = LOGO_CONFIG
 
     def generate_scene_image(
         self,
         post_id: str,
         scene: dict,
         category: dict,
-        size: dict
+        size: dict = None
     ) -> str:
         """
-        シーン用画像を生成（Gemini 2.5 Flash Image）
-        テキストを含む完成したInstagram投稿画像を生成
+        シーン用画像を生成（Gemini 3 Pro Image Preview）
+        日本語テキストとif塾ロゴを含む完成したInstagram投稿画像を生成
 
         Args:
             post_id: 投稿ID
             scene: シーン情報（headline, subtext含む）
             category: カテゴリ情報
-            size: 画像サイズ
+            size: 画像サイズ（未使用、ImageConfigで制御）
         """
         if not self.client.is_available():
             raise Exception("Gemini client not available")
@@ -382,60 +386,58 @@ class ImageGenerationAgent:
         # シーンのテキスト情報を取得
         headline = scene.get('headline', '') or scene.get('label', '')
         subtext = scene.get('subtext', '')
+        scene_id = scene.get('scene_id', 1)
         scene_label = scene.get('label', '')
-        scene_purpose = scene.get('purpose', '')
 
         # シーン別のデザインディレクション
-        scene_directions = self._get_scene_design_direction(scene, category)
+        scene_directions = self._get_scene_design_direction_jp(scene, category)
 
-        # テキスト込み完成画像用プロンプト
+        # 日本語プロンプト（if塾ロゴ入り）
         prompt = f"""
-Create a complete Instagram post image for "if塾" (a Japanese programming school).
+プログラミング教室「if塾」のInstagram投稿画像を作成してください。
 
-【Image Type】
-Complete Instagram carousel slide with Japanese text rendered IN the image.
+【ブランドロゴ】
+右下に「if塾」のロゴを配置してください：
+- 黒いモニターフレームの中にオレンジ色の「IF」の文字
+- 立体的な縁取りのあるデザイン
+- 控えめなサイズで、メインコンテンツの邪魔にならないように
 
-【Category & Style】
-- Category: {category['name']}
-- Visual Style: {category['visual_style']}
-- Primary Color: {category['colors']['primary']}
-- Secondary Color: {category['colors']['secondary']}
-- Accent Color: {category['colors'].get('accent', '#FFFFFF')}
+【カテゴリ】{category['name']}
+【カラー】メイン: {category['colors']['primary']}、サブ: {category['colors']['secondary']}
 
-【Scene Information】
-- Scene: {scene_label} (Scene {scene.get('scene_id', 1)} of 5)
-- Purpose: {scene_purpose}
+【シーン {scene_id}/5】{scene_label}
 
-【Text Content - MUST be rendered in the image】
-Main Headline (大きく表示): {headline}
-Subtext (小さく表示): {subtext}
+【メインテキスト（大きく中央に表示）】
+{headline}
 
-【Design Requirements】
+【サブテキスト（小さく表示）】
+{subtext}
+
+【デザイン要件】
 {scene_directions}
 
-【Technical Specifications】
-- Aspect Ratio: 4:5 (Instagram standard)
-- Dimensions: {size.get('width', 1080)}x{size.get('height', 1350)} pixels
-- High quality, sharp text rendering
-- The text MUST be in Japanese and clearly readable
-- Use modern, clean typography
-- Include subtle brand element "if" or "if塾" in corner
-
-【Style Reference】
-- Professional Japanese Instagram marketing style
-- Gradient backgrounds with category colors
-- Clean, modern typography
-- Minimalist but impactful design
-- Text should be the main focus, not background elements
+【重要な指示】
+- すべてのテキストは日本語で画像内にレンダリングすること
+- 文字は極太ゴシック体で視認性を最大化
+- グラデーション背景を使用
+- プロフェッショナルで現代的なInstagramマーケティングスタイル
+- テキストが主役、背景要素は控えめに
 """
 
         # リトライロジック付きで画像生成
         last_error = None
         for attempt in range(self.max_retries):
             try:
+                # Gemini 3 Pro Image Preview API を使用（ImageConfig対応）
                 response = self.client.client.models.generate_content(
                     model=self.model,
-                    contents=[prompt],
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        image_config=types.ImageConfig(
+                            aspect_ratio=self.image_config["aspect_ratio"],  # "4:5"
+                            image_size=self.image_config["resolution"]       # "1K"
+                        )
+                    )
                 )
 
                 # レスポンスから画像を抽出
@@ -445,59 +447,58 @@ Subtext (小さく表示): {subtext}
                     elif part.inline_data is not None:
                         image = part.as_image()
 
-                        filename = f"{post_id}-{scene['scene_id']:02d}.png"
+                        filename = f"{post_id}-{scene_id:02d}.png"
                         output_path = self.output_dir / filename
                         output_path.parent.mkdir(parents=True, exist_ok=True)
 
                         image.save(str(output_path))
-                        print(f"      [OK] Scene {scene['scene_id']}: {headline[:15]}...")
+                        print(f"      [OK] シーン{scene_id}: {headline[:15]}...")
                         return f"assets/img/posts/{filename}"
 
-                raise Exception("No image data in response")
+                raise Exception("レスポンスに画像データがありません")
 
             except Exception as e:
                 last_error = e
-                print(f"      [Retry {attempt + 1}/{self.max_retries}] {e}")
+                print(f"      [リトライ {attempt + 1}/{self.max_retries}] {e}")
                 if attempt < self.max_retries - 1:
                     import time
-                    time.sleep(2)  # リトライ前に少し待機
+                    time.sleep(2)
 
-        raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
+        raise Exception(f"{self.max_retries}回試行後も画像生成に失敗: {last_error}")
 
-    def _get_scene_design_direction(self, scene: dict, category: dict) -> str:
-        """シーン別のデザインディレクションを取得"""
+    def _get_scene_design_direction_jp(self, scene: dict, category: dict) -> str:
+        """シーン別のデザインディレクション（日本語）"""
         scene_id = scene.get('scene_id', 1)
-        scene_name = scene.get('scene_name', '')
 
         directions = {
             1: """
-- COVER SLIDE: Eye-catching, bold design
-- Headline should be LARGE and prominent (占める面積: 40%以上)
-- Use dramatic gradient background
-- Add subtle tech/programming visual elements
-- Include "if塾" brand mark
-- Create urgency/curiosity with design""",
+【表紙スライド】
+- 目を引く、大胆なデザイン
+- メインテキストは画面の40%以上を占める大きさ
+- ドラマチックなグラデーション背景
+- テック感・プログラミング感のある視覚要素を追加
+- 緊急性や好奇心を刺激するデザイン""",
             2: """
-- CONTENT SLIDE 1: Problem/Introduction
-- Clear, readable layout
-- Headline should be prominent but not overwhelming
-- Use icons or simple illustrations to support text
-- Maintain brand colors as accents
-- Professional, educational feel""",
+【内容スライド1：課題提示】
+- 読みやすく整理されたレイアウト
+- メインテキストは目立つが圧迫感がない
+- アイコンやシンプルなイラストでテキストを補完
+- ブランドカラーをアクセントとして使用
+- プロフェッショナルで教育的な雰囲気""",
             3: """
-- CONTENT SLIDE 2: Solution/Details
-- Informative, structured layout
-- Text should be easy to scan
-- Use visual hierarchy with headline and subtext
-- Include relevant visual metaphors (code, tech, learning)
-- Keep design consistent with slide 1""",
+【内容スライド2：解決策】
+- 情報を整理した構造的なレイアウト
+- テキストはスキャンしやすく
+- 見出しとサブテキストの視覚的階層を明確に
+- コード、テック、学習に関連するビジュアル要素
+- スライド1と一貫したデザイン""",
             4: """
-- CONTENT SLIDE 3: Action/Conclusion
-- Compelling call-to-action design
-- Headline should inspire action
-- Include directional cues (arrows, pointing elements)
-- Maintain energy from cover slide
-- Lead viewer to next slide (thanks)"""
+【内容スライド3：まとめ・CTA】
+- 行動を促す魅力的なデザイン
+- メインテキストは行動を喚起する内容
+- 矢印などの方向性を示す要素を含む
+- 表紙スライドのエネルギーを維持
+- 次のスライド（サンクス）への誘導"""
         }
 
         return directions.get(scene_id, directions[2])
@@ -507,7 +508,7 @@ Subtext (小さく表示): {subtext}
         post_id: str,
         content: dict,
         category: dict,
-        size: dict
+        size: dict = None
     ) -> list:
         """
         コンテンツから5シーン全ての画像を一括生成
@@ -516,7 +517,7 @@ Subtext (小さく表示): {subtext}
             post_id: 投稿ID
             content: ContentGenerationAgentからのコンテンツ
             category: カテゴリ情報
-            size: 画像サイズ
+            size: 画像サイズ（未使用、ImageConfigで制御）
         """
         scenes = [
             {"scene_id": 1, "scene_name": "cover", "label": "表紙",
@@ -540,10 +541,10 @@ Subtext (小さく表示): {subtext}
         image_paths = []
         for scene in scenes:
             try:
-                path = self.generate_scene_image(post_id, scene, category, size)
+                path = self.generate_scene_image(post_id, scene, category)
                 image_paths.append(path)
             except Exception as e:
-                print(f"    Scene {scene['scene_id']} generation failed: {e}")
+                print(f"    シーン{scene['scene_id']}の生成に失敗: {e}")
                 raise
 
         return image_paths

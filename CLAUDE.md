@@ -41,6 +41,9 @@ UIデザインの改善・生成
 ### 11 - Figma Design Agent
 Figmaからコード生成
 
+### 12 - Image Generator
+Instagram投稿画像の生成（Gemini 3 Pro Image Preview）
+
 ---
 
 ## スキル
@@ -51,6 +54,20 @@ FigmaデザインからReact/HTML/CSSコードを生成
 ```
 /figma-to-code [FigmaURL]
 ```
+
+### /generate-image
+if塾Instagram投稿画像を生成
+
+```
+/generate-image [カテゴリ] [テキスト]
+/generate-image --category ai_column --headline "Gemini 3.0がヤバい"
+```
+
+**仕様:**
+- モデル: gemini-3-pro-image-preview
+- 解像度: 1K
+- アスペクト比: 4:5（Instagram縦長）
+- ロゴ: if塾ロゴ自動挿入
 
 ---
 

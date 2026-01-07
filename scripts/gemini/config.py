@@ -10,9 +10,33 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Models
 MODELS = {
-    "research": "gemini-3-pro-preview",    # リサーチ・トレンド分析（Google Search対応）
-    "content": "gemini-3-pro-preview",     # コンテンツ生成
-    "image": "gemini-2.5-flash-image",     # 画像生成（Nano Banana）
+    "research": "gemini-3-pro-preview",      # リサーチ・トレンド分析（Google Search対応）
+    "content": "gemini-3-pro-preview",       # コンテンツ生成
+    "image": "gemini-3-pro-image-preview",   # 画像生成（高品質日本語対応）
+}
+
+# ============================================
+# 画像生成設定
+# ============================================
+IMAGE_GENERATION_CONFIG = {
+    "model": "gemini-3-pro-image-preview",
+    "resolution": "1K",           # 1K解像度
+    "aspect_ratio": "4:5",        # Instagram縦長投稿
+    "language": "ja",             # 日本語
+}
+
+# if塾ロゴ設定
+LOGO_CONFIG = {
+    "brand_name": "if塾",
+    "logo_text": "IF",
+    "logo_colors": {
+        "primary": "#FF6B00",     # オレンジ
+        "outline": "#000000",     # 黒の縁取り
+        "background": "#FFFFFF"   # 白背景
+    },
+    "logo_style": "モニターフレーム内にオレンジ色の「IF」ロゴ、立体的な縁取り",
+    "placement": "bottom-right",  # 右下配置
+    "size": "small"               # 控えめなサイズ
 }
 
 # Instagram Image Sizes (2026 Recommended)
