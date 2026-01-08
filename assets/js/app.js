@@ -262,18 +262,28 @@
   // Infinite Scroll & Loading
   // ========================================
   function loadMorePosts() {
-    if (state.isLoading || !state.hasMorePosts) {
-      console.log(`[if塾] loadMorePosts skipped: isLoading=${state.isLoading}, hasMorePosts=${state.hasMorePosts}`);
+    console.log(`[if塾] loadMorePosts called: isLoading=${state.isLoading}, hasMorePosts=${state.hasMorePosts}, filteredPosts=${state.filteredPosts.length}`);
+
+    if (state.isLoading) {
+      console.log('[if塾] loadMorePosts: already loading, skip');
       return;
     }
 
-    console.log(`[if塾] loadMorePosts: loading page ${state.currentPage}`);
+    if (!state.hasMorePosts) {
+      console.log('[if塾] loadMorePosts: no more posts');
+      return;
+    }
+
+    if (state.filteredPosts.length === 0) {
+      console.log('[if塾] loadMorePosts: filteredPosts is empty!');
+      state.hasMorePosts = false;
+      return;
+    }
 
     state.isLoading = true;
     showLoading();
 
-    // Simulate async loading with requestAnimationFrame for smooth UI
-    requestAnimationFrame(() => {
+    try {
       const start = state.currentPage * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
       const newPosts = state.filteredPosts.slice(start, end);
@@ -284,16 +294,19 @@
         state.displayedPosts = [...state.displayedPosts, ...newPosts];
         state.currentPage++;
         appendPosts(newPosts, start);
+        console.log(`[if塾] appendPosts completed, displayedPosts now: ${state.displayedPosts.length}`);
       }
 
       state.hasMorePosts = end < state.filteredPosts.length;
-      state.isLoading = false;
-
-      hideLoading();
       updatePostCount();
-
       console.log(`[if塾] After load: displayed=${state.displayedPosts.length}, hasMore=${state.hasMorePosts}`);
-    });
+
+    } catch (error) {
+      console.error('[if塾] loadMorePosts error:', error);
+    } finally {
+      state.isLoading = false;
+      hideLoading();
+    }
   }
 
   function showLoading() {
@@ -503,52 +516,49 @@
   }
 
   function appendPosts(posts, startIndex) {
+    console.log(`[if塾] appendPosts: adding ${posts.length} posts starting at ${startIndex}`);
+
     const container = elements.postsGrid;
-    if (!container) return;
+    if (!container) {
+      console.error('[if塾] appendPosts: container is null!');
+      return;
+    }
 
-    const fragment = document.createDocumentFragment();
+    try {
+      posts.forEach((post, i) => {
+        const cardHtml = renderPostCard(post, startIndex + i);
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = cardHtml;
+        const card = wrapper.firstElementChild;
 
-    posts.forEach((post, i) => {
-      const wrapper = document.createElement('div');
-      wrapper.innerHTML = renderPostCard(post, startIndex + i);
-      const card = wrapper.firstElementChild;
+        if (!card) {
+          console.error('[if塾] appendPosts: card creation failed for post', post.id);
+          return;
+        }
 
-      // Add click handler
-      card.addEventListener('click', () => {
-        saveScrollPosition();
-        openPostModal(startIndex + i);
-      });
-
-      card.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') {
-          e.preventDefault();
+        // Add click handler
+        card.addEventListener('click', () => {
           saveScrollPosition();
           openPostModal(startIndex + i);
-        }
+        });
+
+        card.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            saveScrollPosition();
+            openPostModal(startIndex + i);
+          }
+        });
+
+        // Append directly to container (no animation for reliability)
+        container.appendChild(card);
       });
 
-      // Add animation class
-      card.style.opacity = '0';
-      card.style.transform = 'translateY(20px)';
+      console.log(`[if塾] appendPosts: container now has ${container.children.length} children`);
 
-      fragment.appendChild(card);
-    });
-
-    container.appendChild(fragment);
-
-    // Animate new cards
-    requestAnimationFrame(() => {
-      const newCards = container.querySelectorAll('.post-card');
-      newCards.forEach((card, i) => {
-        if (i >= startIndex) {
-          setTimeout(() => {
-            card.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-            card.style.opacity = '1';
-            card.style.transform = 'translateY(0)';
-          }, (i - startIndex) * 50);
-        }
-      });
-    });
+    } catch (error) {
+      console.error('[if塾] appendPosts error:', error);
+    }
   }
 
   function rerenderDisplayedPosts() {
