@@ -633,16 +633,21 @@ Negative: {negative_prompt}""",
                     if part.text is not None:
                         continue
                     elif part.inline_data is not None:
-                        image = part.as_image()
+                        # Gemini APIから画像を取得してPIL Imageに変換
+                        from PIL import Image as PILImage
+                        import io
+
+                        # inline_dataから直接バイトデータを取得してPIL Imageに変換
+                        image_data = part.inline_data.data
+                        image = PILImage.open(io.BytesIO(image_data)).convert("RGB")
 
                         filename = f"{post_id}-{scene_id:02d}.png"
                         output_path = self.output_dir / filename
                         output_path.parent.mkdir(parents=True, exist_ok=True)
 
                         # 4:5にリサイズして保存（1080x1350）
-                        from PIL import Image as PILImage
                         if image.size != (1080, 1350):
-                            image = self._resize_to_instagram(image)
+                            image = self._resize_to_instagram(image, 1080, 1350)
 
                         image.save(str(output_path), "PNG")
                         print(f"      [OK] Scene {scene_id}: Base image saved ({image.size})")
@@ -677,47 +682,6 @@ Negative: {negative_prompt}""",
                     time.sleep(2)
 
         raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
-
-    def _resize_to_instagram(self, img) -> 'PILImage':
-        """
-        画像をInstagram 4:5比率（1080x1350）にリサイズ
-
-        Args:
-            img: PIL Image
-
-        Returns:
-            PIL Image: リサイズ後の画像
-        """
-        from PIL import Image as PILImage
-
-        target_w, target_h = 1080, 1350
-        target_ratio = target_w / target_h
-
-        src_w, src_h = img.size
-        src_ratio = src_w / src_h
-
-        if abs(src_ratio - target_ratio) < 0.01:
-            # すでに正しい比率
-            return img.resize((target_w, target_h), PILImage.Resampling.LANCZOS)
-
-        # カバーモード: 短い辺を基準にスケール
-        if src_ratio > target_ratio:
-            # 横長の画像 → 高さ基準
-            new_h = target_h
-            new_w = int(src_w * (target_h / src_h))
-        else:
-            # 縦長の画像 → 幅基準
-            new_w = target_w
-            new_h = int(src_h * (target_w / src_w))
-
-        img = img.resize((new_w, new_h), PILImage.Resampling.LANCZOS)
-
-        # 中央でクロップ
-        left = (new_w - target_w) // 2
-        top = (new_h - target_h) // 2
-        img = img.crop((left, top, left + target_w, top + target_h))
-
-        return img
 
     def _build_image_to_image_prompt(
         self,
