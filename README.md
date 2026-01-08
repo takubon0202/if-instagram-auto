@@ -1,10 +1,21 @@
-# if塾 Instagram Workflow v2.0
+# if塾 Instagram Workflow v3.0
 
 子どもの可能性を最大限に発揮する - プログラミング教室「if塾」のInstagram投稿自動生成システム。
 
 ## Live Demo
 
 **GitHub Pages**: https://takubon0202.github.io/if-instagram-auto/
+
+---
+
+## v3.0 新機能
+
+- **時間認識機能（Time-Aware）**: 常に現在の年月を認識し、最新トレンドを検索
+- **キャラクター参照画像**: Image-to-Image生成でif塾オリジナルスタイルを維持
+- **テキストオーバーレイエンジン**: Pillowで日本語テキストを美しく描画
+- **日本語フォント自動ダウンロード**: Noto Sans JP を自動取得
+- **フォールバック画像生成**: APIエラー時もスタッフ画像やグラデーション背景で継続
+- **システム評価エージェント**: 95%以上の合格率でシステム品質を保証
 
 ---
 
@@ -15,7 +26,7 @@
 - **Gemini API連携**: リアルタイムトレンドリサーチ・コンテンツ生成・画像生成
 - **5シーン構成**: 表紙→内容1→内容2→内容3→サンクス（固定画像）
 - **曜日別カテゴリ**: 週次スケジュールで自動カテゴリ選択
-- **GitHub Actions**: 毎日3回（9:00, 12:30, 20:00 JST）自動実行
+- **GitHub Actions**: 毎日自動実行（JST 16:55）
 - **Instagram風プレビュー**: 無限スクロール・カテゴリフィルター・Grid/Feed切替
 
 ---
@@ -25,9 +36,10 @@
 | レイヤー | 技術 | 用途 |
 |---------|------|------|
 | **Frontend** | HTML5, CSS3, Vanilla JS | Instagram風UIプレビュー |
-| **Backend** | Python 3.11, Pydantic | ワークフロー、データ検証 |
+| **Backend** | Python 3.11, Pillow, Pydantic | ワークフロー、画像処理、データ検証 |
 | **AI/LLM** | Google Gemini API (3モデル) | リサーチ、コンテンツ、画像生成 |
-| **Data** | JSON (4ファイル) | 投稿、設定、テンプレート、スタッフ |
+| **Text Overlay** | Pillow + Noto Sans JP | 日本語テキスト描画 |
+| **Data** | JSON (6ファイル) | 投稿、設定、テンプレート、スタッフ |
 | **Hosting** | GitHub Pages | 静的サイトデプロイ |
 | **CI/CD** | GitHub Actions | 自動投稿スケジューリング |
 
@@ -39,45 +51,74 @@
 |-------------|--------|------|
 | TrendResearchAgent | `gemini-3-flash-preview` | Google Search グラウンディングでリサーチ（thinking=minimal） |
 | ContentGenerationAgent | `gemini-3-flash-preview` | 5シーンコンテンツ生成（thinking=minimal） |
-| ImageGenerationAgent | `gemini-3-pro-image-preview` | **日本語テキスト込み完成画像**を生成（1K, 4:5） |
+| ImageGenerationAgent | `gemini-3-pro-image-preview` | キャラクター参照画像を使ったImage-to-Image生成（1K, 4:5） |
+| TextOverlayEngine | Pillow + Noto Sans JP | 日本語テキストオーバーレイ |
 | ContentImprovementAgent | `gemini-3-flash-preview` | パフォーマンス分析・改善（thinking=minimal） |
+
+---
+
+## 画像生成フロー（v3.0）
+
+```
+1. TrendResearchAgent → 時間認識でトレンドトピック取得
+2. ContentGenerationAgent → 5シーンのテキスト生成
+3. ImageGenerationAgent → キャラクター参照画像でImage-to-Image生成
+   ├─ 成功: PNG画像（アニメ風イラスト）
+   └─ 失敗: フォールバック画像生成
+4. TextOverlayEngine → 日本語テキストをオーバーレイ
+   ├─ タイトル: 画面上部20%
+   └─ サブテキスト: 画面下部80%
+5. 完成画像として保存 (1080x1350)
+```
 
 ### 画像生成仕様
 
 | 項目 | 値 |
 |------|-----|
 | モデル | gemini-3-pro-image-preview |
-| 解像度 | 1K |
+| 解像度 | 1K (1080x1350) |
 | アスペクト比 | 4:5（Instagram縦長投稿） |
-| 言語 | 日本語 |
-| ロゴ | if塾ロゴ自動挿入（右下） |
+| スタイル | Cute chibi anime style |
+| フォント | Noto Sans CJK JP Bold |
 
-### 画像生成フロー（Image-First Content）
+### フォールバック動作
 
-```
-1. TrendResearchAgent → トレンドトピック取得
-2. ContentGenerationAgent → 5シーンのテキスト生成
-3. ImageGenerationAgent → 日本語テキスト + if塾ロゴを画像に埋め込んで生成
-   └─ 成功: PNG画像（テキスト込み完成版）
-   ※ GEMINI_API_KEY必須（フォールバックなし）
-```
+GEMINI_API_KEYが未設定またはAPIエラー時:
 
-### if塾ロゴ
+1. **スタッフ画像優先**: シーンに紐づくスタッフ画像を背景に使用
+2. **グラデーション背景**: スタッフ画像がない場合はカテゴリ色でグラデーション生成
+3. **テキストオーバーレイ**: タイトルとサブテキストのみ描画（不要な要素なし）
 
-```
-┌─────────┐
-│  ┌───┐  │
-│  │IF │塾 │  ← オレンジ色「IF」+ 黒モニターフレーム
-│  └───┘  │
-└─────────┘
-```
+---
 
-**特徴:**
-- 画像がそのまま投稿コンテンツとして完成
-- 日本語テキストが画像内にレンダリング
-- if塾ブランドロゴが自動挿入
-- リトライロジック（最大3回）で安定性向上
-- GEMINI_API_KEY必須で高品質画像を保証
+## テキストオーバーレイ設定
+
+| 項目 | 値 | 説明 |
+|------|-----|------|
+| title_font_size | 100 | タイトルフォントサイズ |
+| content_font_size | 60 | コンテンツフォントサイズ |
+| subtext_font_size | 40 | サブテキストフォントサイズ |
+| padding_ratio | 0.10 | 左右余白（各10%） |
+| line_height_ratio | 1.5 | 行間比率 |
+| outline_width | 12 | 縁取り幅 |
+| shadow_offset | 5 | 影のオフセット |
+
+---
+
+## キャラクター参照画像
+
+Image-to-Image生成でif塾オリジナルスタイルを維持:
+
+| キャラクター | 用途 |
+|-------------|------|
+| girl_happy | 表紙、ポジティブシーン |
+| girl_surprised | 驚き、発見シーン |
+| girl_excited | 興奮、お知らせシーン |
+| boy_green_happy | 解決策、成功シーン |
+| boy_green_thinking | 課題提示、考察シーン |
+| boy_green_smile | AIコラム、テックシーン |
+| boy_black_energetic | 活動報告、イベント |
+| child_sad | 問題提起シーン |
 
 ---
 
@@ -85,15 +126,15 @@
 
 全投稿で統一された構成:
 
-| シーン | ラベル | 目的 |
-|--------|--------|------|
-| 1 | 表紙 | インパクト重視のタイトル |
-| 2 | 内容1 | 概要・課題提示 |
-| 3 | 内容2 | メリット・解決策 |
-| 4 | 内容3 | 詳細・提案 |
-| 5 | サンクス | アクション誘導（固定画像） |
+| シーン | ラベル | 目的 | 描画要素 |
+|--------|--------|------|----------|
+| 1 | 表紙 | インパクト重視のタイトル | headline + subtext |
+| 2 | 内容1 | 概要・課題提示 | headline + subtext |
+| 3 | 内容2 | メリット・解決策 | headline + subtext |
+| 4 | 内容3 | 詳細・提案 | headline + subtext |
+| 5 | サンクス | アクション誘導 | 固定画像 |
 
-**サンクス画像**: `assets/img/posts/ifjukuthanks.png`（必ず最後に使用）
+**削除された要素**: ページ番号（1/5等）、if塾ロゴ、カテゴリラベル
 
 ---
 
@@ -122,26 +163,13 @@
 | 土 | 活動報告 | イベント報告 |
 | 日 | 活動報告 | イベント報告 |
 
-**投稿時間**: 09:00, 12:30, 20:00 (JST)
-
 ---
 
 ## GitHub Actions 自動投稿
 
 ### スケジュール実行
 
-毎日3回、GitHub Actionsが自動でワークフローを実行:
-
-- **09:00 JST** (UTC 0:00) - 朝の通勤・通学時間
-- **12:30 JST** (UTC 3:30) - 昼休み
-- **20:00 JST** (UTC 11:00) - 夜のリラックスタイム
-
-### 手動実行
-
-GitHub Actions → workflow_dispatch で手動実行可能:
-
-- **カテゴリ指定**: 特定カテゴリで生成
-- **ドライラン**: コミットせずにテスト
+毎日 **16:55 JST** (UTC 7:55) に自動実行。
 
 ### ワークフロー設定
 
@@ -150,38 +178,19 @@ GitHub Actions → workflow_dispatch で手動実行可能:
 ```yaml
 on:
   schedule:
-    - cron: '0 0 * * *'   # JST 9:00
-    - cron: '30 3 * * *'  # JST 12:30
-    - cron: '0 11 * * *'  # JST 20:00
+    - cron: '55 7 * * *'  # JST 16:55
   workflow_dispatch:
     inputs:
       category: ...
       dry_run: ...
 ```
 
----
+### 手動実行
 
-## フロントエンド機能
+GitHub Actions → workflow_dispatch で手動実行可能:
 
-### Instagram風プレビューUI
-
-- **無限スクロール**: 12投稿ずつ自動読み込み
-- **Grid/Feed表示切替**: 3カラムグリッド or 縦長フィード
-- **カテゴリフィルター**: 7カテゴリ（すべて含む）で絞り込み
-- **投稿モーダル**: カルーセル画像・キャプション・ハッシュタグ表示
-- **ストーリービューア**: フルスクリーン・自動進行・プログレスバー
-- **ダークテーマ**: Instagram 2025準拠のデザイン
-
-### 操作方法
-
-| 操作 | アクション |
-|------|----------|
-| 投稿クリック | モーダル表示 |
-| 左右スワイプ | カルーセル操作 |
-| ←→キー | 画像切替 |
-| Escキー | モーダル閉じる |
-| ストーリー左/右タップ | 前後移動 |
-| 下スクロール | 追加読み込み |
+- **カテゴリ指定**: 特定カテゴリで生成
+- **ドライラン**: コミットせずにテスト
 
 ---
 
@@ -221,9 +230,28 @@ python -m scripts.gemini.workflow daily --date 2026-01-08
 python -m scripts.gemini.workflow research
 python -m scripts.gemini.workflow research --category ai_column
 
-# カスタム生成（指定カテゴリ・トピック）
-python -m scripts.gemini.workflow generate --category development --topic "AIチャットボット"
+# システム評価（95%以上で合格）
+python -m scripts.gemini.evaluate_system
 ```
+
+---
+
+## システム評価
+
+`evaluate_system.py` で以下を検証:
+
+| テスト項目 | 内容 |
+|-----------|------|
+| モジュールインポート | PIL, config, client, workflow等 |
+| 設定ファイル | フォントサイズ、パディング、カテゴリ数 |
+| 画像処理 | リサイズ、グラデーション生成 |
+| テキストオーバーレイ | フォント検出、描画出力 |
+| フォールバック | パス生成、ファイル生成 |
+| クライアントメソッド | メソッド存在、引数確認 |
+| ワークフロー統合 | カテゴリ取得、5シーン構成 |
+| 不要要素削除 | ページ番号等の削除確認 |
+
+**目標**: 95%以上の合格率
 
 ---
 
@@ -238,16 +266,18 @@ ifjuku-ig-prototype/
 │
 ├── .github/
 │   └── workflows/
-│       └── daily-post.yml        # GitHub Actions (毎日3回自動実行)
+│       └── daily-post.yml        # GitHub Actions
 │
 ├── assets/
 │   ├── css/
 │   │   └── style.css             # Instagram 2025ダークテーマ
 │   ├── js/
-│   │   └── app.js                # Vanilla JS (フレームワーク不使用)
+│   │   └── app.js                # Vanilla JS
+│   ├── fonts/
+│   │   └── NotoSansCJKjp-Bold.otf # 日本語フォント
 │   └── img/
 │       ├── posts/                # 投稿画像
-│       │   └── ifjukuthanks.png  # サンクス画像（固定）
+│       ├── characters/           # キャラクター参照画像 (8種)
 │       ├── staff/                # スタッフ画像 (6名)
 │       └── stories/              # ストーリー用画像
 │
@@ -260,113 +290,19 @@ ifjuku-ig-prototype/
 │   └── staff.json                # スタッフ情報
 │
 ├── scripts/
-│   ├── gemini/                   # Gemini API統合
-│   │   ├── config.py             # 6カテゴリ・5シーン・モデル設定
-│   │   ├── client.py             # 4エージェント実装
-│   │   ├── workflow.py           # ワークフローv2.0
-│   │   └── staff.py              # スタッフ画像選択
-│   ├── agents/                   # サブエージェント定義 (11種)
-│   ├── daily_reports/            # 日次レポート
-│   └── validate_data.js          # JSONバリデーション
+│   ├── gemini/
+│   │   ├── config.py             # 設定（カテゴリ、フォント、モデル）
+│   │   ├── client.py             # 4エージェント + 画像処理
+│   │   ├── workflow.py           # ワークフローv3.0
+│   │   ├── text_overlay.py       # テキストオーバーレイエンジン
+│   │   ├── staff.py              # スタッフ画像選択
+│   │   └── evaluate_system.py    # システム評価エージェント
+│   ├── agents/                   # サブエージェント定義
+│   └── daily_reports/            # 日次レポート・評価結果
 │
 └── docs/
     └── architecture.md           # システムアーキテクチャ
 ```
-
----
-
-## データ構造
-
-### posts.json（累積型）
-
-```json
-{
-  "metadata": {
-    "version": "3.0",
-    "total_posts": 12,
-    "last_updated": "2026-01-07T17:59:55"
-  },
-  "posts": [
-    {
-      "id": "2026-01-08-0900-announcement-carousel-01",
-      "datetime": "2026-01-08T09:00:00+09:00",
-      "type": "carousel",
-      "category": "announcement",
-      "title": "投稿タイトル",
-      "caption": "投稿本文...",
-      "hashtags": ["#if塾", "#プログラミング塾"],
-      "media": [
-        { "kind": "image", "src": "assets/img/posts/...", "alt": "説明" }
-      ],
-      "highlight": "お知らせ",
-      "staff": { "name": "高崎翔太", "role": "代表・講師" },
-      "status": "published"
-    }
-  ]
-}
-```
-
----
-
-## カテゴリ別テンプレート
-
-### お知らせ（announcement）
-- **表紙**: インパクト重視のタイトル（例：「【緊急募集】残り3席！」）
-- **内容1**: 何が起きるのか？
-- **内容2**: 参加するとどうなる？
-- **内容3**: いつ・どこで？
-
-### 開発物（development）
-- **表紙**: 成果物＋キャッチコピー（例：「高校生が作ったAIアプリが凄すぎる」）
-- **内容1**: どんな悩みを解決？（Before）
-- **内容2**: どうやって動く？（Process）
-- **内容3**: 使った結果は？（After）
-
-### 活動報告（activity）
-- **表紙**: 授業風景・イベント（例：「今日の授業、盛り上がりすぎた」）
-- **内容1**: 今日何をした？
-- **内容2**: 生徒の反応は？
-- **内容3**: 指導者の視点
-
-### 教育コラム（education）
-- **表紙**: 問いかけ・逆説（例：「『プログラミングは不要』は本当か？」）
-- **内容1**: 世の中の流れ
-- **内容2**: if塾の考え
-- **内容3**: 今やるべきこと
-
-### AIコラム（ai_column）
-- **表紙**: ツール名・衝撃的事実（例：「ChatGPT、まだ普通に使ってるの？」）
-- **内容1**: これは何？
-- **内容2**: どう使う？
-- **内容3**: プロの視点
-
-### ビジネスコラム（business）
-- **表紙**: 金額・稼ぎ方（例：「中学生でも月3万稼ぐ方法」）
-- **内容1**: 何を使う？
-- **内容2**: 具体的なツール
-- **内容3**: マインドセット
-
----
-
-## デザインシステム
-
-### Instagram 2025準拠
-
-- **テーマ**: ダークモード (#121212)
-- **画像サイズ**: 1080×1350px (4:5 縦長)
-- **グラデーション**: Instagramストーリーリング風
-- **フォント**: 極太ゴシック体＋袋文字（縁取り）
-
-### カテゴリ配色
-
-| カテゴリ | Primary | Secondary |
-|----------|---------|-----------|
-| お知らせ | #E53935 | #FF6F61 |
-| 開発物 | #1E88E5 | #00BCD4 |
-| 活動報告 | #43A047 | #66BB6A |
-| 教育コラム | #FF9800 | #FFB74D |
-| AIコラム | #7B1FA2 | #AB47BC |
-| ビジネス | #FFC107 | #FFD54F |
 
 ---
 
@@ -383,24 +319,45 @@ ifjuku-ig-prototype/
 | fujimoto_hinata | 藤本陽向 | 講師 | activity, development, education |
 | takasaki_shota | 高崎翔太 | 代表・講師 | 全カテゴリ |
 
-### 画像タイプ
+### 画像優先順位
 
-| タイプ | 用途 | 推奨シーン |
-|--------|------|------------|
-| profile | プロフィール写真 | cover, announcement |
-| teaching | 授業風景 | content1, content2, development |
-| casual | カジュアル写真 | content3, activity |
-| business | ビジネス写真 | announcement, business |
+1. シーンに紐づくスタッフ画像
+2. カテゴリに対応するスタッフのプロフィール画像
+3. グラデーション背景（フォールバック）
 
 ---
 
-## API未設定時の動作
+## トラブルシューティング
 
-GEMINI_API_KEYが未設定の場合、モックデータで動作:
+### 画像生成エラー: 'Image' object has no attribute 'size'
 
-- **リサーチ**: カテゴリ別サンプルトレンドデータ
-- **画像生成**: カテゴリ色のSVGプレースホルダー
-- **分析**: サンプル改善提案
+**原因**: Gemini APIレスポンスの処理不正
+
+**解決**: `client.py`で`part.inline_data.data`から直接PIL Imageに変換
+
+```python
+image_data = part.inline_data.data
+image = PILImage.open(io.BytesIO(image_data)).convert("RGB")
+```
+
+### 日本語が文字化け（豆腐）
+
+**原因**: 日本語フォントが見つからない
+
+**解決**: `text_overlay.py`が自動的にNoto Sans JPをダウンロード
+
+### フォールバック画像が単色
+
+**原因**: スタッフ画像が設定されていない
+
+**解決**: `workflow.py`の`_plan_5scene_post`でスタッフ画像を各シーンに設定
+
+### GitHub Actionsが失敗
+
+1. Settings → Secrets → `GEMINI_API_KEY` が設定されているか確認
+2. Actions → workflow_dispatch → dry_run: true でテスト
+3. ログで Python エラーを確認
+4. `partial_success`ステータスでもワークフローは継続
 
 ---
 
@@ -408,30 +365,11 @@ GEMINI_API_KEYが未設定の場合、モックデータで動作:
 
 | ファイル | 説明 |
 |----------|------|
-| `data/posts.json` | 投稿データ（累積・上書きしない） |
-| `scripts/research_results.json` | カテゴリ別リサーチ結果 |
+| `data/posts.json` | 投稿データ（累積） |
 | `scripts/daily_reports/YYYY-MM-DD.md` | 日次レポート |
-| `assets/img/posts/*.png` | 生成画像 |
-| `assets/img/posts/*.svg` | プレースホルダー |
-
----
-
-## 運用フロー
-
-### 自動実行（毎日3回）
-
-1. **GitHub Actions** がスケジュール実行
-2. 曜日に応じた**カテゴリを自動選択**
-3. **Gemini 3 Pro + Google Search** でトレンドリサーチ
-4. **5シーン構成**で投稿コンテンツ生成
-5. **Gemini 2.5 Flash Image** で画像生成（4枚 + サンクス）
-6. `posts.json` に**追加保存**（上書きしない）
-7. **Git commit & push** → GitHub Pages自動デプロイ
-8. 日次レポート生成
-
-### 手動確認
-
-生成されたコンテンツを確認後、Instagramへ手動投稿。
+| `scripts/daily_reports/evaluation_*.json` | システム評価結果 |
+| `assets/img/posts/YYYYMMDD_category-NN.png` | 生成画像 |
+| `assets/img/posts/YYYYMMDD_category-NN-fallback.png` | フォールバック画像 |
 
 ---
 
@@ -442,11 +380,11 @@ GEMINI_API_KEYが未設定の場合、モックデータで動作:
 python -m http.server 8000
 # → http://localhost:8000 でアクセス
 
-# データ検証
-node scripts/validate_data.js
-
 # ワークフローテスト
 python -m scripts.gemini.workflow daily --date 2026-01-08
+
+# システム評価
+python -m scripts.gemini.evaluate_system
 
 # スタッフディレクトリ作成
 python -m scripts.gemini.staff setup
@@ -466,29 +404,6 @@ python -m scripts.gemini.staff setup
 Settings → Actions → General:
 - Workflow permissions: **Read and write permissions**
 - Allow GitHub Actions to create and approve pull requests: **有効**
-
----
-
-## トラブルシューティング
-
-### 投稿が表示されない
-
-1. ブラウザのキャッシュをクリア（Ctrl+Shift+R）
-2. DevTools (F12) → Console で `[if塾]` ログを確認
-3. Network タブで `data/posts.json` が200を返しているか確認
-
-### GitHub Actions が失敗する
-
-1. Settings → Secrets → `GEMINI_API_KEY` が設定されているか確認
-2. Actions → workflow_dispatch → dry_run: true でテスト
-3. ログで Python エラーを確認
-
-### 画像生成エラー
-
-- `gemini-3-pro-image-preview` モデルを使用しているか確認
-- `GEMINI_API_KEY` が設定されているか確認（必須）
-- APIクォータを確認
-- 画像生成に失敗するとワークフローがエラー終了
 
 ---
 
