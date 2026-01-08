@@ -15,6 +15,24 @@
   'use strict';
 
   // ========================================
+  // Global Error Handler (DEBUG)
+  // ========================================
+  const errorLog = [];
+  window.onerror = function(msg, url, line, col, error) {
+    errorLog.push({ msg, line, col, time: new Date().toLocaleTimeString() });
+    console.error('[if塾] Error:', msg, 'at line', line);
+    // Show error in debug panel if exists
+    const debugPanel = document.getElementById('debug-panel');
+    if (debugPanel) {
+      const errorDiv = document.createElement('div');
+      errorDiv.style.cssText = 'color:#f00;margin-top:5px;border-top:1px solid #f00;padding-top:5px;';
+      errorDiv.innerHTML = `<strong>ERROR:</strong><br>${msg}<br>Line: ${line}`;
+      debugPanel.appendChild(errorDiv);
+    }
+    return false;
+  };
+
+  // ========================================
   // Constants
   // ========================================
   const POSTS_PER_PAGE = 12;
@@ -971,17 +989,34 @@
     // DEBUG: Add visible debug info panel (remove in production)
     const debugPanel = document.createElement('div');
     debugPanel.id = 'debug-panel';
-    debugPanel.style.cssText = 'position:fixed;top:0;right:0;background:rgba(0,0,0,0.8);color:#0f0;padding:10px;font-size:12px;z-index:9999;max-width:300px;';
-    debugPanel.innerHTML = `
-      <strong>DEBUG INFO</strong><br>
-      Posts loaded: ${state.posts.length}<br>
-      Filtered: ${state.filteredPosts.length}<br>
-      Displayed: ${state.displayedPosts.length}<br>
-      HasMore: ${state.hasMorePosts}<br>
-      Grid: ${elements.postsGrid ? 'OK' : 'NULL'}<br>
-      Categories: ${state.categories.length}
-    `;
+    debugPanel.style.cssText = 'position:fixed;top:0;right:0;background:rgba(0,0,0,0.9);color:#0f0;padding:15px;font-size:11px;z-index:9999;max-width:350px;font-family:monospace;line-height:1.4;';
+
+    function updateDebugPanel() {
+      const gridChildren = elements.postsGrid ? elements.postsGrid.children.length : 0;
+      debugPanel.innerHTML = `
+        <strong style="color:#ff0;">🔍 DEBUG v2</strong><br>
+        ─────────────────<br>
+        Posts: ${state.posts.length}<br>
+        Filtered: ${state.filteredPosts.length}<br>
+        Displayed: ${state.displayedPosts.length}<br>
+        HasMore: ${state.hasMorePosts}<br>
+        Page: ${state.currentPage}<br>
+        Loading: ${state.isLoading}<br>
+        ─────────────────<br>
+        Grid: ${elements.postsGrid ? 'OK' : 'NULL'}<br>
+        Grid children: ${gridChildren}<br>
+        Modal: ${elements.modal ? 'OK' : 'NULL'}<br>
+        ─────────────────<br>
+        Cat: ${state.categories.join(', ')}<br>
+        <small style="color:#888;">Updated: ${new Date().toLocaleTimeString()}</small>
+      `;
+    }
+
     document.body.appendChild(debugPanel);
+    updateDebugPanel();
+
+    // Update every 500ms to catch async updates
+    setInterval(updateDebugPanel, 500);
   }
 
   // ========================================
