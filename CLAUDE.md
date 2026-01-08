@@ -44,6 +44,24 @@ Figmaからコード生成
 ### 12 - Image Generator
 Instagram投稿画像の生成（Gemini 3 Pro Image Preview）
 
+### 13 - Post History Manager
+投稿履歴管理・重複防止（DailyInstagram参考）
+- 過去30日間の投稿を確認
+- 60-80%キーワード類似度で重複判定
+- posts-history.json に記録
+
+### 14 - Topic Selector
+トピック選択・ローテーション管理
+- 曜日ベースカテゴリ選択
+- 使用回数ベースのローテーション
+- シーケンシャル/ランダムモード対応
+
+### 15 - Content Pipeline
+コンテンツ生成パイプライン（DailyInstagram参考）
+- トピック選択 → 画像生成 → テキスト合成 → 保存
+- 朝9時: カルーセル投稿
+- 夜20時: リール投稿
+
 ---
 
 ## スキル
