@@ -866,12 +866,20 @@
   // Initialize
   // ========================================
   async function init() {
+    console.log('[if塾] init() called');
+
     // Cache DOM elements
     elements.storiesContainer = document.getElementById('stories-container');
     elements.highlightsContainer = document.getElementById('highlights-container');
     elements.postsGrid = document.getElementById('posts-grid');
     elements.modal = document.getElementById('post-modal');
     elements.storyViewer = document.getElementById('story-viewer');
+
+    console.log('[if塾] DOM elements cached:', {
+      postsGrid: !!elements.postsGrid,
+      modal: !!elements.modal,
+      storyViewer: !!elements.storyViewer
+    });
 
     // Show loading state
     if (elements.postsGrid) {
@@ -883,8 +891,12 @@
     }
 
     // Load data
+    console.log('[if塾] Starting loadData...');
     const success = await loadData();
+    console.log('[if塾] loadData result:', success, 'posts:', state.posts.length);
+
     if (!success) {
+      console.error('[if塾] loadData failed');
       if (elements.postsGrid) {
         elements.postsGrid.innerHTML = `
           <div class="empty" style="grid-column: 1 / -1;">
@@ -897,6 +909,7 @@
     }
 
     // Render UI controls
+    console.log('[if塾] Rendering UI controls...');
     renderControlsUI();
 
     // Add grid class for initial state
@@ -905,6 +918,7 @@
     }
 
     // Render
+    console.log('[if塾] Rendering components...');
     renderStories();
     renderHighlights();
     renderPosts();
@@ -917,6 +931,12 @@
     console.log(`[if塾] Displayed posts: ${state.displayedPosts.length}`);
     console.log(`[if塾] Categories: ${state.categories.join(', ')}`);
     console.log(`[if塾] Posts grid element:`, elements.postsGrid);
+
+    // Debug: Update post count element directly to verify
+    const postCountEl = document.getElementById('post-count');
+    if (postCountEl) {
+      console.log('[if塾] Post count element found, updating to:', state.posts.length);
+    }
   }
 
   // ========================================
