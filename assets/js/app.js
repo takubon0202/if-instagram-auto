@@ -914,76 +914,102 @@
   // Initialize
   // ========================================
   async function init() {
-    console.log('[if塾] init() called');
+    console.log('[if塾] init() called v3');
+    let initStep = 'start';
 
-    // Cache DOM elements
-    elements.storiesContainer = document.getElementById('stories-container');
-    elements.highlightsContainer = document.getElementById('highlights-container');
-    elements.postsGrid = document.getElementById('posts-grid');
-    elements.modal = document.getElementById('post-modal');
-    elements.storyViewer = document.getElementById('story-viewer');
+    try {
+      // Cache DOM elements
+      initStep = 'cache-dom';
+      elements.storiesContainer = document.getElementById('stories-container');
+      elements.highlightsContainer = document.getElementById('highlights-container');
+      elements.postsGrid = document.getElementById('posts-grid');
+      elements.modal = document.getElementById('post-modal');
+      elements.storyViewer = document.getElementById('story-viewer');
 
-    console.log('[if塾] DOM elements cached:', {
-      postsGrid: !!elements.postsGrid,
-      modal: !!elements.modal,
-      storyViewer: !!elements.storyViewer
-    });
+      console.log('[if塾] DOM elements cached:', {
+        postsGrid: !!elements.postsGrid,
+        modal: !!elements.modal,
+        storyViewer: !!elements.storyViewer
+      });
 
-    // Show loading state
-    if (elements.postsGrid) {
-      elements.postsGrid.innerHTML = `
-        <div class="loading" style="grid-column: 1 / -1;">
-          <div class="loading__spinner"></div>
-        </div>
-      `;
-    }
-
-    // Load data
-    console.log('[if塾] Starting loadData...');
-    const success = await loadData();
-    console.log('[if塾] loadData result:', success, 'posts:', state.posts.length);
-
-    if (!success) {
-      console.error('[if塾] loadData failed');
+      // Show loading state
       if (elements.postsGrid) {
         elements.postsGrid.innerHTML = `
-          <div class="empty" style="grid-column: 1 / -1;">
-            <div class="empty__icon">⚠️</div>
-            <p>データの読み込みに失敗しました</p>
+          <div class="loading" style="grid-column: 1 / -1;">
+            <div class="loading__spinner"></div>
           </div>
         `;
       }
-      return;
-    }
 
-    // Render UI controls
-    console.log('[if塾] Rendering UI controls...');
-    renderControlsUI();
+      // Load data
+      initStep = 'load-data';
+      console.log('[if塾] Starting loadData...');
+      const success = await loadData();
+      console.log('[if塾] loadData result:', success, 'posts:', state.posts.length);
 
-    // Add grid class for initial state
-    if (elements.postsGrid) {
-      elements.postsGrid.classList.add('posts-grid--grid');
-    }
+      if (!success) {
+        console.error('[if塾] loadData failed');
+        if (elements.postsGrid) {
+          elements.postsGrid.innerHTML = `
+            <div class="empty" style="grid-column: 1 / -1;">
+              <div class="empty__icon">⚠️</div>
+              <p>データの読み込みに失敗しました</p>
+            </div>
+          `;
+        }
+        return;
+      }
 
-    // Render
-    console.log('[if塾] Rendering components...');
-    renderStories();
-    renderHighlights();
-    renderPosts();
+      // Render UI controls
+      initStep = 'render-controls';
+      console.log('[if塾] Rendering UI controls...');
+      renderControlsUI();
 
-    // Event listeners
-    initEventListeners();
+      // Add grid class for initial state
+      if (elements.postsGrid) {
+        elements.postsGrid.classList.add('posts-grid--grid');
+      }
 
-    console.log('[if塾] Instagram風ブログ initialized');
-    console.log(`[if塾] Total posts: ${state.posts.length}`);
-    console.log(`[if塾] Displayed posts: ${state.displayedPosts.length}`);
-    console.log(`[if塾] Categories: ${state.categories.join(', ')}`);
-    console.log(`[if塾] Posts grid element:`, elements.postsGrid);
+      // Render
+      initStep = 'render-stories';
+      console.log('[if塾] Rendering stories...');
+      renderStories();
 
-    // Debug: Update post count element directly to verify
-    const postCountEl = document.getElementById('post-count');
-    if (postCountEl) {
-      console.log('[if塾] Post count element found, updating to:', state.posts.length);
+      initStep = 'render-highlights';
+      console.log('[if塾] Rendering highlights...');
+      renderHighlights();
+
+      initStep = 'render-posts';
+      console.log('[if塾] Rendering posts...');
+      renderPosts();
+
+      // Event listeners
+      initStep = 'init-events';
+      console.log('[if塾] Setting up event listeners...');
+      initEventListeners();
+
+      initStep = 'complete';
+      console.log('[if塾] Instagram風ブログ initialized v3');
+      console.log(`[if塾] Total posts: ${state.posts.length}`);
+      console.log(`[if塾] Displayed posts: ${state.displayedPosts.length}`);
+      console.log(`[if塾] Categories: ${state.categories.join(', ')}`);
+
+      // Debug: Update post count element directly to verify
+      const postCountEl = document.getElementById('post-count');
+      if (postCountEl) {
+        console.log('[if塾] Post count element found, updating to:', state.posts.length);
+      }
+
+    } catch (error) {
+      console.error('[if塾] Init error at step:', initStep, error);
+      // Show error in body
+      document.body.insertAdjacentHTML('afterbegin', `
+        <div style="background:#f00;color:#fff;padding:20px;position:fixed;top:0;left:0;right:0;z-index:99999;">
+          <strong>Init Error at: ${initStep}</strong><br>
+          ${error.message}<br>
+          ${error.stack}
+        </div>
+      `);
     }
 
     // DEBUG: Add visible debug info panel (remove in production)
