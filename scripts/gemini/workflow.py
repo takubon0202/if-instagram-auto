@@ -115,7 +115,7 @@ class InstagramWorkflowV3:
         if post.get("staff"):
             print(f"  [OK] スタッフ選択: {post['staff'].get('name', 'なし')}")
 
-        # Step 3: 画像生成（4枚 + サンクス画像）
+        # Step 3: 画像生成（4枚 + サンクス画像）- Gemini API必須
         print("\n[Step 3/5] 画像生成...")
         try:
             image_paths = self._generate_5scene_images(post, category)
@@ -123,7 +123,10 @@ class InstagramWorkflowV3:
             print(f"  [OK] {len(image_paths)}枚生成（サンクス画像含む）")
         except Exception as e:
             print(f"  [NG] 画像生成エラー: {e}")
-            post["generated_images"] = self._create_fallback_images(post, category)
+            print(f"  [ERROR] GEMINI_API_KEYが設定されていないか、APIエラーが発生しました")
+            results["status"] = "failed"
+            results["error"] = str(e)
+            return results
 
         # Step 4: データ更新
         print("\n[Step 4/5] データ更新...")
@@ -256,7 +259,7 @@ class InstagramWorkflowV3:
         }
 
     def _generate_5scene_images(self, post: dict, category: dict) -> list:
-        """5シーン分の画像を生成"""
+        """5シーン分の画像を生成（Gemini API必須）"""
         image_paths = []
         size = IMAGE_SIZES["feed_portrait"]
 
@@ -265,7 +268,7 @@ class InstagramWorkflowV3:
                 # サンクス画像は固定
                 image_paths.append(scene["fixed_image"])
             else:
-                # 各シーンの画像を生成
+                # 各シーンの画像を生成（Gemini API使用）
                 try:
                     path = self.image_agent.generate_scene_image(
                         post_id=post["id"],
@@ -276,109 +279,10 @@ class InstagramWorkflowV3:
                     image_paths.append(path)
                 except Exception as e:
                     print(f"    Scene {scene['scene_id']} error: {e}")
-                    # フォールバック
-                    fallback = self._create_scene_placeholder(post, scene, category)
-                    image_paths.append(fallback)
+                    print(f"    [ERROR] GEMINI_API_KEY is required for image generation")
+                    raise RuntimeError(f"Image generation failed: {e}. Please set GEMINI_API_KEY.")
 
         return image_paths
-
-    def _create_fallback_images(self, post: dict, category: dict) -> list:
-        """フォールバック画像を作成"""
-        image_paths = []
-        for scene in post["scenes"]:
-            if scene.get("fixed_image"):
-                image_paths.append(scene["fixed_image"])
-            else:
-                path = self._create_scene_placeholder(post, scene, category)
-                image_paths.append(path)
-        return image_paths
-
-    def _create_scene_placeholder(self, post: dict, scene: dict, category: dict) -> str:
-        """シーン用プレースホルダーSVGを作成（テキスト込み完成版）"""
-        filename = f"{post['id']}-{scene['scene_id']:02d}.svg"
-        colors = category["colors"]
-        headline = scene.get("headline", scene["label"])
-        subtext = scene.get("subtext", "")
-        scene_id = scene.get("scene_id", 1)
-
-        # ヘッドラインが長い場合は複数行に分割
-        headline_lines = self._split_text_to_lines(headline, 12)
-        subtext_lines = self._split_text_to_lines(subtext, 20) if subtext else []
-
-        # シーン別のデザイン設定
-        scene_designs = {
-            1: {"title_size": 72, "bg_style": "cover", "brand_size": 60},
-            2: {"title_size": 56, "bg_style": "content", "brand_size": 40},
-            3: {"title_size": 56, "bg_style": "content", "brand_size": 40},
-            4: {"title_size": 56, "bg_style": "content", "brand_size": 40},
-            5: {"title_size": 48, "bg_style": "thanks", "brand_size": 80},
-        }
-        design = scene_designs.get(scene_id, scene_designs[2])
-
-        # ヘッドラインテキストを生成
-        headline_y_start = 400 if scene_id == 1 else 350
-        headline_texts = ""
-        for i, line in enumerate(headline_lines[:4]):  # 最大4行
-            y = headline_y_start + (i * (design["title_size"] + 20))
-            headline_texts += f'  <text x="540" y="{y}" text-anchor="middle" fill="{colors["text"]}" font-family="sans-serif" font-size="{design["title_size"]}" font-weight="bold">{self._escape_svg_text(line)}</text>\n'
-
-        # サブテキストを生成
-        subtext_y_start = headline_y_start + (len(headline_lines[:4]) * (design["title_size"] + 20)) + 60
-        subtext_texts = ""
-        for i, line in enumerate(subtext_lines[:3]):  # 最大3行
-            y = subtext_y_start + (i * 45)
-            subtext_texts += f'  <text x="540" y="{y}" text-anchor="middle" fill="{colors["text"]}" font-family="sans-serif" font-size="36" opacity="0.9">{self._escape_svg_text(line)}</text>\n'
-
-        svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
-  <defs>
-    <linearGradient id="bg{scene_id}" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:{colors['primary']};stop-opacity:1" />
-      <stop offset="100%" style="stop-color:{colors['secondary']};stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect fill="url(#bg{scene_id})" width="1080" height="1350"/>
-
-  <!-- メインコンテンツエリア -->
-  <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
-
-  <!-- ヘッドライン -->
-{headline_texts}
-  <!-- サブテキスト -->
-{subtext_texts}
-  <!-- ブランドマーク -->
-  <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
-  <text x="540" y="1170" text-anchor="middle" fill="white" font-family="sans-serif" font-size="{design["brand_size"]}" font-weight="bold">if</text>
-
-  <!-- シーン番号 -->
-  <text x="540" y="1320" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="20">{scene['label']} ({scene_id}/5)</text>
-</svg>'''
-
-        output_path = self.assets_dir / filename
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(svg_content)
-
-        return f"assets/img/posts/{filename}"
-
-    def _split_text_to_lines(self, text: str, max_chars: int) -> list:
-        """テキストを指定文字数で分割"""
-        if not text:
-            return []
-        lines = []
-        current_line = ""
-        for char in text:
-            current_line += char
-            if len(current_line) >= max_chars:
-                lines.append(current_line)
-                current_line = ""
-        if current_line:
-            lines.append(current_line)
-        return lines
-
-    def _escape_svg_text(self, text: str) -> str:
-        """SVG用にテキストをエスケープ"""
-        return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
     def _generate_caption(self, category: dict, topic: str, staff_info: dict = None) -> str:
         """キャプションを生成"""
