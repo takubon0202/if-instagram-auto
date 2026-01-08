@@ -911,8 +911,10 @@ Call-to-action illustration: Forward momentum
         """
         モック画像を生成（APIが利用できない場合のフォールバック）
 
-        Pillowが利用可能な場合は、カテゴリカラーの背景にテキストを配置した
-        シンプルな画像を生成。利用不可の場合はダミーパスを返す。
+        TextOverlayEngineを使用して日本語フォント対応のモック画像を生成。
+        - グラデーション背景
+        - 日本語テキスト（Noto Sans JP等）
+        - カテゴリカラー対応
 
         Args:
             post_id: 投稿ID
@@ -927,81 +929,93 @@ Call-to-action illustration: Forward momentum
         output_path = self.output_dir / filename
 
         try:
-            from PIL import Image, ImageDraw, ImageFont
+            from PIL import Image, ImageDraw
 
             # カテゴリカラーを取得
             colors = category.get("colors", {})
             primary_color = colors.get("primary", "#4A90A4")
+            secondary_color = colors.get("secondary", "#7CB8A8")
 
             # Hex to RGB
-            if primary_color.startswith("#"):
-                r = int(primary_color[1:3], 16)
-                g = int(primary_color[3:5], 16)
-                b = int(primary_color[5:7], 16)
-            else:
-                r, g, b = 74, 144, 164
+            def hex_to_rgb(hex_color):
+                if hex_color.startswith("#"):
+                    return (
+                        int(hex_color[1:3], 16),
+                        int(hex_color[3:5], 16),
+                        int(hex_color[5:7], 16)
+                    )
+                return (74, 144, 164)
 
-            # 1080x1350のグラデーション風背景を生成
+            r, g, b = hex_to_rgb(primary_color)
+            r2, g2, b2 = hex_to_rgb(secondary_color)
+
+            # 1080x1350のグラデーション背景を生成
             img = Image.new("RGB", (1080, 1350), (r, g, b))
             draw = ImageDraw.Draw(img)
 
-            # グラデーション効果（上から下へ少し暗く）
+            # グラデーション効果（上から下へ）
             for y in range(1350):
-                factor = 1 - (y / 1350) * 0.3
-                line_color = (int(r * factor), int(g * factor), int(b * factor))
-                draw.line([(0, y), (1080, y)], fill=line_color)
+                # 上部から下部へのグラデーション
+                ratio = y / 1350
+                blend_r = int(r * (1 - ratio * 0.4) + r2 * ratio * 0.4)
+                blend_g = int(g * (1 - ratio * 0.4) + g2 * ratio * 0.4)
+                blend_b = int(b * (1 - ratio * 0.4) + b2 * ratio * 0.4)
+                draw.line([(0, y), (1080, y)], fill=(blend_r, blend_g, blend_b))
 
-            # テキスト設定
-            headline = scene.get("headline", f"Scene {scene_id}")
-            subtext = scene.get("subtext", "if塾")
-            category_name = category.get("name", "カテゴリ")
+            # 装飾: 斜めストライプ（薄く）
+            for i in range(-1350, 1080, 100):
+                draw.line(
+                    [(i, 0), (i + 1350, 1350)],
+                    fill=(255, 255, 255, 20),
+                    width=30
+                )
 
-            # フォント（デフォルトフォントを使用）
-            try:
-                font_large = ImageFont.truetype("arial.ttf", 64)
-                font_medium = ImageFont.truetype("arial.ttf", 40)
-                font_small = ImageFont.truetype("arial.ttf", 32)
-            except:
-                font_large = ImageFont.load_default()
-                font_medium = ImageFont.load_default()
-                font_small = ImageFont.load_default()
-
-            text_color = (255, 255, 255)
-            shadow_color = (0, 0, 0)
-
-            # カテゴリラベル（上部）
-            draw.text((42, 102), f"[{category_name}]", fill=shadow_color, font=font_small)
-            draw.text((40, 100), f"[{category_name}]", fill=text_color, font=font_small)
-
-            # ヘッドライン（中央）
-            headline_text = headline[:25] if len(headline) > 25 else headline
-            bbox = draw.textbbox((0, 0), headline_text, font=font_large)
-            text_width = bbox[2] - bbox[0]
-            x = (1080 - text_width) // 2
-            draw.text((x + 2, 502), headline_text, fill=shadow_color, font=font_large)
-            draw.text((x, 500), headline_text, fill=text_color, font=font_large)
-
-            # サブテキスト（中央下）
-            subtext_text = subtext[:40] if len(subtext) > 40 else subtext
-            bbox2 = draw.textbbox((0, 0), subtext_text, font=font_medium)
-            text_width2 = bbox2[2] - bbox2[0]
-            x2 = (1080 - text_width2) // 2
-            draw.text((x2 + 2, 602), subtext_text, fill=shadow_color, font=font_medium)
-            draw.text((x2, 600), subtext_text, fill=text_color, font=font_medium)
-
-            # if塾ブランド（下部）
-            draw.text((452, 1202), "if塾", fill=shadow_color, font=font_large)
-            draw.text((450, 1200), "if塾", fill=(255, 200, 100), font=font_large)
-
-            # シーン番号（右下）
-            draw.text((982, 1262), f"{scene_id}/5", fill=shadow_color, font=font_small)
-            draw.text((980, 1260), f"{scene_id}/5", fill=text_color, font=font_small)
-
-            # 保存
+            # 背景画像を一時保存
             output_path.parent.mkdir(parents=True, exist_ok=True)
-            img.save(str(output_path), "PNG")
-            print(f"      [MOCK] Generated mock image: {filename}")
-            return f"assets/img/posts/{filename}"
+            temp_path = str(output_path)
+            img.save(temp_path, "PNG")
+
+            # TextOverlayEngineを使用してテキストを追加（日本語フォント対応）
+            try:
+                from .text_overlay import TextOverlayEngine
+
+                # テキスト設定
+                headline = scene.get("headline", f"Scene {scene_id}")
+                subtext = scene.get("subtext", "")
+                category_id = category.get("id", "default")
+                category_name = category.get("name", "カテゴリ")
+
+                # ヘッドラインにカテゴリ情報を追加
+                full_headline = f"[{category_name}]\n{headline}"
+
+                # サブテキストにシーン番号とブランドを追加
+                full_subtext = f"{subtext}\n\n{scene_id}/5 | if塾" if subtext else f"{scene_id}/5 | if塾"
+
+                # TextOverlayEngineでテキストを描画
+                engine = TextOverlayEngine({
+                    "title_font_size": 96,      # より大きいフォント
+                    "subtext_font_size": 48,
+                    "title_position_y": 0.35,   # 中央寄り
+                    "content_position_y": 0.75,
+                    "outline_width": 8,         # 太い縁取り
+                })
+
+                engine.create_instagram_post(
+                    background_image_path=temp_path,
+                    headline=full_headline,
+                    subtext=full_subtext,
+                    output_path=temp_path,
+                    style=category_id
+                )
+
+                print(f"      [MOCK] Generated mock image with Japanese font: {filename}")
+                return f"assets/img/posts/{filename}"
+
+            except ImportError as e:
+                print(f"      [WARN] TextOverlayEngine not available: {e}")
+                # TextOverlayEngineが使えない場合は背景のみ保存
+                print(f"      [MOCK] Generated background-only mock: {filename}")
+                return f"assets/img/posts/{filename}"
 
         except ImportError:
             print("      [WARN] Pillow not available, returning dummy path")

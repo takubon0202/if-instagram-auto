@@ -1,18 +1,34 @@
 """
-Text Overlay Module v2.0
+Text Overlay Module v3.0
 if塾 Instagram画像にテキストを重ねる
 
 PIL/Pillowを使用して生成画像にテキストオーバーレイを追加
 - アウトライン効果（縁取り）
 - 日本語フォント対応（BIZ UD Gothic推奨）
 - Instagram 4:5比率（1080x1350）
+- 自動フォントダウンロード機能（Noto Sans JP）
 
 参考: getabako/InstagramGenerator のCanvas実装をPythonで再現
 v2.0: フォント改善、縁取り強化、文字化け対策
+v3.0: フォント自動ダウンロード機能追加（GitHub Actions対応）
 """
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from pathlib import Path
 import os
+
+# フォントダウンロード用
+try:
+    import requests
+    REQUESTS_AVAILABLE = True
+except ImportError:
+    REQUESTS_AVAILABLE = False
+    print("[Font] Warning: requests library not available, font download disabled")
+
+# ダウンロードするフォントのURL（Noto Sans CJK JP Bold）
+FONT_DOWNLOAD_URL = "https://github.com/googlefonts/noto-cjk/raw/main/Sans/OTF/Japanese/NotoSansCJKjp-Bold.otf"
+# 保存先ディレクトリ（プロジェクトルート/assets/fonts/）
+FONTS_DIR = Path(__file__).parent.parent.parent / "assets" / "fonts"
+DOWNLOADED_FONT_PATH = FONTS_DIR / "NotoSansCJKjp-Bold.otf"
 
 # config.pyからの設定を試行
 try:
@@ -67,8 +83,10 @@ except ImportError:
     }
 
 # 日本語フォントの候補パス（優先順位順）
-# BIZ UD Gothic Bold を最優先（完全な日本語サポート、太字でインパクトあり）
+# ダウンロードしたNoto Sans JP Bold を最優先（確実な日本語サポート）
 JAPANESE_FONT_PATHS = [
+    # ダウンロードしたフォント（最優先）
+    str(DOWNLOADED_FONT_PATH),
     # Windows - BIZ UD Gothic Bold（推奨）
     "C:/Windows/Fonts/BIZ-UDGothicB.ttc",
     "C:/Windows/Fonts/BIZ-UDGothicR.ttc",
@@ -91,6 +109,48 @@ JAPANESE_FONT_PATHS = [
 ]
 
 
+def download_japanese_font() -> str:
+    """
+    日本語フォント（Noto Sans CJK JP Bold）をダウンロード
+
+    Returns:
+        str: ダウンロードしたフォントのパス、または失敗時はNone
+    """
+    if not REQUESTS_AVAILABLE:
+        print("[Font] requests library not available, cannot download font")
+        return None
+
+    # すでにダウンロード済みの場合はスキップ
+    if DOWNLOADED_FONT_PATH.exists():
+        print(f"[Font] Already downloaded: {DOWNLOADED_FONT_PATH}")
+        return str(DOWNLOADED_FONT_PATH)
+
+    print(f"[Font] Downloading Japanese font from {FONT_DOWNLOAD_URL}...")
+
+    try:
+        # ディレクトリを作成
+        FONTS_DIR.mkdir(parents=True, exist_ok=True)
+
+        # フォントをダウンロード
+        response = requests.get(FONT_DOWNLOAD_URL, timeout=60)
+        response.raise_for_status()
+
+        # 保存
+        with open(DOWNLOADED_FONT_PATH, 'wb') as f:
+            f.write(response.content)
+
+        print(f"[Font] Downloaded successfully: {DOWNLOADED_FONT_PATH}")
+        print(f"[Font] File size: {len(response.content) / 1024 / 1024:.2f} MB")
+        return str(DOWNLOADED_FONT_PATH)
+
+    except requests.exceptions.RequestException as e:
+        print(f"[Font] Download failed: {e}")
+        return None
+    except Exception as e:
+        print(f"[Font] Error saving font: {e}")
+        return None
+
+
 class TextOverlayEngine:
     """
     画像にテキストオーバーレイを追加するエンジン
@@ -105,18 +165,35 @@ class TextOverlayEngine:
         self.font_path = self._find_japanese_font()
 
     def _find_japanese_font(self) -> str:
-        """日本語フォントを探す"""
+        """
+        日本語フォントを探す（自動ダウンロード機能付き）
+
+        1. 設定されたフォントパスを確認
+        2. システムフォントを検索
+        3. 見つからない場合は自動ダウンロード
+        4. それでも失敗した場合はNone（デフォルトフォント使用）
+        """
         # 設定されたフォントパスがあればそれを使用
         if self.config.get("font_path") and os.path.exists(self.config["font_path"]):
+            print(f"[Font] Using configured font: {self.config['font_path']}")
             return self.config["font_path"]
 
         # 候補から探す
         for font_path in JAPANESE_FONT_PATHS:
             if os.path.exists(font_path):
-                print(f"[Font] Found: {font_path}")
+                print(f"[Font] Found system font: {font_path}")
                 return font_path
 
-        print("[Font] Warning: No Japanese font found, using default")
+        # 見つからない場合は自動ダウンロード
+        print("[Font] No Japanese font found on system, attempting download...")
+        downloaded_path = download_japanese_font()
+        if downloaded_path and os.path.exists(downloaded_path):
+            print(f"[Font] Using downloaded font: {downloaded_path}")
+            return downloaded_path
+
+        print("[Font] WARNING: No Japanese font available!")
+        print("[Font] Japanese text will appear as boxes (tofu)")
+        print("[Font] To fix: pip install requests, then re-run to download font")
         return None
 
     def _get_font(self, size: int) -> ImageFont.FreeTypeFont:

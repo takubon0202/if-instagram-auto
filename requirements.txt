@@ -8,6 +8,7 @@ pydantic>=2.0.0
 
 # Utilities
 python-dotenv>=1.0.0
+requests>=2.28.0    # Font download for Japanese text support
 
-# Optional: Image processing
+# Image processing
 Pillow>=10.0.0

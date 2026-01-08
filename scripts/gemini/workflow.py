@@ -314,64 +314,84 @@ class InstagramWorkflowV3:
     def _get_fallback_image(self, post_id: str, scene: dict, category: dict) -> str:
         """
         フォールバック画像を取得または生成
-        1. Pillowでモック画像を生成（可能な場合）
-        2. 固定のサンクス画像を使用（フォールバック）
+        TextOverlayEngineを使用して日本語フォント対応
+
+        1. グラデーション背景を生成
+        2. TextOverlayEngineでテキスト描画（日本語フォント対応）
+        3. 失敗時はサンクス画像を使用
         """
         scene_id = scene.get("scene_id", 1)
         filename = f"{post_id}-{scene_id:02d}-fallback.png"
         output_path = self.assets_dir / filename
 
         try:
-            from PIL import Image, ImageDraw, ImageFont
+            from PIL import Image, ImageDraw
 
-            # 1080x1350の単色背景画像を生成
+            # カテゴリカラーを取得
             colors = category.get("colors", {})
             primary_color = colors.get("primary", "#4A90A4")
+            secondary_color = colors.get("secondary", "#7CB8A8")
 
             # Hex to RGB
-            if primary_color.startswith("#"):
-                r = int(primary_color[1:3], 16)
-                g = int(primary_color[3:5], 16)
-                b = int(primary_color[5:7], 16)
-            else:
-                r, g, b = 74, 144, 164  # デフォルト
+            def hex_to_rgb(hex_color):
+                if hex_color.startswith("#"):
+                    return (
+                        int(hex_color[1:3], 16),
+                        int(hex_color[3:5], 16),
+                        int(hex_color[5:7], 16)
+                    )
+                return (74, 144, 164)
 
+            r, g, b = hex_to_rgb(primary_color)
+            r2, g2, b2 = hex_to_rgb(secondary_color)
+
+            # 1080x1350のグラデーション背景を生成
             img = Image.new("RGB", (1080, 1350), (r, g, b))
             draw = ImageDraw.Draw(img)
 
-            # テキストを描画（シンプルなフォント）
-            headline = scene.get("headline", f"Scene {scene_id}")
-            subtext = scene.get("subtext", "if塾")
+            # グラデーション効果
+            for y in range(1350):
+                ratio = y / 1350
+                blend_r = int(r * (1 - ratio * 0.4) + r2 * ratio * 0.4)
+                blend_g = int(g * (1 - ratio * 0.4) + g2 * ratio * 0.4)
+                blend_b = int(b * (1 - ratio * 0.4) + b2 * ratio * 0.4)
+                draw.line([(0, y), (1080, y)], fill=(blend_r, blend_g, blend_b))
 
-            # フォントサイズ（デフォルトフォント使用）
-            try:
-                font_large = ImageFont.truetype("arial.ttf", 60)
-                font_small = ImageFont.truetype("arial.ttf", 36)
-            except:
-                font_large = ImageFont.load_default()
-                font_small = ImageFont.load_default()
-
-            # テキストを中央に配置
-            text_color = (255, 255, 255)
-
-            # ヘッドライン
-            bbox = draw.textbbox((0, 0), headline[:20], font=font_large)
-            text_width = bbox[2] - bbox[0]
-            x = (1080 - text_width) // 2
-            draw.text((x, 500), headline[:20], fill=text_color, font=font_large)
-
-            # サブテキスト
-            bbox2 = draw.textbbox((0, 0), subtext[:30], font=font_small)
-            text_width2 = bbox2[2] - bbox2[0]
-            x2 = (1080 - text_width2) // 2
-            draw.text((x2, 600), subtext[:30], fill=text_color, font=font_small)
-
-            # ブランド名
-            draw.text((450, 1200), "if塾", fill=text_color, font=font_large)
-
-            # 保存
+            # 背景を保存
             output_path.parent.mkdir(parents=True, exist_ok=True)
             img.save(str(output_path), "PNG")
+
+            # TextOverlayEngineでテキストを追加（日本語フォント対応）
+            try:
+                from scripts.gemini.text_overlay import TextOverlayEngine
+
+                headline = scene.get("headline", f"Scene {scene_id}")
+                subtext = scene.get("subtext", "")
+                category_id = category.get("id", "default")
+                category_name = category.get("name", "カテゴリ")
+
+                # ヘッドラインにカテゴリ情報を追加
+                full_headline = f"[{category_name}]\n{headline}"
+                full_subtext = f"{subtext}\n\n{scene_id}/5 | if塾" if subtext else f"{scene_id}/5 | if塾"
+
+                engine = TextOverlayEngine({
+                    "title_font_size": 96,
+                    "subtext_font_size": 48,
+                    "title_position_y": 0.35,
+                    "content_position_y": 0.75,
+                    "outline_width": 8,
+                })
+
+                engine.create_instagram_post(
+                    background_image_path=str(output_path),
+                    headline=full_headline,
+                    subtext=full_subtext,
+                    output_path=str(output_path),
+                    style=category_id
+                )
+
+            except ImportError:
+                pass  # TextOverlayEngineが使えない場合は背景のみ
             print(f"    [MOCK] Generated: {filename}")
             return f"assets/img/posts/{filename}"
 
