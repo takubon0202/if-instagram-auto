@@ -11,13 +11,13 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">便利だけど注意！if塾流</text>
-  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">・AIとの付き合い方</text>
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">if塾流：思考までは委任</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">しない。</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">実行はAIが得意ですが、「どの大学に行き</text>
-  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">たいか」「何を学びたいか」という『意志』</text>
-  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">を決めるのは人間です。AIに人生の操縦席</text>
+  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">便利な反面、注意も必要です。タスク管理は</text>
+  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">AIに任せても、学ぶこと自体はあなたの役</text>
+  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">割。浮いた時間を「深い思考」や「対話」に</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>

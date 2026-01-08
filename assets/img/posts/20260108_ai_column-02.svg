@@ -11,13 +11,13 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">「教えて」はもう古い？自</text>
-  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">ら動くAIの登場</text>
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">指示待ちAIの時代は終わ</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">りました。</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">これまでは人間が毎回指示を出していました</text>
-  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">が、2026年の『自律型AI（Agent</text>
-  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">s）』は、目標を伝えるだけで手順を考え、</text>
+  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">これまでのAIは「人間が細かく指示」する</text>
+  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">必要がありました。しかし2026年のトレ</text>
+  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">ンドは『Agentic AI（エージェン</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
