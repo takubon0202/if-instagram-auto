@@ -313,13 +313,15 @@ class InstagramWorkflowV3:
 
     def _get_fallback_image(self, post_id: str, scene: dict, category: dict) -> str:
         """
-        フォールバック画像を取得または生成
-        TextOverlayEngineを使用して日本語フォント対応
+        フォールバック画像を取得または生成 v4.0
 
-        1. グラデーション背景を生成
-        2. TextOverlayEngineでテキスト描画（日本語フォント対応）
-        3. 失敗時はサンクス画像を使用
+        優先順位:
+        1. スタッフ画像があればそれを背景に使用
+        2. グラデーション背景を生成
+        3. TextOverlayEngineでタイトルとサブテキストのみ描画
+        4. 失敗時はサンクス画像を使用
         """
+        import os
         scene_id = scene.get("scene_id", 1)
         filename = f"{post_id}-{scene_id:02d}-fallback.png"
         output_path = self.assets_dir / filename
@@ -327,82 +329,119 @@ class InstagramWorkflowV3:
         try:
             from PIL import Image, ImageDraw
 
-            # カテゴリカラーを取得
-            colors = category.get("colors", {})
-            primary_color = colors.get("primary", "#4A90A4")
-            secondary_color = colors.get("secondary", "#7CB8A8")
+            # 出力ディレクトリを作成
+            output_path.parent.mkdir(parents=True, exist_ok=True)
 
-            # Hex to RGB
-            def hex_to_rgb(hex_color):
-                if hex_color.startswith("#"):
-                    return (
-                        int(hex_color[1:3], 16),
-                        int(hex_color[3:5], 16),
-                        int(hex_color[5:7], 16)
-                    )
-                return (74, 144, 164)
+            # 背景画像を決定（優先順位: スタッフ画像 > グラデーション）
+            staff_image_path = scene.get("staff_image")
+            background_img = None
 
-            r, g, b = hex_to_rgb(primary_color)
-            r2, g2, b2 = hex_to_rgb(secondary_color)
-
-            # 1080x1350のグラデーション背景を生成
-            img = Image.new("RGB", (1080, 1350), (r, g, b))
-            draw = ImageDraw.Draw(img)
-
-            # グラデーション効果
-            for y in range(1350):
-                ratio = y / 1350
-                blend_r = int(r * (1 - ratio * 0.4) + r2 * ratio * 0.4)
-                blend_g = int(g * (1 - ratio * 0.4) + g2 * ratio * 0.4)
-                blend_b = int(b * (1 - ratio * 0.4) + b2 * ratio * 0.4)
-                draw.line([(0, y), (1080, y)], fill=(blend_r, blend_g, blend_b))
+            # 1. スタッフ画像があればそれを使用
+            if staff_image_path and os.path.exists(staff_image_path):
+                print(f"    [BG] Using staff image: {staff_image_path}")
+                background_img = Image.open(staff_image_path).convert("RGB")
+                # 4:5比率にリサイズ
+                background_img = self._resize_to_instagram(background_img, 1080, 1350)
+            else:
+                # 2. グラデーション背景を生成
+                print(f"    [BG] Generating gradient background")
+                background_img = self._create_gradient_background(category)
 
             # 背景を保存
-            output_path.parent.mkdir(parents=True, exist_ok=True)
-            img.save(str(output_path), "PNG")
+            background_img.save(str(output_path), "PNG")
 
-            # TextOverlayEngineでテキストを追加（日本語フォント対応）
+            # TextOverlayEngineでテキストを追加（タイトルとサブテキストのみ）
             try:
                 from scripts.gemini.text_overlay import TextOverlayEngine
+                from scripts.gemini.config import TEXT_OVERLAY_CONFIG
 
-                headline = scene.get("headline", f"Scene {scene_id}")
+                # シンプルに：タイトルとサブテキストのみ（カテゴリ名、ページ番号、ブランド名は削除）
+                headline = scene.get("headline", "")
                 subtext = scene.get("subtext", "")
                 category_id = category.get("id", "default")
-                category_name = category.get("name", "カテゴリ")
 
-                # ヘッドラインにカテゴリ情報を追加
-                full_headline = f"[{category_name}]\n{headline}"
-                full_subtext = f"{subtext}\n\n{scene_id}/5 | if塾" if subtext else f"{scene_id}/5 | if塾"
-
-                from scripts.gemini.config import TEXT_OVERLAY_CONFIG
                 engine = TextOverlayEngine({
-                    "title_font_size": TEXT_OVERLAY_CONFIG.get("title_font_size", 140),
-                    "subtext_font_size": TEXT_OVERLAY_CONFIG.get("subtext_font_size", 60),
+                    "title_font_size": TEXT_OVERLAY_CONFIG.get("title_font_size", 100),
+                    "subtext_font_size": TEXT_OVERLAY_CONFIG.get("subtext_font_size", 40),
                     "title_position_y": TEXT_OVERLAY_CONFIG.get("title_position_y", 0.20),
                     "content_position_y": TEXT_OVERLAY_CONFIG.get("content_position_y", 0.80),
-                    "outline_width": TEXT_OVERLAY_CONFIG.get("outline_width", 15),
-                    "shadow_offset": TEXT_OVERLAY_CONFIG.get("shadow_offset", 6),
+                    "outline_width": TEXT_OVERLAY_CONFIG.get("outline_width", 12),
+                    "shadow_offset": TEXT_OVERLAY_CONFIG.get("shadow_offset", 5),
+                    "padding_ratio": TEXT_OVERLAY_CONFIG.get("padding_ratio", 0.10),
+                    "line_height_ratio": TEXT_OVERLAY_CONFIG.get("line_height_ratio", 1.5),
                 })
 
                 engine.create_instagram_post(
                     background_image_path=str(output_path),
-                    headline=full_headline,
-                    subtext=full_subtext,
+                    headline=headline,  # タイトルのみ
+                    subtext=subtext,    # サブテキストのみ
                     output_path=str(output_path),
                     style=category_id
                 )
 
             except ImportError:
                 pass  # TextOverlayEngineが使えない場合は背景のみ
-            print(f"    [MOCK] Generated: {filename}")
+
+            print(f"    [FALLBACK] Generated: {filename}")
             return f"assets/img/posts/{filename}"
 
         except ImportError:
-            print("    [WARN] Pillow not available, using thanks image as fallback")
+            print("    [WARN] Pillow not available, using thanks image")
             return THANKS_IMAGE
         except Exception as e:
-            print(f"    [WARN] Mock image generation failed: {e}")
+            print(f"    [WARN] Fallback image generation failed: {e}")
             return THANKS_IMAGE
+
+    def _resize_to_instagram(self, img, target_w: int, target_h: int):
+        """画像を4:5比率にリサイズ（カバーモード）"""
+        from PIL import Image
+
+        src_w, src_h = img.size
+        target_ratio = target_w / target_h
+        src_ratio = src_w / src_h
+
+        if abs(src_ratio - target_ratio) < 0.01:
+            return img.resize((target_w, target_h), Image.Resampling.LANCZOS)
+
+        if src_ratio > target_ratio:
+            new_h = target_h
+            new_w = int(src_w * (target_h / src_h))
+        else:
+            new_w = target_w
+            new_h = int(src_h * (target_w / src_w))
+
+        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+        left = (new_w - target_w) // 2
+        top = (new_h - target_h) // 2
+        return img.crop((left, top, left + target_w, top + target_h))
+
+    def _create_gradient_background(self, category: dict):
+        """グラデーション背景を生成"""
+        from PIL import Image, ImageDraw
+
+        colors = category.get("colors", {})
+        primary_color = colors.get("primary", "#4A90A4")
+        secondary_color = colors.get("secondary", "#7CB8A8")
+
+        def hex_to_rgb(hex_color):
+            if hex_color.startswith("#"):
+                return (int(hex_color[1:3], 16), int(hex_color[3:5], 16), int(hex_color[5:7], 16))
+            return (74, 144, 164)
+
+        r, g, b = hex_to_rgb(primary_color)
+        r2, g2, b2 = hex_to_rgb(secondary_color)
+
+        img = Image.new("RGB", (1080, 1350), (r, g, b))
+        draw = ImageDraw.Draw(img)
+
+        for y in range(1350):
+            ratio = y / 1350
+            blend_r = int(r * (1 - ratio * 0.4) + r2 * ratio * 0.4)
+            blend_g = int(g * (1 - ratio * 0.4) + g2 * ratio * 0.4)
+            blend_b = int(b * (1 - ratio * 0.4) + b2 * ratio * 0.4)
+            draw.line([(0, y), (1080, y)], fill=(blend_r, blend_g, blend_b))
+
+        return img
 
     def _generate_caption(self, category: dict, topic: str, staff_info: dict = None) -> str:
         """キャプションを生成"""

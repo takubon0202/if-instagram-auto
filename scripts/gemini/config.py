@@ -59,18 +59,22 @@ TEXT_OVERLAY_CONFIG = {
     "canvas_width": 1080,
     "canvas_height": 1350,
 
-    # フォントサイズ（1080x1350用に最適化 v3.0 - インパクト重視）
-    "title_font_size": 140,       # メインタイトル（大幅増：72→140）
-    "content_font_size": 90,      # コンテンツ（増加：48→90）
-    "subtext_font_size": 60,      # サブテキスト（増加：36→60）
+    # フォントサイズ（1080x1350用に最適化 v4.0 - バランス調整）
+    "title_font_size": 100,       # メインタイトル（調整：140→100）
+    "content_font_size": 60,      # コンテンツ（調整：90→60）
+    "subtext_font_size": 40,      # サブテキスト（調整：60→40）
 
     # テキスト位置（キャンバス高さに対する割合）
-    "title_position_y": 0.20,     # 上から20%（調整：0.15→0.20）
-    "content_position_y": 0.80,   # 上から80%（調整：0.82→0.80）
+    "title_position_y": 0.20,     # 上から20%
+    "content_position_y": 0.80,   # 上から80%
 
-    # 縁取り設定（強化 v3.0 - 袋文字効果）
-    "outline_width": 15,          # 縁取り幅（大幅増：6→15で視認性向上）
-    "shadow_offset": 6,           # 影のオフセット（増加：4→6）
+    # 余白設定（v4.0 追加）
+    "padding_ratio": 0.10,        # 左右の余白（各10%）
+    "line_height_ratio": 1.5,     # 行の高さ（フォントサイズの1.5倍）
+
+    # 縁取り設定（v4.0 - 適度な袋文字効果）
+    "outline_width": 12,          # 縁取り幅（調整：15→12）
+    "shadow_offset": 5,           # 影のオフセット
 
     # カテゴリ別カラー（ピンク文字+黒縁取り）
     "category_colors": {

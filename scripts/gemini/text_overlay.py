@@ -372,14 +372,16 @@ class TextOverlayEngine:
         """
         font = self._get_font(font_size)
 
-        # テキストの最大幅（左右マージン確保: 各10%）
-        max_text_width = int(canvas_width * 0.80)
+        # テキストの最大幅（左右マージン確保: configから取得）
+        padding_ratio = self.config.get("padding_ratio", 0.10)
+        max_text_width = int(canvas_width * (1 - padding_ratio * 2))  # 左右各10%の余白
 
         # 自動改行処理
         lines = self._wrap_text(text, font, max_text_width)
 
-        # 行の高さ
-        line_height = int(font_size * 1.4)
+        # 行の高さ（configから取得）
+        line_height_ratio = self.config.get("line_height_ratio", 1.5)
+        line_height = int(font_size * line_height_ratio)
 
         # Y位置を計算（複数行の場合は中央揃え）
         total_height = len(lines) * line_height
