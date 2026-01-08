@@ -294,6 +294,78 @@ SCENE_MATERIAL_TEMPLATES = {
     }
 }
 
+# ============================================
+# 塾指導シーンテンプレート（if塾スタイル）
+# ============================================
+TUTORING_SCENE_TEMPLATES = {
+    "one_on_one": {
+        "name": "1対1指導",
+        "description": "講師と生徒の1対1指導シーン",
+        "prompt": "anime style illustration of a friendly young teacher tutoring a student one-on-one, modern classroom with computer, warm lighting, encouraging atmosphere, student looking at laptop screen, teacher pointing at screen explaining",
+        "elements": ["teacher character", "student character", "laptop/computer", "desk", "warm lighting"],
+        "mood": "supportive, focused, friendly"
+    },
+    "group_lesson": {
+        "name": "グループ授業",
+        "description": "少人数グループでの授業シーン",
+        "prompt": "anime style illustration of a young instructor teaching a small group of 3-4 students in modern tech classroom, students engaged with laptops, collaborative learning atmosphere, bright classroom, whiteboards with code",
+        "elements": ["instructor", "multiple students", "laptops", "whiteboard", "classroom"],
+        "mood": "energetic, collaborative, engaging"
+    },
+    "coding_help": {
+        "name": "コーディング指導",
+        "description": "プログラミングを教えているシーン",
+        "prompt": "anime style illustration of a mentor helping a young student debug code on computer screen, code visible on monitor, pointing gesture, student having 'aha moment', modern programming classroom",
+        "elements": ["mentor", "student", "computer with code", "pointing gesture", "lightbulb moment"],
+        "mood": "breakthrough, learning, supportive"
+    },
+    "presentation": {
+        "name": "発表・成果披露",
+        "description": "生徒が作品を発表しているシーン",
+        "prompt": "anime style illustration of a proud student presenting their app or project on large screen, teacher and other students watching with impressed expressions, modern tech classroom, celebration atmosphere",
+        "elements": ["presenting student", "large screen", "audience", "project display", "applause"],
+        "mood": "proud, accomplished, celebrating"
+    },
+    "hackathon": {
+        "name": "ハッカソン",
+        "description": "ハッカソンや集中開発イベント",
+        "prompt": "anime style illustration of students intensely working on laptops during hackathon event, multiple monitors, sticky notes on wall, snacks and drinks, energetic competitive atmosphere, late night coding session",
+        "elements": ["multiple students", "laptops", "sticky notes", "monitors", "snacks"],
+        "mood": "intense, creative, competitive"
+    },
+    "welcome": {
+        "name": "入塾案内",
+        "description": "新しい生徒を歓迎するシーン",
+        "prompt": "anime style illustration of a friendly staff member welcoming a new student at modern programming school entrance, bright welcoming atmosphere, 'welcome' feeling, modern tech-style interior",
+        "elements": ["staff member", "new student", "entrance", "welcome gesture", "modern interior"],
+        "mood": "welcoming, friendly, exciting"
+    },
+    "online_lesson": {
+        "name": "オンライン授業",
+        "description": "オンラインでの指導シーン",
+        "prompt": "anime style illustration of a teacher conducting online lesson, video call on large monitor showing student faces, home office setup, digital whiteboard, engaging remote teaching",
+        "elements": ["teacher", "monitor with video call", "digital whiteboard", "home office"],
+        "mood": "connected, modern, flexible"
+    },
+    "ai_learning": {
+        "name": "AI学習",
+        "description": "AIツールを使った学習シーン",
+        "prompt": "anime style illustration of a young student learning with AI assistant, holographic AI helper floating beside computer, futuristic but friendly classroom, code and AI visualizations",
+        "elements": ["student", "AI visualization", "holographic elements", "computer", "futuristic classroom"],
+        "mood": "innovative, curious, futuristic"
+    }
+}
+
+# カテゴリ別推奨シーンマッピング
+CATEGORY_TUTORING_SCENES = {
+    "announcement": ["welcome", "group_lesson", "online_lesson"],
+    "development": ["coding_help", "presentation", "hackathon"],
+    "activity": ["group_lesson", "hackathon", "presentation"],
+    "education": ["one_on_one", "group_lesson", "online_lesson"],
+    "ai_column": ["ai_learning", "coding_help", "online_lesson"],
+    "business": ["presentation", "one_on_one", "hackathon"]
+}
+
 # if塾ロゴ設定
 LOGO_CONFIG = {
     "brand_name": "if塾",

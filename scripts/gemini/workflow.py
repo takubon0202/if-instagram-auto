@@ -41,6 +41,8 @@ from scripts.gemini.config import (
     THANKS_IMAGE,
     SCENE_STRUCTURE,
     RESEARCH_CONFIG,
+    TUTORING_SCENE_TEMPLATES,
+    CATEGORY_TUTORING_SCENES,
     get_current_time_context,
     TIME_CONTEXT
 )
@@ -311,20 +313,32 @@ class InstagramWorkflowV3:
 
         return image_paths
 
+    def _select_tutoring_scene_for_fallback(self, category_id: str, scene_id: int) -> dict:
+        """フォールバック用の塾指導シーンを選択"""
+        recommended_scenes = CATEGORY_TUTORING_SCENES.get(category_id, ["one_on_one", "group_lesson"])
+        scene_index = (scene_id - 1) % len(recommended_scenes)
+        scene_type = recommended_scenes[scene_index]
+        return TUTORING_SCENE_TEMPLATES.get(scene_type, TUTORING_SCENE_TEMPLATES["one_on_one"])
+
     def _get_fallback_image(self, post_id: str, scene: dict, category: dict) -> str:
         """
-        フォールバック画像を取得または生成 v4.0
+        フォールバック画像を取得または生成 v5.0
 
         優先順位:
         1. スタッフ画像があればそれを背景に使用
-        2. グラデーション背景を生成
+        2. 塾指導シーン風グラデーション背景を生成
         3. TextOverlayEngineでタイトルとサブテキストのみ描画
         4. 失敗時はサンクス画像を使用
         """
         import os
         scene_id = scene.get("scene_id", 1)
+        category_id = category.get("id", "activity")
         filename = f"{post_id}-{scene_id:02d}-fallback.png"
         output_path = self.assets_dir / filename
+
+        # 塾指導シーン情報を取得（ログ用）
+        tutoring_scene = self._select_tutoring_scene_for_fallback(category_id, scene_id)
+        print(f"    [SCENE] {tutoring_scene.get('name', 'Unknown')}: {tutoring_scene.get('description', '')}")
 
         try:
             from PIL import Image, ImageDraw
@@ -343,7 +357,7 @@ class InstagramWorkflowV3:
                 # 4:5比率にリサイズ
                 background_img = self._resize_to_instagram(background_img, 1080, 1350)
             else:
-                # 2. グラデーション背景を生成
+                # 2. 塾らしいグラデーション背景を生成
                 print(f"    [BG] Generating gradient background")
                 background_img = self._create_gradient_background(category)
 
@@ -416,8 +430,14 @@ class InstagramWorkflowV3:
         return img.crop((left, top, left + target_w, top + target_h))
 
     def _create_gradient_background(self, category: dict):
-        """グラデーション背景を生成"""
+        """
+        塾らしいグラデーション背景を生成 v2.0
+
+        シンプルなグラデーションに加え、塾・教室をイメージさせる
+        微妙なパターン要素を追加（コード風の線、ドットパターンなど）
+        """
         from PIL import Image, ImageDraw
+        import random
 
         colors = category.get("colors", {})
         primary_color = colors.get("primary", "#4A90A4")
@@ -434,12 +454,49 @@ class InstagramWorkflowV3:
         img = Image.new("RGB", (1080, 1350), (r, g, b))
         draw = ImageDraw.Draw(img)
 
+        # ベースグラデーション
         for y in range(1350):
             ratio = y / 1350
             blend_r = int(r * (1 - ratio * 0.4) + r2 * ratio * 0.4)
             blend_g = int(g * (1 - ratio * 0.4) + g2 * ratio * 0.4)
             blend_b = int(b * (1 - ratio * 0.4) + b2 * ratio * 0.4)
             draw.line([(0, y), (1080, y)], fill=(blend_r, blend_g, blend_b))
+
+        # 塾らしいパターン要素を追加（薄く）
+        # コード風のラインパターン（プログラミング塾をイメージ）
+        line_color = (
+            min(255, r + 30),
+            min(255, g + 30),
+            min(255, b + 30)
+        )
+
+        # 左側に薄いコード風ライン
+        for i in range(8):
+            y_pos = 200 + i * 120
+            line_width = random.randint(80, 200)
+            draw.rectangle(
+                [(40, y_pos), (40 + line_width, y_pos + 4)],
+                fill=(*line_color, 30)  # 薄い色
+            )
+            # インデント風のサブライン
+            if random.random() > 0.5:
+                sub_width = random.randint(50, 120)
+                draw.rectangle(
+                    [(80, y_pos + 25), (80 + sub_width, y_pos + 28)],
+                    fill=(*line_color, 20)
+                )
+
+        # 右下に薄いドットパターン（テック感）
+        dot_color = (
+            min(255, r2 + 40),
+            min(255, g2 + 40),
+            min(255, b2 + 40)
+        )
+        for _ in range(30):
+            x = random.randint(800, 1050)
+            y = random.randint(1000, 1300)
+            size = random.randint(3, 8)
+            draw.ellipse([(x, y), (x + size, y + size)], fill=(*dot_color, 25))
 
         return img
 

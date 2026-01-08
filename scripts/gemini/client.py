@@ -23,6 +23,7 @@ from .config import (
     IMAGE_GENERATION_CONFIG, LOGO_CONFIG,
     STYLE_PRESETS, NEGATIVE_PROMPTS, CONCEPT_TO_VISUAL,
     CATEGORY_ANIME_STYLES, SCENE_MATERIAL_TEMPLATES,
+    TUTORING_SCENE_TEMPLATES, CATEGORY_TUTORING_SCENES,
     get_current_time_context, get_search_queries, TIME_CONTEXT
 )
 
@@ -683,6 +684,35 @@ Negative: {negative_prompt}""",
 
         raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
 
+    def _select_tutoring_scene(self, category_id: str, scene_id: int) -> dict:
+        """
+        カテゴリとシーンIDに基づいて適切な塾指導シーンを選択
+
+        Args:
+            category_id: カテゴリID
+            scene_id: シーンID (1-4)
+
+        Returns:
+            dict: 選択された塾指導シーンテンプレート
+        """
+        import random
+
+        # カテゴリに推奨されるシーンタイプを取得
+        recommended_scenes = CATEGORY_TUTORING_SCENES.get(category_id, ["one_on_one", "group_lesson"])
+
+        # シーンIDに基づいてシーンタイプを選択
+        scene_mapping = {
+            1: 0,  # 表紙: 最も推奨されるシーン
+            2: 1,  # 内容1: 2番目に推奨されるシーン
+            3: 2 if len(recommended_scenes) > 2 else 0,  # 内容2
+            4: 0,  # 内容3: 最初に戻る
+        }
+
+        scene_index = scene_mapping.get(scene_id, 0) % len(recommended_scenes)
+        scene_type = recommended_scenes[scene_index]
+
+        return TUTORING_SCENE_TEMPLATES.get(scene_type, TUTORING_SCENE_TEMPLATES["one_on_one"])
+
     def _build_image_to_image_prompt(
         self,
         visual_scene: str,
@@ -693,16 +723,23 @@ Negative: {negative_prompt}""",
         scene_id: int
     ) -> str:
         """
-        Image-to-Image用のプロンプトを構築
+        Image-to-Image用のプロンプトを構築（塾指導シーン対応 v4.0）
 
-        キャラクタースタイルを維持しながら新しいシーンを生成
+        if塾らしい「講師が生徒に教えている」シーンを生成
         """
-        # スタイルプレフィックス
-        style_prefix = "Cute chibi anime style, thick black outlines, simple clean coloring"
+        category_id = category.get('id', 'activity')
+
+        # 塾指導シーンテンプレートを取得
+        tutoring_scene = self._select_tutoring_scene(category_id, scene_id)
+        tutoring_prompt = tutoring_scene.get('prompt', '')
+        tutoring_mood = tutoring_scene.get('mood', 'supportive, friendly')
+
+        # スタイルプレフィックス（塾らしいスタイル）
+        style_prefix = "Japanese anime style illustration, warm lighting, modern programming school atmosphere"
 
         # キャラクターと設定
         character_mood = anime_style.get('character_mood', 'happy, engaged')
-        setting = anime_style.get('setting', 'modern classroom')
+        setting = anime_style.get('setting', 'modern tech classroom')
         color_palette = anime_style.get('color_palette', 'vibrant colors')
 
         # シーン構成
@@ -714,22 +751,28 @@ Negative: {negative_prompt}""",
         prompt = f"""
 {style_prefix},
 
-Create a new illustration scene:
-- Scene: {visual_scene}
-- Character mood: {character_mood}
+MAIN SCENE (IMPORTANT - if塾 tutoring scene):
+{tutoring_prompt}
+
+Scene context from content:
+- Topic: {visual_scene}
+- Mood: {tutoring_mood}, {character_mood}
 - Setting: {setting} with {color_palette}
 - Composition: {composition}
 - Main accent color: {primary_color}
 
-Technical requirements:
-- Cute chibi proportions (large head, small body like the reference)
-- Thick black outlines around all elements
-- Simple, clean cell-shaded coloring
-- Soft highlights and minimal shading
+CRITICAL REQUIREMENTS for if塾 brand:
+- Show TEACHER/MENTOR teaching STUDENT(S) - this is a programming tutoring school
+- Modern tech classroom with computers/laptops
+- Warm, supportive, encouraging atmosphere
+- Characters should look engaged and happy
+- Teacher pointing at screen or explaining concept
+- Student(s) showing understanding or excitement
+- Clean anime art style with good proportions
 - No text, no UI elements, no borders
 - Leave clear space at top and bottom for text overlay
 - Vertical composition optimized for 4:5 aspect ratio
-- High quality illustration suitable for Instagram post
+- Professional quality illustration
 """
         return prompt.strip()
 

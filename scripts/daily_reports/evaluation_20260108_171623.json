@@ -1,0 +1,184 @@
+{
+  "timestamp": "2026-01-08T17:16:23.976073",
+  "pass_rate": 100.0,
+  "passed": 29,
+  "failed": 0,
+  "total": 29,
+  "target": 95,
+  "results": [
+    {
+      "test": "PIL (Pillow) インポート",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "config.py インポート",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "client.py インポート",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "text_overlay.py インポート",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "workflow.py インポート",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "タイトルフォントサイズ (80-120)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "value=100"
+    },
+    {
+      "test": "コンテンツフォントサイズ (40-80)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "value=60"
+    },
+    {
+      "test": "パディング比率 (0.05-0.15)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "value=0.1"
+    },
+    {
+      "test": "行間比率 (1.2-2.0)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "value=1.5"
+    },
+    {
+      "test": "カテゴリ数 (>=6)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "count=6"
+    },
+    {
+      "test": "PIL Image生成",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "画像リサイズ (1080x1350)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "グラデーション背景生成",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "TextOverlayEngine初期化",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "日本語フォント検出",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "font=G:\\マイドライブ\\if(塾) 自分用\\if-instagram-auto\\ifjuku-ig-prototype\\assets\\fonts\\NotoSansCJKjp-Bold.otf"
+    },
+    {
+      "test": "テキストオーバーレイ出力",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "フォールバックパス生成",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "path=assets/img/posts/test_20260108-01-fallback.png"
+    },
+    {
+      "test": "フォールバック画像ファイル生成",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "GeminiClient初期化",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "ImageGenerationAgent初期化",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "_resize_to_instagram引数 (3+)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "params=['img', 'target_w', 'target_h']"
+    },
+    {
+      "test": "_create_gradient_background動作",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "_generate_mock_imageメソッド存在",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "InstagramWorkflowV3初期化",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "カテゴリ取得 (日付ベース)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": "category=ai_column"
+    },
+    {
+      "test": "5シーン構成",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "シーン構造 (必須フィールド)",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "client.py: 不要テキスト削除",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    },
+    {
+      "test": "workflow.py: 不要テキスト削除",
+      "passed": true,
+      "status": "[PASS]",
+      "message": ""
+    }
+  ]
+}
