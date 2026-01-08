@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 1,
-    "last_updated": "2026-01-08T17:00:21.185591",
+    "last_updated": "2026-01-08T20:27:47.195011",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260108_ai_column",
       "post_id": "20260108_ai_column",
-      "created_at": "2026-01-08T17:00:21",
+      "created_at": "2026-01-08T20:27:47",
       "datetime": "2026-01-08T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
+      "theme": "2026年、勉強は『AIエージェント』に丸投げ？",
       "target_audience": "Students & Parents",
-      "title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-      "caption": "【2026年1月】新年明けましておめでとうございます！\n\n2026年、AIのトレンドは「チャット」から「エージェント」へと完全に移行しました。\n\nこれまでは人間がプロンプト（指示文）を工夫していましたが、これからは「目標」を伝えるだけ。\nAIが自らWebで調べ、ツールを使い、タスクを完了させる『自律型AI』が、学生の学習環境や保護者の事務作業を劇的に変えています。\n\n受験シーズン真っ只中の今、AIエージェントを秘書のように使いこなし、自分にしかできない「思考」や「直感」に集中できる環境を整えましょう。\n\nif塾では、最新AIを使いこなしながら、AIに代替されない本質的な思考力を養う教育を届けています。\n\n未来の教育についてもっと知りたい方は、プロフィールから公式サイトをチェック！",
-      "caption_text": "【2026年1月】新年明けましておめでとうございます！\n\n2026年、AIのトレンドは「チャット」から「エージェント」へと完全に移行しました。\n\nこれまでは人間がプロンプト（指示文）を工夫していましたが、これからは「目標」を伝えるだけ。\nAIが自らWebで調べ、ツールを使い、タスクを完了させる『自律型AI』が、学生の学習環境や保護者の事務作業を劇的に変えています。\n\n受験シーズン真っ只中の今、AIエージェントを秘書のように使いこなし、自分にしかできない「思考」や「直感」に集中できる環境を整えましょう。\n\nif塾では、最新AIを使いこなしながら、AIに代替されない本質的な思考力を養う教育を届けています。\n\n未来の教育についてもっと知りたい方は、プロフィールから公式サイトをチェック！",
+      "title": "2026年、勉強は『AIエージェント』に丸投げ？",
+      "caption": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます。2026年、いよいよ「AIエージェント」が教育現場で本格的に普及し始めました。\n\nこれまでのChatGPTのように質問に答えるだけでなく、目標を設定すればAIが自らタスクを分解し、実行まで代行してくれるフェーズに入っています。\n\n「宿題を勝手にやってくれる」と喜ぶ前に、知っておくべきことがあります。\nそれは、AIに任せきりにすると「思考のプロセス」が失われるリスクです。\n\nif塾では、AIを単なる代行ツールではなく、自分の能力を拡張する「最強のパートナー」として活用する方法を提案しています。\n\n2026年、お子様の学習環境はどう変わるのか？\n最新の教育DX情報は、プロフィールのリンクからチェックしてください！",
+      "caption_text": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます。2026年、いよいよ「AIエージェント」が教育現場で本格的に普及し始めました。\n\nこれまでのChatGPTのように質問に答えるだけでなく、目標を設定すればAIが自らタスクを分解し、実行まで代行してくれるフェーズに入っています。\n\n「宿題を勝手にやってくれる」と喜ぶ前に、知っておくべきことがあります。\nそれは、AIに任せきりにすると「思考のプロセス」が失われるリスクです。\n\nif塾では、AIを単なる代行ツールではなく、自分の能力を拡張する「最強のパートナー」として活用する方法を提案しています。\n\n2026年、お子様の学習環境はどう変わるのか？\n最新の教育DX情報は、プロフィールのリンクからチェックしてください！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#AIエージェント",
-        "#自律型AI",
         "#教育DX",
         "#最新テクノロジー",
-        "#受験生応援",
-        "#未来の学習"
+        "#自律型AI",
+        "#中学受験",
+        "#高校受験",
+        "#学習効率"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-          "sub_title": "2026年1月最新：AIエージェント本格普及の衝撃",
-          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
+          "main_title": "2026年、勉強は『AIエージェント』に丸投げ？",
+          "sub_title": "1月最新：自律型AIが変える新時代の学習スタイル",
+          "text_content": "2026年、勉強は『AIエージェント』に丸投げ？",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-01-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-01-fallback.png",
-          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-          "subtext": "2026年1月最新：AIエージェント本格普及の衝撃",
-          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+          "image_url": "assets/img/posts/20260108_ai_column-01.png",
+          "image_file": "assets/img/posts/20260108_ai_column-01.png",
+          "overlay_text": "2026年、勉強は『AIエージェント』に丸投げ？",
+          "subtext": "1月最新：自律型AIが変える新時代の学習スタイル",
+          "alt": "表紙 - 2026年、勉強は『AIエージェント』に"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
-          "sub_title": "これまでのChatGPTなどは「命令に答えるツール」でした。2026年、主流はタスクを丸投げできる『AIエージェント』。目標を伝えるだけで、計画から実行まで自律的に完結させます。",
-          "text_content": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
+          "main_title": "冬休み明け、課題に追われていませんか？",
+          "sub_title": "これまでのAIは『聞き役』でしたが、2026年のAIは『自ら動く秘書』。進捗管理から資料作成、校務まで勝手に終わらせる時代が到来しました。",
+          "text_content": "冬休み明け、課題に追われていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-02-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-02-fallback.png",
-          "overlay_text": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
-          "subtext": "これまでのChatGPTなどは「命令に答えるツール」でした。2026年、主流はタスクを丸投げできる『AIエージェント』。目標を伝えるだけで、計画から実行まで自律的に完結させます。",
-          "alt": "内容1 - 指示待ちはもう終わり。AIが「自分で考え"
+          "image_url": "assets/img/posts/20260108_ai_column-02.png",
+          "image_file": "assets/img/posts/20260108_ai_column-02.png",
+          "overlay_text": "冬休み明け、課題に追われていませんか？",
+          "subtext": "これまでのAIは『聞き役』でしたが、2026年のAIは『自ら動く秘書』。進捗管理から資料作成、校務まで勝手に終わらせる時代が到来しました。",
+          "alt": "内容1 - 冬休み明け、課題に追われていませんか？"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
-          "sub_title": "「今の偏差値から合格までの最適ルートを作って」と頼めば、苦手分析、参考書の選定、日々の学習管理、さらには最新の出願状況の監視までAIエージェントが24時間体制で代行します。",
-          "text_content": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
+          "main_title": "「指示待ち」から「自律実行」へ",
+          "sub_title": "最新のAIエージェントは、目標を伝えるだけで最適な学習プランを組み、必要な教材をネットから収集。先生の採点や事務作業も自動で完了します。",
+          "text_content": "「指示待ち」から「自律実行」へ",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-03-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-03-fallback.png",
-          "overlay_text": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
-          "subtext": "「今の偏差値から合格までの最適ルートを作って」と頼めば、苦手分析、参考書の選定、日々の学習管理、さらには最新の出願状況の監視までAIエージェントが24時間体制で代行します。",
-          "alt": "内容2 - 【受験生の活用例】志望校対策からスケジュ"
+          "image_url": "assets/img/posts/20260108_ai_column-03.png",
+          "image_file": "assets/img/posts/20260108_ai_column-03.png",
+          "overlay_text": "「指示待ち」から「自律実行」へ",
+          "subtext": "最新のAIエージェントは、目標を伝えるだけで最適な学習プランを組み、必要な教材をネットから収集。先生の採点や事務作業も自動で完了します。",
+          "alt": "内容2 - 「指示待ち」から「自律実行」へ"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
-          "sub_title": "AIが実行まで担うからこそ、人間には「何を成し遂げたいか」という意志と、AIが出した結果の『妥当性』を見極める力が求められます。道具に使われるのではなく、指揮官としての能力を今こそ育てましょう。",
-          "text_content": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
+          "main_title": "if塾流：エージェントを『使いこなす』力",
+          "sub_title": "代行させるだけでは学力は伸びません。AIが作った成果物を「検証」し、自分の言葉で「再構築」する。2026年は『評価する力』が差をつけます。",
+          "text_content": "if塾流：エージェントを『使いこなす』力",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-04-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-04-fallback.png",
-          "overlay_text": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
-          "subtext": "AIが実行まで担うからこそ、人間には「何を成し遂げたいか」という意志と、AIが出した結果の『妥当性』を見極める力が求められます。道具に使われるのではなく、指揮官としての能力を今こそ育てましょう。",
-          "alt": "内容3 - if塾の視点：AIエージェントに「操られ"
+          "image_url": "assets/img/posts/20260108_ai_column-04.png",
+          "image_file": "assets/img/posts/20260108_ai_column-04.png",
+          "overlay_text": "if塾流：エージェントを『使いこなす』力",
+          "subtext": "代行させるだけでは学力は伸びません。AIが作った成果物を「検証」し、自分の言葉で「再構築」する。2026年は『評価する力』が差をつけます。",
+          "alt": "内容3 - if塾流：エージェントを『使いこなす』力"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-          "sub_title": "2026年1月最新：AIエージェント本格普及の衝撃",
-          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
+          "main_title": "2026年、勉強は『AIエージェント』に丸投げ？",
+          "sub_title": "1月最新：自律型AIが変える新時代の学習スタイル",
+          "text_content": "2026年、勉強は『AIエージェント』に丸投げ？",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-01-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-01-fallback.png",
-          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-          "subtext": "2026年1月最新：AIエージェント本格普及の衝撃",
-          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+          "image_url": "assets/img/posts/20260108_ai_column-01.png",
+          "image_file": "assets/img/posts/20260108_ai_column-01.png",
+          "overlay_text": "2026年、勉強は『AIエージェント』に丸投げ？",
+          "subtext": "1月最新：自律型AIが変える新時代の学習スタイル",
+          "alt": "表紙 - 2026年、勉強は『AIエージェント』に"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
-          "sub_title": "これまでのChatGPTなどは「命令に答えるツール」でした。2026年、主流はタスクを丸投げできる『AIエージェント』。目標を伝えるだけで、計画から実行まで自律的に完結させます。",
-          "text_content": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
+          "main_title": "冬休み明け、課題に追われていませんか？",
+          "sub_title": "これまでのAIは『聞き役』でしたが、2026年のAIは『自ら動く秘書』。進捗管理から資料作成、校務まで勝手に終わらせる時代が到来しました。",
+          "text_content": "冬休み明け、課題に追われていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-02-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-02-fallback.png",
-          "overlay_text": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
-          "subtext": "これまでのChatGPTなどは「命令に答えるツール」でした。2026年、主流はタスクを丸投げできる『AIエージェント』。目標を伝えるだけで、計画から実行まで自律的に完結させます。",
-          "alt": "内容1 - 指示待ちはもう終わり。AIが「自分で考え"
+          "image_url": "assets/img/posts/20260108_ai_column-02.png",
+          "image_file": "assets/img/posts/20260108_ai_column-02.png",
+          "overlay_text": "冬休み明け、課題に追われていませんか？",
+          "subtext": "これまでのAIは『聞き役』でしたが、2026年のAIは『自ら動く秘書』。進捗管理から資料作成、校務まで勝手に終わらせる時代が到来しました。",
+          "alt": "内容1 - 冬休み明け、課題に追われていませんか？"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
-          "sub_title": "「今の偏差値から合格までの最適ルートを作って」と頼めば、苦手分析、参考書の選定、日々の学習管理、さらには最新の出願状況の監視までAIエージェントが24時間体制で代行します。",
-          "text_content": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
+          "main_title": "「指示待ち」から「自律実行」へ",
+          "sub_title": "最新のAIエージェントは、目標を伝えるだけで最適な学習プランを組み、必要な教材をネットから収集。先生の採点や事務作業も自動で完了します。",
+          "text_content": "「指示待ち」から「自律実行」へ",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-03-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-03-fallback.png",
-          "overlay_text": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
-          "subtext": "「今の偏差値から合格までの最適ルートを作って」と頼めば、苦手分析、参考書の選定、日々の学習管理、さらには最新の出願状況の監視までAIエージェントが24時間体制で代行します。",
-          "alt": "内容2 - 【受験生の活用例】志望校対策からスケジュ"
+          "image_url": "assets/img/posts/20260108_ai_column-03.png",
+          "image_file": "assets/img/posts/20260108_ai_column-03.png",
+          "overlay_text": "「指示待ち」から「自律実行」へ",
+          "subtext": "最新のAIエージェントは、目標を伝えるだけで最適な学習プランを組み、必要な教材をネットから収集。先生の採点や事務作業も自動で完了します。",
+          "alt": "内容2 - 「指示待ち」から「自律実行」へ"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
-          "sub_title": "AIが実行まで担うからこそ、人間には「何を成し遂げたいか」という意志と、AIが出した結果の『妥当性』を見極める力が求められます。道具に使われるのではなく、指揮官としての能力を今こそ育てましょう。",
-          "text_content": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
+          "main_title": "if塾流：エージェントを『使いこなす』力",
+          "sub_title": "代行させるだけでは学力は伸びません。AIが作った成果物を「検証」し、自分の言葉で「再構築」する。2026年は『評価する力』が差をつけます。",
+          "text_content": "if塾流：エージェントを『使いこなす』力",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-04-fallback.png",
-          "image_file": "assets/img/posts/20260108_ai_column-04-fallback.png",
-          "overlay_text": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
-          "subtext": "AIが実行まで担うからこそ、人間には「何を成し遂げたいか」という意志と、AIが出した結果の『妥当性』を見極める力が求められます。道具に使われるのではなく、指揮官としての能力を今こそ育てましょう。",
-          "alt": "内容3 - if塾の視点：AIエージェントに「操られ"
+          "image_url": "assets/img/posts/20260108_ai_column-04.png",
+          "image_file": "assets/img/posts/20260108_ai_column-04.png",
+          "overlay_text": "if塾流：エージェントを『使いこなす』力",
+          "subtext": "代行させるだけでは学力は伸びません。AIが作った成果物を「検証」し、自分の言葉で「再構築」する。2026年は『評価する力』が差をつけます。",
+          "alt": "内容3 - if塾流：エージェントを『使いこなす』力"
         },
         {
           "page_number": 5,
@@ -203,22 +204,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-01-fallback.png",
+          "src": "assets/img/posts/20260108_ai_column-01.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-02-fallback.png",
+          "src": "assets/img/posts/20260108_ai_column-02.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-03-fallback.png",
+          "src": "assets/img/posts/20260108_ai_column-03.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-04-fallback.png",
+          "src": "assets/img/posts/20260108_ai_column-04.png",
           "alt": "シーン4"
         },
         {
@@ -244,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-08T16:56:42",
+      "research_date": "2026-01-08T20:26:34",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「使う」から「任せる」へ。2026",
+        "cover_text": "2026年、勉強は『AIエージェント』に",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが受験と生活を激変させる",
-            "subtext": "2026年1月最新：AIエージェント本格普及の衝撃",
+            "headline": "2026年、勉強は『AIエージェント』に丸投げ？",
+            "subtext": "1月最新：自律型AIが変える新時代の学習スタイル",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "指示待ちはもう終わり。AIが「自分で考えて動く」時代へ",
-            "subtext": "これまでのChatGPTなどは「命令に答えるツール」でした。2026年、主流はタスクを丸投げできる『AIエージェント』。目標を伝えるだけで、計画から実行まで自律的に完結させます。",
+            "headline": "冬休み明け、課題に追われていませんか？",
+            "subtext": "これまでのAIは『聞き役』でしたが、2026年のAIは『自ら動く秘書』。進捗管理から資料作成、校務まで勝手に終わらせる時代が到来しました。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "【受験生の活用例】志望校対策からスケジュール管理まで自動化",
-            "subtext": "「今の偏差値から合格までの最適ルートを作って」と頼めば、苦手分析、参考書の選定、日々の学習管理、さらには最新の出願状況の監視までAIエージェントが24時間体制で代行します。",
+            "headline": "「指示待ち」から「自律実行」へ",
+            "subtext": "最新のAIエージェントは、目標を伝えるだけで最適な学習プランを組み、必要な教材をネットから収集。先生の採点や事務作業も自動で完了します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIエージェントに「操られない」ための思考力を磨く",
-            "subtext": "AIが実行まで担うからこそ、人間には「何を成し遂げたいか」という意志と、AIが出した結果の『妥当性』を見極める力が求められます。道具に使われるのではなく、指揮官としての能力を今こそ育てましょう。",
+            "headline": "if塾流：エージェントを『使いこなす』力",
+            "subtext": "代行させるだけでは学力は伸びません。AIが作った成果物を「検証」し、自分の言葉で「再構築」する。2026年は『評価する力』が差をつけます。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
