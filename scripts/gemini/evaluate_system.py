@@ -35,10 +35,10 @@ class SystemEvaluator:
         self.total += 1
         if passed:
             self.passed += 1
-            status = "✅ PASS"
+            status = "[PASS]"
         else:
             self.failed += 1
-            status = "❌ FAIL"
+            status = "[FAIL]"
 
         self.results.append({
             "test": test_name,
@@ -60,16 +60,16 @@ class SystemEvaluator:
         """結果サマリーを出力"""
         rate = self.get_pass_rate()
         print(f"\n{'='*60}")
-        print(f"  評価結果サマリー")
+        print(f"  Evaluation Summary")
         print(f"{'='*60}")
-        print(f"  合格: {self.passed}/{self.total} ({rate:.1f}%)")
-        print(f"  不合格: {self.failed}")
-        print(f"  目標: 95%以上")
-        print(f"  結果: {'✅ 合格' if rate >= 95 else '❌ 要改善'}")
+        print(f"  Passed: {self.passed}/{self.total} ({rate:.1f}%)")
+        print(f"  Failed: {self.failed}")
+        print(f"  Target: 95%+")
+        print(f"  Result: {'PASS' if rate >= 95 else 'NEEDS IMPROVEMENT'}")
         print(f"{'='*60}\n")
 
         if self.failed > 0:
-            print("失敗したテスト:")
+            print("Failed tests:")
             for r in self.results:
                 if not r["passed"]:
                     print(f"  - {r['test']}: {r['message']}")
@@ -243,13 +243,20 @@ def test_text_overlay(evaluator: SystemEvaluator):
                     evaluator.add_result("テキストオーバーレイ出力", True)
                 else:
                     evaluator.add_result("テキストオーバーレイ出力", False, f"size={result_img.size}")
-                os.unlink(output_path)
+                result_img.close()  # Windowsでファイルロックを解除
+                try:
+                    os.unlink(output_path)
+                except PermissionError:
+                    pass  # Windows環境での一時ファイル削除エラーは無視
             else:
                 evaluator.add_result("テキストオーバーレイ出力", False, "ファイルが生成されませんでした")
 
         finally:
-            if os.path.exists(temp_path):
-                os.unlink(temp_path)
+            try:
+                if os.path.exists(temp_path):
+                    os.unlink(temp_path)
+            except PermissionError:
+                pass  # Windows環境での一時ファイル削除エラーは無視
 
     except Exception as e:
         evaluator.add_result("テキストオーバーレイ", False, f"{e}\n{traceback.format_exc()}")
