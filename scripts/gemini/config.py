@@ -59,18 +59,18 @@ TEXT_OVERLAY_CONFIG = {
     "canvas_width": 1080,
     "canvas_height": 1350,
 
-    # フォントサイズ（1080x1350用に最適化 v2.0）
-    "title_font_size": 72,        # メインタイトル（推奨: 48-72pt）
-    "content_font_size": 48,      # コンテンツ
-    "subtext_font_size": 36,      # サブテキスト
+    # フォントサイズ（1080x1350用に最適化 v3.0 - インパクト重視）
+    "title_font_size": 140,       # メインタイトル（大幅増：72→140）
+    "content_font_size": 90,      # コンテンツ（増加：48→90）
+    "subtext_font_size": 60,      # サブテキスト（増加：36→60）
 
     # テキスト位置（キャンバス高さに対する割合）
-    "title_position_y": 0.15,     # 上から15%（安全マージン考慮）
-    "content_position_y": 0.82,   # 上から82%（CTA避け）
+    "title_position_y": 0.20,     # 上から20%（調整：0.15→0.20）
+    "content_position_y": 0.80,   # 上から80%（調整：0.82→0.80）
 
-    # 縁取り設定（強化 v2.0）
-    "outline_width": 6,           # 縁取り幅（4→6に増加）
-    "shadow_offset": 4,           # 影のオフセット
+    # 縁取り設定（強化 v3.0 - 袋文字効果）
+    "outline_width": 15,          # 縁取り幅（大幅増：6→15で視認性向上）
+    "shadow_offset": 6,           # 影のオフセット（増加：4→6）
 
     # カテゴリ別カラー（ピンク文字+黒縁取り）
     "category_colors": {

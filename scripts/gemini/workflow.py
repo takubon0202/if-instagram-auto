@@ -374,12 +374,14 @@ class InstagramWorkflowV3:
                 full_headline = f"[{category_name}]\n{headline}"
                 full_subtext = f"{subtext}\n\n{scene_id}/5 | if塾" if subtext else f"{scene_id}/5 | if塾"
 
+                from scripts.gemini.config import TEXT_OVERLAY_CONFIG
                 engine = TextOverlayEngine({
-                    "title_font_size": 96,
-                    "subtext_font_size": 48,
-                    "title_position_y": 0.35,
-                    "content_position_y": 0.75,
-                    "outline_width": 8,
+                    "title_font_size": TEXT_OVERLAY_CONFIG.get("title_font_size", 140),
+                    "subtext_font_size": TEXT_OVERLAY_CONFIG.get("subtext_font_size", 60),
+                    "title_position_y": TEXT_OVERLAY_CONFIG.get("title_position_y", 0.20),
+                    "content_position_y": TEXT_OVERLAY_CONFIG.get("content_position_y", 0.80),
+                    "outline_width": TEXT_OVERLAY_CONFIG.get("outline_width", 15),
+                    "shadow_offset": TEXT_OVERLAY_CONFIG.get("shadow_offset", 6),
                 })
 
                 engine.create_instagram_post(
