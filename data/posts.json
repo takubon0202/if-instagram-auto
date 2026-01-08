@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 14,
-    "last_updated": "2026-01-08T11:42:50.540133",
+    "last_updated": "2026-01-08T11:56:57.726084",
     "categories": [
       "announcement",
       "development",
@@ -592,25 +592,23 @@
     {
       "id": "20260108_ai_column",
       "post_id": "20260108_ai_column",
-      "created_at": "2026-01-08T11:42:50",
+      "created_at": "2026-01-08T11:56:57",
       "datetime": "2026-01-08T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
+      "theme": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
       "target_audience": "Students & Parents",
-      "title": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-      "caption": "【2026年1月】Google Classroomに革命！「聴く」勉強法が到来🎧\n\nこんにちは、if塾です。\nいよいよ入試シーズン本番の1月ですね。\n\nそんな中、1月6日にGoogle Classroomで公開された\nGeminiの「ポッドキャスト生成機能」はもうご存知ですか？\n\nこれ、ただの読み上げじゃないんです。\nAIキャラクター2人が、その資料について\n「ここが大事だよね」「なるほど、つまりこういうこと？」と\n対話形式（ラジオ風）で解説してくれるんです😳\n\n✅ 通学の電車内で復習したい学生さん\n✅ 家事の合間に子供の学習内容を知りたい保護者の方\n\nテキストを読むのに疲れた時の気分転換にも最適です。\n\n2026年の最新AIツール、\nまずは身近なところから賢く使っていきましょう！\n\nためになったら「🔥」で教えてくださいね！\n保存して、後で設定を確認してみましょう👇",
-      "caption_text": "【2026年1月】Google Classroomに革命！「聴く」勉強法が到来🎧\n\nこんにちは、if塾です。\nいよいよ入試シーズン本番の1月ですね。\n\nそんな中、1月6日にGoogle Classroomで公開された\nGeminiの「ポッドキャスト生成機能」はもうご存知ですか？\n\nこれ、ただの読み上げじゃないんです。\nAIキャラクター2人が、その資料について\n「ここが大事だよね」「なるほど、つまりこういうこと？」と\n対話形式（ラジオ風）で解説してくれるんです😳\n\n✅ 通学の電車内で復習したい学生さん\n✅ 家事の合間に子供の学習内容を知りたい保護者の方\n\nテキストを読むのに疲れた時の気分転換にも最適です。\n\n2026年の最新AIツール、\nまずは身近なところから賢く使っていきましょう！\n\nためになったら「🔥」で教えてくださいね！\n保存して、後で設定を確認してみましょう👇",
+      "title": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+      "caption": "【2026年1月】AIは「話す相手」から「仕事を任せる相手」へ。\n\nあけましておめでとうございます、if塾です。\n2026年最初の投稿は、今話題の「自律型AIエージェント」について。\n\n2年前（2024年頃）は、いかにAIにうまく指示を出すかという「プロンプトエンジニアリング」が流行っていました。\n\nしかし現在は、AI自身が考え、行動する時代。\n\n私たち人間は、細かい指示出しから解放される代わりに、\n「そもそも何を解決したいのか？」という\n本質的な目的を設定する力が求められています。\n\n受験勉強も、AIに管理「される」のではなく、\nAIをマネージャーとして「使いこなす」姿勢が合格への近道です。\n\nこれからの時代に必要な「主体性」、\nif塾と一緒に育てていきましょう。\n\n保存して、最新トレンドを見返してくださいね！👇",
+      "caption_text": "【2026年1月】AIは「話す相手」から「仕事を任せる相手」へ。\n\nあけましておめでとうございます、if塾です。\n2026年最初の投稿は、今話題の「自律型AIエージェント」について。\n\n2年前（2024年頃）は、いかにAIにうまく指示を出すかという「プロンプトエンジニアリング」が流行っていました。\n\nしかし現在は、AI自身が考え、行動する時代。\n\n私たち人間は、細かい指示出しから解放される代わりに、\n「そもそも何を解決したいのか？」という\n本質的な目的を設定する力が求められています。\n\n受験勉強も、AIに管理「される」のではなく、\nAIをマネージャーとして「使いこなす」姿勢が合格への近道です。\n\nこれからの時代に必要な「主体性」、\nif塾と一緒に育てていきましょう。\n\n保存して、最新トレンドを見返してくださいね！👇",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI活用",
-        "#GoogleClassroom",
-        "#Gemini",
-        "#受験生応援",
-        "#教育DX",
-        "#EdTech",
-        "#最新テック"
+        "#AIエージェント",
+        "#自律型AI",
+        "#教育の未来",
+        "#最新テクノロジー",
+        "#受験勉強2026"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -620,15 +618,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-          "sub_title": "1/6公開の新機能、もう試しましたか？",
-          "text_content": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
+          "main_title": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+          "sub_title": "2026年1月 最新AIトレンド解説",
+          "text_content": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-01.png",
           "image_file": "assets/img/posts/20260108_ai_column-01.png",
-          "overlay_text": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-          "subtext": "1/6公開の新機能、もう試しましたか？",
-          "alt": "表紙 - 【2026年1月速報】Google Cl"
+          "overlay_text": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+          "subtext": "2026年1月 最新AIトレンド解説",
+          "alt": "表紙 - 「指示待ちAI」はもう古い？\n2026年"
         },
         {
           "page_number": 2,
@@ -636,15 +634,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「資料を読む時間がない…」そんな悩みをAIが解決。",
-          "sub_title": "受験直前期の1月。配布された大量のプリントやPDF、目で追うのが辛い時や、移動中も勉強したい時ってありませんか？",
-          "text_content": "「資料を読む時間がない…」そんな悩みをAIが解決。",
+          "main_title": "プロンプト入力、\n疲れていませんか？",
+          "sub_title": "これまでのAIは「人間が細かく指示」しないと動けませんでした。\nチャットの往復に時間を取られるなら、自分でやった方が早い…\nそんな悩み、2026年の今はもう解消されています。",
+          "text_content": "プロンプト入力、\n疲れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-02.png",
           "image_file": "assets/img/posts/20260108_ai_column-02.png",
-          "overlay_text": "「資料を読む時間がない…」そんな悩みをAIが解決。",
-          "subtext": "受験直前期の1月。配布された大量のプリントやPDF、目で追うのが辛い時や、移動中も勉強したい時ってありませんか？",
-          "alt": "内容1 - 「資料を読む時間がない…」そんな悩みをA"
+          "overlay_text": "プロンプト入力、\n疲れていませんか？",
+          "subtext": "これまでのAIは「人間が細かく指示」しないと動けませんでした。\nチャットの往復に時間を取られるなら、自分でやった方が早い…\nそんな悩み、2026年の今はもう解消されています。",
+          "alt": "内容1 - プロンプト入力、\n疲れていませんか？"
         },
         {
           "page_number": 3,
@@ -652,15 +650,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
-          "sub_title": "2026/1/6リリースの新機能。Classroom上の資料を読み込ませるだけで、2人のAIが対話形式（ラジオ風）で内容を深掘り解説してくれます。",
-          "text_content": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
+          "main_title": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
+          "sub_title": "最新の自律型AI（AIエージェント）は、目標を与えれば自分で計画・実行・修正まで行います。\n例えば「今週の苦手単元を分析して、最適な復習スケジュールと教材を用意して」の一言で、全て準備が完了するのです。",
+          "text_content": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-03.png",
           "image_file": "assets/img/posts/20260108_ai_column-03.png",
-          "overlay_text": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
-          "subtext": "2026/1/6リリースの新機能。Classroom上の資料を読み込ませるだけで、2人のAIが対話形式（ラジオ風）で内容を深掘り解説してくれます。",
-          "alt": "内容2 - Geminiが先生の代わりに？資料を「ポ"
+          "overlay_text": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
+          "subtext": "最新の自律型AI（AIエージェント）は、目標を与えれば自分で計画・実行・修正まで行います。\n例えば「今週の苦手単元を分析して、最適な復習スケジュールと教材を用意して」の一言で、全て準備が完了するのです。",
+          "alt": "内容2 - 「ゴール」を伝えれば、\nあとはAIが勝手"
         },
         {
           "page_number": 4,
@@ -668,15 +666,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：入試直前の「耳学」活用術",
-          "sub_title": "満員電車や寝る前の復習に最適です。ただし「聴くだけ」で終わらず、気になった用語は必ず元の資料に戻って確認するのが定着のコツです。",
-          "text_content": "if塾流：入試直前の「耳学」活用術",
+          "main_title": "if塾の視点：\n問われるのは「目的設定力」",
+          "sub_title": "AIが自律化する今、人間に必要なのはプロンプト技術ではなく「AIに何をお願いするか」を決める意志です。\n指示待ち人間にならないために、主体的にAIを「上司」として使いこなす力が、2026年の学力です。",
+          "text_content": "if塾の視点：\n問われるのは「目的設定力」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-04.png",
           "image_file": "assets/img/posts/20260108_ai_column-04.png",
-          "overlay_text": "if塾流：入試直前の「耳学」活用術",
-          "subtext": "満員電車や寝る前の復習に最適です。ただし「聴くだけ」で終わらず、気になった用語は必ず元の資料に戻って確認するのが定着のコツです。",
-          "alt": "内容3 - if塾流：入試直前の「耳学」活用術"
+          "overlay_text": "if塾の視点：\n問われるのは「目的設定力」",
+          "subtext": "AIが自律化する今、人間に必要なのはプロンプト技術ではなく「AIに何をお願いするか」を決める意志です。\n指示待ち人間にならないために、主体的にAIを「上司」として使いこなす力が、2026年の学力です。",
+          "alt": "内容3 - if塾の視点：\n問われるのは「目的設定力"
         },
         {
           "page_number": 5,
@@ -702,15 +700,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-          "sub_title": "1/6公開の新機能、もう試しましたか？",
-          "text_content": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
+          "main_title": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+          "sub_title": "2026年1月 最新AIトレンド解説",
+          "text_content": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-01.png",
           "image_file": "assets/img/posts/20260108_ai_column-01.png",
-          "overlay_text": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-          "subtext": "1/6公開の新機能、もう試しましたか？",
-          "alt": "表紙 - 【2026年1月速報】Google Cl"
+          "overlay_text": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+          "subtext": "2026年1月 最新AIトレンド解説",
+          "alt": "表紙 - 「指示待ちAI」はもう古い？\n2026年"
         },
         {
           "page_number": 2,
@@ -718,15 +716,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「資料を読む時間がない…」そんな悩みをAIが解決。",
-          "sub_title": "受験直前期の1月。配布された大量のプリントやPDF、目で追うのが辛い時や、移動中も勉強したい時ってありませんか？",
-          "text_content": "「資料を読む時間がない…」そんな悩みをAIが解決。",
+          "main_title": "プロンプト入力、\n疲れていませんか？",
+          "sub_title": "これまでのAIは「人間が細かく指示」しないと動けませんでした。\nチャットの往復に時間を取られるなら、自分でやった方が早い…\nそんな悩み、2026年の今はもう解消されています。",
+          "text_content": "プロンプト入力、\n疲れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-02.png",
           "image_file": "assets/img/posts/20260108_ai_column-02.png",
-          "overlay_text": "「資料を読む時間がない…」そんな悩みをAIが解決。",
-          "subtext": "受験直前期の1月。配布された大量のプリントやPDF、目で追うのが辛い時や、移動中も勉強したい時ってありませんか？",
-          "alt": "内容1 - 「資料を読む時間がない…」そんな悩みをA"
+          "overlay_text": "プロンプト入力、\n疲れていませんか？",
+          "subtext": "これまでのAIは「人間が細かく指示」しないと動けませんでした。\nチャットの往復に時間を取られるなら、自分でやった方が早い…\nそんな悩み、2026年の今はもう解消されています。",
+          "alt": "内容1 - プロンプト入力、\n疲れていませんか？"
         },
         {
           "page_number": 3,
@@ -734,15 +732,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
-          "sub_title": "2026/1/6リリースの新機能。Classroom上の資料を読み込ませるだけで、2人のAIが対話形式（ラジオ風）で内容を深掘り解説してくれます。",
-          "text_content": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
+          "main_title": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
+          "sub_title": "最新の自律型AI（AIエージェント）は、目標を与えれば自分で計画・実行・修正まで行います。\n例えば「今週の苦手単元を分析して、最適な復習スケジュールと教材を用意して」の一言で、全て準備が完了するのです。",
+          "text_content": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-03.png",
           "image_file": "assets/img/posts/20260108_ai_column-03.png",
-          "overlay_text": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
-          "subtext": "2026/1/6リリースの新機能。Classroom上の資料を読み込ませるだけで、2人のAIが対話形式（ラジオ風）で内容を深掘り解説してくれます。",
-          "alt": "内容2 - Geminiが先生の代わりに？資料を「ポ"
+          "overlay_text": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
+          "subtext": "最新の自律型AI（AIエージェント）は、目標を与えれば自分で計画・実行・修正まで行います。\n例えば「今週の苦手単元を分析して、最適な復習スケジュールと教材を用意して」の一言で、全て準備が完了するのです。",
+          "alt": "内容2 - 「ゴール」を伝えれば、\nあとはAIが勝手"
         },
         {
           "page_number": 4,
@@ -750,15 +748,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：入試直前の「耳学」活用術",
-          "sub_title": "満員電車や寝る前の復習に最適です。ただし「聴くだけ」で終わらず、気になった用語は必ず元の資料に戻って確認するのが定着のコツです。",
-          "text_content": "if塾流：入試直前の「耳学」活用術",
+          "main_title": "if塾の視点：\n問われるのは「目的設定力」",
+          "sub_title": "AIが自律化する今、人間に必要なのはプロンプト技術ではなく「AIに何をお願いするか」を決める意志です。\n指示待ち人間にならないために、主体的にAIを「上司」として使いこなす力が、2026年の学力です。",
+          "text_content": "if塾の視点：\n問われるのは「目的設定力」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260108_ai_column-04.png",
           "image_file": "assets/img/posts/20260108_ai_column-04.png",
-          "overlay_text": "if塾流：入試直前の「耳学」活用術",
-          "subtext": "満員電車や寝る前の復習に最適です。ただし「聴くだけ」で終わらず、気になった用語は必ず元の資料に戻って確認するのが定着のコツです。",
-          "alt": "内容3 - if塾流：入試直前の「耳学」活用術"
+          "overlay_text": "if塾の視点：\n問われるのは「目的設定力」",
+          "subtext": "AIが自律化する今、人間に必要なのはプロンプト技術ではなく「AIに何をお願いするか」を決める意志です。\n指示待ち人間にならないために、主体的にAIを「上司」として使いこなす力が、2026年の学力です。",
+          "alt": "内容3 - if塾の視点：\n問われるのは「目的設定力"
         },
         {
           "page_number": 5,
@@ -821,7 +819,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-08T11:41:24",
+      "research_date": "2026-01-08T11:55:31",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -829,15 +827,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年1月速報】Google Cl",
+        "cover_text": "「指示待ちAI」はもう古い？\n2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年1月速報】Google Classroomが進化！Geminiで教材を「聴く」時代へ",
-            "subtext": "1/6公開の新機能、もう試しましたか？",
+            "headline": "「指示待ちAI」はもう古い？\n2026年、自律型エージェントの衝撃",
+            "subtext": "2026年1月 最新AIトレンド解説",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -845,8 +843,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「資料を読む時間がない…」そんな悩みをAIが解決。",
-            "subtext": "受験直前期の1月。配布された大量のプリントやPDF、目で追うのが辛い時や、移動中も勉強したい時ってありませんか？",
+            "headline": "プロンプト入力、\n疲れていませんか？",
+            "subtext": "これまでのAIは「人間が細かく指示」しないと動けませんでした。\nチャットの往復に時間を取られるなら、自分でやった方が早い…\nそんな悩み、2026年の今はもう解消されています。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -854,8 +852,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Geminiが先生の代わりに？資料を「ポッドキャスト」に変換！",
-            "subtext": "2026/1/6リリースの新機能。Classroom上の資料を読み込ませるだけで、2人のAIが対話形式（ラジオ風）で内容を深掘り解説してくれます。",
+            "headline": "「ゴール」を伝えれば、\nあとはAIが勝手に動く。",
+            "subtext": "最新の自律型AI（AIエージェント）は、目標を与えれば自分で計画・実行・修正まで行います。\n例えば「今週の苦手単元を分析して、最適な復習スケジュールと教材を用意して」の一言で、全て準備が完了するのです。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -863,8 +861,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：入試直前の「耳学」活用術",
-            "subtext": "満員電車や寝る前の復習に最適です。ただし「聴くだけ」で終わらず、気になった用語は必ず元の資料に戻って確認するのが定着のコツです。",
+            "headline": "if塾の視点：\n問われるのは「目的設定力」",
+            "subtext": "AIが自律化する今、人間に必要なのはプロンプト技術ではなく「AIに何をお願いするか」を決める意志です。\n指示待ち人間にならないために、主体的にAIを「上司」として使いこなす力が、2026年の学力です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
