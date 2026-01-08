@@ -11,16 +11,13 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">またGoogleが進化し</text>
-  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">ました</text>
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">「教えて」はもう古い？自</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">ら動くAIの登場</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">2026年1月、Gemini 3が登場。</text>
-  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">
-最大の特徴は「複雑な推論能力」。
-今ま</text>
-  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">で苦手だった『論理的な思考』の精度が
-劇</text>
+  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">これまでは人間が毎回指示を出していました</text>
+  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">が、2026年の『自律型AI（Agent</text>
+  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">s）』は、目標を伝えるだけで手順を考え、</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
