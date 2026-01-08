@@ -11,15 +11,15 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">【実例】面倒なタスクが全</text>
-  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">自動
-「調査→計画→実行</text>
-  <text x="540" y="502" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">」を一任</text>
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">受験生の頼れる執事に。
+</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">『弱点克服プラン』を自動</text>
+  <text x="540" y="502" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">運用</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="638" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">「来月の家族旅行、予算内でプラン組んで」</text>
-  <text x="540" y="683" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">と頼めば、航空券の比較・ホテルの仮予約・</text>
-  <text x="540" y="728" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">旅のしおり作成までAIが勝手に行います。</text>
+  <text x="540" y="638" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">例えば「模試の点数を10点上げたい」と伝</text>
+  <text x="540" y="683" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">えると、Agentic AIがあなたの過</text>
+  <text x="540" y="728" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">去のミスを分析し、最適な問題集を選定、日</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>

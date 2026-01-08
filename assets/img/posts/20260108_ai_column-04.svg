@@ -11,15 +11,15 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">if塾流：これからの必須</text>
-  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">スキル
-「AIを部下にす</text>
-  <text x="540" y="502" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">る力」</text>
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">if塾の視点：主導権は渡</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">さない。
+『ゴール設定』</text>
+  <text x="540" y="502" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">こそ人間の役割</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="638" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">AIが自律的に動く時代、人間に必要なのは</text>
-  <text x="540" y="683" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">細かい指示出しではなく、「正しい目標設定</text>
-  <text x="540" y="728" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">」と「成果物の評価（マネジメント）」です</text>
+  <text x="540" y="638" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">便利な反面、全て任せきりにして思考停止す</text>
+  <text x="540" y="683" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">るのはNGです。AIはあくまで実行部隊。</text>
+  <text x="540" y="728" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">「何を学びたいか」「どうなりたいか」とい</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>

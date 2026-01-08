@@ -11,13 +11,14 @@
   <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
 
   <!-- ヘッドライン -->
-  <text x="540" y="400" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">2026年、AIは「話す</text>
-  <text x="540" y="492" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">」から「動く」へ。
-自律</text>
-  <text x="540" y="584" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">型AIエージェントの衝撃</text>
+  <text x="540" y="400" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">指示待ちAIはもう古い？</text>
+  <text x="540" y="492" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">
+2026年『Agent</text>
+  <text x="540" y="584" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="72" font-weight="bold">ic AI』の衝撃</text>
 
   <!-- サブテキスト -->
-  <text x="540" y="736" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">2026年1月 最新テックトレンド解説</text>
+  <text x="540" y="736" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">【2026年1月最新】学習の常識が変わる</text>
+  <text x="540" y="781" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">ニュース</text>
 
   <!-- ブランドマーク -->
   <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
