@@ -37,10 +37,10 @@
 
 | エージェント | モデル | 機能 |
 |-------------|--------|------|
-| TrendResearchAgent | `gemini-3-pro-preview` | Google Search グラウンディングでリサーチ |
-| ContentGenerationAgent | `gemini-3-pro-preview` | 5シーンコンテンツ生成（テキスト・キャプション） |
+| TrendResearchAgent | `gemini-3-flash-preview` | Google Search グラウンディングでリサーチ（thinking=minimal） |
+| ContentGenerationAgent | `gemini-3-flash-preview` | 5シーンコンテンツ生成（thinking=minimal） |
 | ImageGenerationAgent | `gemini-3-pro-image-preview` | **日本語テキスト込み完成画像**を生成（1K, 4:5） |
-| ContentImprovementAgent | `gemini-2.5-flash` | パフォーマンス分析・改善 |
+| ContentImprovementAgent | `gemini-3-flash-preview` | パフォーマンス分析・改善（thinking=minimal） |
 
 ### 画像生成仕様
 
@@ -58,8 +58,8 @@
 1. TrendResearchAgent → トレンドトピック取得
 2. ContentGenerationAgent → 5シーンのテキスト生成
 3. ImageGenerationAgent → 日本語テキスト + if塾ロゴを画像に埋め込んで生成
-   ├─ 成功: PNG画像（テキスト込み完成版）
-   └─ 失敗: SVGフォールバック（同等のテキスト表示）
+   └─ 成功: PNG画像（テキスト込み完成版）
+   ※ GEMINI_API_KEY必須（フォールバックなし）
 ```
 
 ### if塾ロゴ
@@ -77,7 +77,7 @@
 - 日本語テキストが画像内にレンダリング
 - if塾ブランドロゴが自動挿入
 - リトライロジック（最大3回）で安定性向上
-- フォールバックSVGも完成度の高いデザイン
+- GEMINI_API_KEY必須で高品質画像を保証
 
 ---
 
@@ -485,9 +485,10 @@ Settings → Actions → General:
 
 ### 画像生成エラー
 
-- `gemini-2.5-flash-image` モデルを使用しているか確認
+- `gemini-3-pro-image-preview` モデルを使用しているか確認
+- `GEMINI_API_KEY` が設定されているか確認（必須）
 - APIクォータを確認
-- フォールバック: SVGプレースホルダーが生成される
+- 画像生成に失敗するとワークフローがエラー終了
 
 ---
 

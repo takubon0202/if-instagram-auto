@@ -144,7 +144,8 @@ class TrendResearchAgent:
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     tools=[grounding_tool],
-                    response_mime_type="application/json"
+                    response_mime_type="application/json",
+                    thinking_config=types.ThinkingConfig(thinking_level="minimal")
                 )
             )
 
@@ -373,7 +374,8 @@ JSON形式で出力:
                 model=self.model,
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
+                    response_mime_type="application/json",
+                    thinking_config=types.ThinkingConfig(thinking_level="minimal")
                 )
             )
 
@@ -416,7 +418,7 @@ JSON形式で出力:
 class ImageGenerationAgent:
     """
     画像生成エージェント v5.0
-    Gemini 2.5 Flash Image / 3 Pro Image Preview + テキストオーバーレイ
+    Gemini 3 Pro Image Preview + テキストオーバーレイ
 
     【統合アプローチ v5.0】
     - 画像: Gemini APIでImage-to-Image生成（キャラクター参照画像付き）
@@ -427,7 +429,7 @@ class ImageGenerationAgent:
 
     def __init__(self, client: GeminiClient):
         self.client = client
-        self.model = MODELS["image"]  # gemini-2.5-flash-image or gemini-3-pro-image-preview
+        self.model = MODELS["image"]  # gemini-3-pro-image-preview
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
         self.characters_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "characters"
         self.max_retries = 3
@@ -998,7 +1000,8 @@ JSON形式で出力してください。
                 model=self.model,
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
+                    response_mime_type="application/json",
+                    thinking_config=types.ThinkingConfig(thinking_level="minimal")
                 )
             )
 

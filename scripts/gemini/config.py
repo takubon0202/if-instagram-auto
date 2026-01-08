@@ -31,9 +31,10 @@ TIME_CONTEXT = get_current_time_context()
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Models
+# Gemini 3 Flash Preview + thinking_level=minimal（思考モードオフ）
 MODELS = {
-    "research": "gemini-3-pro-preview",      # リサーチ・トレンド分析（Google Search対応）
-    "content": "gemini-3-pro-preview",       # コンテンツ生成
+    "research": "gemini-3-flash-preview",    # リサーチ・トレンド分析（Google Search対応）
+    "content": "gemini-3-flash-preview",     # コンテンツ生成（高速・低コスト）
     "image": "gemini-3-pro-image-preview",   # 画像生成（高品質日本語対応）
 }
 

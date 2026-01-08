@@ -11,10 +11,10 @@ Gemini APIを活用した高品質Instagram投稿ワークフロー。
 
 | エージェント | モデル | 用途 |
 |-------------|--------|------|
-| Trend Research | gemini-3-pro-preview | リサーチ・トレンド分析 |
-| Content Planning | gemini-2.5-flash | コンテンツ企画 |
-| Image Generation | gemini-2.5-flash | 画像生成 |
-| Content Improvement | gemini-2.5-flash | 改善分析 |
+| Trend Research | gemini-3-flash-preview | リサーチ・トレンド分析（thinking=minimal） |
+| Content Planning | gemini-3-flash-preview | コンテンツ企画（thinking=minimal） |
+| Image Generation | gemini-3-pro-image-preview | 画像生成 |
+| Content Improvement | gemini-3-flash-preview | 改善分析（thinking=minimal） |
 
 ---
 
@@ -228,7 +228,7 @@ python -m scripts.gemini.workflow research --track juku
 
 ## 注意事項
 
-1. **APIキー管理**: GEMINI_API_KEYは環境変数で管理
+1. **APIキー管理**: GEMINI_API_KEYは環境変数で管理（必須）
 2. **レート制限**: Gemini APIのレート制限に注意
-3. **画像生成**: 失敗時はSVGプレースホルダーを自動生成
+3. **画像生成**: GEMINI_API_KEYが必須（フォールバックなし）
 4. **コンテンツ審査**: 生成されたコンテンツは人間が最終確認
