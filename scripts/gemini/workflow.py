@@ -115,18 +115,35 @@ class InstagramWorkflowV3:
         if post.get("staff"):
             print(f"  [OK] スタッフ選択: {post['staff'].get('name', 'なし')}")
 
-        # Step 3: 画像生成（4枚 + サンクス画像）- Gemini API必須
+        # Step 3: 画像生成（4枚 + サンクス画像）- フォールバック対応
         print("\n[Step 3/5] 画像生成...")
         try:
             image_paths = self._generate_5scene_images(post, category)
             post["generated_images"] = image_paths
-            print(f"  [OK] {len(image_paths)}枚生成（サンクス画像含む）")
+
+            # フォールバック画像が含まれているかチェック
+            fallback_count = sum(1 for p in image_paths if "fallback" in p or p == THANKS_IMAGE)
+            if fallback_count > 1:  # サンクス画像以外にフォールバックがある
+                results["status"] = "partial_success"
+                results["fallback_images"] = fallback_count - 1  # サンクス画像を除く
+                print(f"  [PARTIAL] {len(image_paths)}枚生成（{fallback_count - 1}枚はフォールバック）")
+            else:
+                print(f"  [OK] {len(image_paths)}枚生成（サンクス画像含む）")
         except Exception as e:
             print(f"  [NG] 画像生成エラー: {e}")
-            print(f"  [ERROR] GEMINI_API_KEYが設定されていないか、APIエラーが発生しました")
-            results["status"] = "failed"
-            results["error"] = str(e)
-            return results
+            print(f"  [WARN] フォールバック画像を使用してデータを保存します")
+            # フォールバック: 全シーンにサンクス画像を使用
+            fallback_images = []
+            for scene in post["scenes"]:
+                if scene.get("fixed_image"):
+                    fallback_images.append(scene["fixed_image"])
+                else:
+                    fallback_path = self._get_fallback_image(post["id"], scene, category)
+                    fallback_images.append(fallback_path)
+            post["generated_images"] = fallback_images
+            results["status"] = "partial_success"
+            results["fallback_images"] = len(fallback_images) - 1
+            results["image_error"] = str(e)
 
         # Step 4: データ更新
         print("\n[Step 4/5] データ更新...")
@@ -259,16 +276,20 @@ class InstagramWorkflowV3:
         }
 
     def _generate_5scene_images(self, post: dict, category: dict) -> list:
-        """5シーン分の画像を生成（Gemini API必須）"""
+        """
+        5シーン分の画像を生成
+        Gemini APIが利用できない場合はフォールバック画像を使用
+        """
         image_paths = []
         size = IMAGE_SIZES["feed_portrait"]
+        fallback_used = False
 
         for scene in post["scenes"]:
             if scene.get("fixed_image"):
                 # サンクス画像は固定
                 image_paths.append(scene["fixed_image"])
             else:
-                # 各シーンの画像を生成（Gemini API使用）
+                # 各シーンの画像を生成
                 try:
                     path = self.image_agent.generate_scene_image(
                         post_id=post["id"],
@@ -279,10 +300,87 @@ class InstagramWorkflowV3:
                     image_paths.append(path)
                 except Exception as e:
                     print(f"    Scene {scene['scene_id']} error: {e}")
-                    print(f"    [ERROR] GEMINI_API_KEY is required for image generation")
-                    raise RuntimeError(f"Image generation failed: {e}. Please set GEMINI_API_KEY.")
+                    # フォールバック: モック画像を生成または固定画像を使用
+                    fallback_path = self._get_fallback_image(post["id"], scene, category)
+                    image_paths.append(fallback_path)
+                    fallback_used = True
+                    print(f"    [FALLBACK] Using: {fallback_path}")
+
+        if fallback_used:
+            print("  [WARN] Some images used fallback. Set GEMINI_API_KEY for full quality.")
 
         return image_paths
+
+    def _get_fallback_image(self, post_id: str, scene: dict, category: dict) -> str:
+        """
+        フォールバック画像を取得または生成
+        1. Pillowでモック画像を生成（可能な場合）
+        2. 固定のサンクス画像を使用（フォールバック）
+        """
+        scene_id = scene.get("scene_id", 1)
+        filename = f"{post_id}-{scene_id:02d}-fallback.png"
+        output_path = self.assets_dir / filename
+
+        try:
+            from PIL import Image, ImageDraw, ImageFont
+
+            # 1080x1350の単色背景画像を生成
+            colors = category.get("colors", {})
+            primary_color = colors.get("primary", "#4A90A4")
+
+            # Hex to RGB
+            if primary_color.startswith("#"):
+                r = int(primary_color[1:3], 16)
+                g = int(primary_color[3:5], 16)
+                b = int(primary_color[5:7], 16)
+            else:
+                r, g, b = 74, 144, 164  # デフォルト
+
+            img = Image.new("RGB", (1080, 1350), (r, g, b))
+            draw = ImageDraw.Draw(img)
+
+            # テキストを描画（シンプルなフォント）
+            headline = scene.get("headline", f"Scene {scene_id}")
+            subtext = scene.get("subtext", "if塾")
+
+            # フォントサイズ（デフォルトフォント使用）
+            try:
+                font_large = ImageFont.truetype("arial.ttf", 60)
+                font_small = ImageFont.truetype("arial.ttf", 36)
+            except:
+                font_large = ImageFont.load_default()
+                font_small = ImageFont.load_default()
+
+            # テキストを中央に配置
+            text_color = (255, 255, 255)
+
+            # ヘッドライン
+            bbox = draw.textbbox((0, 0), headline[:20], font=font_large)
+            text_width = bbox[2] - bbox[0]
+            x = (1080 - text_width) // 2
+            draw.text((x, 500), headline[:20], fill=text_color, font=font_large)
+
+            # サブテキスト
+            bbox2 = draw.textbbox((0, 0), subtext[:30], font=font_small)
+            text_width2 = bbox2[2] - bbox2[0]
+            x2 = (1080 - text_width2) // 2
+            draw.text((x2, 600), subtext[:30], fill=text_color, font=font_small)
+
+            # ブランド名
+            draw.text((450, 1200), "if塾", fill=text_color, font=font_large)
+
+            # 保存
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            img.save(str(output_path), "PNG")
+            print(f"    [MOCK] Generated: {filename}")
+            return f"assets/img/posts/{filename}"
+
+        except ImportError:
+            print("    [WARN] Pillow not available, using thanks image as fallback")
+            return THANKS_IMAGE
+        except Exception as e:
+            print(f"    [WARN] Mock image generation failed: {e}")
+            return THANKS_IMAGE
 
     def _generate_caption(self, category: dict, topic: str, staff_info: dict = None) -> str:
         """キャプションを生成"""

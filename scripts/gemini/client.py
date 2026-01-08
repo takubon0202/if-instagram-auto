@@ -548,7 +548,9 @@ class ImageGenerationAgent:
             str: 生成された画像のパス
         """
         if not self.client.is_available():
-            raise Exception("Gemini client not available")
+            # APIが利用できない場合はモック画像を生成
+            print("      [MOCK] Gemini client not available, generating mock image")
+            return self._generate_mock_image(post_id, scene, category)
 
         scene_id = scene.get('scene_id', 1)
         category_id = category.get('id', 'activity')
@@ -904,6 +906,109 @@ Call-to-action illustration: Forward momentum
         }
 
         return directions.get(scene_id, directions[1])
+
+    def _generate_mock_image(self, post_id: str, scene: dict, category: dict) -> str:
+        """
+        モック画像を生成（APIが利用できない場合のフォールバック）
+
+        Pillowが利用可能な場合は、カテゴリカラーの背景にテキストを配置した
+        シンプルな画像を生成。利用不可の場合はダミーパスを返す。
+
+        Args:
+            post_id: 投稿ID
+            scene: シーン情報
+            category: カテゴリ情報
+
+        Returns:
+            str: 生成された画像のパス（またはダミーパス）
+        """
+        scene_id = scene.get('scene_id', 1)
+        filename = f"{post_id}-{scene_id:02d}-mock.png"
+        output_path = self.output_dir / filename
+
+        try:
+            from PIL import Image, ImageDraw, ImageFont
+
+            # カテゴリカラーを取得
+            colors = category.get("colors", {})
+            primary_color = colors.get("primary", "#4A90A4")
+
+            # Hex to RGB
+            if primary_color.startswith("#"):
+                r = int(primary_color[1:3], 16)
+                g = int(primary_color[3:5], 16)
+                b = int(primary_color[5:7], 16)
+            else:
+                r, g, b = 74, 144, 164
+
+            # 1080x1350のグラデーション風背景を生成
+            img = Image.new("RGB", (1080, 1350), (r, g, b))
+            draw = ImageDraw.Draw(img)
+
+            # グラデーション効果（上から下へ少し暗く）
+            for y in range(1350):
+                factor = 1 - (y / 1350) * 0.3
+                line_color = (int(r * factor), int(g * factor), int(b * factor))
+                draw.line([(0, y), (1080, y)], fill=line_color)
+
+            # テキスト設定
+            headline = scene.get("headline", f"Scene {scene_id}")
+            subtext = scene.get("subtext", "if塾")
+            category_name = category.get("name", "カテゴリ")
+
+            # フォント（デフォルトフォントを使用）
+            try:
+                font_large = ImageFont.truetype("arial.ttf", 64)
+                font_medium = ImageFont.truetype("arial.ttf", 40)
+                font_small = ImageFont.truetype("arial.ttf", 32)
+            except:
+                font_large = ImageFont.load_default()
+                font_medium = ImageFont.load_default()
+                font_small = ImageFont.load_default()
+
+            text_color = (255, 255, 255)
+            shadow_color = (0, 0, 0)
+
+            # カテゴリラベル（上部）
+            draw.text((42, 102), f"[{category_name}]", fill=shadow_color, font=font_small)
+            draw.text((40, 100), f"[{category_name}]", fill=text_color, font=font_small)
+
+            # ヘッドライン（中央）
+            headline_text = headline[:25] if len(headline) > 25 else headline
+            bbox = draw.textbbox((0, 0), headline_text, font=font_large)
+            text_width = bbox[2] - bbox[0]
+            x = (1080 - text_width) // 2
+            draw.text((x + 2, 502), headline_text, fill=shadow_color, font=font_large)
+            draw.text((x, 500), headline_text, fill=text_color, font=font_large)
+
+            # サブテキスト（中央下）
+            subtext_text = subtext[:40] if len(subtext) > 40 else subtext
+            bbox2 = draw.textbbox((0, 0), subtext_text, font=font_medium)
+            text_width2 = bbox2[2] - bbox2[0]
+            x2 = (1080 - text_width2) // 2
+            draw.text((x2 + 2, 602), subtext_text, fill=shadow_color, font=font_medium)
+            draw.text((x2, 600), subtext_text, fill=text_color, font=font_medium)
+
+            # if塾ブランド（下部）
+            draw.text((452, 1202), "if塾", fill=shadow_color, font=font_large)
+            draw.text((450, 1200), "if塾", fill=(255, 200, 100), font=font_large)
+
+            # シーン番号（右下）
+            draw.text((982, 1262), f"{scene_id}/5", fill=shadow_color, font=font_small)
+            draw.text((980, 1260), f"{scene_id}/5", fill=text_color, font=font_small)
+
+            # 保存
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            img.save(str(output_path), "PNG")
+            print(f"      [MOCK] Generated mock image: {filename}")
+            return f"assets/img/posts/{filename}"
+
+        except ImportError:
+            print("      [WARN] Pillow not available, returning dummy path")
+            return "assets/img/posts/ifjukuthanks.png"
+        except Exception as e:
+            print(f"      [WARN] Mock image generation failed: {e}")
+            return "assets/img/posts/ifjukuthanks.png"
 
     def generate_complete_post_images(
         self,
