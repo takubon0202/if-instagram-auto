@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B1FA2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#AB47BC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg3)" width="1080" height="1350"/>
+
+  <!-- メインコンテンツエリア -->
+  <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
+
+  <!-- ヘッドライン -->
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">受験直前の「救世主」にな</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">る？</text>
+
+  <!-- サブテキスト -->
+  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">使い方は簡単、解けない過去問をカメラで映</text>
+  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">すだけ。
+Gemini 3はただ答えを出</text>
+  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">すのではなく、
+「なぜその式になるか」の</text>
+
+  <!-- ブランドマーク -->
+  <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
+  <text x="540" y="1170" text-anchor="middle" fill="white" font-family="sans-serif" font-size="40" font-weight="bold">if</text>
+
+  <!-- シーン番号 -->
+  <text x="540" y="1320" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="20">内容2 (3/5)</text>
+</svg>

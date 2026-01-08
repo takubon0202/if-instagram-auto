@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B1FA2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#AB47BC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect fill="url(#bg2)" width="1080" height="1350"/>
+
+  <!-- メインコンテンツエリア -->
+  <rect fill="rgba(255,255,255,0.1)" x="60" y="200" width="960" height="900" rx="30"/>
+
+  <!-- ヘッドライン -->
+  <text x="540" y="350" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">またGoogleが進化し</text>
+  <text x="540" y="426" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="56" font-weight="bold">ました</text>
+
+  <!-- サブテキスト -->
+  <text x="540" y="562" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">2026年1月、Gemini 3が登場。</text>
+  <text x="540" y="607" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">
+最大の特徴は「複雑な推論能力」。
+今ま</text>
+  <text x="540" y="652" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="36" opacity="0.9">で苦手だった『論理的な思考』の精度が
+劇</text>
+
+  <!-- ブランドマーク -->
+  <circle cx="540" cy="1150" r="80" fill="rgba(255,255,255,0.2)"/>
+  <text x="540" y="1170" text-anchor="middle" fill="white" font-family="sans-serif" font-size="40" font-weight="bold">if</text>
+
+  <!-- シーン番号 -->
+  <text x="540" y="1320" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="20">内容1 (2/5)</text>
+</svg>

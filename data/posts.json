@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 14,
-    "last_updated": "2026-01-08T12:07:23.968646",
+    "last_updated": "2026-01-08T12:32:38.356081",
     "categories": [
       "announcement",
       "development",
@@ -592,24 +592,26 @@
     {
       "id": "20260108_ai_column",
       "post_id": "20260108_ai_column",
-      "created_at": "2026-01-08T12:07:23",
+      "created_at": "2026-01-08T12:32:38",
       "datetime": "2026-01-08T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "2026年1月、AIは「チャット」から「実行」へ。",
+      "theme": "Gemini 3、始動。\nAIの「推論」がヤバい",
       "target_audience": "Students & Parents",
-      "title": "2026年1月、AIは「チャット」から「実行」へ。",
-      "caption": "【2026年1月】AIの進化が止まりません！\n\nあけましておめでとうございます、if塾です。\n\n2026年のスタートと共に、教育・AI業界では「Agentic AI（自律型AIエージェント）」が大きなトレンドになっています。\n\nこれまではChatGPTなどに「プロンプト（指示）」を一生懸命考える必要がありましたが、これからは「ざっくりした目標」を伝えるだけで、AIが自ら考え、複数のアプリを使いこなし、タスクを完了させてくれる時代です。\n\n受験生や学生にとっては、\n「自分専用の超優秀な学習マネージャー」\nがスマホの中にいるようなもの。\n\nでも、だからこそ大切になるのは\n「AIに任せること」と「自分の頭で考えること」の線引きです。\n\nif塾では、最新のAIエージェントを活用して効率化しつつ、人間ならではの思考力を鍛える指導を続けていきます。\n\n皆さんは、自分のAIエージェントにまずどんな仕事を任せたいですか？\n「スケジュール管理」「リサーチ」「宿題チェック」など、コメントで教えてください！\n\n保存して、最新トレンドを忘れないようにしてくださいね👇",
-      "caption_text": "【2026年1月】AIの進化が止まりません！\n\nあけましておめでとうございます、if塾です。\n\n2026年のスタートと共に、教育・AI業界では「Agentic AI（自律型AIエージェント）」が大きなトレンドになっています。\n\nこれまではChatGPTなどに「プロンプト（指示）」を一生懸命考える必要がありましたが、これからは「ざっくりした目標」を伝えるだけで、AIが自ら考え、複数のアプリを使いこなし、タスクを完了させてくれる時代です。\n\n受験生や学生にとっては、\n「自分専用の超優秀な学習マネージャー」\nがスマホの中にいるようなもの。\n\nでも、だからこそ大切になるのは\n「AIに任せること」と「自分の頭で考えること」の線引きです。\n\nif塾では、最新のAIエージェントを活用して効率化しつつ、人間ならではの思考力を鍛える指導を続けていきます。\n\n皆さんは、自分のAIエージェントにまずどんな仕事を任せたいですか？\n「スケジュール管理」「リサーチ」「宿題チェック」など、コメントで教えてください！\n\n保存して、最新トレンドを忘れないようにしてくださいね👇",
+      "title": "Gemini 3、始動。\nAIの「推論」がヤバい",
+      "caption": "【2026年1月】ついにGoogleから最新モデル「Gemini 3」が登場しました！🤖✨\n\n受験シーズン真っ只中の今、保護者の方や学生さんに知っておいてほしいのが、この新しいAIの「推論能力（Reasoning）」です。\n\n今までのAIは、計算間違いをしたり、もっともらしい嘘をつくことがありましたが、今回のモデルは「考える力」が段違い。\n\n✅ 難解な数学の証明\n✅ 現代文の論理構成\n✅ 物理の法則の適用\n\nこれらを「なぜそうなるのか」というプロセス重視で教えてくれます。\n\nif塾としては、「AIを解法暗記の道具にするのではなく、思考のコーチとして使う」ことをおすすめします。\n\n「ここまでは分かったけど、次の一手がわからない」\nそんな時こそ、Gemini 3に壁打ち相手になってもらいましょう！\n\nこれからの学習は、AIといかに共存するかがカギです🔑\n\n保存して、お子さんと一緒に試してみてくださいね！👇\n\n----------------------------\nif塾は、最新テクノロジーと教育を繋ぐ\n次世代の学習塾です。\n----------------------------",
+      "caption_text": "【2026年1月】ついにGoogleから最新モデル「Gemini 3」が登場しました！🤖✨\n\n受験シーズン真っ只中の今、保護者の方や学生さんに知っておいてほしいのが、この新しいAIの「推論能力（Reasoning）」です。\n\n今までのAIは、計算間違いをしたり、もっともらしい嘘をつくことがありましたが、今回のモデルは「考える力」が段違い。\n\n✅ 難解な数学の証明\n✅ 現代文の論理構成\n✅ 物理の法則の適用\n\nこれらを「なぜそうなるのか」というプロセス重視で教えてくれます。\n\nif塾としては、「AIを解法暗記の道具にするのではなく、思考のコーチとして使う」ことをおすすめします。\n\n「ここまでは分かったけど、次の一手がわからない」\nそんな時こそ、Gemini 3に壁打ち相手になってもらいましょう！\n\nこれからの学習は、AIといかに共存するかがカギです🔑\n\n保存して、お子さんと一緒に試してみてくださいね！👇\n\n----------------------------\nif塾は、最新テクノロジーと教育を繋ぐ\n次世代の学習塾です。\n----------------------------",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AgenticAI",
-        "#自律型AI",
-        "#教育トレンド",
-        "#AI活用法",
-        "#最新テック",
-        "#学習効率化"
+        "#Gemini3",
+        "#GoogleAI",
+        "#AI活用学習",
+        "#中学受験2026",
+        "#高校受験2026",
+        "#大学受験",
+        "#教育ママ",
+        "#EdTech"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -619,15 +621,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年1月、AIは「チャット」から「実行」へ。",
-          "sub_title": "最新トピック：自律型AIエージェントとは？",
-          "text_content": "2026年1月、AIは「チャット」から「実行」へ。",
+          "main_title": "Gemini 3、始動。\nAIの「推論」がヤバい",
+          "sub_title": "2026.01 最新ニュース速報",
+          "text_content": "Gemini 3、始動。\nAIの「推論」がヤバい",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-01.png",
-          "image_file": "assets/img/posts/20260108_ai_column-01.png",
-          "overlay_text": "2026年1月、AIは「チャット」から「実行」へ。",
-          "subtext": "最新トピック：自律型AIエージェントとは？",
-          "alt": "表紙 - 2026年1月、AIは「チャット」から「"
+          "image_url": "assets/img/posts/20260108_ai_column-01.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-01.svg",
+          "overlay_text": "Gemini 3、始動。\nAIの「推論」がヤバい",
+          "subtext": "2026.01 最新ニュース速報",
+          "alt": "表紙 - Gemini 3、始動。\nAIの「推論」"
         },
         {
           "page_number": 2,
@@ -635,15 +637,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「どう質問すればいい？」\nその悩み、もう古いです。",
-          "sub_title": "これまでのAIは、人間が細かく指示しないと動きませんでした。しかし、2026年のAIは「指示待ち」を卒業しています。",
-          "text_content": "「どう質問すればいい？」\nその悩み、もう古いです。",
+          "main_title": "またGoogleが進化しました",
+          "sub_title": "2026年1月、Gemini 3が登場。\n最大の特徴は「複雑な推論能力」。\n今まで苦手だった『論理的な思考』の精度が\n劇的に向上しています。これ、勉強に使えます。",
+          "text_content": "またGoogleが進化しました",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-02.png",
-          "image_file": "assets/img/posts/20260108_ai_column-02.png",
-          "overlay_text": "「どう質問すればいい？」\nその悩み、もう古いです。",
-          "subtext": "これまでのAIは、人間が細かく指示しないと動きませんでした。しかし、2026年のAIは「指示待ち」を卒業しています。",
-          "alt": "内容1 - 「どう質問すればいい？」\nその悩み、もう"
+          "image_url": "assets/img/posts/20260108_ai_column-02.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-02.svg",
+          "overlay_text": "またGoogleが進化しました",
+          "subtext": "2026年1月、Gemini 3が登場。\n最大の特徴は「複雑な推論能力」。\n今まで苦手だった『論理的な思考』の精度が\n劇的に向上しています。これ、勉強に使えます。",
+          "alt": "内容1 - またGoogleが進化しました"
         },
         {
           "page_number": 3,
@@ -651,15 +653,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "目標を渡すだけで、\nAIが勝手に動き出す。",
-          "sub_title": "話題の「Agentic AI（自律型AI）」が登場。\n例：「次の模試で数学+10点」と伝えると、弱点分析から週間計画の作成、教材選定まで自律的に実行・修正します。",
-          "text_content": "目標を渡すだけで、\nAIが勝手に動き出す。",
+          "main_title": "受験直前の「救世主」になる？",
+          "sub_title": "使い方は簡単、解けない過去問をカメラで映すだけ。\nGemini 3はただ答えを出すのではなく、\n「なぜその式になるか」の思考プロセスを\n先生のように順を追って解説してくれます。",
+          "text_content": "受験直前の「救世主」になる？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-03.png",
-          "image_file": "assets/img/posts/20260108_ai_column-03.png",
-          "overlay_text": "目標を渡すだけで、\nAIが勝手に動き出す。",
-          "subtext": "話題の「Agentic AI（自律型AI）」が登場。\n例：「次の模試で数学+10点」と伝えると、弱点分析から週間計画の作成、教材選定まで自律的に実行・修正します。",
-          "alt": "内容2 - 目標を渡すだけで、\nAIが勝手に動き出す"
+          "image_url": "assets/img/posts/20260108_ai_column-03.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-03.svg",
+          "overlay_text": "受験直前の「救世主」になる？",
+          "subtext": "使い方は簡単、解けない過去問をカメラで映すだけ。\nGemini 3はただ答えを出すのではなく、\n「なぜその式になるか」の思考プロセスを\n先生のように順を追って解説してくれます。",
+          "alt": "内容2 - 受験直前の「救世主」になる？"
         },
         {
           "page_number": 4,
@@ -667,15 +669,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：\n「管理」はAI、「思考」は人間。",
-          "sub_title": "面倒なスケジュール管理や教材探しはAIエージェントに丸投げでOK。空いた時間で、じっくり「考える」勉強をするのが2026年の勝ちパターンです。",
-          "text_content": "if塾の視点：\n「管理」はAI、「思考」は人間。",
+          "main_title": "if塾流：プロの活用視点",
+          "sub_title": "答えを写すのはNG。でも「解説読んでも分からない」時、\nGemini 3に『小学生にもわかるように例えて』と\n指示すると、理解の壁が一気に崩れます。\n24時間これがいけるのは、2026年の特権です。",
+          "text_content": "if塾流：プロの活用視点",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-04.png",
-          "image_file": "assets/img/posts/20260108_ai_column-04.png",
-          "overlay_text": "if塾の視点：\n「管理」はAI、「思考」は人間。",
-          "subtext": "面倒なスケジュール管理や教材探しはAIエージェントに丸投げでOK。空いた時間で、じっくり「考える」勉強をするのが2026年の勝ちパターンです。",
-          "alt": "内容3 - if塾の視点：\n「管理」はAI、「思考」"
+          "image_url": "assets/img/posts/20260108_ai_column-04.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-04.svg",
+          "overlay_text": "if塾流：プロの活用視点",
+          "subtext": "答えを写すのはNG。でも「解説読んでも分からない」時、\nGemini 3に『小学生にもわかるように例えて』と\n指示すると、理解の壁が一気に崩れます。\n24時間これがいけるのは、2026年の特権です。",
+          "alt": "内容3 - if塾流：プロの活用視点"
         },
         {
           "page_number": 5,
@@ -701,15 +703,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年1月、AIは「チャット」から「実行」へ。",
-          "sub_title": "最新トピック：自律型AIエージェントとは？",
-          "text_content": "2026年1月、AIは「チャット」から「実行」へ。",
+          "main_title": "Gemini 3、始動。\nAIの「推論」がヤバい",
+          "sub_title": "2026.01 最新ニュース速報",
+          "text_content": "Gemini 3、始動。\nAIの「推論」がヤバい",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-01.png",
-          "image_file": "assets/img/posts/20260108_ai_column-01.png",
-          "overlay_text": "2026年1月、AIは「チャット」から「実行」へ。",
-          "subtext": "最新トピック：自律型AIエージェントとは？",
-          "alt": "表紙 - 2026年1月、AIは「チャット」から「"
+          "image_url": "assets/img/posts/20260108_ai_column-01.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-01.svg",
+          "overlay_text": "Gemini 3、始動。\nAIの「推論」がヤバい",
+          "subtext": "2026.01 最新ニュース速報",
+          "alt": "表紙 - Gemini 3、始動。\nAIの「推論」"
         },
         {
           "page_number": 2,
@@ -717,15 +719,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「どう質問すればいい？」\nその悩み、もう古いです。",
-          "sub_title": "これまでのAIは、人間が細かく指示しないと動きませんでした。しかし、2026年のAIは「指示待ち」を卒業しています。",
-          "text_content": "「どう質問すればいい？」\nその悩み、もう古いです。",
+          "main_title": "またGoogleが進化しました",
+          "sub_title": "2026年1月、Gemini 3が登場。\n最大の特徴は「複雑な推論能力」。\n今まで苦手だった『論理的な思考』の精度が\n劇的に向上しています。これ、勉強に使えます。",
+          "text_content": "またGoogleが進化しました",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-02.png",
-          "image_file": "assets/img/posts/20260108_ai_column-02.png",
-          "overlay_text": "「どう質問すればいい？」\nその悩み、もう古いです。",
-          "subtext": "これまでのAIは、人間が細かく指示しないと動きませんでした。しかし、2026年のAIは「指示待ち」を卒業しています。",
-          "alt": "内容1 - 「どう質問すればいい？」\nその悩み、もう"
+          "image_url": "assets/img/posts/20260108_ai_column-02.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-02.svg",
+          "overlay_text": "またGoogleが進化しました",
+          "subtext": "2026年1月、Gemini 3が登場。\n最大の特徴は「複雑な推論能力」。\n今まで苦手だった『論理的な思考』の精度が\n劇的に向上しています。これ、勉強に使えます。",
+          "alt": "内容1 - またGoogleが進化しました"
         },
         {
           "page_number": 3,
@@ -733,15 +735,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "目標を渡すだけで、\nAIが勝手に動き出す。",
-          "sub_title": "話題の「Agentic AI（自律型AI）」が登場。\n例：「次の模試で数学+10点」と伝えると、弱点分析から週間計画の作成、教材選定まで自律的に実行・修正します。",
-          "text_content": "目標を渡すだけで、\nAIが勝手に動き出す。",
+          "main_title": "受験直前の「救世主」になる？",
+          "sub_title": "使い方は簡単、解けない過去問をカメラで映すだけ。\nGemini 3はただ答えを出すのではなく、\n「なぜその式になるか」の思考プロセスを\n先生のように順を追って解説してくれます。",
+          "text_content": "受験直前の「救世主」になる？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-03.png",
-          "image_file": "assets/img/posts/20260108_ai_column-03.png",
-          "overlay_text": "目標を渡すだけで、\nAIが勝手に動き出す。",
-          "subtext": "話題の「Agentic AI（自律型AI）」が登場。\n例：「次の模試で数学+10点」と伝えると、弱点分析から週間計画の作成、教材選定まで自律的に実行・修正します。",
-          "alt": "内容2 - 目標を渡すだけで、\nAIが勝手に動き出す"
+          "image_url": "assets/img/posts/20260108_ai_column-03.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-03.svg",
+          "overlay_text": "受験直前の「救世主」になる？",
+          "subtext": "使い方は簡単、解けない過去問をカメラで映すだけ。\nGemini 3はただ答えを出すのではなく、\n「なぜその式になるか」の思考プロセスを\n先生のように順を追って解説してくれます。",
+          "alt": "内容2 - 受験直前の「救世主」になる？"
         },
         {
           "page_number": 4,
@@ -749,15 +751,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：\n「管理」はAI、「思考」は人間。",
-          "sub_title": "面倒なスケジュール管理や教材探しはAIエージェントに丸投げでOK。空いた時間で、じっくり「考える」勉強をするのが2026年の勝ちパターンです。",
-          "text_content": "if塾の視点：\n「管理」はAI、「思考」は人間。",
+          "main_title": "if塾流：プロの活用視点",
+          "sub_title": "答えを写すのはNG。でも「解説読んでも分からない」時、\nGemini 3に『小学生にもわかるように例えて』と\n指示すると、理解の壁が一気に崩れます。\n24時間これがいけるのは、2026年の特権です。",
+          "text_content": "if塾流：プロの活用視点",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260108_ai_column-04.png",
-          "image_file": "assets/img/posts/20260108_ai_column-04.png",
-          "overlay_text": "if塾の視点：\n「管理」はAI、「思考」は人間。",
-          "subtext": "面倒なスケジュール管理や教材探しはAIエージェントに丸投げでOK。空いた時間で、じっくり「考える」勉強をするのが2026年の勝ちパターンです。",
-          "alt": "内容3 - if塾の視点：\n「管理」はAI、「思考」"
+          "image_url": "assets/img/posts/20260108_ai_column-04.svg",
+          "image_file": "assets/img/posts/20260108_ai_column-04.svg",
+          "overlay_text": "if塾流：プロの活用視点",
+          "subtext": "答えを写すのはNG。でも「解説読んでも分からない」時、\nGemini 3に『小学生にもわかるように例えて』と\n指示すると、理解の壁が一気に崩れます。\n24時間これがいけるのは、2026年の特権です。",
+          "alt": "内容3 - if塾流：プロの活用視点"
         },
         {
           "page_number": 5,
@@ -779,22 +781,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-01.png",
+          "src": "assets/img/posts/20260108_ai_column-01.svg",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-02.png",
+          "src": "assets/img/posts/20260108_ai_column-02.svg",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-03.png",
+          "src": "assets/img/posts/20260108_ai_column-03.svg",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260108_ai_column-04.png",
+          "src": "assets/img/posts/20260108_ai_column-04.svg",
           "alt": "シーン4"
         },
         {
@@ -820,7 +822,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-08T12:05:51",
+      "research_date": "2026-01-08T12:28:45",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -828,15 +830,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年1月、AIは「チャット」から「",
+        "cover_text": "Gemini 3、始動。\nAIの「推論」",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年1月、AIは「チャット」から「実行」へ。",
-            "subtext": "最新トピック：自律型AIエージェントとは？",
+            "headline": "Gemini 3、始動。\nAIの「推論」がヤバい",
+            "subtext": "2026.01 最新ニュース速報",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -844,8 +846,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「どう質問すればいい？」\nその悩み、もう古いです。",
-            "subtext": "これまでのAIは、人間が細かく指示しないと動きませんでした。しかし、2026年のAIは「指示待ち」を卒業しています。",
+            "headline": "またGoogleが進化しました",
+            "subtext": "2026年1月、Gemini 3が登場。\n最大の特徴は「複雑な推論能力」。\n今まで苦手だった『論理的な思考』の精度が\n劇的に向上しています。これ、勉強に使えます。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -853,8 +855,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "目標を渡すだけで、\nAIが勝手に動き出す。",
-            "subtext": "話題の「Agentic AI（自律型AI）」が登場。\n例：「次の模試で数学+10点」と伝えると、弱点分析から週間計画の作成、教材選定まで自律的に実行・修正します。",
+            "headline": "受験直前の「救世主」になる？",
+            "subtext": "使い方は簡単、解けない過去問をカメラで映すだけ。\nGemini 3はただ答えを出すのではなく、\n「なぜその式になるか」の思考プロセスを\n先生のように順を追って解説してくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -862,8 +864,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：\n「管理」はAI、「思考」は人間。",
-            "subtext": "面倒なスケジュール管理や教材探しはAIエージェントに丸投げでOK。空いた時間で、じっくり「考える」勉強をするのが2026年の勝ちパターンです。",
+            "headline": "if塾流：プロの活用視点",
+            "subtext": "答えを写すのはNG。でも「解説読んでも分からない」時、\nGemini 3に『小学生にもわかるように例えて』と\n指示すると、理解の壁が一気に崩れます。\n24時間これがいけるのは、2026年の特権です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
