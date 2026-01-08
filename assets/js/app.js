@@ -77,19 +77,42 @@
         fetch('data/highlights.json')
       ]);
 
-      // Check response status
+      // Check all response statuses
+      console.log('[if塾] Fetch results:', {
+        config: configRes.status,
+        posts: postsRes.status,
+        stories: storiesRes.status,
+        highlights: highlightsRes.status
+      });
+
+      if (!configRes.ok) {
+        console.warn('[if塾] Config fetch failed, using defaults');
+        state.config = {};
+      } else {
+        state.config = await configRes.json();
+      }
+
       if (!postsRes.ok) {
         throw new Error(`Posts fetch failed: ${postsRes.status} ${postsRes.statusText}`);
       }
-
-      state.config = await configRes.json();
       const postsData = await postsRes.json();
-      const storiesData = await storiesRes.json();
-      const highlightsData = await highlightsRes.json();
-
       state.posts = postsData.posts || [];
-      state.stories = storiesData.stories || [];
-      state.highlights = highlightsData.highlights || [];
+
+      if (!storiesRes.ok) {
+        console.warn('[if塾] Stories fetch failed, using empty array');
+        state.stories = [];
+      } else {
+        const storiesData = await storiesRes.json();
+        state.stories = storiesData.stories || [];
+      }
+
+      if (!highlightsRes.ok) {
+        console.warn('[if塾] Highlights fetch failed, using empty array');
+        state.highlights = [];
+      } else {
+        const highlightsData = await highlightsRes.json();
+        state.highlights = highlightsData.highlights || [];
+      }
 
       console.log(`[if塾] Loaded ${state.posts.length} posts, ${state.stories.length} stories, ${state.highlights.length} highlights`);
 
@@ -100,9 +123,16 @@
       state.filteredPosts = [...state.posts];
       state.hasMorePosts = state.filteredPosts.length > 0;
 
+      console.log('[if塾] State after load:', {
+        posts: state.posts.length,
+        filteredPosts: state.filteredPosts.length,
+        hasMorePosts: state.hasMorePosts
+      });
+
       return true;
     } catch (error) {
       console.error('[if塾] Failed to load data:', error);
+      console.error('[if塾] Error stack:', error.stack);
       return false;
     }
   }
@@ -937,6 +967,21 @@
     if (postCountEl) {
       console.log('[if塾] Post count element found, updating to:', state.posts.length);
     }
+
+    // DEBUG: Add visible debug info panel (remove in production)
+    const debugPanel = document.createElement('div');
+    debugPanel.id = 'debug-panel';
+    debugPanel.style.cssText = 'position:fixed;top:0;right:0;background:rgba(0,0,0,0.8);color:#0f0;padding:10px;font-size:12px;z-index:9999;max-width:300px;';
+    debugPanel.innerHTML = `
+      <strong>DEBUG INFO</strong><br>
+      Posts loaded: ${state.posts.length}<br>
+      Filtered: ${state.filteredPosts.length}<br>
+      Displayed: ${state.displayedPosts.length}<br>
+      HasMore: ${state.hasMorePosts}<br>
+      Grid: ${elements.postsGrid ? 'OK' : 'NULL'}<br>
+      Categories: ${state.categories.length}
+    `;
+    document.body.appendChild(debugPanel);
   }
 
   // ========================================
