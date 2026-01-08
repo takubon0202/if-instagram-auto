@@ -415,13 +415,13 @@ JSON形式で出力:
 
 class ImageGenerationAgent:
     """
-    画像生成エージェント v3.0
-    Gemini 3 Pro Image Preview で純粋なアニメイラストを生成
+    画像生成エージェント v4.0
+    Gemini 3 Pro Image Preview + テキストオーバーレイ
 
-    【Material vs Context 分離アプローチ】
-    - 画像: 純粋なアニメイラスト素材（テキスト・UI要素なし）
-    - テキスト: フロントエンドでオーバーレイ表示
-    - ロゴ: フロントエンドで重ねて表示
+    【統合アプローチ】
+    - 画像: Gemini APIでアニメイラストを生成
+    - テキスト: Pillowでオーバーレイを追加（添付画像のようなスタイル）
+    - 出力: テキスト付きの完成画像（1080x1350 / 4:5比率）
     """
 
     def __init__(self, client: GeminiClient):
@@ -435,6 +435,17 @@ class ImageGenerationAgent:
         self.concept_to_visual = CONCEPT_TO_VISUAL
         self.category_anime_styles = CATEGORY_ANIME_STYLES
         self.scene_templates = SCENE_MATERIAL_TEMPLATES
+
+        # テキストオーバーレイエンジンを初期化
+        try:
+            from .text_overlay import TextOverlayEngine
+            self.text_overlay_engine = TextOverlayEngine()
+            self.enable_text_overlay = True
+            print("      [TextOverlay] Engine initialized")
+        except ImportError as e:
+            print(f"      [TextOverlay] Not available: {e}")
+            self.text_overlay_engine = None
+            self.enable_text_overlay = False
 
     def generate_scene_image(
         self,
@@ -516,8 +527,29 @@ class ImageGenerationAgent:
                         output_path = self.output_dir / filename
                         output_path.parent.mkdir(parents=True, exist_ok=True)
 
+                        # まず基本画像を保存
                         image.save(str(output_path))
-                        print(f"      [OK] Scene {scene_id}: Pure anime illustration saved")
+                        print(f"      [OK] Scene {scene_id}: Base image saved")
+
+                        # テキストオーバーレイを追加
+                        if self.enable_text_overlay and self.text_overlay_engine:
+                            headline = scene.get('headline', '')
+                            subtext = scene.get('subtext', '')
+                            category_id = category.get('id', 'activity')
+
+                            if headline:  # テキストがある場合のみオーバーレイ
+                                try:
+                                    self.text_overlay_engine.create_instagram_post(
+                                        background_image_path=str(output_path),
+                                        headline=headline,
+                                        subtext=subtext,
+                                        output_path=str(output_path),
+                                        style=category_id
+                                    )
+                                    print(f"      [OK] Scene {scene_id}: Text overlay added")
+                                except Exception as overlay_error:
+                                    print(f"      [WARN] Text overlay failed: {overlay_error}")
+
                         return f"assets/img/posts/{filename}"
 
                 raise Exception("No image data in response")

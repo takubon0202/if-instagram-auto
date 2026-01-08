@@ -43,9 +43,44 @@ MODELS = {
 IMAGE_GENERATION_CONFIG = {
     "model": "gemini-3-pro-image-preview",
     "resolution": "1K",           # 1K解像度
-    "aspect_ratio": "4:5",        # 縦長投稿
+    "aspect_ratio": "4:5",        # Instagram縦長投稿
+    "canvas_width": 1080,         # 出力幅
+    "canvas_height": 1350,        # 出力高さ（4:5比率）
     "language": "ja",             # 日本語
     "default_style": "japanese_anime",  # デフォルトスタイル
+}
+
+# ============================================
+# テキストオーバーレイ設定
+# ============================================
+TEXT_OVERLAY_CONFIG = {
+    "enabled": True,              # テキストオーバーレイを有効化
+    "canvas_width": 1080,
+    "canvas_height": 1350,
+
+    # フォントサイズ
+    "title_font_size": 80,        # メインタイトル
+    "content_font_size": 60,      # サブテキスト
+    "subtext_font_size": 40,
+
+    # テキスト位置（キャンバス高さに対する割合）
+    "title_position_y": 0.12,     # 上から12%
+    "content_position_y": 0.85,   # 上から85%
+
+    # 縁取り設定
+    "outline_width": 4,           # 縁取り幅
+    "shadow_offset": 3,           # 影のオフセット
+
+    # カテゴリ別カラー（ピンク文字+黒縁取り）
+    "category_colors": {
+        "default": {"title": "#FF69B4", "sub": "#FF8C00", "outline": "#000000"},
+        "announcement": {"title": "#FF3131", "sub": "#FFFFFF", "outline": "#000000"},
+        "development": {"title": "#0CC0DF", "sub": "#FFFFFF", "outline": "#000000"},
+        "activity": {"title": "#00BF63", "sub": "#FFFFFF", "outline": "#000000"},
+        "education": {"title": "#FFDE59", "sub": "#212121", "outline": "#000000"},
+        "ai_column": {"title": "#CB6CE6", "sub": "#FFFFFF", "outline": "#000000"},
+        "business": {"title": "#FFD700", "sub": "#212121", "outline": "#000000"},
+    }
 }
 
 # ============================================
