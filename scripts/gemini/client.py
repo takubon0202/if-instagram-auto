@@ -415,19 +415,21 @@ JSON形式で出力:
 
 class ImageGenerationAgent:
     """
-    画像生成エージェント v4.0
-    Gemini 3 Pro Image Preview + テキストオーバーレイ
+    画像生成エージェント v5.0
+    Gemini 2.5 Flash Image / 3 Pro Image Preview + テキストオーバーレイ
 
-    【統合アプローチ】
-    - 画像: Gemini APIでアニメイラストを生成
-    - テキスト: Pillowでオーバーレイを追加（添付画像のようなスタイル）
+    【統合アプローチ v5.0】
+    - 画像: Gemini APIでImage-to-Image生成（キャラクター参照画像付き）
+    - スタイル: if塾オリジナルちびキャラスタイルを維持
+    - テキスト: Pillowでオーバーレイを追加（BIZ UD Gothic Bold）
     - 出力: テキスト付きの完成画像（1080x1350 / 4:5比率）
     """
 
     def __init__(self, client: GeminiClient):
         self.client = client
-        self.model = MODELS["image"]  # gemini-3-pro-image-preview
+        self.model = MODELS["image"]  # gemini-2.5-flash-image or gemini-3-pro-image-preview
         self.output_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "posts"
+        self.characters_dir = Path(__file__).parent.parent.parent / "assets" / "img" / "characters"
         self.max_retries = 3
         self.image_config = IMAGE_GENERATION_CONFIG
         self.style_presets = STYLE_PRESETS
@@ -436,26 +438,101 @@ class ImageGenerationAgent:
         self.category_anime_styles = CATEGORY_ANIME_STYLES
         self.scene_templates = SCENE_MATERIAL_TEMPLATES
 
+        # キャラクター参照画像をロード
+        self.character_images = self._load_character_images()
+
         # テキストオーバーレイエンジンを初期化
         try:
             from .text_overlay import TextOverlayEngine
             self.text_overlay_engine = TextOverlayEngine()
             self.enable_text_overlay = True
-            print("      [TextOverlay] Engine initialized")
+            print("      [TextOverlay] Engine initialized (v2.0 with BIZ UD Gothic)")
         except ImportError as e:
             print(f"      [TextOverlay] Not available: {e}")
             self.text_overlay_engine = None
             self.enable_text_overlay = False
+
+    def _load_character_images(self) -> dict:
+        """
+        if塾キャラクター参照画像をロード
+        Image-to-Image生成でスタイル維持に使用
+        """
+        try:
+            from PIL import Image as PILImage
+        except ImportError:
+            print("      [Characters] PIL not available")
+            return {}
+
+        characters = {}
+        character_files = {
+            "girl_happy": "girl_happy.png",
+            "girl_surprised": "girl_surprised.png",
+            "girl_excited": "girl_excited.png",
+            "boy_green_happy": "boy_green_happy.png",
+            "boy_green_thinking": "boy_green_thinking.png",
+            "boy_green_smile": "boy_green_smile.png",
+            "boy_black_energetic": "boy_black_energetic.png",
+            "child_sad": "child_sad.png",
+        }
+
+        for char_name, filename in character_files.items():
+            char_path = self.characters_dir / filename
+            if char_path.exists():
+                try:
+                    characters[char_name] = PILImage.open(str(char_path)).convert("RGBA")
+                    print(f"      [Characters] Loaded: {char_name}")
+                except Exception as e:
+                    print(f"      [Characters] Failed to load {char_name}: {e}")
+
+        return characters
+
+    def _select_character_for_scene(self, scene_id: int, category_id: str) -> str:
+        """
+        シーンとカテゴリに適したキャラクターを選択
+
+        Returns:
+            str: キャラクターキー（例: "girl_happy"）
+        """
+        # カテゴリ別のデフォルトキャラクター
+        category_characters = {
+            "announcement": ["girl_excited", "boy_green_happy"],
+            "development": ["boy_green_smile", "boy_green_thinking"],
+            "activity": ["girl_happy", "boy_black_energetic"],
+            "education": ["girl_surprised", "boy_green_thinking"],
+            "ai_column": ["boy_green_smile", "girl_happy"],
+            "business": ["boy_green_happy", "girl_excited"],
+        }
+
+        # シーン別の感情マッピング
+        scene_emotions = {
+            1: "excited",   # cover: 興味を引く
+            2: "thinking",  # content1: 課題提示
+            3: "happy",     # content2: 解決策
+            4: "smile",     # content3: アクション
+        }
+
+        chars = category_characters.get(category_id, ["girl_happy", "boy_green_happy"])
+        emotion = scene_emotions.get(scene_id, "happy")
+
+        # 感情に合ったキャラクターを優先
+        for char in chars:
+            if emotion in char:
+                return char
+
+        return chars[scene_id % len(chars)]
 
     def generate_scene_image(
         self,
         post_id: str,
         scene: dict,
         category: dict,
-        size: dict = None
+        size: dict = None,
+        use_reference_image: bool = True
     ) -> str:
         """
-        シーン用画像を生成（Gemini 3 Pro Image Preview）
+        シーン用画像を生成（Image-to-Image with Character References）
+
+        v5.0: キャラクター参照画像を使用したImage-to-Image生成
         純粋なアニメイラスト素材を生成（テキスト・UI要素なし）
 
         Args:
@@ -463,6 +540,7 @@ class ImageGenerationAgent:
             scene: シーン情報（headline, subtext含む）
             category: カテゴリ情報
             size: 画像サイズ（未使用、ImageConfigで制御）
+            use_reference_image: キャラクター参照画像を使用するか
 
         Returns:
             str: 生成された画像のパス
@@ -486,13 +564,14 @@ class ImageGenerationAgent:
         # シーン別素材テンプレートの取得
         scene_template = self.scene_templates.get(scene_id, self.scene_templates[1])
 
-        # 純粋なアニメイラスト用プロンプトを構築（英語）
-        prompt = self._build_material_prompt(
+        # Image-to-Image用プロンプトを構築（キャラクタースタイル維持）
+        prompt = self._build_image_to_image_prompt(
             visual_scene=visual_scene,
             style=style,
             anime_style=anime_style,
             scene_template=scene_template,
-            category=category
+            category=category,
+            scene_id=scene_id
         )
 
         # ネガティブプロンプトを構築
@@ -500,18 +579,47 @@ class ImageGenerationAgent:
 
         print(f"      [Prompt] {prompt[:100]}...")
 
+        # 参照キャラクター画像を選択
+        char_key = self._select_character_for_scene(scene_id, category_id)
+        reference_image = self.character_images.get(char_key) if use_reference_image else None
+
+        if reference_image:
+            print(f"      [Reference] Using character: {char_key}")
+
         # リトライロジック付きで画像生成
         last_error = None
         for attempt in range(self.max_retries):
             try:
-                # Gemini 3 Pro Image Preview API を使用
+                # コンテンツを構築（Image-to-Image）
+                if reference_image and use_reference_image:
+                    # Image-to-Image: 参照画像 + プロンプト
+                    contents = [
+                        f"""Create an illustration in the EXACT same chibi/cute anime art style as this reference character image.
+
+{prompt}
+
+IMPORTANT STYLE REQUIREMENTS:
+- Match the cute chibi proportions (big head, small body)
+- Match the thick black outline style
+- Match the simple, clean coloring style
+- Match the soft shading and highlights
+- Create a new scene with similar character design, NOT a copy
+
+Negative: {negative_prompt}""",
+                        reference_image
+                    ]
+                else:
+                    # Text-to-Image（参照画像なし）
+                    contents = f"{prompt}\n\nNegative: {negative_prompt}"
+
+                # Gemini API を使用
                 response = self.client.client.models.generate_content(
                     model=self.model,
-                    contents=f"{prompt}\n\nNegative: {negative_prompt}",
+                    contents=contents,
                     config=types.GenerateContentConfig(
+                        response_modalities=['IMAGE'],
                         image_config=types.ImageConfig(
                             aspect_ratio=self.image_config["aspect_ratio"],  # "4:5"
-                            image_size=self.image_config["resolution"]       # "1K"
                         )
                     )
                 )
@@ -527,15 +635,18 @@ class ImageGenerationAgent:
                         output_path = self.output_dir / filename
                         output_path.parent.mkdir(parents=True, exist_ok=True)
 
-                        # まず基本画像を保存
-                        image.save(str(output_path))
-                        print(f"      [OK] Scene {scene_id}: Base image saved")
+                        # 4:5にリサイズして保存（1080x1350）
+                        from PIL import Image as PILImage
+                        if image.size != (1080, 1350):
+                            image = self._resize_to_instagram(image)
+
+                        image.save(str(output_path), "PNG")
+                        print(f"      [OK] Scene {scene_id}: Base image saved ({image.size})")
 
                         # テキストオーバーレイを追加
                         if self.enable_text_overlay and self.text_overlay_engine:
                             headline = scene.get('headline', '')
                             subtext = scene.get('subtext', '')
-                            category_id = category.get('id', 'activity')
 
                             if headline:  # テキストがある場合のみオーバーレイ
                                 try:
@@ -562,6 +673,97 @@ class ImageGenerationAgent:
                     time.sleep(2)
 
         raise Exception(f"Image generation failed after {self.max_retries} attempts: {last_error}")
+
+    def _resize_to_instagram(self, img) -> 'PILImage':
+        """
+        画像をInstagram 4:5比率（1080x1350）にリサイズ
+
+        Args:
+            img: PIL Image
+
+        Returns:
+            PIL Image: リサイズ後の画像
+        """
+        from PIL import Image as PILImage
+
+        target_w, target_h = 1080, 1350
+        target_ratio = target_w / target_h
+
+        src_w, src_h = img.size
+        src_ratio = src_w / src_h
+
+        if abs(src_ratio - target_ratio) < 0.01:
+            # すでに正しい比率
+            return img.resize((target_w, target_h), PILImage.Resampling.LANCZOS)
+
+        # カバーモード: 短い辺を基準にスケール
+        if src_ratio > target_ratio:
+            # 横長の画像 → 高さ基準
+            new_h = target_h
+            new_w = int(src_w * (target_h / src_h))
+        else:
+            # 縦長の画像 → 幅基準
+            new_w = target_w
+            new_h = int(src_h * (target_w / src_w))
+
+        img = img.resize((new_w, new_h), PILImage.Resampling.LANCZOS)
+
+        # 中央でクロップ
+        left = (new_w - target_w) // 2
+        top = (new_h - target_h) // 2
+        img = img.crop((left, top, left + target_w, top + target_h))
+
+        return img
+
+    def _build_image_to_image_prompt(
+        self,
+        visual_scene: str,
+        style: dict,
+        anime_style: dict,
+        scene_template: dict,
+        category: dict,
+        scene_id: int
+    ) -> str:
+        """
+        Image-to-Image用のプロンプトを構築
+
+        キャラクタースタイルを維持しながら新しいシーンを生成
+        """
+        # スタイルプレフィックス
+        style_prefix = "Cute chibi anime style, thick black outlines, simple clean coloring"
+
+        # キャラクターと設定
+        character_mood = anime_style.get('character_mood', 'happy, engaged')
+        setting = anime_style.get('setting', 'modern classroom')
+        color_palette = anime_style.get('color_palette', 'vibrant colors')
+
+        # シーン構成
+        composition = scene_template.get('composition', 'centered character')
+
+        # カテゴリカラー
+        primary_color = category.get('colors', {}).get('primary', '#4A90A4')
+
+        prompt = f"""
+{style_prefix},
+
+Create a new illustration scene:
+- Scene: {visual_scene}
+- Character mood: {character_mood}
+- Setting: {setting} with {color_palette}
+- Composition: {composition}
+- Main accent color: {primary_color}
+
+Technical requirements:
+- Cute chibi proportions (large head, small body like the reference)
+- Thick black outlines around all elements
+- Simple, clean cell-shaded coloring
+- Soft highlights and minimal shading
+- No text, no UI elements, no borders
+- Leave clear space at top and bottom for text overlay
+- Vertical composition optimized for 4:5 aspect ratio
+- High quality illustration suitable for Instagram post
+"""
+        return prompt.strip()
 
     def _convert_concept_to_visual(self, scene: dict, category_id: str) -> str:
         """

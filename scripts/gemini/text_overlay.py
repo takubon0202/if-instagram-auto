@@ -1,13 +1,14 @@
 """
-Text Overlay Module v1.0
+Text Overlay Module v2.0
 if塾 Instagram画像にテキストを重ねる
 
 PIL/Pillowを使用して生成画像にテキストオーバーレイを追加
 - アウトライン効果（縁取り）
-- 日本語フォント対応
+- 日本語フォント対応（BIZ UD Gothic推奨）
 - Instagram 4:5比率（1080x1350）
 
 参考: getabako/InstagramGenerator のCanvas実装をPythonで再現
+v2.0: フォント改善、縁取り強化、文字化け対策
 """
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from pathlib import Path
@@ -21,18 +22,18 @@ try:
         "canvas_height": TEXT_OVERLAY_CONFIG.get("canvas_height", 1350),
         "aspect_ratio": "4:5",
         "font_path": None,
-        "title_font_size": TEXT_OVERLAY_CONFIG.get("title_font_size", 80),
-        "content_font_size": TEXT_OVERLAY_CONFIG.get("content_font_size", 60),
-        "subtext_font_size": TEXT_OVERLAY_CONFIG.get("subtext_font_size", 40),
-        "title_position_y": TEXT_OVERLAY_CONFIG.get("title_position_y", 0.12),
-        "content_position_y": TEXT_OVERLAY_CONFIG.get("content_position_y", 0.85),
+        "title_font_size": TEXT_OVERLAY_CONFIG.get("title_font_size", 72),
+        "content_font_size": TEXT_OVERLAY_CONFIG.get("content_font_size", 48),
+        "subtext_font_size": TEXT_OVERLAY_CONFIG.get("subtext_font_size", 36),
+        "title_position_y": TEXT_OVERLAY_CONFIG.get("title_position_y", 0.15),
+        "content_position_y": TEXT_OVERLAY_CONFIG.get("content_position_y", 0.82),
         "text_colors": {
             "primary": "#FF69B4",
             "secondary": "#FFFFFF",
             "outline": "#000000",
         },
-        "outline_width": TEXT_OVERLAY_CONFIG.get("outline_width", 4),
-        "shadow_offset": TEXT_OVERLAY_CONFIG.get("shadow_offset", 3),
+        "outline_width": TEXT_OVERLAY_CONFIG.get("outline_width", 6),
+        "shadow_offset": TEXT_OVERLAY_CONFIG.get("shadow_offset", 4),
         "category_colors": TEXT_OVERLAY_CONFIG.get("category_colors", {})
     }
 except ImportError:
@@ -42,42 +43,51 @@ except ImportError:
         "canvas_height": 1350,
         "aspect_ratio": "4:5",
 
-        # フォント設定
+        # フォント設定（1080x1350用に最適化）
         "font_path": None,  # システムフォントを使用
-        "title_font_size": 80,
-        "content_font_size": 60,
-        "subtext_font_size": 40,
+        "title_font_size": 72,      # タイトル: 72pt（推奨: 48-72pt）
+        "content_font_size": 48,    # コンテンツ: 48pt
+        "subtext_font_size": 36,    # サブテキスト: 36pt
 
         # テキスト位置（キャンバス高さに対する割合）
-        "title_position_y": 0.12,     # 上から12%
-        "content_position_y": 0.85,   # 上から85%（下部）
+        "title_position_y": 0.15,     # 上から15%（安全マージン考慮）
+        "content_position_y": 0.82,   # 上から82%（下部、CTAエリアを避ける）
 
         # カラー設定
         "text_colors": {
-            "primary": "#FF69B4",     # ピンク（添付画像と同様）
+            "primary": "#FF69B4",     # ピンク
             "secondary": "#FFFFFF",   # 白
             "outline": "#000000",     # 黒の縁取り
         },
 
-        # 縁取り設定
-        "outline_width": 4,
-        "shadow_offset": 3,
+        # 縁取り設定（強化）
+        "outline_width": 6,       # 縁取り幅を増加
+        "shadow_offset": 4,       # 影のオフセット
         "category_colors": {}
     }
 
-# 日本語フォントの候補パス
+# 日本語フォントの候補パス（優先順位順）
+# BIZ UD Gothic Bold を最優先（完全な日本語サポート、太字でインパクトあり）
 JAPANESE_FONT_PATHS = [
-    # Windows
-    "C:/Windows/Fonts/meiryo.ttc",
-    "C:/Windows/Fonts/msgothic.ttc",
-    "C:/Windows/Fonts/YuGothM.ttc",
+    # Windows - BIZ UD Gothic Bold（推奨）
+    "C:/Windows/Fonts/BIZ-UDGothicB.ttc",
     "C:/Windows/Fonts/BIZ-UDGothicR.ttc",
+    # Windows - Meiryo
+    "C:/Windows/Fonts/meiryob.ttc",    # Meiryo Bold
+    "C:/Windows/Fonts/meiryo.ttc",
+    # Windows - Yu Gothic
+    "C:/Windows/Fonts/YuGothB.ttc",    # Yu Gothic Bold
+    "C:/Windows/Fonts/YuGothM.ttc",
+    # Windows - MS Gothic
+    "C:/Windows/Fonts/msgothic.ttc",
     # macOS
     "/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc",
     "/System/Library/Fonts/Hiragino Sans GB.ttc",
+    "/Library/Fonts/Arial Unicode.ttf",
     # Linux
-    "/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf",
+    "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
     "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+    "/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf",
 ]
 
 
@@ -223,6 +233,44 @@ class TextOverlayEngine:
 
         return img
 
+    def _wrap_text(self, text: str, font: ImageFont.FreeTypeFont, max_width: int) -> list:
+        """
+        テキストを指定幅で自動改行
+
+        Args:
+            text: 入力テキスト
+            font: フォント
+            max_width: 最大幅（ピクセル）
+
+        Returns:
+            list: 改行されたテキスト行のリスト
+        """
+        # まず明示的な改行で分割
+        paragraphs = text.replace("\\n", "\n").split("\n")
+        lines = []
+
+        for paragraph in paragraphs:
+            if not paragraph.strip():
+                lines.append("")
+                continue
+
+            # 文字単位で改行（日本語対応）
+            current_line = ""
+            for char in paragraph:
+                test_line = current_line + char
+                bbox = font.getbbox(test_line)
+                if bbox[2] - bbox[0] <= max_width:
+                    current_line = test_line
+                else:
+                    if current_line:
+                        lines.append(current_line)
+                    current_line = char
+
+            if current_line:
+                lines.append(current_line)
+
+        return lines
+
     def _draw_outlined_text(
         self,
         draw: ImageDraw.Draw,
@@ -235,23 +283,33 @@ class TextOverlayEngine:
         canvas_height: int
     ):
         """
-        縁取り付きテキストを描画
+        縁取り付きテキストを描画（改善版）
 
         添付画像のスタイル:
         - ピンク/オレンジの文字
         - 黒の縁取り（ストローク）
         - 中央揃え
-        - 複数行対応
+        - 複数行対応（自動改行）
+
+        Pillow 8.0+ の stroke_width を使用（よりスムーズな縁取り）
         """
         font = self._get_font(font_size)
-        lines = text.replace("\\n", "\n").split("\n")
+
+        # テキストの最大幅（左右マージン確保: 各10%）
+        max_text_width = int(canvas_width * 0.80)
+
+        # 自動改行処理
+        lines = self._wrap_text(text, font, max_text_width)
 
         # 行の高さ
-        line_height = font_size * 1.3
+        line_height = int(font_size * 1.4)
 
         # Y位置を計算（複数行の場合は中央揃え）
         total_height = len(lines) * line_height
-        start_y = canvas_height * position_y - total_height / 2
+        start_y = int(canvas_height * position_y - total_height / 2)
+
+        outline_width = self.config["outline_width"]
+        shadow_offset = self.config["shadow_offset"]
 
         for i, line in enumerate(lines):
             if not line.strip():
@@ -263,31 +321,39 @@ class TextOverlayEngine:
             x = (canvas_width - text_width) // 2
             y = start_y + i * line_height
 
-            # 縁取りを描画（8方向 + 影）
-            outline_width = self.config["outline_width"]
-
-            # 影（オフセット）
-            shadow_offset = self.config["shadow_offset"]
+            # 影（オフセット）- 半透明の黒
             draw.text(
                 (x + shadow_offset, y + shadow_offset),
                 line,
                 font=font,
-                fill=(0, 0, 0, 180)  # 半透明の黒
+                fill=(0, 0, 0, 150)
             )
 
-            # 縁取り（8方向）
-            for dx in range(-outline_width, outline_width + 1):
-                for dy in range(-outline_width, outline_width + 1):
-                    if dx != 0 or dy != 0:
-                        draw.text(
-                            (x + dx, y + dy),
-                            line,
-                            font=font,
-                            fill=outline_color
-                        )
-
-            # メインテキスト
-            draw.text((x, y), line, font=font, fill=text_color)
+            # Pillow 8.0+ の stroke_width/stroke_fill を試行
+            try:
+                # 新しいAPIを使用（よりスムーズな縁取り）
+                draw.text(
+                    (x, y),
+                    line,
+                    font=font,
+                    fill=text_color,
+                    stroke_width=outline_width,
+                    stroke_fill=outline_color
+                )
+            except TypeError:
+                # 古いPillowバージョン用フォールバック
+                # 縁取り（8方向 + 中間方向）
+                for dx in range(-outline_width, outline_width + 1):
+                    for dy in range(-outline_width, outline_width + 1):
+                        if dx != 0 or dy != 0:
+                            draw.text(
+                                (x + dx, y + dy),
+                                line,
+                                font=font,
+                                fill=outline_color
+                            )
+                # メインテキスト
+                draw.text((x, y), line, font=font, fill=text_color)
 
     def create_instagram_post(
         self,
