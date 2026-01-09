@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 2,
-    "last_updated": "2026-01-09T13:27:37.861617",
+    "last_updated": "2026-01-09T20:26:18.498068",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260109_business",
       "post_id": "20260109_business",
-      "created_at": "2026-01-09T13:27:37",
+      "created_at": "2026-01-09T20:26:18",
       "datetime": "2026-01-09T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
+      "theme": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
       "target_audience": "Students & Parents",
-      "title": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-      "caption": "【2026年1月】最新のビジネス動向をお届けします。\n\n今、地方企業や自治体の間で「学生によるAI活用PR代行」が急増しているのをご存知ですか？\n\n2026年に入り、AI技術はさらに進化し、動画制作やSNS運用は「誰でもできる」から「AIをどう使いこなすか」のフェーズへ移行しました。\n\n就職活動を控える学生にとっても、この「AI×地域貢献」の実績は最強のガクチカ（学生時代に力を入れたこと）になります。\n\nif塾では、単なるスキル習得ではなく、社会に価値を提供する「稼ぎながら学ぶ」スタイルを推奨しています。\n\n冬休み明けの今こそ、新しい働き方に挑戦してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年1月】最新のビジネス動向をお届けします。\n\n今、地方企業や自治体の間で「学生によるAI活用PR代行」が急増しているのをご存知ですか？\n\n2026年に入り、AI技術はさらに進化し、動画制作やSNS運用は「誰でもできる」から「AIをどう使いこなすか」のフェーズへ移行しました。\n\n就職活動を控える学生にとっても、この「AI×地域貢献」の実績は最強のガクチカ（学生時代に力を入れたこと）になります。\n\nif塾では、単なるスキル習得ではなく、社会に価値を提供する「稼ぎながら学ぶ」スタイルを推奨しています。\n\n冬休み明けの今こそ、新しい働き方に挑戦してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+      "caption": "【2026年1月】最新の教育・ビジネス動向をお届けします。\n\n今、全国の自治体や商店街が「中高生の感性×生成AI」に注目しているのをご存知ですか？\n\nかつてのアルバイトの概念が崩れ、自分の住む街を世界に発信することで対価を得る10代が増えています。\n\n「Sora2」などの最新ツールを使えば、プロ顔負けの観光PR動画もスマホ一台で制作可能に。\n\nしかし、if塾が最も重要だと考えるのはツールの習熟度ではありません。\n「なぜその場所が好きなのか？」という、AIには語れない人間ならではの視点です。\n\n冬休み明け、新しい挑戦を始めたい学生や、お子様の創造性を伸ばしたい保護者の皆様。2026年はAIを『使いこなす側』に回りませんか？\n\n詳細はプロフィール欄のリンクから。 #if塾",
+      "caption_text": "【2026年1月】最新の教育・ビジネス動向をお届けします。\n\n今、全国の自治体や商店街が「中高生の感性×生成AI」に注目しているのをご存知ですか？\n\nかつてのアルバイトの概念が崩れ、自分の住む街を世界に発信することで対価を得る10代が増えています。\n\n「Sora2」などの最新ツールを使えば、プロ顔負けの観光PR動画もスマホ一台で制作可能に。\n\nしかし、if塾が最も重要だと考えるのはツールの習熟度ではありません。\n「なぜその場所が好きなのか？」という、AIには語れない人間ならではの視点です。\n\n冬休み明け、新しい挑戦を始めたい学生や、お子様の創造性を伸ばしたい保護者の皆様。2026年はAIを『使いこなす側』に回りませんか？\n\n詳細はプロフィール欄のリンクから。 #if塾",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#ガクチカ",
-        "#地方創生",
-        "#SNS運用代行",
-        "#学生起業",
-        "#最新テック"
+        "#中高生副業",
+        "#地域創生",
+        "#Sora2",
+        "#GPT5",
+        "#リスキリング"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-          "sub_title": "【2026年1月最新】地方を救う新ビジネス",
-          "text_content": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
+          "main_title": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+          "sub_title": "2026年1月最新：冬休みに広がる新しい副業の形",
+          "text_content": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-01.png",
           "image_file": "assets/img/posts/20260109_business-01.png",
-          "overlay_text": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-          "subtext": "【2026年1月最新】地方を救う新ビジネス",
-          "alt": "表紙 - 月収30万超えの学生が続出！生成AI×地"
+          "overlay_text": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+          "subtext": "2026年1月最新：冬休みに広がる新しい副業の形",
+          "alt": "表紙 - 中高生が月3万稼ぐ！生成AI×地域PRの"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "地方は人手不足…でもSNS発信は必須",
-          "sub_title": "「魅力はあるのに発信できない」自治体や企業の悩みが、学生のスキルと生成AIで解決できる時代になりました。",
-          "text_content": "地方は人手不足…でもSNS発信は必須",
+          "main_title": "「お小遣い不足」をAIで解決する時代へ",
+          "sub_title": "2026年、バイト禁止の校則下でも、自宅から地域の魅力を多言語で発信する「AIクリエイター」の中高生が急増しています。",
+          "text_content": "「お小遣い不足」をAIで解決する時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-02.png",
           "image_file": "assets/img/posts/20260109_business-02.png",
-          "overlay_text": "地方は人手不足…でもSNS発信は必須",
-          "subtext": "「魅力はあるのに発信できない」自治体や企業の悩みが、学生のスキルと生成AIで解決できる時代になりました。",
-          "alt": "内容1 - 地方は人手不足…でもSNS発信は必須"
+          "overlay_text": "「お小遣い不足」をAIで解決する時代へ",
+          "subtext": "2026年、バイト禁止の校則下でも、自宅から地域の魅力を多言語で発信する「AIクリエイター」の中高生が急増しています。",
+          "alt": "内容1 - 「お小遣い不足」をAIで解決する時代へ"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
-          "sub_title": "2026年の主流はAIによる自動Vlog制作。現地の写真を数枚送るだけで、プロ級の観光PR動画が数分で完成します。",
-          "text_content": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
+          "main_title": "Sora2とGPT-5を駆使した観光PR制作",
+          "sub_title": "最新の動画生成AI「Sora2」で地元風景をシネマティックに加工。GPT-5ベースの地域特化エージェントが、インバウンド向けの正確な案内文を秒速で生成します。",
+          "text_content": "Sora2とGPT-5を駆使した観光PR制作",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-03.png",
           "image_file": "assets/img/posts/20260109_business-03.png",
-          "overlay_text": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
-          "subtext": "2026年の主流はAIによる自動Vlog制作。現地の写真を数枚送るだけで、プロ級の観光PR動画が数分で完成します。",
-          "alt": "内容2 - マルチモーダルAI「GPT-5.0」と動"
+          "overlay_text": "Sora2とGPT-5を駆使した観光PR制作",
+          "subtext": "最新の動画生成AI「Sora2」で地元風景をシネマティックに加工。GPT-5ベースの地域特化エージェントが、インバウンド向けの正確な案内文を秒速で生成します。",
+          "alt": "内容2 - Sora2とGPT-5を駆使した観光PR"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「AIを使いこなす人間」が最も価値を持つ",
-          "sub_title": "ただ作るだけではなく、地域の想いをAIに正しく伝える「ディレクション能力」こそがif塾が提唱する一生モノの武器です。",
-          "text_content": "「AIを使いこなす人間」が最も価値を持つ",
+          "main_title": "「技術」より「愛」が稼げる時代",
+          "sub_title": "if塾が提言：AIは誰でも使えます。差がつくのは『地元の魅力を誰よりも知っている』という当事者意識。2026年はスキルより視点の時代です。",
+          "text_content": "「技術」より「愛」が稼げる時代",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-04.png",
           "image_file": "assets/img/posts/20260109_business-04.png",
-          "overlay_text": "「AIを使いこなす人間」が最も価値を持つ",
-          "subtext": "ただ作るだけではなく、地域の想いをAIに正しく伝える「ディレクション能力」こそがif塾が提唱する一生モノの武器です。",
-          "alt": "内容3 - 「AIを使いこなす人間」が最も価値を持つ"
+          "overlay_text": "「技術」より「愛」が稼げる時代",
+          "subtext": "if塾が提言：AIは誰でも使えます。差がつくのは『地元の魅力を誰よりも知っている』という当事者意識。2026年はスキルより視点の時代です。",
+          "alt": "内容3 - 「技術」より「愛」が稼げる時代"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-          "sub_title": "【2026年1月最新】地方を救う新ビジネス",
-          "text_content": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
+          "main_title": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+          "sub_title": "2026年1月最新：冬休みに広がる新しい副業の形",
+          "text_content": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-01.png",
           "image_file": "assets/img/posts/20260109_business-01.png",
-          "overlay_text": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-          "subtext": "【2026年1月最新】地方を救う新ビジネス",
-          "alt": "表紙 - 月収30万超えの学生が続出！生成AI×地"
+          "overlay_text": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+          "subtext": "2026年1月最新：冬休みに広がる新しい副業の形",
+          "alt": "表紙 - 中高生が月3万稼ぐ！生成AI×地域PRの"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "地方は人手不足…でもSNS発信は必須",
-          "sub_title": "「魅力はあるのに発信できない」自治体や企業の悩みが、学生のスキルと生成AIで解決できる時代になりました。",
-          "text_content": "地方は人手不足…でもSNS発信は必須",
+          "main_title": "「お小遣い不足」をAIで解決する時代へ",
+          "sub_title": "2026年、バイト禁止の校則下でも、自宅から地域の魅力を多言語で発信する「AIクリエイター」の中高生が急増しています。",
+          "text_content": "「お小遣い不足」をAIで解決する時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-02.png",
           "image_file": "assets/img/posts/20260109_business-02.png",
-          "overlay_text": "地方は人手不足…でもSNS発信は必須",
-          "subtext": "「魅力はあるのに発信できない」自治体や企業の悩みが、学生のスキルと生成AIで解決できる時代になりました。",
-          "alt": "内容1 - 地方は人手不足…でもSNS発信は必須"
+          "overlay_text": "「お小遣い不足」をAIで解決する時代へ",
+          "subtext": "2026年、バイト禁止の校則下でも、自宅から地域の魅力を多言語で発信する「AIクリエイター」の中高生が急増しています。",
+          "alt": "内容1 - 「お小遣い不足」をAIで解決する時代へ"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
-          "sub_title": "2026年の主流はAIによる自動Vlog制作。現地の写真を数枚送るだけで、プロ級の観光PR動画が数分で完成します。",
-          "text_content": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
+          "main_title": "Sora2とGPT-5を駆使した観光PR制作",
+          "sub_title": "最新の動画生成AI「Sora2」で地元風景をシネマティックに加工。GPT-5ベースの地域特化エージェントが、インバウンド向けの正確な案内文を秒速で生成します。",
+          "text_content": "Sora2とGPT-5を駆使した観光PR制作",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-03.png",
           "image_file": "assets/img/posts/20260109_business-03.png",
-          "overlay_text": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
-          "subtext": "2026年の主流はAIによる自動Vlog制作。現地の写真を数枚送るだけで、プロ級の観光PR動画が数分で完成します。",
-          "alt": "内容2 - マルチモーダルAI「GPT-5.0」と動"
+          "overlay_text": "Sora2とGPT-5を駆使した観光PR制作",
+          "subtext": "最新の動画生成AI「Sora2」で地元風景をシネマティックに加工。GPT-5ベースの地域特化エージェントが、インバウンド向けの正確な案内文を秒速で生成します。",
+          "alt": "内容2 - Sora2とGPT-5を駆使した観光PR"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「AIを使いこなす人間」が最も価値を持つ",
-          "sub_title": "ただ作るだけではなく、地域の想いをAIに正しく伝える「ディレクション能力」こそがif塾が提唱する一生モノの武器です。",
-          "text_content": "「AIを使いこなす人間」が最も価値を持つ",
+          "main_title": "「技術」より「愛」が稼げる時代",
+          "sub_title": "if塾が提言：AIは誰でも使えます。差がつくのは『地元の魅力を誰よりも知っている』という当事者意識。2026年はスキルより視点の時代です。",
+          "text_content": "「技術」より「愛」が稼げる時代",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260109_business-04.png",
           "image_file": "assets/img/posts/20260109_business-04.png",
-          "overlay_text": "「AIを使いこなす人間」が最も価値を持つ",
-          "subtext": "ただ作るだけではなく、地域の想いをAIに正しく伝える「ディレクション能力」こそがif塾が提唱する一生モノの武器です。",
-          "alt": "内容3 - 「AIを使いこなす人間」が最も価値を持つ"
+          "overlay_text": "「技術」より「愛」が稼げる時代",
+          "subtext": "if塾が提言：AIは誰でも使えます。差がつくのは『地元の魅力を誰よりも知っている』という当事者意識。2026年はスキルより視点の時代です。",
+          "alt": "内容3 - 「技術」より「愛」が稼げる時代"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-09T13:26:23",
+      "research_date": "2026-01-09T20:25:05",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "月収30万超えの学生が続出！生成AI×地",
+        "cover_text": "中高生が月3万稼ぐ！生成AI×地域PRの",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "月収30万超えの学生が続出！生成AI×地域PR代行が2026年の新常識",
-            "subtext": "【2026年1月最新】地方を救う新ビジネス",
+            "headline": "中高生が月3万稼ぐ！生成AI×地域PRの裏側",
+            "subtext": "2026年1月最新：冬休みに広がる新しい副業の形",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "地方は人手不足…でもSNS発信は必須",
-            "subtext": "「魅力はあるのに発信できない」自治体や企業の悩みが、学生のスキルと生成AIで解決できる時代になりました。",
+            "headline": "「お小遣い不足」をAIで解決する時代へ",
+            "subtext": "2026年、バイト禁止の校則下でも、自宅から地域の魅力を多言語で発信する「AIクリエイター」の中高生が急増しています。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAI「GPT-5.0」と動画生成AIの活用",
-            "subtext": "2026年の主流はAIによる自動Vlog制作。現地の写真を数枚送るだけで、プロ級の観光PR動画が数分で完成します。",
+            "headline": "Sora2とGPT-5を駆使した観光PR制作",
+            "subtext": "最新の動画生成AI「Sora2」で地元風景をシネマティックに加工。GPT-5ベースの地域特化エージェントが、インバウンド向けの正確な案内文を秒速で生成します。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「AIを使いこなす人間」が最も価値を持つ",
-            "subtext": "ただ作るだけではなく、地域の想いをAIに正しく伝える「ディレクション能力」こそがif塾が提唱する一生モノの武器です。",
+            "headline": "「技術」より「愛」が稼げる時代",
+            "subtext": "if塾が提言：AIは誰でも使えます。差がつくのは『地元の魅力を誰よりも知っている』という当事者意識。2026年はスキルより視点の時代です。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
