@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 3,
-    "last_updated": "2026-01-10T13:10:48.111448",
+    "last_updated": "2026-01-10T20:23:27.396097",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260110_activity",
       "post_id": "20260110_activity",
-      "created_at": "2026-01-10T13:10:48",
+      "created_at": "2026-01-10T20:23:27",
       "datetime": "2026-01-10T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
+      "theme": "AIを『筆』に変える。2026年最新の共創授業レポート",
       "target_audience": "Students & Parents",
-      "title": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-      "caption": "【2026年1月】最新の学びのカタチをお届けします！\n\n「マイクラで作ったお城、実際に触れたらいいのに…」\nそんな生徒の一言から始まった、if塾の新春特別ワークショップ。\n\n2026年現在、生成AIと3Dプリンタの連携は驚異的なスピードに進化しました。\n複雑な建築データの最適化をAIが瞬時に行い、次世代高速プリンタが授業時間内に現実化します。\n\n「自分の頭の中にしかなかったものが、今ここにある！」\n目を輝かせて作品を手に取る生徒たちの姿は、まさにデジタルネイティブ世代の象徴です。\n\nif塾では、AIを単なる効率化ツールではなく、\n子供たちの「創造の翼」を広げるパートナーとして活用しています。\n\n冬休み明けの今、新しい時代の学びに触れてみませんか？\n詳細はプロフィール欄のリンクからチェックしてください！",
-      "caption_text": "【2026年1月】最新の学びのカタチをお届けします！\n\n「マイクラで作ったお城、実際に触れたらいいのに…」\nそんな生徒の一言から始まった、if塾の新春特別ワークショップ。\n\n2026年現在、生成AIと3Dプリンタの連携は驚異的なスピードに進化しました。\n複雑な建築データの最適化をAIが瞬時に行い、次世代高速プリンタが授業時間内に現実化します。\n\n「自分の頭の中にしかなかったものが、今ここにある！」\n目を輝かせて作品を手に取る生徒たちの姿は、まさにデジタルネイティブ世代の象徴です。\n\nif塾では、AIを単なる効率化ツールではなく、\n子供たちの「創造の翼」を広げるパートナーとして活用しています。\n\n冬休み明けの今、新しい時代の学びに触れてみませんか？\n詳細はプロフィール欄のリンクからチェックしてください！",
+      "title": "AIを『筆』に変える。2026年最新の共創授業レポート",
+      "caption": "【2026年1月】最新のAI共創学習レポート✨\n\nあけましておめでとうございます！if塾です。\n2026年最初の授業は、進化した生成AIを『究極の道具』として使いこなすクリエイティブ・ワークショップを開催しました。\n\n今やAIは「作ってもらうもの」から「一緒に作るもの」へ。\n生徒たちはChatGPTやGeminiを駆使し、自分の頭の中にあるイメージを4コマ漫画やポスターとして具現化しています。\n\n「AIを使えば誰でも作れる」と言われる時代だからこそ、重要になるのは『何を伝えたいか』という人間独自の意志です。\n\n2026年も、if塾は最先端のテクノロジーと個人の感性を掛け合わせる力を育んでいきます！\n\n#if塾 #2026年 #生成AI #ChatGPT #Gemini #共創学習 #4コマ漫画 #デジタル創作 #教育アップデート #最新教育",
+      "caption_text": "【2026年1月】最新のAI共創学習レポート✨\n\nあけましておめでとうございます！if塾です。\n2026年最初の授業は、進化した生成AIを『究極の道具』として使いこなすクリエイティブ・ワークショップを開催しました。\n\n今やAIは「作ってもらうもの」から「一緒に作るもの」へ。\n生徒たちはChatGPTやGeminiを駆使し、自分の頭の中にあるイメージを4コマ漫画やポスターとして具現化しています。\n\n「AIを使えば誰でも作れる」と言われる時代だからこそ、重要になるのは『何を伝えたいか』という人間独自の意志です。\n\n2026年も、if塾は最先端のテクノロジーと個人の感性を掛け合わせる力を育んでいきます！\n\n#if塾 #2026年 #生成AI #ChatGPT #Gemini #共創学習 #4コマ漫画 #デジタル創作 #教育アップデート #最新教育",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#3Dプリンター",
-        "#マイクラ教育",
-        "#マインクラフト",
-        "#STEAM教育",
-        "#デジタルツイン",
-        "#最新教育情報"
+        "#ChatGPT",
+        "#Gemini",
+        "#デジタルクリエイティブ",
+        "#活動報告",
+        "#探究学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-          "sub_title": "2026年1月最新：仮想と現実をつなぐ創造体験",
-          "text_content": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
+          "main_title": "AIを『筆』に変える。2026年最新の共創授業レポート",
+          "sub_title": "2026.01.10 | if塾 活動報告",
+          "text_content": "AIを『筆』に変える。2026年最新の共創授業レポート",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-01.png",
           "image_file": "assets/img/posts/20260110_activity-01.png",
-          "overlay_text": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-          "subtext": "2026年1月最新：仮想と現実をつなぐ創造体験",
-          "alt": "表紙 - マイクラの城を3Dプリント！生成AIで変"
+          "overlay_text": "AIを『筆』に変える。2026年最新の共創授業レポート",
+          "subtext": "2026.01.10 | if塾 活動報告",
+          "alt": "表紙 - AIを『筆』に変える。2026年最新の共"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
-          "sub_title": "マイクラで力作を作っても、データだけで消えてしまう。そんな物足りなさを感じる2026年の学びの現場。",
-          "text_content": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
+          "main_title": "「AIに任せる」から「AIを使いこなす」へ",
+          "sub_title": "冬休み明け、生徒たちはただ生成するのではなく、自分の意図をAIに反映させる『対話力』の壁に直面していました。",
+          "text_content": "「AIに任せる」から「AIを使いこなす」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-02.png",
           "image_file": "assets/img/posts/20260110_activity-02.png",
-          "overlay_text": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
-          "subtext": "マイクラで力作を作っても、データだけで消えてしまう。そんな物足りなさを感じる2026年の学びの現場。",
-          "alt": "内容1 - 「画面の中だけで終わらせたくない」子供た"
+          "overlay_text": "「AIに任せる」から「AIを使いこなす」へ",
+          "subtext": "冬休み明け、生徒たちはただ生成するのではなく、自分の意図をAIに反映させる『対話力』の壁に直面していました。",
+          "alt": "内容1 - 「AIに任せる」から「AIを使いこなす」"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
-          "sub_title": "2026年最新のAI指示で構造を最適化。マイクラの世界を、その場で手に取れるフィギュアとして出力しました。",
-          "text_content": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
+          "main_title": "ChatGPT×Geminiで4コマ漫画を共同制作",
+          "sub_title": "最新のマルチモーダル機能を活用。キャラの固定や構図指定も、プロンプト一つで自由自在に操る中高生の姿に驚きです。",
+          "text_content": "ChatGPT×Geminiで4コマ漫画を共同制作",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-03.png",
           "image_file": "assets/img/posts/20260110_activity-03.png",
-          "overlay_text": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
-          "subtext": "2026年最新のAI指示で構造を最適化。マイクラの世界を、その場で手に取れるフィギュアとして出力しました。",
-          "alt": "内容2 - マルチモーダルAI×高速3Dプリンタが生"
+          "overlay_text": "ChatGPT×Geminiで4コマ漫画を共同制作",
+          "subtext": "最新のマルチモーダル機能を活用。キャラの固定や構図指定も、プロンプト一つで自由自在に操る中高生の姿に驚きです。",
+          "alt": "内容2 - ChatGPT×Geminiで4コマ漫画"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
-          "sub_title": "面倒なデータ変換はAIに任せ、生徒は「どうすれば面白い街になるか」の概念設計に全力を注げる時代です。",
-          "text_content": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
+          "main_title": "「道具」として扱うことが、真の個性を引き出す",
+          "sub_title": "if塾ではAIを魔法の杖ではなく、高度な文房具として定義。技術が進歩した2026年だからこそ、人間の『感性』が価値を持ちます。",
+          "text_content": "「道具」として扱うことが、真の個性を引き出す",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-04.png",
           "image_file": "assets/img/posts/20260110_activity-04.png",
-          "overlay_text": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
-          "subtext": "面倒なデータ変換はAIに任せ、生徒は「どうすれば面白い街になるか」の概念設計に全力を注げる時代です。",
-          "alt": "内容3 - 指導者の視点：AIは『作業』を代行し、子"
+          "overlay_text": "「道具」として扱うことが、真の個性を引き出す",
+          "subtext": "if塾ではAIを魔法の杖ではなく、高度な文房具として定義。技術が進歩した2026年だからこそ、人間の『感性』が価値を持ちます。",
+          "alt": "内容3 - 「道具」として扱うことが、真の個性を引き"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-          "sub_title": "2026年1月最新：仮想と現実をつなぐ創造体験",
-          "text_content": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
+          "main_title": "AIを『筆』に変える。2026年最新の共創授業レポート",
+          "sub_title": "2026.01.10 | if塾 活動報告",
+          "text_content": "AIを『筆』に変える。2026年最新の共創授業レポート",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-01.png",
           "image_file": "assets/img/posts/20260110_activity-01.png",
-          "overlay_text": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-          "subtext": "2026年1月最新：仮想と現実をつなぐ創造体験",
-          "alt": "表紙 - マイクラの城を3Dプリント！生成AIで変"
+          "overlay_text": "AIを『筆』に変える。2026年最新の共創授業レポート",
+          "subtext": "2026.01.10 | if塾 活動報告",
+          "alt": "表紙 - AIを『筆』に変える。2026年最新の共"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
-          "sub_title": "マイクラで力作を作っても、データだけで消えてしまう。そんな物足りなさを感じる2026年の学びの現場。",
-          "text_content": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
+          "main_title": "「AIに任せる」から「AIを使いこなす」へ",
+          "sub_title": "冬休み明け、生徒たちはただ生成するのではなく、自分の意図をAIに反映させる『対話力』の壁に直面していました。",
+          "text_content": "「AIに任せる」から「AIを使いこなす」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-02.png",
           "image_file": "assets/img/posts/20260110_activity-02.png",
-          "overlay_text": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
-          "subtext": "マイクラで力作を作っても、データだけで消えてしまう。そんな物足りなさを感じる2026年の学びの現場。",
-          "alt": "内容1 - 「画面の中だけで終わらせたくない」子供た"
+          "overlay_text": "「AIに任せる」から「AIを使いこなす」へ",
+          "subtext": "冬休み明け、生徒たちはただ生成するのではなく、自分の意図をAIに反映させる『対話力』の壁に直面していました。",
+          "alt": "内容1 - 「AIに任せる」から「AIを使いこなす」"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
-          "sub_title": "2026年最新のAI指示で構造を最適化。マイクラの世界を、その場で手に取れるフィギュアとして出力しました。",
-          "text_content": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
+          "main_title": "ChatGPT×Geminiで4コマ漫画を共同制作",
+          "sub_title": "最新のマルチモーダル機能を活用。キャラの固定や構図指定も、プロンプト一つで自由自在に操る中高生の姿に驚きです。",
+          "text_content": "ChatGPT×Geminiで4コマ漫画を共同制作",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-03.png",
           "image_file": "assets/img/posts/20260110_activity-03.png",
-          "overlay_text": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
-          "subtext": "2026年最新のAI指示で構造を最適化。マイクラの世界を、その場で手に取れるフィギュアとして出力しました。",
-          "alt": "内容2 - マルチモーダルAI×高速3Dプリンタが生"
+          "overlay_text": "ChatGPT×Geminiで4コマ漫画を共同制作",
+          "subtext": "最新のマルチモーダル機能を活用。キャラの固定や構図指定も、プロンプト一つで自由自在に操る中高生の姿に驚きです。",
+          "alt": "内容2 - ChatGPT×Geminiで4コマ漫画"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
-          "sub_title": "面倒なデータ変換はAIに任せ、生徒は「どうすれば面白い街になるか」の概念設計に全力を注げる時代です。",
-          "text_content": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
+          "main_title": "「道具」として扱うことが、真の個性を引き出す",
+          "sub_title": "if塾ではAIを魔法の杖ではなく、高度な文房具として定義。技術が進歩した2026年だからこそ、人間の『感性』が価値を持ちます。",
+          "text_content": "「道具」として扱うことが、真の個性を引き出す",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260110_activity-04.png",
           "image_file": "assets/img/posts/20260110_activity-04.png",
-          "overlay_text": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
-          "subtext": "面倒なデータ変換はAIに任せ、生徒は「どうすれば面白い街になるか」の概念設計に全力を注げる時代です。",
-          "alt": "内容3 - 指導者の視点：AIは『作業』を代行し、子"
+          "overlay_text": "「道具」として扱うことが、真の個性を引き出す",
+          "subtext": "if塾ではAIを魔法の杖ではなく、高度な文房具として定義。技術が進歩した2026年だからこそ、人間の『感性』が価値を持ちます。",
+          "alt": "内容3 - 「道具」として扱うことが、真の個性を引き"
         },
         {
           "page_number": 5,
@@ -230,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "ロボット"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "kagaya_yuma",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-10T13:09:28",
+      "research_date": "2026-01-10T20:22:09",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "マイクラの城を3Dプリント！生成AIで変",
+        "cover_text": "AIを『筆』に変える。2026年最新の共",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "マイクラの城を3Dプリント！生成AIで変わる2026年の冬期講習",
-            "subtext": "2026年1月最新：仮想と現実をつなぐ創造体験",
+            "headline": "AIを『筆』に変える。2026年最新の共創授業レポート",
+            "subtext": "2026.01.10 | if塾 活動報告",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「画面の中だけで終わらせたくない」子供たちの創造性への悩み",
-            "subtext": "マイクラで力作を作っても、データだけで消えてしまう。そんな物足りなさを感じる2026年の学びの現場。",
+            "headline": "「AIに任せる」から「AIを使いこなす」へ",
+            "subtext": "冬休み明け、生徒たちはただ生成するのではなく、自分の意図をAIに反映させる『対話力』の壁に直面していました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAI×高速3Dプリンタが生む、数分後の「現実」",
-            "subtext": "2026年最新のAI指示で構造を最適化。マイクラの世界を、その場で手に取れるフィギュアとして出力しました。",
+            "headline": "ChatGPT×Geminiで4コマ漫画を共同制作",
+            "subtext": "最新のマルチモーダル機能を活用。キャラの固定や構図指定も、プロンプト一つで自由自在に操る中高生の姿に驚きです。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者の視点：AIは『作業』を代行し、子供は『構想』に熱中する",
-            "subtext": "面倒なデータ変換はAIに任せ、生徒は「どうすれば面白い街になるか」の概念設計に全力を注げる時代です。",
+            "headline": "「道具」として扱うことが、真の個性を引き出す",
+            "subtext": "if塾ではAIを魔法の杖ではなく、高度な文房具として定義。技術が進歩した2026年だからこそ、人間の『感性』が価値を持ちます。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
