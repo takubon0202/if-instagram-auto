@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 2,
-    "last_updated": "2026-01-09T20:26:18.498068",
+    "total_posts": 3,
+    "last_updated": "2026-01-10T10:42:02.067321",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260110_activity",
+      "post_id": "20260110_activity",
+      "created_at": "2026-01-10T10:42:02",
+      "datetime": "2026-01-10T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+      "target_audience": "Students & Parents",
+      "title": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+      "caption": "【2026年1月】最新の活動報告をお届けします！\n\nあけましておめでとうございます。if塾です！\n2026年がスタートし、教室ではさらに進化した「AI共創型プログラミング」が主流となっています。\n\nかつては1ヶ月かかっていたアプリ開発も、今の生徒たちはAIを相棒にすることで、わずか数日で形にしてしまいます。しかし、私たちが教えているのは「楽をする方法」ではありません。\n\nAIに何をさせたいか？\nどんな人を笑顔にしたいか？\n\nその「思考の源」を育てること。2026年の学びは、技術習得の先にある「創造性の解放」へとシフトしています。\n\n冬休み明け、ひと回り成長した子どもたちの目には、AIと共に創る明るい未来が映っています！\n\n最新の授業風景や体験会については、プロフィール欄のリンクをチェックしてくださいね！",
+      "caption_text": "【2026年1月】最新の活動報告をお届けします！\n\nあけましておめでとうございます。if塾です！\n2026年がスタートし、教室ではさらに進化した「AI共創型プログラミング」が主流となっています。\n\nかつては1ヶ月かかっていたアプリ開発も、今の生徒たちはAIを相棒にすることで、わずか数日で形にしてしまいます。しかし、私たちが教えているのは「楽をする方法」ではありません。\n\nAIに何をさせたいか？\nどんな人を笑顔にしたいか？\n\nその「思考の源」を育てること。2026年の学びは、技術習得の先にある「創造性の解放」へとシフトしています。\n\n冬休み明け、ひと回り成長した子どもたちの目には、AIと共に創る明るい未来が映っています！\n\n最新の授業風景や体験会については、プロフィール欄のリンクをチェックしてくださいね！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#プログラミング教育",
+        "#AI共創",
+        "#最新教育",
+        "#STEAM教育",
+        "#次世代リーダー",
+        "#生成AI"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "sub_title": "2026年1月10日：if塾 活動報告",
+          "text_content": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-01.png",
+          "image_file": "assets/img/posts/20260110_activity-01.png",
+          "overlay_text": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "subtext": "2026年1月10日：if塾 活動報告",
+          "alt": "表紙 - AIを『書かせる』から『共創する』へ。2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "sub_title": "「コードを覚えるのが大変」「エラーで進まない」という悩みは、もはや過去のもの。今、子どもたちが求めているのは、自分のアイデアをどう形にするかという『設計力』です。",
+          "text_content": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-02.png",
+          "image_file": "assets/img/posts/20260110_activity-02.png",
+          "overlay_text": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "subtext": "「コードを覚えるのが大変」「エラーで進まない」という悩みは、もはや過去のもの。今、子どもたちが求めているのは、自分のアイデアをどう形にするかという『設計力』です。",
+          "alt": "内容1 - 冬休み明け、生徒たちの意識が劇的に変わっ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "sub_title": "最新のAIツールを使いこなし、わずか数時間でオリジナルゲームのプロトタイプを完成させる生徒が続出。AIを魔法の杖ではなく、頼れる『開発パートナー』として対話しています。",
+          "text_content": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-03.png",
+          "image_file": "assets/img/posts/20260110_activity-03.png",
+          "overlay_text": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "subtext": "最新のAIツールを使いこなし、わずか数時間でオリジナルゲームのプロトタイプを完成させる生徒が続出。AIを魔法の杖ではなく、頼れる『開発パートナー』として対話しています。",
+          "alt": "内容2 - AIエージェントとペアプログラミング！驚"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が大切にするのは『問いを立てる力』です",
+          "sub_title": "AIが何でも作れる時代だからこそ、人間特有の視点が重要に。私たちはコードの書き方以上に、社会の課題を見つけ、AIに適切な指示を出し、価値を生み出す力を指導しています。",
+          "text_content": "if塾が大切にするのは『問いを立てる力』です",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-04.png",
+          "image_file": "assets/img/posts/20260110_activity-04.png",
+          "overlay_text": "if塾が大切にするのは『問いを立てる力』です",
+          "subtext": "AIが何でも作れる時代だからこそ、人間特有の視点が重要に。私たちはコードの書き方以上に、社会の課題を見つけ、AIに適切な指示を出し、価値を生み出す力を指導しています。",
+          "alt": "内容3 - if塾が大切にするのは『問いを立てる力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "sub_title": "2026年1月10日：if塾 活動報告",
+          "text_content": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-01.png",
+          "image_file": "assets/img/posts/20260110_activity-01.png",
+          "overlay_text": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+          "subtext": "2026年1月10日：if塾 活動報告",
+          "alt": "表紙 - AIを『書かせる』から『共創する』へ。2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "sub_title": "「コードを覚えるのが大変」「エラーで進まない」という悩みは、もはや過去のもの。今、子どもたちが求めているのは、自分のアイデアをどう形にするかという『設計力』です。",
+          "text_content": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-02.png",
+          "image_file": "assets/img/posts/20260110_activity-02.png",
+          "overlay_text": "冬休み明け、生徒たちの意識が劇的に変わっています",
+          "subtext": "「コードを覚えるのが大変」「エラーで進まない」という悩みは、もはや過去のもの。今、子どもたちが求めているのは、自分のアイデアをどう形にするかという『設計力』です。",
+          "alt": "内容1 - 冬休み明け、生徒たちの意識が劇的に変わっ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "sub_title": "最新のAIツールを使いこなし、わずか数時間でオリジナルゲームのプロトタイプを完成させる生徒が続出。AIを魔法の杖ではなく、頼れる『開発パートナー』として対話しています。",
+          "text_content": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-03.png",
+          "image_file": "assets/img/posts/20260110_activity-03.png",
+          "overlay_text": "AIエージェントとペアプログラミング！驚きの開発スピード",
+          "subtext": "最新のAIツールを使いこなし、わずか数時間でオリジナルゲームのプロトタイプを完成させる生徒が続出。AIを魔法の杖ではなく、頼れる『開発パートナー』として対話しています。",
+          "alt": "内容2 - AIエージェントとペアプログラミング！驚"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が大切にするのは『問いを立てる力』です",
+          "sub_title": "AIが何でも作れる時代だからこそ、人間特有の視点が重要に。私たちはコードの書き方以上に、社会の課題を見つけ、AIに適切な指示を出し、価値を生み出す力を指導しています。",
+          "text_content": "if塾が大切にするのは『問いを立てる力』です",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260110_activity-04.png",
+          "image_file": "assets/img/posts/20260110_activity-04.png",
+          "overlay_text": "if塾が大切にするのは『問いを立てる力』です",
+          "subtext": "AIが何でも作れる時代だからこそ、人間特有の視点が重要に。私たちはコードの書き方以上に、社会の課題を見つけ、AIに適切な指示を出し、価値を生み出す力を指導しています。",
+          "alt": "内容3 - if塾が大切にするのは『問いを立てる力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260110_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260110_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260110_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260110_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-10T10:40:46",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIを『書かせる』から『共創する』へ。2",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIを『書かせる』から『共創する』へ。2026年最新プログラミング教育",
+            "subtext": "2026年1月10日：if塾 活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "冬休み明け、生徒たちの意識が劇的に変わっています",
+            "subtext": "「コードを覚えるのが大変」「エラーで進まない」という悩みは、もはや過去のもの。今、子どもたちが求めているのは、自分のアイデアをどう形にするかという『設計力』です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIエージェントとペアプログラミング！驚きの開発スピード",
+            "subtext": "最新のAIツールを使いこなし、わずか数時間でオリジナルゲームのプロトタイプを完成させる生徒が続出。AIを魔法の杖ではなく、頼れる『開発パートナー』として対話しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が大切にするのは『問いを立てる力』です",
+            "subtext": "AIが何でも作れる時代だからこそ、人間特有の視点が重要に。私たちはコードの書き方以上に、社会の課題を見つけ、AIに適切な指示を出し、価値を生み出す力を指導しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260109_business",
       "post_id": "20260109_business",
