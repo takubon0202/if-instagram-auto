@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 3,
-    "last_updated": "2026-01-10T20:23:27.396097",
+    "total_posts": 4,
+    "last_updated": "2026-01-11T10:53:11.321440",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260111_activity",
+      "post_id": "20260111_activity",
+      "created_at": "2026-01-11T10:53:11",
+      "datetime": "2026-01-11T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+      "target_audience": "Students & Parents",
+      "title": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+      "caption": "【2026年1月】最新の学びの現場からお届けします！\n\nあけましておめでとうございます！\n冬休みが明け、if塾の教室には熱気が戻ってきました。\n\n今、子供たちの間では「AIにコードを書いてもらう」のは当たり前。\n大事なのは、そのAIを使って「どんな面白いものを作るか？」という構想力です。\n\n本日も、小学生が自作の学習支援アプリを数時間で形にする姿が見られました。\nかつては数ヶ月かかった開発が、AIとの対話で1日で終わる時代。\n\nif塾では、このスピード感の中で「自分にしかできないアイデア」を形にする力を養っています。\n2026年、新しいスキルの標準を一緒に体験しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年1月】最新の学びの現場からお届けします！\n\nあけましておめでとうございます！\n冬休みが明け、if塾の教室には熱気が戻ってきました。\n\n今、子供たちの間では「AIにコードを書いてもらう」のは当たり前。\n大事なのは、そのAIを使って「どんな面白いものを作るか？」という構想力です。\n\n本日も、小学生が自作の学習支援アプリを数時間で形にする姿が見られました。\nかつては数ヶ月かかった開発が、AIとの対話で1日で終わる時代。\n\nif塾では、このスピード感の中で「自分にしかできないアイデア」を形にする力を養っています。\n2026年、新しいスキルの標準を一緒に体験しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#共創学習",
+        "#エドテック",
+        "#自由研究",
+        "#プログラミング教育",
+        "#AI活用",
+        "#子どもの創造力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "sub_title": "1月11日：if塾・活動報告",
+          "text_content": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-01.png",
+          "image_file": "assets/img/posts/20260111_activity-01.png",
+          "overlay_text": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "subtext": "1月11日：if塾・活動報告",
+          "alt": "表紙 - AIは「教わる」から「創る」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "sub_title": "プログラミングの壁で挫折していた子たちが、AIという相棒を得て次々と形にしています。",
+          "text_content": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-02.png",
+          "image_file": "assets/img/posts/20260111_activity-02.png",
+          "overlay_text": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "subtext": "プログラミングの壁で挫折していた子たちが、AIという相棒を得て次々と形にしています。",
+          "alt": "内容1 - 冬休みの自由研究が、今年はアプリ開発に！"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "sub_title": "2026年の子供たちは、設計図をAIに伝え、エラー修正も対話で解決。創造性が爆発しています。",
+          "text_content": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-03.png",
+          "image_file": "assets/img/posts/20260111_activity-03.png",
+          "overlay_text": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "subtext": "2026年の子供たちは、設計図をAIに伝え、エラー修正も対話で解決。創造性が爆発しています。",
+          "alt": "内容2 - マルチモーダルAIを使いこなし、数時間で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「正解」を求める力より、「問い」を立てる力の時代",
+          "sub_title": "if塾ではAIを単なる代行ツールではなく、思考を拡張する『共創パートナー』として指導しています。",
+          "text_content": "「正解」を求める力より、「問い」を立てる力の時代",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-04.png",
+          "image_file": "assets/img/posts/20260111_activity-04.png",
+          "overlay_text": "「正解」を求める力より、「問い」を立てる力の時代",
+          "subtext": "if塾ではAIを単なる代行ツールではなく、思考を拡張する『共創パートナー』として指導しています。",
+          "alt": "内容3 - 「正解」を求める力より、「問い」を立てる"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "sub_title": "1月11日：if塾・活動報告",
+          "text_content": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-01.png",
+          "image_file": "assets/img/posts/20260111_activity-01.png",
+          "overlay_text": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+          "subtext": "1月11日：if塾・活動報告",
+          "alt": "表紙 - AIは「教わる」から「創る」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "sub_title": "プログラミングの壁で挫折していた子たちが、AIという相棒を得て次々と形にしています。",
+          "text_content": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-02.png",
+          "image_file": "assets/img/posts/20260111_activity-02.png",
+          "overlay_text": "冬休みの自由研究が、今年はアプリ開発に！？",
+          "subtext": "プログラミングの壁で挫折していた子たちが、AIという相棒を得て次々と形にしています。",
+          "alt": "内容1 - 冬休みの自由研究が、今年はアプリ開発に！"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "sub_title": "2026年の子供たちは、設計図をAIに伝え、エラー修正も対話で解決。創造性が爆発しています。",
+          "text_content": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-03.png",
+          "image_file": "assets/img/posts/20260111_activity-03.png",
+          "overlay_text": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+          "subtext": "2026年の子供たちは、設計図をAIに伝え、エラー修正も対話で解決。創造性が爆発しています。",
+          "alt": "内容2 - マルチモーダルAIを使いこなし、数時間で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「正解」を求める力より、「問い」を立てる力の時代",
+          "sub_title": "if塾ではAIを単なる代行ツールではなく、思考を拡張する『共創パートナー』として指導しています。",
+          "text_content": "「正解」を求める力より、「問い」を立てる力の時代",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260111_activity-04.png",
+          "image_file": "assets/img/posts/20260111_activity-04.png",
+          "overlay_text": "「正解」を求める力より、「問い」を立てる力の時代",
+          "subtext": "if塾ではAIを単なる代行ツールではなく、思考を拡張する『共創パートナー』として指導しています。",
+          "alt": "内容3 - 「正解」を求める力より、「問い」を立てる"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260111_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260111_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260111_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260111_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "渡辺柚気",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "デザイン"
+        ],
+        "caption_text": "渡辺柚気（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "watanabe_yuzuki",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-11T10:51:56",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「教わる」から「創る」へ。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「教わる」から「創る」へ。2026年の最新共創学習。",
+            "subtext": "1月11日：if塾・活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "冬休みの自由研究が、今年はアプリ開発に！？",
+            "subtext": "プログラミングの壁で挫折していた子たちが、AIという相棒を得て次々と形にしています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAIを使いこなし、数時間でオリジナルゲーム完成",
+            "subtext": "2026年の子供たちは、設計図をAIに伝え、エラー修正も対話で解決。創造性が爆発しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「正解」を求める力より、「問い」を立てる力の時代",
+            "subtext": "if塾ではAIを単なる代行ツールではなく、思考を拡張する『共創パートナー』として指導しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260110_activity",
       "post_id": "20260110_activity",
