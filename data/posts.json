@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 4,
-    "last_updated": "2026-01-11T13:35:28.825711",
+    "last_updated": "2026-01-11T20:23:34.202166",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260111_activity",
       "post_id": "20260111_activity",
-      "created_at": "2026-01-11T13:35:28",
+      "created_at": "2026-01-11T20:23:34",
       "datetime": "2026-01-11T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
+      "theme": "AIと創る2026年のプログラミング授業",
       "target_audience": "Students & Parents",
-      "title": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-      "caption": "【2026年1月】最新の教育現場からお届けします！\n\n新学期が始まり、受験シーズン本番ですが、if塾では中高生による「生成AI×ハッカソン」を開催しました。\n\n2026年の今、AIは単なる検索ツールではありません。\n生徒たちは自律型AIと対話しながら、地域の交通渋滞解消アプリや、高齢者向けの対話型デバイスのプロトタイプを次々と完成させています。\n\n「自分にも作れる！」という自信が、学びの質を劇的に変える瞬間を目の当たりにしました。\n\nこれからの探究学習に求められるのは、知識の量ではなく、テクノロジーをどう社会に還元するかという「実装の視点」です。\n\nif塾では、最新のAIツールを駆使した「動く探究」をこれからも加速させていきます！\n\n活動の詳細はプロフィールのリンクからチェックしてください✨",
-      "caption_text": "【2026年1月】最新の教育現場からお届けします！\n\n新学期が始まり、受験シーズン本番ですが、if塾では中高生による「生成AI×ハッカソン」を開催しました。\n\n2026年の今、AIは単なる検索ツールではありません。\n生徒たちは自律型AIと対話しながら、地域の交通渋滞解消アプリや、高齢者向けの対話型デバイスのプロトタイプを次々と完成させています。\n\n「自分にも作れる！」という自信が、学びの質を劇的に変える瞬間を目の当たりにしました。\n\nこれからの探究学習に求められるのは、知識の量ではなく、テクノロジーをどう社会に還元するかという「実装の視点」です。\n\nif塾では、最新のAIツールを駆使した「動く探究」をこれからも加速させていきます！\n\n活動の詳細はプロフィールのリンクからチェックしてください✨",
+      "title": "AIと創る2026年のプログラミング授業",
+      "caption": "【2026年1月】最新の授業風景をお届け！\n\nあけましておめでとうございます。if塾です！\n2026年最初の授業は、最新の生成AIをパートナーにした「共創学習」からスタートしました。\n\n今のプログラミング学習は、ただコードを書くだけではありません。\n「AIにどう指示を出すか」「AIが書いたコードは本当に正しいのか」を検証する力が重要になっています。\n\n生徒たちは、自分が作りたいアプリのアイデアをAIに壁打ちし、エラーが出ればAIと一緒にデバッグ。挫折することなく、高度なアルゴリズムの実装に挑戦しています。\n\n効率的に、かつ深く。2026年の学びは加速し続けます！\n\n体験授業の詳細はプロフィールからチェックしてくださいね✨",
+      "caption_text": "【2026年1月】最新の授業風景をお届け！\n\nあけましておめでとうございます。if塾です！\n2026年最初の授業は、最新の生成AIをパートナーにした「共創学習」からスタートしました。\n\n今のプログラミング学習は、ただコードを書くだけではありません。\n「AIにどう指示を出すか」「AIが書いたコードは本当に正しいのか」を検証する力が重要になっています。\n\n生徒たちは、自分が作りたいアプリのアイデアをAIに壁打ちし、エラーが出ればAIと一緒にデバッグ。挫折することなく、高度なアルゴリズムの実装に挑戦しています。\n\n効率的に、かつ深く。2026年の学びは加速し続けます！\n\n体験授業の詳細はプロフィールからチェックしてくださいね✨",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#プログラミング教育",
         "#生成AI",
-        "#ハッカソン",
-        "#探究学習",
-        "#中高生教育",
-        "#実装型探究",
-        "#EdTech"
+        "#STEM教育",
+        "#共創学習",
+        "#最新教育",
+        "#AIエンジニア"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-          "sub_title": "2026年1月：実装型探究の最前線",
-          "text_content": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
+          "main_title": "AIと創る2026年のプログラミング授業",
+          "sub_title": "1月11日最新レポート｜AI共創学習の最前線",
+          "text_content": "AIと創る2026年のプログラミング授業",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-01.png",
           "image_file": "assets/img/posts/20260111_activity-01.png",
-          "overlay_text": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-          "subtext": "2026年1月：実装型探究の最前線",
-          "alt": "表紙 - 中高生がAIで社会を変える。2026年最"
+          "overlay_text": "AIと創る2026年のプログラミング授業",
+          "subtext": "1月11日最新レポート｜AI共創学習の最前線",
+          "alt": "表紙 - AIと創る2026年のプログラミング授業"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「調べる」で終わっていませんか？",
-          "sub_title": "2026年の探究学習は、アイデアを形にする『実装力』が問われる時代へ。冬休みに挑んだAIハッカソンの熱狂をレポート！",
-          "text_content": "「調べる」で終わっていませんか？",
+          "main_title": "「書き方がわからない」で止まる時代は終わりました",
+          "sub_title": "受験シーズンの1月。学習効率を最大化したい学生たちが直面する『構文エラーで進まない』ストレスをどう解消するか？",
+          "text_content": "「書き方がわからない」で止まる時代は終わりました",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-02.png",
           "image_file": "assets/img/posts/20260111_activity-02.png",
-          "overlay_text": "「調べる」で終わっていませんか？",
-          "subtext": "2026年の探究学習は、アイデアを形にする『実装力』が問われる時代へ。冬休みに挑んだAIハッカソンの熱狂をレポート！",
-          "alt": "内容1 - 「調べる」で終わっていませんか？"
+          "overlay_text": "「書き方がわからない」で止まる時代は終わりました",
+          "subtext": "受験シーズンの1月。学習効率を最大化したい学生たちが直面する『構文エラーで進まない』ストレスをどう解消するか？",
+          "alt": "内容1 - 「書き方がわからない」で止まる時代は終わ"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIを使いこなす生徒たち",
-          "sub_title": "最新の自律型エージェントを活用し、地域課題を解決するプロトタイプをわずか3日間で開発。プログラミングの壁はAIが壊しました。",
-          "text_content": "マルチモーダルAIを使いこなす生徒たち",
+          "main_title": "最新AIエージェントとペアプログラミング",
+          "sub_title": "生徒たちは2026年最新のマルチモーダルAIを活用。手書きの設計図から瞬時にコードの骨組みを生成し、論理的思考に集中しています。",
+          "text_content": "最新AIエージェントとペアプログラミング",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-03.png",
           "image_file": "assets/img/posts/20260111_activity-03.png",
-          "overlay_text": "マルチモーダルAIを使いこなす生徒たち",
-          "subtext": "最新の自律型エージェントを活用し、地域課題を解決するプロトタイプをわずか3日間で開発。プログラミングの壁はAIが壊しました。",
-          "alt": "内容2 - マルチモーダルAIを使いこなす生徒たち"
+          "overlay_text": "最新AIエージェントとペアプログラミング",
+          "subtext": "生徒たちは2026年最新のマルチモーダルAIを活用。手書きの設計図から瞬時にコードの骨組みを生成し、論理的思考に集中しています。",
+          "alt": "内容2 - 最新AIエージェントとペアプログラミング"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「答え」ではなく「問い」を磨く指導",
-          "sub_title": "if塾ではAIを『代筆ツール』ではなく『思考のブースター』として定義。生徒の独創性を引き出すプロンプトエンジニアリングを伝授しています。",
-          "text_content": "「答え」ではなく「問い」を磨く指導",
+          "main_title": "if塾が教えるのは「指示力」と「検証力」",
+          "sub_title": "AIに丸投げするのではなく、出力されたコードの脆弱性や最適性を議論する。これが2026年に求められる真のエンジニアリングスキルです。",
+          "text_content": "if塾が教えるのは「指示力」と「検証力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-04.png",
           "image_file": "assets/img/posts/20260111_activity-04.png",
-          "overlay_text": "「答え」ではなく「問い」を磨く指導",
-          "subtext": "if塾ではAIを『代筆ツール』ではなく『思考のブースター』として定義。生徒の独創性を引き出すプロンプトエンジニアリングを伝授しています。",
-          "alt": "内容3 - 「答え」ではなく「問い」を磨く指導"
+          "overlay_text": "if塾が教えるのは「指示力」と「検証力」",
+          "subtext": "AIに丸投げするのではなく、出力されたコードの脆弱性や最適性を議論する。これが2026年に求められる真のエンジニアリングスキルです。",
+          "alt": "内容3 - if塾が教えるのは「指示力」と「検証力」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-          "sub_title": "2026年1月：実装型探究の最前線",
-          "text_content": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
+          "main_title": "AIと創る2026年のプログラミング授業",
+          "sub_title": "1月11日最新レポート｜AI共創学習の最前線",
+          "text_content": "AIと創る2026年のプログラミング授業",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-01.png",
           "image_file": "assets/img/posts/20260111_activity-01.png",
-          "overlay_text": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-          "subtext": "2026年1月：実装型探究の最前線",
-          "alt": "表紙 - 中高生がAIで社会を変える。2026年最"
+          "overlay_text": "AIと創る2026年のプログラミング授業",
+          "subtext": "1月11日最新レポート｜AI共創学習の最前線",
+          "alt": "表紙 - AIと創る2026年のプログラミング授業"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「調べる」で終わっていませんか？",
-          "sub_title": "2026年の探究学習は、アイデアを形にする『実装力』が問われる時代へ。冬休みに挑んだAIハッカソンの熱狂をレポート！",
-          "text_content": "「調べる」で終わっていませんか？",
+          "main_title": "「書き方がわからない」で止まる時代は終わりました",
+          "sub_title": "受験シーズンの1月。学習効率を最大化したい学生たちが直面する『構文エラーで進まない』ストレスをどう解消するか？",
+          "text_content": "「書き方がわからない」で止まる時代は終わりました",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-02.png",
           "image_file": "assets/img/posts/20260111_activity-02.png",
-          "overlay_text": "「調べる」で終わっていませんか？",
-          "subtext": "2026年の探究学習は、アイデアを形にする『実装力』が問われる時代へ。冬休みに挑んだAIハッカソンの熱狂をレポート！",
-          "alt": "内容1 - 「調べる」で終わっていませんか？"
+          "overlay_text": "「書き方がわからない」で止まる時代は終わりました",
+          "subtext": "受験シーズンの1月。学習効率を最大化したい学生たちが直面する『構文エラーで進まない』ストレスをどう解消するか？",
+          "alt": "内容1 - 「書き方がわからない」で止まる時代は終わ"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIを使いこなす生徒たち",
-          "sub_title": "最新の自律型エージェントを活用し、地域課題を解決するプロトタイプをわずか3日間で開発。プログラミングの壁はAIが壊しました。",
-          "text_content": "マルチモーダルAIを使いこなす生徒たち",
+          "main_title": "最新AIエージェントとペアプログラミング",
+          "sub_title": "生徒たちは2026年最新のマルチモーダルAIを活用。手書きの設計図から瞬時にコードの骨組みを生成し、論理的思考に集中しています。",
+          "text_content": "最新AIエージェントとペアプログラミング",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-03.png",
           "image_file": "assets/img/posts/20260111_activity-03.png",
-          "overlay_text": "マルチモーダルAIを使いこなす生徒たち",
-          "subtext": "最新の自律型エージェントを活用し、地域課題を解決するプロトタイプをわずか3日間で開発。プログラミングの壁はAIが壊しました。",
-          "alt": "内容2 - マルチモーダルAIを使いこなす生徒たち"
+          "overlay_text": "最新AIエージェントとペアプログラミング",
+          "subtext": "生徒たちは2026年最新のマルチモーダルAIを活用。手書きの設計図から瞬時にコードの骨組みを生成し、論理的思考に集中しています。",
+          "alt": "内容2 - 最新AIエージェントとペアプログラミング"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「答え」ではなく「問い」を磨く指導",
-          "sub_title": "if塾ではAIを『代筆ツール』ではなく『思考のブースター』として定義。生徒の独創性を引き出すプロンプトエンジニアリングを伝授しています。",
-          "text_content": "「答え」ではなく「問い」を磨く指導",
+          "main_title": "if塾が教えるのは「指示力」と「検証力」",
+          "sub_title": "AIに丸投げするのではなく、出力されたコードの脆弱性や最適性を議論する。これが2026年に求められる真のエンジニアリングスキルです。",
+          "text_content": "if塾が教えるのは「指示力」と「検証力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260111_activity-04.png",
           "image_file": "assets/img/posts/20260111_activity-04.png",
-          "overlay_text": "「答え」ではなく「問い」を磨く指導",
-          "subtext": "if塾ではAIを『代筆ツール』ではなく『思考のブースター』として定義。生徒の独創性を引き出すプロンプトエンジニアリングを伝授しています。",
-          "alt": "内容3 - 「答え」ではなく「問い」を磨く指導"
+          "overlay_text": "if塾が教えるのは「指示力」と「検証力」",
+          "subtext": "AIに丸投げするのではなく、出力されたコードの脆弱性や最適性を議論する。これが2026年に求められる真のエンジニアリングスキルです。",
+          "alt": "内容3 - if塾が教えるのは「指示力」と「検証力」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-11T13:34:17",
+      "research_date": "2026-01-11T20:22:17",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生がAIで社会を変える。2026年最",
+        "cover_text": "AIと創る2026年のプログラミング授業",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生がAIで社会を変える。2026年最新ハッカソン報告",
-            "subtext": "2026年1月：実装型探究の最前線",
+            "headline": "AIと創る2026年のプログラミング授業",
+            "subtext": "1月11日最新レポート｜AI共創学習の最前線",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「調べる」で終わっていませんか？",
-            "subtext": "2026年の探究学習は、アイデアを形にする『実装力』が問われる時代へ。冬休みに挑んだAIハッカソンの熱狂をレポート！",
+            "headline": "「書き方がわからない」で止まる時代は終わりました",
+            "subtext": "受験シーズンの1月。学習効率を最大化したい学生たちが直面する『構文エラーで進まない』ストレスをどう解消するか？",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAIを使いこなす生徒たち",
-            "subtext": "最新の自律型エージェントを活用し、地域課題を解決するプロトタイプをわずか3日間で開発。プログラミングの壁はAIが壊しました。",
+            "headline": "最新AIエージェントとペアプログラミング",
+            "subtext": "生徒たちは2026年最新のマルチモーダルAIを活用。手書きの設計図から瞬時にコードの骨組みを生成し、論理的思考に集中しています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「答え」ではなく「問い」を磨く指導",
-            "subtext": "if塾ではAIを『代筆ツール』ではなく『思考のブースター』として定義。生徒の独創性を引き出すプロンプトエンジニアリングを伝授しています。",
+            "headline": "if塾が教えるのは「指示力」と「検証力」",
+            "subtext": "AIに丸投げするのではなく、出力されたコードの脆弱性や最適性を議論する。これが2026年に求められる真のエンジニアリングスキルです。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
