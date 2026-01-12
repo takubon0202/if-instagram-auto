@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 5,
-    "last_updated": "2026-01-12T10:49:43.982657",
+    "last_updated": "2026-01-12T13:38:10.875274",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260112_announcement",
       "post_id": "20260112_announcement",
-      "created_at": "2026-01-12T10:49:43",
+      "created_at": "2026-01-12T13:38:10",
       "datetime": "2026-01-12T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "AIを使いこなせない子は、もう勝てない？",
+      "theme": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
       "target_audience": "Students & Parents",
-      "title": "AIを使いこなせない子は、もう勝てない？",
-      "caption": "【2026年1月】最新の教育トレンドがついに動きます！\n\nあけましておめでとうございます。if塾です。\n2026年、教育の常識は「AIをどう隠すか」から「AIをどう使いこなすか」へ完全にシフトしました。\n\nこれを受けて、if塾では待望の新コース\n『AI共創型・次世代リーダー養成コース』の募集を開始します！✨\n\n最新のAIツールを文房具のように使いこなし、\n自ら問いを立て、解決する力を養う。 \nこれが、これからの時代に求められる「本当の学力」です。\n\n「AIに仕事を奪われる」と不安になるのではなく、\n「AIを味方につけて可能性を広げる」側になりませんか？\n\n詳細はプロフィール欄のリンクからチェックしてください！📩\n新年度のスタートダッシュ、一緒に決めましょう！",
-      "caption_text": "【2026年1月】最新の教育トレンドがついに動きます！\n\nあけましておめでとうございます。if塾です。\n2026年、教育の常識は「AIをどう隠すか」から「AIをどう使いこなすか」へ完全にシフトしました。\n\nこれを受けて、if塾では待望の新コース\n『AI共創型・次世代リーダー養成コース』の募集を開始します！✨\n\n最新のAIツールを文房具のように使いこなし、\n自ら問いを立て、解決する力を養う。 \nこれが、これからの時代に求められる「本当の学力」です。\n\n「AIに仕事を奪われる」と不安になるのではなく、\n「AIを味方につけて可能性を広げる」側になりませんか？\n\n詳細はプロフィール欄のリンクからチェックしてください！📩\n新年度のスタートダッシュ、一緒に決めましょう！",
+      "title": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+      "caption": "【2026年1月】最新の教育トレンドをお届けします！\n\nあけましておめでとうございます。2026年、プログラミング学習は「AIに聞く」から「AIと創る」フェーズへ完全に移行しました。\n\n今年注目なのが、標準搭載された「AIエージェント型」の学習スタイル。これまでのチャット形式とは異なり、AIがあなたの進捗を把握し、先回りしてアドバイスをくれる時代です。\n\n「難しそう…」と不安な保護者の方もご安心ください。if塾ではAIを最高のパートナーにする方法を、基礎から丁寧にお教えしています。\n\nこれからの時代に必須となる「AI指揮能力」を、今月から一緒に磨いていきませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "caption_text": "【2026年1月】最新の教育トレンドをお届けします！\n\nあけましておめでとうございます。2026年、プログラミング学習は「AIに聞く」から「AIと創る」フェーズへ完全に移行しました。\n\n今年注目なのが、標準搭載された「AIエージェント型」の学習スタイル。これまでのチャット形式とは異なり、AIがあなたの進捗を把握し、先回りしてアドバイスをくれる時代です。\n\n「難しそう…」と不安な保護者の方もご安心ください。if塾ではAIを最高のパートナーにする方法を、基礎から丁寧にお教えしています。\n\nこれからの時代に必須となる「AI指揮能力」を、今月から一緒に磨いていきませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI教育",
-        "#新コース募集",
-        "#最新教育",
-        "#プロンプトエンジニアリング",
-        "#中高生AI学習",
-        "#2026年度入試"
+        "#プログラミング教育",
+        "#AIエージェント",
+        "#最新テックニュース",
+        "#DX教育",
+        "#子どもの習い事"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを使いこなせない子は、もう勝てない？",
-          "sub_title": "2026年1月最新：AI共創型コース遂に解禁！",
-          "text_content": "AIを使いこなせない子は、もう勝てない？",
+          "main_title": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+          "sub_title": "1月12日更新：プログラミング学習の常識が変わる",
+          "text_content": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-01.png",
           "image_file": "assets/img/posts/20260112_announcement-01.png",
-          "overlay_text": "AIを使いこなせない子は、もう勝てない？",
-          "subtext": "2026年1月最新：AI共創型コース遂に解禁！",
-          "alt": "表紙 - AIを使いこなせない子は、もう勝てない？"
+          "overlay_text": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+          "subtext": "1月12日更新：プログラミング学習の常識が変わる",
+          "alt": "表紙 - 【2026年最新】もう「検索」は古い？A"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI禁止」から「AI標準」の時代へ",
-          "sub_title": "2026年、入試や就職の現場ではAIを道具として使いこなす『共創力』が必須スキルとなりました。ただ検索するだけの段階はもう終わりです。",
-          "text_content": "「AI禁止」から「AI標準」の時代へ",
+          "main_title": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
+          "sub_title": "一人でエラーと戦う時間は終わり。これからはAIが24時間体制の専属メンターとして、あなたの意図を汲み取り並走します。",
+          "text_content": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-02.png",
           "image_file": "assets/img/posts/20260112_announcement-02.png",
-          "overlay_text": "「AI禁止」から「AI標準」の時代へ",
-          "subtext": "2026年、入試や就職の現場ではAIを道具として使いこなす『共創力』が必須スキルとなりました。ただ検索するだけの段階はもう終わりです。",
-          "alt": "内容1 - 「AI禁止」から「AI標準」の時代へ"
+          "overlay_text": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
+          "subtext": "一人でエラーと戦う時間は終わり。これからはAIが24時間体制の専属メンターとして、あなたの意図を汲み取り並走します。",
+          "alt": "内容1 - ただのAIじゃない。2026年は「AIエ"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年型：AIと対話して「思考」を深める",
-          "sub_title": "最新のマルチモーダルAIを標準搭載。単なる答え合わせではなく、AIを壁打ち相手にして自分のアイデアを形にする『超・実践型カリキュラム』が始まります。",
-          "text_content": "2026年型：AIと対話して「思考」を深める",
+          "main_title": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
+          "sub_title": "AIエージェント型なら、曖昧な指示でも意図を理解。最新のAI技術がコードを自動生成・修正し、論理的思考の習得だけに集中できます。",
+          "text_content": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-03.png",
           "image_file": "assets/img/posts/20260112_announcement-03.png",
-          "overlay_text": "2026年型：AIと対話して「思考」を深める",
-          "subtext": "最新のマルチモーダルAIを標準搭載。単なる答え合わせではなく、AIを壁打ち相手にして自分のアイデアを形にする『超・実践型カリキュラム』が始まります。",
-          "alt": "内容2 - 2026年型：AIと対話して「思考」を深"
+          "overlay_text": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
+          "subtext": "AIエージェント型なら、曖昧な指示でも意図を理解。最新のAI技術がコードを自動生成・修正し、論理的思考の習得だけに集中できます。",
+          "alt": "内容2 - 「書く」から「対話」へ。挫折率0.1%の"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾でしか学べない「プロンプト思考術」",
-          "sub_title": "1月より募集開始。最新のAIエージェントを活用し、個々の学習進度に合わせたパーソナライズ指導を実現。2026年度の受験・進路対策も万全です。",
-          "text_content": "if塾でしか学べない「プロンプト思考術」",
+          "main_title": "if塾が提案する、AI時代の「自走力」の鍛え方",
+          "sub_title": "ツールに使われるのではなく、AIを指揮する力を。if塾ではAIエージェントを高度に使いこなす最新カリキュラムを1月から順次導入しています。",
+          "text_content": "if塾が提案する、AI時代の「自走力」の鍛え方",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-04.png",
           "image_file": "assets/img/posts/20260112_announcement-04.png",
-          "overlay_text": "if塾でしか学べない「プロンプト思考術」",
-          "subtext": "1月より募集開始。最新のAIエージェントを活用し、個々の学習進度に合わせたパーソナライズ指導を実現。2026年度の受験・進路対策も万全です。",
-          "alt": "内容3 - if塾でしか学べない「プロンプト思考術」"
+          "overlay_text": "if塾が提案する、AI時代の「自走力」の鍛え方",
+          "subtext": "ツールに使われるのではなく、AIを指揮する力を。if塾ではAIエージェントを高度に使いこなす最新カリキュラムを1月から順次導入しています。",
+          "alt": "内容3 - if塾が提案する、AI時代の「自走力」の"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを使いこなせない子は、もう勝てない？",
-          "sub_title": "2026年1月最新：AI共創型コース遂に解禁！",
-          "text_content": "AIを使いこなせない子は、もう勝てない？",
+          "main_title": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+          "sub_title": "1月12日更新：プログラミング学習の常識が変わる",
+          "text_content": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-01.png",
           "image_file": "assets/img/posts/20260112_announcement-01.png",
-          "overlay_text": "AIを使いこなせない子は、もう勝てない？",
-          "subtext": "2026年1月最新：AI共創型コース遂に解禁！",
-          "alt": "表紙 - AIを使いこなせない子は、もう勝てない？"
+          "overlay_text": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+          "subtext": "1月12日更新：プログラミング学習の常識が変わる",
+          "alt": "表紙 - 【2026年最新】もう「検索」は古い？A"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI禁止」から「AI標準」の時代へ",
-          "sub_title": "2026年、入試や就職の現場ではAIを道具として使いこなす『共創力』が必須スキルとなりました。ただ検索するだけの段階はもう終わりです。",
-          "text_content": "「AI禁止」から「AI標準」の時代へ",
+          "main_title": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
+          "sub_title": "一人でエラーと戦う時間は終わり。これからはAIが24時間体制の専属メンターとして、あなたの意図を汲み取り並走します。",
+          "text_content": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-02.png",
           "image_file": "assets/img/posts/20260112_announcement-02.png",
-          "overlay_text": "「AI禁止」から「AI標準」の時代へ",
-          "subtext": "2026年、入試や就職の現場ではAIを道具として使いこなす『共創力』が必須スキルとなりました。ただ検索するだけの段階はもう終わりです。",
-          "alt": "内容1 - 「AI禁止」から「AI標準」の時代へ"
+          "overlay_text": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
+          "subtext": "一人でエラーと戦う時間は終わり。これからはAIが24時間体制の専属メンターとして、あなたの意図を汲み取り並走します。",
+          "alt": "内容1 - ただのAIじゃない。2026年は「AIエ"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年型：AIと対話して「思考」を深める",
-          "sub_title": "最新のマルチモーダルAIを標準搭載。単なる答え合わせではなく、AIを壁打ち相手にして自分のアイデアを形にする『超・実践型カリキュラム』が始まります。",
-          "text_content": "2026年型：AIと対話して「思考」を深める",
+          "main_title": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
+          "sub_title": "AIエージェント型なら、曖昧な指示でも意図を理解。最新のAI技術がコードを自動生成・修正し、論理的思考の習得だけに集中できます。",
+          "text_content": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-03.png",
           "image_file": "assets/img/posts/20260112_announcement-03.png",
-          "overlay_text": "2026年型：AIと対話して「思考」を深める",
-          "subtext": "最新のマルチモーダルAIを標準搭載。単なる答え合わせではなく、AIを壁打ち相手にして自分のアイデアを形にする『超・実践型カリキュラム』が始まります。",
-          "alt": "内容2 - 2026年型：AIと対話して「思考」を深"
+          "overlay_text": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
+          "subtext": "AIエージェント型なら、曖昧な指示でも意図を理解。最新のAI技術がコードを自動生成・修正し、論理的思考の習得だけに集中できます。",
+          "alt": "内容2 - 「書く」から「対話」へ。挫折率0.1%の"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾でしか学べない「プロンプト思考術」",
-          "sub_title": "1月より募集開始。最新のAIエージェントを活用し、個々の学習進度に合わせたパーソナライズ指導を実現。2026年度の受験・進路対策も万全です。",
-          "text_content": "if塾でしか学べない「プロンプト思考術」",
+          "main_title": "if塾が提案する、AI時代の「自走力」の鍛え方",
+          "sub_title": "ツールに使われるのではなく、AIを指揮する力を。if塾ではAIエージェントを高度に使いこなす最新カリキュラムを1月から順次導入しています。",
+          "text_content": "if塾が提案する、AI時代の「自走力」の鍛え方",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260112_announcement-04.png",
           "image_file": "assets/img/posts/20260112_announcement-04.png",
-          "overlay_text": "if塾でしか学べない「プロンプト思考術」",
-          "subtext": "1月より募集開始。最新のAIエージェントを活用し、個々の学習進度に合わせたパーソナライズ指導を実現。2026年度の受験・進路対策も万全です。",
-          "alt": "内容3 - if塾でしか学べない「プロンプト思考術」"
+          "overlay_text": "if塾が提案する、AI時代の「自走力」の鍛え方",
+          "subtext": "ツールに使われるのではなく、AIを指揮する力を。if塾ではAIエージェントを高度に使いこなす最新カリキュラムを1月から順次導入しています。",
+          "alt": "内容3 - if塾が提案する、AI時代の「自走力」の"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-12T10:48:31",
+      "research_date": "2026-01-12T13:36:57",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIを使いこなせない子は、もう勝てない？",
+        "cover_text": "【2026年最新】もう「検索」は古い？A",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIを使いこなせない子は、もう勝てない？",
-            "subtext": "2026年1月最新：AI共創型コース遂に解禁！",
+            "headline": "【2026年最新】もう「検索」は古い？AIエージェント学習の衝撃",
+            "subtext": "1月12日更新：プログラミング学習の常識が変わる",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AI禁止」から「AI標準」の時代へ",
-            "subtext": "2026年、入試や就職の現場ではAIを道具として使いこなす『共創力』が必須スキルとなりました。ただ検索するだけの段階はもう終わりです。",
+            "headline": "ただのAIじゃない。2026年は「AIエージェント」が隣にいる時代",
+            "subtext": "一人でエラーと戦う時間は終わり。これからはAIが24時間体制の専属メンターとして、あなたの意図を汲み取り並走します。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年型：AIと対話して「思考」を深める",
-            "subtext": "最新のマルチモーダルAIを標準搭載。単なる答え合わせではなく、AIを壁打ち相手にして自分のアイデアを形にする『超・実践型カリキュラム』が始まります。",
+            "headline": "「書く」から「対話」へ。挫折率0.1%の世界が実現",
+            "subtext": "AIエージェント型なら、曖昧な指示でも意図を理解。最新のAI技術がコードを自動生成・修正し、論理的思考の習得だけに集中できます。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾でしか学べない「プロンプト思考術」",
-            "subtext": "1月より募集開始。最新のAIエージェントを活用し、個々の学習進度に合わせたパーソナライズ指導を実現。2026年度の受験・進路対策も万全です。",
+            "headline": "if塾が提案する、AI時代の「自走力」の鍛え方",
+            "subtext": "ツールに使われるのではなく、AIを指揮する力を。if塾ではAIエージェントを高度に使いこなす最新カリキュラムを1月から順次導入しています。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
