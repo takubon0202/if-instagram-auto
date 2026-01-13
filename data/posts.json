@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 5,
-    "last_updated": "2026-01-12T20:28:03.065629",
+    "total_posts": 6,
+    "last_updated": "2026-01-13T10:41:30.113804",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260113_education",
+      "post_id": "20260113_education",
+      "created_at": "2026-01-13T10:41:30",
+      "datetime": "2026-01-13T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+      "caption": "【2026年1月】最新の教育ニュースをお届けします！\n\nいよいよ今週末に迫った、第2回「大学入学共通テスト」。\n特に注目されているのが「情報I」の難化傾向です。\n\n2025年の初回試験を経験し、対策が一般化した2年目の今年は、試験内容がさらにブラッシュアップされ、単なる知識だけでは解けない問題が増えると予想されています。\n\n「対策が後回しになってしまった…」\n「模試の結果が安定しない」\nそんな不安を抱える保護者の皆様、受験生の皆さんへ。\n\nif塾では、2026年の最新トレンドに基づいた直前対策を公開中！\n最後まで諦めずに、得点を伸ばす「情報の読み解き方」を身につけましょう。\n\n公式LINEでは「直前1週間で確認すべき用語リスト」を無料配布中！\nプロフィールのリンクからチェックしてください✨\n\n#大学入学共通テスト #情報I #2026年度入試 #受験生の母 #if塾 #教育コラム #新課程対策 #大学受験",
+      "caption_text": "【2026年1月】最新の教育ニュースをお届けします！\n\nいよいよ今週末に迫った、第2回「大学入学共通テスト」。\n特に注目されているのが「情報I」の難化傾向です。\n\n2025年の初回試験を経験し、対策が一般化した2年目の今年は、試験内容がさらにブラッシュアップされ、単なる知識だけでは解けない問題が増えると予想されています。\n\n「対策が後回しになってしまった…」\n「模試の結果が安定しない」\nそんな不安を抱える保護者の皆様、受験生の皆さんへ。\n\nif塾では、2026年の最新トレンドに基づいた直前対策を公開中！\n最後まで諦めずに、得点を伸ばす「情報の読み解き方」を身につけましょう。\n\n公式LINEでは「直前1週間で確認すべき用語リスト」を無料配布中！\nプロフィールのリンクからチェックしてください✨\n\n#大学入学共通テスト #情報I #2026年度入試 #受験生の母 #if塾 #教育コラム #新課程対策 #大学受験",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#共通テスト",
+        "#情報I",
+        "#大学受験",
+        "#教育ニュース",
+        "#受験対策",
+        "#新課程"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "sub_title": "2026年1月13日公開｜第2回試験直前の最終警告",
+          "text_content": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-01.png",
+          "image_file": "assets/img/posts/20260113_education-01.png",
+          "overlay_text": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "subtext": "2026年1月13日公開｜第2回試験直前の最終警告",
+          "alt": "表紙 - 【2026最新】情報I、昨年の悪夢が再び"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "sub_title": "2025年の第1回実施を経て、2026年は平均点が下がるとの予測。浪人生を含めた受験者層の変化と、高度なプログラミング・データ活用問題の増加が、今受験生と保護者の不安を煽っています。",
+          "text_content": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-02.png",
+          "image_file": "assets/img/posts/20260113_education-02.png",
+          "overlay_text": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "subtext": "2025年の第1回実施を経て、2026年は平均点が下がるとの予測。浪人生を含めた受験者層の変化と、高度なプログラミング・データ活用問題の増加が、今受験生と保護者の不安を煽っています。",
+          "alt": "内容1 - 「新課程2年目」の罠。難易度はさらに上昇"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "sub_title": "単なる暗記はもう通用しません。2026年からは生成AIとの付き合い方や、複雑なアルゴリズムの読み解きが必須。if塾では、独自のシミュレーターと最新のトレンド解析で「正解への最短距離」を提示します。",
+          "text_content": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-03.png",
+          "image_file": "assets/img/posts/20260113_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "subtext": "単なる暗記はもう通用しません。2026年からは生成AIとの付き合い方や、複雑なアルゴリズムの読み解きが必須。if塾では、独自のシミュレーターと最新のトレンド解析で「正解への最短距離」を提示します。",
+          "alt": "内容2 - if塾の視点：AI時代に対応した「活用力"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「得点直結」3アクション",
+          "sub_title": "1. 昨年度の過去問を「時間15分短縮」で解き直す。2. 公共データを用いた統計問題に慣れる。3. 論理回路とネットワーク構成のパターンを再整理。直前期こそ、if塾の短期集中プログラムで最後の上積みを。",
+          "text_content": "今すぐやるべき「得点直結」3アクション",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-04.png",
+          "image_file": "assets/img/posts/20260113_education-04.png",
+          "overlay_text": "今すぐやるべき「得点直結」3アクション",
+          "subtext": "1. 昨年度の過去問を「時間15分短縮」で解き直す。2. 公共データを用いた統計問題に慣れる。3. 論理回路とネットワーク構成のパターンを再整理。直前期こそ、if塾の短期集中プログラムで最後の上積みを。",
+          "alt": "内容3 - 今すぐやるべき「得点直結」3アクション"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "sub_title": "2026年1月13日公開｜第2回試験直前の最終警告",
+          "text_content": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-01.png",
+          "image_file": "assets/img/posts/20260113_education-01.png",
+          "overlay_text": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+          "subtext": "2026年1月13日公開｜第2回試験直前の最終警告",
+          "alt": "表紙 - 【2026最新】情報I、昨年の悪夢が再び"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "sub_title": "2025年の第1回実施を経て、2026年は平均点が下がるとの予測。浪人生を含めた受験者層の変化と、高度なプログラミング・データ活用問題の増加が、今受験生と保護者の不安を煽っています。",
+          "text_content": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-02.png",
+          "image_file": "assets/img/posts/20260113_education-02.png",
+          "overlay_text": "「新課程2年目」の罠。難易度はさらに上昇？",
+          "subtext": "2025年の第1回実施を経て、2026年は平均点が下がるとの予測。浪人生を含めた受験者層の変化と、高度なプログラミング・データ活用問題の増加が、今受験生と保護者の不安を煽っています。",
+          "alt": "内容1 - 「新課程2年目」の罠。難易度はさらに上昇"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "sub_title": "単なる暗記はもう通用しません。2026年からは生成AIとの付き合い方や、複雑なアルゴリズムの読み解きが必須。if塾では、独自のシミュレーターと最新のトレンド解析で「正解への最短距離」を提示します。",
+          "text_content": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-03.png",
+          "image_file": "assets/img/posts/20260113_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+          "subtext": "単なる暗記はもう通用しません。2026年からは生成AIとの付き合い方や、複雑なアルゴリズムの読み解きが必須。if塾では、独自のシミュレーターと最新のトレンド解析で「正解への最短距離」を提示します。",
+          "alt": "内容2 - if塾の視点：AI時代に対応した「活用力"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「得点直結」3アクション",
+          "sub_title": "1. 昨年度の過去問を「時間15分短縮」で解き直す。2. 公共データを用いた統計問題に慣れる。3. 論理回路とネットワーク構成のパターンを再整理。直前期こそ、if塾の短期集中プログラムで最後の上積みを。",
+          "text_content": "今すぐやるべき「得点直結」3アクション",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260113_education-04.png",
+          "image_file": "assets/img/posts/20260113_education-04.png",
+          "overlay_text": "今すぐやるべき「得点直結」3アクション",
+          "subtext": "1. 昨年度の過去問を「時間15分短縮」で解き直す。2. 公共データを用いた統計問題に慣れる。3. 論理回路とネットワーク構成のパターンを再整理。直前期こそ、if塾の短期集中プログラムで最後の上積みを。",
+          "alt": "内容3 - 今すぐやるべき「得点直結」3アクション"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260113_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260113_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260113_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260113_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-13T10:40:19",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報I、昨年の悪夢が再び",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報I、昨年の悪夢が再び？第2回共通テストの激震に備えよ",
+            "subtext": "2026年1月13日公開｜第2回試験直前の最終警告",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「新課程2年目」の罠。難易度はさらに上昇？",
+            "subtext": "2025年の第1回実施を経て、2026年は平均点が下がるとの予測。浪人生を含めた受験者層の変化と、高度なプログラミング・データ活用問題の増加が、今受験生と保護者の不安を煽っています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾の視点：AI時代に対応した「活用力」が合否を分ける",
+            "subtext": "単なる暗記はもう通用しません。2026年からは生成AIとの付き合い方や、複雑なアルゴリズムの読み解きが必須。if塾では、独自のシミュレーターと最新のトレンド解析で「正解への最短距離」を提示します。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐやるべき「得点直結」3アクション",
+            "subtext": "1. 昨年度の過去問を「時間15分短縮」で解き直す。2. 公共データを用いた統計問題に慣れる。3. 論理回路とネットワーク構成のパターンを再整理。直前期こそ、if塾の短期集中プログラムで最後の上積みを。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260112_announcement",
       "post_id": "20260112_announcement",
