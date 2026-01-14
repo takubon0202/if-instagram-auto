@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 6,
-    "last_updated": "2026-01-13T20:28:13.443958",
+    "total_posts": 7,
+    "last_updated": "2026-01-14T10:48:31.952312",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260114_development",
+      "post_id": "20260114_development",
+      "created_at": "2026-01-14T10:48:31",
+      "datetime": "2026-01-14T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+      "target_audience": "Students & Parents",
+      "title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+      "caption": "【2026年1月】最新のAI開発トレンドをお届け！\n\nあけましておめでとうございます。if塾です。\n2026年が幕を開けましたが、今、中高生のクリエイティビティが爆発しています！\n\nかつては数ヶ月かかったアプリ開発も、最新のAIエージェント機能を使いこなすことで、中高生がわずか数週間でプロトタイプを完成させる時代になりました。\n\n今回ご紹介したのは、1月の開発発表会で注目を集めた事例です：\n・AI漫画アプリ：物語を入力するだけでコマ割り・作画を自動生成\n・AI運転能力検査：視線トラッキングとAI解析で家族を守るツール\n\n「AIに仕事が奪われる」と恐れるのではなく、「AIを使いこなして社会をアップデートする」。\nそんなマインドを持った学生たちが、今年も続々とif塾から羽ばたいています。\n\n受験シーズンの今だからこそ、その先の「自分にしかできないこと」を見つけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "caption_text": "【2026年1月】最新のAI開発トレンドをお届け！\n\nあけましておめでとうございます。if塾です。\n2026年が幕を開けましたが、今、中高生のクリエイティビティが爆発しています！\n\nかつては数ヶ月かかったアプリ開発も、最新のAIエージェント機能を使いこなすことで、中高生がわずか数週間でプロトタイプを完成させる時代になりました。\n\n今回ご紹介したのは、1月の開発発表会で注目を集めた事例です：\n・AI漫画アプリ：物語を入力するだけでコマ割り・作画を自動生成\n・AI運転能力検査：視線トラッキングとAI解析で家族を守るツール\n\n「AIに仕事が奪われる」と恐れるのではなく、「AIを使いこなして社会をアップデートする」。\nそんなマインドを持った学生たちが、今年も続々とif塾から羽ばたいています。\n\n受験シーズンの今だからこそ、その先の「自分にしかできないこと」を見つけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#中高生クリエイター",
+        "#アプリ開発",
+        "#AI教育",
+        "#デジタルネイティブ",
+        "#プログラミング学習",
+        "#EdTech"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "sub_title": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+          "text_content": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-01.png",
+          "image_file": "assets/img/posts/20260114_development-01.png",
+          "overlay_text": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+          "alt": "表紙 - 中高生がAIで社会を変える！2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」を形にする術がない？",
+          "sub_title": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+          "text_content": "「やりたい」を形にする術がない？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-02.png",
+          "image_file": "assets/img/posts/20260114_development-02.png",
+          "overlay_text": "「やりたい」を形にする術がない？",
+          "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+          "alt": "内容1 - 「やりたい」を形にする術がない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "sub_title": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+          "text_content": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-03.png",
+          "image_file": "assets/img/posts/20260114_development-03.png",
+          "overlay_text": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+          "alt": "内容2 - AI漫画から運転検査まで。マルチモーダル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "sub_title": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+          "text_content": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-04.png",
+          "image_file": "assets/img/posts/20260114_development-04.png",
+          "overlay_text": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+          "alt": "内容3 - 「使う側」から「作る側」へ。if塾が生む"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "sub_title": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+          "text_content": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-01.png",
+          "image_file": "assets/img/posts/20260114_development-01.png",
+          "overlay_text": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+          "alt": "表紙 - 中高生がAIで社会を変える！2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」を形にする術がない？",
+          "sub_title": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+          "text_content": "「やりたい」を形にする術がない？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-02.png",
+          "image_file": "assets/img/posts/20260114_development-02.png",
+          "overlay_text": "「やりたい」を形にする術がない？",
+          "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+          "alt": "内容1 - 「やりたい」を形にする術がない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "sub_title": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+          "text_content": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-03.png",
+          "image_file": "assets/img/posts/20260114_development-03.png",
+          "overlay_text": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+          "alt": "内容2 - AI漫画から運転検査まで。マルチモーダル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "sub_title": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+          "text_content": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260114_development-04.png",
+          "image_file": "assets/img/posts/20260114_development-04.png",
+          "overlay_text": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+          "alt": "内容3 - 「使う側」から「作る側」へ。if塾が生む"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260114_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260114_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260114_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260114_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "渡辺柚気",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "デザイン"
+        ],
+        "caption_text": "渡辺柚気（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "watanabe_yuzuki",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-14T10:47:18",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生がAIで社会を変える！2026年最",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+            "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」を形にする術がない？",
+            "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+            "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+            "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260113_education",
       "post_id": "20260113_education",
