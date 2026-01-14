@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 7,
-    "last_updated": "2026-01-14T13:36:01.870328",
+    "last_updated": "2026-01-14T20:28:41.548029",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260114_development",
       "post_id": "20260114_development",
-      "created_at": "2026-01-14T13:36:01",
+      "created_at": "2026-01-14T20:28:41",
       "datetime": "2026-01-14T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+      "theme": "2026年最新！受験直前の思考ログ改革",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-      "caption": "【2026年1月】最新の開発トレンドをお届け！\n\nあけましておめでとうございます！🎍\n2026年、学生たちの開発現場では大きな変革が起きています。\n\nこれまでのAIは「質問に答えるだけ」でしたが、\n今、if塾の生徒たちが挑戦しているのは\n自ら考え、行動する『Agentic AI（エージェント型AI）』です。🤖✨\n\n「進路について調べといて」と一言伝えれば、\nAIが複数の大学サイトを巡回し、入試要項をまとめ、\nカレンダーに願書提出日を登録する…。\nそんな魔法のようなアプリを、中高生が自ら開発しています。\n\n2026年の学びは「AIに聞く」から「AIを動かす」へ。\n最新のテクノロジーを味方につけて、最高の1年にしましょう！🚀\n\n開発の詳細はプロフィールリンクからチェック！🔗\n\n#if塾 #2026年 #AgenticAI #エージェント型AI #プログラミング教育 #自由研究 #最新テクノロジー #AI開発 #自律型AI",
-      "caption_text": "【2026年1月】最新の開発トレンドをお届け！\n\nあけましておめでとうございます！🎍\n2026年、学生たちの開発現場では大きな変革が起きています。\n\nこれまでのAIは「質問に答えるだけ」でしたが、\n今、if塾の生徒たちが挑戦しているのは\n自ら考え、行動する『Agentic AI（エージェント型AI）』です。🤖✨\n\n「進路について調べといて」と一言伝えれば、\nAIが複数の大学サイトを巡回し、入試要項をまとめ、\nカレンダーに願書提出日を登録する…。\nそんな魔法のようなアプリを、中高生が自ら開発しています。\n\n2026年の学びは「AIに聞く」から「AIを動かす」へ。\n最新のテクノロジーを味方につけて、最高の1年にしましょう！🚀\n\n開発の詳細はプロフィールリンクからチェック！🔗\n\n#if塾 #2026年 #AgenticAI #エージェント型AI #プログラミング教育 #自由研究 #最新テクノロジー #AI開発 #自律型AI",
+      "title": "2026年最新！受験直前の思考ログ改革",
+      "caption": "【2026年1月】勝負の1月、ついに解禁！\n\n受験生や保護者の皆様、直前期の「焦り」を「論理的な自信」に変えませんか？\n\nif塾が開発した最新アプリは、今話題の『推論時コンピュート（Thinking AI）』を搭載。\n答えを教えるのではなく、あなたが「どう考えるべきか」をAIが伴走しながら導き出します。\n\n2026年の入試トレンドは、知識量よりも「論理的解決力」。\nこの冬、if塾の思考アプリで最後の1ピースを埋めましょう！\n\n詳細はプロフィールのリンクからチェック🔗",
+      "caption_text": "【2026年1月】勝負の1月、ついに解禁！\n\n受験生や保護者の皆様、直前期の「焦り」を「論理的な自信」に変えませんか？\n\nif塾が開発した最新アプリは、今話題の『推論時コンピュート（Thinking AI）』を搭載。\n答えを教えるのではなく、あなたが「どう考えるべきか」をAIが伴走しながら導き出します。\n\n2026年の入試トレンドは、知識量よりも「論理的解決力」。\nこの冬、if塾の思考アプリで最後の1ピースを埋めましょう！\n\n詳細はプロフィールのリンクからチェック🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AgenticAI",
-        "#エージェント型AI",
-        "#プログラミング学習",
-        "#次世代教育",
-        "#AIアプリ"
+        "#受験生応援",
+        "#ThinkingAI",
+        "#推論時コンピュート",
+        "#AI教育",
+        "#論理的思考",
+        "#EdTech"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-          "sub_title": "1月の開発トレンド：Agentic AIの衝撃",
-          "text_content": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "main_title": "2026年最新！受験直前の思考ログ改革",
+          "sub_title": "1月限定公開：Thinking AI活用アプリ完成",
+          "text_content": "2026年最新！受験直前の思考ログ改革",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-01.png",
           "image_file": "assets/img/posts/20260114_development-01.png",
-          "overlay_text": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-          "subtext": "1月の開発トレンド：Agentic AIの衝撃",
-          "alt": "表紙 - 2026年最新版！学生が創る「意思を持つ"
+          "overlay_text": "2026年最新！受験直前の思考ログ改革",
+          "subtext": "1月限定公開：Thinking AI活用アプリ完成",
+          "alt": "表紙 - 2026年最新！受験直前の思考ログ改革"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
-          "sub_title": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
-          "text_content": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "main_title": "「解答を見ても納得できない」をゼロに",
+          "sub_title": "受験直前期、解説の行間が読めず足踏みしていませんか？2026年の学習は、ただの暗記ではなく『思考プロセス』の可視化が合格のカギです。",
+          "text_content": "「解答を見ても納得できない」をゼロに",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-02.png",
           "image_file": "assets/img/posts/20260114_development-02.png",
-          "overlay_text": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
-          "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
-          "alt": "内容1 - 指示待ちはもう古い？冬休みの宿題も「計画"
+          "overlay_text": "「解答を見ても納得できない」をゼロに",
+          "subtext": "受験直前期、解説の行間が読めず足踏みしていませんか？2026年の学習は、ただの暗記ではなく『思考プロセス』の可視化が合格のカギです。",
+          "alt": "内容1 - 「解答を見ても納得できない」をゼロに"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
-          "sub_title": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
-          "text_content": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "main_title": "推論時コンピュート（Thinking AI）を実装",
+          "sub_title": "最新の推論特化型AIが、あなたの『なぜ？』に対して、思考を深めるステップをリアルタイムで生成。論理的な壁を自力で突破する体験を提供します。",
+          "text_content": "推論時コンピュート（Thinking AI）を実装",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-03.png",
           "image_file": "assets/img/posts/20260114_development-03.png",
-          "overlay_text": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
-          "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
-          "alt": "内容2 - 自ら判断し、ツールを使いこなす。2026"
+          "overlay_text": "推論時コンピュート（Thinking AI）を実装",
+          "subtext": "最新の推論特化型AIが、あなたの『なぜ？』に対して、思考を深めるステップをリアルタイムで生成。論理的な壁を自力で突破する体験を提供します。",
+          "alt": "内容2 - 推論時コンピュート（Thinking A"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
-          "sub_title": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
-          "text_content": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "main_title": "if塾流：思考のクセをAIと矯正する",
+          "sub_title": "アプリが記録した『思考の迷い』をAIが分析。弱点を2026年最新の学習モデルで補完し、最短ルートで論理的思考力を仕上げます。",
+          "text_content": "if塾流：思考のクセをAIと矯正する",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-04.png",
           "image_file": "assets/img/posts/20260114_development-04.png",
-          "overlay_text": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
-          "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
-          "alt": "内容3 - if塾では「AIを育てる」視点を伝授。受"
+          "overlay_text": "if塾流：思考のクセをAIと矯正する",
+          "subtext": "アプリが記録した『思考の迷い』をAIが分析。弱点を2026年最新の学習モデルで補完し、最短ルートで論理的思考力を仕上げます。",
+          "alt": "内容3 - if塾流：思考のクセをAIと矯正する"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-          "sub_title": "1月の開発トレンド：Agentic AIの衝撃",
-          "text_content": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "main_title": "2026年最新！受験直前の思考ログ改革",
+          "sub_title": "1月限定公開：Thinking AI活用アプリ完成",
+          "text_content": "2026年最新！受験直前の思考ログ改革",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-01.png",
           "image_file": "assets/img/posts/20260114_development-01.png",
-          "overlay_text": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-          "subtext": "1月の開発トレンド：Agentic AIの衝撃",
-          "alt": "表紙 - 2026年最新版！学生が創る「意思を持つ"
+          "overlay_text": "2026年最新！受験直前の思考ログ改革",
+          "subtext": "1月限定公開：Thinking AI活用アプリ完成",
+          "alt": "表紙 - 2026年最新！受験直前の思考ログ改革"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
-          "sub_title": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
-          "text_content": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "main_title": "「解答を見ても納得できない」をゼロに",
+          "sub_title": "受験直前期、解説の行間が読めず足踏みしていませんか？2026年の学習は、ただの暗記ではなく『思考プロセス』の可視化が合格のカギです。",
+          "text_content": "「解答を見ても納得できない」をゼロに",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-02.png",
           "image_file": "assets/img/posts/20260114_development-02.png",
-          "overlay_text": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
-          "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
-          "alt": "内容1 - 指示待ちはもう古い？冬休みの宿題も「計画"
+          "overlay_text": "「解答を見ても納得できない」をゼロに",
+          "subtext": "受験直前期、解説の行間が読めず足踏みしていませんか？2026年の学習は、ただの暗記ではなく『思考プロセス』の可視化が合格のカギです。",
+          "alt": "内容1 - 「解答を見ても納得できない」をゼロに"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
-          "sub_title": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
-          "text_content": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "main_title": "推論時コンピュート（Thinking AI）を実装",
+          "sub_title": "最新の推論特化型AIが、あなたの『なぜ？』に対して、思考を深めるステップをリアルタイムで生成。論理的な壁を自力で突破する体験を提供します。",
+          "text_content": "推論時コンピュート（Thinking AI）を実装",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-03.png",
           "image_file": "assets/img/posts/20260114_development-03.png",
-          "overlay_text": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
-          "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
-          "alt": "内容2 - 自ら判断し、ツールを使いこなす。2026"
+          "overlay_text": "推論時コンピュート（Thinking AI）を実装",
+          "subtext": "最新の推論特化型AIが、あなたの『なぜ？』に対して、思考を深めるステップをリアルタイムで生成。論理的な壁を自力で突破する体験を提供します。",
+          "alt": "内容2 - 推論時コンピュート（Thinking A"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
-          "sub_title": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
-          "text_content": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "main_title": "if塾流：思考のクセをAIと矯正する",
+          "sub_title": "アプリが記録した『思考の迷い』をAIが分析。弱点を2026年最新の学習モデルで補完し、最短ルートで論理的思考力を仕上げます。",
+          "text_content": "if塾流：思考のクセをAIと矯正する",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-04.png",
           "image_file": "assets/img/posts/20260114_development-04.png",
-          "overlay_text": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
-          "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
-          "alt": "内容3 - if塾では「AIを育てる」視点を伝授。受"
+          "overlay_text": "if塾流：思考のクセをAIと矯正する",
+          "subtext": "アプリが記録した『思考の迷い』をAIが分析。弱点を2026年最新の学習モデルで補完し、最短ルートで論理的思考力を仕上げます。",
+          "alt": "内容3 - if塾流：思考のクセをAIと矯正する"
         },
         {
           "page_number": 5,
@@ -228,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "ロボット"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-14T13:34:46",
+      "research_date": "2026-01-14T20:27:28",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！学生が創る「意思を持つ",
+        "cover_text": "2026年最新！受験直前の思考ログ改革",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
-            "subtext": "1月の開発トレンド：Agentic AIの衝撃",
+            "headline": "2026年最新！受験直前の思考ログ改革",
+            "subtext": "1月限定公開：Thinking AI活用アプリ完成",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -266,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
-            "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
+            "headline": "「解答を見ても納得できない」をゼロに",
+            "subtext": "受験直前期、解説の行間が読めず足踏みしていませんか？2026年の学習は、ただの暗記ではなく『思考プロセス』の可視化が合格のカギです。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -275,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
-            "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
+            "headline": "推論時コンピュート（Thinking AI）を実装",
+            "subtext": "最新の推論特化型AIが、あなたの『なぜ？』に対して、思考を深めるステップをリアルタイムで生成。論理的な壁を自力で突破する体験を提供します。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -284,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
-            "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
+            "headline": "if塾流：思考のクセをAIと矯正する",
+            "subtext": "アプリが記録した『思考の迷い』をAIが分析。弱点を2026年最新の学習モデルで補完し、最短ルートで論理的思考力を仕上げます。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
