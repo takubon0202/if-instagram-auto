@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 7,
-    "last_updated": "2026-01-14T10:48:31.952312",
+    "last_updated": "2026-01-14T13:36:01.870328",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20260114_development",
       "post_id": "20260114_development",
-      "created_at": "2026-01-14T10:48:31",
+      "created_at": "2026-01-14T13:36:01",
       "datetime": "2026-01-14T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+      "theme": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
       "target_audience": "Students & Parents",
-      "title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-      "caption": "【2026年1月】最新のAI開発トレンドをお届け！\n\nあけましておめでとうございます。if塾です。\n2026年が幕を開けましたが、今、中高生のクリエイティビティが爆発しています！\n\nかつては数ヶ月かかったアプリ開発も、最新のAIエージェント機能を使いこなすことで、中高生がわずか数週間でプロトタイプを完成させる時代になりました。\n\n今回ご紹介したのは、1月の開発発表会で注目を集めた事例です：\n・AI漫画アプリ：物語を入力するだけでコマ割り・作画を自動生成\n・AI運転能力検査：視線トラッキングとAI解析で家族を守るツール\n\n「AIに仕事が奪われる」と恐れるのではなく、「AIを使いこなして社会をアップデートする」。\nそんなマインドを持った学生たちが、今年も続々とif塾から羽ばたいています。\n\n受験シーズンの今だからこそ、その先の「自分にしかできないこと」を見つけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
-      "caption_text": "【2026年1月】最新のAI開発トレンドをお届け！\n\nあけましておめでとうございます。if塾です。\n2026年が幕を開けましたが、今、中高生のクリエイティビティが爆発しています！\n\nかつては数ヶ月かかったアプリ開発も、最新のAIエージェント機能を使いこなすことで、中高生がわずか数週間でプロトタイプを完成させる時代になりました。\n\n今回ご紹介したのは、1月の開発発表会で注目を集めた事例です：\n・AI漫画アプリ：物語を入力するだけでコマ割り・作画を自動生成\n・AI運転能力検査：視線トラッキングとAI解析で家族を守るツール\n\n「AIに仕事が奪われる」と恐れるのではなく、「AIを使いこなして社会をアップデートする」。\nそんなマインドを持った学生たちが、今年も続々とif塾から羽ばたいています。\n\n受験シーズンの今だからこそ、その先の「自分にしかできないこと」を見つけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+      "caption": "【2026年1月】最新の開発トレンドをお届け！\n\nあけましておめでとうございます！🎍\n2026年、学生たちの開発現場では大きな変革が起きています。\n\nこれまでのAIは「質問に答えるだけ」でしたが、\n今、if塾の生徒たちが挑戦しているのは\n自ら考え、行動する『Agentic AI（エージェント型AI）』です。🤖✨\n\n「進路について調べといて」と一言伝えれば、\nAIが複数の大学サイトを巡回し、入試要項をまとめ、\nカレンダーに願書提出日を登録する…。\nそんな魔法のようなアプリを、中高生が自ら開発しています。\n\n2026年の学びは「AIに聞く」から「AIを動かす」へ。\n最新のテクノロジーを味方につけて、最高の1年にしましょう！🚀\n\n開発の詳細はプロフィールリンクからチェック！🔗\n\n#if塾 #2026年 #AgenticAI #エージェント型AI #プログラミング教育 #自由研究 #最新テクノロジー #AI開発 #自律型AI",
+      "caption_text": "【2026年1月】最新の開発トレンドをお届け！\n\nあけましておめでとうございます！🎍\n2026年、学生たちの開発現場では大きな変革が起きています。\n\nこれまでのAIは「質問に答えるだけ」でしたが、\n今、if塾の生徒たちが挑戦しているのは\n自ら考え、行動する『Agentic AI（エージェント型AI）』です。🤖✨\n\n「進路について調べといて」と一言伝えれば、\nAIが複数の大学サイトを巡回し、入試要項をまとめ、\nカレンダーに願書提出日を登録する…。\nそんな魔法のようなアプリを、中高生が自ら開発しています。\n\n2026年の学びは「AIに聞く」から「AIを動かす」へ。\n最新のテクノロジーを味方につけて、最高の1年にしましょう！🚀\n\n開発の詳細はプロフィールリンクからチェック！🔗\n\n#if塾 #2026年 #AgenticAI #エージェント型AI #プログラミング教育 #自由研究 #最新テクノロジー #AI開発 #自律型AI",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#中高生クリエイター",
-        "#アプリ開発",
-        "#AI教育",
-        "#デジタルネイティブ",
+        "#AgenticAI",
+        "#エージェント型AI",
         "#プログラミング学習",
-        "#EdTech"
+        "#次世代教育",
+        "#AIアプリ"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-          "sub_title": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
-          "text_content": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "main_title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "sub_title": "1月の開発トレンド：Agentic AIの衝撃",
+          "text_content": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-01.png",
           "image_file": "assets/img/posts/20260114_development-01.png",
-          "overlay_text": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-          "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
-          "alt": "表紙 - 中高生がAIで社会を変える！2026年最"
+          "overlay_text": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "subtext": "1月の開発トレンド：Agentic AIの衝撃",
+          "alt": "表紙 - 2026年最新版！学生が創る「意思を持つ"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」を形にする術がない？",
-          "sub_title": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
-          "text_content": "「やりたい」を形にする術がない？",
+          "main_title": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "sub_title": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
+          "text_content": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-02.png",
           "image_file": "assets/img/posts/20260114_development-02.png",
-          "overlay_text": "「やりたい」を形にする術がない？",
-          "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
-          "alt": "内容1 - 「やりたい」を形にする術がない？"
+          "overlay_text": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
+          "alt": "内容1 - 指示待ちはもう古い？冬休みの宿題も「計画"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AI漫画から運転検査まで。マルチモーダルAIの活用",
-          "sub_title": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
-          "text_content": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "main_title": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "sub_title": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
+          "text_content": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-03.png",
           "image_file": "assets/img/posts/20260114_development-03.png",
-          "overlay_text": "AI漫画から運転検査まで。マルチモーダルAIの活用",
-          "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
-          "alt": "内容2 - AI漫画から運転検査まで。マルチモーダル"
+          "overlay_text": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
+          "alt": "内容2 - 自ら判断し、ツールを使いこなす。2026"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
-          "sub_title": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
-          "text_content": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "main_title": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "sub_title": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
+          "text_content": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-04.png",
           "image_file": "assets/img/posts/20260114_development-04.png",
-          "overlay_text": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
-          "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
-          "alt": "内容3 - 「使う側」から「作る側」へ。if塾が生む"
+          "overlay_text": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
+          "alt": "内容3 - if塾では「AIを育てる」視点を伝授。受"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-          "sub_title": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
-          "text_content": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
+          "main_title": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "sub_title": "1月の開発トレンド：Agentic AIの衝撃",
+          "text_content": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-01.png",
           "image_file": "assets/img/posts/20260114_development-01.png",
-          "overlay_text": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-          "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
-          "alt": "表紙 - 中高生がAIで社会を変える！2026年最"
+          "overlay_text": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+          "subtext": "1月の開発トレンド：Agentic AIの衝撃",
+          "alt": "表紙 - 2026年最新版！学生が創る「意思を持つ"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」を形にする術がない？",
-          "sub_title": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
-          "text_content": "「やりたい」を形にする術がない？",
+          "main_title": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "sub_title": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
+          "text_content": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-02.png",
           "image_file": "assets/img/posts/20260114_development-02.png",
-          "overlay_text": "「やりたい」を形にする術がない？",
-          "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
-          "alt": "内容1 - 「やりたい」を形にする術がない？"
+          "overlay_text": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+          "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
+          "alt": "内容1 - 指示待ちはもう古い？冬休みの宿題も「計画"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AI漫画から運転検査まで。マルチモーダルAIの活用",
-          "sub_title": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
-          "text_content": "AI漫画から運転検査まで。マルチモーダルAIの活用",
+          "main_title": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "sub_title": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
+          "text_content": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-03.png",
           "image_file": "assets/img/posts/20260114_development-03.png",
-          "overlay_text": "AI漫画から運転検査まで。マルチモーダルAIの活用",
-          "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
-          "alt": "内容2 - AI漫画から運転検査まで。マルチモーダル"
+          "overlay_text": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+          "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
+          "alt": "内容2 - 自ら判断し、ツールを使いこなす。2026"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
-          "sub_title": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
-          "text_content": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
+          "main_title": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "sub_title": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
+          "text_content": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260114_development-04.png",
           "image_file": "assets/img/posts/20260114_development-04.png",
-          "overlay_text": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
-          "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
-          "alt": "内容3 - 「使う側」から「作る側」へ。if塾が生む"
+          "overlay_text": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+          "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
+          "alt": "内容3 - if塾では「AIを育てる」視点を伝授。受"
         },
         {
           "page_number": 5,
@@ -244,7 +242,7 @@
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-14T10:47:18",
+      "research_date": "2026-01-14T13:34:46",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生がAIで社会を変える！2026年最",
+        "cover_text": "2026年最新版！学生が創る「意思を持つ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生がAIで社会を変える！2026年最新アプリ開発事例",
-            "subtext": "1月のニュース：受験期でも止まらない若きクリエイターの挑戦",
+            "headline": "2026年最新版！学生が創る「意思を持つAI」が凄すぎる件",
+            "subtext": "1月の開発トレンド：Agentic AIの衝撃",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -268,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」を形にする術がない？",
-            "subtext": "アイデアはあるけれど、プログラミングの壁や高額なツールに阻まれていた昨日の自分へ。2026年、AIとの対話が開発の常識に。",
+            "headline": "指示待ちはもう古い？冬休みの宿題も「計画から実行」までAIにお任せ",
+            "subtext": "「どう質問すればいいかわからない」という悩みは、AIが自ら考える時代へ突入しました。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -277,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AI漫画から運転検査まで。マルチモーダルAIの活用",
-            "subtext": "最新のAIエージェントを組み込み、絵が描けなくても漫画が作れるアプリや、スマホ一台で高齢者の運転適性を測るAIが中高生の手で誕生。",
+            "headline": "自ら判断し、ツールを使いこなす。2026年の主流「エージェント型AI」",
+            "subtext": "単なるチャットではなく、自らカレンダーを予約し、必要な資料をWebで集めてくる自律型アプリが学生開発の主流です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -286,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「使う側」から「作る側」へ。if塾が生む圧倒的実績",
-            "subtext": "AIを魔法の杖ではなく、社会課題を解く『道具』として定義。この冬、ポートフォリオは生成AI×独自コードで劇的に進化しています。",
+            "headline": "if塾では「AIを育てる」視点を伝授。受験・進路相談も専用エージェントで解決",
+            "subtext": "2026年の入試対策は、自分の弱点を分析して勝手に学習メニューを組んでくれる「自作エージェント」が最強の武器に。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
