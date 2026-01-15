@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 7,
-    "last_updated": "2026-01-14T20:28:41.548029",
+    "total_posts": 8,
+    "last_updated": "2026-01-15T10:43:54.383557",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260115_ai_column",
+      "post_id": "20260115_ai_column",
+      "created_at": "2026-01-15T10:43:54",
+      "datetime": "2026-01-15T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+      "target_audience": "Students & Parents",
+      "title": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+      "caption": "【2026年1月】あけましておめでとうございます！\n2026年、私たちの生活は「AIを使う」から「AIと共生する」フェーズへ完全に移行しました。\n\n今、話題の『Agentic AI（エージェント型AI）』を知っていますか？\nこれまでのAIは私たちが指示したことに答えるだけでしたが、最新のAIは「目的」を伝えるだけで、自ら計画を立て、実行までしてくれます。\n\n「宿題を丸投げできるのでは？」と心配する保護者の方も多いかもしれません。\nしかし、if塾ではこれを『思考の深化』のチャンスと捉えています。\n\n単純作業はAIに任せ、人間は「なぜその答えになるのか？」「もっと良い方法はないか？」を問い続ける。\nそんな「AIをマネジメントする力」が求められる時代です。\n\n2026年も、if塾と一緒に最新テクノロジーを味方につけていきましょう！\n\n詳しく知りたい方は「AI」とコメントしてくださいね！",
+      "caption_text": "【2026年1月】あけましておめでとうございます！\n2026年、私たちの生活は「AIを使う」から「AIと共生する」フェーズへ完全に移行しました。\n\n今、話題の『Agentic AI（エージェント型AI）』を知っていますか？\nこれまでのAIは私たちが指示したことに答えるだけでしたが、最新のAIは「目的」を伝えるだけで、自ら計画を立て、実行までしてくれます。\n\n「宿題を丸投げできるのでは？」と心配する保護者の方も多いかもしれません。\nしかし、if塾ではこれを『思考の深化』のチャンスと捉えています。\n\n単純作業はAIに任せ、人間は「なぜその答えになるのか？」「もっと良い方法はないか？」を問い続ける。\nそんな「AIをマネジメントする力」が求められる時代です。\n\n2026年も、if塾と一緒に最新テクノロジーを味方につけていきましょう！\n\n詳しく知りたい方は「AI」とコメントしてくださいね！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#AgenticAI",
+        "#最新テクノロジー",
+        "#教育ICT",
+        "#AI教育",
+        "#リスキリング",
+        "#DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "sub_title": "2026年1月最新：自ら思考し実行するAgentic AIの正体",
+          "text_content": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-01.png",
+          "image_file": "assets/img/posts/20260115_ai_column-01.png",
+          "overlay_text": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "subtext": "2026年1月最新：自ら思考し実行するAgentic AIの正体",
+          "alt": "表紙 - 宿題・仕事は「丸投げ」が常識？ 2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "sub_title": "これまでのChatGPTは『回答』するだけ。2026年のAIは、目標を伝えれば自分で手順を考え、外部ツールを使いこなし、タスクを完遂します。",
+          "text_content": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-02.png",
+          "image_file": "assets/img/posts/20260115_ai_column-02.png",
+          "overlay_text": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "subtext": "これまでのChatGPTは『回答』するだけ。2026年のAIは、目標を伝えれば自分で手順を考え、外部ツールを使いこなし、タスクを完遂します。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い。勝手に動くエ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年流：学習と仕事の劇的変化",
+          "sub_title": "学生は「AIに調べさせて要約」から「AIと議論して理解を深める」へ。社会人はルーチンワークを全自動化し、クリエイティブな意思決定のみに集中する時代です。",
+          "text_content": "2026年流：学習と仕事の劇的変化",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-03.png",
+          "image_file": "assets/img/posts/20260115_ai_column-03.png",
+          "overlay_text": "2026年流：学習と仕事の劇的変化",
+          "subtext": "学生は「AIに調べさせて要約」から「AIと議論して理解を深める」へ。社会人はルーチンワークを全自動化し、クリエイティブな意思決定のみに集中する時代です。",
+          "alt": "内容2 - 2026年流：学習と仕事の劇的変化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "sub_title": "結果だけをAIに出させるのは「思考の放棄」です。エージェントが提示するプロセスを批判的に検証する力が、2026年以降の受験と就職の鍵になります。",
+          "text_content": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-04.png",
+          "image_file": "assets/img/posts/20260115_ai_column-04.png",
+          "overlay_text": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "subtext": "結果だけをAIに出させるのは「思考の放棄」です。エージェントが提示するプロセスを批判的に検証する力が、2026年以降の受験と就職の鍵になります。",
+          "alt": "内容3 - if塾の視点：『丸投げ』で終わるか、『使"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "sub_title": "2026年1月最新：自ら思考し実行するAgentic AIの正体",
+          "text_content": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-01.png",
+          "image_file": "assets/img/posts/20260115_ai_column-01.png",
+          "overlay_text": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+          "subtext": "2026年1月最新：自ら思考し実行するAgentic AIの正体",
+          "alt": "表紙 - 宿題・仕事は「丸投げ」が常識？ 2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "sub_title": "これまでのChatGPTは『回答』するだけ。2026年のAIは、目標を伝えれば自分で手順を考え、外部ツールを使いこなし、タスクを完遂します。",
+          "text_content": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-02.png",
+          "image_file": "assets/img/posts/20260115_ai_column-02.png",
+          "overlay_text": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+          "subtext": "これまでのChatGPTは『回答』するだけ。2026年のAIは、目標を伝えれば自分で手順を考え、外部ツールを使いこなし、タスクを完遂します。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い。勝手に動くエ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年流：学習と仕事の劇的変化",
+          "sub_title": "学生は「AIに調べさせて要約」から「AIと議論して理解を深める」へ。社会人はルーチンワークを全自動化し、クリエイティブな意思決定のみに集中する時代です。",
+          "text_content": "2026年流：学習と仕事の劇的変化",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-03.png",
+          "image_file": "assets/img/posts/20260115_ai_column-03.png",
+          "overlay_text": "2026年流：学習と仕事の劇的変化",
+          "subtext": "学生は「AIに調べさせて要約」から「AIと議論して理解を深める」へ。社会人はルーチンワークを全自動化し、クリエイティブな意思決定のみに集中する時代です。",
+          "alt": "内容2 - 2026年流：学習と仕事の劇的変化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "sub_title": "結果だけをAIに出させるのは「思考の放棄」です。エージェントが提示するプロセスを批判的に検証する力が、2026年以降の受験と就職の鍵になります。",
+          "text_content": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260115_ai_column-04.png",
+          "image_file": "assets/img/posts/20260115_ai_column-04.png",
+          "overlay_text": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+          "subtext": "結果だけをAIに出させるのは「思考の放棄」です。エージェントが提示するプロセスを批判的に検証する力が、2026年以降の受験と就職の鍵になります。",
+          "alt": "内容3 - if塾の視点：『丸投げ』で終わるか、『使"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260115_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260115_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260115_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260115_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-15T10:42:40",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "宿題・仕事は「丸投げ」が常識？ 2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "宿題・仕事は「丸投げ」が常識？ 2026年、AIエージェント衝撃の進化",
+            "subtext": "2026年1月最新：自ら思考し実行するAgentic AIの正体",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「指示待ちAI」はもう古い。勝手に動くエージェントの登場",
+            "subtext": "これまでのChatGPTは『回答』するだけ。2026年のAIは、目標を伝えれば自分で手順を考え、外部ツールを使いこなし、タスクを完遂します。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年流：学習と仕事の劇的変化",
+            "subtext": "学生は「AIに調べさせて要約」から「AIと議論して理解を深める」へ。社会人はルーチンワークを全自動化し、クリエイティブな意思決定のみに集中する時代です。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：『丸投げ』で終わるか、『使いこなす』か",
+            "subtext": "結果だけをAIに出させるのは「思考の放棄」です。エージェントが提示するプロセスを批判的に検証する力が、2026年以降の受験と就職の鍵になります。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260114_development",
       "post_id": "20260114_development",
