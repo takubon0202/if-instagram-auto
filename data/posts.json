@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 9,
-    "last_updated": "2026-01-16T13:27:12.161260",
+    "last_updated": "2026-01-16T20:27:02.060763",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260116_business",
       "post_id": "20260116_business",
-      "created_at": "2026-01-16T13:27:12",
+      "created_at": "2026-01-16T20:27:02",
       "datetime": "2026-01-16T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
+      "theme": "大学生が時給5万円？AIコンサル副業の衝撃",
       "target_audience": "Students & Parents",
-      "title": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-      "caption": "【2026年1月】最新の教育・ビジネス事情をお届けします！\n\nあけましておめでとうございます。2026年が始まりましたが、今、10代の「AIクリエイター」たちが凄まじい勢いで市場を席巻しているのをご存知ですか？\n\nかつての「SNS運用」は手作業でしたが、今はAIを使いこなし、一人で企業のクリエイティブを丸ごと引き受ける中高生が急増中。彼らが手にしているのは、最新のAIツールと、それを恐れず使い倒す「探究心」です。\n\n「生成AIなんて難しそう」と思っている間に、子供たちは遊び感覚でプロ級の成果を出しています。この格差を埋めるのは、知識ではなく「まずやってみる」マインドセットです。\n\nif塾では、AI時代を生き抜くために必要な「自ら問いを立て、解決する力」を重視しています。2026年、お子様の可能性をAIと共に広げてみませんか？\n\n感想をコメントで教えてください！✨",
-      "caption_text": "【2026年1月】最新の教育・ビジネス事情をお届けします！\n\nあけましておめでとうございます。2026年が始まりましたが、今、10代の「AIクリエイター」たちが凄まじい勢いで市場を席巻しているのをご存知ですか？\n\nかつての「SNS運用」は手作業でしたが、今はAIを使いこなし、一人で企業のクリエイティブを丸ごと引き受ける中高生が急増中。彼らが手にしているのは、最新のAIツールと、それを恐れず使い倒す「探究心」です。\n\n「生成AIなんて難しそう」と思っている間に、子供たちは遊び感覚でプロ級の成果を出しています。この格差を埋めるのは、知識ではなく「まずやってみる」マインドセットです。\n\nif塾では、AI時代を生き抜くために必要な「自ら問いを立て、解決する力」を重視しています。2026年、お子様の可能性をAIと共に広げてみませんか？\n\n感想をコメントで教えてください！✨",
+      "title": "大学生が時給5万円？AIコンサル副業の衝撃",
+      "caption": "【2026年1月】最新のビジネス潮流をお届けします。\n\n2026年が幕を開け、学生の働き方が劇的に変化しています。かつての「労働集約型」のバイトから、生成AIを駆使した「知識集約型」のAIコンサルティングへ。\n\n今、企業は最新AIを使いこなせる若手の感性を求めています。受験シーズン真っ只中ですが、進学後の「その先」を見据えたスキルセットを今から意識しておきましょう。\n\nif塾では、AI時代を生き抜くための本質的な思考法を伝授しています。新しい一歩を、ここから始めませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年1月】最新のビジネス潮流をお届けします。\n\n2026年が幕を開け、学生の働き方が劇的に変化しています。かつての「労働集約型」のバイトから、生成AIを駆使した「知識集約型」のAIコンサルティングへ。\n\n今、企業は最新AIを使いこなせる若手の感性を求めています。受験シーズン真っ只中ですが、進学後の「その先」を見据えたスキルセットを今から意識しておきましょう。\n\nif塾では、AI時代を生き抜くための本質的な思考法を伝授しています。新しい一歩を、ここから始めませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#AIクリエイター",
-        "#SNS運用代行",
-        "#中高生起業家",
-        "#MidjourneyV8",
+        "#AIコンサル",
+        "#学生副業",
+        "#DX支援",
         "#キャリア教育",
-        "#最新ITトレンド"
+        "#GPT5"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-          "sub_title": "2026年1月最新：中高生クリエイターの台頭",
-          "text_content": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
+          "main_title": "大学生が時給5万円？AIコンサル副業の衝撃",
+          "sub_title": "2026年1月最新版：受験期に差がつく新常識",
+          "text_content": "大学生が時給5万円？AIコンサル副業の衝撃",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-01.png",
           "image_file": "assets/img/posts/20260116_business-01.png",
-          "overlay_text": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-          "subtext": "2026年1月最新：中高生クリエイターの台頭",
-          "alt": "表紙 - 10代が月30万稼ぐ!? 2026年最新"
+          "overlay_text": "大学生が時給5万円？AIコンサル副業の衝撃",
+          "subtext": "2026年1月最新版：受験期に差がつく新常識",
+          "alt": "表紙 - 大学生が時給5万円？AIコンサル副業の衝"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子にはまだ早い？」その常識はもう古い。",
-          "sub_title": "2026年、スマホ一つで高度な動画・画像生成ができる時代。スキルがないと悩むのは、大人だけかもしれません。",
-          "text_content": "「うちの子にはまだ早い？」その常識はもう古い。",
+          "main_title": "バイトで消耗する時代は終わった？",
+          "sub_title": "「スキルがないから単純作業」という悩みは、マルチモーダルAIの普及で解決。今は『AIを使いこなす視点』こそが最大の武器に。",
+          "text_content": "バイトで消耗する時代は終わった？",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-02.png",
           "image_file": "assets/img/posts/20260116_business-02.png",
-          "overlay_text": "「うちの子にはまだ早い？」その常識はもう古い。",
-          "subtext": "2026年、スマホ一つで高度な動画・画像生成ができる時代。スキルがないと悩むのは、大人だけかもしれません。",
-          "alt": "内容1 - 「うちの子にはまだ早い？」その常識はもう"
+          "overlay_text": "バイトで消耗する時代は終わった？",
+          "subtext": "「スキルがないから単純作業」という悩みは、マルチモーダルAIの普及で解決。今は『AIを使いこなす視点』こそが最大の武器に。",
+          "alt": "内容1 - バイトで消耗する時代は終わった？"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
-          "sub_title": "プロンプト不要の脳波・視線入力デバイスも普及。最新AIツールで企業のSNS投稿を自動化・高品質化しています。",
-          "text_content": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
+          "main_title": "GPT-5以降の自律型エージェントを駆使",
+          "sub_title": "2026年は企業のDXを学生が支援する時代。特定業務特化型AIを構築する『パーソナル・エージェント・エンジニアリング』が主流です。",
+          "text_content": "GPT-5以降の自律型エージェントを駆使",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-03.png",
           "image_file": "assets/img/posts/20260116_business-03.png",
-          "overlay_text": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
-          "subtext": "プロンプト不要の脳波・視線入力デバイスも普及。最新AIツールで企業のSNS投稿を自動化・高品質化しています。",
-          "alt": "内容2 - Midjourney V8 & Sora"
+          "overlay_text": "GPT-5以降の自律型エージェントを駆使",
+          "subtext": "2026年は企業のDXを学生が支援する時代。特定業務特化型AIを構築する『パーソナル・エージェント・エンジニアリング』が主流です。",
+          "alt": "内容2 - GPT-5以降の自律型エージェントを駆使"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「使う側」になるための本質的思考",
-          "sub_title": "大切なのは技術ではなく「何を表現したいか」。if塾ではAIを道具とし、社会に価値を届けるマインドを育てます。",
-          "text_content": "if塾の視点：AIを「使う側」になるための本質的思考",
+          "main_title": "if塾流：AIは『外注』ではなく『拡張』",
+          "sub_title": "単なるツール利用で終わらせない。AIに思考を委ねるのではなく、自分の専門性をAIで10倍にする「ハイブリッド思考」が成功の鍵。",
+          "text_content": "if塾流：AIは『外注』ではなく『拡張』",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-04.png",
           "image_file": "assets/img/posts/20260116_business-04.png",
-          "overlay_text": "if塾の視点：AIを「使う側」になるための本質的思考",
-          "subtext": "大切なのは技術ではなく「何を表現したいか」。if塾ではAIを道具とし、社会に価値を届けるマインドを育てます。",
-          "alt": "内容3 - if塾の視点：AIを「使う側」になるため"
+          "overlay_text": "if塾流：AIは『外注』ではなく『拡張』",
+          "subtext": "単なるツール利用で終わらせない。AIに思考を委ねるのではなく、自分の専門性をAIで10倍にする「ハイブリッド思考」が成功の鍵。",
+          "alt": "内容3 - if塾流：AIは『外注』ではなく『拡張』"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-          "sub_title": "2026年1月最新：中高生クリエイターの台頭",
-          "text_content": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
+          "main_title": "大学生が時給5万円？AIコンサル副業の衝撃",
+          "sub_title": "2026年1月最新版：受験期に差がつく新常識",
+          "text_content": "大学生が時給5万円？AIコンサル副業の衝撃",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-01.png",
           "image_file": "assets/img/posts/20260116_business-01.png",
-          "overlay_text": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-          "subtext": "2026年1月最新：中高生クリエイターの台頭",
-          "alt": "表紙 - 10代が月30万稼ぐ!? 2026年最新"
+          "overlay_text": "大学生が時給5万円？AIコンサル副業の衝撃",
+          "subtext": "2026年1月最新版：受験期に差がつく新常識",
+          "alt": "表紙 - 大学生が時給5万円？AIコンサル副業の衝"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子にはまだ早い？」その常識はもう古い。",
-          "sub_title": "2026年、スマホ一つで高度な動画・画像生成ができる時代。スキルがないと悩むのは、大人だけかもしれません。",
-          "text_content": "「うちの子にはまだ早い？」その常識はもう古い。",
+          "main_title": "バイトで消耗する時代は終わった？",
+          "sub_title": "「スキルがないから単純作業」という悩みは、マルチモーダルAIの普及で解決。今は『AIを使いこなす視点』こそが最大の武器に。",
+          "text_content": "バイトで消耗する時代は終わった？",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-02.png",
           "image_file": "assets/img/posts/20260116_business-02.png",
-          "overlay_text": "「うちの子にはまだ早い？」その常識はもう古い。",
-          "subtext": "2026年、スマホ一つで高度な動画・画像生成ができる時代。スキルがないと悩むのは、大人だけかもしれません。",
-          "alt": "内容1 - 「うちの子にはまだ早い？」その常識はもう"
+          "overlay_text": "バイトで消耗する時代は終わった？",
+          "subtext": "「スキルがないから単純作業」という悩みは、マルチモーダルAIの普及で解決。今は『AIを使いこなす視点』こそが最大の武器に。",
+          "alt": "内容1 - バイトで消耗する時代は終わった？"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
-          "sub_title": "プロンプト不要の脳波・視線入力デバイスも普及。最新AIツールで企業のSNS投稿を自動化・高品質化しています。",
-          "text_content": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
+          "main_title": "GPT-5以降の自律型エージェントを駆使",
+          "sub_title": "2026年は企業のDXを学生が支援する時代。特定業務特化型AIを構築する『パーソナル・エージェント・エンジニアリング』が主流です。",
+          "text_content": "GPT-5以降の自律型エージェントを駆使",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-03.png",
           "image_file": "assets/img/posts/20260116_business-03.png",
-          "overlay_text": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
-          "subtext": "プロンプト不要の脳波・視線入力デバイスも普及。最新AIツールで企業のSNS投稿を自動化・高品質化しています。",
-          "alt": "内容2 - Midjourney V8 & Sora"
+          "overlay_text": "GPT-5以降の自律型エージェントを駆使",
+          "subtext": "2026年は企業のDXを学生が支援する時代。特定業務特化型AIを構築する『パーソナル・エージェント・エンジニアリング』が主流です。",
+          "alt": "内容2 - GPT-5以降の自律型エージェントを駆使"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「使う側」になるための本質的思考",
-          "sub_title": "大切なのは技術ではなく「何を表現したいか」。if塾ではAIを道具とし、社会に価値を届けるマインドを育てます。",
-          "text_content": "if塾の視点：AIを「使う側」になるための本質的思考",
+          "main_title": "if塾流：AIは『外注』ではなく『拡張』",
+          "sub_title": "単なるツール利用で終わらせない。AIに思考を委ねるのではなく、自分の専門性をAIで10倍にする「ハイブリッド思考」が成功の鍵。",
+          "text_content": "if塾流：AIは『外注』ではなく『拡張』",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260116_business-04.png",
           "image_file": "assets/img/posts/20260116_business-04.png",
-          "overlay_text": "if塾の視点：AIを「使う側」になるための本質的思考",
-          "subtext": "大切なのは技術ではなく「何を表現したいか」。if塾ではAIを道具とし、社会に価値を届けるマインドを育てます。",
-          "alt": "内容3 - if塾の視点：AIを「使う側」になるため"
+          "overlay_text": "if塾流：AIは『外注』ではなく『拡張』",
+          "subtext": "単なるツール利用で終わらせない。AIに思考を委ねるのではなく、自分の専門性をAIで10倍にする「ハイブリッド思考」が成功の鍵。",
+          "alt": "内容3 - if塾流：AIは『外注』ではなく『拡張』"
         },
         {
           "page_number": 5,
@@ -245,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-16T13:26:00",
+      "research_date": "2026-01-16T20:25:46",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "10代が月30万稼ぐ!? 2026年最新",
+        "cover_text": "大学生が時給5万円？AIコンサル副業の衝",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "10代が月30万稼ぐ!? 2026年最新AIアート・SNS運用代行の実態",
-            "subtext": "2026年1月最新：中高生クリエイターの台頭",
+            "headline": "大学生が時給5万円？AIコンサル副業の衝撃",
+            "subtext": "2026年1月最新版：受験期に差がつく新常識",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「うちの子にはまだ早い？」その常識はもう古い。",
-            "subtext": "2026年、スマホ一つで高度な動画・画像生成ができる時代。スキルがないと悩むのは、大人だけかもしれません。",
+            "headline": "バイトで消耗する時代は終わった？",
+            "subtext": "「スキルがないから単純作業」という悩みは、マルチモーダルAIの普及で解決。今は『AIを使いこなす視点』こそが最大の武器に。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Midjourney V8 & Sora 2.0を使いこなすZ・α世代",
-            "subtext": "プロンプト不要の脳波・視線入力デバイスも普及。最新AIツールで企業のSNS投稿を自動化・高品質化しています。",
+            "headline": "GPT-5以降の自律型エージェントを駆使",
+            "subtext": "2026年は企業のDXを学生が支援する時代。特定業務特化型AIを構築する『パーソナル・エージェント・エンジニアリング』が主流です。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIを「使う側」になるための本質的思考",
-            "subtext": "大切なのは技術ではなく「何を表現したいか」。if塾ではAIを道具とし、社会に価値を届けるマインドを育てます。",
+            "headline": "if塾流：AIは『外注』ではなく『拡張』",
+            "subtext": "単なるツール利用で終わらせない。AIに思考を委ねるのではなく、自分の専門性をAIで10倍にする「ハイブリッド思考」が成功の鍵。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
