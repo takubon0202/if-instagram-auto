@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 11,
-    "last_updated": "2026-01-18T13:30:43.320460",
+    "last_updated": "2026-01-18T20:22:48.820334",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260118_activity",
       "post_id": "20260118_activity",
-      "created_at": "2026-01-18T13:30:43",
+      "created_at": "2026-01-18T20:22:48",
       "datetime": "2026-01-18T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「教わる」から「共につくる」へ",
+      "theme": "2026年最新！生成AI×地域課題ハッカソン報告",
       "target_audience": "Students & Parents",
-      "title": "AIは「教わる」から「共につくる」へ",
-      "caption": "【2026年1月】最新の授業風景をお届けします！\n\n新学期が始まって2週間。if塾の教室では、キーボードを叩く音よりも、AIと対話しながら「どんな価値を作るか」を議論する声が響いています。\n\n今やプログラミングは「自力でゼロから書く」時代から、AIを相棒にして爆速で形にする「AI駆動開発（AIDD）」へと完全に移行しました。\n\n「AIに頼ると考える力が落ちるのでは？」\nそんな心配は無用です。if塾の生徒たちは、AIが出したコードが最適かどうかを検証し、修正を指示する「ディレクション能力」を磨いています。\n\nこれこそが、2026年の社会で求められる「AIを使いこなす側」の人材に必要な力です。\n\n冬休み明け、一歩リードしたい君を待っています！\n\n#if塾 #2026年 #AI駆動開発 #AIDD #生成AI #プログラミング教育 #中高生エンジニア #教育DX",
-      "caption_text": "【2026年1月】最新の授業風景をお届けします！\n\n新学期が始まって2週間。if塾の教室では、キーボードを叩く音よりも、AIと対話しながら「どんな価値を作るか」を議論する声が響いています。\n\n今やプログラミングは「自力でゼロから書く」時代から、AIを相棒にして爆速で形にする「AI駆動開発（AIDD）」へと完全に移行しました。\n\n「AIに頼ると考える力が落ちるのでは？」\nそんな心配は無用です。if塾の生徒たちは、AIが出したコードが最適かどうかを検証し、修正を指示する「ディレクション能力」を磨いています。\n\nこれこそが、2026年の社会で求められる「AIを使いこなす側」の人材に必要な力です。\n\n冬休み明け、一歩リードしたい君を待っています！\n\n#if塾 #2026年 #AI駆動開発 #AIDD #生成AI #プログラミング教育 #中高生エンジニア #教育DX",
+      "title": "2026年最新！生成AI×地域課題ハッカソン報告",
+      "caption": "【2026年1月】最新の教育現場からお届けします！\n\n今月開催された「生成AI×地域課題解決ハッカソン」にて、if塾の生徒たちが目覚ましい活躍を見せました。✨\n\n2026年のトレンドは、指示を待つAIから、自ら考えて行動する「AIエージェント」へ。高校生たちが自力でエージェントを構築し、地元の観光や防災の課題を解決するプロトタイプを爆速で作り上げる姿には、時代の変化を強く感じました。\n\n「AIに仕事が奪われる」と不安になるのではなく、「AIをチームメンバーとしてどう指揮するか」。\nこの冬、生徒たちは確実にその一歩を歩み始めています。\n\n今のうちから最新技術に触れ、自分の武器にしたい方はぜひif塾の体験会へ！🚀\n\n#if塾 #生成AI #2026年 #AIエージェント #技育CAMP #地域課題解決 #DX教育 #高校生プログラマー #未来の教育",
+      "caption_text": "【2026年1月】最新の教育現場からお届けします！\n\n今月開催された「生成AI×地域課題解決ハッカソン」にて、if塾の生徒たちが目覚ましい活躍を見せました。✨\n\n2026年のトレンドは、指示を待つAIから、自ら考えて行動する「AIエージェント」へ。高校生たちが自力でエージェントを構築し、地元の観光や防災の課題を解決するプロトタイプを爆速で作り上げる姿には、時代の変化を強く感じました。\n\n「AIに仕事が奪われる」と不安になるのではなく、「AIをチームメンバーとしてどう指揮するか」。\nこの冬、生徒たちは確実にその一歩を歩み始めています。\n\n今のうちから最新技術に触れ、自分の武器にしたい方はぜひif塾の体験会へ！🚀\n\n#if塾 #生成AI #2026年 #AIエージェント #技育CAMP #地域課題解決 #DX教育 #高校生プログラマー #未来の教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI駆動開発",
-        "#AIDD",
         "#生成AI",
-        "#プログラミング学習",
-        "#次世代教育",
-        "#最新テック"
+        "#AIエージェント",
+        "#ハッカソン",
+        "#探究学習",
+        "#デジタル教育",
+        "#地域活性化"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「教わる」から「共につくる」へ",
-          "sub_title": "2026年最新：AI駆動開発（AIDD）の授業風景",
-          "text_content": "AIは「教わる」から「共につくる」へ",
+          "main_title": "2026年最新！生成AI×地域課題ハッカソン報告",
+          "sub_title": "AIエージェントが街を救う？1月の活動レポート",
+          "text_content": "2026年最新！生成AI×地域課題ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-01.png",
           "image_file": "assets/img/posts/20260118_activity-01.png",
-          "overlay_text": "AIは「教わる」から「共につくる」へ",
-          "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
-          "alt": "表紙 - AIは「教わる」から「共につくる」へ"
+          "overlay_text": "2026年最新！生成AI×地域課題ハッカソン報告",
+          "subtext": "AIエージェントが街を救う？1月の活動レポート",
+          "alt": "表紙 - 2026年最新！生成AI×地域課題ハッカ"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードを書くのが遅い」は過去の話？",
-          "sub_title": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
-          "text_content": "「コードを書くのが遅い」は過去の話？",
+          "main_title": "「ただのAI」から「動くAI」へ",
+          "sub_title": "2026年、学生たちはチャットで終わらせない。自律型AIエージェントを活用した、より実戦的な地域課題解決に挑みました。",
+          "text_content": "「ただのAI」から「動くAI」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-02.png",
           "image_file": "assets/img/posts/20260118_activity-02.png",
-          "overlay_text": "「コードを書くのが遅い」は過去の話？",
-          "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
-          "alt": "内容1 - 「コードを書くのが遅い」は過去の話？"
+          "overlay_text": "「ただのAI」から「動くAI」へ",
+          "subtext": "2026年、学生たちはチャットで終わらせない。自律型AIエージェントを活用した、より実戦的な地域課題解決に挑みました。",
+          "alt": "内容1 - 「ただのAI」から「動くAI」へ"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIが隣に座る教室",
-          "sub_title": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
-          "text_content": "マルチモーダルAIが隣に座る教室",
+          "main_title": "高校生が開発！24時間稼働の観光案内エージェント",
+          "sub_title": "最新のマルチモーダルAIを搭載。街の魅力を自ら分析・発信する生徒たちの姿に、審査員からも驚きの声が上がりました。",
+          "text_content": "高校生が開発！24時間稼働の観光案内エージェント",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-03.png",
           "image_file": "assets/img/posts/20260118_activity-03.png",
-          "overlay_text": "マルチモーダルAIが隣に座る教室",
-          "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
-          "alt": "内容2 - マルチモーダルAIが隣に座る教室"
+          "overlay_text": "高校生が開発！24時間稼働の観光案内エージェント",
+          "subtext": "最新のマルチモーダルAIを搭載。街の魅力を自ら分析・発信する生徒たちの姿に、審査員からも驚きの声が上がりました。",
+          "alt": "内容2 - 高校生が開発！24時間稼働の観光案内エー"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは、AIの『御し方』",
-          "sub_title": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
-          "text_content": "if塾が教えるのは、AIの『御し方』",
+          "main_title": "「技術」以上に「共感」が鍵になる時代",
+          "sub_title": "if塾が重視するのはAIを使いこなす力。2026年の入試やキャリアで求められるのは、課題の本質を見抜く人間力です。",
+          "text_content": "「技術」以上に「共感」が鍵になる時代",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-04.png",
           "image_file": "assets/img/posts/20260118_activity-04.png",
-          "overlay_text": "if塾が教えるのは、AIの『御し方』",
-          "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
-          "alt": "内容3 - if塾が教えるのは、AIの『御し方』"
+          "overlay_text": "「技術」以上に「共感」が鍵になる時代",
+          "subtext": "if塾が重視するのはAIを使いこなす力。2026年の入試やキャリアで求められるのは、課題の本質を見抜く人間力です。",
+          "alt": "内容3 - 「技術」以上に「共感」が鍵になる時代"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「教わる」から「共につくる」へ",
-          "sub_title": "2026年最新：AI駆動開発（AIDD）の授業風景",
-          "text_content": "AIは「教わる」から「共につくる」へ",
+          "main_title": "2026年最新！生成AI×地域課題ハッカソン報告",
+          "sub_title": "AIエージェントが街を救う？1月の活動レポート",
+          "text_content": "2026年最新！生成AI×地域課題ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-01.png",
           "image_file": "assets/img/posts/20260118_activity-01.png",
-          "overlay_text": "AIは「教わる」から「共につくる」へ",
-          "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
-          "alt": "表紙 - AIは「教わる」から「共につくる」へ"
+          "overlay_text": "2026年最新！生成AI×地域課題ハッカソン報告",
+          "subtext": "AIエージェントが街を救う？1月の活動レポート",
+          "alt": "表紙 - 2026年最新！生成AI×地域課題ハッカ"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードを書くのが遅い」は過去の話？",
-          "sub_title": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
-          "text_content": "「コードを書くのが遅い」は過去の話？",
+          "main_title": "「ただのAI」から「動くAI」へ",
+          "sub_title": "2026年、学生たちはチャットで終わらせない。自律型AIエージェントを活用した、より実戦的な地域課題解決に挑みました。",
+          "text_content": "「ただのAI」から「動くAI」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-02.png",
           "image_file": "assets/img/posts/20260118_activity-02.png",
-          "overlay_text": "「コードを書くのが遅い」は過去の話？",
-          "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
-          "alt": "内容1 - 「コードを書くのが遅い」は過去の話？"
+          "overlay_text": "「ただのAI」から「動くAI」へ",
+          "subtext": "2026年、学生たちはチャットで終わらせない。自律型AIエージェントを活用した、より実戦的な地域課題解決に挑みました。",
+          "alt": "内容1 - 「ただのAI」から「動くAI」へ"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIが隣に座る教室",
-          "sub_title": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
-          "text_content": "マルチモーダルAIが隣に座る教室",
+          "main_title": "高校生が開発！24時間稼働の観光案内エージェント",
+          "sub_title": "最新のマルチモーダルAIを搭載。街の魅力を自ら分析・発信する生徒たちの姿に、審査員からも驚きの声が上がりました。",
+          "text_content": "高校生が開発！24時間稼働の観光案内エージェント",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-03.png",
           "image_file": "assets/img/posts/20260118_activity-03.png",
-          "overlay_text": "マルチモーダルAIが隣に座る教室",
-          "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
-          "alt": "内容2 - マルチモーダルAIが隣に座る教室"
+          "overlay_text": "高校生が開発！24時間稼働の観光案内エージェント",
+          "subtext": "最新のマルチモーダルAIを搭載。街の魅力を自ら分析・発信する生徒たちの姿に、審査員からも驚きの声が上がりました。",
+          "alt": "内容2 - 高校生が開発！24時間稼働の観光案内エー"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは、AIの『御し方』",
-          "sub_title": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
-          "text_content": "if塾が教えるのは、AIの『御し方』",
+          "main_title": "「技術」以上に「共感」が鍵になる時代",
+          "sub_title": "if塾が重視するのはAIを使いこなす力。2026年の入試やキャリアで求められるのは、課題の本質を見抜く人間力です。",
+          "text_content": "「技術」以上に「共感」が鍵になる時代",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-04.png",
           "image_file": "assets/img/posts/20260118_activity-04.png",
-          "overlay_text": "if塾が教えるのは、AIの『御し方』",
-          "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
-          "alt": "内容3 - if塾が教えるのは、AIの『御し方』"
+          "overlay_text": "「技術」以上に「共感」が鍵になる時代",
+          "subtext": "if塾が重視するのはAIを使いこなす力。2026年の入試やキャリアで求められるのは、課題の本質を見抜く人間力です。",
+          "alt": "内容3 - 「技術」以上に「共感」が鍵になる時代"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ロボット"
+          "デザイン"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-18T13:29:33",
+      "research_date": "2026-01-18T20:21:27",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「教わる」から「共につくる」へ",
+        "cover_text": "2026年最新！生成AI×地域課題ハッカ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「教わる」から「共につくる」へ",
-            "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
+            "headline": "2026年最新！生成AI×地域課題ハッカソン報告",
+            "subtext": "AIエージェントが街を救う？1月の活動レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「コードを書くのが遅い」は過去の話？",
-            "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
+            "headline": "「ただのAI」から「動くAI」へ",
+            "subtext": "2026年、学生たちはチャットで終わらせない。自律型AIエージェントを活用した、より実戦的な地域課題解決に挑みました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAIが隣に座る教室",
-            "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
+            "headline": "高校生が開発！24時間稼働の観光案内エージェント",
+            "subtext": "最新のマルチモーダルAIを搭載。街の魅力を自ら分析・発信する生徒たちの姿に、審査員からも驚きの声が上がりました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教えるのは、AIの『御し方』",
-            "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
+            "headline": "「技術」以上に「共感」が鍵になる時代",
+            "subtext": "if塾が重視するのはAIを使いこなす力。2026年の入試やキャリアで求められるのは、課題の本質を見抜く人間力です。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
