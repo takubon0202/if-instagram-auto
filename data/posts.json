@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 11,
-    "last_updated": "2026-01-18T10:51:42.454737",
+    "last_updated": "2026-01-18T13:30:43.320460",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260118_activity",
       "post_id": "20260118_activity",
-      "created_at": "2026-01-18T10:51:42",
+      "created_at": "2026-01-18T13:30:43",
       "datetime": "2026-01-18T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "2026年最新！生成AI×社会貢献の最前線",
+      "theme": "AIは「教わる」から「共につくる」へ",
       "target_audience": "Students & Parents",
-      "title": "2026年最新！生成AI×社会貢献の最前線",
-      "caption": "【2026年1月】最新の活動報告をお届けします！\n\n2026年の幕開けとともに開催された今月のハッカソン。昨年のAIブームを経て、今年の生徒たちの関心は「技術を使ってどう社会を良くするか」という『社会実装』へと進化しています。\n\n特に注目を集めたのは、生成AIを活用した「環境DX」や「福祉AI」のプロジェクトです。\n\n「このコードで誰が救われるのか？」\nそんな問いを胸に、夜遅くまでディスカッションを重ねる生徒たちの姿に、私たち講師陣も新しい時代の到来を確信しました。\n\nif塾では、2026年の最新AIトレンドを抑えつつ、それを社会に還元できる「考える力」を育んでいます。\n\nこれからの時代、受験や就職でも「社会課題にどう向き合ったか」という実績がますます重要視されます。if塾で一緒に未来を形にしませんか？\n\n詳細はプロフィールURLから！",
-      "caption_text": "【2026年1月】最新の活動報告をお届けします！\n\n2026年の幕開けとともに開催された今月のハッカソン。昨年のAIブームを経て、今年の生徒たちの関心は「技術を使ってどう社会を良くするか」という『社会実装』へと進化しています。\n\n特に注目を集めたのは、生成AIを活用した「環境DX」や「福祉AI」のプロジェクトです。\n\n「このコードで誰が救われるのか？」\nそんな問いを胸に、夜遅くまでディスカッションを重ねる生徒たちの姿に、私たち講師陣も新しい時代の到来を確信しました。\n\nif塾では、2026年の最新AIトレンドを抑えつつ、それを社会に還元できる「考える力」を育んでいます。\n\nこれからの時代、受験や就職でも「社会課題にどう向き合ったか」という実績がますます重要視されます。if塾で一緒に未来を形にしませんか？\n\n詳細はプロフィールURLから！",
+      "title": "AIは「教わる」から「共につくる」へ",
+      "caption": "【2026年1月】最新の授業風景をお届けします！\n\n新学期が始まって2週間。if塾の教室では、キーボードを叩く音よりも、AIと対話しながら「どんな価値を作るか」を議論する声が響いています。\n\n今やプログラミングは「自力でゼロから書く」時代から、AIを相棒にして爆速で形にする「AI駆動開発（AIDD）」へと完全に移行しました。\n\n「AIに頼ると考える力が落ちるのでは？」\nそんな心配は無用です。if塾の生徒たちは、AIが出したコードが最適かどうかを検証し、修正を指示する「ディレクション能力」を磨いています。\n\nこれこそが、2026年の社会で求められる「AIを使いこなす側」の人材に必要な力です。\n\n冬休み明け、一歩リードしたい君を待っています！\n\n#if塾 #2026年 #AI駆動開発 #AIDD #生成AI #プログラミング教育 #中高生エンジニア #教育DX",
+      "caption_text": "【2026年1月】最新の授業風景をお届けします！\n\n新学期が始まって2週間。if塾の教室では、キーボードを叩く音よりも、AIと対話しながら「どんな価値を作るか」を議論する声が響いています。\n\n今やプログラミングは「自力でゼロから書く」時代から、AIを相棒にして爆速で形にする「AI駆動開発（AIDD）」へと完全に移行しました。\n\n「AIに頼ると考える力が落ちるのでは？」\nそんな心配は無用です。if塾の生徒たちは、AIが出したコードが最適かどうかを検証し、修正を指示する「ディレクション能力」を磨いています。\n\nこれこそが、2026年の社会で求められる「AIを使いこなす側」の人材に必要な力です。\n\n冬休み明け、一歩リードしたい君を待っています！\n\n#if塾 #2026年 #AI駆動開発 #AIDD #生成AI #プログラミング教育 #中高生エンジニア #教育DX",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#AI駆動開発",
+        "#AIDD",
         "#生成AI",
-        "#社会課題解決",
-        "#環境DX",
-        "#福祉AI",
-        "#ハッカソン",
-        "#探究学習",
-        "#教育DX"
+        "#プログラミング学習",
+        "#次世代教育",
+        "#最新テック"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！生成AI×社会貢献の最前線",
-          "sub_title": "1月ハッカソン：環境DXと福祉AIで未来を創る",
-          "text_content": "2026年最新！生成AI×社会貢献の最前線",
+          "main_title": "AIは「教わる」から「共につくる」へ",
+          "sub_title": "2026年最新：AI駆動開発（AIDD）の授業風景",
+          "text_content": "AIは「教わる」から「共につくる」へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-01.png",
           "image_file": "assets/img/posts/20260118_activity-01.png",
-          "overlay_text": "2026年最新！生成AI×社会貢献の最前線",
-          "subtext": "1月ハッカソン：環境DXと福祉AIで未来を創る",
-          "alt": "表紙 - 2026年最新！生成AI×社会貢献の最前"
+          "overlay_text": "AIは「教わる」から「共につくる」へ",
+          "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
+          "alt": "表紙 - AIは「教わる」から「共につくる」へ"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「技術をどう使うか」が問われる2026年",
-          "sub_title": "生成AIが当たり前になった今、学生たちには「ただ作る」以上の価値が求められています。",
-          "text_content": "「技術をどう使うか」が問われる2026年",
+          "main_title": "「コードを書くのが遅い」は過去の話？",
+          "sub_title": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
+          "text_content": "「コードを書くのが遅い」は過去の話？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-02.png",
           "image_file": "assets/img/posts/20260118_activity-02.png",
-          "overlay_text": "「技術をどう使うか」が問われる2026年",
-          "subtext": "生成AIが当たり前になった今、学生たちには「ただ作る」以上の価値が求められています。",
-          "alt": "内容1 - 「技術をどう使うか」が問われる2026年"
+          "overlay_text": "「コードを書くのが遅い」は過去の話？",
+          "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
+          "alt": "内容1 - 「コードを書くのが遅い」は過去の話？"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "1月ハッカソン、熱狂のアウトプット",
-          "sub_title": "ゴミ分別の高度化や独居高齢者の見守りAIなど、社会課題に即した実用的なプロトタイプが続々誕生！",
-          "text_content": "1月ハッカソン、熱狂のアウトプット",
+          "main_title": "マルチモーダルAIが隣に座る教室",
+          "sub_title": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
+          "text_content": "マルチモーダルAIが隣に座る教室",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-03.png",
           "image_file": "assets/img/posts/20260118_activity-03.png",
-          "overlay_text": "1月ハッカソン、熱狂のアウトプット",
-          "subtext": "ゴミ分別の高度化や独居高齢者の見守りAIなど、社会課題に即した実用的なプロトタイプが続々誕生！",
-          "alt": "内容2 - 1月ハッカソン、熱狂のアウトプット"
+          "overlay_text": "マルチモーダルAIが隣に座る教室",
+          "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
+          "alt": "内容2 - マルチモーダルAIが隣に座る教室"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AI×共感力」の重要性",
-          "sub_title": "最新ツールを使いこなすスキルはもちろん、現場の困りごとを想像する「DXの視点」を重視しています。",
-          "text_content": "if塾が教える「AI×共感力」の重要性",
+          "main_title": "if塾が教えるのは、AIの『御し方』",
+          "sub_title": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
+          "text_content": "if塾が教えるのは、AIの『御し方』",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-04.png",
           "image_file": "assets/img/posts/20260118_activity-04.png",
-          "overlay_text": "if塾が教える「AI×共感力」の重要性",
-          "subtext": "最新ツールを使いこなすスキルはもちろん、現場の困りごとを想像する「DXの視点」を重視しています。",
-          "alt": "内容3 - if塾が教える「AI×共感力」の重要性"
+          "overlay_text": "if塾が教えるのは、AIの『御し方』",
+          "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
+          "alt": "内容3 - if塾が教えるのは、AIの『御し方』"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！生成AI×社会貢献の最前線",
-          "sub_title": "1月ハッカソン：環境DXと福祉AIで未来を創る",
-          "text_content": "2026年最新！生成AI×社会貢献の最前線",
+          "main_title": "AIは「教わる」から「共につくる」へ",
+          "sub_title": "2026年最新：AI駆動開発（AIDD）の授業風景",
+          "text_content": "AIは「教わる」から「共につくる」へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-01.png",
           "image_file": "assets/img/posts/20260118_activity-01.png",
-          "overlay_text": "2026年最新！生成AI×社会貢献の最前線",
-          "subtext": "1月ハッカソン：環境DXと福祉AIで未来を創る",
-          "alt": "表紙 - 2026年最新！生成AI×社会貢献の最前"
+          "overlay_text": "AIは「教わる」から「共につくる」へ",
+          "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
+          "alt": "表紙 - AIは「教わる」から「共につくる」へ"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「技術をどう使うか」が問われる2026年",
-          "sub_title": "生成AIが当たり前になった今、学生たちには「ただ作る」以上の価値が求められています。",
-          "text_content": "「技術をどう使うか」が問われる2026年",
+          "main_title": "「コードを書くのが遅い」は過去の話？",
+          "sub_title": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
+          "text_content": "「コードを書くのが遅い」は過去の話？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-02.png",
           "image_file": "assets/img/posts/20260118_activity-02.png",
-          "overlay_text": "「技術をどう使うか」が問われる2026年",
-          "subtext": "生成AIが当たり前になった今、学生たちには「ただ作る」以上の価値が求められています。",
-          "alt": "内容1 - 「技術をどう使うか」が問われる2026年"
+          "overlay_text": "「コードを書くのが遅い」は過去の話？",
+          "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
+          "alt": "内容1 - 「コードを書くのが遅い」は過去の話？"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "1月ハッカソン、熱狂のアウトプット",
-          "sub_title": "ゴミ分別の高度化や独居高齢者の見守りAIなど、社会課題に即した実用的なプロトタイプが続々誕生！",
-          "text_content": "1月ハッカソン、熱狂のアウトプット",
+          "main_title": "マルチモーダルAIが隣に座る教室",
+          "sub_title": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
+          "text_content": "マルチモーダルAIが隣に座る教室",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-03.png",
           "image_file": "assets/img/posts/20260118_activity-03.png",
-          "overlay_text": "1月ハッカソン、熱狂のアウトプット",
-          "subtext": "ゴミ分別の高度化や独居高齢者の見守りAIなど、社会課題に即した実用的なプロトタイプが続々誕生！",
-          "alt": "内容2 - 1月ハッカソン、熱狂のアウトプット"
+          "overlay_text": "マルチモーダルAIが隣に座る教室",
+          "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
+          "alt": "内容2 - マルチモーダルAIが隣に座る教室"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AI×共感力」の重要性",
-          "sub_title": "最新ツールを使いこなすスキルはもちろん、現場の困りごとを想像する「DXの視点」を重視しています。",
-          "text_content": "if塾が教える「AI×共感力」の重要性",
+          "main_title": "if塾が教えるのは、AIの『御し方』",
+          "sub_title": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
+          "text_content": "if塾が教えるのは、AIの『御し方』",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260118_activity-04.png",
           "image_file": "assets/img/posts/20260118_activity-04.png",
-          "overlay_text": "if塾が教える「AI×共感力」の重要性",
-          "subtext": "最新ツールを使いこなすスキルはもちろん、現場の困りごとを想像する「DXの視点」を重視しています。",
-          "alt": "内容3 - if塾が教える「AI×共感力」の重要性"
+          "overlay_text": "if塾が教えるのは、AIの『御し方』",
+          "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
+          "alt": "内容3 - if塾が教えるのは、AIの『御し方』"
         },
         {
           "page_number": 5,
@@ -230,22 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "藤本陽向",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "ロボット"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "fujimoto_hinata",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-18T10:50:33",
+      "research_date": "2026-01-18T13:29:33",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新！生成AI×社会貢献の最前",
+        "cover_text": "AIは「教わる」から「共につくる」へ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新！生成AI×社会貢献の最前線",
-            "subtext": "1月ハッカソン：環境DXと福祉AIで未来を創る",
+            "headline": "AIは「教わる」から「共につくる」へ",
+            "subtext": "2026年最新：AI駆動開発（AIDD）の授業風景",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -269,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「技術をどう使うか」が問われる2026年",
-            "subtext": "生成AIが当たり前になった今、学生たちには「ただ作る」以上の価値が求められています。",
+            "headline": "「コードを書くのが遅い」は過去の話？",
+            "subtext": "受験勉強と両立しながら、自分のアプリを完成させたい。2026年の学生は、時間不足をAIで解消しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -278,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "1月ハッカソン、熱狂のアウトプット",
-            "subtext": "ゴミ分別の高度化や独居高齢者の見守りAIなど、社会課題に即した実用的なプロトタイプが続々誕生！",
+            "headline": "マルチモーダルAIが隣に座る教室",
+            "subtext": "GPT-5以降の高度な推論エンジンを活用し、設計図を描くだけでコードが走る。生徒たちは「実装」より「価値」を議論中。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -287,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える「AI×共感力」の重要性",
-            "subtext": "最新ツールを使いこなすスキルはもちろん、現場の困りごとを想像する「DXの視点」を重視しています。",
+            "headline": "if塾が教えるのは、AIの『御し方』",
+            "subtext": "ツールに頼り切るのではなく、AIの提案を批判的に検証する視点。これこそが2026年以降に必須の「真のスキル」です。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
