@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 11,
-    "last_updated": "2026-01-18T20:22:48.820334",
+    "total_posts": 12,
+    "last_updated": "2026-01-19T10:50:12.304551",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260119_announcement",
+      "post_id": "20260119_announcement",
+      "created_at": "2026-01-19T10:50:12",
+      "datetime": "2026-01-19T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+      "target_audience": "Students & Parents",
+      "title": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+      "caption": "【2026年1月】最新の教育トレンドをお届けします。\n\n2026年が始まり、受験シーズンもいよいよ本番。しかし、保護者の皆様が今最も懸念しているのは「AIに頼りすぎて、子供の思考力が低下していないか？」という点ではないでしょうか。\n\nもはやAIは「禁止」するものではなく「伴走」させるもの。if塾では、AI時代だからこそ価値が高まる『自走力』をテーマに、自分自身の頭で考え抜くトレーニングを強化しています。\n\n「AIを使いこなす側」に回るために、今何が必要か。最新の入試傾向とともに、これからの学び方を再定義しましょう。\n\n詳細は公式LINEにて公開中！\n\n#if塾 #教育 #AI教育 #2026年 #中学受験 #高校受験 #大学受験 #自走力 #思考力 #1月のニュース",
+      "caption_text": "【2026年1月】最新の教育トレンドをお届けします。\n\n2026年が始まり、受験シーズンもいよいよ本番。しかし、保護者の皆様が今最も懸念しているのは「AIに頼りすぎて、子供の思考力が低下していないか？」という点ではないでしょうか。\n\nもはやAIは「禁止」するものではなく「伴走」させるもの。if塾では、AI時代だからこそ価値が高まる『自走力』をテーマに、自分自身の頭で考え抜くトレーニングを強化しています。\n\n「AIを使いこなす側」に回るために、今何が必要か。最新の入試傾向とともに、これからの学び方を再定義しましょう。\n\n詳細は公式LINEにて公開中！\n\n#if塾 #教育 #AI教育 #2026年 #中学受験 #高校受験 #大学受験 #自走力 #思考力 #1月のニュース",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI教育",
+        "#自走力",
+        "#思考力低下",
+        "#最新教育トレンド",
+        "#1月の教育ニュース",
+        "#プロンプト力より思考力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "sub_title": "2026.01.19 最新教育レポート",
+          "text_content": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-01.png",
+          "image_file": "assets/img/posts/20260119_announcement-01.png",
+          "overlay_text": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "subtext": "2026.01.19 最新教育レポート",
+          "alt": "表紙 - AIを使いこなす子、依存する子。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "sub_title": "マルチモーダルAIの一般化で、宿題や論文も『秒』で終わる時代。しかし、その裏で自力で問いを立てる力が失われつつあります。",
+          "text_content": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-02.png",
+          "image_file": "assets/img/posts/20260119_announcement-02.png",
+          "overlay_text": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "subtext": "マルチモーダルAIの一般化で、宿題や論文も『秒』で終わる時代。しかし、その裏で自力で問いを立てる力が失われつつあります。",
+          "alt": "内容1 - 「答えはAIがくれる」という罠。思考停止"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "sub_title": "主要な中学・高校・大学入試では、AIの結果をどう批判的に捉え、自分の意見に昇華できるかを問う『自走力試験』が主流となっています。",
+          "text_content": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-03.png",
+          "image_file": "assets/img/posts/20260119_announcement-03.png",
+          "overlay_text": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "subtext": "主要な中学・高校・大学入試では、AIの結果をどう批判的に捉え、自分の意見に昇華できるかを問う『自走力試験』が主流となっています。",
+          "alt": "内容2 - 2026年入試の新潮流。「AI併用」前提"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "sub_title": "if塾ではAI対話トレーニングを導入。プロンプトを磨くのではなく『論理的思考の筋力』を鍛え、自分の頭で完結させる力を養います。",
+          "text_content": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-04.png",
+          "image_file": "assets/img/posts/20260119_announcement-04.png",
+          "overlay_text": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "subtext": "if塾ではAI対話トレーニングを導入。プロンプトを磨くのではなく『論理的思考の筋力』を鍛え、自分の頭で完結させる力を養います。",
+          "alt": "内容3 - if塾流：AIを「執事」にするか「主人」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "sub_title": "2026.01.19 最新教育レポート",
+          "text_content": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-01.png",
+          "image_file": "assets/img/posts/20260119_announcement-01.png",
+          "overlay_text": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+          "subtext": "2026.01.19 最新教育レポート",
+          "alt": "表紙 - AIを使いこなす子、依存する子。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "sub_title": "マルチモーダルAIの一般化で、宿題や論文も『秒』で終わる時代。しかし、その裏で自力で問いを立てる力が失われつつあります。",
+          "text_content": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-02.png",
+          "image_file": "assets/img/posts/20260119_announcement-02.png",
+          "overlay_text": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+          "subtext": "マルチモーダルAIの一般化で、宿題や論文も『秒』で終わる時代。しかし、その裏で自力で問いを立てる力が失われつつあります。",
+          "alt": "内容1 - 「答えはAIがくれる」という罠。思考停止"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "sub_title": "主要な中学・高校・大学入試では、AIの結果をどう批判的に捉え、自分の意見に昇華できるかを問う『自走力試験』が主流となっています。",
+          "text_content": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-03.png",
+          "image_file": "assets/img/posts/20260119_announcement-03.png",
+          "overlay_text": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+          "subtext": "主要な中学・高校・大学入試では、AIの結果をどう批判的に捉え、自分の意見に昇華できるかを問う『自走力試験』が主流となっています。",
+          "alt": "内容2 - 2026年入試の新潮流。「AI併用」前提"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "sub_title": "if塾ではAI対話トレーニングを導入。プロンプトを磨くのではなく『論理的思考の筋力』を鍛え、自分の頭で完結させる力を養います。",
+          "text_content": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260119_announcement-04.png",
+          "image_file": "assets/img/posts/20260119_announcement-04.png",
+          "overlay_text": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+          "subtext": "if塾ではAI対話トレーニングを導入。プロンプトを磨くのではなく『論理的思考の筋力』を鍛え、自分の頭で完結させる力を養います。",
+          "alt": "内容3 - if塾流：AIを「執事」にするか「主人」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260119_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260119_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260119_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260119_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-19T10:48:57",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIを使いこなす子、依存する子。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIを使いこなす子、依存する子。2026年「冬」の分かれ道",
+            "subtext": "2026.01.19 最新教育レポート",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「答えはAIがくれる」という罠。思考停止のリスクが急増中",
+            "subtext": "マルチモーダルAIの一般化で、宿題や論文も『秒』で終わる時代。しかし、その裏で自力で問いを立てる力が失われつつあります。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年入試の新潮流。「AI併用」前提の記述式・面接が鍵に",
+            "subtext": "主要な中学・高校・大学入試では、AIの結果をどう批判的に捉え、自分の意見に昇華できるかを問う『自走力試験』が主流となっています。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「執事」にするか「主人」にするか。1月からの対策",
+            "subtext": "if塾ではAI対話トレーニングを導入。プロンプトを磨くのではなく『論理的思考の筋力』を鍛え、自分の頭で完結させる力を養います。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260118_activity",
       "post_id": "20260118_activity",
