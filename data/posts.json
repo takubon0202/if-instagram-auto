@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 12,
-    "last_updated": "2026-01-19T13:39:54.154634",
+    "last_updated": "2026-01-19T20:28:50.112091",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260119_announcement",
       "post_id": "20260119_announcement",
-      "created_at": "2026-01-19T13:39:54",
+      "created_at": "2026-01-19T20:28:50",
       "datetime": "2026-01-19T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
+      "theme": "2026年最新！「答えを教えないAI」が教育を激変させる",
       "target_audience": "Students & Parents",
-      "title": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-      "caption": "【2026年1月】最新のAIトレンドをアップデート！\n\nあけましておめでとうございます。if塾です！\n2026年、生成AIは「体験」のフェーズを終え、完全に「実装」のフェーズへ突入しました。\n\n「AIに質問して答えをもらう」だけのスキルはもう過去のもの。これからは、Claude Codeや自律型AIエージェントを使いこなし、いかに短期間で価値あるサービスを開発できるかが問われます。\n\n受験や進学を控えるこの時期だからこそ、将来を見据えた「本物の武器」を身につけませんか？\n\nif塾では、2026年の最新開発環境を揃えて、みなさんの挑戦をサポートします！\n\n詳細はプロフィールのリンクをチェック！🚀",
-      "caption_text": "【2026年1月】最新のAIトレンドをアップデート！\n\nあけましておめでとうございます。if塾です！\n2026年、生成AIは「体験」のフェーズを終え、完全に「実装」のフェーズへ突入しました。\n\n「AIに質問して答えをもらう」だけのスキルはもう過去のもの。これからは、Claude Codeや自律型AIエージェントを使いこなし、いかに短期間で価値あるサービスを開発できるかが問われます。\n\n受験や進学を控えるこの時期だからこそ、将来を見据えた「本物の武器」を身につけませんか？\n\nif塾では、2026年の最新開発環境を揃えて、みなさんの挑戦をサポートします！\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "title": "2026年最新！「答えを教えないAI」が教育を激変させる",
+      "caption": "【2026年1月】最新エドテックニュースをお届け！\n\nあけましておめでとうございます。受験シーズン本番の今、教育業界では歴史的な転換点を迎えています。\n\n本日、2026年1月19日は「自走型AI学習プラットフォーム」の正式リリースが相次ぐ、記念すべき一日となりました。\n\nこれまでのAIは「答えを教えてくれる便利な道具」でしたが、これからのAIは「考え方を引き出してくれるコーチ」へと進化します。\n\nif塾では、これらの最新AIをいち早く導入。単に効率化するだけでなく、あえて「遠回り」をして考える楽しさを教える指導を実践しています。\n\n「AIに使われる子」ではなく「AIを使いこなして自走する子」へ。\n2026年の最新学習スタイルを、if塾で体験してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年1月】最新エドテックニュースをお届け！\n\nあけましておめでとうございます。受験シーズン本番の今、教育業界では歴史的な転換点を迎えています。\n\n本日、2026年1月19日は「自走型AI学習プラットフォーム」の正式リリースが相次ぐ、記念すべき一日となりました。\n\nこれまでのAIは「答えを教えてくれる便利な道具」でしたが、これからのAIは「考え方を引き出してくれるコーチ」へと進化します。\n\nif塾では、これらの最新AIをいち早く導入。単に効率化するだけでなく、あえて「遠回り」をして考える楽しさを教える指導を実践しています。\n\n「AIに使われる子」ではなく「AIを使いこなして自走する子」へ。\n2026年の最新学習スタイルを、if塾で体験してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "生成AI",
-        "ClaudeCode",
-        "AIエージェント",
-        "プログラミング教育",
-        "DX人材",
-        "最新テクノロジー"
+        "#if塾",
+        "#2026年",
+        "#教育改革",
+        "#自走型AI",
+        "#エドテック",
+        "#最新教育",
+        "#自学自習",
+        "#AI学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-          "sub_title": "1月最新トピック：Claude CodeとAIエージェントの衝撃",
-          "text_content": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
+          "main_title": "2026年最新！「答えを教えないAI」が教育を激変させる",
+          "sub_title": "1月19日リリースラッシュの全貌",
+          "text_content": "2026年最新！「答えを教えないAI」が教育を激変させる",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-01.png",
           "image_file": "assets/img/posts/20260119_announcement-01.png",
-          "overlay_text": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-          "subtext": "1月最新トピック：Claude CodeとAIエージェントの衝撃",
-          "alt": "表紙 - 2026年、AIを「使う」から「創る」へ"
+          "overlay_text": "2026年最新！「答えを教えないAI」が教育を激変させる",
+          "subtext": "1月19日リリースラッシュの全貌",
+          "alt": "表紙 - 2026年最新！「答えを教えないAI」が"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
-          "sub_title": "2026年、プログラミング教育は転換点。単なるチャット利用は当たり前になり、企業は「AIエージェントを使いこなして形にする力」を求めています。",
-          "text_content": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
+          "main_title": "AIに頼りすぎて、思考力が落ちていませんか？",
+          "sub_title": "2025年までの「回答生成型AI」の普及により、自力で考える力が低下するリスクが顕在化。今、保護者が最も恐れているのは『AI依存』です。",
+          "text_content": "AIに頼りすぎて、思考力が落ちていませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-02.png",
           "image_file": "assets/img/posts/20260119_announcement-02.png",
-          "overlay_text": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
-          "subtext": "2026年、プログラミング教育は転換点。単なるチャット利用は当たり前になり、企業は「AIエージェントを使いこなして形にする力」を求めています。",
-          "alt": "内容1 - 「AIで遊ぶ」だけでは足りない時代に。進"
+          "overlay_text": "AIに頼りすぎて、思考力が落ちていませんか？",
+          "subtext": "2025年までの「回答生成型AI」の普及により、自力で考える力が低下するリスクが顕在化。今、保護者が最も恐れているのは『AI依存』です。",
+          "alt": "内容1 - AIに頼りすぎて、思考力が落ちていません"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
-          "sub_title": "話題のClaude Codeや最新AIエージェントは、指示一つでアプリの土台を完結させます。今学ぶべきは、AIを指揮して「実用的な成果物」を生み出す設計力です。",
-          "text_content": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
+          "main_title": "「自走型AI」正式リリース。ヒントで導く新時代へ",
+          "sub_title": "本日1月19日、大手各社から答えを伏せて『解き方』をコーチングする自走型学習プラットフォームが相次いで発表。自律学習の完全自動化が始まります。",
+          "text_content": "「自走型AI」正式リリース。ヒントで導く新時代へ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-03.png",
           "image_file": "assets/img/posts/20260119_announcement-03.png",
-          "overlay_text": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
-          "subtext": "話題のClaude Codeや最新AIエージェントは、指示一つでアプリの土台を完結させます。今学ぶべきは、AIを指揮して「実用的な成果物」を生み出す設計力です。",
-          "alt": "内容2 - Claude Codeが変えた常識。実戦"
+          "overlay_text": "「自走型AI」正式リリース。ヒントで導く新時代へ",
+          "subtext": "本日1月19日、大手各社から答えを伏せて『解き方』をコーチングする自走型学習プラットフォームが相次いで発表。自律学習の完全自動化が始まります。",
+          "alt": "内容2 - 「自走型AI」正式リリース。ヒントで導く"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する2026年流「AI共生型」学習メソッド",
-          "sub_title": "1月の今、春からの新生活に向けて「AIエージェントとペアプログラミング」を体験。if塾では、最新ツールを駆使して数日でプロトタイプを完成させる実戦力を養います。",
-          "text_content": "if塾が提案する2026年流「AI共生型」学習メソッド",
+          "main_title": "if塾流：AIを「伴走者」にする究極の活用法",
+          "sub_title": "最新AIツールを使いこなしつつ、if塾のリアル指導で『なぜそうなるか』の対話を強化。ツール×対話で、2026年の入試に勝つ思考力を磨きます。",
+          "text_content": "if塾流：AIを「伴走者」にする究極の活用法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-04.png",
           "image_file": "assets/img/posts/20260119_announcement-04.png",
-          "overlay_text": "if塾が提案する2026年流「AI共生型」学習メソッド",
-          "subtext": "1月の今、春からの新生活に向けて「AIエージェントとペアプログラミング」を体験。if塾では、最新ツールを駆使して数日でプロトタイプを完成させる実戦力を養います。",
-          "alt": "内容3 - if塾が提案する2026年流「AI共生型"
+          "overlay_text": "if塾流：AIを「伴走者」にする究極の活用法",
+          "subtext": "最新AIツールを使いこなしつつ、if塾のリアル指導で『なぜそうなるか』の対話を強化。ツール×対話で、2026年の入試に勝つ思考力を磨きます。",
+          "alt": "内容3 - if塾流：AIを「伴走者」にする究極の活"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-          "sub_title": "1月最新トピック：Claude CodeとAIエージェントの衝撃",
-          "text_content": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
+          "main_title": "2026年最新！「答えを教えないAI」が教育を激変させる",
+          "sub_title": "1月19日リリースラッシュの全貌",
+          "text_content": "2026年最新！「答えを教えないAI」が教育を激変させる",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-01.png",
           "image_file": "assets/img/posts/20260119_announcement-01.png",
-          "overlay_text": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-          "subtext": "1月最新トピック：Claude CodeとAIエージェントの衝撃",
-          "alt": "表紙 - 2026年、AIを「使う」から「創る」へ"
+          "overlay_text": "2026年最新！「答えを教えないAI」が教育を激変させる",
+          "subtext": "1月19日リリースラッシュの全貌",
+          "alt": "表紙 - 2026年最新！「答えを教えないAI」が"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
-          "sub_title": "2026年、プログラミング教育は転換点。単なるチャット利用は当たり前になり、企業は「AIエージェントを使いこなして形にする力」を求めています。",
-          "text_content": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
+          "main_title": "AIに頼りすぎて、思考力が落ちていませんか？",
+          "sub_title": "2025年までの「回答生成型AI」の普及により、自力で考える力が低下するリスクが顕在化。今、保護者が最も恐れているのは『AI依存』です。",
+          "text_content": "AIに頼りすぎて、思考力が落ちていませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-02.png",
           "image_file": "assets/img/posts/20260119_announcement-02.png",
-          "overlay_text": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
-          "subtext": "2026年、プログラミング教育は転換点。単なるチャット利用は当たり前になり、企業は「AIエージェントを使いこなして形にする力」を求めています。",
-          "alt": "内容1 - 「AIで遊ぶ」だけでは足りない時代に。進"
+          "overlay_text": "AIに頼りすぎて、思考力が落ちていませんか？",
+          "subtext": "2025年までの「回答生成型AI」の普及により、自力で考える力が低下するリスクが顕在化。今、保護者が最も恐れているのは『AI依存』です。",
+          "alt": "内容1 - AIに頼りすぎて、思考力が落ちていません"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
-          "sub_title": "話題のClaude Codeや最新AIエージェントは、指示一つでアプリの土台を完結させます。今学ぶべきは、AIを指揮して「実用的な成果物」を生み出す設計力です。",
-          "text_content": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
+          "main_title": "「自走型AI」正式リリース。ヒントで導く新時代へ",
+          "sub_title": "本日1月19日、大手各社から答えを伏せて『解き方』をコーチングする自走型学習プラットフォームが相次いで発表。自律学習の完全自動化が始まります。",
+          "text_content": "「自走型AI」正式リリース。ヒントで導く新時代へ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-03.png",
           "image_file": "assets/img/posts/20260119_announcement-03.png",
-          "overlay_text": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
-          "subtext": "話題のClaude Codeや最新AIエージェントは、指示一つでアプリの土台を完結させます。今学ぶべきは、AIを指揮して「実用的な成果物」を生み出す設計力です。",
-          "alt": "内容2 - Claude Codeが変えた常識。実戦"
+          "overlay_text": "「自走型AI」正式リリース。ヒントで導く新時代へ",
+          "subtext": "本日1月19日、大手各社から答えを伏せて『解き方』をコーチングする自走型学習プラットフォームが相次いで発表。自律学習の完全自動化が始まります。",
+          "alt": "内容2 - 「自走型AI」正式リリース。ヒントで導く"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する2026年流「AI共生型」学習メソッド",
-          "sub_title": "1月の今、春からの新生活に向けて「AIエージェントとペアプログラミング」を体験。if塾では、最新ツールを駆使して数日でプロトタイプを完成させる実戦力を養います。",
-          "text_content": "if塾が提案する2026年流「AI共生型」学習メソッド",
+          "main_title": "if塾流：AIを「伴走者」にする究極の活用法",
+          "sub_title": "最新AIツールを使いこなしつつ、if塾のリアル指導で『なぜそうなるか』の対話を強化。ツール×対話で、2026年の入試に勝つ思考力を磨きます。",
+          "text_content": "if塾流：AIを「伴走者」にする究極の活用法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260119_announcement-04.png",
           "image_file": "assets/img/posts/20260119_announcement-04.png",
-          "overlay_text": "if塾が提案する2026年流「AI共生型」学習メソッド",
-          "subtext": "1月の今、春からの新生活に向けて「AIエージェントとペアプログラミング」を体験。if塾では、最新ツールを駆使して数日でプロトタイプを完成させる実戦力を養います。",
-          "alt": "内容3 - if塾が提案する2026年流「AI共生型"
+          "overlay_text": "if塾流：AIを「伴走者」にする究極の活用法",
+          "subtext": "最新AIツールを使いこなしつつ、if塾のリアル指導で『なぜそうなるか』の対話を強化。ツール×対話で、2026年の入試に勝つ思考力を磨きます。",
+          "alt": "内容3 - if塾流：AIを「伴走者」にする究極の活"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-19T13:38:44",
+      "research_date": "2026-01-19T20:27:33",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、AIを「使う」から「創る」へ",
+        "cover_text": "2026年最新！「答えを教えないAI」が",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、AIを「使う」から「創る」へ。乗り遅れないための最新開発シフト",
-            "subtext": "1月最新トピック：Claude CodeとAIエージェントの衝撃",
+            "headline": "2026年最新！「答えを教えないAI」が教育を激変させる",
+            "subtext": "1月19日リリースラッシュの全貌",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIで遊ぶ」だけでは足りない時代に。進路と就職のリアルな悩み",
-            "subtext": "2026年、プログラミング教育は転換点。単なるチャット利用は当たり前になり、企業は「AIエージェントを使いこなして形にする力」を求めています。",
+            "headline": "AIに頼りすぎて、思考力が落ちていませんか？",
+            "subtext": "2025年までの「回答生成型AI」の普及により、自力で考える力が低下するリスクが顕在化。今、保護者が最も恐れているのは『AI依存』です。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Claude Codeが変えた常識。実戦的な開発スキルが合格・採用の鍵",
-            "subtext": "話題のClaude Codeや最新AIエージェントは、指示一つでアプリの土台を完結させます。今学ぶべきは、AIを指揮して「実用的な成果物」を生み出す設計力です。",
+            "headline": "「自走型AI」正式リリース。ヒントで導く新時代へ",
+            "subtext": "本日1月19日、大手各社から答えを伏せて『解き方』をコーチングする自走型学習プラットフォームが相次いで発表。自律学習の完全自動化が始まります。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する2026年流「AI共生型」学習メソッド",
-            "subtext": "1月の今、春からの新生活に向けて「AIエージェントとペアプログラミング」を体験。if塾では、最新ツールを駆使して数日でプロトタイプを完成させる実戦力を養います。",
+            "headline": "if塾流：AIを「伴走者」にする究極の活用法",
+            "subtext": "最新AIツールを使いこなしつつ、if塾のリアル指導で『なぜそうなるか』の対話を強化。ツール×対話で、2026年の入試に勝つ思考力を磨きます。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
