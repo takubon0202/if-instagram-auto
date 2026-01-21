@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 14,
-    "last_updated": "2026-01-21T10:48:19.878881",
+    "last_updated": "2026-01-21T13:32:59.097410",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,25 @@
     {
       "id": "20260121_development",
       "post_id": "20260121_development",
-      "created_at": "2026-01-21T10:48:19",
+      "created_at": "2026-01-21T13:32:59",
       "datetime": "2026-01-21T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "【2026最新】手のひらAIが世界を変える！",
+      "theme": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
       "target_audience": "Students & Parents",
-      "title": "【2026最新】手のひらAIが世界を変える！",
-      "caption": "【2026年1月】最新の開発アップデート！\n\nあけましておめでとうございます！🎍\n進級や受験を控えたこの時期、AIの進化は止まりません。\n\n今月注目なのは、クラウドを通さずに\n「その場」でAIが思考するエッジデバイス開発。\n最新のNPU搭載基板を使えば、\n手のひらサイズの自律型ロボットや\n瞬時に反応するウェアラブル作品が誰でも作れる時代に！\n\n「画面の中のAI」から「リアルに動くAI」へ。\nif塾では、2026年の最先端技術を\n楽しく、実践的に学べる環境を整えています。\n\n春休み前に、自分だけの「自律型ロボット」を\n一緒にプログラミングしてみませんか？🤖✨\n\n詳細はプロフィールURLからチェック！\n@if_school\n\n#if塾 #2026年 #生成AI #エッジAI #自由研究 #ロボット開発 #NPU #最新テクノロジー #プログラミング教育",
-      "caption_text": "【2026年1月】最新の開発アップデート！\n\nあけましておめでとうございます！🎍\n進級や受験を控えたこの時期、AIの進化は止まりません。\n\n今月注目なのは、クラウドを通さずに\n「その場」でAIが思考するエッジデバイス開発。\n最新のNPU搭載基板を使えば、\n手のひらサイズの自律型ロボットや\n瞬時に反応するウェアラブル作品が誰でも作れる時代に！\n\n「画面の中のAI」から「リアルに動くAI」へ。\nif塾では、2026年の最先端技術を\n楽しく、実践的に学べる環境を整えています。\n\n春休み前に、自分だけの「自律型ロボット」を\n一緒にプログラミングしてみませんか？🤖✨\n\n詳細はプロフィールURLからチェック！\n@if_school\n\n#if塾 #2026年 #生成AI #エッジAI #自由研究 #ロボット開発 #NPU #最新テクノロジー #プログラミング教育",
+      "title": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+      "caption": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます。受験や進級を控えたこの時期、学生たちの学習スタイルが劇的に変化しています。\n\n昨年までの「チャットAIに質問する」段階から、2026年は「AIエージェントにタスクを任せる」フェーズへ突入しました。\n\nAgentic AI（エージェントAI）は、単に文章を作るだけでなく、自らネットで最新情報を調べ、複数のツールを使いこなし、最終的な成果物まで作り上げます。\n\nif塾では、この強力なツールを『単なる手抜き』に使うのではなく、自分の思考を拡張するための『最強のパートナー』として使いこなす次世代のスキルを伝えています。\n\nテクノロジーを味方につけて、新しい時代の学びをスタートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます。受験や進級を控えたこの時期、学生たちの学習スタイルが劇的に変化しています。\n\n昨年までの「チャットAIに質問する」段階から、2026年は「AIエージェントにタスクを任せる」フェーズへ突入しました。\n\nAgentic AI（エージェントAI）は、単に文章を作るだけでなく、自らネットで最新情報を調べ、複数のツールを使いこなし、最終的な成果物まで作り上げます。\n\nif塾では、この強力なツールを『単なる手抜き』に使うのではなく、自分の思考を拡張するための『最強のパートナー』として使いこなす次世代のスキルを伝えています。\n\nテクノロジーを味方につけて、新しい時代の学びをスタートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#エッジデバイス",
-        "#ロボット開発",
-        "#STEM教育"
+        "#AgenticAI",
+        "#エージェントAI",
+        "#AI教育",
+        "#最新テクノロジー",
+        "#自律型AI",
+        "#冬休みの宿題",
+        "#DX教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】手のひらAIが世界を変える！",
-          "sub_title": "1月発表：NPU搭載エッジデバイスの衝撃",
-          "text_content": "【2026最新】手のひらAIが世界を変える！",
+          "main_title": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+          "sub_title": "2026年1月最新：自律型AIアプリが学生の常識を塗り替える",
+          "text_content": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-01.png",
           "image_file": "assets/img/posts/20260121_development-01.png",
-          "overlay_text": "【2026最新】手のひらAIが世界を変える！",
-          "subtext": "1月発表：NPU搭載エッジデバイスの衝撃",
-          "alt": "表紙 - 【2026最新】手のひらAIが世界を変え"
+          "overlay_text": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+          "subtext": "2026年1月最新：自律型AIアプリが学生の常識を塗り替える",
+          "alt": "表紙 - 宿題から卒論まで、エージェントAIが「完"
         },
         {
           "page_number": 2,
@@ -57,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "受験・進級前の今、こんな悩みありませんか？",
-          "sub_title": "「AIは画面の中だけ」「クラウドの遅延でロボットがスムーズに動かない」そんなもどかしさを解消します。",
-          "text_content": "受験・進級前の今、こんな悩みありませんか？",
+          "main_title": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
+          "sub_title": "これまではAIに指示を出して回答をコピペして調整する手間がありましたが、最新の学生は『指示一つでタスク完了』を求めています。",
+          "text_content": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-02.png",
           "image_file": "assets/img/posts/20260121_development-02.png",
-          "overlay_text": "受験・進級前の今、こんな悩みありませんか？",
-          "subtext": "「AIは画面の中だけ」「クラウドの遅延でロボットがスムーズに動かない」そんなもどかしさを解消します。",
-          "alt": "内容1 - 受験・進級前の今、こんな悩みありませんか"
+          "overlay_text": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
+          "subtext": "これまではAIに指示を出して回答をコピペして調整する手間がありましたが、最新の学生は『指示一つでタスク完了』を求めています。",
+          "alt": "内容1 - 「AIに聞く」のはもう古い？検索と執筆に"
         },
         {
           "page_number": 3,
@@ -73,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の常識「オンデバイスLLM」",
-          "sub_title": "最新NPU基板で、ネット不要・超低遅延の自律型ロボットが完成。生成AIが直接ハードを制御する時代へ。",
-          "text_content": "2026年の常識「オンデバイスLLM」",
+          "main_title": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
+          "sub_title": "2026年冬、複数のAIが連携して実行プランを立て、ブラウジング、要約、清書まで代行する「自律型エージェント」がスマホアプリで普及しています。",
+          "text_content": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-03.png",
           "image_file": "assets/img/posts/20260121_development-03.png",
-          "overlay_text": "2026年の常識「オンデバイスLLM」",
-          "subtext": "最新NPU基板で、ネット不要・超低遅延の自律型ロボットが完成。生成AIが直接ハードを制御する時代へ。",
-          "alt": "内容2 - 2026年の常識「オンデバイスLLM」"
+          "overlay_text": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
+          "subtext": "2026年冬、複数のAIが連携して実行プランを立て、ブラウジング、要約、清書まで代行する「自律型エージェント」がスマホアプリで普及しています。",
+          "alt": "内容2 - Agentic AIが自律稼働。資料収集"
         },
         {
           "page_number": 4,
@@ -89,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「相棒」としての活用",
-          "sub_title": "ウェアラブルAIが学習をパーソナルサポート。自分専用の自律型ロボットを作るスキルは、将来の絶対的武器に。",
-          "text_content": "if塾が提案する「相棒」としての活用",
+          "main_title": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
+          "sub_title": "結果だけを受け取るのではなく、AIが生成した思考プロセスを確認することで、学生自身の論理的思考力を2倍速で成長させる活用を推奨しています。",
+          "text_content": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-04.png",
           "image_file": "assets/img/posts/20260121_development-04.png",
-          "overlay_text": "if塾が提案する「相棒」としての活用",
-          "subtext": "ウェアラブルAIが学習をパーソナルサポート。自分専用の自律型ロボットを作るスキルは、将来の絶対的武器に。",
-          "alt": "内容3 - if塾が提案する「相棒」としての活用"
+          "overlay_text": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
+          "subtext": "結果だけを受け取るのではなく、AIが生成した思考プロセスを確認することで、学生自身の論理的思考力を2倍速で成長させる活用を推奨しています。",
+          "alt": "内容3 - if塾流：AIを「代行者」ではなく「並走"
         },
         {
           "page_number": 5,
@@ -123,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】手のひらAIが世界を変える！",
-          "sub_title": "1月発表：NPU搭載エッジデバイスの衝撃",
-          "text_content": "【2026最新】手のひらAIが世界を変える！",
+          "main_title": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+          "sub_title": "2026年1月最新：自律型AIアプリが学生の常識を塗り替える",
+          "text_content": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-01.png",
           "image_file": "assets/img/posts/20260121_development-01.png",
-          "overlay_text": "【2026最新】手のひらAIが世界を変える！",
-          "subtext": "1月発表：NPU搭載エッジデバイスの衝撃",
-          "alt": "表紙 - 【2026最新】手のひらAIが世界を変え"
+          "overlay_text": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+          "subtext": "2026年1月最新：自律型AIアプリが学生の常識を塗り替える",
+          "alt": "表紙 - 宿題から卒論まで、エージェントAIが「完"
         },
         {
           "page_number": 2,
@@ -139,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "受験・進級前の今、こんな悩みありませんか？",
-          "sub_title": "「AIは画面の中だけ」「クラウドの遅延でロボットがスムーズに動かない」そんなもどかしさを解消します。",
-          "text_content": "受験・進級前の今、こんな悩みありませんか？",
+          "main_title": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
+          "sub_title": "これまではAIに指示を出して回答をコピペして調整する手間がありましたが、最新の学生は『指示一つでタスク完了』を求めています。",
+          "text_content": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-02.png",
           "image_file": "assets/img/posts/20260121_development-02.png",
-          "overlay_text": "受験・進級前の今、こんな悩みありませんか？",
-          "subtext": "「AIは画面の中だけ」「クラウドの遅延でロボットがスムーズに動かない」そんなもどかしさを解消します。",
-          "alt": "内容1 - 受験・進級前の今、こんな悩みありませんか"
+          "overlay_text": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
+          "subtext": "これまではAIに指示を出して回答をコピペして調整する手間がありましたが、最新の学生は『指示一つでタスク完了』を求めています。",
+          "alt": "内容1 - 「AIに聞く」のはもう古い？検索と執筆に"
         },
         {
           "page_number": 3,
@@ -155,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の常識「オンデバイスLLM」",
-          "sub_title": "最新NPU基板で、ネット不要・超低遅延の自律型ロボットが完成。生成AIが直接ハードを制御する時代へ。",
-          "text_content": "2026年の常識「オンデバイスLLM」",
+          "main_title": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
+          "sub_title": "2026年冬、複数のAIが連携して実行プランを立て、ブラウジング、要約、清書まで代行する「自律型エージェント」がスマホアプリで普及しています。",
+          "text_content": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-03.png",
           "image_file": "assets/img/posts/20260121_development-03.png",
-          "overlay_text": "2026年の常識「オンデバイスLLM」",
-          "subtext": "最新NPU基板で、ネット不要・超低遅延の自律型ロボットが完成。生成AIが直接ハードを制御する時代へ。",
-          "alt": "内容2 - 2026年の常識「オンデバイスLLM」"
+          "overlay_text": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
+          "subtext": "2026年冬、複数のAIが連携して実行プランを立て、ブラウジング、要約、清書まで代行する「自律型エージェント」がスマホアプリで普及しています。",
+          "alt": "内容2 - Agentic AIが自律稼働。資料収集"
         },
         {
           "page_number": 4,
@@ -171,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「相棒」としての活用",
-          "sub_title": "ウェアラブルAIが学習をパーソナルサポート。自分専用の自律型ロボットを作るスキルは、将来の絶対的武器に。",
-          "text_content": "if塾が提案する「相棒」としての活用",
+          "main_title": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
+          "sub_title": "結果だけを受け取るのではなく、AIが生成した思考プロセスを確認することで、学生自身の論理的思考力を2倍速で成長させる活用を推奨しています。",
+          "text_content": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260121_development-04.png",
           "image_file": "assets/img/posts/20260121_development-04.png",
-          "overlay_text": "if塾が提案する「相棒」としての活用",
-          "subtext": "ウェアラブルAIが学習をパーソナルサポート。自分専用の自律型ロボットを作るスキルは、将来の絶対的武器に。",
-          "alt": "内容3 - if塾が提案する「相棒」としての活用"
+          "overlay_text": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
+          "subtext": "結果だけを受け取るのではなく、AIが生成した思考プロセスを確認することで、学生自身の論理的思考力を2倍速で成長させる活用を推奨しています。",
+          "alt": "内容3 - if塾流：AIを「代行者」ではなく「並走"
         },
         {
           "page_number": 5,
@@ -227,22 +230,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "加賀屋結眞",
+        "role": "講師",
         "specialties": [
           "AI",
-          "ビジネス",
-          "教育"
+          "Webアプリ開発"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "kagaya_yuma",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-21T10:47:03",
+      "research_date": "2026-01-21T13:31:46",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026最新】手のひらAIが世界を変え",
+        "cover_text": "宿題から卒論まで、エージェントAIが「完",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026最新】手のひらAIが世界を変える！",
-            "subtext": "1月発表：NPU搭載エッジデバイスの衝撃",
+            "headline": "宿題から卒論まで、エージェントAIが「完結」させる時代へ。",
+            "subtext": "2026年1月最新：自律型AIアプリが学生の常識を塗り替える",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -266,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "受験・進級前の今、こんな悩みありませんか？",
-            "subtext": "「AIは画面の中だけ」「クラウドの遅延でロボットがスムーズに動かない」そんなもどかしさを解消します。",
+            "headline": "「AIに聞く」のはもう古い？検索と執筆に追われる冬休み",
+            "subtext": "これまではAIに指示を出して回答をコピペして調整する手間がありましたが、最新の学生は『指示一つでタスク完了』を求めています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -275,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の常識「オンデバイスLLM」",
-            "subtext": "最新NPU基板で、ネット不要・超低遅延の自律型ロボットが完成。生成AIが直接ハードを制御する時代へ。",
+            "headline": "Agentic AIが自律稼働。資料収集から推敲まで自動完結！",
+            "subtext": "2026年冬、複数のAIが連携して実行プランを立て、ブラウジング、要約、清書まで代行する「自律型エージェント」がスマホアプリで普及しています。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -284,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「相棒」としての活用",
-            "subtext": "ウェアラブルAIが学習をパーソナルサポート。自分専用の自律型ロボットを作るスキルは、将来の絶対的武器に。",
+            "headline": "if塾流：AIを「代行者」ではなく「並走者」にする活用術",
+            "subtext": "結果だけを受け取るのではなく、AIが生成した思考プロセスを確認することで、学生自身の論理的思考力を2倍速で成長させる活用を推奨しています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
