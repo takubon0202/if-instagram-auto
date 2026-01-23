@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 15,
-    "last_updated": "2026-01-22T20:30:04.753503",
+    "total_posts": 16,
+    "last_updated": "2026-01-23T10:45:17.455457",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260123_business",
+      "post_id": "20260123_business",
+      "created_at": "2026-01-23T10:45:17",
+      "datetime": "2026-01-23T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+      "target_audience": "Students & Parents",
+      "title": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+      "caption": "【2026年1月】最新の教育・副業トレンドをお届けします！\n\nあけましておめでとうございます。2026年が始まり、中高生の意識は大きく変わっています。最新の調査では、なんと97%の学生が「生成AIを活用したクリエイティブ活動」に意欲を示しています。\n\nもはやAIは「カンニングの道具」ではなく、個人の価値を最大化する「最強の武器」です。保護者の皆様、お子様がデジタル空間で自立して稼ぐ力を持つことは、これからの予測不能な時代において最大の教育ギフトになります。\n\nif塾では、技術だけでなく「どう活用して社会に貢献するか」というマインドセットを重視しています。\n\n今すぐ「AI副業」の第一歩を踏み出してみませんか？\n\n詳細はプロフィールのリンクをチェック！✨",
+      "caption_text": "【2026年1月】最新の教育・副業トレンドをお届けします！\n\nあけましておめでとうございます。2026年が始まり、中高生の意識は大きく変わっています。最新の調査では、なんと97%の学生が「生成AIを活用したクリエイティブ活動」に意欲を示しています。\n\nもはやAIは「カンニングの道具」ではなく、個人の価値を最大化する「最強の武器」です。保護者の皆様、お子様がデジタル空間で自立して稼ぐ力を持つことは、これからの予測不能な時代において最大の教育ギフトになります。\n\nif塾では、技術だけでなく「どう活用して社会に貢献するか」というマインドセットを重視しています。\n\n今すぐ「AI副業」の第一歩を踏み出してみませんか？\n\n詳細はプロフィールのリンクをチェック！✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIクリエイター",
+        "#生成AI",
+        "#中高生副業",
+        "#教育の未来",
+        "#リスキリング",
+        "#デジタルネイティブ"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "sub_title": "【2026年1月最新版】親子で知っておくべき副業のリアル",
+          "text_content": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-01.png",
+          "image_file": "assets/img/posts/20260123_business-01.png",
+          "overlay_text": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "subtext": "【2026年1月最新版】親子で知っておくべき副業のリアル",
+          "alt": "表紙 - 中高生の97%が狙う！2026年「AIク"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "sub_title": "かつての人気副業もAIの自動化で単価が下落。今、中高生が直面しているのは『単なる作業』では稼げないという壁です。",
+          "text_content": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-02.png",
+          "image_file": "assets/img/posts/20260123_business-02.png",
+          "overlay_text": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "subtext": "かつての人気副業もAIの自動化で単価が下落。今、中高生が直面しているのは『単なる作業』では稼げないという壁です。",
+          "alt": "内容1 - 「動画編集はもう古い？」飽和する市場で何"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "sub_title": "2026年の主流は、1つの指示で画像・動画・音楽を同時生成するマルチモーダルAI。これまでの『スキル習得』から『プロンプト設計』へシフトしています。",
+          "text_content": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-03.png",
+          "image_file": "assets/img/posts/20260123_business-03.png",
+          "overlay_text": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "subtext": "2026年の主流は、1つの指示で画像・動画・音楽を同時生成するマルチモーダルAI。これまでの『スキル習得』から『プロンプト設計』へシフトしています。",
+          "alt": "内容2 - 多機能AI「OmniGen-3」で10秒"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "sub_title": "ツールを使えるのは当たり前。大切なのは「誰のどんな悩みを解決するか」というビジネスの本質。AIを使って『共感』を生むクリエイティビティが成功を分けます。",
+          "text_content": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-04.png",
+          "image_file": "assets/img/posts/20260123_business-04.png",
+          "overlay_text": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "subtext": "ツールを使えるのは当たり前。大切なのは「誰のどんな悩みを解決するか」というビジネスの本質。AIを使って『共感』を生むクリエイティビティが成功を分けます。",
+          "alt": "内容3 - if塾の視点：AIを『道具』ではなく『パ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "sub_title": "【2026年1月最新版】親子で知っておくべき副業のリアル",
+          "text_content": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-01.png",
+          "image_file": "assets/img/posts/20260123_business-01.png",
+          "overlay_text": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+          "subtext": "【2026年1月最新版】親子で知っておくべき副業のリアル",
+          "alt": "表紙 - 中高生の97%が狙う！2026年「AIク"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "sub_title": "かつての人気副業もAIの自動化で単価が下落。今、中高生が直面しているのは『単なる作業』では稼げないという壁です。",
+          "text_content": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-02.png",
+          "image_file": "assets/img/posts/20260123_business-02.png",
+          "overlay_text": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+          "subtext": "かつての人気副業もAIの自動化で単価が下落。今、中高生が直面しているのは『単なる作業』では稼げないという壁です。",
+          "alt": "内容1 - 「動画編集はもう古い？」飽和する市場で何"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "sub_title": "2026年の主流は、1つの指示で画像・動画・音楽を同時生成するマルチモーダルAI。これまでの『スキル習得』から『プロンプト設計』へシフトしています。",
+          "text_content": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-03.png",
+          "image_file": "assets/img/posts/20260123_business-03.png",
+          "overlay_text": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+          "subtext": "2026年の主流は、1つの指示で画像・動画・音楽を同時生成するマルチモーダルAI。これまでの『スキル習得』から『プロンプト設計』へシフトしています。",
+          "alt": "内容2 - 多機能AI「OmniGen-3」で10秒"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "sub_title": "ツールを使えるのは当たり前。大切なのは「誰のどんな悩みを解決するか」というビジネスの本質。AIを使って『共感』を生むクリエイティビティが成功を分けます。",
+          "text_content": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260123_business-04.png",
+          "image_file": "assets/img/posts/20260123_business-04.png",
+          "overlay_text": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+          "subtext": "ツールを使えるのは当たり前。大切なのは「誰のどんな悩みを解決するか」というビジネスの本質。AIを使って『共感』を生むクリエイティビティが成功を分けます。",
+          "alt": "内容3 - if塾の視点：AIを『道具』ではなく『パ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260123_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260123_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260123_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260123_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-23T10:44:01",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生の97%が狙う！2026年「AIク",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生の97%が狙う！2026年「AIクリエイター」で月5万稼ぐ新常識",
+            "subtext": "【2026年1月最新版】親子で知っておくべき副業のリアル",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「動画編集はもう古い？」飽和する市場で何を選べばいいのか",
+            "subtext": "かつての人気副業もAIの自動化で単価が下落。今、中高生が直面しているのは『単なる作業』では稼げないという壁です。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "多機能AI「OmniGen-3」で10秒でプロ級コンテンツ作成",
+            "subtext": "2026年の主流は、1つの指示で画像・動画・音楽を同時生成するマルチモーダルAI。これまでの『スキル習得』から『プロンプト設計』へシフトしています。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIを『道具』ではなく『パートナー』にする思考法",
+            "subtext": "ツールを使えるのは当たり前。大切なのは「誰のどんな悩みを解決するか」というビジネスの本質。AIを使って『共感』を生むクリエイティビティが成功を分けます。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260122_ai_column",
       "post_id": "20260122_ai_column",
