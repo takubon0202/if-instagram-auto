@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 16,
-    "last_updated": "2026-01-23T20:28:42.923500",
+    "total_posts": 17,
+    "last_updated": "2026-01-24T10:42:44.371431",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260124_activity",
+      "post_id": "20260124_activity",
+      "created_at": "2026-01-24T10:42:44",
+      "datetime": "2026-01-24T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+      "caption": "【2026年1月】最新の活動報告をお届けします。\n\n2026年も1月後半に入り、受験シーズンもいよいよ本番。\n今年のif塾では、昨年導入された「AI学習ナビゲーション」が\n完全に生徒たちの日常に溶け込んでいます。\n\n最近の悩みとして多いのが、「AIに答えをすぐ聞いてしまい、思考力が育たない」という声。\nしかし、if塾のAIは違います。\n\nあえて『答えを教えない』設定にすることで、\n「この公式、どうしてここで使うんだっけ？」\n「前の問題との共通点は何かな？」\nと、AIが生徒に問いかけを返します。\n\nこの\"自走型学習\"の普及により、\n自習室での集中力と正答率が劇的に向上しています。\nテクノロジーを使いこなし、自分の頭で考える力を。\n\n2026年の冬、私たちは新しい学びのスタンダードを走り抜けます。\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年1月】最新の活動報告をお届けします。\n\n2026年も1月後半に入り、受験シーズンもいよいよ本番。\n今年のif塾では、昨年導入された「AI学習ナビゲーション」が\n完全に生徒たちの日常に溶け込んでいます。\n\n最近の悩みとして多いのが、「AIに答えをすぐ聞いてしまい、思考力が育たない」という声。\nしかし、if塾のAIは違います。\n\nあえて『答えを教えない』設定にすることで、\n「この公式、どうしてここで使うんだっけ？」\n「前の問題との共通点は何かな？」\nと、AIが生徒に問いかけを返します。\n\nこの\"自走型学習\"の普及により、\n自習室での集中力と正答率が劇的に向上しています。\nテクノロジーを使いこなし、自分の頭で考える力を。\n\n2026年の冬、私たちは新しい学びのスタンダードを走り抜けます。\n\n詳細はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI学習ナビゲーション",
+        "#自走型学習",
+        "#教育DX",
+        "#冬期講習",
+        "#思考力",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "sub_title": "2026年1月24日：最新の教育DXニュース",
+          "text_content": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-01.png",
+          "image_file": "assets/img/posts/20260124_activity-01.png",
+          "overlay_text": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "subtext": "2026年1月24日：最新の教育DXニュース",
+          "alt": "表紙 - 答えを教えないAI？2026年式「自走型"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "sub_title": "受験直前の1月、安易な回答検索が招く『本番で解けない』深刻なリスク。",
+          "text_content": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-02.png",
+          "image_file": "assets/img/posts/20260124_activity-02.png",
+          "overlay_text": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "subtext": "受験直前の1月、安易な回答検索が招く『本番で解けない』深刻なリスク。",
+          "alt": "内容1 - 「AIに聞けばいいや」で思考が止まってい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "sub_title": "解答ではなく『考え方のヒント』を対話で引き出す。生徒が自力で「分かった！」に辿り着く光景が増えています。",
+          "text_content": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-03.png",
+          "image_file": "assets/img/posts/20260124_activity-03.png",
+          "overlay_text": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "subtext": "解答ではなく『考え方のヒント』を対話で引き出す。生徒が自力で「分かった！」に辿り着く光景が増えています。",
+          "alt": "内容2 - 最新AIナビ「if-GPT4.5」が導く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "私たち講師の役割は「問いの設計」へ変わりました",
+          "sub_title": "AIが知識を補い、人間が伴走する。2026年のif塾は、生徒のメタ認知能力を最大化させる指導へアップデート。",
+          "text_content": "私たち講師の役割は「問いの設計」へ変わりました",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-04.png",
+          "image_file": "assets/img/posts/20260124_activity-04.png",
+          "overlay_text": "私たち講師の役割は「問いの設計」へ変わりました",
+          "subtext": "AIが知識を補い、人間が伴走する。2026年のif塾は、生徒のメタ認知能力を最大化させる指導へアップデート。",
+          "alt": "内容3 - 私たち講師の役割は「問いの設計」へ変わり"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "sub_title": "2026年1月24日：最新の教育DXニュース",
+          "text_content": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-01.png",
+          "image_file": "assets/img/posts/20260124_activity-01.png",
+          "overlay_text": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+          "subtext": "2026年1月24日：最新の教育DXニュース",
+          "alt": "表紙 - 答えを教えないAI？2026年式「自走型"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "sub_title": "受験直前の1月、安易な回答検索が招く『本番で解けない』深刻なリスク。",
+          "text_content": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-02.png",
+          "image_file": "assets/img/posts/20260124_activity-02.png",
+          "overlay_text": "「AIに聞けばいいや」で思考が止まっていませんか？",
+          "subtext": "受験直前の1月、安易な回答検索が招く『本番で解けない』深刻なリスク。",
+          "alt": "内容1 - 「AIに聞けばいいや」で思考が止まってい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "sub_title": "解答ではなく『考え方のヒント』を対話で引き出す。生徒が自力で「分かった！」に辿り着く光景が増えています。",
+          "text_content": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-03.png",
+          "image_file": "assets/img/posts/20260124_activity-03.png",
+          "overlay_text": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+          "subtext": "解答ではなく『考え方のヒント』を対話で引き出す。生徒が自力で「分かった！」に辿り着く光景が増えています。",
+          "alt": "内容2 - 最新AIナビ「if-GPT4.5」が導く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "私たち講師の役割は「問いの設計」へ変わりました",
+          "sub_title": "AIが知識を補い、人間が伴走する。2026年のif塾は、生徒のメタ認知能力を最大化させる指導へアップデート。",
+          "text_content": "私たち講師の役割は「問いの設計」へ変わりました",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260124_activity-04.png",
+          "image_file": "assets/img/posts/20260124_activity-04.png",
+          "overlay_text": "私たち講師の役割は「問いの設計」へ変わりました",
+          "subtext": "AIが知識を補い、人間が伴走する。2026年のif塾は、生徒のメタ認知能力を最大化させる指導へアップデート。",
+          "alt": "内容3 - 私たち講師の役割は「問いの設計」へ変わり"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260124_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260124_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260124_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260124_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-24T10:41:31",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "答えを教えないAI？2026年式「自走型",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "答えを教えないAI？2026年式「自走型学習」の衝撃",
+            "subtext": "2026年1月24日：最新の教育DXニュース",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIに聞けばいいや」で思考が止まっていませんか？",
+            "subtext": "受験直前の1月、安易な回答検索が招く『本番で解けない』深刻なリスク。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新AIナビ「if-GPT4.5」が導く自律の瞬間",
+            "subtext": "解答ではなく『考え方のヒント』を対話で引き出す。生徒が自力で「分かった！」に辿り着く光景が増えています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "私たち講師の役割は「問いの設計」へ変わりました",
+            "subtext": "AIが知識を補い、人間が伴走する。2026年のif塾は、生徒のメタ認知能力を最大化させる指導へアップデート。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260123_business",
       "post_id": "20260123_business",
