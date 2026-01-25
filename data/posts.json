@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 18,
-    "last_updated": "2026-01-25T13:39:42.448179",
+    "last_updated": "2026-01-25T20:24:34.977394",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260125_activity",
       "post_id": "20260125_activity",
-      "created_at": "2026-01-25T13:39:42",
+      "created_at": "2026-01-25T20:24:34",
       "datetime": "2026-01-25T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
+      "theme": "コードを書く時代は終わった？AIを『使いこなす』企画力",
       "target_audience": "Students & Parents",
-      "title": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-      "caption": "【2026年1月】最新の教育現場をお届けします！\n\nあけましておめでとうございます。if塾です。\n2026年がスタートし、受験シーズン本番を迎える一方で、if塾の教室では「AIエージェント」と共に未来を創る熱い授業が行われています。\n\n今やAIは、単に質問に答えるツールではありません。\n生徒一人ひとりのプロジェクトを支える「開発パートナー」です。\n\n「このコードのバグを一緒に探して」\n「この企画、もっと面白くするにはどうすればいい？」\n\nAIとの対話を通じて、生徒たちの思考の解像度が上がっていく様子は、まさに新しい時代の学習スタイル。\n\n2026年の学びは、知識を蓄えることから、AIをパートナーとして「何を生み出すか」へとシフトしています。\n\n最新のAI活用術や教室の様子が気になる方は、ぜひプロフィールから詳細をチェックしてください！",
-      "caption_text": "【2026年1月】最新の教育現場をお届けします！\n\nあけましておめでとうございます。if塾です。\n2026年がスタートし、受験シーズン本番を迎える一方で、if塾の教室では「AIエージェント」と共に未来を創る熱い授業が行われています。\n\n今やAIは、単に質問に答えるツールではありません。\n生徒一人ひとりのプロジェクトを支える「開発パートナー」です。\n\n「このコードのバグを一緒に探して」\n「この企画、もっと面白くするにはどうすればいい？」\n\nAIとの対話を通じて、生徒たちの思考の解像度が上がっていく様子は、まさに新しい時代の学習スタイル。\n\n2026年の学びは、知識を蓄えることから、AIをパートナーとして「何を生み出すか」へとシフトしています。\n\n最新のAI活用術や教室の様子が気になる方は、ぜひプロフィールから詳細をチェックしてください！",
+      "title": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+      "caption": "【2026年1月】最新の活動報告をお届けします！\n\n「プログラミングができる」だけでは通用しない時代がやってきました。\n2026年現在、生成AIの進化により、コードを書く作業はAIが担うのが当たり前に。\n\n今日のif塾では、学生たちが「AIエージェント」を自ら設計し、\nVtuberのプロデュースから運用までを自動化する企画に挑戦しました。\n\n大切なのは、ツールを使いこなすための「企画力」と「課題解決の視点」です。\nif塾では、技術の先にある「生き抜く力」を育んでいます。\n\n冬休み明けのこの時期、進路を考えるヒントにしてください！\n\n詳細はプロフィール欄のリンクから✨",
+      "caption_text": "【2026年1月】最新の活動報告をお届けします！\n\n「プログラミングができる」だけでは通用しない時代がやってきました。\n2026年現在、生成AIの進化により、コードを書く作業はAIが担うのが当たり前に。\n\n今日のif塾では、学生たちが「AIエージェント」を自ら設計し、\nVtuberのプロデュースから運用までを自動化する企画に挑戦しました。\n\n大切なのは、ツールを使いこなすための「企画力」と「課題解決の視点」です。\nif塾では、技術の先にある「生き抜く力」を育んでいます。\n\n冬休み明けのこの時期、進路を考えるヒントにしてください！\n\n詳細はプロフィール欄のリンクから✨",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#生成AI",
         "#AIエージェント",
-        "#共創学習",
         "#プログラミング教育",
-        "#次世代の学び",
-        "#教育DX",
-        "#AIパートナー"
+        "#企画力",
+        "#Vtuberプロデュース",
+        "#教育IT"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-          "sub_title": "2026.01.25 | if塾 最新レポート",
-          "text_content": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
+          "main_title": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+          "sub_title": "2026.01.25 if塾 活動報告",
+          "text_content": "コードを書く時代は終わった？AIを『使いこなす』企画力",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-01.png",
           "image_file": "assets/img/posts/20260125_activity-01.png",
-          "overlay_text": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-          "subtext": "2026.01.25 | if塾 最新レポート",
-          "alt": "表紙 - AIは「ツール」から「相棒」へ。2026"
+          "overlay_text": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+          "subtext": "2026.01.25 if塾 活動報告",
+          "alt": "表紙 - コードを書く時代は終わった？AIを『使い"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索するだけ」のAI活用、もう卒業しませんか？",
-          "sub_title": "答えを聞くだけでは、本当の力は身につかない。2026年、受験や進路に求められるのは『AIをどう使いこなすか』という対話力です。",
-          "text_content": "「検索するだけ」のAI活用、もう卒業しませんか？",
+          "main_title": "「AIは使えるけれど、何を作ればいい？」",
+          "sub_title": "2026年、生成AIが当たり前になった今、学生たちが直面しているのは『技術の習得』ではなく『何を解決するか』という壁です。",
+          "text_content": "「AIは使えるけれど、何を作ればいい？」",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-02.png",
           "image_file": "assets/img/posts/20260125_activity-02.png",
-          "overlay_text": "「検索するだけ」のAI活用、もう卒業しませんか？",
-          "subtext": "答えを聞くだけでは、本当の力は身につかない。2026年、受験や進路に求められるのは『AIをどう使いこなすか』という対話力です。",
-          "alt": "内容1 - 「検索するだけ」のAI活用、もう卒業しま"
+          "overlay_text": "「AIは使えるけれど、何を作ればいい？」",
+          "subtext": "2026年、生成AIが当たり前になった今、学生たちが直面しているのは『技術の習得』ではなく『何を解決するか』という壁です。",
+          "alt": "内容1 - 「AIは使えるけれど、何を作ればいい？」"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
-          "sub_title": "最新のAIエージェントを『開発パートナー』として導入。生徒たちは指示を出すだけでなく、AIと議論しながら創造的な解決策を導き出しています。",
-          "text_content": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
+          "main_title": "自律型AIエージェントと挑むVtuberプロデュース",
+          "sub_title": "本日の授業では、複数のAIを連携させ、キャラ設定から配信管理まで自動で行う仕組みを構築。技術を超えた「プロデュース力」が光りました。",
+          "text_content": "自律型AIエージェントと挑むVtuberプロデュース",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-03.png",
           "image_file": "assets/img/posts/20260125_activity-03.png",
-          "overlay_text": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
-          "subtext": "最新のAIエージェントを『開発パートナー』として導入。生徒たちは指示を出すだけでなく、AIと議論しながら創造的な解決策を導き出しています。",
-          "alt": "内容2 - 自律型AIエージェントと挑む、一人一人の"
+          "overlay_text": "自律型AIエージェントと挑むVtuberプロデュース",
+          "subtext": "本日の授業では、複数のAIを連携させ、キャラ設定から配信管理まで自動で行う仕組みを構築。技術を超えた「プロデュース力」が光りました。",
+          "alt": "内容2 - 自律型AIエージェントと挑むVtuber"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
-          "sub_title": "if塾ではAIを『答えを教える先生』ではなく『問いを立てる相棒』として位置づけています。この視点の転換が、生徒の主体性を爆発させています。",
-          "text_content": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
+          "main_title": "「プログラミング教育」から「設計・企画教育」へ",
+          "sub_title": "AIがコードを書く今、if塾が重視するのは『AIに何を指示し、どう組み合わせるか』。この視点が2026年の受験や就職の決め手になります。",
+          "text_content": "「プログラミング教育」から「設計・企画教育」へ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-04.png",
           "image_file": "assets/img/posts/20260125_activity-04.png",
-          "overlay_text": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
-          "subtext": "if塾ではAIを『答えを教える先生』ではなく『問いを立てる相棒』として位置づけています。この視点の転換が、生徒の主体性を爆発させています。",
-          "alt": "内容3 - 指導者の視点：AIとの対話で「思考の解像"
+          "overlay_text": "「プログラミング教育」から「設計・企画教育」へ",
+          "subtext": "AIがコードを書く今、if塾が重視するのは『AIに何を指示し、どう組み合わせるか』。この視点が2026年の受験や就職の決め手になります。",
+          "alt": "内容3 - 「プログラミング教育」から「設計・企画教"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-          "sub_title": "2026.01.25 | if塾 最新レポート",
-          "text_content": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
+          "main_title": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+          "sub_title": "2026.01.25 if塾 活動報告",
+          "text_content": "コードを書く時代は終わった？AIを『使いこなす』企画力",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-01.png",
           "image_file": "assets/img/posts/20260125_activity-01.png",
-          "overlay_text": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-          "subtext": "2026.01.25 | if塾 最新レポート",
-          "alt": "表紙 - AIは「ツール」から「相棒」へ。2026"
+          "overlay_text": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+          "subtext": "2026.01.25 if塾 活動報告",
+          "alt": "表紙 - コードを書く時代は終わった？AIを『使い"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索するだけ」のAI活用、もう卒業しませんか？",
-          "sub_title": "答えを聞くだけでは、本当の力は身につかない。2026年、受験や進路に求められるのは『AIをどう使いこなすか』という対話力です。",
-          "text_content": "「検索するだけ」のAI活用、もう卒業しませんか？",
+          "main_title": "「AIは使えるけれど、何を作ればいい？」",
+          "sub_title": "2026年、生成AIが当たり前になった今、学生たちが直面しているのは『技術の習得』ではなく『何を解決するか』という壁です。",
+          "text_content": "「AIは使えるけれど、何を作ればいい？」",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-02.png",
           "image_file": "assets/img/posts/20260125_activity-02.png",
-          "overlay_text": "「検索するだけ」のAI活用、もう卒業しませんか？",
-          "subtext": "答えを聞くだけでは、本当の力は身につかない。2026年、受験や進路に求められるのは『AIをどう使いこなすか』という対話力です。",
-          "alt": "内容1 - 「検索するだけ」のAI活用、もう卒業しま"
+          "overlay_text": "「AIは使えるけれど、何を作ればいい？」",
+          "subtext": "2026年、生成AIが当たり前になった今、学生たちが直面しているのは『技術の習得』ではなく『何を解決するか』という壁です。",
+          "alt": "内容1 - 「AIは使えるけれど、何を作ればいい？」"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
-          "sub_title": "最新のAIエージェントを『開発パートナー』として導入。生徒たちは指示を出すだけでなく、AIと議論しながら創造的な解決策を導き出しています。",
-          "text_content": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
+          "main_title": "自律型AIエージェントと挑むVtuberプロデュース",
+          "sub_title": "本日の授業では、複数のAIを連携させ、キャラ設定から配信管理まで自動で行う仕組みを構築。技術を超えた「プロデュース力」が光りました。",
+          "text_content": "自律型AIエージェントと挑むVtuberプロデュース",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-03.png",
           "image_file": "assets/img/posts/20260125_activity-03.png",
-          "overlay_text": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
-          "subtext": "最新のAIエージェントを『開発パートナー』として導入。生徒たちは指示を出すだけでなく、AIと議論しながら創造的な解決策を導き出しています。",
-          "alt": "内容2 - 自律型AIエージェントと挑む、一人一人の"
+          "overlay_text": "自律型AIエージェントと挑むVtuberプロデュース",
+          "subtext": "本日の授業では、複数のAIを連携させ、キャラ設定から配信管理まで自動で行う仕組みを構築。技術を超えた「プロデュース力」が光りました。",
+          "alt": "内容2 - 自律型AIエージェントと挑むVtuber"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
-          "sub_title": "if塾ではAIを『答えを教える先生』ではなく『問いを立てる相棒』として位置づけています。この視点の転換が、生徒の主体性を爆発させています。",
-          "text_content": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
+          "main_title": "「プログラミング教育」から「設計・企画教育」へ",
+          "sub_title": "AIがコードを書く今、if塾が重視するのは『AIに何を指示し、どう組み合わせるか』。この視点が2026年の受験や就職の決め手になります。",
+          "text_content": "「プログラミング教育」から「設計・企画教育」へ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260125_activity-04.png",
           "image_file": "assets/img/posts/20260125_activity-04.png",
-          "overlay_text": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
-          "subtext": "if塾ではAIを『答えを教える先生』ではなく『問いを立てる相棒』として位置づけています。この視点の転換が、生徒の主体性を爆発させています。",
-          "alt": "内容3 - 指導者の視点：AIとの対話で「思考の解像"
+          "overlay_text": "「プログラミング教育」から「設計・企画教育」へ",
+          "subtext": "AIがコードを書く今、if塾が重視するのは『AIに何を指示し、どう組み合わせるか』。この視点が2026年の受験や就職の決め手になります。",
+          "alt": "内容3 - 「プログラミング教育」から「設計・企画教"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "井上陽斗",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "ロボット"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "fujimoto_hinata",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-25T13:38:29",
+      "research_date": "2026-01-25T20:23:20",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「ツール」から「相棒」へ。2026",
+        "cover_text": "コードを書く時代は終わった？AIを『使い",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「ツール」から「相棒」へ。2026年の共創学習。",
-            "subtext": "2026.01.25 | if塾 最新レポート",
+            "headline": "コードを書く時代は終わった？AIを『使いこなす』企画力",
+            "subtext": "2026.01.25 if塾 活動報告",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「検索するだけ」のAI活用、もう卒業しませんか？",
-            "subtext": "答えを聞くだけでは、本当の力は身につかない。2026年、受験や進路に求められるのは『AIをどう使いこなすか』という対話力です。",
+            "headline": "「AIは使えるけれど、何を作ればいい？」",
+            "subtext": "2026年、生成AIが当たり前になった今、学生たちが直面しているのは『技術の習得』ではなく『何を解決するか』という壁です。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントと挑む、一人一人のプロジェクト開発",
-            "subtext": "最新のAIエージェントを『開発パートナー』として導入。生徒たちは指示を出すだけでなく、AIと議論しながら創造的な解決策を導き出しています。",
+            "headline": "自律型AIエージェントと挑むVtuberプロデュース",
+            "subtext": "本日の授業では、複数のAIを連携させ、キャラ設定から配信管理まで自動で行う仕組みを構築。技術を超えた「プロデュース力」が光りました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者の視点：AIとの対話で「思考の解像度」が劇的に上がる",
-            "subtext": "if塾ではAIを『答えを教える先生』ではなく『問いを立てる相棒』として位置づけています。この視点の転換が、生徒の主体性を爆発させています。",
+            "headline": "「プログラミング教育」から「設計・企画教育」へ",
+            "subtext": "AIがコードを書く今、if塾が重視するのは『AIに何を指示し、どう組み合わせるか』。この視点が2026年の受験や就職の決め手になります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
