@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 18,
-    "last_updated": "2026-01-25T20:24:34.977394",
+    "total_posts": 19,
+    "last_updated": "2026-01-26T10:54:38.809045",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260126_announcement",
+      "post_id": "20260126_announcement",
+      "created_at": "2026-01-26T10:54:38",
+      "datetime": "2026-01-26T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "2026年、プログラミング学習は「AI伴走」が常識に。",
+      "target_audience": "Students & Parents",
+      "title": "2026年、プログラミング学習は「AI伴走」が常識に。",
+      "caption": "【2026年1月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、学習スタイルをアップデートしませんか？\n2026年現在、プログラミング学習は「コードを覚える」ことから「AIを相棒に課題を解決する」ことへ完全にシフトしました。\n\n「AIに書かせるだけでは身につかないのでは？」\nそんな不安を解消するのが、if塾が提唱する「AI伴走型」学習です。\n\nAIを単なるカンニングペーパーにするのではなく、\n論理的な問いを投げかけ、思考を深めるパートナーとして活用する。\nこのスキルこそが、これからの入試や社会で求められる本質的な力になります。\n\n今のうちに、一歩先の学習スタイルを体験してみませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #プログラミング教育 #AI伴走型 #LLM #次世代教育 #最新トレンド #1月のニュース",
+      "caption_text": "【2026年1月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、学習スタイルをアップデートしませんか？\n2026年現在、プログラミング学習は「コードを覚える」ことから「AIを相棒に課題を解決する」ことへ完全にシフトしました。\n\n「AIに書かせるだけでは身につかないのでは？」\nそんな不安を解消するのが、if塾が提唱する「AI伴走型」学習です。\n\nAIを単なるカンニングペーパーにするのではなく、\n論理的な問いを投げかけ、思考を深めるパートナーとして活用する。\nこのスキルこそが、これからの入試や社会で求められる本質的な力になります。\n\n今のうちに、一歩先の学習スタイルを体験してみませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #プログラミング教育 #AI伴走型 #LLM #次世代教育 #最新トレンド #1月のニュース",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#プログラミング学習",
+        "#生成AI",
+        "#AI伴走型",
+        "#エドテック",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "sub_title": "【1月最新】LLMと共に成長する新時代の学び方",
+          "text_content": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-01.png",
+          "image_file": "assets/img/posts/20260126_announcement-01.png",
+          "overlay_text": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
+          "alt": "表紙 - 2026年、プログラミング学習は「AI伴"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「自力でコードを書く」のはもう古い？",
+          "sub_title": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+          "text_content": "「自力でコードを書く」のはもう古い？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-02.png",
+          "image_file": "assets/img/posts/20260126_announcement-02.png",
+          "overlay_text": "「自力でコードを書く」のはもう古い？",
+          "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+          "alt": "内容1 - 「自力でコードを書く」のはもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIを「家庭教師」にする圧倒的メリット",
+          "sub_title": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+          "text_content": "AIを「家庭教師」にする圧倒的メリット",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-03.png",
+          "image_file": "assets/img/posts/20260126_announcement-03.png",
+          "overlay_text": "AIを「家庭教師」にする圧倒的メリット",
+          "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+          "alt": "内容2 - AIを「家庭教師」にする圧倒的メリット"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AIとの共創」メソッド",
+          "sub_title": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+          "text_content": "if塾が提案する「AIとの共創」メソッド",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-04.png",
+          "image_file": "assets/img/posts/20260126_announcement-04.png",
+          "overlay_text": "if塾が提案する「AIとの共創」メソッド",
+          "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+          "alt": "内容3 - if塾が提案する「AIとの共創」メソッド"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "sub_title": "【1月最新】LLMと共に成長する新時代の学び方",
+          "text_content": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-01.png",
+          "image_file": "assets/img/posts/20260126_announcement-01.png",
+          "overlay_text": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
+          "alt": "表紙 - 2026年、プログラミング学習は「AI伴"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「自力でコードを書く」のはもう古い？",
+          "sub_title": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+          "text_content": "「自力でコードを書く」のはもう古い？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-02.png",
+          "image_file": "assets/img/posts/20260126_announcement-02.png",
+          "overlay_text": "「自力でコードを書く」のはもう古い？",
+          "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+          "alt": "内容1 - 「自力でコードを書く」のはもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIを「家庭教師」にする圧倒的メリット",
+          "sub_title": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+          "text_content": "AIを「家庭教師」にする圧倒的メリット",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-03.png",
+          "image_file": "assets/img/posts/20260126_announcement-03.png",
+          "overlay_text": "AIを「家庭教師」にする圧倒的メリット",
+          "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+          "alt": "内容2 - AIを「家庭教師」にする圧倒的メリット"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AIとの共創」メソッド",
+          "sub_title": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+          "text_content": "if塾が提案する「AIとの共創」メソッド",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260126_announcement-04.png",
+          "image_file": "assets/img/posts/20260126_announcement-04.png",
+          "overlay_text": "if塾が提案する「AIとの共創」メソッド",
+          "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+          "alt": "内容3 - if塾が提案する「AIとの共創」メソッド"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260126_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260126_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260126_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260126_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-26T10:53:19",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年、プログラミング学習は「AI伴",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年、プログラミング学習は「AI伴走」が常識に。",
+            "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「自力でコードを書く」のはもう古い？",
+            "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIを「家庭教師」にする圧倒的メリット",
+            "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する「AIとの共創」メソッド",
+            "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260125_activity",
       "post_id": "20260125_activity",
