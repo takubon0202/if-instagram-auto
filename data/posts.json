@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 19,
-    "last_updated": "2026-01-26T10:54:38.809045",
+    "last_updated": "2026-01-26T13:43:02.217924",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260126_announcement",
       "post_id": "20260126_announcement",
-      "created_at": "2026-01-26T10:54:38",
+      "created_at": "2026-01-26T13:43:02",
       "datetime": "2026-01-26T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、プログラミング学習は「AI伴走」が常識に。",
+      "theme": "2026年最新！動画AIで「好き」を才能に変える教育革命",
       "target_audience": "Students & Parents",
-      "title": "2026年、プログラミング学習は「AI伴走」が常識に。",
-      "caption": "【2026年1月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、学習スタイルをアップデートしませんか？\n2026年現在、プログラミング学習は「コードを覚える」ことから「AIを相棒に課題を解決する」ことへ完全にシフトしました。\n\n「AIに書かせるだけでは身につかないのでは？」\nそんな不安を解消するのが、if塾が提唱する「AI伴走型」学習です。\n\nAIを単なるカンニングペーパーにするのではなく、\n論理的な問いを投げかけ、思考を深めるパートナーとして活用する。\nこのスキルこそが、これからの入試や社会で求められる本質的な力になります。\n\n今のうちに、一歩先の学習スタイルを体験してみませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #プログラミング教育 #AI伴走型 #LLM #次世代教育 #最新トレンド #1月のニュース",
-      "caption_text": "【2026年1月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、学習スタイルをアップデートしませんか？\n2026年現在、プログラミング学習は「コードを覚える」ことから「AIを相棒に課題を解決する」ことへ完全にシフトしました。\n\n「AIに書かせるだけでは身につかないのでは？」\nそんな不安を解消するのが、if塾が提唱する「AI伴走型」学習です。\n\nAIを単なるカンニングペーパーにするのではなく、\n論理的な問いを投げかけ、思考を深めるパートナーとして活用する。\nこのスキルこそが、これからの入試や社会で求められる本質的な力になります。\n\n今のうちに、一歩先の学習スタイルを体験してみませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #プログラミング教育 #AI伴走型 #LLM #次世代教育 #最新トレンド #1月のニュース",
+      "title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+      "caption": "【2026年1月】最新の教育トレンドをお届けします。\n\n動画生成AIの進化により、2026年は「誰もが監督になれる時代」に突入しました。保護者の皆様、お子様の「好き」を形にする準備はできていますか？\n\nこれからの時代、重要なのは技術の習得以上に「何を伝えたいか」というクリエイティビティです。if塾では、最新のAIツールを使いこなし、個性を爆発させるクリエイティブ教育を本格化させます。\n\n2026年、学びはもっと自由で、もっとワクワクするものへ。詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年1月】最新の教育トレンドをお届けします。\n\n動画生成AIの進化により、2026年は「誰もが監督になれる時代」に突入しました。保護者の皆様、お子様の「好き」を形にする準備はできていますか？\n\nこれからの時代、重要なのは技術の習得以上に「何を伝えたいか」というクリエイティビティです。if塾では、最新のAIツールを使いこなし、個性を爆発させるクリエイティブ教育を本格化させます。\n\n2026年、学びはもっと自由で、もっとワクワクするものへ。詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#プログラミング学習",
-        "#生成AI",
-        "#AI伴走型",
-        "#エドテック",
-        "#最新教育"
+        "#動画生成AI",
+        "#クリエイティブ教育",
+        "#最新教育",
+        "#AI教育",
+        "#中高生ママ",
+        "#自由研究"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、プログラミング学習は「AI伴走」が常識に。",
-          "sub_title": "【1月最新】LLMと共に成長する新時代の学び方",
-          "text_content": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "main_title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "sub_title": "1月26日発表：クリエイティブ教育の本格始動",
+          "text_content": "2026年最新！動画AIで「好き」を才能に変える教育革命",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-01.png",
           "image_file": "assets/img/posts/20260126_announcement-01.png",
-          "overlay_text": "2026年、プログラミング学習は「AI伴走」が常識に。",
-          "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
-          "alt": "表紙 - 2026年、プログラミング学習は「AI伴"
+          "overlay_text": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "subtext": "1月26日発表：クリエイティブ教育の本格始動",
+          "alt": "表紙 - 2026年最新！動画AIで「好き」を才能"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「自力でコードを書く」のはもう古い？",
-          "sub_title": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
-          "text_content": "「自力でコードを書く」のはもう古い？",
+          "main_title": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "sub_title": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
+          "text_content": "「動画は見るもの」から「一瞬で作るもの」へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-02.png",
           "image_file": "assets/img/posts/20260126_announcement-02.png",
-          "overlay_text": "「自力でコードを書く」のはもう古い？",
-          "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
-          "alt": "内容1 - 「自力でコードを書く」のはもう古い？"
+          "overlay_text": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
+          "alt": "内容1 - 「動画は見るもの」から「一瞬で作るもの」"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIを「家庭教師」にする圧倒的メリット",
-          "sub_title": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
-          "text_content": "AIを「家庭教師」にする圧倒的メリット",
+          "main_title": "思考を即座に映像化する、新しい学びのカタチ",
+          "sub_title": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
+          "text_content": "思考を即座に映像化する、新しい学びのカタチ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-03.png",
           "image_file": "assets/img/posts/20260126_announcement-03.png",
-          "overlay_text": "AIを「家庭教師」にする圧倒的メリット",
-          "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
-          "alt": "内容2 - AIを「家庭教師」にする圧倒的メリット"
+          "overlay_text": "思考を即座に映像化する、新しい学びのカタチ",
+          "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
+          "alt": "内容2 - 思考を即座に映像化する、新しい学びのカタ"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AIとの共創」メソッド",
-          "sub_title": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
-          "text_content": "if塾が提案する「AIとの共創」メソッド",
+          "main_title": "if塾が提案する「AI×自分軸」の活用術",
+          "sub_title": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
+          "text_content": "if塾が提案する「AI×自分軸」の活用術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-04.png",
           "image_file": "assets/img/posts/20260126_announcement-04.png",
-          "overlay_text": "if塾が提案する「AIとの共創」メソッド",
-          "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
-          "alt": "内容3 - if塾が提案する「AIとの共創」メソッド"
+          "overlay_text": "if塾が提案する「AI×自分軸」の活用術",
+          "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
+          "alt": "内容3 - if塾が提案する「AI×自分軸」の活用術"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、プログラミング学習は「AI伴走」が常識に。",
-          "sub_title": "【1月最新】LLMと共に成長する新時代の学び方",
-          "text_content": "2026年、プログラミング学習は「AI伴走」が常識に。",
+          "main_title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "sub_title": "1月26日発表：クリエイティブ教育の本格始動",
+          "text_content": "2026年最新！動画AIで「好き」を才能に変える教育革命",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-01.png",
           "image_file": "assets/img/posts/20260126_announcement-01.png",
-          "overlay_text": "2026年、プログラミング学習は「AI伴走」が常識に。",
-          "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
-          "alt": "表紙 - 2026年、プログラミング学習は「AI伴"
+          "overlay_text": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "subtext": "1月26日発表：クリエイティブ教育の本格始動",
+          "alt": "表紙 - 2026年最新！動画AIで「好き」を才能"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「自力でコードを書く」のはもう古い？",
-          "sub_title": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
-          "text_content": "「自力でコードを書く」のはもう古い？",
+          "main_title": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "sub_title": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
+          "text_content": "「動画は見るもの」から「一瞬で作るもの」へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-02.png",
           "image_file": "assets/img/posts/20260126_announcement-02.png",
-          "overlay_text": "「自力でコードを書く」のはもう古い？",
-          "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
-          "alt": "内容1 - 「自力でコードを書く」のはもう古い？"
+          "overlay_text": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
+          "alt": "内容1 - 「動画は見るもの」から「一瞬で作るもの」"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIを「家庭教師」にする圧倒的メリット",
-          "sub_title": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
-          "text_content": "AIを「家庭教師」にする圧倒的メリット",
+          "main_title": "思考を即座に映像化する、新しい学びのカタチ",
+          "sub_title": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
+          "text_content": "思考を即座に映像化する、新しい学びのカタチ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-03.png",
           "image_file": "assets/img/posts/20260126_announcement-03.png",
-          "overlay_text": "AIを「家庭教師」にする圧倒的メリット",
-          "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
-          "alt": "内容2 - AIを「家庭教師」にする圧倒的メリット"
+          "overlay_text": "思考を即座に映像化する、新しい学びのカタチ",
+          "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
+          "alt": "内容2 - 思考を即座に映像化する、新しい学びのカタ"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AIとの共創」メソッド",
-          "sub_title": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
-          "text_content": "if塾が提案する「AIとの共創」メソッド",
+          "main_title": "if塾が提案する「AI×自分軸」の活用術",
+          "sub_title": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
+          "text_content": "if塾が提案する「AI×自分軸」の活用術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-04.png",
           "image_file": "assets/img/posts/20260126_announcement-04.png",
-          "overlay_text": "if塾が提案する「AIとの共創」メソッド",
-          "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
-          "alt": "内容3 - if塾が提案する「AIとの共創」メソッド"
+          "overlay_text": "if塾が提案する「AI×自分軸」の活用術",
+          "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
+          "alt": "内容3 - if塾が提案する「AI×自分軸」の活用術"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-26T10:53:19",
+      "research_date": "2026-01-26T13:41:46",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、プログラミング学習は「AI伴",
+        "cover_text": "2026年最新！動画AIで「好き」を才能",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、プログラミング学習は「AI伴走」が常識に。",
-            "subtext": "【1月最新】LLMと共に成長する新時代の学び方",
+            "headline": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+            "subtext": "1月26日発表：クリエイティブ教育の本格始動",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「自力でコードを書く」のはもう古い？",
-            "subtext": "2026年、エラーの自己解決に数時間かける時代は終わりました。AIを使わない学習は、効率の面で大きな遅れをとるリスクがあります。",
+            "headline": "「動画は見るもの」から「一瞬で作るもの」へ",
+            "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AIを「家庭教師」にする圧倒的メリット",
-            "subtext": "最新のLLMは論理的思考のパートナー。単なる回答生成ではなく、なぜそうなるかを対話形式で学べる「AI伴走型」が教育現場に完全定着しました。",
+            "headline": "思考を即座に映像化する、新しい学びのカタチ",
+            "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「AIとの共創」メソッド",
-            "subtext": "プロンプト力こそが現代の基礎教養。if塾では、AIを道具として使いこなし、創造性を最大化させる次世代カリキュラムを1月から本格展開しています。",
+            "headline": "if塾が提案する「AI×自分軸」の活用術",
+            "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
