@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 19,
-    "last_updated": "2026-01-26T13:43:02.217924",
+    "last_updated": "2026-01-26T20:28:33.732645",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260126_announcement",
       "post_id": "20260126_announcement",
-      "created_at": "2026-01-26T13:43:02",
+      "created_at": "2026-01-26T20:28:33",
       "datetime": "2026-01-26T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+      "theme": "2026年、AIは「調べる」から「教わる」へ！",
       "target_audience": "Students & Parents",
-      "title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-      "caption": "【2026年1月】最新の教育トレンドをお届けします。\n\n動画生成AIの進化により、2026年は「誰もが監督になれる時代」に突入しました。保護者の皆様、お子様の「好き」を形にする準備はできていますか？\n\nこれからの時代、重要なのは技術の習得以上に「何を伝えたいか」というクリエイティビティです。if塾では、最新のAIツールを使いこなし、個性を爆発させるクリエイティブ教育を本格化させます。\n\n2026年、学びはもっと自由で、もっとワクワクするものへ。詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年1月】最新の教育トレンドをお届けします。\n\n動画生成AIの進化により、2026年は「誰もが監督になれる時代」に突入しました。保護者の皆様、お子様の「好き」を形にする準備はできていますか？\n\nこれからの時代、重要なのは技術の習得以上に「何を伝えたいか」というクリエイティビティです。if塾では、最新のAIツールを使いこなし、個性を爆発させるクリエイティブ教育を本格化させます。\n\n2026年、学びはもっと自由で、もっとワクワクするものへ。詳細はプロフィールのリンクから！",
+      "title": "2026年、AIは「調べる」から「教わる」へ！",
+      "caption": "【2026年1月】最新の学習トレンドをお届けします！\n\n受験シーズン真っ只中ですが、今年の景色は昨年までと一変しています。✨\n\n2026年、AIはただの「便利ツール」を卒業し、一人ひとりに寄り添う「AIエージェント（指導役）」へと進化しました。\n\n「答えを教えて」ではなく「どう考えればいい？」とAIに問いかける。\nそんな自律的な学習スタイルが、今や合格への最短ルートです。🚀\n\nif塾では、この最新AI技術を味方につけ、主体的な思考力を育てる指導を本格化させています。\n\nAIを使いこなす側になるか、使われる側になるか。\nこの冬、if塾で新しい学びの扉を開きませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "caption_text": "【2026年1月】最新の学習トレンドをお届けします！\n\n受験シーズン真っ只中ですが、今年の景色は昨年までと一変しています。✨\n\n2026年、AIはただの「便利ツール」を卒業し、一人ひとりに寄り添う「AIエージェント（指導役）」へと進化しました。\n\n「答えを教えて」ではなく「どう考えればいい？」とAIに問いかける。\nそんな自律的な学習スタイルが、今や合格への最短ルートです。🚀\n\nif塾では、この最新AI技術を味方につけ、主体的な思考力を育てる指導を本格化させています。\n\nAIを使いこなす側になるか、使われる側になるか。\nこの冬、if塾で新しい学びの扉を開きませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#動画生成AI",
-        "#クリエイティブ教育",
-        "#最新教育",
+        "#AIエージェント",
         "#AI教育",
-        "#中高生ママ",
-        "#自由研究"
+        "#最新学習法",
+        "#中学受験2026",
+        "#高校受験2026",
+        "#DX教育",
+        "#個別指導"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-          "sub_title": "1月26日発表：クリエイティブ教育の本格始動",
-          "text_content": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "main_title": "2026年、AIは「調べる」から「教わる」へ！",
+          "sub_title": "1月最新：AIエージェントによる伴走型学習の衝撃",
+          "text_content": "2026年、AIは「調べる」から「教わる」へ！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-01.png",
           "image_file": "assets/img/posts/20260126_announcement-01.png",
-          "overlay_text": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-          "subtext": "1月26日発表：クリエイティブ教育の本格始動",
-          "alt": "表紙 - 2026年最新！動画AIで「好き」を才能"
+          "overlay_text": "2026年、AIは「調べる」から「教わる」へ！",
+          "subtext": "1月最新：AIエージェントによる伴走型学習の衝撃",
+          "alt": "表紙 - 2026年、AIは「調べる」から「教わる"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「動画は見るもの」から「一瞬で作るもの」へ",
-          "sub_title": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
-          "text_content": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "main_title": "宿題を「やらせる」時代は終わりました",
+          "sub_title": "ただ答えを出すだけのAIはもう古い。2026年の受験シーズン、AIが『24時間隣にいるプロ講師』として機能し始めています。",
+          "text_content": "宿題を「やらせる」時代は終わりました",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-02.png",
           "image_file": "assets/img/posts/20260126_announcement-02.png",
-          "overlay_text": "「動画は見るもの」から「一瞬で作るもの」へ",
-          "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
-          "alt": "内容1 - 「動画は見るもの」から「一瞬で作るもの」"
+          "overlay_text": "宿題を「やらせる」時代は終わりました",
+          "subtext": "ただ答えを出すだけのAIはもう古い。2026年の受験シーズン、AIが『24時間隣にいるプロ講師』として機能し始めています。",
+          "alt": "内容1 - 宿題を「やらせる」時代は終わりました"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "思考を即座に映像化する、新しい学びのカタチ",
-          "sub_title": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
-          "text_content": "思考を即座に映像化する、新しい学びのカタチ",
+          "main_title": "自分専用の「AI家庭教師」が標準装備に",
+          "sub_title": "最新のAIエージェントは生徒の苦手傾向をリアルタイムで分析。解き方のヒントを小出しにし、思考力を引き出す『指導役』へと進化しました。",
+          "text_content": "自分専用の「AI家庭教師」が標準装備に",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-03.png",
           "image_file": "assets/img/posts/20260126_announcement-03.png",
-          "overlay_text": "思考を即座に映像化する、新しい学びのカタチ",
-          "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
-          "alt": "内容2 - 思考を即座に映像化する、新しい学びのカタ"
+          "overlay_text": "自分専用の「AI家庭教師」が標準装備に",
+          "subtext": "最新のAIエージェントは生徒の苦手傾向をリアルタイムで分析。解き方のヒントを小出しにし、思考力を引き出す『指導役』へと進化しました。",
+          "alt": "内容2 - 自分専用の「AI家庭教師」が標準装備に"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI×自分軸」の活用術",
-          "sub_title": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
-          "text_content": "if塾が提案する「AI×自分軸」の活用術",
+          "main_title": "if塾が提案する「AIとの対話術」",
+          "sub_title": "重要なのは『問い方』。if塾では、AIを単なる検索ツールではなく、良きディスカッションパートナーとして使いこなす次世代の学習法を伝授しています。",
+          "text_content": "if塾が提案する「AIとの対話術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-04.png",
           "image_file": "assets/img/posts/20260126_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI×自分軸」の活用術",
-          "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
-          "alt": "内容3 - if塾が提案する「AI×自分軸」の活用術"
+          "overlay_text": "if塾が提案する「AIとの対話術」",
+          "subtext": "重要なのは『問い方』。if塾では、AIを単なる検索ツールではなく、良きディスカッションパートナーとして使いこなす次世代の学習法を伝授しています。",
+          "alt": "内容3 - if塾が提案する「AIとの対話術」"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-          "sub_title": "1月26日発表：クリエイティブ教育の本格始動",
-          "text_content": "2026年最新！動画AIで「好き」を才能に変える教育革命",
+          "main_title": "2026年、AIは「調べる」から「教わる」へ！",
+          "sub_title": "1月最新：AIエージェントによる伴走型学習の衝撃",
+          "text_content": "2026年、AIは「調べる」から「教わる」へ！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-01.png",
           "image_file": "assets/img/posts/20260126_announcement-01.png",
-          "overlay_text": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-          "subtext": "1月26日発表：クリエイティブ教育の本格始動",
-          "alt": "表紙 - 2026年最新！動画AIで「好き」を才能"
+          "overlay_text": "2026年、AIは「調べる」から「教わる」へ！",
+          "subtext": "1月最新：AIエージェントによる伴走型学習の衝撃",
+          "alt": "表紙 - 2026年、AIは「調べる」から「教わる"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「動画は見るもの」から「一瞬で作るもの」へ",
-          "sub_title": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
-          "text_content": "「動画は見るもの」から「一瞬で作るもの」へ",
+          "main_title": "宿題を「やらせる」時代は終わりました",
+          "sub_title": "ただ答えを出すだけのAIはもう古い。2026年の受験シーズン、AIが『24時間隣にいるプロ講師』として機能し始めています。",
+          "text_content": "宿題を「やらせる」時代は終わりました",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-02.png",
           "image_file": "assets/img/posts/20260126_announcement-02.png",
-          "overlay_text": "「動画は見るもの」から「一瞬で作るもの」へ",
-          "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
-          "alt": "内容1 - 「動画は見るもの」から「一瞬で作るもの」"
+          "overlay_text": "宿題を「やらせる」時代は終わりました",
+          "subtext": "ただ答えを出すだけのAIはもう古い。2026年の受験シーズン、AIが『24時間隣にいるプロ講師』として機能し始めています。",
+          "alt": "内容1 - 宿題を「やらせる」時代は終わりました"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "思考を即座に映像化する、新しい学びのカタチ",
-          "sub_title": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
-          "text_content": "思考を即座に映像化する、新しい学びのカタチ",
+          "main_title": "自分専用の「AI家庭教師」が標準装備に",
+          "sub_title": "最新のAIエージェントは生徒の苦手傾向をリアルタイムで分析。解き方のヒントを小出しにし、思考力を引き出す『指導役』へと進化しました。",
+          "text_content": "自分専用の「AI家庭教師」が標準装備に",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-03.png",
           "image_file": "assets/img/posts/20260126_announcement-03.png",
-          "overlay_text": "思考を即座に映像化する、新しい学びのカタチ",
-          "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
-          "alt": "内容2 - 思考を即座に映像化する、新しい学びのカタ"
+          "overlay_text": "自分専用の「AI家庭教師」が標準装備に",
+          "subtext": "最新のAIエージェントは生徒の苦手傾向をリアルタイムで分析。解き方のヒントを小出しにし、思考力を引き出す『指導役』へと進化しました。",
+          "alt": "内容2 - 自分専用の「AI家庭教師」が標準装備に"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI×自分軸」の活用術",
-          "sub_title": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
-          "text_content": "if塾が提案する「AI×自分軸」の活用術",
+          "main_title": "if塾が提案する「AIとの対話術」",
+          "sub_title": "重要なのは『問い方』。if塾では、AIを単なる検索ツールではなく、良きディスカッションパートナーとして使いこなす次世代の学習法を伝授しています。",
+          "text_content": "if塾が提案する「AIとの対話術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260126_announcement-04.png",
           "image_file": "assets/img/posts/20260126_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI×自分軸」の活用術",
-          "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
-          "alt": "内容3 - if塾が提案する「AI×自分軸」の活用術"
+          "overlay_text": "if塾が提案する「AIとの対話術」",
+          "subtext": "重要なのは『問い方』。if塾では、AIを単なる検索ツールではなく、良きディスカッションパートナーとして使いこなす次世代の学習法を伝授しています。",
+          "alt": "内容3 - if塾が提案する「AIとの対話術」"
         },
         {
           "page_number": 5,
@@ -244,7 +245,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-26T13:41:46",
+      "research_date": "2026-01-26T20:27:13",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新！動画AIで「好き」を才能",
+        "cover_text": "2026年、AIは「調べる」から「教わる",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新！動画AIで「好き」を才能に変える教育革命",
-            "subtext": "1月26日発表：クリエイティブ教育の本格始動",
+            "headline": "2026年、AIは「調べる」から「教わる」へ！",
+            "subtext": "1月最新：AIエージェントによる伴走型学習の衝撃",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「動画は見るもの」から「一瞬で作るもの」へ",
-            "subtext": "2026年、動画生成AIの進化で、スキルの壁が消滅。でも「何を表現したいか」がないと、置いていかれる時代に。",
+            "headline": "宿題を「やらせる」時代は終わりました",
+            "subtext": "ただ答えを出すだけのAIはもう古い。2026年の受験シーズン、AIが『24時間隣にいるプロ講師』として機能し始めています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "思考を即座に映像化する、新しい学びのカタチ",
-            "subtext": "最新AIツールを活用し、子供たちが自分の空想や趣味をプロ級の映像に。2026年、表現力が偏差値を凌駕します。",
+            "headline": "自分専用の「AI家庭教師」が標準装備に",
+            "subtext": "最新のAIエージェントは生徒の苦手傾向をリアルタイムで分析。解き方のヒントを小出しにし、思考力を引き出す『指導役』へと進化しました。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「AI×自分軸」の活用術",
-            "subtext": "単なるツール操作ではなく、プロンプトに込める「自分だけの視点」を育成。春季講習から新カリキュラムが始動！",
+            "headline": "if塾が提案する「AIとの対話術」",
+            "subtext": "重要なのは『問い方』。if塾では、AIを単なる検索ツールではなく、良きディスカッションパートナーとして使いこなす次世代の学習法を伝授しています。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
