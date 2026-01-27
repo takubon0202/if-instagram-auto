@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 19,
-    "last_updated": "2026-01-26T20:28:33.732645",
+    "total_posts": 20,
+    "last_updated": "2026-01-27T10:51:36.209438",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260127_education",
+      "post_id": "20260127_education",
+      "created_at": "2026-01-27T10:51:36",
+      "datetime": "2026-01-27T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+      "caption": "【2026年1月】最新の共通テスト速報です。\n\n「情報I」が導入されて2年目。 \n2026年の共通テストは、予想通り難易度が一段階上がりました。\n\n特にプログラミングとデータ分析の配点比重が増え、 \n「なんとなく理解している」層が大きくスコアを落としています。\n\n今、受験生の皆さんに必要なのは、 \nただ問題を解くことではなく、アルゴリズムの「なぜ？」を言語化する力です。\n\nif塾では、2026年の最新トレンドに基づいた \n個別対策プログラムを提供しています。\n\n来年の受験を見据える高1・高2生の皆さんも、 \nこの難化傾向は他人事ではありません。\n早めの準備で、ライバルに差をつけましょう！\n\n詳しく知りたい方はプロフィールから公式LINEへ！",
+      "caption_text": "【2026年1月】最新の共通テスト速報です。\n\n「情報I」が導入されて2年目。 \n2026年の共通テストは、予想通り難易度が一段階上がりました。\n\n特にプログラミングとデータ分析の配点比重が増え、 \n「なんとなく理解している」層が大きくスコアを落としています。\n\n今、受験生の皆さんに必要なのは、 \nただ問題を解くことではなく、アルゴリズムの「なぜ？」を言語化する力です。\n\nif塾では、2026年の最新トレンドに基づいた \n個別対策プログラムを提供しています。\n\n来年の受験を見据える高1・高2生の皆さんも、 \nこの難化傾向は他人事ではありません。\n早めの準備で、ライバルに差をつけましょう！\n\n詳しく知りたい方はプロフィールから公式LINEへ！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#共通テスト",
+        "#情報I",
+        "#大学受験",
+        "#プログラミング教育",
+        "#データサイエンス",
+        "#教育コラム"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "sub_title": "1月27日更新：データ分析・プログラミングが命運を分ける",
+          "text_content": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-01.png",
+          "image_file": "assets/img/posts/20260127_education-01.png",
+          "overlay_text": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "subtext": "1月27日更新：データ分析・プログラミングが命運を分ける",
+          "alt": "表紙 - 【2026最新】共通テスト「情報I」難化"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "sub_title": "新課程2年目となる2026年。昨年以上の「思考力」を問う問題が増加し、単なる知識の暗記では歯が立たない受験生が急増しています。",
+          "text_content": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-02.png",
+          "image_file": "assets/img/posts/20260127_education-02.png",
+          "overlay_text": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "subtext": "新課程2年目となる2026年。昨年以上の「思考力」を問う問題が増加し、単なる知識の暗記では歯が立たない受験生が急増しています。",
+          "alt": "内容1 - 「去年より格段に難しい…」共通テスト2年"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "sub_title": "共通テストは今や「読解力」と「アルゴリズム構築力」の試験へ。2026年は特にPythonベースの論理構造と統計の複合問題が勝負の鍵です。",
+          "text_content": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-03.png",
+          "image_file": "assets/img/posts/20260127_education-03.png",
+          "overlay_text": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "subtext": "共通テストは今や「読解力」と「アルゴリズム構築力」の試験へ。2026年は特にPythonベースの論理構造と統計の複合問題が勝負の鍵です。",
+          "alt": "内容2 - if塾が分析する2026年の傾向：配点増"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "sub_title": "if塾では最新のシミュレーションツールを活用。模試の解き直しだけでなく、変数の動きを可視化することで、本番の初見問題に対応する力を養います。",
+          "text_content": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-04.png",
+          "image_file": "assets/img/posts/20260127_education-04.png",
+          "overlay_text": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "subtext": "if塾では最新のシミュレーションツールを活用。模試の解き直しだけでなく、変数の動きを可視化することで、本番の初見問題に対応する力を養います。",
+          "alt": "内容3 - 今から始める逆転対策：AIツール併用で「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "sub_title": "1月27日更新：データ分析・プログラミングが命運を分ける",
+          "text_content": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-01.png",
+          "image_file": "assets/img/posts/20260127_education-01.png",
+          "overlay_text": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+          "subtext": "1月27日更新：データ分析・プログラミングが命運を分ける",
+          "alt": "表紙 - 【2026最新】共通テスト「情報I」難化"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "sub_title": "新課程2年目となる2026年。昨年以上の「思考力」を問う問題が増加し、単なる知識の暗記では歯が立たない受験生が急増しています。",
+          "text_content": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-02.png",
+          "image_file": "assets/img/posts/20260127_education-02.png",
+          "overlay_text": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+          "subtext": "新課程2年目となる2026年。昨年以上の「思考力」を問う問題が増加し、単なる知識の暗記では歯が立たない受験生が急増しています。",
+          "alt": "内容1 - 「去年より格段に難しい…」共通テスト2年"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "sub_title": "共通テストは今や「読解力」と「アルゴリズム構築力」の試験へ。2026年は特にPythonベースの論理構造と統計の複合問題が勝負の鍵です。",
+          "text_content": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-03.png",
+          "image_file": "assets/img/posts/20260127_education-03.png",
+          "overlay_text": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+          "subtext": "共通テストは今や「読解力」と「アルゴリズム構築力」の試験へ。2026年は特にPythonベースの論理構造と統計の複合問題が勝負の鍵です。",
+          "alt": "内容2 - if塾が分析する2026年の傾向：配点増"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "sub_title": "if塾では最新のシミュレーションツールを活用。模試の解き直しだけでなく、変数の動きを可視化することで、本番の初見問題に対応する力を養います。",
+          "text_content": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260127_education-04.png",
+          "image_file": "assets/img/posts/20260127_education-04.png",
+          "overlay_text": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+          "subtext": "if塾では最新のシミュレーションツールを活用。模試の解き直しだけでなく、変数の動きを可視化することで、本番の初見問題に対応する力を養います。",
+          "alt": "内容3 - 今から始める逆転対策：AIツール併用で「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260127_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260127_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260127_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260127_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-27T10:50:22",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】共通テスト「情報I」難化",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】共通テスト「情報I」難化の衝撃。2年目で変わった合格ラインの真実",
+            "subtext": "1月27日更新：データ分析・プログラミングが命運を分ける",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「去年より格段に難しい…」共通テスト2年目の罠にハマっていませんか？",
+            "subtext": "新課程2年目となる2026年。昨年以上の「思考力」を問う問題が増加し、単なる知識の暗記では歯が立たない受験生が急増しています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾が分析する2026年の傾向：配点増の『データ活用』が合否の分かれ道",
+            "subtext": "共通テストは今や「読解力」と「アルゴリズム構築力」の試験へ。2026年は特にPythonベースの論理構造と統計の複合問題が勝負の鍵です。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今から始める逆転対策：AIツール併用で「コードの構造」を視覚化せよ",
+            "subtext": "if塾では最新のシミュレーションツールを活用。模試の解き直しだけでなく、変数の動きを可視化することで、本番の初見問題に対応する力を養います。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260126_announcement",
       "post_id": "20260126_announcement",
