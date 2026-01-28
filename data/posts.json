@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 20,
-    "last_updated": "2026-01-27T20:30:56.225240",
+    "total_posts": 21,
+    "last_updated": "2026-01-28T10:47:42.206996",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,298 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260128_development",
+      "post_id": "20260128_development",
+      "created_at": "2026-01-28T10:47:42",
+      "datetime": "2026-01-28T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+      "target_audience": "Students & Parents",
+      "title": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+      "caption": "【2026年1月】最新のAI教育事情をお届け！\n\nあけましておめでとうございます。if塾です！\n2026年に入り、AIは「ツール」から「自律的なパートナー」へと進化しました。\n\n今、if塾の生徒たちが取り組んでいるのは、ChatGPTやGeminiのAPIを駆使した「自律型AIエージェント」の開発です。\n\n「宿題をやるのが面倒」という悩みさえも、\n「効率化するシステムを自作する」という創造性に変えてしまう。\nこれが生成AIネイティブ世代の圧倒的な強みです。\n\nただAIを使うだけでなく、AIを「構築」するスキル。\nこれこそが、これからの入試やキャリアで最も求められる力になります。\n\n最新のAI開発に興味がある方は、ぜひプロフィールから詳細をチェック！",
+      "caption_text": "【2026年1月】最新のAI教育事情をお届け！\n\nあけましておめでとうございます。if塾です！\n2026年に入り、AIは「ツール」から「自律的なパートナー」へと進化しました。\n\n今、if塾の生徒たちが取り組んでいるのは、ChatGPTやGeminiのAPIを駆使した「自律型AIエージェント」の開発です。\n\n「宿題をやるのが面倒」という悩みさえも、\n「効率化するシステムを自作する」という創造性に変えてしまう。\nこれが生成AIネイティブ世代の圧倒的な強みです。\n\nただAIを使うだけでなく、AIを「構築」するスキル。\nこれこそが、これからの入試やキャリアで最も求められる力になります。\n\n最新のAI開発に興味がある方は、ぜひプロフィールから詳細をチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#AIエージェント",
+        "#自律型AI",
+        "#プログラミング教育",
+        "#Gemini",
+        "#ChatGPT",
+        "#中高生エンジニア",
+        "#最新テック"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "sub_title": "2026年1月最新：生成AIネイティブ世代の標準装備",
+          "text_content": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-01.png",
+          "image_file": "assets/img/posts/20260128_development-01.png",
+          "overlay_text": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "subtext": "2026年1月最新：生成AIネイティブ世代の標準装備",
+          "alt": "表紙 - 中学生が作った「自律型AIエージェント」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに聞く」から「AIが動く」時代へ",
+          "sub_title": "プロンプトを打つ手間さえ不要に。2026年、学生たちの悩みは「いかに自分専用の影武者を作るか」にシフトしています。",
+          "text_content": "「AIに聞く」から「AIが動く」時代へ",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-02.png",
+          "image_file": "assets/img/posts/20260128_development-02.png",
+          "overlay_text": "「AIに聞く」から「AIが動く」時代へ",
+          "subtext": "プロンプトを打つ手間さえ不要に。2026年、学生たちの悩みは「いかに自分専用の影武者を作るか」にシフトしています。",
+          "alt": "内容1 - 「AIに聞く」から「AIが動く」時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Gemini 2.0 × 自律型フレームワーク",
+          "sub_title": "最新のAIエージェントは、目標を1つ与えるだけで「調査・分析・実行」を自動完結。if塾の生徒はこれを数時間で構築します。",
+          "text_content": "Gemini 2.0 × 自律型フレームワーク",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-03.png",
+          "image_file": "assets/img/posts/20260128_development-03.png",
+          "overlay_text": "Gemini 2.0 × 自律型フレームワーク",
+          "subtext": "最新のAIエージェントは、目標を1つ与えるだけで「調査・分析・実行」を自動完結。if塾の生徒はこれを数時間で構築します。",
+          "alt": "内容2 - Gemini 2.0 × 自律型フレーム"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "宿題の管理から進路調査まで自動化",
+          "sub_title": "開発したエージェントが24時間体制で最新の入試情報を収集。if塾では「AIを使う力」を「未来を創る武器」へ昇華させます。",
+          "text_content": "宿題の管理から進路調査まで自動化",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-04.png",
+          "image_file": "assets/img/posts/20260128_development-04.png",
+          "overlay_text": "宿題の管理から進路調査まで自動化",
+          "subtext": "開発したエージェントが24時間体制で最新の入試情報を収集。if塾では「AIを使う力」を「未来を創る武器」へ昇華させます。",
+          "alt": "内容3 - 宿題の管理から進路調査まで自動化"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "sub_title": "2026年1月最新：生成AIネイティブ世代の標準装備",
+          "text_content": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-01.png",
+          "image_file": "assets/img/posts/20260128_development-01.png",
+          "overlay_text": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+          "subtext": "2026年1月最新：生成AIネイティブ世代の標準装備",
+          "alt": "表紙 - 中学生が作った「自律型AIエージェント」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに聞く」から「AIが動く」時代へ",
+          "sub_title": "プロンプトを打つ手間さえ不要に。2026年、学生たちの悩みは「いかに自分専用の影武者を作るか」にシフトしています。",
+          "text_content": "「AIに聞く」から「AIが動く」時代へ",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-02.png",
+          "image_file": "assets/img/posts/20260128_development-02.png",
+          "overlay_text": "「AIに聞く」から「AIが動く」時代へ",
+          "subtext": "プロンプトを打つ手間さえ不要に。2026年、学生たちの悩みは「いかに自分専用の影武者を作るか」にシフトしています。",
+          "alt": "内容1 - 「AIに聞く」から「AIが動く」時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Gemini 2.0 × 自律型フレームワーク",
+          "sub_title": "最新のAIエージェントは、目標を1つ与えるだけで「調査・分析・実行」を自動完結。if塾の生徒はこれを数時間で構築します。",
+          "text_content": "Gemini 2.0 × 自律型フレームワーク",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-03.png",
+          "image_file": "assets/img/posts/20260128_development-03.png",
+          "overlay_text": "Gemini 2.0 × 自律型フレームワーク",
+          "subtext": "最新のAIエージェントは、目標を1つ与えるだけで「調査・分析・実行」を自動完結。if塾の生徒はこれを数時間で構築します。",
+          "alt": "内容2 - Gemini 2.0 × 自律型フレーム"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "宿題の管理から進路調査まで自動化",
+          "sub_title": "開発したエージェントが24時間体制で最新の入試情報を収集。if塾では「AIを使う力」を「未来を創る武器」へ昇華させます。",
+          "text_content": "宿題の管理から進路調査まで自動化",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260128_development-04.png",
+          "image_file": "assets/img/posts/20260128_development-04.png",
+          "overlay_text": "宿題の管理から進路調査まで自動化",
+          "subtext": "開発したエージェントが24時間体制で最新の入試情報を収集。if塾では「AIを使う力」を「未来を創る武器」へ昇華させます。",
+          "alt": "内容3 - 宿題の管理から進路調査まで自動化"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260128_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260128_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260128_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260128_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-28T10:46:28",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中学生が作った「自律型AIエージェント」",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中学生が作った「自律型AIエージェント」が凄すぎる件",
+            "subtext": "2026年1月最新：生成AIネイティブ世代の標準装備",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIに聞く」から「AIが動く」時代へ",
+            "subtext": "プロンプトを打つ手間さえ不要に。2026年、学生たちの悩みは「いかに自分専用の影武者を作るか」にシフトしています。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Gemini 2.0 × 自律型フレームワーク",
+            "subtext": "最新のAIエージェントは、目標を1つ与えるだけで「調査・分析・実行」を自動完結。if塾の生徒はこれを数時間で構築します。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "宿題の管理から進路調査まで自動化",
+            "subtext": "開発したエージェントが24時間体制で最新の入試情報を収集。if塾では「AIを使う力」を「未来を創る武器」へ昇華させます。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260127_education",
       "post_id": "20260127_education",
