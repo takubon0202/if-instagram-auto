@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 22,
-    "last_updated": "2026-01-29T11:00:10.985898",
+    "last_updated": "2026-01-29T13:55:10.151328",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,23 @@
     {
       "id": "20260129_ai_column",
       "post_id": "20260129_ai_column",
-      "created_at": "2026-01-29T11:00:10",
+      "created_at": "2026-01-29T13:55:10",
       "datetime": "2026-01-29T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "2026年は「AIを動かす」から「AIが動く」へ",
+      "theme": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
       "target_audience": "Students & Parents",
-      "title": "2026年は「AIを動かす」から「AIが動く」へ",
-      "caption": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます！2026年が始まり、AIの世界はさらなる進化を遂げています。\n今、最も注目すべきは「自律型AIエージェント（エージェンティックAI）」の一般化です。\n\nこれまでは私たちが一歩ずつ「指示（プロンプト）」を出す必要がありましたが、これからはAIが自ら考え、判断し、実行する時代。\n\n受験勉強も、ただ問題を解くだけでなく、AIエージェントをどう使いこなして最短ルートを走るかという「戦略」の重要性が増しています。\n\nif塾では、こうした最新技術を味方につけ、主体的に未来を切り拓く力を育てています。\n2026年も一緒にアップデートしていきましょう！\n\n詳しく知りたい方はプロフィール欄のリンクから✨",
-      "caption_text": "【2026年1月】最新のAIトレンドをお届けします！\n\nあけましておめでとうございます！2026年が始まり、AIの世界はさらなる進化を遂げています。\n今、最も注目すべきは「自律型AIエージェント（エージェンティックAI）」の一般化です。\n\nこれまでは私たちが一歩ずつ「指示（プロンプト）」を出す必要がありましたが、これからはAIが自ら考え、判断し、実行する時代。\n\n受験勉強も、ただ問題を解くだけでなく、AIエージェントをどう使いこなして最短ルートを走るかという「戦略」の重要性が増しています。\n\nif塾では、こうした最新技術を味方につけ、主体的に未来を切り拓く力を育てています。\n2026年も一緒にアップデートしていきましょう！\n\n詳しく知りたい方はプロフィール欄のリンクから✨",
+      "title": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+      "caption": "【2026年1月】最新のAI動向をお届けします。\n\nついにGPT-5.2とGemini 3の普及により、「検索」という言葉が過去のものになりつつあります。\n\nこれまではスマホでポチポチ調べていた作業が、今ではAIエージェントに一言伝えるだけで完結するようになりました。受験校のデータ集めも、スケジュールの自動調整も、AIがあなたの代わりに行う「完全自律型」の時代です。\n\n大切なのは、便利になったツールを使って「あなたは何を成し遂げたいか」という目的意識です。if塾では、最先端のAI技術を学びの味方につける方法を伝授しています。\n\n詳細はプロフィールのリンクをチェック！\n\n#AIエージェント #GPT5 #Gemini3 #2026年最新 #if塾 #教育ICT #次世代学習 #AIコラム",
+      "caption_text": "【2026年1月】最新のAI動向をお届けします。\n\nついにGPT-5.2とGemini 3の普及により、「検索」という言葉が過去のものになりつつあります。\n\nこれまではスマホでポチポチ調べていた作業が、今ではAIエージェントに一言伝えるだけで完結するようになりました。受験校のデータ集めも、スケジュールの自動調整も、AIがあなたの代わりに行う「完全自律型」の時代です。\n\n大切なのは、便利になったツールを使って「あなたは何を成し遂げたいか」という目的意識です。if塾では、最先端のAI技術を学びの味方につける方法を伝授しています。\n\n詳細はプロフィールのリンクをチェック！\n\n#AIエージェント #GPT5 #Gemini3 #2026年最新 #if塾 #教育ICT #次世代学習 #AIコラム",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#自律型AIエージェント",
-        "#エージェンティックAI",
-        "#AI教育",
-        "#DX受験",
-        "#最新テクノロジー"
+        "#GPT5",
+        "#Gemini3",
+        "#AIエージェント",
+        "#未来の教育",
+        "#最新テック"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年は「AIを動かす」から「AIが動く」へ",
-          "sub_title": "1月最新：自律型AIエージェントの衝撃",
-          "text_content": "2026年は「AIを動かす」から「AIが動く」へ",
+          "main_title": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+          "sub_title": "2026年1月最新版：AIエージェント完全移行の衝撃",
+          "text_content": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-01.png",
           "image_file": "assets/img/posts/20260129_ai_column-01.png",
-          "overlay_text": "2026年は「AIを動かす」から「AIが動く」へ",
-          "subtext": "1月最新：自律型AIエージェントの衝撃",
-          "alt": "表紙 - 2026年は「AIを動かす」から「AIが"
+          "overlay_text": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+          "subtext": "2026年1月最新版：AIエージェント完全移行の衝撃",
+          "alt": "表紙 - 検索は終了。GPT-5.2とGemini"
         },
         {
           "page_number": 2,
@@ -58,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう古い？「勝手に進めるAI」の正体",
-          "sub_title": "プロンプトを何度も打つ時代は終わりました。目標を伝えるだけで、AIが自らタスクを分割し実行する『エージェント化』が2026年の新常識です。",
-          "text_content": "指示待ちはもう古い？「勝手に進めるAI」の正体",
+          "main_title": "「ググる」が死語に？調べ物の悩みはゼロへ",
+          "sub_title": "かつては検索結果を比較して情報を精査していましたが、今はAIに「やっておいて」と頼むだけで、予約から資料作成まで完了する時代です。",
+          "text_content": "「ググる」が死語に？調べ物の悩みはゼロへ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-02.png",
           "image_file": "assets/img/posts/20260129_ai_column-02.png",
-          "overlay_text": "指示待ちはもう古い？「勝手に進めるAI」の正体",
-          "subtext": "プロンプトを何度も打つ時代は終わりました。目標を伝えるだけで、AIが自らタスクを分割し実行する『エージェント化』が2026年の新常識です。",
-          "alt": "内容1 - 指示待ちはもう古い？「勝手に進めるAI」"
+          "overlay_text": "「ググる」が死語に？調べ物の悩みはゼロへ",
+          "subtext": "かつては検索結果を比較して情報を精査していましたが、今はAIに「やっておいて」と頼むだけで、予約から資料作成まで完了する時代です。",
+          "alt": "内容1 - 「ググる」が死語に？調べ物の悩みはゼロへ"
         },
         {
           "page_number": 3,
@@ -74,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "受験・学習管理は「AI秘書」にお任せ",
-          "sub_title": "最新のAIエージェントは、志望校と今の実力を伝えるだけで、日々の学習スケジュールの調整から、最適な参考書の選定、進捗確認まで自動で完結させます。",
-          "text_content": "受験・学習管理は「AI秘書」にお任せ",
+          "main_title": "GPT-5.2とGemini 3で何が変わった？",
+          "sub_title": "情報を「探す」ツールから、自律的に動く「秘書」へ。進路相談も塾の選定も、AIがあなたの好みを学習し、最適解を自ら提案・実行します。",
+          "text_content": "GPT-5.2とGemini 3で何が変わった？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-03.png",
           "image_file": "assets/img/posts/20260129_ai_column-03.png",
-          "overlay_text": "受験・学習管理は「AI秘書」にお任せ",
-          "subtext": "最新のAIエージェントは、志望校と今の実力を伝えるだけで、日々の学習スケジュールの調整から、最適な参考書の選定、進捗確認まで自動で完結させます。",
-          "alt": "内容2 - 受験・学習管理は「AI秘書」にお任せ"
+          "overlay_text": "GPT-5.2とGemini 3で何が変わった？",
+          "subtext": "情報を「探す」ツールから、自律的に動く「秘書」へ。進路相談も塾の選定も、AIがあなたの好みを学習し、最適解を自ら提案・実行します。",
+          "alt": "内容2 - GPT-5.2とGemini 3で何が変"
         },
         {
           "page_number": 4,
@@ -90,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：エージェント時代に求められる「問い」の質",
-          "sub_title": "作業をAIが肩代わりするからこそ、人間には「何を成し遂げたいか」という高い志と、AIに正しい方向を示す『ゴール設計力』が問われます。",
-          "text_content": "if塾流：エージェント時代に求められる「問い」の質",
+          "main_title": "if塾の視点：AI時代に求められる「問いの質」",
+          "sub_title": "エージェントが優秀になればなるほど、人間に必要なのは「何をしたいか」という意志。if塾ではAIを使いこなし、自分の未来を描く力を養います。",
+          "text_content": "if塾の視点：AI時代に求められる「問いの質」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-04.png",
           "image_file": "assets/img/posts/20260129_ai_column-04.png",
-          "overlay_text": "if塾流：エージェント時代に求められる「問い」の質",
-          "subtext": "作業をAIが肩代わりするからこそ、人間には「何を成し遂げたいか」という高い志と、AIに正しい方向を示す『ゴール設計力』が問われます。",
-          "alt": "内容3 - if塾流：エージェント時代に求められる「"
+          "overlay_text": "if塾の視点：AI時代に求められる「問いの質」",
+          "subtext": "エージェントが優秀になればなるほど、人間に必要なのは「何をしたいか」という意志。if塾ではAIを使いこなし、自分の未来を描く力を養います。",
+          "alt": "内容3 - if塾の視点：AI時代に求められる「問い"
         },
         {
           "page_number": 5,
@@ -124,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年は「AIを動かす」から「AIが動く」へ",
-          "sub_title": "1月最新：自律型AIエージェントの衝撃",
-          "text_content": "2026年は「AIを動かす」から「AIが動く」へ",
+          "main_title": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+          "sub_title": "2026年1月最新版：AIエージェント完全移行の衝撃",
+          "text_content": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-01.png",
           "image_file": "assets/img/posts/20260129_ai_column-01.png",
-          "overlay_text": "2026年は「AIを動かす」から「AIが動く」へ",
-          "subtext": "1月最新：自律型AIエージェントの衝撃",
-          "alt": "表紙 - 2026年は「AIを動かす」から「AIが"
+          "overlay_text": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+          "subtext": "2026年1月最新版：AIエージェント完全移行の衝撃",
+          "alt": "表紙 - 検索は終了。GPT-5.2とGemini"
         },
         {
           "page_number": 2,
@@ -140,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちはもう古い？「勝手に進めるAI」の正体",
-          "sub_title": "プロンプトを何度も打つ時代は終わりました。目標を伝えるだけで、AIが自らタスクを分割し実行する『エージェント化』が2026年の新常識です。",
-          "text_content": "指示待ちはもう古い？「勝手に進めるAI」の正体",
+          "main_title": "「ググる」が死語に？調べ物の悩みはゼロへ",
+          "sub_title": "かつては検索結果を比較して情報を精査していましたが、今はAIに「やっておいて」と頼むだけで、予約から資料作成まで完了する時代です。",
+          "text_content": "「ググる」が死語に？調べ物の悩みはゼロへ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-02.png",
           "image_file": "assets/img/posts/20260129_ai_column-02.png",
-          "overlay_text": "指示待ちはもう古い？「勝手に進めるAI」の正体",
-          "subtext": "プロンプトを何度も打つ時代は終わりました。目標を伝えるだけで、AIが自らタスクを分割し実行する『エージェント化』が2026年の新常識です。",
-          "alt": "内容1 - 指示待ちはもう古い？「勝手に進めるAI」"
+          "overlay_text": "「ググる」が死語に？調べ物の悩みはゼロへ",
+          "subtext": "かつては検索結果を比較して情報を精査していましたが、今はAIに「やっておいて」と頼むだけで、予約から資料作成まで完了する時代です。",
+          "alt": "内容1 - 「ググる」が死語に？調べ物の悩みはゼロへ"
         },
         {
           "page_number": 3,
@@ -156,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "受験・学習管理は「AI秘書」にお任せ",
-          "sub_title": "最新のAIエージェントは、志望校と今の実力を伝えるだけで、日々の学習スケジュールの調整から、最適な参考書の選定、進捗確認まで自動で完結させます。",
-          "text_content": "受験・学習管理は「AI秘書」にお任せ",
+          "main_title": "GPT-5.2とGemini 3で何が変わった？",
+          "sub_title": "情報を「探す」ツールから、自律的に動く「秘書」へ。進路相談も塾の選定も、AIがあなたの好みを学習し、最適解を自ら提案・実行します。",
+          "text_content": "GPT-5.2とGemini 3で何が変わった？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-03.png",
           "image_file": "assets/img/posts/20260129_ai_column-03.png",
-          "overlay_text": "受験・学習管理は「AI秘書」にお任せ",
-          "subtext": "最新のAIエージェントは、志望校と今の実力を伝えるだけで、日々の学習スケジュールの調整から、最適な参考書の選定、進捗確認まで自動で完結させます。",
-          "alt": "内容2 - 受験・学習管理は「AI秘書」にお任せ"
+          "overlay_text": "GPT-5.2とGemini 3で何が変わった？",
+          "subtext": "情報を「探す」ツールから、自律的に動く「秘書」へ。進路相談も塾の選定も、AIがあなたの好みを学習し、最適解を自ら提案・実行します。",
+          "alt": "内容2 - GPT-5.2とGemini 3で何が変"
         },
         {
           "page_number": 4,
@@ -172,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：エージェント時代に求められる「問い」の質",
-          "sub_title": "作業をAIが肩代わりするからこそ、人間には「何を成し遂げたいか」という高い志と、AIに正しい方向を示す『ゴール設計力』が問われます。",
-          "text_content": "if塾流：エージェント時代に求められる「問い」の質",
+          "main_title": "if塾の視点：AI時代に求められる「問いの質」",
+          "sub_title": "エージェントが優秀になればなるほど、人間に必要なのは「何をしたいか」という意志。if塾ではAIを使いこなし、自分の未来を描く力を養います。",
+          "text_content": "if塾の視点：AI時代に求められる「問いの質」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260129_ai_column-04.png",
           "image_file": "assets/img/posts/20260129_ai_column-04.png",
-          "overlay_text": "if塾流：エージェント時代に求められる「問い」の質",
-          "subtext": "作業をAIが肩代わりするからこそ、人間には「何を成し遂げたいか」という高い志と、AIに正しい方向を示す『ゴール設計力』が問われます。",
-          "alt": "内容3 - if塾流：エージェント時代に求められる「"
+          "overlay_text": "if塾の視点：AI時代に求められる「問いの質」",
+          "subtext": "エージェントが優秀になればなるほど、人間に必要なのは「何をしたいか」という意志。if塾ではAIを使いこなし、自分の未来を描く力を養います。",
+          "alt": "内容3 - if塾の視点：AI時代に求められる「問い"
         },
         {
           "page_number": 5,
@@ -243,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-01-29T10:58:57",
+      "research_date": "2026-01-29T13:53:54",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年は「AIを動かす」から「AIが",
+        "cover_text": "検索は終了。GPT-5.2とGemini",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年は「AIを動かす」から「AIが動く」へ",
-            "subtext": "1月最新：自律型AIエージェントの衝撃",
+            "headline": "検索は終了。GPT-5.2とGemini 3が変えた「2026年の常識」",
+            "subtext": "2026年1月最新版：AIエージェント完全移行の衝撃",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "指示待ちはもう古い？「勝手に進めるAI」の正体",
-            "subtext": "プロンプトを何度も打つ時代は終わりました。目標を伝えるだけで、AIが自らタスクを分割し実行する『エージェント化』が2026年の新常識です。",
+            "headline": "「ググる」が死語に？調べ物の悩みはゼロへ",
+            "subtext": "かつては検索結果を比較して情報を精査していましたが、今はAIに「やっておいて」と頼むだけで、予約から資料作成まで完了する時代です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "受験・学習管理は「AI秘書」にお任せ",
-            "subtext": "最新のAIエージェントは、志望校と今の実力を伝えるだけで、日々の学習スケジュールの調整から、最適な参考書の選定、進捗確認まで自動で完結させます。",
+            "headline": "GPT-5.2とGemini 3で何が変わった？",
+            "subtext": "情報を「探す」ツールから、自律的に動く「秘書」へ。進路相談も塾の選定も、AIがあなたの好みを学習し、最適解を自ら提案・実行します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：エージェント時代に求められる「問い」の質",
-            "subtext": "作業をAIが肩代わりするからこそ、人間には「何を成し遂げたいか」という高い志と、AIに正しい方向を示す『ゴール設計力』が問われます。",
+            "headline": "if塾の視点：AI時代に求められる「問いの質」",
+            "subtext": "エージェントが優秀になればなるほど、人間に必要なのは「何をしたいか」という意志。if塾ではAIを使いこなし、自分の未来を描く力を養います。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
