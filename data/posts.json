@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 23,
-    "last_updated": "2026-01-30T20:36:03.202800",
+    "total_posts": 24,
+    "last_updated": "2026-01-31T10:56:52.567639",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260131_activity",
+      "post_id": "20260131_activity",
+      "created_at": "2026-01-31T10:56:52",
+      "datetime": "2026-01-31T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「使う」から「共創する」時代へ",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「共創する」時代へ",
+      "caption": "【2026年1月】最新の学びのカタチ✨\n\nあけましておめでとうございます！if塾です。\n2026年が始まり、プログラミング教育はさらに進化しています。\n\n今、現場で起きているのは「生成AIの完全なパートナー化」です。\nかつての「AIにコードを書かせる」という一方的な関係は終わり、今は「AIと議論しながら最高の設計を目指す」スタイルが定着しました。\n\n「ここが動かないから直して」ではなく、\n「この設計だと将来的に拡張性が低いよね？どう改善すべき？」\nとAIに問いかける中高生たちの姿には、目を見張るものがあります。\n\nif塾では、最新のマルチモーダルAIを標準導入。\n単なるツールの使い方ではなく、AIを使いこなし、共に成長する「次世代のエンジニアリング力」を指導しています。\n\nこれからの時代、AIを味方にできるかどうかで、可能性は大きく変わります。\n冬休みの成長を糧に、2月からも全力でサポートしていきます！\n\n詳しく知りたい方はプロフィールのURLをチェック🔗",
+      "caption_text": "【2026年1月】最新の学びのカタチ✨\n\nあけましておめでとうございます！if塾です。\n2026年が始まり、プログラミング教育はさらに進化しています。\n\n今、現場で起きているのは「生成AIの完全なパートナー化」です。\nかつての「AIにコードを書かせる」という一方的な関係は終わり、今は「AIと議論しながら最高の設計を目指す」スタイルが定着しました。\n\n「ここが動かないから直して」ではなく、\n「この設計だと将来的に拡張性が低いよね？どう改善すべき？」\nとAIに問いかける中高生たちの姿には、目を見張るものがあります。\n\nif塾では、最新のマルチモーダルAIを標準導入。\n単なるツールの使い方ではなく、AIを使いこなし、共に成長する「次世代のエンジニアリング力」を指導しています。\n\nこれからの時代、AIを味方にできるかどうかで、可能性は大きく変わります。\n冬休みの成長を糧に、2月からも全力でサポートしていきます！\n\n詳しく知りたい方はプロフィールのURLをチェック🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#プログラミング教育",
+        "#生成AI",
+        "#中高生エンジニア",
+        "#最新教育",
+        "#DX教育",
+        "#プログラミング教室"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「共創する」時代へ",
+          "sub_title": "2026年1月最新：if塾のプログラミング新常識",
+          "text_content": "AIは「使う」から「共創する」時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-01.png",
+          "image_file": "assets/img/posts/20260131_activity-01.png",
+          "overlay_text": "AIは「使う」から「共創する」時代へ",
+          "subtext": "2026年1月最新：if塾のプログラミング新常識",
+          "alt": "表紙 - AIは「使う」から「共創する」時代へ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えを出すAI」に頼りすぎていませんか？",
+          "sub_title": "ただコードを書かせるだけでは、本当の力は身につきません。今、受験や就職で求められるのは『AIを導く力』です。",
+          "text_content": "「答えを出すAI」に頼りすぎていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-02.png",
+          "image_file": "assets/img/posts/20260131_activity-02.png",
+          "overlay_text": "「答えを出すAI」に頼りすぎていませんか？",
+          "subtext": "ただコードを書かせるだけでは、本当の力は身につきません。今、受験や就職で求められるのは『AIを導く力』です。",
+          "alt": "内容1 - 「答えを出すAI」に頼りすぎていませんか"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新マルチモーダルAIと『ペアプロ』体験",
+          "sub_title": "if塾の生徒は、リアルタイムで設計を相談しながら開発。AIを「便利な道具」ではなく「優秀な開発パートナー」として活用しています。",
+          "text_content": "最新マルチモーダルAIと『ペアプロ』体験",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-03.png",
+          "image_file": "assets/img/posts/20260131_activity-03.png",
+          "overlay_text": "最新マルチモーダルAIと『ペアプロ』体験",
+          "subtext": "if塾の生徒は、リアルタイムで設計を相談しながら開発。AIを「便利な道具」ではなく「優秀な開発パートナー」として活用しています。",
+          "alt": "内容2 - 最新マルチモーダルAIと『ペアプロ』体験"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「なぜそのコードになるか」の対話",
+          "sub_title": "AIとロジックをぶつけ合うことで、思考の解像度が劇的に向上。if塾では『対話型デバッグ』を通じて、真の論理的思考を養います。",
+          "text_content": "大切なのは「なぜそのコードになるか」の対話",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-04.png",
+          "image_file": "assets/img/posts/20260131_activity-04.png",
+          "overlay_text": "大切なのは「なぜそのコードになるか」の対話",
+          "subtext": "AIとロジックをぶつけ合うことで、思考の解像度が劇的に向上。if塾では『対話型デバッグ』を通じて、真の論理的思考を養います。",
+          "alt": "内容3 - 大切なのは「なぜそのコードになるか」の対"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「共創する」時代へ",
+          "sub_title": "2026年1月最新：if塾のプログラミング新常識",
+          "text_content": "AIは「使う」から「共創する」時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-01.png",
+          "image_file": "assets/img/posts/20260131_activity-01.png",
+          "overlay_text": "AIは「使う」から「共創する」時代へ",
+          "subtext": "2026年1月最新：if塾のプログラミング新常識",
+          "alt": "表紙 - AIは「使う」から「共創する」時代へ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えを出すAI」に頼りすぎていませんか？",
+          "sub_title": "ただコードを書かせるだけでは、本当の力は身につきません。今、受験や就職で求められるのは『AIを導く力』です。",
+          "text_content": "「答えを出すAI」に頼りすぎていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-02.png",
+          "image_file": "assets/img/posts/20260131_activity-02.png",
+          "overlay_text": "「答えを出すAI」に頼りすぎていませんか？",
+          "subtext": "ただコードを書かせるだけでは、本当の力は身につきません。今、受験や就職で求められるのは『AIを導く力』です。",
+          "alt": "内容1 - 「答えを出すAI」に頼りすぎていませんか"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新マルチモーダルAIと『ペアプロ』体験",
+          "sub_title": "if塾の生徒は、リアルタイムで設計を相談しながら開発。AIを「便利な道具」ではなく「優秀な開発パートナー」として活用しています。",
+          "text_content": "最新マルチモーダルAIと『ペアプロ』体験",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-03.png",
+          "image_file": "assets/img/posts/20260131_activity-03.png",
+          "overlay_text": "最新マルチモーダルAIと『ペアプロ』体験",
+          "subtext": "if塾の生徒は、リアルタイムで設計を相談しながら開発。AIを「便利な道具」ではなく「優秀な開発パートナー」として活用しています。",
+          "alt": "内容2 - 最新マルチモーダルAIと『ペアプロ』体験"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「なぜそのコードになるか」の対話",
+          "sub_title": "AIとロジックをぶつけ合うことで、思考の解像度が劇的に向上。if塾では『対話型デバッグ』を通じて、真の論理的思考を養います。",
+          "text_content": "大切なのは「なぜそのコードになるか」の対話",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260131_activity-04.png",
+          "image_file": "assets/img/posts/20260131_activity-04.png",
+          "overlay_text": "大切なのは「なぜそのコードになるか」の対話",
+          "subtext": "AIとロジックをぶつけ合うことで、思考の解像度が劇的に向上。if塾では『対話型デバッグ』を通じて、真の論理的思考を養います。",
+          "alt": "内容3 - 大切なのは「なぜそのコードになるか」の対"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260131_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260131_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260131_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260131_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-01-31T10:55:38",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「共創する」時代へ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「共創する」時代へ",
+            "subtext": "2026年1月最新：if塾のプログラミング新常識",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「答えを出すAI」に頼りすぎていませんか？",
+            "subtext": "ただコードを書かせるだけでは、本当の力は身につきません。今、受験や就職で求められるのは『AIを導く力』です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新マルチモーダルAIと『ペアプロ』体験",
+            "subtext": "if塾の生徒は、リアルタイムで設計を相談しながら開発。AIを「便利な道具」ではなく「優秀な開発パートナー」として活用しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「なぜそのコードになるか」の対話",
+            "subtext": "AIとロジックをぶつけ合うことで、思考の解像度が劇的に向上。if塾では『対話型デバッグ』を通じて、真の論理的思考を養います。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260130_business",
       "post_id": "20260130_business",
