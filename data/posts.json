@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 24,
-    "last_updated": "2026-01-31T20:28:28.100893",
+    "total_posts": 25,
+    "last_updated": "2026-02-01T11:24:45.689468",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260201_activity",
+      "post_id": "20260201_activity",
+      "created_at": "2026-02-01T11:24:45",
+      "datetime": "2026-02-01T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+      "target_audience": "Students & Parents",
+      "title": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+      "caption": "【2026年2月】AIエージェント実装元年、if塾の授業は劇的に進化しています。\n\nかつては数時間かかっていたデバッグも、今はAIエージェントと対話しながら数分で解決する時代。しかし、そこで問われるのは「何を作りたいか」という人間の意志です。\n\n2026年度のif塾では、単なるコーディング技術を超えた『AI共生型プログラミング』にシフト。生徒たちはAIを使いこなし、自分のアイデアを形にする楽しさを体感しています。\n\n「AIに仕事を奪われる」のではなく「AIで可能性を広げる」。そんな未来の学びを、今ここから始めています。\n\n最新の授業見学・体験会はプロフィールのリンクから！",
+      "caption_text": "【2026年2月】AIエージェント実装元年、if塾の授業は劇的に進化しています。\n\nかつては数時間かかっていたデバッグも、今はAIエージェントと対話しながら数分で解決する時代。しかし、そこで問われるのは「何を作りたいか」という人間の意志です。\n\n2026年度のif塾では、単なるコーディング技術を超えた『AI共生型プログラミング』にシフト。生徒たちはAIを使いこなし、自分のアイデアを形にする楽しさを体感しています。\n\n「AIに仕事を奪われる」のではなく「AIで可能性を広げる」。そんな未来の学びを、今ここから始めています。\n\n最新の授業見学・体験会はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#プログラミング教育",
+        "#AI共生型",
+        "#教育改革",
+        "#最新技術",
+        "#エンジニア教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "sub_title": "2026年2月 最新授業レポート",
+          "text_content": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-01.png",
+          "image_file": "assets/img/posts/20260201_activity-01.png",
+          "overlay_text": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "subtext": "2026年2月 最新授業レポート",
+          "alt": "表紙 - AIエージェント実装元年の衝撃！「書く」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "もうコードを一から書く時代は終わった？",
+          "sub_title": "「エラーが直せなくて進まない」という悩みは、2026年のAIエージェントが過去のものに変えようとしています。",
+          "text_content": "もうコードを一から書く時代は終わった？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-02.png",
+          "image_file": "assets/img/posts/20260201_activity-02.png",
+          "overlay_text": "もうコードを一から書く時代は終わった？",
+          "subtext": "「エラーが直せなくて進まない」という悩みは、2026年のAIエージェントが過去のものに変えようとしています。",
+          "alt": "内容1 - もうコードを一から書く時代は終わった？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "sub_title": "最新の自律型AIと対話し、設計図を渡すだけでアプリが動く。生徒たちはコードの書き手ではなく、プロダクトの監督です。",
+          "text_content": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-03.png",
+          "image_file": "assets/img/posts/20260201_activity-03.png",
+          "overlay_text": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "subtext": "最新の自律型AIと対話し、設計図を渡すだけでアプリが動く。生徒たちはコードの書き手ではなく、プロダクトの監督です。",
+          "alt": "内容2 - 生徒が「指揮官」に。AIと共創する新しい"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "sub_title": "ツールが進化しても、解決したい「課題」を見つける力は人間にしかできない。AI共生時代の本質的なスキルを養います。",
+          "text_content": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-04.png",
+          "image_file": "assets/img/posts/20260201_activity-04.png",
+          "overlay_text": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "subtext": "ツールが進化しても、解決したい「課題」を見つける力は人間にしかできない。AI共生時代の本質的なスキルを養います。",
+          "alt": "内容3 - if塾が教えるのは「AIに何をさせるか」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "sub_title": "2026年2月 最新授業レポート",
+          "text_content": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-01.png",
+          "image_file": "assets/img/posts/20260201_activity-01.png",
+          "overlay_text": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+          "subtext": "2026年2月 最新授業レポート",
+          "alt": "表紙 - AIエージェント実装元年の衝撃！「書く」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "もうコードを一から書く時代は終わった？",
+          "sub_title": "「エラーが直せなくて進まない」という悩みは、2026年のAIエージェントが過去のものに変えようとしています。",
+          "text_content": "もうコードを一から書く時代は終わった？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-02.png",
+          "image_file": "assets/img/posts/20260201_activity-02.png",
+          "overlay_text": "もうコードを一から書く時代は終わった？",
+          "subtext": "「エラーが直せなくて進まない」という悩みは、2026年のAIエージェントが過去のものに変えようとしています。",
+          "alt": "内容1 - もうコードを一から書く時代は終わった？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "sub_title": "最新の自律型AIと対話し、設計図を渡すだけでアプリが動く。生徒たちはコードの書き手ではなく、プロダクトの監督です。",
+          "text_content": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-03.png",
+          "image_file": "assets/img/posts/20260201_activity-03.png",
+          "overlay_text": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+          "subtext": "最新の自律型AIと対話し、設計図を渡すだけでアプリが動く。生徒たちはコードの書き手ではなく、プロダクトの監督です。",
+          "alt": "内容2 - 生徒が「指揮官」に。AIと共創する新しい"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "sub_title": "ツールが進化しても、解決したい「課題」を見つける力は人間にしかできない。AI共生時代の本質的なスキルを養います。",
+          "text_content": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260201_activity-04.png",
+          "image_file": "assets/img/posts/20260201_activity-04.png",
+          "overlay_text": "if塾が教えるのは「AIに何をさせるか」の思考力",
+          "subtext": "ツールが進化しても、解決したい「課題」を見つける力は人間にしかできない。AI共生時代の本質的なスキルを養います。",
+          "alt": "内容3 - if塾が教えるのは「AIに何をさせるか」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260201_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260201_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260201_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260201_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-01T11:23:30",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIエージェント実装元年の衝撃！「書く」",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIエージェント実装元年の衝撃！「書く」から「操る」プログラミングへ",
+            "subtext": "2026年2月 最新授業レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "もうコードを一から書く時代は終わった？",
+            "subtext": "「エラーが直せなくて進まない」という悩みは、2026年のAIエージェントが過去のものに変えようとしています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "生徒が「指揮官」に。AIと共創する新しい授業風景",
+            "subtext": "最新の自律型AIと対話し、設計図を渡すだけでアプリが動く。生徒たちはコードの書き手ではなく、プロダクトの監督です。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教えるのは「AIに何をさせるか」の思考力",
+            "subtext": "ツールが進化しても、解決したい「課題」を見つける力は人間にしかできない。AI共生時代の本質的なスキルを養います。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260131_activity",
       "post_id": "20260131_activity",
