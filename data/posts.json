@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 25,
-    "last_updated": "2026-02-01T20:28:42.817350",
+    "total_posts": 26,
+    "last_updated": "2026-02-02T11:08:53.154347",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260202_announcement",
+      "post_id": "20260202_announcement",
+      "created_at": "2026-02-02T11:08:53",
+      "datetime": "2026-02-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+      "caption": "【2026年2月】最新のテクノロジー・アップデートをお届けします。\n\n「プログラミングを学ぶ＝コードを書く」という常識は、2026年に入り完全に過去のものとなりました。\n\n今、世界で注目されているのは『Agentic AI（自律型AI）』。AI自身が考え、計画し、実行する時代です。これからの時代に最も必要なのは、AIを道具として使いこなす「指示・計画（プロンプトエンジニアリングの先にあるマネジメント）」のスキルです。\n\nif塾では、この春からAI駆動型開発に特化した新カリキュラムを開始します。\n「何を創るか」をデザインできる次世代のエンジニアを、今から一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年2月】最新のテクノロジー・アップデートをお届けします。\n\n「プログラミングを学ぶ＝コードを書く」という常識は、2026年に入り完全に過去のものとなりました。\n\n今、世界で注目されているのは『Agentic AI（自律型AI）』。AI自身が考え、計画し、実行する時代です。これからの時代に最も必要なのは、AIを道具として使いこなす「指示・計画（プロンプトエンジニアリングの先にあるマネジメント）」のスキルです。\n\nif塾では、この春からAI駆動型開発に特化した新カリキュラムを開始します。\n「何を創るか」をデザインできる次世代のエンジニアを、今から一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AgenticAI",
+        "#プログラミング教育",
+        "#AI駆動型開発",
+        "#最新教育ニュース",
+        "#自律型AI",
+        "#スキルシフト"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "sub_title": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+          "text_content": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-01.png",
+          "image_file": "assets/img/posts/20260202_announcement-01.png",
+          "overlay_text": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+          "alt": "表紙 - 【2026年最新】コードを書く時代は終わ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "sub_title": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+          "text_content": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-02.png",
+          "image_file": "assets/img/posts/20260202_announcement-02.png",
+          "overlay_text": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+          "alt": "内容1 - 「プログラミング学習」の定義が、この2月"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "sub_title": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+          "text_content": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-03.png",
+          "image_file": "assets/img/posts/20260202_announcement-03.png",
+          "overlay_text": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+          "alt": "内容2 - 自律型AI（Agentic AI）が学習"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "sub_title": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+          "text_content": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-04.png",
+          "image_file": "assets/img/posts/20260202_announcement-04.png",
+          "overlay_text": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+          "alt": "内容3 - if塾では「AIマネジメントスキル」を標"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "sub_title": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+          "text_content": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-01.png",
+          "image_file": "assets/img/posts/20260202_announcement-01.png",
+          "overlay_text": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+          "alt": "表紙 - 【2026年最新】コードを書く時代は終わ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "sub_title": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+          "text_content": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-02.png",
+          "image_file": "assets/img/posts/20260202_announcement-02.png",
+          "overlay_text": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+          "alt": "内容1 - 「プログラミング学習」の定義が、この2月"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "sub_title": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+          "text_content": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-03.png",
+          "image_file": "assets/img/posts/20260202_announcement-03.png",
+          "overlay_text": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+          "alt": "内容2 - 自律型AI（Agentic AI）が学習"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "sub_title": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+          "text_content": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260202_announcement-04.png",
+          "image_file": "assets/img/posts/20260202_announcement-04.png",
+          "overlay_text": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+          "alt": "内容3 - if塾では「AIマネジメントスキル」を標"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260202_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260202_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260202_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260202_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-02T11:07:37",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】コードを書く時代は終わ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+            "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「プログラミング学習」の定義が、この2月で激変しています。",
+            "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+            "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+            "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260201_activity",
       "post_id": "20260201_activity",
