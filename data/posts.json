@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 26,
-    "last_updated": "2026-02-02T11:08:53.154347",
+    "last_updated": "2026-02-02T14:15:00.200368",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260202_announcement",
       "post_id": "20260202_announcement",
-      "created_at": "2026-02-02T11:08:53",
+      "created_at": "2026-02-02T14:15:00",
       "datetime": "2026-02-02T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+      "theme": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-      "caption": "【2026年2月】最新のテクノロジー・アップデートをお届けします。\n\n「プログラミングを学ぶ＝コードを書く」という常識は、2026年に入り完全に過去のものとなりました。\n\n今、世界で注目されているのは『Agentic AI（自律型AI）』。AI自身が考え、計画し、実行する時代です。これからの時代に最も必要なのは、AIを道具として使いこなす「指示・計画（プロンプトエンジニアリングの先にあるマネジメント）」のスキルです。\n\nif塾では、この春からAI駆動型開発に特化した新カリキュラムを開始します。\n「何を創るか」をデザインできる次世代のエンジニアを、今から一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年2月】最新のテクノロジー・アップデートをお届けします。\n\n「プログラミングを学ぶ＝コードを書く」という常識は、2026年に入り完全に過去のものとなりました。\n\n今、世界で注目されているのは『Agentic AI（自律型AI）』。AI自身が考え、計画し、実行する時代です。これからの時代に最も必要なのは、AIを道具として使いこなす「指示・計画（プロンプトエンジニアリングの先にあるマネジメント）」のスキルです。\n\nif塾では、この春からAI駆動型開発に特化した新カリキュラムを開始します。\n「何を創るか」をデザインできる次世代のエンジニアを、今から一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+      "caption": "【2026年2月】いよいよ新年度に向けたカウントダウンが始まりました！\n\n「AIを使いこなす」ことが当たり前になった2026年。\nif塾は、さらにその先を行く「AIプログラミングカレッジ」を4月に開校します！🚀\n\n本日2月2日より、記念すべき第1期生の募集をスタートしました。\n\n✅ 2026年最新のAI開発トレンドを網羅\n✅ 実践的なプロジェクトベースの学習\n✅ 業界第一線のメンターによる直接指導\n\nこれからの時代、AIに代替されるのではなく、AIを指揮する存在になりませんか？\n\n詳細はプロフィールのリンクから特設サイトをチェック！🔗\n今なら2月限定の先行個別相談会も受付中です。\n\n#if塾 #2026年 #AIプログラミングカレッジ #1期生募集 #エンジニア志望 #最新技術 #DX人材 #プログラミングスクール",
+      "caption_text": "【2026年2月】いよいよ新年度に向けたカウントダウンが始まりました！\n\n「AIを使いこなす」ことが当たり前になった2026年。\nif塾は、さらにその先を行く「AIプログラミングカレッジ」を4月に開校します！🚀\n\n本日2月2日より、記念すべき第1期生の募集をスタートしました。\n\n✅ 2026年最新のAI開発トレンドを網羅\n✅ 実践的なプロジェクトベースの学習\n✅ 業界第一線のメンターによる直接指導\n\nこれからの時代、AIに代替されるのではなく、AIを指揮する存在になりませんか？\n\n詳細はプロフィールのリンクから特設サイトをチェック！🔗\n今なら2月限定の先行個別相談会も受付中です。\n\n#if塾 #2026年 #AIプログラミングカレッジ #1期生募集 #エンジニア志望 #最新技術 #DX人材 #プログラミングスクール",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AgenticAI",
-        "#プログラミング教育",
-        "#AI駆動型開発",
-        "#最新教育ニュース",
-        "#自律型AI",
-        "#スキルシフト"
+        "#AIプログラミングカレッジ",
+        "#エンジニア",
+        "#リスキリング",
+        "#プログラミング学習",
+        "#1期生募集"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-          "sub_title": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
-          "text_content": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "main_title": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+          "sub_title": "2月2日解禁。未来を創る第一歩はここから。",
+          "text_content": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-01.png",
           "image_file": "assets/img/posts/20260202_announcement-01.png",
-          "overlay_text": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-          "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
-          "alt": "表紙 - 【2026年最新】コードを書く時代は終わ"
+          "overlay_text": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+          "subtext": "2月2日解禁。未来を創る第一歩はここから。",
+          "alt": "表紙 - 【2026年最新】AIプログラミングカレ"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング学習」の定義が、この2月で激変しています。",
-          "sub_title": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
-          "text_content": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "main_title": "2026年、スキルの価値が激変。今のままで大丈夫？",
+          "sub_title": "生成AIが日常化した今、単なるコード記述ではなく「AIを使いこなす設計力」が求められています。進路に悩む新年度直前の今、差がつく選択を。",
+          "text_content": "2026年、スキルの価値が激変。今のままで大丈夫？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-02.png",
           "image_file": "assets/img/posts/20260202_announcement-02.png",
-          "overlay_text": "「プログラミング学習」の定義が、この2月で激変しています。",
-          "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
-          "alt": "内容1 - 「プログラミング学習」の定義が、この2月"
+          "overlay_text": "2026年、スキルの価値が激変。今のままで大丈夫？",
+          "subtext": "生成AIが日常化した今、単なるコード記述ではなく「AIを使いこなす設計力」が求められています。進路に悩む新年度直前の今、差がつく選択を。",
+          "alt": "内容1 - 2026年、スキルの価値が激変。今のまま"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AI（Agentic AI）が学習のパートナーになる時代",
-          "sub_title": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
-          "text_content": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "main_title": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
+          "sub_title": "最新のマルチモーダルAI開発や、自律型エージェントの構築を実践。if塾独自のメソッドで、未経験からでも2026年基準のエンジニアへ導きます。",
+          "text_content": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-03.png",
           "image_file": "assets/img/posts/20260202_announcement-03.png",
-          "overlay_text": "自律型AI（Agentic AI）が学習のパートナーになる時代",
-          "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
-          "alt": "内容2 - 自律型AI（Agentic AI）が学習"
+          "overlay_text": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
+          "subtext": "最新のマルチモーダルAI開発や、自律型エージェントの構築を実践。if塾独自のメソッドで、未経験からでも2026年基準のエンジニアへ導きます。",
+          "alt": "内容2 - AIを「使う側」から「創る側」へ。1期生"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
-          "sub_title": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
-          "text_content": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "main_title": "4月開校！週3日の通学×オンライン。最短でプロへ。",
+          "sub_title": "if塾では最新のNPU搭載PCを完備。少人数制の徹底サポートで、就職・起業まで伴走します。2月中のエントリーで早期特典あり！",
+          "text_content": "4月開校！週3日の通学×オンライン。最短でプロへ。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-04.png",
           "image_file": "assets/img/posts/20260202_announcement-04.png",
-          "overlay_text": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
-          "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
-          "alt": "内容3 - if塾では「AIマネジメントスキル」を標"
+          "overlay_text": "4月開校！週3日の通学×オンライン。最短でプロへ。",
+          "subtext": "if塾では最新のNPU搭載PCを完備。少人数制の徹底サポートで、就職・起業まで伴走します。2月中のエントリーで早期特典あり！",
+          "alt": "内容3 - 4月開校！週3日の通学×オンライン。最短"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-          "sub_title": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
-          "text_content": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
+          "main_title": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+          "sub_title": "2月2日解禁。未来を創る第一歩はここから。",
+          "text_content": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-01.png",
           "image_file": "assets/img/posts/20260202_announcement-01.png",
-          "overlay_text": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-          "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
-          "alt": "表紙 - 【2026年最新】コードを書く時代は終わ"
+          "overlay_text": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+          "subtext": "2月2日解禁。未来を創る第一歩はここから。",
+          "alt": "表紙 - 【2026年最新】AIプログラミングカレ"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング学習」の定義が、この2月で激変しています。",
-          "sub_title": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
-          "text_content": "「プログラミング学習」の定義が、この2月で激変しています。",
+          "main_title": "2026年、スキルの価値が激変。今のままで大丈夫？",
+          "sub_title": "生成AIが日常化した今、単なるコード記述ではなく「AIを使いこなす設計力」が求められています。進路に悩む新年度直前の今、差がつく選択を。",
+          "text_content": "2026年、スキルの価値が激変。今のままで大丈夫？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-02.png",
           "image_file": "assets/img/posts/20260202_announcement-02.png",
-          "overlay_text": "「プログラミング学習」の定義が、この2月で激変しています。",
-          "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
-          "alt": "内容1 - 「プログラミング学習」の定義が、この2月"
+          "overlay_text": "2026年、スキルの価値が激変。今のままで大丈夫？",
+          "subtext": "生成AIが日常化した今、単なるコード記述ではなく「AIを使いこなす設計力」が求められています。進路に悩む新年度直前の今、差がつく選択を。",
+          "alt": "内容1 - 2026年、スキルの価値が激変。今のまま"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AI（Agentic AI）が学習のパートナーになる時代",
-          "sub_title": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
-          "text_content": "自律型AI（Agentic AI）が学習のパートナーになる時代",
+          "main_title": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
+          "sub_title": "最新のマルチモーダルAI開発や、自律型エージェントの構築を実践。if塾独自のメソッドで、未経験からでも2026年基準のエンジニアへ導きます。",
+          "text_content": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-03.png",
           "image_file": "assets/img/posts/20260202_announcement-03.png",
-          "overlay_text": "自律型AI（Agentic AI）が学習のパートナーになる時代",
-          "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
-          "alt": "内容2 - 自律型AI（Agentic AI）が学習"
+          "overlay_text": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
+          "subtext": "最新のマルチモーダルAI開発や、自律型エージェントの構築を実践。if塾独自のメソッドで、未経験からでも2026年基準のエンジニアへ導きます。",
+          "alt": "内容2 - AIを「使う側」から「創る側」へ。1期生"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
-          "sub_title": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
-          "text_content": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
+          "main_title": "4月開校！週3日の通学×オンライン。最短でプロへ。",
+          "sub_title": "if塾では最新のNPU搭載PCを完備。少人数制の徹底サポートで、就職・起業まで伴走します。2月中のエントリーで早期特典あり！",
+          "text_content": "4月開校！週3日の通学×オンライン。最短でプロへ。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260202_announcement-04.png",
           "image_file": "assets/img/posts/20260202_announcement-04.png",
-          "overlay_text": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
-          "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
-          "alt": "内容3 - if塾では「AIマネジメントスキル」を標"
+          "overlay_text": "4月開校！週3日の通学×オンライン。最短でプロへ。",
+          "subtext": "if塾では最新のNPU搭載PCを完備。少人数制の徹底サポートで、就職・起業まで伴走します。2月中のエントリーで早期特典あり！",
+          "alt": "内容3 - 4月開校！週3日の通学×オンライン。最短"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-02T11:07:37",
+      "research_date": "2026-02-02T14:13:47",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】コードを書く時代は終わ",
+        "cover_text": "【2026年最新】AIプログラミングカレ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】コードを書く時代は終わりました。新常識「Agentic AI」の衝撃",
-            "subtext": "2月の最速教育ニュース：AIを「使う」から「指揮する」へ",
+            "headline": "【2026年最新】AIプログラミングカレッジ1期生、ついに募集開始！",
+            "subtext": "2月2日解禁。未来を創る第一歩はここから。",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミング学習」の定義が、この2月で激変しています。",
-            "subtext": "AIがコードを書くのは当たり前。今、学生が直面しているのは「AIに何を作らせるか」という設計力と計画力の欠如という壁です。",
+            "headline": "2026年、スキルの価値が激変。今のままで大丈夫？",
+            "subtext": "生成AIが日常化した今、単なるコード記述ではなく「AIを使いこなす設計力」が求められています。進路に悩む新年度直前の今、差がつく選択を。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AI（Agentic AI）が学習のパートナーになる時代",
-            "subtext": "2026年の最新ツールは、指示を出すだけでAIがバグ修正からデプロイまでを完結。人間に求められるのは「高度な対話力」と「課題発見力」にシフトしました。",
+            "headline": "AIを「使う側」から「創る側」へ。1期生限定の特別カリキュラム",
+            "subtext": "最新のマルチモーダルAI開発や、自律型エージェントの構築を実践。if塾独自のメソッドで、未経験からでも2026年基準のエンジニアへ導きます。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾では「AIマネジメントスキル」を標準カリキュラム化",
-            "subtext": "単なる文法習得ではなく、複数のAIエージェントを指揮して複雑なシステムを構築する「ディレクション能力」を、2月から本格導入します。",
+            "headline": "4月開校！週3日の通学×オンライン。最短でプロへ。",
+            "subtext": "if塾では最新のNPU搭載PCを完備。少人数制の徹底サポートで、就職・起業まで伴走します。2月中のエントリーで早期特典あり！",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
