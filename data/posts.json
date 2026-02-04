@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 28,
-    "last_updated": "2026-02-04T13:58:17.346047",
+    "last_updated": "2026-02-04T20:40:08.231858",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,23 @@
     {
       "id": "20260204_development",
       "post_id": "20260204_development",
-      "created_at": "2026-02-04T13:58:17",
+      "created_at": "2026-02-04T20:40:08",
       "datetime": "2026-02-04T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "中高生が「自律型AI」を開発する時代へ",
+      "theme": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
       "target_audience": "Students & Parents",
-      "title": "中高生が「自律型AI」を開発する時代へ",
-      "caption": "【2026年2月】最新の開発レポートをお届け！\n\n今やAIは「使うもの」から「自分に合わせて育てるもの」へ。\nif塾の中高生たちが開発したのは、指示を待たずに自らタスクを完了させる「自律型AIエージェント」です。\n\n2月、新学年に向けた準備が始まるこの時期に、\n自分だけの最強のパートナーを自分の手で作り上げる。\n\n「AIを使いこなす」の先にある、「AIを創造する」体験が\nこれからの学生のスタンダードになります。\n\n詳細はプロフィールのリンクからチェック！\n#if塾 #2026年 #自由研究 #AI教育",
-      "caption_text": "【2026年2月】最新の開発レポートをお届け！\n\n今やAIは「使うもの」から「自分に合わせて育てるもの」へ。\nif塾の中高生たちが開発したのは、指示を待たずに自らタスクを完了させる「自律型AIエージェント」です。\n\n2月、新学年に向けた準備が始まるこの時期に、\n自分だけの最強のパートナーを自分の手で作り上げる。\n\n「AIを使いこなす」の先にある、「AIを創造する」体験が\nこれからの学生のスタンダードになります。\n\n詳細はプロフィールのリンクからチェック！\n#if塾 #2026年 #自由研究 #AI教育",
+      "title": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+      "caption": "【2026年2月】最新の開発スタイルをチェック！\n\n「プログラミングを学びたいけど、コードを書くのは難しそう…」\nそんな悩みは、2026年の今、過去のものになりつつあります。\n\n今、世界中で注目されているのが『バイブコーディング（Vibe Coding）』。\nもはやキーボードでコードを打ち込む必要はありません。\nAIと対話し、あなたの「作りたい！」という熱量（バイブス）を伝えるだけで、複雑なアプリが目の前で組み上がります。\n\n2月のこの時期、春からの新生活に向けて\n「自分だけのオリジナルアプリ」を作ってみませんか？\n\nif塾では、最新のAIツールを使いこなし、\n論理的思考と創造力を同時に育むカリキュラムを提供しています。\n\n詳細はプロフィール欄のリンクから！\n@if_juku\n\n#if塾 #バイブコーディング #VibeCoding #2026年 #最新テクノロジー #プログラミング教育 #ノーコード #AI開発 #自由研究 #新生活準備",
+      "caption_text": "【2026年2月】最新の開発スタイルをチェック！\n\n「プログラミングを学びたいけど、コードを書くのは難しそう…」\nそんな悩みは、2026年の今、過去のものになりつつあります。\n\n今、世界中で注目されているのが『バイブコーディング（Vibe Coding）』。\nもはやキーボードでコードを打ち込む必要はありません。\nAIと対話し、あなたの「作りたい！」という熱量（バイブス）を伝えるだけで、複雑なアプリが目の前で組み上がります。\n\n2月のこの時期、春からの新生活に向けて\n「自分だけのオリジナルアプリ」を作ってみませんか？\n\nif塾では、最新のAIツールを使いこなし、\n論理的思考と創造力を同時に育むカリキュラムを提供しています。\n\n詳細はプロフィール欄のリンクから！\n@if_juku\n\n#if塾 #バイブコーディング #VibeCoding #2026年 #最新テクノロジー #プログラミング教育 #ノーコード #AI開発 #自由研究 #新生活準備",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#自律型AI",
-        "#中高生エンジニア",
-        "#プログラミング教育",
-        "#タスク完遂型Bot"
+        "#バイブコーディング",
+        "#VibeCoding",
+        "#AI教育",
+        "#プログラミング学習",
+        "#最新技術"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「自律型AI」を開発する時代へ",
-          "sub_title": "2026年2月最新：タスク完遂型Botが変える学習の常識",
-          "text_content": "中高生が「自律型AI」を開発する時代へ",
+          "main_title": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+          "sub_title": "2026年2月最新ニュース：AIと対話するだけの開発体験",
+          "text_content": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-01.png",
           "image_file": "assets/img/posts/20260204_development-01.png",
-          "overlay_text": "中高生が「自律型AI」を開発する時代へ",
-          "subtext": "2026年2月最新：タスク完遂型Botが変える学習の常識",
-          "alt": "表紙 - 中高生が「自律型AI」を開発する時代へ"
+          "overlay_text": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+          "subtext": "2026年2月最新ニュース：AIと対話するだけの開発体験",
+          "alt": "表紙 - コード不要！2026年流「バイブコーディ"
         },
         {
           "page_number": 2,
@@ -58,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいこと」が多すぎて手が回らない…",
-          "sub_title": "部活、受験、趣味。タスク管理に追われる今の学生には、指示待ちAIではなく「自分で考えて動く相棒」が必要です。",
-          "text_content": "「やりたいこと」が多すぎて手が回らない…",
+          "main_title": "「プログラミング＝難しい」はもう古い？",
+          "sub_title": "2月の進級・進学準備期、新しい学びを始めたいけれど「コードの壁」で挫折していませんか？文系理系を問わず、アイデアはあるのに形にできない悩みが増えています。",
+          "text_content": "「プログラミング＝難しい」はもう古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-02.png",
           "image_file": "assets/img/posts/20260204_development-02.png",
-          "overlay_text": "「やりたいこと」が多すぎて手が回らない…",
-          "subtext": "部活、受験、趣味。タスク管理に追われる今の学生には、指示待ちAIではなく「自分で考えて動く相棒」が必要です。",
-          "alt": "内容1 - 「やりたいこと」が多すぎて手が回らない…"
+          "overlay_text": "「プログラミング＝難しい」はもう古い？",
+          "subtext": "2月の進級・進学準備期、新しい学びを始めたいけれど「コードの壁」で挫折していませんか？文系理系を問わず、アイデアはあるのに形にできない悩みが増えています。",
+          "alt": "内容1 - 「プログラミング＝難しい」はもう古い？"
         },
         {
           "page_number": 3,
@@ -74,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の標準：タスク完遂型エージェント",
-          "sub_title": "「これをやっといて」の一言で、リサーチからスケジュール調整まで完結。if塾の生徒が開発した最新Botの仕組みを公開。",
-          "text_content": "2026年の標準：タスク完遂型エージェント",
+          "main_title": "会話でアプリが動く「Vibe Coding」の衝撃",
+          "sub_title": "2026年の最新AIは、あなたの「雰囲気（バイブス）」を汲み取ります。仕様書すら不要。音声やチャットで「こんな感じのアプリ」と伝えるだけで、リアルタイムに実装が完了します。",
+          "text_content": "会話でアプリが動く「Vibe Coding」の衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-03.png",
           "image_file": "assets/img/posts/20260204_development-03.png",
-          "overlay_text": "2026年の標準：タスク完遂型エージェント",
-          "subtext": "「これをやっといて」の一言で、リサーチからスケジュール調整まで完結。if塾の生徒が開発した最新Botの仕組みを公開。",
-          "alt": "内容2 - 2026年の標準：タスク完遂型エージェン"
+          "overlay_text": "会話でアプリが動く「Vibe Coding」の衝撃",
+          "subtext": "2026年の最新AIは、あなたの「雰囲気（バイブス）」を汲み取ります。仕様書すら不要。音声やチャットで「こんな感じのアプリ」と伝えるだけで、リアルタイムに実装が完了します。",
+          "alt": "内容2 - 会話でアプリが動く「Vibe Codin"
         },
         {
           "page_number": 4,
@@ -90,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "自分専用の「秘書」を持つ。それがif塾の学び。",
-          "sub_title": "開発して終わりではなく、自分の生活を最適化する。2月の忙しい時期こそ、自作AIで「考える時間」を生み出そう。",
-          "text_content": "自分専用の「秘書」を持つ。それがif塾の学び。",
+          "main_title": "if塾が提案する「感性」を武器にする学び",
+          "sub_title": "技術習得に時間をかける時代から、AIを使いこなし「何を創るか」を考える時代へ。if塾ではバイブコーディングを駆使し、中高生が1日で実用的なWebサービスを公開しています。",
+          "text_content": "if塾が提案する「感性」を武器にする学び",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-04.png",
           "image_file": "assets/img/posts/20260204_development-04.png",
-          "overlay_text": "自分専用の「秘書」を持つ。それがif塾の学び。",
-          "subtext": "開発して終わりではなく、自分の生活を最適化する。2月の忙しい時期こそ、自作AIで「考える時間」を生み出そう。",
-          "alt": "内容3 - 自分専用の「秘書」を持つ。それがif塾の"
+          "overlay_text": "if塾が提案する「感性」を武器にする学び",
+          "subtext": "技術習得に時間をかける時代から、AIを使いこなし「何を創るか」を考える時代へ。if塾ではバイブコーディングを駆使し、中高生が1日で実用的なWebサービスを公開しています。",
+          "alt": "内容3 - if塾が提案する「感性」を武器にする学び"
         },
         {
           "page_number": 5,
@@ -124,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「自律型AI」を開発する時代へ",
-          "sub_title": "2026年2月最新：タスク完遂型Botが変える学習の常識",
-          "text_content": "中高生が「自律型AI」を開発する時代へ",
+          "main_title": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+          "sub_title": "2026年2月最新ニュース：AIと対話するだけの開発体験",
+          "text_content": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-01.png",
           "image_file": "assets/img/posts/20260204_development-01.png",
-          "overlay_text": "中高生が「自律型AI」を開発する時代へ",
-          "subtext": "2026年2月最新：タスク完遂型Botが変える学習の常識",
-          "alt": "表紙 - 中高生が「自律型AI」を開発する時代へ"
+          "overlay_text": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+          "subtext": "2026年2月最新ニュース：AIと対話するだけの開発体験",
+          "alt": "表紙 - コード不要！2026年流「バイブコーディ"
         },
         {
           "page_number": 2,
@@ -140,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいこと」が多すぎて手が回らない…",
-          "sub_title": "部活、受験、趣味。タスク管理に追われる今の学生には、指示待ちAIではなく「自分で考えて動く相棒」が必要です。",
-          "text_content": "「やりたいこと」が多すぎて手が回らない…",
+          "main_title": "「プログラミング＝難しい」はもう古い？",
+          "sub_title": "2月の進級・進学準備期、新しい学びを始めたいけれど「コードの壁」で挫折していませんか？文系理系を問わず、アイデアはあるのに形にできない悩みが増えています。",
+          "text_content": "「プログラミング＝難しい」はもう古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-02.png",
           "image_file": "assets/img/posts/20260204_development-02.png",
-          "overlay_text": "「やりたいこと」が多すぎて手が回らない…",
-          "subtext": "部活、受験、趣味。タスク管理に追われる今の学生には、指示待ちAIではなく「自分で考えて動く相棒」が必要です。",
-          "alt": "内容1 - 「やりたいこと」が多すぎて手が回らない…"
+          "overlay_text": "「プログラミング＝難しい」はもう古い？",
+          "subtext": "2月の進級・進学準備期、新しい学びを始めたいけれど「コードの壁」で挫折していませんか？文系理系を問わず、アイデアはあるのに形にできない悩みが増えています。",
+          "alt": "内容1 - 「プログラミング＝難しい」はもう古い？"
         },
         {
           "page_number": 3,
@@ -156,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の標準：タスク完遂型エージェント",
-          "sub_title": "「これをやっといて」の一言で、リサーチからスケジュール調整まで完結。if塾の生徒が開発した最新Botの仕組みを公開。",
-          "text_content": "2026年の標準：タスク完遂型エージェント",
+          "main_title": "会話でアプリが動く「Vibe Coding」の衝撃",
+          "sub_title": "2026年の最新AIは、あなたの「雰囲気（バイブス）」を汲み取ります。仕様書すら不要。音声やチャットで「こんな感じのアプリ」と伝えるだけで、リアルタイムに実装が完了します。",
+          "text_content": "会話でアプリが動く「Vibe Coding」の衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-03.png",
           "image_file": "assets/img/posts/20260204_development-03.png",
-          "overlay_text": "2026年の標準：タスク完遂型エージェント",
-          "subtext": "「これをやっといて」の一言で、リサーチからスケジュール調整まで完結。if塾の生徒が開発した最新Botの仕組みを公開。",
-          "alt": "内容2 - 2026年の標準：タスク完遂型エージェン"
+          "overlay_text": "会話でアプリが動く「Vibe Coding」の衝撃",
+          "subtext": "2026年の最新AIは、あなたの「雰囲気（バイブス）」を汲み取ります。仕様書すら不要。音声やチャットで「こんな感じのアプリ」と伝えるだけで、リアルタイムに実装が完了します。",
+          "alt": "内容2 - 会話でアプリが動く「Vibe Codin"
         },
         {
           "page_number": 4,
@@ -172,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "自分専用の「秘書」を持つ。それがif塾の学び。",
-          "sub_title": "開発して終わりではなく、自分の生活を最適化する。2月の忙しい時期こそ、自作AIで「考える時間」を生み出そう。",
-          "text_content": "自分専用の「秘書」を持つ。それがif塾の学び。",
+          "main_title": "if塾が提案する「感性」を武器にする学び",
+          "sub_title": "技術習得に時間をかける時代から、AIを使いこなし「何を創るか」を考える時代へ。if塾ではバイブコーディングを駆使し、中高生が1日で実用的なWebサービスを公開しています。",
+          "text_content": "if塾が提案する「感性」を武器にする学び",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260204_development-04.png",
           "image_file": "assets/img/posts/20260204_development-04.png",
-          "overlay_text": "自分専用の「秘書」を持つ。それがif塾の学び。",
-          "subtext": "開発して終わりではなく、自分の生活を最適化する。2月の忙しい時期こそ、自作AIで「考える時間」を生み出そう。",
-          "alt": "内容3 - 自分専用の「秘書」を持つ。それがif塾の"
+          "overlay_text": "if塾が提案する「感性」を武器にする学び",
+          "subtext": "技術習得に時間をかける時代から、AIを使いこなし「何を創るか」を考える時代へ。if塾ではバイブコーディングを駆使し、中高生が1日で実用的なWebサービスを公開しています。",
+          "alt": "内容3 - if塾が提案する「感性」を武器にする学び"
         },
         {
           "page_number": 5,
@@ -228,21 +228,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-04T13:57:07",
+      "research_date": "2026-02-04T20:38:50",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が「自律型AI」を開発する時代へ",
+        "cover_text": "コード不要！2026年流「バイブコーディ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が「自律型AI」を開発する時代へ",
-            "subtext": "2026年2月最新：タスク完遂型Botが変える学習の常識",
+            "headline": "コード不要！2026年流「バイブコーディング」でアプリを作る方法",
+            "subtext": "2026年2月最新ニュース：AIと対話するだけの開発体験",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -266,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたいこと」が多すぎて手が回らない…",
-            "subtext": "部活、受験、趣味。タスク管理に追われる今の学生には、指示待ちAIではなく「自分で考えて動く相棒」が必要です。",
+            "headline": "「プログラミング＝難しい」はもう古い？",
+            "subtext": "2月の進級・進学準備期、新しい学びを始めたいけれど「コードの壁」で挫折していませんか？文系理系を問わず、アイデアはあるのに形にできない悩みが増えています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -275,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の標準：タスク完遂型エージェント",
-            "subtext": "「これをやっといて」の一言で、リサーチからスケジュール調整まで完結。if塾の生徒が開発した最新Botの仕組みを公開。",
+            "headline": "会話でアプリが動く「Vibe Coding」の衝撃",
+            "subtext": "2026年の最新AIは、あなたの「雰囲気（バイブス）」を汲み取ります。仕様書すら不要。音声やチャットで「こんな感じのアプリ」と伝えるだけで、リアルタイムに実装が完了します。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -284,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "自分専用の「秘書」を持つ。それがif塾の学び。",
-            "subtext": "開発して終わりではなく、自分の生活を最適化する。2月の忙しい時期こそ、自作AIで「考える時間」を生み出そう。",
+            "headline": "if塾が提案する「感性」を武器にする学び",
+            "subtext": "技術習得に時間をかける時代から、AIを使いこなし「何を創るか」を考える時代へ。if塾ではバイブコーディングを駆使し、中高生が1日で実用的なWebサービスを公開しています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
