@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 27,
-    "last_updated": "2026-02-03T20:40:49.880411",
+    "total_posts": 28,
+    "last_updated": "2026-02-04T11:02:15.109631",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260204_development",
+      "post_id": "20260204_development",
+      "created_at": "2026-02-04T11:02:15",
+      "datetime": "2026-02-04T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+      "target_audience": "Students & Parents",
+      "title": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+      "caption": "【2026年2月】最新レポートをお届けします！\n\n今や中高生の約8割が日常的に生成AIを活用する「AIネイティブ世代」となりました。\n\n「AIに頼りすぎて思考力が落ちるのでは？」\nそんな心配をされる保護者の方も多いですが、現場では逆の現象が起きています。\n\nAIを良きパートナー（共創相手）として、自分のアイデアを形にするスピードが飛躍的に上がっているのです。\n\nこれからの受験やキャリアで求められるのは、「AIを使えるか」ではなく「AIを使って何を創造するか」。\n\nif塾では、最新のAIツールを武器に、子供たちの可能性を最大化する学びを提案しています。\n\n2026年度の新学期に向けて、今こそ「AIとの付き合い方」をアップデートしませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年2月】最新レポートをお届けします！\n\n今や中高生の約8割が日常的に生成AIを活用する「AIネイティブ世代」となりました。\n\n「AIに頼りすぎて思考力が落ちるのでは？」\nそんな心配をされる保護者の方も多いですが、現場では逆の現象が起きています。\n\nAIを良きパートナー（共創相手）として、自分のアイデアを形にするスピードが飛躍的に上がっているのです。\n\nこれからの受験やキャリアで求められるのは、「AIを使えるか」ではなく「AIを使って何を創造するか」。\n\nif塾では、最新のAIツールを武器に、子供たちの可能性を最大化する学びを提案しています。\n\n2026年度の新学期に向けて、今こそ「AIとの付き合い方」をアップデートしませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIネイティブ",
+        "#生成AI",
+        "#中高生教育",
+        "#教育DX",
+        "#最新トレンド",
+        "#子育て2026"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "sub_title": "2026年2月最新ニュース：勉強も趣味も「共創」が当たり前の時代へ",
+          "text_content": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-01.png",
+          "image_file": "assets/img/posts/20260204_development-01.png",
+          "overlay_text": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "subtext": "2026年2月最新ニュース：勉強も趣味も「共創」が当たり前の時代へ",
+          "alt": "表紙 - 中高生の8割がAI常用！2026年『AI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使うのはズル」はもう古い？",
+          "sub_title": "これまでの「検索」から「対話」へ。宿題の答えを出すのではなく、考え方をAIと議論するスタイルが主流に。乗り遅れることへの不安を感じる保護者が急増しています。",
+          "text_content": "「AIを使うのはズル」はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-02.png",
+          "image_file": "assets/img/posts/20260204_development-02.png",
+          "overlay_text": "「AIを使うのはズル」はもう古い？",
+          "subtext": "これまでの「検索」から「対話」へ。宿題の答えを出すのではなく、考え方をAIと議論するスタイルが主流に。乗り遅れることへの不安を感じる保護者が急増しています。",
+          "alt": "内容1 - 「AIを使うのはズル」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "sub_title": "2026年の最新AIはノートの書き癖や理解度をリアルタイム解析。単なるチャットではなく、動画や音声で個別に最適化された「超・個別指導」を24時間受けているのが今の10代です。",
+          "text_content": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-03.png",
+          "image_file": "assets/img/posts/20260204_development-03.png",
+          "overlay_text": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "subtext": "2026年の最新AIはノートの書き癖や理解度をリアルタイム解析。単なるチャットではなく、動画や音声で個別に最適化された「超・個別指導」を24時間受けているのが今の10代です。",
+          "alt": "内容2 - マルチモーダルAIが「パーソナル家庭教師"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「脳の拡張」として使いこなす",
+          "sub_title": "AIに丸投げするのではなく、AIが出した案に「自分らしさ」をどう加えるか。if塾では、AIとの共同作業を通じて『批判的思考力』と『独創性』を伸ばす次世代カリキュラムを実践中です。",
+          "text_content": "if塾流：AIを「脳の拡張」として使いこなす",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-04.png",
+          "image_file": "assets/img/posts/20260204_development-04.png",
+          "overlay_text": "if塾流：AIを「脳の拡張」として使いこなす",
+          "subtext": "AIに丸投げするのではなく、AIが出した案に「自分らしさ」をどう加えるか。if塾では、AIとの共同作業を通じて『批判的思考力』と『独創性』を伸ばす次世代カリキュラムを実践中です。",
+          "alt": "内容3 - if塾流：AIを「脳の拡張」として使いこ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "sub_title": "2026年2月最新ニュース：勉強も趣味も「共創」が当たり前の時代へ",
+          "text_content": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-01.png",
+          "image_file": "assets/img/posts/20260204_development-01.png",
+          "overlay_text": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+          "subtext": "2026年2月最新ニュース：勉強も趣味も「共創」が当たり前の時代へ",
+          "alt": "表紙 - 中高生の8割がAI常用！2026年『AI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使うのはズル」はもう古い？",
+          "sub_title": "これまでの「検索」から「対話」へ。宿題の答えを出すのではなく、考え方をAIと議論するスタイルが主流に。乗り遅れることへの不安を感じる保護者が急増しています。",
+          "text_content": "「AIを使うのはズル」はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-02.png",
+          "image_file": "assets/img/posts/20260204_development-02.png",
+          "overlay_text": "「AIを使うのはズル」はもう古い？",
+          "subtext": "これまでの「検索」から「対話」へ。宿題の答えを出すのではなく、考え方をAIと議論するスタイルが主流に。乗り遅れることへの不安を感じる保護者が急増しています。",
+          "alt": "内容1 - 「AIを使うのはズル」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "sub_title": "2026年の最新AIはノートの書き癖や理解度をリアルタイム解析。単なるチャットではなく、動画や音声で個別に最適化された「超・個別指導」を24時間受けているのが今の10代です。",
+          "text_content": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-03.png",
+          "image_file": "assets/img/posts/20260204_development-03.png",
+          "overlay_text": "マルチモーダルAIが「パーソナル家庭教師」に",
+          "subtext": "2026年の最新AIはノートの書き癖や理解度をリアルタイム解析。単なるチャットではなく、動画や音声で個別に最適化された「超・個別指導」を24時間受けているのが今の10代です。",
+          "alt": "内容2 - マルチモーダルAIが「パーソナル家庭教師"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「脳の拡張」として使いこなす",
+          "sub_title": "AIに丸投げするのではなく、AIが出した案に「自分らしさ」をどう加えるか。if塾では、AIとの共同作業を通じて『批判的思考力』と『独創性』を伸ばす次世代カリキュラムを実践中です。",
+          "text_content": "if塾流：AIを「脳の拡張」として使いこなす",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260204_development-04.png",
+          "image_file": "assets/img/posts/20260204_development-04.png",
+          "overlay_text": "if塾流：AIを「脳の拡張」として使いこなす",
+          "subtext": "AIに丸投げするのではなく、AIが出した案に「自分らしさ」をどう加えるか。if塾では、AIとの共同作業を通じて『批判的思考力』と『独創性』を伸ばす次世代カリキュラムを実践中です。",
+          "alt": "内容3 - if塾流：AIを「脳の拡張」として使いこ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260204_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260204_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260204_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260204_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-04T11:00:59",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生の8割がAI常用！2026年『AI",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生の8割がAI常用！2026年『AIネイティブ世代』の実態",
+            "subtext": "2026年2月最新ニュース：勉強も趣味も「共創」が当たり前の時代へ",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使うのはズル」はもう古い？",
+            "subtext": "これまでの「検索」から「対話」へ。宿題の答えを出すのではなく、考え方をAIと議論するスタイルが主流に。乗り遅れることへの不安を感じる保護者が急増しています。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAIが「パーソナル家庭教師」に",
+            "subtext": "2026年の最新AIはノートの書き癖や理解度をリアルタイム解析。単なるチャットではなく、動画や音声で個別に最適化された「超・個別指導」を24時間受けているのが今の10代です。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「脳の拡張」として使いこなす",
+            "subtext": "AIに丸投げするのではなく、AIが出した案に「自分らしさ」をどう加えるか。if塾では、AIとの共同作業を通じて『批判的思考力』と『独創性』を伸ばす次世代カリキュラムを実践中です。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260203_education",
       "post_id": "20260203_education",
