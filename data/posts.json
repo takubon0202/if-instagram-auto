@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 31,
-    "last_updated": "2026-02-07T10:59:19.679745",
+    "last_updated": "2026-02-07T13:54:04.972669",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,25 @@
     {
       "id": "20260207_activity",
       "post_id": "20260207_activity",
-      "created_at": "2026-02-07T10:59:19",
+      "created_at": "2026-02-07T13:54:04",
       "datetime": "2026-02-07T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
+      "theme": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
       "target_audience": "Students & Parents",
-      "title": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-      "caption": "【2026年2月】最新の教育現場からお届けします！\n\n本日2月7日、if塾の教室ではChatGPT 5.2とSora 2を駆使したプロジェクト学習が行われました。\n\n今やAIは単なるツールではなく、一緒に考える「パートナー」。\nかつての「暗記中心」の学習から、AIに適切な指示を出し、出力された情報をクリティカルに分析する「AIネイティブ」な視点が求められています。\n\n「Sora 2で歴史のシーンを再現してみよう」\n「ChatGPT 5.2に多角的な反論をさせてみよう」\n\nそんな授業を通じて、生徒たちの課題解決能力は飛躍的に向上しています。\nif塾では、2026年の最新テクノロジーを教育にいち早く取り入れ、未来を生き抜く力を育みます。\n\n皆さんは、お子さんのAI活用に不安はありませんか？\nぜひコメントで教えてください！👇",
-      "caption_text": "【2026年2月】最新の教育現場からお届けします！\n\n本日2月7日、if塾の教室ではChatGPT 5.2とSora 2を駆使したプロジェクト学習が行われました。\n\n今やAIは単なるツールではなく、一緒に考える「パートナー」。\nかつての「暗記中心」の学習から、AIに適切な指示を出し、出力された情報をクリティカルに分析する「AIネイティブ」な視点が求められています。\n\n「Sora 2で歴史のシーンを再現してみよう」\n「ChatGPT 5.2に多角的な反論をさせてみよう」\n\nそんな授業を通じて、生徒たちの課題解決能力は飛躍的に向上しています。\nif塾では、2026年の最新テクノロジーを教育にいち早く取り入れ、未来を生き抜く力を育みます。\n\n皆さんは、お子さんのAI活用に不安はありませんか？\nぜひコメントで教えてください！👇",
+      "title": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+      "caption": "【2026年2月】最新の活動報告です！\n\nAIを単なる「便利な辞書」として使うフェーズは、もう過去のものになりました。\n2026年現在、if塾の生徒たちが取り組んでいるのは「社会実装」です。\n\nDifyなどの高度なノーコードツールを活用し、\n「自分の街のゴミ出しを便利にするAI」\n「部活動のスケジュールを最適化するアプリ」など、\n実際の課題を解決するツールを自ら設計・開発しています。\n\n「AIに仕事を奪われる」と恐れるのではなく、\n「AIを組み合わせて価値を生み出す」側へ。\n\nこの春、新しいステージの学びをif塾で体験しませんか？\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年2月】最新の活動報告です！\n\nAIを単なる「便利な辞書」として使うフェーズは、もう過去のものになりました。\n2026年現在、if塾の生徒たちが取り組んでいるのは「社会実装」です。\n\nDifyなどの高度なノーコードツールを活用し、\n「自分の街のゴミ出しを便利にするAI」\n「部活動のスケジュールを最適化するアプリ」など、\n実際の課題を解決するツールを自ら設計・開発しています。\n\n「AIに仕事を奪われる」と恐れるのではなく、\n「AIを組み合わせて価値を生み出す」側へ。\n\nこの春、新しいステージの学びをif塾で体験しませんか？\n詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#ChatGPT5",
-        "#Sora2",
-        "#AIネイティブ",
+        "#生成AI",
+        "#Dify",
+        "#社会実装",
+        "#ノーコード",
         "#最新教育",
-        "#EdTech",
-        "#2月のニュース",
-        "#未来の教室"
+        "#AI教育",
+        "#探究学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-          "sub_title": "2026年2月最新版：if塾の最先端授業レポート",
-          "text_content": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
+          "main_title": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+          "sub_title": "2026年2月最新：if塾・社会実装レポート",
+          "text_content": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-01.png",
           "image_file": "assets/img/posts/20260207_activity-01.png",
-          "overlay_text": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-          "subtext": "2026年2月最新版：if塾の最先端授業レポート",
-          "alt": "表紙 - ChatGPT 5.2とSora 2が変"
+          "overlay_text": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+          "subtext": "2026年2月最新：if塾・社会実装レポート",
+          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
         },
         {
           "page_number": 2,
@@ -60,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」はもう古い？今の学生の疑問解消法",
-          "sub_title": "わからないことを文字で打つ時代は終わり、AIとの対話やリアルタイム動画生成で理解を深めるのが日常に。",
-          "text_content": "「検索」はもう古い？今の学生の疑問解消法",
+          "main_title": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "sub_title": "2026年、プロンプトを打つだけでは差別化できない時代。進路や就職を見据えた時、保護者の方が感じる『今のスキルで足りるのか』という不安に答えます。",
+          "text_content": "「AIに何を聞けばいい？」で止まっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-02.png",
           "image_file": "assets/img/posts/20260207_activity-02.png",
-          "overlay_text": "「検索」はもう古い？今の学生の疑問解消法",
-          "subtext": "わからないことを文字で打つ時代は終わり、AIとの対話やリアルタイム動画生成で理解を深めるのが日常に。",
-          "alt": "内容1 - 「検索」はもう古い？今の学生の疑問解消法"
+          "overlay_text": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "subtext": "2026年、プロンプトを打つだけでは差別化できない時代。進路や就職を見据えた時、保護者の方が感じる『今のスキルで足りるのか』という不安に答えます。",
+          "alt": "内容1 - 「AIに何を聞けばいい？」で止まっていま"
         },
         {
           "page_number": 3,
@@ -76,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Sora 2で物理法則を視覚化！驚きの学習効率",
-          "sub_title": "複雑な力学もChatGPT 5.2が即座にプロンプト化。Sora 2で生成された3D映像を見て「あ、そういうこと！」と納得する生徒たち。",
-          "text_content": "Sora 2で物理法則を視覚化！驚きの学習効率",
+          "main_title": "Difyを使いこなし、自分専用の「解決ツール」を構築",
+          "sub_title": "生徒たちは今日、Difyやノーコードツールを駆使し、地域の課題を解決する実用アプリを開発。チャットする側から、システムを設計する側へと進化しています。",
+          "text_content": "Difyを使いこなし、自分専用の「解決ツール」を構築",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-03.png",
           "image_file": "assets/img/posts/20260207_activity-03.png",
-          "overlay_text": "Sora 2で物理法則を視覚化！驚きの学習効率",
-          "subtext": "複雑な力学もChatGPT 5.2が即座にプロンプト化。Sora 2で生成された3D映像を見て「あ、そういうこと！」と納得する生徒たち。",
-          "alt": "内容2 - Sora 2で物理法則を視覚化！驚きの学"
+          "overlay_text": "Difyを使いこなし、自分専用の「解決ツール」を構築",
+          "subtext": "生徒たちは今日、Difyやノーコードツールを駆使し、地域の課題を解決する実用アプリを開発。チャットする側から、システムを設計する側へと進化しています。",
+          "alt": "内容2 - Difyを使いこなし、自分専用の「解決ツ"
         },
         {
           "page_number": 4,
@@ -92,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「答え」ではなく「問いの質」",
-          "sub_title": "AIが完璧な回答を出す2026年だからこそ、何を解決したいかという『目的設定力』が真の学力になります。",
-          "text_content": "if塾が教えるのは「答え」ではなく「問いの質」",
+          "main_title": "「社会実装」の経験が、受験やキャリアの最強の武器に",
+          "sub_title": "技術を覚えるのが目的ではありません。if塾では、AIを道具として社会にどう還元するかという『実装力』を重視。自らアプリを公開した生徒の瞳は輝いています。",
+          "text_content": "「社会実装」の経験が、受験やキャリアの最強の武器に",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-04.png",
           "image_file": "assets/img/posts/20260207_activity-04.png",
-          "overlay_text": "if塾が教えるのは「答え」ではなく「問いの質」",
-          "subtext": "AIが完璧な回答を出す2026年だからこそ、何を解決したいかという『目的設定力』が真の学力になります。",
-          "alt": "内容3 - if塾が教えるのは「答え」ではなく「問い"
+          "overlay_text": "「社会実装」の経験が、受験やキャリアの最強の武器に",
+          "subtext": "技術を覚えるのが目的ではありません。if塾では、AIを道具として社会にどう還元するかという『実装力』を重視。自らアプリを公開した生徒の瞳は輝いています。",
+          "alt": "内容3 - 「社会実装」の経験が、受験やキャリアの最"
         },
         {
           "page_number": 5,
@@ -126,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-          "sub_title": "2026年2月最新版：if塾の最先端授業レポート",
-          "text_content": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
+          "main_title": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+          "sub_title": "2026年2月最新：if塾・社会実装レポート",
+          "text_content": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-01.png",
           "image_file": "assets/img/posts/20260207_activity-01.png",
-          "overlay_text": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-          "subtext": "2026年2月最新版：if塾の最先端授業レポート",
-          "alt": "表紙 - ChatGPT 5.2とSora 2が変"
+          "overlay_text": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+          "subtext": "2026年2月最新：if塾・社会実装レポート",
+          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
         },
         {
           "page_number": 2,
@@ -142,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」はもう古い？今の学生の疑問解消法",
-          "sub_title": "わからないことを文字で打つ時代は終わり、AIとの対話やリアルタイム動画生成で理解を深めるのが日常に。",
-          "text_content": "「検索」はもう古い？今の学生の疑問解消法",
+          "main_title": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "sub_title": "2026年、プロンプトを打つだけでは差別化できない時代。進路や就職を見据えた時、保護者の方が感じる『今のスキルで足りるのか』という不安に答えます。",
+          "text_content": "「AIに何を聞けばいい？」で止まっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-02.png",
           "image_file": "assets/img/posts/20260207_activity-02.png",
-          "overlay_text": "「検索」はもう古い？今の学生の疑問解消法",
-          "subtext": "わからないことを文字で打つ時代は終わり、AIとの対話やリアルタイム動画生成で理解を深めるのが日常に。",
-          "alt": "内容1 - 「検索」はもう古い？今の学生の疑問解消法"
+          "overlay_text": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "subtext": "2026年、プロンプトを打つだけでは差別化できない時代。進路や就職を見据えた時、保護者の方が感じる『今のスキルで足りるのか』という不安に答えます。",
+          "alt": "内容1 - 「AIに何を聞けばいい？」で止まっていま"
         },
         {
           "page_number": 3,
@@ -158,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Sora 2で物理法則を視覚化！驚きの学習効率",
-          "sub_title": "複雑な力学もChatGPT 5.2が即座にプロンプト化。Sora 2で生成された3D映像を見て「あ、そういうこと！」と納得する生徒たち。",
-          "text_content": "Sora 2で物理法則を視覚化！驚きの学習効率",
+          "main_title": "Difyを使いこなし、自分専用の「解決ツール」を構築",
+          "sub_title": "生徒たちは今日、Difyやノーコードツールを駆使し、地域の課題を解決する実用アプリを開発。チャットする側から、システムを設計する側へと進化しています。",
+          "text_content": "Difyを使いこなし、自分専用の「解決ツール」を構築",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-03.png",
           "image_file": "assets/img/posts/20260207_activity-03.png",
-          "overlay_text": "Sora 2で物理法則を視覚化！驚きの学習効率",
-          "subtext": "複雑な力学もChatGPT 5.2が即座にプロンプト化。Sora 2で生成された3D映像を見て「あ、そういうこと！」と納得する生徒たち。",
-          "alt": "内容2 - Sora 2で物理法則を視覚化！驚きの学"
+          "overlay_text": "Difyを使いこなし、自分専用の「解決ツール」を構築",
+          "subtext": "生徒たちは今日、Difyやノーコードツールを駆使し、地域の課題を解決する実用アプリを開発。チャットする側から、システムを設計する側へと進化しています。",
+          "alt": "内容2 - Difyを使いこなし、自分専用の「解決ツ"
         },
         {
           "page_number": 4,
@@ -174,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「答え」ではなく「問いの質」",
-          "sub_title": "AIが完璧な回答を出す2026年だからこそ、何を解決したいかという『目的設定力』が真の学力になります。",
-          "text_content": "if塾が教えるのは「答え」ではなく「問いの質」",
+          "main_title": "「社会実装」の経験が、受験やキャリアの最強の武器に",
+          "sub_title": "技術を覚えるのが目的ではありません。if塾では、AIを道具として社会にどう還元するかという『実装力』を重視。自らアプリを公開した生徒の瞳は輝いています。",
+          "text_content": "「社会実装」の経験が、受験やキャリアの最強の武器に",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260207_activity-04.png",
           "image_file": "assets/img/posts/20260207_activity-04.png",
-          "overlay_text": "if塾が教えるのは「答え」ではなく「問いの質」",
-          "subtext": "AIが完璧な回答を出す2026年だからこそ、何を解決したいかという『目的設定力』が真の学力になります。",
-          "alt": "内容3 - if塾が教えるのは「答え」ではなく「問い"
+          "overlay_text": "「社会実装」の経験が、受験やキャリアの最強の武器に",
+          "subtext": "技術を覚えるのが目的ではありません。if塾では、AIを道具として社会にどう還元するかという『実装力』を重視。自らアプリを公開した生徒の瞳は輝いています。",
+          "alt": "内容3 - 「社会実装」の経験が、受験やキャリアの最"
         },
         {
           "page_number": 5,
@@ -230,21 +230,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "山﨑琢己",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "アプリ開発"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-07T10:58:10",
+      "research_date": "2026-02-07T13:52:53",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "ChatGPT 5.2とSora 2が変",
+        "cover_text": "AIは「使う」から「創る」へ。2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "ChatGPT 5.2とSora 2が変える！AIネイティブ世代の「当たり前」",
-            "subtext": "2026年2月最新版：if塾の最先端授業レポート",
+            "headline": "AIは「使う」から「創る」へ。2026年の学びはここまで来た！",
+            "subtext": "2026年2月最新：if塾・社会実装レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「検索」はもう古い？今の学生の疑問解消法",
-            "subtext": "わからないことを文字で打つ時代は終わり、AIとの対話やリアルタイム動画生成で理解を深めるのが日常に。",
+            "headline": "「AIに何を聞けばいい？」で止まっていませんか？",
+            "subtext": "2026年、プロンプトを打つだけでは差別化できない時代。進路や就職を見据えた時、保護者の方が感じる『今のスキルで足りるのか』という不安に答えます。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Sora 2で物理法則を視覚化！驚きの学習効率",
-            "subtext": "複雑な力学もChatGPT 5.2が即座にプロンプト化。Sora 2で生成された3D映像を見て「あ、そういうこと！」と納得する生徒たち。",
+            "headline": "Difyを使いこなし、自分専用の「解決ツール」を構築",
+            "subtext": "生徒たちは今日、Difyやノーコードツールを駆使し、地域の課題を解決する実用アプリを開発。チャットする側から、システムを設計する側へと進化しています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教えるのは「答え」ではなく「問いの質」",
-            "subtext": "AIが完璧な回答を出す2026年だからこそ、何を解決したいかという『目的設定力』が真の学力になります。",
+            "headline": "「社会実装」の経験が、受験やキャリアの最強の武器に",
+            "subtext": "技術を覚えるのが目的ではありません。if塾では、AIを道具として社会にどう還元するかという『実装力』を重視。自らアプリを公開した生徒の瞳は輝いています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
