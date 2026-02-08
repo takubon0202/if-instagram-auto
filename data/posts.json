@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 31,
-    "last_updated": "2026-02-07T20:29:26.434807",
+    "total_posts": 32,
+    "last_updated": "2026-02-08T11:32:37.260332",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260208_activity",
+      "post_id": "20260208_activity",
+      "created_at": "2026-02-08T11:32:37",
+      "datetime": "2026-02-08T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+      "target_audience": "Students & Parents",
+      "title": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+      "caption": "【2026年2月】最新の活動報告をお届けします！\n\n本日、if塾では生成AIを『思考加速装置』として使いこなす自律型ハッカソンを開催しました。\n\n2026年、AIはもはや特別な道具ではなく、生活の一部です。\nしかし、保護者の皆様からは「AIに頼りすぎて思考力が落ちないか？」という不安の声も多く寄せられます。\n\n今回のイベントで生徒たちが学んだのは、「AIに答えを求める」のではなく「AIと議論して自分の考えを深める」こと。\n最新の自律型AIエージェントを使いこなし、わずか数時間で大人顔負けのサービスプロトタイプを作り上げる姿に、確かな『自律の芽』を感じました。\n\nif塾は、変化の激しい2026年においても、自分らしく考え、行動できる次世代を育成し続けます。\n\n詳細が気になる方は、プロフィール欄のリンクから活動レポートをご覧ください！",
+      "caption_text": "【2026年2月】最新の活動報告をお届けします！\n\n本日、if塾では生成AIを『思考加速装置』として使いこなす自律型ハッカソンを開催しました。\n\n2026年、AIはもはや特別な道具ではなく、生活の一部です。\nしかし、保護者の皆様からは「AIに頼りすぎて思考力が落ちないか？」という不安の声も多く寄せられます。\n\n今回のイベントで生徒たちが学んだのは、「AIに答えを求める」のではなく「AIと議論して自分の考えを深める」こと。\n最新の自律型AIエージェントを使いこなし、わずか数時間で大人顔負けのサービスプロトタイプを作り上げる姿に、確かな『自律の芽』を感じました。\n\nif塾は、変化の激しい2026年においても、自分らしく考え、行動できる次世代を育成し続けます。\n\n詳細が気になる方は、プロフィール欄のリンクから活動レポートをご覧ください！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#ハッカソン",
+        "#思考加速装置",
+        "#自律型AI",
+        "#次世代教育",
+        "#2月のニュース"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026.02.08開催：自律型AI活用イベント",
+          "text_content": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-01.png",
+          "image_file": "assets/img/posts/20260208_activity-01.png",
+          "overlay_text": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "subtext": "2026.02.08開催：自律型AI活用イベント",
+          "alt": "表紙 - AIは「外注」から「加速」へ。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "sub_title": "2026年。生成AIが当たり前になった今、学生たちの『考える力』が二極化しています。ツールに依存するのか、使いこなすのか。この2月の進級・進学準備期に、保護者の不安も高まっています。",
+          "text_content": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-02.png",
+          "image_file": "assets/img/posts/20260208_activity-02.png",
+          "overlay_text": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "subtext": "2026年。生成AIが当たり前になった今、学生たちの『考える力』が二極化しています。ツールに依存するのか、使いこなすのか。この2月の進級・進学準備期に、保護者の不安も高まっています。",
+          "alt": "内容1 - 「答え」をAIに聞くだけで、思考が止まっ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "sub_title": "最新の自律型エージェントを活用し、企画からプロトタイプ制作までを1日で完結。AIに答えを出させるのではなく、自分のアイデアをブラッシュアップさせる『思考加速装置』としての活用に生徒たちも興奮！",
+          "text_content": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-03.png",
+          "image_file": "assets/img/posts/20260208_activity-03.png",
+          "overlay_text": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "subtext": "最新の自律型エージェントを活用し、企画からプロトタイプ制作までを1日で完結。AIに答えを出させるのではなく、自分のアイデアをブラッシュアップさせる『思考加速装置』としての活用に生徒たちも興奮！",
+          "alt": "内容2 - マルチモーダルAIを「思考の壁打ち」に。"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える、2026年流「AIとの付き合い方」",
+          "sub_title": "大事なのはプロンプトの精度ではなく、AIからの回答に対して『なぜ？』と問い直すクリティカルシンキングです。if塾では、技術を学ぶ前に『意志』を育てる指導を徹底しています。",
+          "text_content": "if塾が教える、2026年流「AIとの付き合い方」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-04.png",
+          "image_file": "assets/img/posts/20260208_activity-04.png",
+          "overlay_text": "if塾が教える、2026年流「AIとの付き合い方」",
+          "subtext": "大事なのはプロンプトの精度ではなく、AIからの回答に対して『なぜ？』と問い直すクリティカルシンキングです。if塾では、技術を学ぶ前に『意志』を育てる指導を徹底しています。",
+          "alt": "内容3 - if塾が教える、2026年流「AIとの付"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026.02.08開催：自律型AI活用イベント",
+          "text_content": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-01.png",
+          "image_file": "assets/img/posts/20260208_activity-01.png",
+          "overlay_text": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+          "subtext": "2026.02.08開催：自律型AI活用イベント",
+          "alt": "表紙 - AIは「外注」から「加速」へ。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "sub_title": "2026年。生成AIが当たり前になった今、学生たちの『考える力』が二極化しています。ツールに依存するのか、使いこなすのか。この2月の進級・進学準備期に、保護者の不安も高まっています。",
+          "text_content": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-02.png",
+          "image_file": "assets/img/posts/20260208_activity-02.png",
+          "overlay_text": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+          "subtext": "2026年。生成AIが当たり前になった今、学生たちの『考える力』が二極化しています。ツールに依存するのか、使いこなすのか。この2月の進級・進学準備期に、保護者の不安も高まっています。",
+          "alt": "内容1 - 「答え」をAIに聞くだけで、思考が止まっ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "sub_title": "最新の自律型エージェントを活用し、企画からプロトタイプ制作までを1日で完結。AIに答えを出させるのではなく、自分のアイデアをブラッシュアップさせる『思考加速装置』としての活用に生徒たちも興奮！",
+          "text_content": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-03.png",
+          "image_file": "assets/img/posts/20260208_activity-03.png",
+          "overlay_text": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+          "subtext": "最新の自律型エージェントを活用し、企画からプロトタイプ制作までを1日で完結。AIに答えを出させるのではなく、自分のアイデアをブラッシュアップさせる『思考加速装置』としての活用に生徒たちも興奮！",
+          "alt": "内容2 - マルチモーダルAIを「思考の壁打ち」に。"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える、2026年流「AIとの付き合い方」",
+          "sub_title": "大事なのはプロンプトの精度ではなく、AIからの回答に対して『なぜ？』と問い直すクリティカルシンキングです。if塾では、技術を学ぶ前に『意志』を育てる指導を徹底しています。",
+          "text_content": "if塾が教える、2026年流「AIとの付き合い方」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260208_activity-04.png",
+          "image_file": "assets/img/posts/20260208_activity-04.png",
+          "overlay_text": "if塾が教える、2026年流「AIとの付き合い方」",
+          "subtext": "大事なのはプロンプトの精度ではなく、AIからの回答に対して『なぜ？』と問い直すクリティカルシンキングです。if塾では、技術を学ぶ前に『意志』を育てる指導を徹底しています。",
+          "alt": "内容3 - if塾が教える、2026年流「AIとの付"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260208_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260208_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260208_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260208_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-08T11:31:24",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「外注」から「加速」へ。2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「外注」から「加速」へ。2026年最新ハッカソン報告",
+            "subtext": "2026.02.08開催：自律型AI活用イベント",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「答え」をAIに聞くだけで、思考が止まっていませんか？",
+            "subtext": "2026年。生成AIが当たり前になった今、学生たちの『考える力』が二極化しています。ツールに依存するのか、使いこなすのか。この2月の進級・進学準備期に、保護者の不安も高まっています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAIを「思考の壁打ち」に。白熱の5時間！",
+            "subtext": "最新の自律型エージェントを活用し、企画からプロトタイプ制作までを1日で完結。AIに答えを出させるのではなく、自分のアイデアをブラッシュアップさせる『思考加速装置』としての活用に生徒たちも興奮！",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える、2026年流「AIとの付き合い方」",
+            "subtext": "大事なのはプロンプトの精度ではなく、AIからの回答に対して『なぜ？』と問い直すクリティカルシンキングです。if塾では、技術を学ぶ前に『意志』を育てる指導を徹底しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260207_activity",
       "post_id": "20260207_activity",
