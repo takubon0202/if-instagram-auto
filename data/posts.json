@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 33,
-    "last_updated": "2026-02-09T14:18:53.945057",
+    "last_updated": "2026-02-09T20:53:09.113148",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260209_announcement",
       "post_id": "20260209_announcement",
-      "created_at": "2026-02-09T14:18:53",
+      "created_at": "2026-02-09T20:53:09",
       "datetime": "2026-02-09T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
+      "theme": "2026年最新！生成AI×ITスキルが必須の時代へ",
       "target_audience": "Students & Parents",
-      "title": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-      "caption": "【2026年2月】いよいよ新年度が目前に迫ってきました。\n\n2026年度は日本の教育環境にとって「部活動の地域移行」が本格化する大きな転換点となります。\n\n「放課後の時間が変わるけど、どこで過ごさせればいい？」「スポーツ以外にも選択肢が欲しい」\nそんな保護者の皆様の声を受け、if塾では放課後の時間を最大限に活用するプログラミングコースを強化しています。\n\nAIが日常化した今だからこそ、ただ預けるだけでなく「一生モノの武器」を身につける時間へ。\n\n無料体験・個別相談はプロフィールのリンクから受付中です！\nお早めにチェックしてくださいね。✨",
-      "caption_text": "【2026年2月】いよいよ新年度が目前に迫ってきました。\n\n2026年度は日本の教育環境にとって「部活動の地域移行」が本格化する大きな転換点となります。\n\n「放課後の時間が変わるけど、どこで過ごさせればいい？」「スポーツ以外にも選択肢が欲しい」\nそんな保護者の皆様の声を受け、if塾では放課後の時間を最大限に活用するプログラミングコースを強化しています。\n\nAIが日常化した今だからこそ、ただ預けるだけでなく「一生モノの武器」を身につける時間へ。\n\n無料体験・個別相談はプロフィールのリンクから受付中です！\nお早めにチェックしてくださいね。✨",
+      "title": "2026年最新！生成AI×ITスキルが必須の時代へ",
+      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、保護者の皆様から「AI時代に何を学ばせるべきか？」というご相談が増えています。\n\n2026年現在、生成AIは「誰もが使える道具」になりました。\nだからこそ、一歩先を行くために必要なのは【AI×ITスキルの掛け合わせ】です。\n\n「動画を作りたい」「デザインを学びたい」\nその想いを最新のAI技術が強力にバックアップします。\n\nif塾では、AIを単なる効率化ツールではなく、\n子供たちの「創造性を拡張するパートナー」として活用するカリキュラムを展開中！\n\n進級・進学前の今が、新しいスキルを身につける最大のチャンスです✨\n\n詳細はプロフィールのリンクからチェック！📩",
+      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n新学年を控えたこの時期、保護者の皆様から「AI時代に何を学ばせるべきか？」というご相談が増えています。\n\n2026年現在、生成AIは「誰もが使える道具」になりました。\nだからこそ、一歩先を行くために必要なのは【AI×ITスキルの掛け合わせ】です。\n\n「動画を作りたい」「デザインを学びたい」\nその想いを最新のAI技術が強力にバックアップします。\n\nif塾では、AIを単なる効率化ツールではなく、\n子供たちの「創造性を拡張するパートナー」として活用するカリキュラムを展開中！\n\n進級・進学前の今が、新しいスキルを身につける最大のチャンスです✨\n\n詳細はプロフィールのリンクからチェック！📩",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#部活動地域移行",
-        "#放課後の過ごし方",
-        "#プログラミング教育",
-        "#教育改革",
-        "#2026年度",
-        "#子育てママ",
-        "#中学生ママ"
+        "#生成AI",
+        "#動画制作",
+        "#IT教育",
+        "#中高生IT塾",
+        "#最新テクノロジー",
+        "#クリエイティブ学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-          "sub_title": "【2月最新版】今すぐ知っておきたい教育ニュース",
-          "text_content": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
+          "main_title": "2026年最新！生成AI×ITスキルが必須の時代へ",
+          "sub_title": "2月9日更新：進級・進学前に知るべき新常識",
+          "text_content": "2026年最新！生成AI×ITスキルが必須の時代へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-01.png",
           "image_file": "assets/img/posts/20260209_announcement-01.png",
-          "overlay_text": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-          "subtext": "【2月最新版】今すぐ知っておきたい教育ニュース",
-          "alt": "表紙 - 2026年4月から激変！部活動の地域移行"
+          "overlay_text": "2026年最新！生成AI×ITスキルが必須の時代へ",
+          "subtext": "2月9日更新：進級・進学前に知るべき新常識",
+          "alt": "表紙 - 2026年最新！生成AI×ITスキルが必"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "部活動が「学校」からなくなる？",
-          "sub_title": "2026年度から本格化する地域移行。平日の放課後、子どもの『居場所』と『学び』の選択肢をどう確保するかが喫緊の課題に。",
-          "text_content": "部活動が「学校」からなくなる？",
+          "main_title": "「ただAIを使うだけ」では足りない？",
+          "sub_title": "2026年、入試や就職で求められるのはAIを使いこなし『形にする力』。単なる検索ツールとしての利用から、クリエイティブへの応用が格差を生んでいます。",
+          "text_content": "「ただAIを使うだけ」では足りない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-02.png",
           "image_file": "assets/img/posts/20260209_announcement-02.png",
-          "overlay_text": "部活動が「学校」からなくなる？",
-          "subtext": "2026年度から本格化する地域移行。平日の放課後、子どもの『居場所』と『学び』の選択肢をどう確保するかが喫緊の課題に。",
-          "alt": "内容1 - 部活動が「学校」からなくなる？"
+          "overlay_text": "「ただAIを使うだけ」では足りない？",
+          "subtext": "2026年、入試や就職で求められるのはAIを使いこなし『形にする力』。単なる検索ツールとしての利用から、クリエイティブへの応用が格差を生んでいます。",
+          "alt": "内容1 - 「ただAIを使うだけ」では足りない？"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "今、プログラミング学習が選ばれる理由",
-          "sub_title": "運動部だけでない、新しい放課後の選択肢。AI共生時代の2026年、スキルの習得と居場所作りが同時に叶うスクールが急増中です。",
-          "text_content": "今、プログラミング学習が選ばれる理由",
+          "main_title": "動画・デザイン×AIで「個の力」を最大化",
+          "sub_title": "最新のSora（動画生成）やデザインAIをITスキルと掛け合わせることで、中高生でもプロ級の制作が可能に。自分だけのポートフォリオが最強の武器になります。",
+          "text_content": "動画・デザイン×AIで「個の力」を最大化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-03.png",
           "image_file": "assets/img/posts/20260209_announcement-03.png",
-          "overlay_text": "今、プログラミング学習が選ばれる理由",
-          "subtext": "運動部だけでない、新しい放課後の選択肢。AI共生時代の2026年、スキルの習得と居場所作りが同時に叶うスクールが急増中です。",
-          "alt": "内容2 - 今、プログラミング学習が選ばれる理由"
+          "overlay_text": "動画・デザイン×AIで「個の力」を最大化",
+          "subtext": "最新のSora（動画生成）やデザインAIをITスキルと掛け合わせることで、中高生でもプロ級の制作が可能に。自分だけのポートフォリオが最強の武器になります。",
+          "alt": "内容2 - 動画・デザイン×AIで「個の力」を最大化"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提供する「次世代の居場所」",
-          "sub_title": "学校・地域の枠を超えた、最新AIツール活用型カリキュラム。2月からの早期入塾で、4月の新体制スタートに備えましょう！",
-          "text_content": "if塾が提供する「次世代の居場所」",
+          "main_title": "if塾で学ぶ「AI共生型」ITクリエイト",
+          "sub_title": "春休みに向けた特別講座スタート！最新ツールを駆使して、映像制作やWebデザインの基礎から応用まで最短ルートで習得。if塾なら「正しく、賢く」AIを味方にできます。",
+          "text_content": "if塾で学ぶ「AI共生型」ITクリエイト",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-04.png",
           "image_file": "assets/img/posts/20260209_announcement-04.png",
-          "overlay_text": "if塾が提供する「次世代の居場所」",
-          "subtext": "学校・地域の枠を超えた、最新AIツール活用型カリキュラム。2月からの早期入塾で、4月の新体制スタートに備えましょう！",
-          "alt": "内容3 - if塾が提供する「次世代の居場所」"
+          "overlay_text": "if塾で学ぶ「AI共生型」ITクリエイト",
+          "subtext": "春休みに向けた特別講座スタート！最新ツールを駆使して、映像制作やWebデザインの基礎から応用まで最短ルートで習得。if塾なら「正しく、賢く」AIを味方にできます。",
+          "alt": "内容3 - if塾で学ぶ「AI共生型」ITクリエイト"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-          "sub_title": "【2月最新版】今すぐ知っておきたい教育ニュース",
-          "text_content": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
+          "main_title": "2026年最新！生成AI×ITスキルが必須の時代へ",
+          "sub_title": "2月9日更新：進級・進学前に知るべき新常識",
+          "text_content": "2026年最新！生成AI×ITスキルが必須の時代へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-01.png",
           "image_file": "assets/img/posts/20260209_announcement-01.png",
-          "overlay_text": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-          "subtext": "【2月最新版】今すぐ知っておきたい教育ニュース",
-          "alt": "表紙 - 2026年4月から激変！部活動の地域移行"
+          "overlay_text": "2026年最新！生成AI×ITスキルが必須の時代へ",
+          "subtext": "2月9日更新：進級・進学前に知るべき新常識",
+          "alt": "表紙 - 2026年最新！生成AI×ITスキルが必"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "部活動が「学校」からなくなる？",
-          "sub_title": "2026年度から本格化する地域移行。平日の放課後、子どもの『居場所』と『学び』の選択肢をどう確保するかが喫緊の課題に。",
-          "text_content": "部活動が「学校」からなくなる？",
+          "main_title": "「ただAIを使うだけ」では足りない？",
+          "sub_title": "2026年、入試や就職で求められるのはAIを使いこなし『形にする力』。単なる検索ツールとしての利用から、クリエイティブへの応用が格差を生んでいます。",
+          "text_content": "「ただAIを使うだけ」では足りない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-02.png",
           "image_file": "assets/img/posts/20260209_announcement-02.png",
-          "overlay_text": "部活動が「学校」からなくなる？",
-          "subtext": "2026年度から本格化する地域移行。平日の放課後、子どもの『居場所』と『学び』の選択肢をどう確保するかが喫緊の課題に。",
-          "alt": "内容1 - 部活動が「学校」からなくなる？"
+          "overlay_text": "「ただAIを使うだけ」では足りない？",
+          "subtext": "2026年、入試や就職で求められるのはAIを使いこなし『形にする力』。単なる検索ツールとしての利用から、クリエイティブへの応用が格差を生んでいます。",
+          "alt": "内容1 - 「ただAIを使うだけ」では足りない？"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "今、プログラミング学習が選ばれる理由",
-          "sub_title": "運動部だけでない、新しい放課後の選択肢。AI共生時代の2026年、スキルの習得と居場所作りが同時に叶うスクールが急増中です。",
-          "text_content": "今、プログラミング学習が選ばれる理由",
+          "main_title": "動画・デザイン×AIで「個の力」を最大化",
+          "sub_title": "最新のSora（動画生成）やデザインAIをITスキルと掛け合わせることで、中高生でもプロ級の制作が可能に。自分だけのポートフォリオが最強の武器になります。",
+          "text_content": "動画・デザイン×AIで「個の力」を最大化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-03.png",
           "image_file": "assets/img/posts/20260209_announcement-03.png",
-          "overlay_text": "今、プログラミング学習が選ばれる理由",
-          "subtext": "運動部だけでない、新しい放課後の選択肢。AI共生時代の2026年、スキルの習得と居場所作りが同時に叶うスクールが急増中です。",
-          "alt": "内容2 - 今、プログラミング学習が選ばれる理由"
+          "overlay_text": "動画・デザイン×AIで「個の力」を最大化",
+          "subtext": "最新のSora（動画生成）やデザインAIをITスキルと掛け合わせることで、中高生でもプロ級の制作が可能に。自分だけのポートフォリオが最強の武器になります。",
+          "alt": "内容2 - 動画・デザイン×AIで「個の力」を最大化"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提供する「次世代の居場所」",
-          "sub_title": "学校・地域の枠を超えた、最新AIツール活用型カリキュラム。2月からの早期入塾で、4月の新体制スタートに備えましょう！",
-          "text_content": "if塾が提供する「次世代の居場所」",
+          "main_title": "if塾で学ぶ「AI共生型」ITクリエイト",
+          "sub_title": "春休みに向けた特別講座スタート！最新ツールを駆使して、映像制作やWebデザインの基礎から応用まで最短ルートで習得。if塾なら「正しく、賢く」AIを味方にできます。",
+          "text_content": "if塾で学ぶ「AI共生型」ITクリエイト",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260209_announcement-04.png",
           "image_file": "assets/img/posts/20260209_announcement-04.png",
-          "overlay_text": "if塾が提供する「次世代の居場所」",
-          "subtext": "学校・地域の枠を超えた、最新AIツール活用型カリキュラム。2月からの早期入塾で、4月の新体制スタートに備えましょう！",
-          "alt": "内容3 - if塾が提供する「次世代の居場所」"
+          "overlay_text": "if塾で学ぶ「AI共生型」ITクリエイト",
+          "subtext": "春休みに向けた特別講座スタート！最新ツールを駆使して、映像制作やWebデザインの基礎から応用まで最短ルートで習得。if塾なら「正しく、賢く」AIを味方にできます。",
+          "alt": "内容3 - if塾で学ぶ「AI共生型」ITクリエイト"
         },
         {
           "page_number": 5,
@@ -245,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-09T14:17:40",
+      "research_date": "2026-02-09T20:51:43",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年4月から激変！部活動の地域移行",
+        "cover_text": "2026年最新！生成AI×ITスキルが必",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年4月から激変！部活動の地域移行と「放課後」の新常識",
-            "subtext": "【2月最新版】今すぐ知っておきたい教育ニュース",
+            "headline": "2026年最新！生成AI×ITスキルが必須の時代へ",
+            "subtext": "2月9日更新：進級・進学前に知るべき新常識",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "部活動が「学校」からなくなる？",
-            "subtext": "2026年度から本格化する地域移行。平日の放課後、子どもの『居場所』と『学び』の選択肢をどう確保するかが喫緊の課題に。",
+            "headline": "「ただAIを使うだけ」では足りない？",
+            "subtext": "2026年、入試や就職で求められるのはAIを使いこなし『形にする力』。単なる検索ツールとしての利用から、クリエイティブへの応用が格差を生んでいます。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "今、プログラミング学習が選ばれる理由",
-            "subtext": "運動部だけでない、新しい放課後の選択肢。AI共生時代の2026年、スキルの習得と居場所作りが同時に叶うスクールが急増中です。",
+            "headline": "動画・デザイン×AIで「個の力」を最大化",
+            "subtext": "最新のSora（動画生成）やデザインAIをITスキルと掛け合わせることで、中高生でもプロ級の制作が可能に。自分だけのポートフォリオが最強の武器になります。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提供する「次世代の居場所」",
-            "subtext": "学校・地域の枠を超えた、最新AIツール活用型カリキュラム。2月からの早期入塾で、4月の新体制スタートに備えましょう！",
+            "headline": "if塾で学ぶ「AI共生型」ITクリエイト",
+            "subtext": "春休みに向けた特別講座スタート！最新ツールを駆使して、映像制作やWebデザインの基礎から応用まで最短ルートで習得。if塾なら「正しく、賢く」AIを味方にできます。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
