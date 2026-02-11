@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 35,
-    "last_updated": "2026-02-11T14:18:42.925825",
+    "last_updated": "2026-02-11T20:51:58.691523",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260211_development",
       "post_id": "20260211_development",
-      "created_at": "2026-02-11T14:18:42",
+      "created_at": "2026-02-11T20:51:58",
       "datetime": "2026-02-11T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "自分を複製する。2026年最新『My AI』構築ガイド",
+      "theme": "2026年版：バイブコーディング（自然言語に",
       "target_audience": "Students & Parents",
-      "title": "自分を複製する。2026年最新『My AI』構築ガイド",
-      "caption": "【2026年2月】最新のAI活用術を公開！\n\nもうAIに「もっと自分らしく書いて」と指示する時間は不要です。\n2026年、AIは「調べる道具」から「自分を拡張するパートナー」へと進化しました。\n\n今月のif塾では、個人の経験や価値観を直接学習させた『My AI』の開発事例をご紹介。\n\n特に受験や就活を控えた学生にとって、自分の過去を学習したAIとの対話は、どんな自己啓発本よりも深い自己分析を可能にします。\n\n「自分ならどう考えるか？」をAIが教えてくれる新しい体験。\nif塾で一緒に未来のツールを使いこなしましょう！\n\n詳細はプロフィールのリンクから✨",
-      "caption_text": "【2026年2月】最新のAI活用術を公開！\n\nもうAIに「もっと自分らしく書いて」と指示する時間は不要です。\n2026年、AIは「調べる道具」から「自分を拡張するパートナー」へと進化しました。\n\n今月のif塾では、個人の経験や価値観を直接学習させた『My AI』の開発事例をご紹介。\n\n特に受験や就活を控えた学生にとって、自分の過去を学習したAIとの対話は、どんな自己啓発本よりも深い自己分析を可能にします。\n\n「自分ならどう考えるか？」をAIが教えてくれる新しい体験。\nif塾で一緒に未来のツールを使いこなしましょう！\n\n詳細はプロフィールのリンクから✨",
+      "title": "2026年版：バイブコーディング（自然言語に",
+      "caption": "【2026年2月】バイブコーディング（自然言語によるAIとの共創開発）の普及\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "caption_text": "【2026年2月】バイブコーディング（自然言語によるAIとの共創開発）の普及\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#MyAI",
-        "#自分専用AI",
-        "#パーソナルAI",
-        "#AI教育",
-        "#自己分析",
-        "#最新テクノロジー"
+        "#if塾",
+        "#プログラミング",
+        "#アプリ開発",
+        "#生徒作品",
+        "#Python",
+        "#JavaScript",
+        "#AIアプリ"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "自分を複製する。2026年最新『My AI』構築ガイド",
-          "sub_title": "2月の進路相談もAIがあなたの代わりに？",
-          "text_content": "自分を複製する。2026年最新『My AI』構築ガイド",
+          "main_title": "2026年版：バイブコーディング（自然言語に",
+          "sub_title": "2月の最新情報",
+          "text_content": "2026年版：バイブコーディング（自然言語に",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-01.png",
           "image_file": "assets/img/posts/20260211_development-01.png",
-          "overlay_text": "自分を複製する。2026年最新『My AI』構築ガイド",
-          "subtext": "2月の進路相談もAIがあなたの代わりに？",
-          "alt": "表紙 - 自分を複製する。2026年最新『My A"
+          "overlay_text": "2026年版：バイブコーディング（自然言語に",
+          "subtext": "2月の最新情報",
+          "alt": "表紙 - 2026年版：バイブコーディング（自然言"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIは便利。でも、私の言葉じゃない」",
-          "sub_title": "受験や就活の自己分析で、一般的な正論しか言わないAIに限界を感じていませんか？",
-          "text_content": "「AIは便利。でも、私の言葉じゃない」",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-02.png",
           "image_file": "assets/img/posts/20260211_development-02.png",
-          "overlay_text": "「AIは便利。でも、私の言葉じゃない」",
-          "subtext": "受験や就活の自己分析で、一般的な正論しか言わないAIに限界を感じていませんか？",
-          "alt": "内容1 - 「AIは便利。でも、私の言葉じゃない」"
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Personal-LLM 4.0で実現する「自分専用」の思考",
-          "sub_title": "2026年標準のローカル学習ツールを使い、過去の作文や日記からあなたの『価値観』を完全同期。",
-          "text_content": "Personal-LLM 4.0で実現する「自分専用」の思考",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-03.png",
           "image_file": "assets/img/posts/20260211_development-03.png",
-          "overlay_text": "Personal-LLM 4.0で実現する「自分専用」の思考",
-          "subtext": "2026年標準のローカル学習ツールを使い、過去の作文や日記からあなたの『価値観』を完全同期。",
-          "alt": "内容2 - Personal-LLM 4.0で実現す"
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "迷った時の「第二の自分」という羅針盤",
-          "sub_title": "if塾では、AIを代筆ではなく『壁打ち相手』として活用。客観的な自己理解が爆速で進みます。",
-          "text_content": "迷った時の「第二の自分」という羅針盤",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-04.png",
           "image_file": "assets/img/posts/20260211_development-04.png",
-          "overlay_text": "迷った時の「第二の自分」という羅針盤",
-          "subtext": "if塾では、AIを代筆ではなく『壁打ち相手』として活用。客観的な自己理解が爆速で進みます。",
-          "alt": "内容3 - 迷った時の「第二の自分」という羅針盤"
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "自分を複製する。2026年最新『My AI』構築ガイド",
-          "sub_title": "2月の進路相談もAIがあなたの代わりに？",
-          "text_content": "自分を複製する。2026年最新『My AI』構築ガイド",
+          "main_title": "2026年版：バイブコーディング（自然言語に",
+          "sub_title": "2月の最新情報",
+          "text_content": "2026年版：バイブコーディング（自然言語に",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-01.png",
           "image_file": "assets/img/posts/20260211_development-01.png",
-          "overlay_text": "自分を複製する。2026年最新『My AI』構築ガイド",
-          "subtext": "2月の進路相談もAIがあなたの代わりに？",
-          "alt": "表紙 - 自分を複製する。2026年最新『My A"
+          "overlay_text": "2026年版：バイブコーディング（自然言語に",
+          "subtext": "2月の最新情報",
+          "alt": "表紙 - 2026年版：バイブコーディング（自然言"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIは便利。でも、私の言葉じゃない」",
-          "sub_title": "受験や就活の自己分析で、一般的な正論しか言わないAIに限界を感じていませんか？",
-          "text_content": "「AIは便利。でも、私の言葉じゃない」",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-02.png",
           "image_file": "assets/img/posts/20260211_development-02.png",
-          "overlay_text": "「AIは便利。でも、私の言葉じゃない」",
-          "subtext": "受験や就活の自己分析で、一般的な正論しか言わないAIに限界を感じていませんか？",
-          "alt": "内容1 - 「AIは便利。でも、私の言葉じゃない」"
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Personal-LLM 4.0で実現する「自分専用」の思考",
-          "sub_title": "2026年標準のローカル学習ツールを使い、過去の作文や日記からあなたの『価値観』を完全同期。",
-          "text_content": "Personal-LLM 4.0で実現する「自分専用」の思考",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-03.png",
           "image_file": "assets/img/posts/20260211_development-03.png",
-          "overlay_text": "Personal-LLM 4.0で実現する「自分専用」の思考",
-          "subtext": "2026年標準のローカル学習ツールを使い、過去の作文や日記からあなたの『価値観』を完全同期。",
-          "alt": "内容2 - Personal-LLM 4.0で実現す"
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "迷った時の「第二の自分」という羅針盤",
-          "sub_title": "if塾では、AIを代筆ではなく『壁打ち相手』として活用。客観的な自己理解が爆速で進みます。",
-          "text_content": "迷った時の「第二の自分」という羅針盤",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260211_development-04.png",
           "image_file": "assets/img/posts/20260211_development-04.png",
-          "overlay_text": "迷った時の「第二の自分」という羅針盤",
-          "subtext": "if塾では、AIを代筆ではなく『壁打ち相手』として活用。客観的な自己理解が爆速で進みます。",
-          "alt": "内容3 - 迷った時の「第二の自分」という羅針盤"
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -229,21 +230,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "デザイン"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "kagaya_yuma",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-11T14:17:25",
+      "research_date": "2026-02-11T20:50:46",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "自分を複製する。2026年最新『My A",
+        "cover_text": "2026年版：バイブコーディング（自然言",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "自分を複製する。2026年最新『My AI』構築ガイド",
-            "subtext": "2月の進路相談もAIがあなたの代わりに？",
+            "headline": "2026年版：バイブコーディング（自然言語に",
+            "subtext": "2月の最新情報",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIは便利。でも、私の言葉じゃない」",
-            "subtext": "受験や就活の自己分析で、一般的な正論しか言わないAIに限界を感じていませんか？",
+            "headline": "こんな悩みありませんか？",
+            "subtext": "2026年の課題",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Personal-LLM 4.0で実現する「自分専用」の思考",
-            "subtext": "2026年標準のローカル学習ツールを使い、過去の作文や日記からあなたの『価値観』を完全同期。",
+            "headline": "2026年の解決策をご紹介",
+            "subtext": "最新ツールで解決",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "迷った時の「第二の自分」という羅針盤",
-            "subtext": "if塾では、AIを代筆ではなく『壁打ち相手』として活用。客観的な自己理解が爆速で進みます。",
+            "headline": "今すぐ始めよう",
+            "subtext": "if塾で学ぶ",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
