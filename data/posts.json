@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 34,
-    "last_updated": "2026-02-10T20:55:40.167611",
+    "total_posts": 35,
+    "last_updated": "2026-02-11T11:23:45.455744",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260211_development",
+      "post_id": "20260211_development",
+      "created_at": "2026-02-11T11:23:45",
+      "datetime": "2026-02-11T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+      "target_audience": "Students & Parents",
+      "title": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+      "caption": "【2026年2月】最新の開発スタイルをアップデート！\n\nプログラミング学習の常識が、この1年で劇的に変わりました。\n「Agentic Coding（エージェント開発）」の普及により、AIが自らコードを書き、バグを見つけ、勝手に直してくれる時代です。\n\n春からの進学・進級を控えた今、お子様に必要なのは「コードを丸暗記する力」ではありません。\n\nAIエージェントに的確な指示を出し、複雑なシステムを組み上げる「論理的思考」と「設計力」です。\n\nif塾では、2026年の最先端ツールを使いこなしながら、本質的なクリエイティビティを伸ばすカリキュラムを提供しています。\n\n「AIに作ってもらう」から「AIと共に創る」へ。\n次世代のスキルを一緒に学びませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年2月】最新の開発スタイルをアップデート！\n\nプログラミング学習の常識が、この1年で劇的に変わりました。\n「Agentic Coding（エージェント開発）」の普及により、AIが自らコードを書き、バグを見つけ、勝手に直してくれる時代です。\n\n春からの進学・進級を控えた今、お子様に必要なのは「コードを丸暗記する力」ではありません。\n\nAIエージェントに的確な指示を出し、複雑なシステムを組み上げる「論理的思考」と「設計力」です。\n\nif塾では、2026年の最先端ツールを使いこなしながら、本質的なクリエイティビティを伸ばすカリキュラムを提供しています。\n\n「AIに作ってもらう」から「AIと共に創る」へ。\n次世代のスキルを一緒に学びませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AgenticCoding",
+        "#AIエージェント",
+        "#プログラミング教育",
+        "#最新テクノロジー",
+        "#リスキリング",
+        "#自由研究"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "sub_title": "2026年2月最新：Agentic Codingの衝撃",
+          "text_content": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-01.png",
+          "image_file": "assets/img/posts/20260211_development-01.png",
+          "overlay_text": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "subtext": "2026年2月最新：Agentic Codingの衝撃",
+          "alt": "表紙 - AIエージェントが自律開発。2026年、"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "sub_title": "これまではエラー解決に数時間。今の学生や親御さんが抱える「プログラミングは難しい」という壁が、AIの自律修正によって消滅しました。",
+          "text_content": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-02.png",
+          "image_file": "assets/img/posts/20260211_development-02.png",
+          "overlay_text": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "subtext": "これまではエラー解決に数時間。今の学生や親御さんが抱える「プログラミングは難しい」という壁が、AIの自律修正によって消滅しました。",
+          "alt": "内容1 - 「エラーが直せなくて挫折…」は、もう過去"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "sub_title": "2026年現在、GitHub Copilot Nextなどのツールは「提案」を超え、要件定義からデプロイまでをAIエージェントが自律的に完結させます。",
+          "text_content": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-03.png",
+          "image_file": "assets/img/posts/20260211_development-03.png",
+          "overlay_text": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "subtext": "2026年現在、GitHub Copilot Nextなどのツールは「提案」を超え、要件定義からデプロイまでをAIエージェントが自律的に完結させます。",
+          "alt": "内容2 - Agentic Coding：AIが自ら"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "sub_title": "AIが作業を代行するからこそ、if塾では『どんな課題を解決したいか』を論理的に言語化する力を養い、AIを使いこなすリーダーを育成します。",
+          "text_content": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-04.png",
+          "image_file": "assets/img/posts/20260211_development-04.png",
+          "overlay_text": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "subtext": "AIが作業を代行するからこそ、if塾では『どんな課題を解決したいか』を論理的に言語化する力を養い、AIを使いこなすリーダーを育成します。",
+          "alt": "内容3 - if塾の視点：大事なのは「コードの書き方"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "sub_title": "2026年2月最新：Agentic Codingの衝撃",
+          "text_content": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-01.png",
+          "image_file": "assets/img/posts/20260211_development-01.png",
+          "overlay_text": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+          "subtext": "2026年2月最新：Agentic Codingの衝撃",
+          "alt": "表紙 - AIエージェントが自律開発。2026年、"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "sub_title": "これまではエラー解決に数時間。今の学生や親御さんが抱える「プログラミングは難しい」という壁が、AIの自律修正によって消滅しました。",
+          "text_content": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-02.png",
+          "image_file": "assets/img/posts/20260211_development-02.png",
+          "overlay_text": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+          "subtext": "これまではエラー解決に数時間。今の学生や親御さんが抱える「プログラミングは難しい」という壁が、AIの自律修正によって消滅しました。",
+          "alt": "内容1 - 「エラーが直せなくて挫折…」は、もう過去"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "sub_title": "2026年現在、GitHub Copilot Nextなどのツールは「提案」を超え、要件定義からデプロイまでをAIエージェントが自律的に完結させます。",
+          "text_content": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-03.png",
+          "image_file": "assets/img/posts/20260211_development-03.png",
+          "overlay_text": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+          "subtext": "2026年現在、GitHub Copilot Nextなどのツールは「提案」を超え、要件定義からデプロイまでをAIエージェントが自律的に完結させます。",
+          "alt": "内容2 - Agentic Coding：AIが自ら"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "sub_title": "AIが作業を代行するからこそ、if塾では『どんな課題を解決したいか』を論理的に言語化する力を養い、AIを使いこなすリーダーを育成します。",
+          "text_content": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260211_development-04.png",
+          "image_file": "assets/img/posts/20260211_development-04.png",
+          "overlay_text": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+          "subtext": "AIが作業を代行するからこそ、if塾では『どんな課題を解決したいか』を論理的に言語化する力を養い、AIを使いこなすリーダーを育成します。",
+          "alt": "内容3 - if塾の視点：大事なのは「コードの書き方"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260211_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260211_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260211_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260211_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-11T11:22:24",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIエージェントが自律開発。2026年、",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIエージェントが自律開発。2026年、プログラミング学習は「書く」から「対話」へ",
+            "subtext": "2026年2月最新：Agentic Codingの衝撃",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「エラーが直せなくて挫折…」は、もう過去の話です。",
+            "subtext": "これまではエラー解決に数時間。今の学生や親御さんが抱える「プログラミングは難しい」という壁が、AIの自律修正によって消滅しました。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Agentic Coding：AIが自ら考え、修正し、納品する時代",
+            "subtext": "2026年現在、GitHub Copilot Nextなどのツールは「提案」を超え、要件定義からデプロイまでをAIエージェントが自律的に完結させます。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：大事なのは「コードの書き方」より「設計の思考力」",
+            "subtext": "AIが作業を代行するからこそ、if塾では『どんな課題を解決したいか』を論理的に言語化する力を養い、AIを使いこなすリーダーを育成します。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260210_education",
       "post_id": "20260210_education",
