@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 35,
-    "last_updated": "2026-02-11T20:51:58.691523",
+    "total_posts": 36,
+    "last_updated": "2026-02-12T11:09:58.444274",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260212_ai_column",
+      "post_id": "20260212_ai_column",
+      "created_at": "2026-02-12T11:09:58",
+      "datetime": "2026-02-12T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+      "target_audience": "Students & Parents",
+      "title": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+      "caption": "【2026年2月】最新のAIニュースをお届けします！\n\n受験や新年度の準備で忙しいこの時期、ChatGPT（GPT-5.2）に驚きのアップデートが来ました。\n\n今までのAIリサーチは「どこから持ってきた情報かわからない」という不安がありましたが、今回のDeep Research強化で「情報源の指定」が可能に！\n\n例えば…\n・公的機関のデータだけを抽出\n・最新の入試要項PDFだけを要約\n・指定したニュースサイトからトレンド分析\n\nこれができることで、情報の精度が劇的に向上しました。\n2026年は「AIが言っているから正しい」ではなく、「正しい情報源をAIに読み込ませる」スキルが重要です。\n\nif塾では、こうした最新ツールを味方につけて、効率的に目標を達成する方法を教えています。✨\n\n詳細はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年2月】最新のAIニュースをお届けします！\n\n受験や新年度の準備で忙しいこの時期、ChatGPT（GPT-5.2）に驚きのアップデートが来ました。\n\n今までのAIリサーチは「どこから持ってきた情報かわからない」という不安がありましたが、今回のDeep Research強化で「情報源の指定」が可能に！\n\n例えば…\n・公的機関のデータだけを抽出\n・最新の入試要項PDFだけを要約\n・指定したニュースサイトからトレンド分析\n\nこれができることで、情報の精度が劇的に向上しました。\n2026年は「AIが言っているから正しい」ではなく、「正しい情報源をAIに読み込ませる」スキルが重要です。\n\nif塾では、こうした最新ツールを味方につけて、効率的に目標を達成する方法を教えています。✨\n\n詳細はプロフィールのリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#GPT5",
+        "#ChatGPT",
+        "#AI教育",
+        "#DeepResearch",
+        "#最新技術",
+        "#受験生応援",
+        "#DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "sub_title": "【2026年2月最新】情報源の指定が可能に",
+          "text_content": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-01.png",
+          "image_file": "assets/img/posts/20260212_ai_column-01.png",
+          "overlay_text": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "subtext": "【2026年2月最新】情報源の指定が可能に",
+          "alt": "表紙 - GPT-5.2解禁！Deep Resea"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "sub_title": "2026年の受験シーズン真っ只中。膨大なネット情報から、信頼できる最新の学費データや入試要項だけを抜き出すのは至難の業です。AIが勝手に作った「それっぽい嘘」を見抜くのにも限界が…",
+          "text_content": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-02.png",
+          "image_file": "assets/img/posts/20260212_ai_column-02.png",
+          "overlay_text": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "subtext": "2026年の受験シーズン真っ只中。膨大なネット情報から、信頼できる最新の学費データや入試要項だけを抜き出すのは至難の業です。AIが勝手に作った「それっぽい嘘」を見抜くのにも限界が…",
+          "alt": "内容1 - 進路調査の「根拠」探し、まだ手作業で消耗"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "sub_title": "最新のDeep Research機能では「文部科学省の統計データ」や「特定の大学公式サイト」だけを情報源に指定して分析が可能に。AI特有のハルシネーション（嘘）を排除し、100%確実なエビデンスに基づいたレポートが数秒で完成します。",
+          "text_content": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-03.png",
+          "image_file": "assets/img/posts/20260212_ai_column-03.png",
+          "overlay_text": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "subtext": "最新のDeep Research機能では「文部科学省の統計データ」や「特定の大学公式サイト」だけを情報源に指定して分析が可能に。AI特有のハルシネーション（嘘）を排除し、100%確実なエビデンスに基づいたレポートが数秒で完成します。",
+          "alt": "内容2 - GPT-5.2の目玉機能「指定リサーチ」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "sub_title": "ただ検索するのではなく『PDF直接参照モード』を併用しましょう。募集要項の細かな注釈まで読み解く「AIの目」を持てば、倍率予測や奨学金条件の比較で圧倒的な差がつきます。道具は「正しく縛る」のが2026年の鉄則です。",
+          "text_content": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-04.png",
+          "image_file": "assets/img/posts/20260212_ai_column-04.png",
+          "overlay_text": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "subtext": "ただ検索するのではなく『PDF直接参照モード』を併用しましょう。募集要項の細かな注釈まで読み解く「AIの目」を持てば、倍率予測や奨学金条件の比較で圧倒的な差がつきます。道具は「正しく縛る」のが2026年の鉄則です。",
+          "alt": "内容3 - if塾流：受験・就活を有利に進める「AI"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "sub_title": "【2026年2月最新】情報源の指定が可能に",
+          "text_content": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-01.png",
+          "image_file": "assets/img/posts/20260212_ai_column-01.png",
+          "overlay_text": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+          "subtext": "【2026年2月最新】情報源の指定が可能に",
+          "alt": "表紙 - GPT-5.2解禁！Deep Resea"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "sub_title": "2026年の受験シーズン真っ只中。膨大なネット情報から、信頼できる最新の学費データや入試要項だけを抜き出すのは至難の業です。AIが勝手に作った「それっぽい嘘」を見抜くのにも限界が…",
+          "text_content": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-02.png",
+          "image_file": "assets/img/posts/20260212_ai_column-02.png",
+          "overlay_text": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+          "subtext": "2026年の受験シーズン真っ只中。膨大なネット情報から、信頼できる最新の学費データや入試要項だけを抜き出すのは至難の業です。AIが勝手に作った「それっぽい嘘」を見抜くのにも限界が…",
+          "alt": "内容1 - 進路調査の「根拠」探し、まだ手作業で消耗"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "sub_title": "最新のDeep Research機能では「文部科学省の統計データ」や「特定の大学公式サイト」だけを情報源に指定して分析が可能に。AI特有のハルシネーション（嘘）を排除し、100%確実なエビデンスに基づいたレポートが数秒で完成します。",
+          "text_content": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-03.png",
+          "image_file": "assets/img/posts/20260212_ai_column-03.png",
+          "overlay_text": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+          "subtext": "最新のDeep Research機能では「文部科学省の統計データ」や「特定の大学公式サイト」だけを情報源に指定して分析が可能に。AI特有のハルシネーション（嘘）を排除し、100%確実なエビデンスに基づいたレポートが数秒で完成します。",
+          "alt": "内容2 - GPT-5.2の目玉機能「指定リサーチ」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "sub_title": "ただ検索するのではなく『PDF直接参照モード』を併用しましょう。募集要項の細かな注釈まで読み解く「AIの目」を持てば、倍率予測や奨学金条件の比較で圧倒的な差がつきます。道具は「正しく縛る」のが2026年の鉄則です。",
+          "text_content": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260212_ai_column-04.png",
+          "image_file": "assets/img/posts/20260212_ai_column-04.png",
+          "overlay_text": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+          "subtext": "ただ検索するのではなく『PDF直接参照モード』を併用しましょう。募集要項の細かな注釈まで読み解く「AIの目」を持てば、倍率予測や奨学金条件の比較で圧倒的な差がつきます。道具は「正しく縛る」のが2026年の鉄則です。",
+          "alt": "内容3 - if塾流：受験・就活を有利に進める「AI"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260212_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260212_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260212_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260212_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-12T11:08:40",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "GPT-5.2解禁！Deep Resea",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "GPT-5.2解禁！Deep Researchが神進化。もう嘘の情報に騙されない。",
+            "subtext": "【2026年2月最新】情報源の指定が可能に",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "進路調査の「根拠」探し、まだ手作業で消耗してる？",
+            "subtext": "2026年の受験シーズン真っ只中。膨大なネット情報から、信頼できる最新の学費データや入試要項だけを抜き出すのは至難の業です。AIが勝手に作った「それっぽい嘘」を見抜くのにも限界が…",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "GPT-5.2の目玉機能「指定リサーチ」が凄すぎる！",
+            "subtext": "最新のDeep Research機能では「文部科学省の統計データ」や「特定の大学公式サイト」だけを情報源に指定して分析が可能に。AI特有のハルシネーション（嘘）を排除し、100%確実なエビデンスに基づいたレポートが数秒で完成します。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：受験・就活を有利に進める「AIフィルタリング術」",
+            "subtext": "ただ検索するのではなく『PDF直接参照モード』を併用しましょう。募集要項の細かな注釈まで読み解く「AIの目」を持てば、倍率予測や奨学金条件の比較で圧倒的な差がつきます。道具は「正しく縛る」のが2026年の鉄則です。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260211_development",
       "post_id": "20260211_development",
