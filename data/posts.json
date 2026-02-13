@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 36,
-    "last_updated": "2026-02-12T20:46:41.992860",
+    "total_posts": 37,
+    "last_updated": "2026-02-13T11:12:58.262630",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260213_business",
+      "post_id": "20260213_business",
+      "created_at": "2026-02-13T11:12:58",
+      "datetime": "2026-02-13T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "2026年版：AIエージェント開発：単なる生",
+      "target_audience": "Students & Parents",
+      "title": "2026年版：AIエージェント開発：単なる生",
+      "caption": "【2026年2月】AIエージェント開発：単なる生成AI活用から『自律して働くAI』を中高生が設計・運用するフェーズへ\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "caption_text": "【2026年2月】AIエージェント開発：単なる生成AI活用から『自律して働くAI』を中高生が設計・運用するフェーズへ\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#if塾",
+        "#副業",
+        "#中学生",
+        "#高校生",
+        "#お金の教育",
+        "#LINEスタンプ",
+        "#稼ぐ力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年版：AIエージェント開発：単なる生",
+          "sub_title": "2月の最新情報",
+          "text_content": "2026年版：AIエージェント開発：単なる生",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-01.png",
+          "image_file": "assets/img/posts/20260213_business-01.png",
+          "overlay_text": "2026年版：AIエージェント開発：単なる生",
+          "subtext": "2月の最新情報",
+          "alt": "表紙 - 2026年版：AIエージェント開発：単な"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-02.png",
+          "image_file": "assets/img/posts/20260213_business-02.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-03.png",
+          "image_file": "assets/img/posts/20260213_business-03.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-04.png",
+          "image_file": "assets/img/posts/20260213_business-04.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年版：AIエージェント開発：単なる生",
+          "sub_title": "2月の最新情報",
+          "text_content": "2026年版：AIエージェント開発：単なる生",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-01.png",
+          "image_file": "assets/img/posts/20260213_business-01.png",
+          "overlay_text": "2026年版：AIエージェント開発：単なる生",
+          "subtext": "2月の最新情報",
+          "alt": "表紙 - 2026年版：AIエージェント開発：単な"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-02.png",
+          "image_file": "assets/img/posts/20260213_business-02.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-03.png",
+          "image_file": "assets/img/posts/20260213_business-03.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260213_business-04.png",
+          "image_file": "assets/img/posts/20260213_business-04.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260213_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260213_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260213_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260213_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-13T11:11:46",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年版：AIエージェント開発：単な",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年版：AIエージェント開発：単なる生",
+            "subtext": "2月の最新情報",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "こんな悩みありませんか？",
+            "subtext": "2026年の課題",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年の解決策をご紹介",
+            "subtext": "最新ツールで解決",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐ始めよう",
+            "subtext": "if塾で学ぶ",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260212_ai_column",
       "post_id": "20260212_ai_column",
