@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 37,
-    "last_updated": "2026-02-13T20:37:50.690550",
+    "total_posts": 38,
+    "last_updated": "2026-02-14T11:01:01.548535",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260214_activity",
+      "post_id": "20260214_activity",
+      "created_at": "2026-02-14T11:01:01",
+      "datetime": "2026-02-14T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+      "target_audience": "Students & Parents",
+      "title": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+      "caption": "【2026年2月】最新の学びのカタチをお届けします✨\n\n本日2月14日、if塾の授業では今まさに主流となりつつある「バイブコーディング」を取り入れました。\n\nかつてのように複雑なコードを一行ずつ打ち込む時代は終わり、2026年の今は「AIといかに会話して、自分の意図を伝えるか」がプログラミングの核心になっています。\n\n「こんなアプリを作りたい！」という生徒の熱量が、AIを通じて瞬時に形になる様子は、まさに魔法のようです。文法で挫折するのではなく、形にする喜びを先に知る。これが令和の新しい学習スタイルです。\n\n春休みを前に、一歩先のテクノロジーに触れてみませんか？\nif塾では体験授業を随時受付中です！\n\n詳細はプロフィール欄のリンクからチェックしてください🔍",
+      "caption_text": "【2026年2月】最新の学びのカタチをお届けします✨\n\n本日2月14日、if塾の授業では今まさに主流となりつつある「バイブコーディング」を取り入れました。\n\nかつてのように複雑なコードを一行ずつ打ち込む時代は終わり、2026年の今は「AIといかに会話して、自分の意図を伝えるか」がプログラミングの核心になっています。\n\n「こんなアプリを作りたい！」という生徒の熱量が、AIを通じて瞬時に形になる様子は、まさに魔法のようです。文法で挫折するのではなく、形にする喜びを先に知る。これが令和の新しい学習スタイルです。\n\n春休みを前に、一歩先のテクノロジーに触れてみませんか？\nif塾では体験授業を随時受付中です！\n\n詳細はプロフィール欄のリンクからチェックしてください🔍",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#AI教育",
+        "#最新テック",
+        "#プログラミング教室",
+        "#次世代教育",
+        "#AIとの対話"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "sub_title": "2026.02.14 授業レポート",
+          "text_content": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-01.png",
+          "image_file": "assets/img/posts/20260214_activity-01.png",
+          "overlay_text": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "subtext": "2026.02.14 授業レポート",
+          "alt": "表紙 - コードを書かないプログラミング？2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」に言葉が追いつかない...",
+          "sub_title": "これまでのプログラミングは、文法を覚えることが最大の壁でした。春からの進級を前に、スキル習得のスピードに不安を感じる保護者の方も増えています。",
+          "text_content": "「やりたい」に言葉が追いつかない...",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-02.png",
+          "image_file": "assets/img/posts/20260214_activity-02.png",
+          "overlay_text": "「やりたい」に言葉が追いつかない...",
+          "subtext": "これまでのプログラミングは、文法を覚えることが最大の壁でした。春からの進級を前に、スキル習得のスピードに不安を感じる保護者の方も増えています。",
+          "alt": "内容1 - 「やりたい」に言葉が追いつかない..."
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIと「対話」して直感的に形にする",
+          "sub_title": "今日の授業では最新のAIツールを使用。生徒たちは頭の中のイメージを言葉にするだけで、AIと共にリアルタイムでコードを組み上げる『バイブコーディング』を体験しました。",
+          "text_content": "AIと「対話」して直感的に形にする",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-03.png",
+          "image_file": "assets/img/posts/20260214_activity-03.png",
+          "overlay_text": "AIと「対話」して直感的に形にする",
+          "subtext": "今日の授業では最新のAIツールを使用。生徒たちは頭の中のイメージを言葉にするだけで、AIと共にリアルタイムでコードを組み上げる『バイブコーディング』を体験しました。",
+          "alt": "内容2 - AIと「対話」して直感的に形にする"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「文法」より「意図」",
+          "sub_title": "if塾では、AIを使いこなすための『思考の言語化』を重視。技術が変わっても通用する、2026年以降に必須のクリエイティブな課題解決力を養います。",
+          "text_content": "大切なのは「文法」より「意図」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-04.png",
+          "image_file": "assets/img/posts/20260214_activity-04.png",
+          "overlay_text": "大切なのは「文法」より「意図」",
+          "subtext": "if塾では、AIを使いこなすための『思考の言語化』を重視。技術が変わっても通用する、2026年以降に必須のクリエイティブな課題解決力を養います。",
+          "alt": "内容3 - 大切なのは「文法」より「意図」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "sub_title": "2026.02.14 授業レポート",
+          "text_content": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-01.png",
+          "image_file": "assets/img/posts/20260214_activity-01.png",
+          "overlay_text": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+          "subtext": "2026.02.14 授業レポート",
+          "alt": "表紙 - コードを書かないプログラミング？2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」に言葉が追いつかない...",
+          "sub_title": "これまでのプログラミングは、文法を覚えることが最大の壁でした。春からの進級を前に、スキル習得のスピードに不安を感じる保護者の方も増えています。",
+          "text_content": "「やりたい」に言葉が追いつかない...",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-02.png",
+          "image_file": "assets/img/posts/20260214_activity-02.png",
+          "overlay_text": "「やりたい」に言葉が追いつかない...",
+          "subtext": "これまでのプログラミングは、文法を覚えることが最大の壁でした。春からの進級を前に、スキル習得のスピードに不安を感じる保護者の方も増えています。",
+          "alt": "内容1 - 「やりたい」に言葉が追いつかない..."
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIと「対話」して直感的に形にする",
+          "sub_title": "今日の授業では最新のAIツールを使用。生徒たちは頭の中のイメージを言葉にするだけで、AIと共にリアルタイムでコードを組み上げる『バイブコーディング』を体験しました。",
+          "text_content": "AIと「対話」して直感的に形にする",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-03.png",
+          "image_file": "assets/img/posts/20260214_activity-03.png",
+          "overlay_text": "AIと「対話」して直感的に形にする",
+          "subtext": "今日の授業では最新のAIツールを使用。生徒たちは頭の中のイメージを言葉にするだけで、AIと共にリアルタイムでコードを組み上げる『バイブコーディング』を体験しました。",
+          "alt": "内容2 - AIと「対話」して直感的に形にする"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「文法」より「意図」",
+          "sub_title": "if塾では、AIを使いこなすための『思考の言語化』を重視。技術が変わっても通用する、2026年以降に必須のクリエイティブな課題解決力を養います。",
+          "text_content": "大切なのは「文法」より「意図」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260214_activity-04.png",
+          "image_file": "assets/img/posts/20260214_activity-04.png",
+          "overlay_text": "大切なのは「文法」より「意図」",
+          "subtext": "if塾では、AIを使いこなすための『思考の言語化』を重視。技術が変わっても通用する、2026年以降に必須のクリエイティブな課題解決力を養います。",
+          "alt": "内容3 - 大切なのは「文法」より「意図」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260214_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260214_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260214_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260214_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-14T10:59:46",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コードを書かないプログラミング？2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コードを書かないプログラミング？2026年、バイブコーディングが常識に",
+            "subtext": "2026.02.14 授業レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」に言葉が追いつかない...",
+            "subtext": "これまでのプログラミングは、文法を覚えることが最大の壁でした。春からの進級を前に、スキル習得のスピードに不安を感じる保護者の方も増えています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIと「対話」して直感的に形にする",
+            "subtext": "今日の授業では最新のAIツールを使用。生徒たちは頭の中のイメージを言葉にするだけで、AIと共にリアルタイムでコードを組み上げる『バイブコーディング』を体験しました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「文法」より「意図」",
+            "subtext": "if塾では、AIを使いこなすための『思考の言語化』を重視。技術が変わっても通用する、2026年以降に必須のクリエイティブな課題解決力を養います。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260213_business",
       "post_id": "20260213_business",
