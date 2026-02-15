@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 39,
-    "last_updated": "2026-02-15T11:12:15.596049",
+    "last_updated": "2026-02-15T14:10:56.411051",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260215_activity",
       "post_id": "20260215_activity",
-      "created_at": "2026-02-15T11:12:15",
+      "created_at": "2026-02-15T14:10:56",
       "datetime": "2026-02-15T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+      "theme": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
       "target_audience": "Students & Parents",
-      "title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-      "caption": "【2026年2月】最新の教育現場をお届け！\n\nいよいよ2026年の入試シーズンも佳境です。\nif塾では、AIエージェントと人間講師が共創する\n「ハイブリッド学習」が日常の風景となりました。\n\n「AIに聞くから、基礎がすぐ固まる」\n「先生と話すから、自信が持てる」\n\n最新ツールを使いこなす生徒たちの姿は、\nこれからの時代を生き抜く頼もしさに満ちています。\n効率的な学習と、人間味のある指導。\nこの両立こそが、if塾が選ばれる理由です。\n\n新年度の体験授業も受付中！\n詳細はプロフィールURLからチェックしてくださいね✨",
-      "caption_text": "【2026年2月】最新の教育現場をお届け！\n\nいよいよ2026年の入試シーズンも佳境です。\nif塾では、AIエージェントと人間講師が共創する\n「ハイブリッド学習」が日常の風景となりました。\n\n「AIに聞くから、基礎がすぐ固まる」\n「先生と話すから、自信が持てる」\n\n最新ツールを使いこなす生徒たちの姿は、\nこれからの時代を生き抜く頼もしさに満ちています。\n効率的な学習と、人間味のある指導。\nこの両立こそが、if塾が選ばれる理由です。\n\n新年度の体験授業も受付中！\n詳細はプロフィールURLからチェックしてくださいね✨",
+      "title": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+      "caption": "【2026年2月】最新の教育現場からのご報告です！\n\n本日、if塾では2026年冬の『AI共創型ハッカソン』を開催しました。 \n\nかつては数ヶ月かかったアプリケーション開発も、最新のAIエージェントを使いこなす今の生徒たちにとっては「数時間」のプロジェクトに。\n\n「プログラミングができないから作れない」という壁は完全に消滅しました。\n今、学生たちに求められているのは、技術力以上に「社会をどう変えたいか？」という熱意と、AIが出力した答えを精査する審美眼です。\n\n2026年の学びは、AIを道具として使う段階を超え、思考を拡張するパートナーとして共生するフェーズに入っています。\n\n次世代のスキルセットを、if塾で一緒に体験しませんか？\n\n#if塾 #2026年 #生成AI #ハッカソン #AI教育 #EdTech #未来の教育 #探究学習",
+      "caption_text": "【2026年2月】最新の教育現場からのご報告です！\n\n本日、if塾では2026年冬の『AI共創型ハッカソン』を開催しました。 \n\nかつては数ヶ月かかったアプリケーション開発も、最新のAIエージェントを使いこなす今の生徒たちにとっては「数時間」のプロジェクトに。\n\n「プログラミングができないから作れない」という壁は完全に消滅しました。\n今、学生たちに求められているのは、技術力以上に「社会をどう変えたいか？」という熱意と、AIが出力した答えを精査する審美眼です。\n\n2026年の学びは、AIを道具として使う段階を超え、思考を拡張するパートナーとして共生するフェーズに入っています。\n\n次世代のスキルセットを、if塾で一緒に体験しませんか？\n\n#if塾 #2026年 #生成AI #ハッカソン #AI教育 #EdTech #未来の教育 #探究学習",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#教育ICT",
-        "#AIエージェント",
-        "#ハイブリッド学習",
-        "#個別指導",
-        "#未来の教育",
-        "#受験生応援"
+        "#AI共創",
+        "#ハッカソン",
+        "#次世代教育",
+        "#生成AI",
+        "#中高生向けAI塾"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-          "sub_title": "2026年2月：最新ハイブリッド学習レポート",
-          "text_content": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "main_title": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026.02.15 | AI共創型学習の最前線",
+          "text_content": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-01.png",
           "image_file": "assets/img/posts/20260215_activity-01.png",
-          "overlay_text": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-          "subtext": "2026年2月：最新ハイブリッド学習レポート",
-          "alt": "表紙 - AI先生×人間講師の最強タッグ！2026"
+          "overlay_text": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+          "subtext": "2026.02.15 | AI共創型学習の最前線",
+          "alt": "表紙 - AIは「使う」から「共に創る」へ。202"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
-          "sub_title": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
-          "text_content": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "main_title": "「プログラミング言語」を覚える時代は終わった？",
+          "sub_title": "コードを書くこと自体に苦戦し、アイデアを形にする前に挫折してしまう。そんな昨日の常識が、今、劇的に変わり始めています。",
+          "text_content": "「プログラミング言語」を覚える時代は終わった？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-02.png",
           "image_file": "assets/img/posts/20260215_activity-02.png",
-          "overlay_text": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
-          "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
-          "alt": "内容1 - 「質問するのが恥ずかしい…」その悩みをA"
+          "overlay_text": "「プログラミング言語」を覚える時代は終わった？",
+          "subtext": "コードを書くこと自体に苦戦し、アイデアを形にする前に挫折してしまう。そんな昨日の常識が、今、劇的に変わり始めています。",
+          "alt": "内容1 - 「プログラミング言語」を覚える時代は終わ"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "専用AIエージェントとの対話で「わかった！」が即座に",
-          "sub_title": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
-          "text_content": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "main_title": "生成AIは「回答者」ではなく「開発パートナー」へ",
+          "sub_title": "生徒たちはマルチモーダルAIを標準装備し、数分でプロトタイプを構築。複雑な論理構造もAIと対話しながら解き明かす姿が見られました。",
+          "text_content": "生成AIは「回答者」ではなく「開発パートナー」へ",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-03.png",
           "image_file": "assets/img/posts/20260215_activity-03.png",
-          "overlay_text": "専用AIエージェントとの対話で「わかった！」が即座に",
-          "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
-          "alt": "内容2 - 専用AIエージェントとの対話で「わかった"
+          "overlay_text": "生成AIは「回答者」ではなく「開発パートナー」へ",
+          "subtext": "生徒たちはマルチモーダルAIを標準装備し、数分でプロトタイプを構築。複雑な論理構造もAIと対話しながら解き明かす姿が見られました。",
+          "alt": "内容2 - 生成AIは「回答者」ではなく「開発パート"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "人間講師だからできる「心のケア」と「戦略立案」",
-          "sub_title": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
-          "text_content": "人間講師だからできる「心のケア」と「戦略立案」",
+          "main_title": "if塾が重視する「問いを立てる力」と「審美眼」",
+          "sub_title": "AIが何でも作れる今だからこそ、人間の役割は『何を解決したいか』を定義すること。if塾では、技術以上に『意思の強さ』を育んでいます。",
+          "text_content": "if塾が重視する「問いを立てる力」と「審美眼」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-04.png",
           "image_file": "assets/img/posts/20260215_activity-04.png",
-          "overlay_text": "人間講師だからできる「心のケア」と「戦略立案」",
-          "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
-          "alt": "内容3 - 人間講師だからできる「心のケア」と「戦略"
+          "overlay_text": "if塾が重視する「問いを立てる力」と「審美眼」",
+          "subtext": "AIが何でも作れる今だからこそ、人間の役割は『何を解決したいか』を定義すること。if塾では、技術以上に『意思の強さ』を育んでいます。",
+          "alt": "内容3 - if塾が重視する「問いを立てる力」と「審"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-          "sub_title": "2026年2月：最新ハイブリッド学習レポート",
-          "text_content": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "main_title": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026.02.15 | AI共創型学習の最前線",
+          "text_content": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-01.png",
           "image_file": "assets/img/posts/20260215_activity-01.png",
-          "overlay_text": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-          "subtext": "2026年2月：最新ハイブリッド学習レポート",
-          "alt": "表紙 - AI先生×人間講師の最強タッグ！2026"
+          "overlay_text": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+          "subtext": "2026.02.15 | AI共創型学習の最前線",
+          "alt": "表紙 - AIは「使う」から「共に創る」へ。202"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
-          "sub_title": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
-          "text_content": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "main_title": "「プログラミング言語」を覚える時代は終わった？",
+          "sub_title": "コードを書くこと自体に苦戦し、アイデアを形にする前に挫折してしまう。そんな昨日の常識が、今、劇的に変わり始めています。",
+          "text_content": "「プログラミング言語」を覚える時代は終わった？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-02.png",
           "image_file": "assets/img/posts/20260215_activity-02.png",
-          "overlay_text": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
-          "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
-          "alt": "内容1 - 「質問するのが恥ずかしい…」その悩みをA"
+          "overlay_text": "「プログラミング言語」を覚える時代は終わった？",
+          "subtext": "コードを書くこと自体に苦戦し、アイデアを形にする前に挫折してしまう。そんな昨日の常識が、今、劇的に変わり始めています。",
+          "alt": "内容1 - 「プログラミング言語」を覚える時代は終わ"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "専用AIエージェントとの対話で「わかった！」が即座に",
-          "sub_title": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
-          "text_content": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "main_title": "生成AIは「回答者」ではなく「開発パートナー」へ",
+          "sub_title": "生徒たちはマルチモーダルAIを標準装備し、数分でプロトタイプを構築。複雑な論理構造もAIと対話しながら解き明かす姿が見られました。",
+          "text_content": "生成AIは「回答者」ではなく「開発パートナー」へ",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-03.png",
           "image_file": "assets/img/posts/20260215_activity-03.png",
-          "overlay_text": "専用AIエージェントとの対話で「わかった！」が即座に",
-          "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
-          "alt": "内容2 - 専用AIエージェントとの対話で「わかった"
+          "overlay_text": "生成AIは「回答者」ではなく「開発パートナー」へ",
+          "subtext": "生徒たちはマルチモーダルAIを標準装備し、数分でプロトタイプを構築。複雑な論理構造もAIと対話しながら解き明かす姿が見られました。",
+          "alt": "内容2 - 生成AIは「回答者」ではなく「開発パート"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "人間講師だからできる「心のケア」と「戦略立案」",
-          "sub_title": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
-          "text_content": "人間講師だからできる「心のケア」と「戦略立案」",
+          "main_title": "if塾が重視する「問いを立てる力」と「審美眼」",
+          "sub_title": "AIが何でも作れる今だからこそ、人間の役割は『何を解決したいか』を定義すること。if塾では、技術以上に『意思の強さ』を育んでいます。",
+          "text_content": "if塾が重視する「問いを立てる力」と「審美眼」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260215_activity-04.png",
           "image_file": "assets/img/posts/20260215_activity-04.png",
-          "overlay_text": "人間講師だからできる「心のケア」と「戦略立案」",
-          "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
-          "alt": "内容3 - 人間講師だからできる「心のケア」と「戦略"
+          "overlay_text": "if塾が重視する「問いを立てる力」と「審美眼」",
+          "subtext": "AIが何でも作れる今だからこそ、人間の役割は『何を解決したいか』を定義すること。if塾では、技術以上に『意思の強さ』を育んでいます。",
+          "alt": "内容3 - if塾が重視する「問いを立てる力」と「審"
         },
         {
           "page_number": 5,
@@ -229,21 +228,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
+        "name": "井上陽斗",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ロボット"
+          "ゲーム開発"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "井上陽斗（講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "inoue_haruto",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-15T11:10:54",
+      "research_date": "2026-02-15T14:09:39",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AI先生×人間講師の最強タッグ！2026",
+        "cover_text": "AIは「使う」から「共に創る」へ。202",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
-            "subtext": "2026年2月：最新ハイブリッド学習レポート",
+            "headline": "AIは「使う」から「共に創る」へ。2026年最新ハッカソン報告",
+            "subtext": "2026.02.15 | AI共創型学習の最前線",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
-            "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+            "headline": "「プログラミング言語」を覚える時代は終わった？",
+            "subtext": "コードを書くこと自体に苦戦し、アイデアを形にする前に挫折してしまう。そんな昨日の常識が、今、劇的に変わり始めています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "専用AIエージェントとの対話で「わかった！」が即座に",
-            "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+            "headline": "生成AIは「回答者」ではなく「開発パートナー」へ",
+            "subtext": "生徒たちはマルチモーダルAIを標準装備し、数分でプロトタイプを構築。複雑な論理構造もAIと対話しながら解き明かす姿が見られました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "人間講師だからできる「心のケア」と「戦略立案」",
-            "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+            "headline": "if塾が重視する「問いを立てる力」と「審美眼」",
+            "subtext": "AIが何でも作れる今だからこそ、人間の役割は『何を解決したいか』を定義すること。if塾では、技術以上に『意思の強さ』を育んでいます。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
