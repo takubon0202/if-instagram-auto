@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 38,
-    "last_updated": "2026-02-14T20:29:52.134443",
+    "total_posts": 39,
+    "last_updated": "2026-02-15T11:12:15.596049",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260215_activity",
+      "post_id": "20260215_activity",
+      "created_at": "2026-02-15T11:12:15",
+      "datetime": "2026-02-15T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+      "target_audience": "Students & Parents",
+      "title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+      "caption": "【2026年2月】最新の教育現場をお届け！\n\nいよいよ2026年の入試シーズンも佳境です。\nif塾では、AIエージェントと人間講師が共創する\n「ハイブリッド学習」が日常の風景となりました。\n\n「AIに聞くから、基礎がすぐ固まる」\n「先生と話すから、自信が持てる」\n\n最新ツールを使いこなす生徒たちの姿は、\nこれからの時代を生き抜く頼もしさに満ちています。\n効率的な学習と、人間味のある指導。\nこの両立こそが、if塾が選ばれる理由です。\n\n新年度の体験授業も受付中！\n詳細はプロフィールURLからチェックしてくださいね✨",
+      "caption_text": "【2026年2月】最新の教育現場をお届け！\n\nいよいよ2026年の入試シーズンも佳境です。\nif塾では、AIエージェントと人間講師が共創する\n「ハイブリッド学習」が日常の風景となりました。\n\n「AIに聞くから、基礎がすぐ固まる」\n「先生と話すから、自信が持てる」\n\n最新ツールを使いこなす生徒たちの姿は、\nこれからの時代を生き抜く頼もしさに満ちています。\n効率的な学習と、人間味のある指導。\nこの両立こそが、if塾が選ばれる理由です。\n\n新年度の体験授業も受付中！\n詳細はプロフィールURLからチェックしてくださいね✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#教育ICT",
+        "#AIエージェント",
+        "#ハイブリッド学習",
+        "#個別指導",
+        "#未来の教育",
+        "#受験生応援"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "sub_title": "2026年2月：最新ハイブリッド学習レポート",
+          "text_content": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-01.png",
+          "image_file": "assets/img/posts/20260215_activity-01.png",
+          "overlay_text": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "subtext": "2026年2月：最新ハイブリッド学習レポート",
+          "alt": "表紙 - AI先生×人間講師の最強タッグ！2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "sub_title": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+          "text_content": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-02.png",
+          "image_file": "assets/img/posts/20260215_activity-02.png",
+          "overlay_text": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+          "alt": "内容1 - 「質問するのが恥ずかしい…」その悩みをA"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "sub_title": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+          "text_content": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-03.png",
+          "image_file": "assets/img/posts/20260215_activity-03.png",
+          "overlay_text": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+          "alt": "内容2 - 専用AIエージェントとの対話で「わかった"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "人間講師だからできる「心のケア」と「戦略立案」",
+          "sub_title": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+          "text_content": "人間講師だからできる「心のケア」と「戦略立案」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-04.png",
+          "image_file": "assets/img/posts/20260215_activity-04.png",
+          "overlay_text": "人間講師だからできる「心のケア」と「戦略立案」",
+          "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+          "alt": "内容3 - 人間講師だからできる「心のケア」と「戦略"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "sub_title": "2026年2月：最新ハイブリッド学習レポート",
+          "text_content": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-01.png",
+          "image_file": "assets/img/posts/20260215_activity-01.png",
+          "overlay_text": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+          "subtext": "2026年2月：最新ハイブリッド学習レポート",
+          "alt": "表紙 - AI先生×人間講師の最強タッグ！2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "sub_title": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+          "text_content": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-02.png",
+          "image_file": "assets/img/posts/20260215_activity-02.png",
+          "overlay_text": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+          "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+          "alt": "内容1 - 「質問するのが恥ずかしい…」その悩みをA"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "sub_title": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+          "text_content": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-03.png",
+          "image_file": "assets/img/posts/20260215_activity-03.png",
+          "overlay_text": "専用AIエージェントとの対話で「わかった！」が即座に",
+          "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+          "alt": "内容2 - 専用AIエージェントとの対話で「わかった"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "人間講師だからできる「心のケア」と「戦略立案」",
+          "sub_title": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+          "text_content": "人間講師だからできる「心のケア」と「戦略立案」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260215_activity-04.png",
+          "image_file": "assets/img/posts/20260215_activity-04.png",
+          "overlay_text": "人間講師だからできる「心のケア」と「戦略立案」",
+          "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+          "alt": "内容3 - 人間講師だからできる「心のケア」と「戦略"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260215_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260215_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260215_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260215_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-15T11:10:54",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AI先生×人間講師の最強タッグ！2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AI先生×人間講師の最強タッグ！2026年最新の授業スタイルとは？",
+            "subtext": "2026年2月：最新ハイブリッド学習レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「質問するのが恥ずかしい…」その悩みをAIが解消！",
+            "subtext": "2月の入試直前期、集団授業では聞きづらい細かな疑問が、生徒の学習進度を止めてしまう課題がありました。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "専用AIエージェントとの対話で「わかった！」が即座に",
+            "subtext": "if塾では最新の対話型AIを導入。生徒一人ひとりの理解度を瞬時に把握し、最適なヒントを提示する様子が見られました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "人間講師だからできる「心のケア」と「戦略立案」",
+            "subtext": "知識の補完はAI、モチベーション維持と志望校戦略は講師。この『ハイブリッド指導』が2026年の高い合格率を支えています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260214_activity",
       "post_id": "20260214_activity",
