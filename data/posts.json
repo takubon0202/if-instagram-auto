@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 39,
-    "last_updated": "2026-02-15T20:30:33.999715",
+    "total_posts": 40,
+    "last_updated": "2026-02-16T11:08:09.551879",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260216_announcement",
+      "post_id": "20260216_announcement",
+      "created_at": "2026-02-16T11:08:09",
+      "datetime": "2026-02-16T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIが代わりにやってくれる」時代はもう終わり、\nこれからは「AIと一緒に何を作るか」が問われる時代です。\n\n2026年度、if塾では『AIネイティブ教育』を本格始動。\n単なるツールの使い方ではなく、AIエージェントを良きパートナーとして使いこなし、自分自身の思考を深める「共創型学習」を導入します。\n\n春休みを前に、新しい学びの形を体験してみませんか？\n教育の常識がアップデートされる今、親世代の意識改革も不可欠です。\n\n詳細はプロフィールのリンクからチェック！\n@if_juku\n\n#if塾 #2026年 #AIネイティブ #AIエージェント #次世代教育 #最新教育ニュース #中学受験2026 #高校受験2026",
+      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIが代わりにやってくれる」時代はもう終わり、\nこれからは「AIと一緒に何を作るか」が問われる時代です。\n\n2026年度、if塾では『AIネイティブ教育』を本格始動。\n単なるツールの使い方ではなく、AIエージェントを良きパートナーとして使いこなし、自分自身の思考を深める「共創型学習」を導入します。\n\n春休みを前に、新しい学びの形を体験してみませんか？\n教育の常識がアップデートされる今、親世代の意識改革も不可欠です。\n\n詳細はプロフィールのリンクからチェック！\n@if_juku\n\n#if塾 #2026年 #AIネイティブ #AIエージェント #次世代教育 #最新教育ニュース #中学受験2026 #高校受験2026",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIネイティブ",
+        "#AI教育",
+        "#EdTech",
+        "#未来の教育",
+        "#AIエージェント"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "sub_title": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+          "text_content": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-01.png",
+          "image_file": "assets/img/posts/20260216_announcement-01.png",
+          "overlay_text": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+          "alt": "表紙 - 【2026年最新】AIエージェントと学ぶ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIと共創する」へ",
+          "sub_title": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+          "text_content": "「AIを使う」から「AIと共創する」へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-02.png",
+          "image_file": "assets/img/posts/20260216_announcement-02.png",
+          "overlay_text": "「AIを使う」から「AIと共創する」へ",
+          "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+          "alt": "内容1 - 「AIを使う」から「AIと共創する」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "sub_title": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+          "text_content": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-03.png",
+          "image_file": "assets/img/posts/20260216_announcement-03.png",
+          "overlay_text": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+          "alt": "内容2 - 一人ひとりに専属の「AI学習コーチ」がつ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える「AIとの対話術」と「思考の核」",
+          "sub_title": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+          "text_content": "if塾が教える「AIとの対話術」と「思考の核」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-04.png",
+          "image_file": "assets/img/posts/20260216_announcement-04.png",
+          "overlay_text": "if塾が教える「AIとの対話術」と「思考の核」",
+          "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+          "alt": "内容3 - if塾が教える「AIとの対話術」と「思考"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "sub_title": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+          "text_content": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-01.png",
+          "image_file": "assets/img/posts/20260216_announcement-01.png",
+          "overlay_text": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+          "alt": "表紙 - 【2026年最新】AIエージェントと学ぶ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIと共創する」へ",
+          "sub_title": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+          "text_content": "「AIを使う」から「AIと共創する」へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-02.png",
+          "image_file": "assets/img/posts/20260216_announcement-02.png",
+          "overlay_text": "「AIを使う」から「AIと共創する」へ",
+          "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+          "alt": "内容1 - 「AIを使う」から「AIと共創する」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "sub_title": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+          "text_content": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-03.png",
+          "image_file": "assets/img/posts/20260216_announcement-03.png",
+          "overlay_text": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+          "alt": "内容2 - 一人ひとりに専属の「AI学習コーチ」がつ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える「AIとの対話術」と「思考の核」",
+          "sub_title": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+          "text_content": "if塾が教える「AIとの対話術」と「思考の核」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260216_announcement-04.png",
+          "image_file": "assets/img/posts/20260216_announcement-04.png",
+          "overlay_text": "if塾が教える「AIとの対話術」と「思考の核」",
+          "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+          "alt": "内容3 - if塾が教える「AIとの対話術」と「思考"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260216_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260216_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260216_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260216_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-16T11:06:42",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】AIエージェントと学ぶ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+            "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使う」から「AIと共創する」へ",
+            "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+            "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える「AIとの対話術」と「思考の核」",
+            "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260215_activity",
       "post_id": "20260215_activity",
