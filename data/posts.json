@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 40,
-    "last_updated": "2026-02-16T11:08:09.551879",
+    "last_updated": "2026-02-16T14:18:19.843111",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260216_announcement",
       "post_id": "20260216_announcement",
-      "created_at": "2026-02-16T11:08:09",
+      "created_at": "2026-02-16T14:18:19",
       "datetime": "2026-02-16T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+      "theme": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIが代わりにやってくれる」時代はもう終わり、\nこれからは「AIと一緒に何を作るか」が問われる時代です。\n\n2026年度、if塾では『AIネイティブ教育』を本格始動。\n単なるツールの使い方ではなく、AIエージェントを良きパートナーとして使いこなし、自分自身の思考を深める「共創型学習」を導入します。\n\n春休みを前に、新しい学びの形を体験してみませんか？\n教育の常識がアップデートされる今、親世代の意識改革も不可欠です。\n\n詳細はプロフィールのリンクからチェック！\n@if_juku\n\n#if塾 #2026年 #AIネイティブ #AIエージェント #次世代教育 #最新教育ニュース #中学受験2026 #高校受験2026",
-      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIが代わりにやってくれる」時代はもう終わり、\nこれからは「AIと一緒に何を作るか」が問われる時代です。\n\n2026年度、if塾では『AIネイティブ教育』を本格始動。\n単なるツールの使い方ではなく、AIエージェントを良きパートナーとして使いこなし、自分自身の思考を深める「共創型学習」を導入します。\n\n春休みを前に、新しい学びの形を体験してみませんか？\n教育の常識がアップデートされる今、親世代の意識改革も不可欠です。\n\n詳細はプロフィールのリンクからチェック！\n@if_juku\n\n#if塾 #2026年 #AIネイティブ #AIエージェント #次世代教育 #最新教育ニュース #中学受験2026 #高校受験2026",
+      "title": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+      "caption": "【2026年2月】教育の現場は今、歴史的な転換点を迎えています。\n\n文部科学省による生成AI実証事業が本格化し、ついに『AI先生』による個別最適化学習が日常の風景となりました。\n\n「AIに頼りすぎて思考力が落ちないか？」「最新の受験対策はどう変わるのか？」\nそんな不安を抱える保護者の皆様、ご安心ください。\n\nif塾では、AIを単なるツールとしてではなく、自ら考える力を養うための「最高のパートナー」として活用する指導を開始しています。\n\n2026年度の入試や新学期に向けて、今からAI時代の学習法を身につけておきませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n#if塾 #2026年 #生成AI #教育DX #個別最適化学習 #AI先生 #子育てママ #受験対策",
+      "caption_text": "【2026年2月】教育の現場は今、歴史的な転換点を迎えています。\n\n文部科学省による生成AI実証事業が本格化し、ついに『AI先生』による個別最適化学習が日常の風景となりました。\n\n「AIに頼りすぎて思考力が落ちないか？」「最新の受験対策はどう変わるのか？」\nそんな不安を抱える保護者の皆様、ご安心ください。\n\nif塾では、AIを単なるツールとしてではなく、自ら考える力を養うための「最高のパートナー」として活用する指導を開始しています。\n\n2026年度の入試や新学期に向けて、今からAI時代の学習法を身につけておきませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n#if塾 #2026年 #生成AI #教育DX #個別最適化学習 #AI先生 #子育てママ #受験対策",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIネイティブ",
-        "#AI教育",
-        "#EdTech",
-        "#未来の教育",
-        "#AIエージェント"
+        "#生成AI",
+        "#教育DX",
+        "#個別最適化学習",
+        "#AI先生",
+        "#中学受験",
+        "#高校受験"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-          "sub_title": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
-          "text_content": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "main_title": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+          "sub_title": "2月16日発表 | 全国の公立校でも実証事業が標準へ",
+          "text_content": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-01.png",
           "image_file": "assets/img/posts/20260216_announcement-01.png",
-          "overlay_text": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-          "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
-          "alt": "表紙 - 【2026年最新】AIエージェントと学ぶ"
+          "overlay_text": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+          "subtext": "2月16日発表 | 全国の公立校でも実証事業が標準へ",
+          "alt": "表紙 - 2026年最新：学校が激変！『AI先生』"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使う」から「AIと共創する」へ",
-          "sub_title": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
-          "text_content": "「AIを使う」から「AIと共創する」へ",
+          "main_title": "「うちの子、AIについていける？」親世代の不安が急増中",
+          "sub_title": "生成AI実証事業が全国で本格化。これまでの『一斉授業』から、AIが個別に教える『パーソナル学習』へ教育の常識が塗り替えられています。",
+          "text_content": "「うちの子、AIについていける？」親世代の不安が急増中",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-02.png",
           "image_file": "assets/img/posts/20260216_announcement-02.png",
-          "overlay_text": "「AIを使う」から「AIと共創する」へ",
-          "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
-          "alt": "内容1 - 「AIを使う」から「AIと共創する」へ"
+          "overlay_text": "「うちの子、AIについていける？」親世代の不安が急増中",
+          "subtext": "生成AI実証事業が全国で本格化。これまでの『一斉授業』から、AIが個別に教える『パーソナル学習』へ教育の常識が塗り替えられています。",
+          "alt": "内容1 - 「うちの子、AIについていける？」親世代"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "一人ひとりに専属の「AI学習コーチ」がつく日常",
-          "sub_title": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
-          "text_content": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "main_title": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
+          "sub_title": "2026年最新の教育ツールは、単なる自動回答ではなく、生徒の思考プロセスを分析。つまずきの原因を瞬時に特定し、最適なヒントを提示します。",
+          "text_content": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-03.png",
           "image_file": "assets/img/posts/20260216_announcement-03.png",
-          "overlay_text": "一人ひとりに専属の「AI学習コーチ」がつく日常",
-          "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
-          "alt": "内容2 - 一人ひとりに専属の「AI学習コーチ」がつ"
+          "overlay_text": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
+          "subtext": "2026年最新の教育ツールは、単なる自動回答ではなく、生徒の思考プロセスを分析。つまずきの原因を瞬時に特定し、最適なヒントを提示します。",
+          "alt": "内容2 - AI先生が24時間サポート。苦手克服のス"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AIとの対話術」と「思考の核」",
-          "sub_title": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
-          "text_content": "if塾が教える「AIとの対話術」と「思考の核」",
+          "main_title": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
+          "sub_title": "答えを聞くのではなく、AIに質の高い『問い』を立てる力が重要。if塾では、2026年入試にも対応したAIプロンプト活用術を個別指導に取り入れています。",
+          "text_content": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-04.png",
           "image_file": "assets/img/posts/20260216_announcement-04.png",
-          "overlay_text": "if塾が教える「AIとの対話術」と「思考の核」",
-          "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
-          "alt": "内容3 - if塾が教える「AIとの対話術」と「思考"
+          "overlay_text": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
+          "subtext": "答えを聞くのではなく、AIに質の高い『問い』を立てる力が重要。if塾では、2026年入試にも対応したAIプロンプト活用術を個別指導に取り入れています。",
+          "alt": "内容3 - if塾流：AIを「カンニング」ではなく「"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-          "sub_title": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
-          "text_content": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
+          "main_title": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+          "sub_title": "2月16日発表 | 全国の公立校でも実証事業が標準へ",
+          "text_content": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-01.png",
           "image_file": "assets/img/posts/20260216_announcement-01.png",
-          "overlay_text": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-          "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
-          "alt": "表紙 - 【2026年最新】AIエージェントと学ぶ"
+          "overlay_text": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+          "subtext": "2月16日発表 | 全国の公立校でも実証事業が標準へ",
+          "alt": "表紙 - 2026年最新：学校が激変！『AI先生』"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使う」から「AIと共創する」へ",
-          "sub_title": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
-          "text_content": "「AIを使う」から「AIと共創する」へ",
+          "main_title": "「うちの子、AIについていける？」親世代の不安が急増中",
+          "sub_title": "生成AI実証事業が全国で本格化。これまでの『一斉授業』から、AIが個別に教える『パーソナル学習』へ教育の常識が塗り替えられています。",
+          "text_content": "「うちの子、AIについていける？」親世代の不安が急増中",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-02.png",
           "image_file": "assets/img/posts/20260216_announcement-02.png",
-          "overlay_text": "「AIを使う」から「AIと共創する」へ",
-          "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
-          "alt": "内容1 - 「AIを使う」から「AIと共創する」へ"
+          "overlay_text": "「うちの子、AIについていける？」親世代の不安が急増中",
+          "subtext": "生成AI実証事業が全国で本格化。これまでの『一斉授業』から、AIが個別に教える『パーソナル学習』へ教育の常識が塗り替えられています。",
+          "alt": "内容1 - 「うちの子、AIについていける？」親世代"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "一人ひとりに専属の「AI学習コーチ」がつく日常",
-          "sub_title": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
-          "text_content": "一人ひとりに専属の「AI学習コーチ」がつく日常",
+          "main_title": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
+          "sub_title": "2026年最新の教育ツールは、単なる自動回答ではなく、生徒の思考プロセスを分析。つまずきの原因を瞬時に特定し、最適なヒントを提示します。",
+          "text_content": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-03.png",
           "image_file": "assets/img/posts/20260216_announcement-03.png",
-          "overlay_text": "一人ひとりに専属の「AI学習コーチ」がつく日常",
-          "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
-          "alt": "内容2 - 一人ひとりに専属の「AI学習コーチ」がつ"
+          "overlay_text": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
+          "subtext": "2026年最新の教育ツールは、単なる自動回答ではなく、生徒の思考プロセスを分析。つまずきの原因を瞬時に特定し、最適なヒントを提示します。",
+          "alt": "内容2 - AI先生が24時間サポート。苦手克服のス"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AIとの対話術」と「思考の核」",
-          "sub_title": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
-          "text_content": "if塾が教える「AIとの対話術」と「思考の核」",
+          "main_title": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
+          "sub_title": "答えを聞くのではなく、AIに質の高い『問い』を立てる力が重要。if塾では、2026年入試にも対応したAIプロンプト活用術を個別指導に取り入れています。",
+          "text_content": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260216_announcement-04.png",
           "image_file": "assets/img/posts/20260216_announcement-04.png",
-          "overlay_text": "if塾が教える「AIとの対話術」と「思考の核」",
-          "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
-          "alt": "内容3 - if塾が教える「AIとの対話術」と「思考"
+          "overlay_text": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
+          "subtext": "答えを聞くのではなく、AIに質の高い『問い』を立てる力が重要。if塾では、2026年入試にも対応したAIプロンプト活用術を個別指導に取り入れています。",
+          "alt": "内容3 - if塾流：AIを「カンニング」ではなく「"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-16T11:06:42",
+      "research_date": "2026-02-16T14:16:55",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】AIエージェントと学ぶ",
+        "cover_text": "2026年最新：学校が激変！『AI先生』",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】AIエージェントと学ぶ新時代の幕開け",
-            "subtext": "2月16日発表：if塾が提案する『AIネイティブ教育』の衝撃",
+            "headline": "2026年最新：学校が激変！『AI先生』による個別学習が本格化",
+            "subtext": "2月16日発表 | 全国の公立校でも実証事業が標準へ",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを使う」から「AIと共創する」へ",
-            "subtext": "2026年、宿題や受験対策はAIに頼るのではなく、AIをバディ（相棒）としてどう使いこなすかが評価の分かれ道になっています。",
+            "headline": "「うちの子、AIについていける？」親世代の不安が急増中",
+            "subtext": "生成AI実証事業が全国で本格化。これまでの『一斉授業』から、AIが個別に教える『パーソナル学習』へ教育の常識が塗り替えられています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "一人ひとりに専属の「AI学習コーチ」がつく日常",
-            "subtext": "最新のAIエージェントは生徒の苦手な思考パターンをリアルタイムで分析。24時間365日、個別最適化された対話型指導が可能になりました。",
+            "headline": "AI先生が24時間サポート。苦手克服のスピードが3倍に？",
+            "subtext": "2026年最新の教育ツールは、単なる自動回答ではなく、生徒の思考プロセスを分析。つまずきの原因を瞬時に特定し、最適なヒントを提示します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える「AIとの対話術」と「思考の核」",
-            "subtext": "道具に振り回されない『自律的な思考力』を育てるプログラム。AIが出した答えを批判的に吟味し、自分の言葉で再構築する力を磨きます。",
+            "headline": "if塾流：AIを「カンニング」ではなく「思考の武器」にする方法",
+            "subtext": "答えを聞くのではなく、AIに質の高い『問い』を立てる力が重要。if塾では、2026年入試にも対応したAIプロンプト活用術を個別指導に取り入れています。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
