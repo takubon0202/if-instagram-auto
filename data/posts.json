@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 42,
-    "last_updated": "2026-02-18T11:08:33.502628",
+    "last_updated": "2026-02-18T14:12:12.455378",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20260218_development",
       "post_id": "20260218_development",
-      "created_at": "2026-02-18T11:08:33",
+      "created_at": "2026-02-18T14:12:12",
       "datetime": "2026-02-18T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
@@ -230,21 +230,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-18T11:08:12",
+      "research_date": "2026-02-18T14:11:50",
       "engagement": {
         "likes": 0,
         "comments": 0,
