@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 42,
-    "last_updated": "2026-02-18T20:45:38.317903",
+    "total_posts": 43,
+    "last_updated": "2026-02-19T11:08:20.409407",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260219_ai_column",
+      "post_id": "20260219_ai_column",
+      "created_at": "2026-02-19T11:08:20",
+      "datetime": "2026-02-19T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "AIエージェントに業務を「丸投げ」する時代へ",
+      "target_audience": "Students & Parents",
+      "title": "AIエージェントに業務を「丸投げ」する時代へ",
+      "caption": "【2026年2月】AIは「使う」から「任せる」フェーズへ。\n\nAnthropicが発表した最新ツールは、もはや画面の中だけで完結しません。\nあなたのPCを文字通り「操作」して、面倒なルーチンワークを全て代行してくれます。\n\n受験シーズン真っ只中の今、願書の確認やスケジュール管理、日々のメール対応に追われていませんか？\n\nif塾では、こうした最新テクノロジーを「ただ知る」だけでなく、どうやって「自分たちの時間を生み出すために使うか」を大切にしています。\n\nAIに作業を丸投げして生まれた時間で、一歩先の未来について考えてみましょう！\n\n詳細は公式LINEで解説中。プロフィールのリンクからチェックしてください✨",
+      "caption_text": "【2026年2月】AIは「使う」から「任せる」フェーズへ。\n\nAnthropicが発表した最新ツールは、もはや画面の中だけで完結しません。\nあなたのPCを文字通り「操作」して、面倒なルーチンワークを全て代行してくれます。\n\n受験シーズン真っ只中の今、願書の確認やスケジュール管理、日々のメール対応に追われていませんか？\n\nif塾では、こうした最新テクノロジーを「ただ知る」だけでなく、どうやって「自分たちの時間を生み出すために使うか」を大切にしています。\n\nAIに作業を丸投げして生まれた時間で、一歩先の未来について考えてみましょう！\n\n詳細は公式LINEで解説中。プロフィールのリンクからチェックしてください✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#Anthropic",
+        "#時短術",
+        "#教育ICT",
+        "#最新技術",
+        "#DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントに業務を「丸投げ」する時代へ",
+          "sub_title": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+          "text_content": "AIエージェントに業務を「丸投げ」する時代へ",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-01.png",
+          "image_file": "assets/img/posts/20260219_ai_column-01.png",
+          "overlay_text": "AIエージェントに業務を「丸投げ」する時代へ",
+          "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+          "alt": "表紙 - AIエージェントに業務を「丸投げ」する時"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ち」のAIはもう古い？",
+          "sub_title": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+          "text_content": "「指示待ち」のAIはもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-02.png",
+          "image_file": "assets/img/posts/20260219_ai_column-02.png",
+          "overlay_text": "「指示待ち」のAIはもう古い？",
+          "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+          "alt": "内容1 - 「指示待ち」のAIはもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年流：AIへの「丸投げ」具体例",
+          "sub_title": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+          "text_content": "2026年流：AIへの「丸投げ」具体例",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-03.png",
+          "image_file": "assets/img/posts/20260219_ai_column-03.png",
+          "overlay_text": "2026年流：AIへの「丸投げ」具体例",
+          "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+          "alt": "内容2 - 2026年流：AIへの「丸投げ」具体例"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：受験生こそ「余白」を作れ",
+          "sub_title": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+          "text_content": "if塾の視点：受験生こそ「余白」を作れ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-04.png",
+          "image_file": "assets/img/posts/20260219_ai_column-04.png",
+          "overlay_text": "if塾の視点：受験生こそ「余白」を作れ",
+          "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+          "alt": "内容3 - if塾の視点：受験生こそ「余白」を作れ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントに業務を「丸投げ」する時代へ",
+          "sub_title": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+          "text_content": "AIエージェントに業務を「丸投げ」する時代へ",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-01.png",
+          "image_file": "assets/img/posts/20260219_ai_column-01.png",
+          "overlay_text": "AIエージェントに業務を「丸投げ」する時代へ",
+          "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+          "alt": "表紙 - AIエージェントに業務を「丸投げ」する時"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ち」のAIはもう古い？",
+          "sub_title": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+          "text_content": "「指示待ち」のAIはもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-02.png",
+          "image_file": "assets/img/posts/20260219_ai_column-02.png",
+          "overlay_text": "「指示待ち」のAIはもう古い？",
+          "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+          "alt": "内容1 - 「指示待ち」のAIはもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年流：AIへの「丸投げ」具体例",
+          "sub_title": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+          "text_content": "2026年流：AIへの「丸投げ」具体例",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-03.png",
+          "image_file": "assets/img/posts/20260219_ai_column-03.png",
+          "overlay_text": "2026年流：AIへの「丸投げ」具体例",
+          "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+          "alt": "内容2 - 2026年流：AIへの「丸投げ」具体例"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：受験生こそ「余白」を作れ",
+          "sub_title": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+          "text_content": "if塾の視点：受験生こそ「余白」を作れ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260219_ai_column-04.png",
+          "image_file": "assets/img/posts/20260219_ai_column-04.png",
+          "overlay_text": "if塾の視点：受験生こそ「余白」を作れ",
+          "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+          "alt": "内容3 - if塾の視点：受験生こそ「余白」を作れ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260219_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260219_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260219_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260219_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-19T11:06:41",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIエージェントに業務を「丸投げ」する時",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIエージェントに業務を「丸投げ」する時代へ",
+            "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「指示待ち」のAIはもう古い？",
+            "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年流：AIへの「丸投げ」具体例",
+            "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：受験生こそ「余白」を作れ",
+            "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260218_development",
       "post_id": "20260218_development",
