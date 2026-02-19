@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 43,
-    "last_updated": "2026-02-19T11:08:20.409407",
+    "last_updated": "2026-02-19T14:12:25.108482",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,22 @@
     {
       "id": "20260219_ai_column",
       "post_id": "20260219_ai_column",
-      "created_at": "2026-02-19T11:08:20",
+      "created_at": "2026-02-19T14:12:25",
       "datetime": "2026-02-19T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "AIエージェントに業務を「丸投げ」する時代へ",
+      "theme": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
       "target_audience": "Students & Parents",
-      "title": "AIエージェントに業務を「丸投げ」する時代へ",
-      "caption": "【2026年2月】AIは「使う」から「任せる」フェーズへ。\n\nAnthropicが発表した最新ツールは、もはや画面の中だけで完結しません。\nあなたのPCを文字通り「操作」して、面倒なルーチンワークを全て代行してくれます。\n\n受験シーズン真っ只中の今、願書の確認やスケジュール管理、日々のメール対応に追われていませんか？\n\nif塾では、こうした最新テクノロジーを「ただ知る」だけでなく、どうやって「自分たちの時間を生み出すために使うか」を大切にしています。\n\nAIに作業を丸投げして生まれた時間で、一歩先の未来について考えてみましょう！\n\n詳細は公式LINEで解説中。プロフィールのリンクからチェックしてください✨",
-      "caption_text": "【2026年2月】AIは「使う」から「任せる」フェーズへ。\n\nAnthropicが発表した最新ツールは、もはや画面の中だけで完結しません。\nあなたのPCを文字通り「操作」して、面倒なルーチンワークを全て代行してくれます。\n\n受験シーズン真っ只中の今、願書の確認やスケジュール管理、日々のメール対応に追われていませんか？\n\nif塾では、こうした最新テクノロジーを「ただ知る」だけでなく、どうやって「自分たちの時間を生み出すために使うか」を大切にしています。\n\nAIに作業を丸投げして生まれた時間で、一歩先の未来について考えてみましょう！\n\n詳細は公式LINEで解説中。プロフィールのリンクからチェックしてください✨",
+      "title": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+      "caption": "【2026年2月】最新のAIトレンドをお届けします。\n\n今、AIの世界では「エージェンティック（Agentic）」という言葉が当たり前になりました。\n2年前までは人間が一つひとつプロンプトを打っていましたが、今のAIは「目的」を伝えるだけで、自分で考えてツールを使いこなし、業務を完結させてしまいます。\n\n進学や進級を控えたこの時期、膨大なタスクに追われていませんか？\n最新のAIエージェントを味方につければ、余裕を持って春を迎えることができます。\n\nしかし、if塾が大切にしているのは「AIを使いこなす側」の知性です。\n便利になればなるほど、自分の頭で考える時間の価値が上がっています。\n\n皆さんは、空いた時間で何を学びたいですか？\nコメントで教えてください！\n\n#if塾 #2026年 #エージェンティックAI #自律型AI #AI活用 #教育ICT #新学期準備 #生産性向上",
+      "caption_text": "【2026年2月】最新のAIトレンドをお届けします。\n\n今、AIの世界では「エージェンティック（Agentic）」という言葉が当たり前になりました。\n2年前までは人間が一つひとつプロンプトを打っていましたが、今のAIは「目的」を伝えるだけで、自分で考えてツールを使いこなし、業務を完結させてしまいます。\n\n進学や進級を控えたこの時期、膨大なタスクに追われていませんか？\n最新のAIエージェントを味方につければ、余裕を持って春を迎えることができます。\n\nしかし、if塾が大切にしているのは「AIを使いこなす側」の知性です。\n便利になればなるほど、自分の頭で考える時間の価値が上がっています。\n\n皆さんは、空いた時間で何を学びたいですか？\nコメントで教えてください！\n\n#if塾 #2026年 #エージェンティックAI #自律型AI #AI活用 #教育ICT #新学期準備 #生産性向上",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#Anthropic",
-        "#時短術",
-        "#教育ICT",
-        "#最新技術",
-        "#DX"
+        "#エージェンティックAI",
+        "#自律型AI",
+        "#AIコラム",
+        "#リスキリング"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントに業務を「丸投げ」する時代へ",
-          "sub_title": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
-          "text_content": "AIエージェントに業務を「丸投げ」する時代へ",
+          "main_title": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+          "sub_title": "2026年2月最新：もうAIは『道具』から『自律したパートナー』へ",
+          "text_content": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-01.png",
           "image_file": "assets/img/posts/20260219_ai_column-01.png",
-          "overlay_text": "AIエージェントに業務を「丸投げ」する時代へ",
-          "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
-          "alt": "表紙 - AIエージェントに業務を「丸投げ」する時"
+          "overlay_text": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+          "subtext": "2026年2月最新：もうAIは『道具』から『自律したパートナー』へ",
+          "alt": "表紙 - 指示だけで「完結」する時代。エージェンテ"
         },
         {
           "page_number": 2,
@@ -59,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」のAIはもう古い？",
-          "sub_title": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
-          "text_content": "「指示待ち」のAIはもう古い？",
+          "main_title": "「検索してまとめる」作業はもう古い？",
+          "sub_title": "これまでのAIは回答するだけ。2026年の主流『エージェンティックAI』は、目標を伝えればツールを使い分け、勝手にタスクを完了させます。",
+          "text_content": "「検索してまとめる」作業はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-02.png",
           "image_file": "assets/img/posts/20260219_ai_column-02.png",
-          "overlay_text": "「指示待ち」のAIはもう古い？",
-          "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
-          "alt": "内容1 - 「指示待ち」のAIはもう古い？"
+          "overlay_text": "「検索してまとめる」作業はもう古い？",
+          "subtext": "これまでのAIは回答するだけ。2026年の主流『エージェンティックAI』は、目標を伝えればツールを使い分け、勝手にタスクを完了させます。",
+          "alt": "内容1 - 「検索してまとめる」作業はもう古い？"
         },
         {
           "page_number": 3,
@@ -75,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年流：AIへの「丸投げ」具体例",
-          "sub_title": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
-          "text_content": "2026年流：AIへの「丸投げ」具体例",
+          "main_title": "2月の多忙な時期こそAIに「丸投げ」",
+          "sub_title": "新学期の準備や複雑なスケジュール調整、確定申告の自動照合まで。AIが自分で判断し、必要なソフトを操作して結果だけを報告してくれます。",
+          "text_content": "2月の多忙な時期こそAIに「丸投げ」",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-03.png",
           "image_file": "assets/img/posts/20260219_ai_column-03.png",
-          "overlay_text": "2026年流：AIへの「丸投げ」具体例",
-          "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
-          "alt": "内容2 - 2026年流：AIへの「丸投げ」具体例"
+          "overlay_text": "2月の多忙な時期こそAIに「丸投げ」",
+          "subtext": "新学期の準備や複雑なスケジュール調整、確定申告の自動照合まで。AIが自分で判断し、必要なソフトを操作して結果だけを報告してくれます。",
+          "alt": "内容2 - 2月の多忙な時期こそAIに「丸投げ」"
         },
         {
           "page_number": 4,
@@ -91,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：受験生こそ「余白」を作れ",
-          "sub_title": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
-          "text_content": "if塾の視点：受験生こそ「余白」を作れ",
+          "main_title": "if塾の視点：『丸投げ』で失うもの、得るもの",
+          "sub_title": "自動化が進む今、最も価値が出るのは「AIへの指示力」と「最終判断の倫理」。AIに任せきりにせず、思考のプロセスを管理する力が受験・仕事の差になります。",
+          "text_content": "if塾の視点：『丸投げ』で失うもの、得るもの",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-04.png",
           "image_file": "assets/img/posts/20260219_ai_column-04.png",
-          "overlay_text": "if塾の視点：受験生こそ「余白」を作れ",
-          "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
-          "alt": "内容3 - if塾の視点：受験生こそ「余白」を作れ"
+          "overlay_text": "if塾の視点：『丸投げ』で失うもの、得るもの",
+          "subtext": "自動化が進む今、最も価値が出るのは「AIへの指示力」と「最終判断の倫理」。AIに任せきりにせず、思考のプロセスを管理する力が受験・仕事の差になります。",
+          "alt": "内容3 - if塾の視点：『丸投げ』で失うもの、得る"
         },
         {
           "page_number": 5,
@@ -125,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントに業務を「丸投げ」する時代へ",
-          "sub_title": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
-          "text_content": "AIエージェントに業務を「丸投げ」する時代へ",
+          "main_title": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+          "sub_title": "2026年2月最新：もうAIは『道具』から『自律したパートナー』へ",
+          "text_content": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-01.png",
           "image_file": "assets/img/posts/20260219_ai_column-01.png",
-          "overlay_text": "AIエージェントに業務を「丸投げ」する時代へ",
-          "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
-          "alt": "表紙 - AIエージェントに業務を「丸投げ」する時"
+          "overlay_text": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+          "subtext": "2026年2月最新：もうAIは『道具』から『自律したパートナー』へ",
+          "alt": "表紙 - 指示だけで「完結」する時代。エージェンテ"
         },
         {
           "page_number": 2,
@@ -141,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」のAIはもう古い？",
-          "sub_title": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
-          "text_content": "「指示待ち」のAIはもう古い？",
+          "main_title": "「検索してまとめる」作業はもう古い？",
+          "sub_title": "これまでのAIは回答するだけ。2026年の主流『エージェンティックAI』は、目標を伝えればツールを使い分け、勝手にタスクを完了させます。",
+          "text_content": "「検索してまとめる」作業はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-02.png",
           "image_file": "assets/img/posts/20260219_ai_column-02.png",
-          "overlay_text": "「指示待ち」のAIはもう古い？",
-          "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
-          "alt": "内容1 - 「指示待ち」のAIはもう古い？"
+          "overlay_text": "「検索してまとめる」作業はもう古い？",
+          "subtext": "これまでのAIは回答するだけ。2026年の主流『エージェンティックAI』は、目標を伝えればツールを使い分け、勝手にタスクを完了させます。",
+          "alt": "内容1 - 「検索してまとめる」作業はもう古い？"
         },
         {
           "page_number": 3,
@@ -157,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年流：AIへの「丸投げ」具体例",
-          "sub_title": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
-          "text_content": "2026年流：AIへの「丸投げ」具体例",
+          "main_title": "2月の多忙な時期こそAIに「丸投げ」",
+          "sub_title": "新学期の準備や複雑なスケジュール調整、確定申告の自動照合まで。AIが自分で判断し、必要なソフトを操作して結果だけを報告してくれます。",
+          "text_content": "2月の多忙な時期こそAIに「丸投げ」",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-03.png",
           "image_file": "assets/img/posts/20260219_ai_column-03.png",
-          "overlay_text": "2026年流：AIへの「丸投げ」具体例",
-          "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
-          "alt": "内容2 - 2026年流：AIへの「丸投げ」具体例"
+          "overlay_text": "2月の多忙な時期こそAIに「丸投げ」",
+          "subtext": "新学期の準備や複雑なスケジュール調整、確定申告の自動照合まで。AIが自分で判断し、必要なソフトを操作して結果だけを報告してくれます。",
+          "alt": "内容2 - 2月の多忙な時期こそAIに「丸投げ」"
         },
         {
           "page_number": 4,
@@ -173,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：受験生こそ「余白」を作れ",
-          "sub_title": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
-          "text_content": "if塾の視点：受験生こそ「余白」を作れ",
+          "main_title": "if塾の視点：『丸投げ』で失うもの、得るもの",
+          "sub_title": "自動化が進む今、最も価値が出るのは「AIへの指示力」と「最終判断の倫理」。AIに任せきりにせず、思考のプロセスを管理する力が受験・仕事の差になります。",
+          "text_content": "if塾の視点：『丸投げ』で失うもの、得るもの",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260219_ai_column-04.png",
           "image_file": "assets/img/posts/20260219_ai_column-04.png",
-          "overlay_text": "if塾の視点：受験生こそ「余白」を作れ",
-          "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
-          "alt": "内容3 - if塾の視点：受験生こそ「余白」を作れ"
+          "overlay_text": "if塾の視点：『丸投げ』で失うもの、得るもの",
+          "subtext": "自動化が進む今、最も価値が出るのは「AIへの指示力」と「最終判断の倫理」。AIに任せきりにせず、思考のプロセスを管理する力が受験・仕事の差になります。",
+          "alt": "内容3 - if塾の視点：『丸投げ』で失うもの、得る"
         },
         {
           "page_number": 5,
@@ -244,7 +242,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-19T11:06:41",
+      "research_date": "2026-02-19T14:10:51",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIエージェントに業務を「丸投げ」する時",
+        "cover_text": "指示だけで「完結」する時代。エージェンテ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIエージェントに業務を「丸投げ」する時代へ",
-            "subtext": "2026年2月最新：Anthropic \"Computer Use 2.0\" の衝撃",
+            "headline": "指示だけで「完結」する時代。エージェンティックAIの衝撃",
+            "subtext": "2026年2月最新：もうAIは『道具』から『自律したパートナー』へ",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ち」のAIはもう古い？",
-            "subtext": "これまでのAIは「文章を作る」だけでしたが、2026年現在の最新AIエージェントは、あなたの代わりにPCを操作し、メール送信から資料作成まで『完結』させます。",
+            "headline": "「検索してまとめる」作業はもう古い？",
+            "subtext": "これまでのAIは回答するだけ。2026年の主流『エージェンティックAI』は、目標を伝えればツールを使い分け、勝手にタスクを完了させます。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年流：AIへの「丸投げ」具体例",
-            "subtext": "「進路説明会の資料を去年のデータから更新して、関係者全員にSlackで送っておいて」この一言で、AIがブラウザを開き、ファイルを編集し、送信まで自動で完了します。",
+            "headline": "2月の多忙な時期こそAIに「丸投げ」",
+            "subtext": "新学期の準備や複雑なスケジュール調整、確定申告の自動照合まで。AIが自分で判断し、必要なソフトを操作して結果だけを報告してくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：受験生こそ「余白」を作れ",
-            "subtext": "単なる時短術ではありません。事務作業をAIに任せ、保護者は「子供との対話」に、学生は「AIにはできない思考」に時間を割く。これが2026年のスマートな学習環境です。",
+            "headline": "if塾の視点：『丸投げ』で失うもの、得るもの",
+            "subtext": "自動化が進む今、最も価値が出るのは「AIへの指示力」と「最終判断の倫理」。AIに任せきりにせず、思考のプロセスを管理する力が受験・仕事の差になります。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
