@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 45,
-    "last_updated": "2026-02-21T10:58:56.473511",
+    "last_updated": "2026-02-21T13:53:53.254022",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260221_activity",
       "post_id": "20260221_activity",
-      "created_at": "2026-02-21T10:58:56",
+      "created_at": "2026-02-21T13:53:53",
       "datetime": "2026-02-21T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
+      "theme": "2026年最新：Vibe Codingで変わる創造の形",
       "target_audience": "Students & Parents",
-      "title": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-      "caption": "【2026年2月】最新の教育現場からの報告です！\n\n今、全国で「生成AIハッカソン」が爆発的に増えています。2年前とは異なり、現在は中高生、さらにはプログラミング未経験の保護者世代までもが、一晩でサービスを試作できる時代になりました。\n\n「コードが書けないから」と諦める時代は終わりました。今、子供たちに必要なのは、技術を学ぶ時間以上に「社会の何を解決したいか？」を深掘りする時間です。\n\nif塾の生徒たちも、今月開催されたハッカソンで驚くべき成長を見せてくれました。AIという最強の武器を手にした今、私たちは彼らの「創造性」にどう向き合うべきか？\n\n詳細は投稿をチェック！\nあなたの「作りたい」を、if塾で形にしませんか？",
-      "caption_text": "【2026年2月】最新の教育現場からの報告です！\n\n今、全国で「生成AIハッカソン」が爆発的に増えています。2年前とは異なり、現在は中高生、さらにはプログラミング未経験の保護者世代までもが、一晩でサービスを試作できる時代になりました。\n\n「コードが書けないから」と諦める時代は終わりました。今、子供たちに必要なのは、技術を学ぶ時間以上に「社会の何を解決したいか？」を深掘りする時間です。\n\nif塾の生徒たちも、今月開催されたハッカソンで驚くべき成長を見せてくれました。AIという最強の武器を手にした今、私たちは彼らの「創造性」にどう向き合うべきか？\n\n詳細は投稿をチェック！\nあなたの「作りたい」を、if塾で形にしませんか？",
+      "title": "2026年最新：Vibe Codingで変わる創造の形",
+      "caption": "【2026年2月】最新の学びのカタチをお届けします。\n\n「プログラミングは難しい」というのは、もう過去の話かもしれません。\n本日if塾で行ったのは、2026年の主流スタイル「Vibe Coding（バイブコーディング）」。\n\nAIとまるで会話するように、自分の直感や「バイブス」を言葉にするだけで、即座にコードが生成され、アプリが出来上がっていく。\n生徒たちが驚いたのは、その圧倒的なスピード感です。\n\n進路を考える2月の今、私たちが伝えたいのは\n「スキルを習得する」こと以上に「AIと共創して何を生み出すか」という視点。\n\n技術の進化を味方につけて、君だけのアイデアを形にしよう！\n\n最新のAI学習環境を体験したい方は、ぜひプロフィールのリンクから詳細をチェックしてください。✨",
+      "caption_text": "【2026年2月】最新の学びのカタチをお届けします。\n\n「プログラミングは難しい」というのは、もう過去の話かもしれません。\n本日if塾で行ったのは、2026年の主流スタイル「Vibe Coding（バイブコーディング）」。\n\nAIとまるで会話するように、自分の直感や「バイブス」を言葉にするだけで、即座にコードが生成され、アプリが出来上がっていく。\n生徒たちが驚いたのは、その圧倒的なスピード感です。\n\n進路を考える2月の今、私たちが伝えたいのは\n「スキルを習得する」こと以上に「AIと共創して何を生み出すか」という視点。\n\n技術の進化を味方につけて、君だけのアイデアを形にしよう！\n\n最新のAI学習環境を体験したい方は、ぜひプロフィールのリンクから詳細をチェックしてください。✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#ハッカソン",
-        "#中高生AI教育",
-        "#ノーコード",
-        "#最新教育ニュース",
-        "#探究学習"
+        "#VibeCoding",
+        "#バイブコーディング",
+        "#AI教育",
+        "#次世代スキル",
+        "#最新テック",
+        "#プログラミング学習",
+        "#未来の教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-          "sub_title": "【2026年2月最新】非エンジニアでも形にする時代へ",
-          "text_content": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
+          "main_title": "2026年最新：Vibe Codingで変わる創造の形",
+          "sub_title": "2月21日、AI共創開発の最前線から",
+          "text_content": "2026年最新：Vibe Codingで変わる創造の形",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-01.png",
           "image_file": "assets/img/posts/20260221_activity-01.png",
-          "overlay_text": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-          "subtext": "【2026年2月最新】非エンジニアでも形にする時代へ",
-          "alt": "表紙 - 中高生が1晩でアプリ開発！？2026年A"
+          "overlay_text": "2026年最新：Vibe Codingで変わる創造の形",
+          "subtext": "2月21日、AI共創開発の最前線から",
+          "alt": "表紙 - 2026年最新：Vibe Codingで"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
-          "sub_title": "AIがコードを書く2026年、スキルの壁は消えましたが「アイデアの具体化」に悩む生徒が増えています。",
-          "text_content": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
+          "main_title": "「コードを書く」から「対話する」へ",
+          "sub_title": "受験シーズン真っ只中の今、学生たちの関心は『最短で形にする力』へシフト。かつてのプログラミングの壁が消えつつあります。",
+          "text_content": "「コードを書く」から「対話する」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-02.png",
           "image_file": "assets/img/posts/20260221_activity-02.png",
-          "overlay_text": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
-          "subtext": "AIがコードを書く2026年、スキルの壁は消えましたが「アイデアの具体化」に悩む生徒が増えています。",
-          "alt": "内容1 - 「やりたい」がすぐ形になる。でも、何を作"
+          "overlay_text": "「コードを書く」から「対話する」へ",
+          "subtext": "受験シーズン真っ只中の今、学生たちの関心は『最短で形にする力』へシフト。かつてのプログラミングの壁が消えつつあります。",
+          "alt": "内容1 - 「コードを書く」から「対話する」へ"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
-          "sub_title": "最新のマルチモーダルAIを使い、デザインからデプロイまでわずか数時間。もはや技術は「手段」になりました。",
-          "text_content": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
+          "main_title": "言葉だけでアプリが生まれる瞬間",
+          "sub_title": "今日の授業では最新のVibe Codingツールを導入。自然言語で意図を伝えるだけで、生徒たちのアイデアが数分で動作するアプリになりました。",
+          "text_content": "言葉だけでアプリが生まれる瞬間",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-03.png",
           "image_file": "assets/img/posts/20260221_activity-03.png",
-          "overlay_text": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
-          "subtext": "最新のマルチモーダルAIを使い、デザインからデプロイまでわずか数時間。もはや技術は「手段」になりました。",
-          "alt": "内容2 - 中学生がノーコードAIで「地域のゴミ拾い"
+          "overlay_text": "言葉だけでアプリが生まれる瞬間",
+          "subtext": "今日の授業では最新のVibe Codingツールを導入。自然言語で意図を伝えるだけで、生徒たちのアイデアが数分で動作するアプリになりました。",
+          "alt": "内容2 - 言葉だけでアプリが生まれる瞬間"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者に求められるのは「プロンプト力」より「問いの質」",
-          "sub_title": "if塾では、AIを使いこなすための『課題発見力』を重視。ツールの進化に振り回されない思考の根幹を鍛えています。",
-          "text_content": "指導者に求められるのは「プロンプト力」より「問いの質」",
+          "main_title": "大切なのは「何を創りたいか」という熱量",
+          "sub_title": "if塾の視点：構文を覚える時間は、課題解決の思考時間へ。2026年、AIを相棒にできる子が未来のイノベーターになります。",
+          "text_content": "大切なのは「何を創りたいか」という熱量",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-04.png",
           "image_file": "assets/img/posts/20260221_activity-04.png",
-          "overlay_text": "指導者に求められるのは「プロンプト力」より「問いの質」",
-          "subtext": "if塾では、AIを使いこなすための『課題発見力』を重視。ツールの進化に振り回されない思考の根幹を鍛えています。",
-          "alt": "内容3 - 指導者に求められるのは「プロンプト力」よ"
+          "overlay_text": "大切なのは「何を創りたいか」という熱量",
+          "subtext": "if塾の視点：構文を覚える時間は、課題解決の思考時間へ。2026年、AIを相棒にできる子が未来のイノベーターになります。",
+          "alt": "内容3 - 大切なのは「何を創りたいか」という熱量"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-          "sub_title": "【2026年2月最新】非エンジニアでも形にする時代へ",
-          "text_content": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
+          "main_title": "2026年最新：Vibe Codingで変わる創造の形",
+          "sub_title": "2月21日、AI共創開発の最前線から",
+          "text_content": "2026年最新：Vibe Codingで変わる創造の形",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-01.png",
           "image_file": "assets/img/posts/20260221_activity-01.png",
-          "overlay_text": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-          "subtext": "【2026年2月最新】非エンジニアでも形にする時代へ",
-          "alt": "表紙 - 中高生が1晩でアプリ開発！？2026年A"
+          "overlay_text": "2026年最新：Vibe Codingで変わる創造の形",
+          "subtext": "2月21日、AI共創開発の最前線から",
+          "alt": "表紙 - 2026年最新：Vibe Codingで"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
-          "sub_title": "AIがコードを書く2026年、スキルの壁は消えましたが「アイデアの具体化」に悩む生徒が増えています。",
-          "text_content": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
+          "main_title": "「コードを書く」から「対話する」へ",
+          "sub_title": "受験シーズン真っ只中の今、学生たちの関心は『最短で形にする力』へシフト。かつてのプログラミングの壁が消えつつあります。",
+          "text_content": "「コードを書く」から「対話する」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-02.png",
           "image_file": "assets/img/posts/20260221_activity-02.png",
-          "overlay_text": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
-          "subtext": "AIがコードを書く2026年、スキルの壁は消えましたが「アイデアの具体化」に悩む生徒が増えています。",
-          "alt": "内容1 - 「やりたい」がすぐ形になる。でも、何を作"
+          "overlay_text": "「コードを書く」から「対話する」へ",
+          "subtext": "受験シーズン真っ只中の今、学生たちの関心は『最短で形にする力』へシフト。かつてのプログラミングの壁が消えつつあります。",
+          "alt": "内容1 - 「コードを書く」から「対話する」へ"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
-          "sub_title": "最新のマルチモーダルAIを使い、デザインからデプロイまでわずか数時間。もはや技術は「手段」になりました。",
-          "text_content": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
+          "main_title": "言葉だけでアプリが生まれる瞬間",
+          "sub_title": "今日の授業では最新のVibe Codingツールを導入。自然言語で意図を伝えるだけで、生徒たちのアイデアが数分で動作するアプリになりました。",
+          "text_content": "言葉だけでアプリが生まれる瞬間",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-03.png",
           "image_file": "assets/img/posts/20260221_activity-03.png",
-          "overlay_text": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
-          "subtext": "最新のマルチモーダルAIを使い、デザインからデプロイまでわずか数時間。もはや技術は「手段」になりました。",
-          "alt": "内容2 - 中学生がノーコードAIで「地域のゴミ拾い"
+          "overlay_text": "言葉だけでアプリが生まれる瞬間",
+          "subtext": "今日の授業では最新のVibe Codingツールを導入。自然言語で意図を伝えるだけで、生徒たちのアイデアが数分で動作するアプリになりました。",
+          "alt": "内容2 - 言葉だけでアプリが生まれる瞬間"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者に求められるのは「プロンプト力」より「問いの質」",
-          "sub_title": "if塾では、AIを使いこなすための『課題発見力』を重視。ツールの進化に振り回されない思考の根幹を鍛えています。",
-          "text_content": "指導者に求められるのは「プロンプト力」より「問いの質」",
+          "main_title": "大切なのは「何を創りたいか」という熱量",
+          "sub_title": "if塾の視点：構文を覚える時間は、課題解決の思考時間へ。2026年、AIを相棒にできる子が未来のイノベーターになります。",
+          "text_content": "大切なのは「何を創りたいか」という熱量",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260221_activity-04.png",
           "image_file": "assets/img/posts/20260221_activity-04.png",
-          "overlay_text": "指導者に求められるのは「プロンプト力」より「問いの質」",
-          "subtext": "if塾では、AIを使いこなすための『課題発見力』を重視。ツールの進化に振り回されない思考の根幹を鍛えています。",
-          "alt": "内容3 - 指導者に求められるのは「プロンプト力」よ"
+          "overlay_text": "大切なのは「何を創りたいか」という熱量",
+          "subtext": "if塾の視点：構文を覚える時間は、課題解決の思考時間へ。2026年、AIを相棒にできる子が未来のイノベーターになります。",
+          "alt": "内容3 - 大切なのは「何を創りたいか」という熱量"
         },
         {
           "page_number": 5,
@@ -244,7 +245,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-21T10:57:40",
+      "research_date": "2026-02-21T13:52:31",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が1晩でアプリ開発！？2026年A",
+        "cover_text": "2026年最新：Vibe Codingで",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が1晩でアプリ開発！？2026年AIハッカソン最前線",
-            "subtext": "【2026年2月最新】非エンジニアでも形にする時代へ",
+            "headline": "2026年最新：Vibe Codingで変わる創造の形",
+            "subtext": "2月21日、AI共創開発の最前線から",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」がすぐ形になる。でも、何を作ればいい？",
-            "subtext": "AIがコードを書く2026年、スキルの壁は消えましたが「アイデアの具体化」に悩む生徒が増えています。",
+            "headline": "「コードを書く」から「対話する」へ",
+            "subtext": "受験シーズン真っ只中の今、学生たちの関心は『最短で形にする力』へシフト。かつてのプログラミングの壁が消えつつあります。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "中学生がノーコードAIで「地域のゴミ拾いアプリ」を完遂！",
-            "subtext": "最新のマルチモーダルAIを使い、デザインからデプロイまでわずか数時間。もはや技術は「手段」になりました。",
+            "headline": "言葉だけでアプリが生まれる瞬間",
+            "subtext": "今日の授業では最新のVibe Codingツールを導入。自然言語で意図を伝えるだけで、生徒たちのアイデアが数分で動作するアプリになりました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者に求められるのは「プロンプト力」より「問いの質」",
-            "subtext": "if塾では、AIを使いこなすための『課題発見力』を重視。ツールの進化に振り回されない思考の根幹を鍛えています。",
+            "headline": "大切なのは「何を創りたいか」という熱量",
+            "subtext": "if塾の視点：構文を覚える時間は、課題解決の思考時間へ。2026年、AIを相棒にできる子が未来のイノベーターになります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
