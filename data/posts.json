@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 46,
-    "last_updated": "2026-02-22T11:07:45.416065",
+    "last_updated": "2026-02-22T14:07:44.844498",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260222_activity",
       "post_id": "20260222_activity",
-      "created_at": "2026-02-22T11:07:45",
+      "created_at": "2026-02-22T14:07:44",
       "datetime": "2026-02-22T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "2026年版：生成AIハッカソンの日常化：エ",
+      "theme": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
       "target_audience": "Students & Parents",
-      "title": "2026年版：生成AIハッカソンの日常化：エ",
-      "caption": "【2026年2月】生成AIハッカソンの日常化：エンジニアに限らず、AIを使いこなして一晩でサービスを試作する『バイブコーディング』スタイルのハッカソンが中高生の間で急増\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
-      "caption_text": "【2026年2月】生成AIハッカソンの日常化：エンジニアに限らず、AIを使いこなして一晩でサービスを試作する『バイブコーディング』スタイルのハッカソンが中高生の間で急増\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "title": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+      "caption": "【2026年2月】最新の教育現場をお届けします！\n\n今、教育の現場では劇的な変化が起きています。\nかつては「コードを1行ずつ書くこと」がプログラミング教育のゴールでした。\n\nしかし2026年現在、if塾のハッカソンでは、小学生や非エンジニアの学生たちがAIエージェントを指揮して、数時間でプロトタイプを組み上げています。\n\nもはや「スキル」の定義が変わりました。\n「何を作るか？」「誰の課題を解決するか？」\nこの思考力こそが、AI時代を生き抜く子供たちに最も必要な力です。\n\n2月も残りわずか。新学年に向けて、最新のテクノロジーに触れる準備を始めませんか？\n\n詳細はプロフィールURLからチェック！",
+      "caption_text": "【2026年2月】最新の教育現場をお届けします！\n\n今、教育の現場では劇的な変化が起きています。\nかつては「コードを1行ずつ書くこと」がプログラミング教育のゴールでした。\n\nしかし2026年現在、if塾のハッカソンでは、小学生や非エンジニアの学生たちがAIエージェントを指揮して、数時間でプロトタイプを組み上げています。\n\nもはや「スキル」の定義が変わりました。\n「何を作るか？」「誰の課題を解決するか？」\nこの思考力こそが、AI時代を生き抜く子供たちに最も必要な力です。\n\n2月も残りわずか。新学年に向けて、最新のテクノロジーに触れる準備を始めませんか？\n\n詳細はプロフィールURLからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#if塾",
-        "#プログラミング教室",
-        "#授業風景",
+        "#プログラミング教育",
+        "#生成AI",
         "#ハッカソン",
-        "#生徒の成長",
-        "#楽しい授業"
+        "#ノーコード",
+        "#最新教育",
+        "#AIネイティブ"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：生成AIハッカソンの日常化：エ",
-          "sub_title": "2月の最新情報",
-          "text_content": "2026年版：生成AIハッカソンの日常化：エ",
+          "main_title": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+          "sub_title": "2026年2月・最新活動レポート",
+          "text_content": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-01.png",
           "image_file": "assets/img/posts/20260222_activity-01.png",
-          "overlay_text": "2026年版：生成AIハッカソンの日常化：エ",
-          "subtext": "2月の最新情報",
-          "alt": "表紙 - 2026年版：生成AIハッカソンの日常化"
+          "overlay_text": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+          "subtext": "2026年2月・最新活動レポート",
+          "alt": "表紙 - コード不要の時代。2026年、小学生が「"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "「プログラミング学習」はもう古い？",
+          "sub_title": "2026年、学生の悩みは「書き方」から「何を作るか」へ。コードを書かずに形にする新常識。",
+          "text_content": "「プログラミング学習」はもう古い？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-02.png",
           "image_file": "assets/img/posts/20260222_activity-02.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "overlay_text": "「プログラミング学習」はもう古い？",
+          "subtext": "2026年、学生の悩みは「書き方」から「何を作るか」へ。コードを書かずに形にする新常識。",
+          "alt": "内容1 - 「プログラミング学習」はもう古い？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "非エンジニア層による爆速開発の現場",
+          "sub_title": "最新のマルチモーダルAIを使いこなし、わずか3時間で実用アプリのプロトタイプを完成させるジュニア層が急増中。",
+          "text_content": "非エンジニア層による爆速開発の現場",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-03.png",
           "image_file": "assets/img/posts/20260222_activity-03.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "overlay_text": "非エンジニア層による爆速開発の現場",
+          "subtext": "最新のマルチモーダルAIを使いこなし、わずか3時間で実用アプリのプロトタイプを完成させるジュニア層が急増中。",
+          "alt": "内容2 - 非エンジニア層による爆速開発の現場"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "if塾が教える「AIとの対話術」",
+          "sub_title": "大切なのは構文の暗記ではなく、課題解決のロジック。AIを右腕にする『ディレクション能力』を育成しています。",
+          "text_content": "if塾が教える「AIとの対話術」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-04.png",
           "image_file": "assets/img/posts/20260222_activity-04.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "overlay_text": "if塾が教える「AIとの対話術」",
+          "subtext": "大切なのは構文の暗記ではなく、課題解決のロジック。AIを右腕にする『ディレクション能力』を育成しています。",
+          "alt": "内容3 - if塾が教える「AIとの対話術」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：生成AIハッカソンの日常化：エ",
-          "sub_title": "2月の最新情報",
-          "text_content": "2026年版：生成AIハッカソンの日常化：エ",
+          "main_title": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+          "sub_title": "2026年2月・最新活動レポート",
+          "text_content": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-01.png",
           "image_file": "assets/img/posts/20260222_activity-01.png",
-          "overlay_text": "2026年版：生成AIハッカソンの日常化：エ",
-          "subtext": "2月の最新情報",
-          "alt": "表紙 - 2026年版：生成AIハッカソンの日常化"
+          "overlay_text": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+          "subtext": "2026年2月・最新活動レポート",
+          "alt": "表紙 - コード不要の時代。2026年、小学生が「"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "「プログラミング学習」はもう古い？",
+          "sub_title": "2026年、学生の悩みは「書き方」から「何を作るか」へ。コードを書かずに形にする新常識。",
+          "text_content": "「プログラミング学習」はもう古い？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-02.png",
           "image_file": "assets/img/posts/20260222_activity-02.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "overlay_text": "「プログラミング学習」はもう古い？",
+          "subtext": "2026年、学生の悩みは「書き方」から「何を作るか」へ。コードを書かずに形にする新常識。",
+          "alt": "内容1 - 「プログラミング学習」はもう古い？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "非エンジニア層による爆速開発の現場",
+          "sub_title": "最新のマルチモーダルAIを使いこなし、わずか3時間で実用アプリのプロトタイプを完成させるジュニア層が急増中。",
+          "text_content": "非エンジニア層による爆速開発の現場",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-03.png",
           "image_file": "assets/img/posts/20260222_activity-03.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "overlay_text": "非エンジニア層による爆速開発の現場",
+          "subtext": "最新のマルチモーダルAIを使いこなし、わずか3時間で実用アプリのプロトタイプを完成させるジュニア層が急増中。",
+          "alt": "内容2 - 非エンジニア層による爆速開発の現場"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "if塾が教える「AIとの対話術」",
+          "sub_title": "大切なのは構文の暗記ではなく、課題解決のロジック。AIを右腕にする『ディレクション能力』を育成しています。",
+          "text_content": "if塾が教える「AIとの対話術」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260222_activity-04.png",
           "image_file": "assets/img/posts/20260222_activity-04.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "overlay_text": "if塾が教える「AIとの対話術」",
+          "subtext": "大切なのは構文の暗記ではなく、課題解決のロジック。AIを右腕にする『ディレクション能力』を育成しています。",
+          "alt": "内容3 - if塾が教える「AIとの対話術」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-22T11:06:32",
+      "research_date": "2026-02-22T14:06:24",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年版：生成AIハッカソンの日常化",
+        "cover_text": "コード不要の時代。2026年、小学生が「",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年版：生成AIハッカソンの日常化：エ",
-            "subtext": "2月の最新情報",
+            "headline": "コード不要の時代。2026年、小学生が「起業家」になるハッカソン",
+            "subtext": "2026年2月・最新活動レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "こんな悩みありませんか？",
-            "subtext": "2026年の課題",
+            "headline": "「プログラミング学習」はもう古い？",
+            "subtext": "2026年、学生の悩みは「書き方」から「何を作るか」へ。コードを書かずに形にする新常識。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の解決策をご紹介",
-            "subtext": "最新ツールで解決",
+            "headline": "非エンジニア層による爆速開発の現場",
+            "subtext": "最新のマルチモーダルAIを使いこなし、わずか3時間で実用アプリのプロトタイプを完成させるジュニア層が急増中。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "今すぐ始めよう",
-            "subtext": "if塾で学ぶ",
+            "headline": "if塾が教える「AIとの対話術」",
+            "subtext": "大切なのは構文の暗記ではなく、課題解決のロジック。AIを右腕にする『ディレクション能力』を育成しています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
