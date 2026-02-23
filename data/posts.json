@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 47,
-    "last_updated": "2026-02-23T11:09:07.704151",
+    "last_updated": "2026-02-23T14:16:45.373950",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,23 @@
     {
       "id": "20260223_announcement",
       "post_id": "20260223_announcement",
-      "created_at": "2026-02-23T11:09:07",
+      "created_at": "2026-02-23T14:16:45",
       "datetime": "2026-02-23T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新版！AIを「使う」から「任せる」時代へ",
+      "theme": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！AIを「使う」から「任せる」時代へ",
-      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものです。\n2026年現在、主流となっているのは『エージェント・エンジニアリング』。\n\nこれは、AIに「目的」を提示し、タスクの実行プロセス自体をAIに自律的に考えさせる技術です。\n\n例えば、受験生なら「志望校合格までのスケジュール管理と苦手分析」をAIエージェントに任せることで、人間は「解くこと」に100%集中できるようになります。\n\nif塾では、この最新のAI協働術をカリキュラムに導入。\nAIをツールとしてではなく、頼れるパートナーとして使いこなす次世代のリーダーを育成します。\n\n詳細はプロフィール欄のリンクからチェックしてください！",
-      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものです。\n2026年現在、主流となっているのは『エージェント・エンジニアリング』。\n\nこれは、AIに「目的」を提示し、タスクの実行プロセス自体をAIに自律的に考えさせる技術です。\n\n例えば、受験生なら「志望校合格までのスケジュール管理と苦手分析」をAIエージェントに任せることで、人間は「解くこと」に100%集中できるようになります。\n\nif塾では、この最新のAI協働術をカリキュラムに導入。\nAIをツールとしてではなく、頼れるパートナーとして使いこなす次世代のリーダーを育成します。\n\n詳細はプロフィール欄のリンクからチェックしてください！",
+      "title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のもの。2026年の今、求められているのはAIを単なる道具として使うことではなく、自分の代わりに動く『AIエージェント』をプログラミングで構築する力です。\n\nif塾では、最新のAI技術とプログラミングを融合させた、次世代の学習カリキュラムを導入。\n自分専用のAIを作る過程で、論理的思考とクリエイティビティを同時に養います。\n\nこの春、一歩先行くスキルを手に入れませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #プログラミング教育 #最新AI #春期講習 #生成AI #Python学習",
+      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のもの。2026年の今、求められているのはAIを単なる道具として使うことではなく、自分の代わりに動く『AIエージェント』をプログラミングで構築する力です。\n\nif塾では、最新のAI技術とプログラミングを融合させた、次世代の学習カリキュラムを導入。\n自分専用のAIを作る過程で、論理的思考とクリエイティビティを同時に養います。\n\nこの春、一歩先行くスキルを手に入れませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #プログラミング教育 #最新AI #春期講習 #生成AI #Python学習",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#AIエージェント",
-        "#エージェントエンジニアリング",
-        "#次世代教育",
-        "#AI教育",
-        "#春の習い事"
+        "#プログラミング教育",
+        "#最新AI",
+        "#次世代スキル",
+        "#中高生向けAI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！AIを「使う」から「任せる」時代へ",
-          "sub_title": "2月急増中：エージェント・エンジニアリングの正体",
-          "text_content": "2026年最新版！AIを「使う」から「任せる」時代へ",
+          "main_title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "sub_title": "2月23日更新：春休みに差をつける新基準",
+          "text_content": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-01.png",
           "image_file": "assets/img/posts/20260223_announcement-01.png",
-          "overlay_text": "2026年最新版！AIを「使う」から「任せる」時代へ",
-          "subtext": "2月急増中：エージェント・エンジニアリングの正体",
-          "alt": "表紙 - 2026年最新版！AIを「使う」から「任"
+          "overlay_text": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "subtext": "2月23日更新：春休みに差をつける新基準",
+          "alt": "表紙 - 2026年最新！AIを「使う」から「操る"
         },
         {
           "page_number": 2,
@@ -58,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちAIはもう古い？",
-          "sub_title": "一回一回プロンプトを打つ手間が、受験勉強や仕事の効率を下げていませんか？今、AIは自律して動く「エージェント型」へ進化しています。",
-          "text_content": "指示待ちAIはもう古い？",
+          "main_title": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "sub_title": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
+          "text_content": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-02.png",
           "image_file": "assets/img/posts/20260223_announcement-02.png",
-          "overlay_text": "指示待ちAIはもう古い？",
-          "subtext": "一回一回プロンプトを打つ手間が、受験勉強や仕事の効率を下げていませんか？今、AIは自律して動く「エージェント型」へ進化しています。",
-          "alt": "内容1 - 指示待ちAIはもう古い？"
+          "overlay_text": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
+          "alt": "内容1 - チャットGPTだけではもう古い？「AI任"
         },
         {
           "page_number": 3,
@@ -74,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "目標を伝えるだけでAIが完結",
-          "sub_title": "「エージェント・エンジニアリング」を習得すれば、AIが自ら計画を立て、リサーチし、資料作成まで代行。2026年の必須スキルです。",
-          "text_content": "目標を伝えるだけでAIが完結",
+          "main_title": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "sub_title": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
+          "text_content": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-03.png",
           "image_file": "assets/img/posts/20260223_announcement-03.png",
-          "overlay_text": "目標を伝えるだけでAIが完結",
-          "subtext": "「エージェント・エンジニアリング」を習得すれば、AIが自ら計画を立て、リサーチし、資料作成まで代行。2026年の必須スキルです。",
-          "alt": "内容2 - 目標を伝えるだけでAIが完結"
+          "overlay_text": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
+          "alt": "内容2 - 自走する「AIエージェント」があなたの秘"
         },
         {
           "page_number": 4,
@@ -90,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AIとの共創」",
-          "sub_title": "単なる操作法ではなく、AIを部下のように指揮する思考力を。春休み前の今こそ、次世代の武器を手にいれましょう。",
-          "text_content": "if塾で学ぶ「AIとの共創」",
+          "main_title": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "sub_title": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
+          "text_content": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-04.png",
           "image_file": "assets/img/posts/20260223_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AIとの共創」",
-          "subtext": "単なる操作法ではなく、AIを部下のように指揮する思考力を。春休み前の今こそ、次世代の武器を手にいれましょう。",
-          "alt": "内容3 - if塾で学ぶ「AIとの共創」"
+          "overlay_text": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
+          "alt": "内容3 - if塾で学ぶ「AI共創スキル」。論理的思"
         },
         {
           "page_number": 5,
@@ -124,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！AIを「使う」から「任せる」時代へ",
-          "sub_title": "2月急増中：エージェント・エンジニアリングの正体",
-          "text_content": "2026年最新版！AIを「使う」から「任せる」時代へ",
+          "main_title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "sub_title": "2月23日更新：春休みに差をつける新基準",
+          "text_content": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-01.png",
           "image_file": "assets/img/posts/20260223_announcement-01.png",
-          "overlay_text": "2026年最新版！AIを「使う」から「任せる」時代へ",
-          "subtext": "2月急増中：エージェント・エンジニアリングの正体",
-          "alt": "表紙 - 2026年最新版！AIを「使う」から「任"
+          "overlay_text": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "subtext": "2月23日更新：春休みに差をつける新基準",
+          "alt": "表紙 - 2026年最新！AIを「使う」から「操る"
         },
         {
           "page_number": 2,
@@ -140,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "指示待ちAIはもう古い？",
-          "sub_title": "一回一回プロンプトを打つ手間が、受験勉強や仕事の効率を下げていませんか？今、AIは自律して動く「エージェント型」へ進化しています。",
-          "text_content": "指示待ちAIはもう古い？",
+          "main_title": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "sub_title": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
+          "text_content": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-02.png",
           "image_file": "assets/img/posts/20260223_announcement-02.png",
-          "overlay_text": "指示待ちAIはもう古い？",
-          "subtext": "一回一回プロンプトを打つ手間が、受験勉強や仕事の効率を下げていませんか？今、AIは自律して動く「エージェント型」へ進化しています。",
-          "alt": "内容1 - 指示待ちAIはもう古い？"
+          "overlay_text": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
+          "alt": "内容1 - チャットGPTだけではもう古い？「AI任"
         },
         {
           "page_number": 3,
@@ -156,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "目標を伝えるだけでAIが完結",
-          "sub_title": "「エージェント・エンジニアリング」を習得すれば、AIが自ら計画を立て、リサーチし、資料作成まで代行。2026年の必須スキルです。",
-          "text_content": "目標を伝えるだけでAIが完結",
+          "main_title": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "sub_title": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
+          "text_content": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-03.png",
           "image_file": "assets/img/posts/20260223_announcement-03.png",
-          "overlay_text": "目標を伝えるだけでAIが完結",
-          "subtext": "「エージェント・エンジニアリング」を習得すれば、AIが自ら計画を立て、リサーチし、資料作成まで代行。2026年の必須スキルです。",
-          "alt": "内容2 - 目標を伝えるだけでAIが完結"
+          "overlay_text": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
+          "alt": "内容2 - 自走する「AIエージェント」があなたの秘"
         },
         {
           "page_number": 4,
@@ -172,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AIとの共創」",
-          "sub_title": "単なる操作法ではなく、AIを部下のように指揮する思考力を。春休み前の今こそ、次世代の武器を手にいれましょう。",
-          "text_content": "if塾で学ぶ「AIとの共創」",
+          "main_title": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "sub_title": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
+          "text_content": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-04.png",
           "image_file": "assets/img/posts/20260223_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AIとの共創」",
-          "subtext": "単なる操作法ではなく、AIを部下のように指揮する思考力を。春休み前の今こそ、次世代の武器を手にいれましょう。",
-          "alt": "内容3 - if塾で学ぶ「AIとの共創」"
+          "overlay_text": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
+          "alt": "内容3 - if塾で学ぶ「AI共創スキル」。論理的思"
         },
         {
           "page_number": 5,
@@ -243,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-23T11:07:39",
+      "research_date": "2026-02-23T14:15:27",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！AIを「使う」から「任",
+        "cover_text": "2026年最新！AIを「使う」から「操る",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！AIを「使う」から「任せる」時代へ",
-            "subtext": "2月急増中：エージェント・エンジニアリングの正体",
+            "headline": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+            "subtext": "2月23日更新：春休みに差をつける新基準",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "指示待ちAIはもう古い？",
-            "subtext": "一回一回プロンプトを打つ手間が、受験勉強や仕事の効率を下げていませんか？今、AIは自律して動く「エージェント型」へ進化しています。",
+            "headline": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+            "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "目標を伝えるだけでAIが完結",
-            "subtext": "「エージェント・エンジニアリング」を習得すれば、AIが自ら計画を立て、リサーチし、資料作成まで代行。2026年の必須スキルです。",
+            "headline": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+            "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾で学ぶ「AIとの共創」",
-            "subtext": "単なる操作法ではなく、AIを部下のように指揮する思考力を。春休み前の今こそ、次世代の武器を手にいれましょう。",
+            "headline": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+            "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
