@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 47,
-    "last_updated": "2026-02-23T14:16:45.373950",
+    "last_updated": "2026-02-23T20:45:01.281626",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,22 @@
     {
       "id": "20260223_announcement",
       "post_id": "20260223_announcement",
-      "created_at": "2026-02-23T14:16:45",
+      "created_at": "2026-02-23T20:45:01",
       "datetime": "2026-02-23T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+      "theme": "2026年最新！「情報I」ショックに備える",
       "target_audience": "Students & Parents",
-      "title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-      "caption": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のもの。2026年の今、求められているのはAIを単なる道具として使うことではなく、自分の代わりに動く『AIエージェント』をプログラミングで構築する力です。\n\nif塾では、最新のAI技術とプログラミングを融合させた、次世代の学習カリキュラムを導入。\n自分専用のAIを作る過程で、論理的思考とクリエイティビティを同時に養います。\n\nこの春、一歩先行くスキルを手に入れませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #プログラミング教育 #最新AI #春期講習 #生成AI #Python学習",
-      "caption_text": "【2026年2月】最新の教育トレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のもの。2026年の今、求められているのはAIを単なる道具として使うことではなく、自分の代わりに動く『AIエージェント』をプログラミングで構築する力です。\n\nif塾では、最新のAI技術とプログラミングを融合させた、次世代の学習カリキュラムを導入。\n自分専用のAIを作る過程で、論理的思考とクリエイティビティを同時に養います。\n\nこの春、一歩先行くスキルを手に入れませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #プログラミング教育 #最新AI #春期講習 #生成AI #Python学習",
+      "title": "2026年最新！「情報I」ショックに備える",
+      "caption": "【2026年2月】共通テスト2年目のリアルを知る。 \n\n受験生の皆さん、保護者の皆様、お疲れ様です！if塾です。 \n2025年の「情報I」初導入から1年が経ち、2026年度入試の傾向がはっきりと見えてきました。\n\n現在、各地で「情報I分析セミナー」が急増していますが、それは「情報の配点が合否を分ける」という確信が教育界に広がっているからです。\n\n「まだ1年ある」ではなく「今から対策すれば武器になる」時期。\n最新のAI・データサイエンス傾向を含めたif塾の特別セミナーで、一歩リードしませんか？\n\n詳細はプロフィール欄のリンクからチェック！\nまずは現在の実力を知ることから始めましょう。 \n\n#if塾 #2026年 #大学共通テスト #情報I #新課程 #大学受験2026 #勉強垢 #高校生 #保護者",
+      "caption_text": "【2026年2月】共通テスト2年目のリアルを知る。 \n\n受験生の皆さん、保護者の皆様、お疲れ様です！if塾です。 \n2025年の「情報I」初導入から1年が経ち、2026年度入試の傾向がはっきりと見えてきました。\n\n現在、各地で「情報I分析セミナー」が急増していますが、それは「情報の配点が合否を分ける」という確信が教育界に広がっているからです。\n\n「まだ1年ある」ではなく「今から対策すれば武器になる」時期。\n最新のAI・データサイエンス傾向を含めたif塾の特別セミナーで、一歩リードしませんか？\n\n詳細はプロフィール欄のリンクからチェック！\nまずは現在の実力を知ることから始めましょう。 \n\n#if塾 #2026年 #大学共通テスト #情報I #新課程 #大学受験2026 #勉強垢 #高校生 #保護者",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#プログラミング教育",
-        "#最新AI",
-        "#次世代スキル",
-        "#中高生向けAI"
+        "#情報I",
+        "#大学入試",
+        "#共通テスト対策",
+        "#教育ニュース"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-          "sub_title": "2月23日更新：春休みに差をつける新基準",
-          "text_content": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "main_title": "2026年最新！「情報I」ショックに備える",
+          "sub_title": "2月23日更新：新課程2年目の分岐点",
+          "text_content": "2026年最新！「情報I」ショックに備える",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-01.png",
           "image_file": "assets/img/posts/20260223_announcement-01.png",
-          "overlay_text": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-          "subtext": "2月23日更新：春休みに差をつける新基準",
-          "alt": "表紙 - 2026年最新！AIを「使う」から「操る"
+          "overlay_text": "2026年最新！「情報I」ショックに備える",
+          "subtext": "2月23日更新：新課程2年目の分岐点",
+          "alt": "表紙 - 2026年最新！「情報I」ショックに備え"
         },
         {
           "page_number": 2,
@@ -58,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
-          "sub_title": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
-          "text_content": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "main_title": "「浪人生激減」で現役生のハードル激化？",
+          "sub_title": "2026年度入試は、旧課程組がいなくなり本格的な情報戦へ。平均点の上昇により、1点のミスが命取りになる時代が到来しました。",
+          "text_content": "「浪人生激減」で現役生のハードル激化？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-02.png",
           "image_file": "assets/img/posts/20260223_announcement-02.png",
-          "overlay_text": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
-          "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
-          "alt": "内容1 - チャットGPTだけではもう古い？「AI任"
+          "overlay_text": "「浪人生激減」で現役生のハードル激化？",
+          "subtext": "2026年度入試は、旧課程組がいなくなり本格的な情報戦へ。平均点の上昇により、1点のミスが命取りになる時代が到来しました。",
+          "alt": "内容1 - 「浪人生激減」で現役生のハードル激化？"
         },
         {
           "page_number": 3,
@@ -74,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
-          "sub_title": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
-          "text_content": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "main_title": "対策セミナーが急増中。なぜ今受けるべき？",
+          "sub_title": "最新のAI活用問題や、配点比率が高まった国立大の傾向をキャッチ。早めの「弱点可視化」が、来春の合格率を左右します。",
+          "text_content": "対策セミナーが急増中。なぜ今受けるべき？",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-03.png",
           "image_file": "assets/img/posts/20260223_announcement-03.png",
-          "overlay_text": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
-          "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
-          "alt": "内容2 - 自走する「AIエージェント」があなたの秘"
+          "overlay_text": "対策セミナーが急増中。なぜ今受けるべき？",
+          "subtext": "最新のAI活用問題や、配点比率が高まった国立大の傾向をキャッチ。早めの「弱点可視化」が、来春の合格率を左右します。",
+          "alt": "内容2 - 対策セミナーが急増中。なぜ今受けるべき？"
         },
         {
           "page_number": 4,
@@ -90,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
-          "sub_title": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
-          "text_content": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "main_title": "if塾流：思考力を磨く「実践型」情報対策",
+          "sub_title": "暗記ではなく、プログラミング的思考を。if塾では2026年型新傾向に合わせた「演習×個別解説」で、春休みのスタートダッシュを支援します。",
+          "text_content": "if塾流：思考力を磨く「実践型」情報対策",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-04.png",
           "image_file": "assets/img/posts/20260223_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
-          "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
-          "alt": "内容3 - if塾で学ぶ「AI共創スキル」。論理的思"
+          "overlay_text": "if塾流：思考力を磨く「実践型」情報対策",
+          "subtext": "暗記ではなく、プログラミング的思考を。if塾では2026年型新傾向に合わせた「演習×個別解説」で、春休みのスタートダッシュを支援します。",
+          "alt": "内容3 - if塾流：思考力を磨く「実践型」情報対策"
         },
         {
           "page_number": 5,
@@ -124,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-          "sub_title": "2月23日更新：春休みに差をつける新基準",
-          "text_content": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
+          "main_title": "2026年最新！「情報I」ショックに備える",
+          "sub_title": "2月23日更新：新課程2年目の分岐点",
+          "text_content": "2026年最新！「情報I」ショックに備える",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-01.png",
           "image_file": "assets/img/posts/20260223_announcement-01.png",
-          "overlay_text": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-          "subtext": "2月23日更新：春休みに差をつける新基準",
-          "alt": "表紙 - 2026年最新！AIを「使う」から「操る"
+          "overlay_text": "2026年最新！「情報I」ショックに備える",
+          "subtext": "2月23日更新：新課程2年目の分岐点",
+          "alt": "表紙 - 2026年最新！「情報I」ショックに備え"
         },
         {
           "page_number": 2,
@@ -140,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
-          "sub_title": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
-          "text_content": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
+          "main_title": "「浪人生激減」で現役生のハードル激化？",
+          "sub_title": "2026年度入試は、旧課程組がいなくなり本格的な情報戦へ。平均点の上昇により、1点のミスが命取りになる時代が到来しました。",
+          "text_content": "「浪人生激減」で現役生のハードル激化？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-02.png",
           "image_file": "assets/img/posts/20260223_announcement-02.png",
-          "overlay_text": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
-          "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
-          "alt": "内容1 - チャットGPTだけではもう古い？「AI任"
+          "overlay_text": "「浪人生激減」で現役生のハードル激化？",
+          "subtext": "2026年度入試は、旧課程組がいなくなり本格的な情報戦へ。平均点の上昇により、1点のミスが命取りになる時代が到来しました。",
+          "alt": "内容1 - 「浪人生激減」で現役生のハードル激化？"
         },
         {
           "page_number": 3,
@@ -156,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
-          "sub_title": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
-          "text_content": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
+          "main_title": "対策セミナーが急増中。なぜ今受けるべき？",
+          "sub_title": "最新のAI活用問題や、配点比率が高まった国立大の傾向をキャッチ。早めの「弱点可視化」が、来春の合格率を左右します。",
+          "text_content": "対策セミナーが急増中。なぜ今受けるべき？",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-03.png",
           "image_file": "assets/img/posts/20260223_announcement-03.png",
-          "overlay_text": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
-          "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
-          "alt": "内容2 - 自走する「AIエージェント」があなたの秘"
+          "overlay_text": "対策セミナーが急増中。なぜ今受けるべき？",
+          "subtext": "最新のAI活用問題や、配点比率が高まった国立大の傾向をキャッチ。早めの「弱点可視化」が、来春の合格率を左右します。",
+          "alt": "内容2 - 対策セミナーが急増中。なぜ今受けるべき？"
         },
         {
           "page_number": 4,
@@ -172,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
-          "sub_title": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
-          "text_content": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
+          "main_title": "if塾流：思考力を磨く「実践型」情報対策",
+          "sub_title": "暗記ではなく、プログラミング的思考を。if塾では2026年型新傾向に合わせた「演習×個別解説」で、春休みのスタートダッシュを支援します。",
+          "text_content": "if塾流：思考力を磨く「実践型」情報対策",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260223_announcement-04.png",
           "image_file": "assets/img/posts/20260223_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
-          "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
-          "alt": "内容3 - if塾で学ぶ「AI共創スキル」。論理的思"
+          "overlay_text": "if塾流：思考力を磨く「実践型」情報対策",
+          "subtext": "暗記ではなく、プログラミング的思考を。if塾では2026年型新傾向に合わせた「演習×個別解説」で、春休みのスタートダッシュを支援します。",
+          "alt": "内容3 - if塾流：思考力を磨く「実践型」情報対策"
         },
         {
           "page_number": 5,
@@ -243,7 +242,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-23T14:15:27",
+      "research_date": "2026-02-23T20:43:36",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新！AIを「使う」から「操る",
+        "cover_text": "2026年最新！「情報I」ショックに備え",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新！AIを「使う」から「操る」へ。AIエージェント×プログラミング活用術",
-            "subtext": "2月23日更新：春休みに差をつける新基準",
+            "headline": "2026年最新！「情報I」ショックに備える",
+            "subtext": "2月23日更新：新課程2年目の分岐点",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "チャットGPTだけではもう古い？「AI任せ」で成績が伸び悩む理由",
-            "subtext": "2026年、単なる検索代行はAIに置き換わりました。今求められるのは、複数のAIを自ら構築し、複雑な課題を解決する力です。",
+            "headline": "「浪人生激減」で現役生のハードル激化？",
+            "subtext": "2026年度入試は、旧課程組がいなくなり本格的な情報戦へ。平均点の上昇により、1点のミスが命取りになる時代が到来しました。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自走する「AIエージェント」があなたの秘書に。プログラミングで限界突破！",
-            "subtext": "Pythonと最新LLMを組み合わせ、自分専用の学習エージェントを作る時代。2026年の受験・進学ではこの活用スキルが合否を分けます。",
+            "headline": "対策セミナーが急増中。なぜ今受けるべき？",
+            "subtext": "最新のAI活用問題や、配点比率が高まった国立大の傾向をキャッチ。早めの「弱点可視化」が、来春の合格率を左右します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾で学ぶ「AI共創スキル」。論理的思考でAIに的確な指示を出す",
-            "subtext": "最新のAIツールを駆使し、コードを書きながらAIを制御。春期講習では「AIエージェント開発ワークショップ」を特別開催します！",
+            "headline": "if塾流：思考力を磨く「実践型」情報対策",
+            "subtext": "暗記ではなく、プログラミング的思考を。if塾では2026年型新傾向に合わせた「演習×個別解説」で、春休みのスタートダッシュを支援します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
