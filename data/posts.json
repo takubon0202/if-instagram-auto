@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 47,
-    "last_updated": "2026-02-23T20:45:01.281626",
+    "total_posts": 48,
+    "last_updated": "2026-02-24T11:05:33.988006",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260224_education",
+      "post_id": "20260224_education",
+      "created_at": "2026-02-24T11:05:33",
+      "datetime": "2026-02-24T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+      "target_audience": "Students & Parents",
+      "title": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+      "caption": "【2026年2月】最新の教育トレンドをお届けします。\n\n受験シーズン真っ只中ですが、皆さんの隣には「誰」がいますか？\n2026年、教育現場ではAIエージェントが「一人一人の専属チューター」として日常化しました。\n\n「わからない」をその場で解決し、あなたの理解度に合わせて問題レベルをリアルタイムで調整する。\nそんな魔法のような学習が、もう当たり前になっています。\n\nしかし、大切なのは「AIに使われる」のではなく「AIを使いこなす」こと。\nif塾では、最新のAIツールを活用しつつ、人間にしかできない「動機付け」と「戦略立案」を組み合わせてサポートしています。\n\nこれからの時代、学び方は自分で選ぶ時代です。\n最新の学習環境について詳しく知りたい方は、プロフィールのリンクをチェック！\n\n#教育の未来 #AIエージェント #個別最適化学習 #2026年の教育",
+      "caption_text": "【2026年2月】最新の教育トレンドをお届けします。\n\n受験シーズン真っ只中ですが、皆さんの隣には「誰」がいますか？\n2026年、教育現場ではAIエージェントが「一人一人の専属チューター」として日常化しました。\n\n「わからない」をその場で解決し、あなたの理解度に合わせて問題レベルをリアルタイムで調整する。\nそんな魔法のような学習が、もう当たり前になっています。\n\nしかし、大切なのは「AIに使われる」のではなく「AIを使いこなす」こと。\nif塾では、最新のAIツールを活用しつつ、人間にしかできない「動機付け」と「戦略立案」を組み合わせてサポートしています。\n\nこれからの時代、学び方は自分で選ぶ時代です。\n最新の学習環境について詳しく知りたい方は、プロフィールのリンクをチェック！\n\n#教育の未来 #AIエージェント #個別最適化学習 #2026年の教育",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIチューター",
+        "#EdTech",
+        "#個別指導",
+        "#次世代教育",
+        "#学習ハック"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "sub_title": "2026年2月最新：AIエージェントと並走する新時代の学習法",
+          "text_content": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-01.png",
+          "image_file": "assets/img/posts/20260224_education-01.png",
+          "overlay_text": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "subtext": "2026年2月最新：AIエージェントと並走する新時代の学習法",
+          "alt": "表紙 - まだ「塾の先生」に質問してる？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "sub_title": "2026年の今、学力格差の正体は『AIチューター』を自分専用にカスタマイズできているかどうか。2月の試験シーズン、一人で悩む時間はもう必要ありません。",
+          "text_content": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-02.png",
+          "image_file": "assets/img/posts/20260224_education-02.png",
+          "overlay_text": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "subtext": "2026年の今、学力格差の正体は『AIチューター』を自分専用にカスタマイズできているかどうか。2月の試験シーズン、一人で悩む時間はもう必要ありません。",
+          "alt": "内容1 - 「先生が忙しくて聞けない」は、もう過去の"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "sub_title": "最新のAIチューターは、あなたの『解き方の癖』まで把握。if塾では、単なるAI利用ではなく、目標達成から逆算した『個別最適化エージェント』の導入を標準化しています。",
+          "text_content": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-03.png",
+          "image_file": "assets/img/posts/20260224_education-03.png",
+          "overlay_text": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "subtext": "最新のAIチューターは、あなたの『解き方の癖』まで把握。if塾では、単なるAI利用ではなく、目標達成から逆算した『個別最適化エージェント』の導入を標準化しています。",
+          "alt": "内容2 - 24時間隣にいる「AIエージェント」が、"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "sub_title": "答えを教わるのではなく、AIにどうヒントを出させるか。if塾が提唱する『プロンプト学習法』で、AIを最強の伴走者に変えましょう。これが2026年以降の合格への最短ルートです。",
+          "text_content": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-04.png",
+          "image_file": "assets/img/posts/20260224_education-04.png",
+          "overlay_text": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "subtext": "答えを教わるのではなく、AIにどうヒントを出させるか。if塾が提唱する『プロンプト学習法』で、AIを最強の伴走者に変えましょう。これが2026年以降の合格への最短ルートです。",
+          "alt": "内容3 - 今すぐやるべきは「AIへの問いかけ方」を"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "sub_title": "2026年2月最新：AIエージェントと並走する新時代の学習法",
+          "text_content": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-01.png",
+          "image_file": "assets/img/posts/20260224_education-01.png",
+          "overlay_text": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+          "subtext": "2026年2月最新：AIエージェントと並走する新時代の学習法",
+          "alt": "表紙 - まだ「塾の先生」に質問してる？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "sub_title": "2026年の今、学力格差の正体は『AIチューター』を自分専用にカスタマイズできているかどうか。2月の試験シーズン、一人で悩む時間はもう必要ありません。",
+          "text_content": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-02.png",
+          "image_file": "assets/img/posts/20260224_education-02.png",
+          "overlay_text": "「先生が忙しくて聞けない」は、もう過去の話です。",
+          "subtext": "2026年の今、学力格差の正体は『AIチューター』を自分専用にカスタマイズできているかどうか。2月の試験シーズン、一人で悩む時間はもう必要ありません。",
+          "alt": "内容1 - 「先生が忙しくて聞けない」は、もう過去の"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "sub_title": "最新のAIチューターは、あなたの『解き方の癖』まで把握。if塾では、単なるAI利用ではなく、目標達成から逆算した『個別最適化エージェント』の導入を標準化しています。",
+          "text_content": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-03.png",
+          "image_file": "assets/img/posts/20260224_education-03.png",
+          "overlay_text": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+          "subtext": "最新のAIチューターは、あなたの『解き方の癖』まで把握。if塾では、単なるAI利用ではなく、目標達成から逆算した『個別最適化エージェント』の導入を標準化しています。",
+          "alt": "内容2 - 24時間隣にいる「AIエージェント」が、"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "sub_title": "答えを教わるのではなく、AIにどうヒントを出させるか。if塾が提唱する『プロンプト学習法』で、AIを最強の伴走者に変えましょう。これが2026年以降の合格への最短ルートです。",
+          "text_content": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260224_education-04.png",
+          "image_file": "assets/img/posts/20260224_education-04.png",
+          "overlay_text": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+          "subtext": "答えを教わるのではなく、AIにどうヒントを出させるか。if塾が提唱する『プロンプト学習法』で、AIを最強の伴走者に変えましょう。これが2026年以降の合格への最短ルートです。",
+          "alt": "内容3 - 今すぐやるべきは「AIへの問いかけ方」を"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260224_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260224_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260224_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260224_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-02-24T11:04:08",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "まだ「塾の先生」に質問してる？2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "まだ「塾の先生」に質問してる？2026年、勉強の常識が激変中",
+            "subtext": "2026年2月最新：AIエージェントと並走する新時代の学習法",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「先生が忙しくて聞けない」は、もう過去の話です。",
+            "subtext": "2026年の今、学力格差の正体は『AIチューター』を自分専用にカスタマイズできているかどうか。2月の試験シーズン、一人で悩む時間はもう必要ありません。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "24時間隣にいる「AIエージェント」が、あなた専用のカリキュラムを自動生成。",
+            "subtext": "最新のAIチューターは、あなたの『解き方の癖』まで把握。if塾では、単なるAI利用ではなく、目標達成から逆算した『個別最適化エージェント』の導入を標準化しています。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐやるべきは「AIへの問いかけ方」を磨くこと。",
+            "subtext": "答えを教わるのではなく、AIにどうヒントを出させるか。if塾が提唱する『プロンプト学習法』で、AIを最強の伴走者に変えましょう。これが2026年以降の合格への最短ルートです。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260223_announcement",
       "post_id": "20260223_announcement",
