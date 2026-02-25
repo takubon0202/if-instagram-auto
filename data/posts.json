@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 49,
-    "last_updated": "2026-02-25T14:13:54.349285",
+    "last_updated": "2026-02-25T20:47:34.565415",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260225_development",
       "post_id": "20260225_development",
-      "created_at": "2026-02-25T14:13:54",
+      "created_at": "2026-02-25T20:47:34",
       "datetime": "2026-02-25T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
+      "theme": "自律型AIで新学期の準備が「ゼロ」になる！？",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-      "caption": "【2026年2月】最新の教育トレンドをお届けします。\n\n今、世界中で「Computational Action（コンピューテーショナル・アクション）」が加速しています。これは、単にプログラミングを学ぶだけでなく、技術を使って「社会課題を解決する」実践的な取り組みです。\n\n特に2026年に入り、発達障害やLGBTQ+といった多様なアイデンティティを持つ若者たちが、自らアプリを開発し、当事者目線で課題を解決する事例が急増しています。\n\n「自分たちの悩みは自分たちで解決できる」\nそんな自信が、子どもたちの未来を大きく変えていきます。\n\nif塾では、最新のAIツールを活用し、社会にインパクトを与える開発体験をサポートしています。この春、あなたも社会を変える一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年2月】最新の教育トレンドをお届けします。\n\n今、世界中で「Computational Action（コンピューテーショナル・アクション）」が加速しています。これは、単にプログラミングを学ぶだけでなく、技術を使って「社会課題を解決する」実践的な取り組みです。\n\n特に2026年に入り、発達障害やLGBTQ+といった多様なアイデンティティを持つ若者たちが、自らアプリを開発し、当事者目線で課題を解決する事例が急増しています。\n\n「自分たちの悩みは自分たちで解決できる」\nそんな自信が、子どもたちの未来を大きく変えていきます。\n\nif塾では、最新のAIツールを活用し、社会にインパクトを与える開発体験をサポートしています。この春、あなたも社会を変える一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "自律型AIで新学期の準備が「ゼロ」になる！？",
+      "caption": "【2026年2月】最新AI活用で、忙しい春を乗り越えましょう！\n\n新学期を前に、保護者の皆さんは膨大なタスクに追われていませんか？\n2026年のトレンドは「エージェンティックAI（自律型AI）」。\n\nこれまでのAIは「〇〇を教えて」と聞く必要がありましたが、最新の自律型アプリは「新年度の準備をしておいて」と一言伝えるだけで、カレンダー登録、持ち物リスト作成、ネット注文の予約までを勝手に進めてくれます。\n\nif塾では、こうした最新ツールを単に使うだけでなく、「AIにどんな指示を出し、どう判断を任せるか」という思考力を重視しています。\n\n事務作業はAIに任せ、空いた時間で2026年以降を生き抜くための新しい学びを始めませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年2月】最新AI活用で、忙しい春を乗り越えましょう！\n\n新学期を前に、保護者の皆さんは膨大なタスクに追われていませんか？\n2026年のトレンドは「エージェンティックAI（自律型AI）」。\n\nこれまでのAIは「〇〇を教えて」と聞く必要がありましたが、最新の自律型アプリは「新年度の準備をしておいて」と一言伝えるだけで、カレンダー登録、持ち物リスト作成、ネット注文の予約までを勝手に進めてくれます。\n\nif塾では、こうした最新ツールを単に使うだけでなく、「AIにどんな指示を出し、どう判断を任せるか」という思考力を重視しています。\n\n事務作業はAIに任せ、空いた時間で2026年以降を生き抜くための新しい学びを始めませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#ComputationalAction",
-        "#社会課題解決",
-        "#発達障害",
-        "#LGBTQ",
-        "#プログラミング教育",
-        "#ノーコード",
-        "#当事者目線"
+        "#エージェンティックAI",
+        "#自律型AI",
+        "#AI教育",
+        "#新学期準備",
+        "#自動化",
+        "#タイパ最高"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-          "sub_title": "2月の最新ニュース：開発の加速が止まらない",
-          "text_content": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
+          "main_title": "自律型AIで新学期の準備が「ゼロ」になる！？",
+          "sub_title": "2026年最新：エージェンティックAI活用術",
+          "text_content": "自律型AIで新学期の準備が「ゼロ」になる！？",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-01.png",
           "image_file": "assets/img/posts/20260225_development-01.png",
-          "overlay_text": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-          "subtext": "2月の最新ニュース：開発の加速が止まらない",
-          "alt": "表紙 - 2026年最新版！Computation"
+          "overlay_text": "自律型AIで新学期の準備が「ゼロ」になる！？",
+          "subtext": "2026年最新：エージェンティックAI活用術",
+          "alt": "表紙 - 自律型AIで新学期の準備が「ゼロ」になる"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「わかってもらえない」を技術で解消",
-          "sub_title": "発達障害やLGBTQ+。当事者だから気づける『日常の壁』。2026年、既存のサービスでは届かない個別の悩みが浮き彫りになっています。",
-          "text_content": "「わかってもらえない」を技術で解消",
+          "main_title": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
+          "sub_title": "新年度の書類、習い事の調整、備品買い出し…親が考え、判断し、動くコストが限界を迎えています。",
+          "text_content": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-02.png",
           "image_file": "assets/img/posts/20260225_development-02.png",
-          "overlay_text": "「わかってもらえない」を技術で解消",
-          "subtext": "発達障害やLGBTQ+。当事者だから気づける『日常の壁』。2026年、既存のサービスでは届かない個別の悩みが浮き彫りになっています。",
-          "alt": "内容1 - 「わかってもらえない」を技術で解消"
+          "overlay_text": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
+          "subtext": "新年度の書類、習い事の調整、備品買い出し…親が考え、判断し、動くコストが限界を迎えています。",
+          "alt": "内容1 - 2月、保護者の皆様の「やることリスト」が"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生成AI×Computational Actionの威力",
-          "sub_title": "2026年の最新AI開発ツールはノーコードを超え、当事者の『声』を即座に機能化。if塾の生徒も、感覚過敏をサポートするARツールを開発中です。",
-          "text_content": "生成AI×Computational Actionの威力",
+          "main_title": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
+          "sub_title": "ただのチャットではなく、AIが自ら学校のPDFを読み込み、スケジュールを同期、必要な学用品の比較購入までを完結させます。",
+          "text_content": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-03.png",
           "image_file": "assets/img/posts/20260225_development-03.png",
-          "overlay_text": "生成AI×Computational Actionの威力",
-          "subtext": "2026年の最新AI開発ツールはノーコードを超え、当事者の『声』を即座に機能化。if塾の生徒も、感覚過敏をサポートするARツールを開発中です。",
-          "alt": "内容2 - 生成AI×Computational A"
+          "overlay_text": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
+          "subtext": "ただのチャットではなく、AIが自ら学校のPDFを読み込み、スケジュールを同期、必要な学用品の比較購入までを完結させます。",
+          "alt": "内容2 - 「指示待ち」から「自律実行」へ。Agen"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "当事者目線が「共感」を呼び、社会を動かす",
-          "sub_title": "単なる開発で終わらせないのがif塾流。アプリを実際にリリースし、社会の課題を自分事として解決する成功体験が、次世代のリーダーを育てます。",
-          "text_content": "当事者目線が「共感」を呼び、社会を動かす",
+          "main_title": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
+          "sub_title": "事務作業を自動化し、余った時間で2026年必須の『AIを使いこなす力』を親子で育むのが最新の教育スタイルです。",
+          "text_content": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-04.png",
           "image_file": "assets/img/posts/20260225_development-04.png",
-          "overlay_text": "当事者目線が「共感」を呼び、社会を動かす",
-          "subtext": "単なる開発で終わらせないのがif塾流。アプリを実際にリリースし、社会の課題を自分事として解決する成功体験が、次世代のリーダーを育てます。",
-          "alt": "内容3 - 当事者目線が「共感」を呼び、社会を動かす"
+          "overlay_text": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
+          "subtext": "事務作業を自動化し、余った時間で2026年必須の『AIを使いこなす力』を親子で育むのが最新の教育スタイルです。",
+          "alt": "内容3 - if塾流：AIに「家庭の秘書」を任せて、"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-          "sub_title": "2月の最新ニュース：開発の加速が止まらない",
-          "text_content": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
+          "main_title": "自律型AIで新学期の準備が「ゼロ」になる！？",
+          "sub_title": "2026年最新：エージェンティックAI活用術",
+          "text_content": "自律型AIで新学期の準備が「ゼロ」になる！？",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-01.png",
           "image_file": "assets/img/posts/20260225_development-01.png",
-          "overlay_text": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-          "subtext": "2月の最新ニュース：開発の加速が止まらない",
-          "alt": "表紙 - 2026年最新版！Computation"
+          "overlay_text": "自律型AIで新学期の準備が「ゼロ」になる！？",
+          "subtext": "2026年最新：エージェンティックAI活用術",
+          "alt": "表紙 - 自律型AIで新学期の準備が「ゼロ」になる"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「わかってもらえない」を技術で解消",
-          "sub_title": "発達障害やLGBTQ+。当事者だから気づける『日常の壁』。2026年、既存のサービスでは届かない個別の悩みが浮き彫りになっています。",
-          "text_content": "「わかってもらえない」を技術で解消",
+          "main_title": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
+          "sub_title": "新年度の書類、習い事の調整、備品買い出し…親が考え、判断し、動くコストが限界を迎えています。",
+          "text_content": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-02.png",
           "image_file": "assets/img/posts/20260225_development-02.png",
-          "overlay_text": "「わかってもらえない」を技術で解消",
-          "subtext": "発達障害やLGBTQ+。当事者だから気づける『日常の壁』。2026年、既存のサービスでは届かない個別の悩みが浮き彫りになっています。",
-          "alt": "内容1 - 「わかってもらえない」を技術で解消"
+          "overlay_text": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
+          "subtext": "新年度の書類、習い事の調整、備品買い出し…親が考え、判断し、動くコストが限界を迎えています。",
+          "alt": "内容1 - 2月、保護者の皆様の「やることリスト」が"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生成AI×Computational Actionの威力",
-          "sub_title": "2026年の最新AI開発ツールはノーコードを超え、当事者の『声』を即座に機能化。if塾の生徒も、感覚過敏をサポートするARツールを開発中です。",
-          "text_content": "生成AI×Computational Actionの威力",
+          "main_title": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
+          "sub_title": "ただのチャットではなく、AIが自ら学校のPDFを読み込み、スケジュールを同期、必要な学用品の比較購入までを完結させます。",
+          "text_content": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-03.png",
           "image_file": "assets/img/posts/20260225_development-03.png",
-          "overlay_text": "生成AI×Computational Actionの威力",
-          "subtext": "2026年の最新AI開発ツールはノーコードを超え、当事者の『声』を即座に機能化。if塾の生徒も、感覚過敏をサポートするARツールを開発中です。",
-          "alt": "内容2 - 生成AI×Computational A"
+          "overlay_text": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
+          "subtext": "ただのチャットではなく、AIが自ら学校のPDFを読み込み、スケジュールを同期、必要な学用品の比較購入までを完結させます。",
+          "alt": "内容2 - 「指示待ち」から「自律実行」へ。Agen"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "当事者目線が「共感」を呼び、社会を動かす",
-          "sub_title": "単なる開発で終わらせないのがif塾流。アプリを実際にリリースし、社会の課題を自分事として解決する成功体験が、次世代のリーダーを育てます。",
-          "text_content": "当事者目線が「共感」を呼び、社会を動かす",
+          "main_title": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
+          "sub_title": "事務作業を自動化し、余った時間で2026年必須の『AIを使いこなす力』を親子で育むのが最新の教育スタイルです。",
+          "text_content": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260225_development-04.png",
           "image_file": "assets/img/posts/20260225_development-04.png",
-          "overlay_text": "当事者目線が「共感」を呼び、社会を動かす",
-          "subtext": "単なる開発で終わらせないのがif塾流。アプリを実際にリリースし、社会の課題を自分事として解決する成功体験が、次世代のリーダーを育てます。",
-          "alt": "内容3 - 当事者目線が「共感」を呼び、社会を動かす"
+          "overlay_text": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
+          "subtext": "事務作業を自動化し、余った時間で2026年必須の『AIを使いこなす力』を親子で育むのが最新の教育スタイルです。",
+          "alt": "内容3 - if塾流：AIに「家庭の秘書」を任せて、"
         },
         {
           "page_number": 5,
@@ -230,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "デザイン"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "kagaya_yuma",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-25T14:12:30",
+      "research_date": "2026-02-25T20:44:11",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！Computation",
+        "cover_text": "自律型AIで新学期の準備が「ゼロ」になる",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！Computational Actionで社会を変える。当事者が作る解決アプリの形",
-            "subtext": "2月の最新ニュース：開発の加速が止まらない",
+            "headline": "自律型AIで新学期の準備が「ゼロ」になる！？",
+            "subtext": "2026年最新：エージェンティックAI活用術",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「わかってもらえない」を技術で解消",
-            "subtext": "発達障害やLGBTQ+。当事者だから気づける『日常の壁』。2026年、既存のサービスでは届かない個別の悩みが浮き彫りになっています。",
+            "headline": "2月、保護者の皆様の「やることリスト」が爆発していませんか？",
+            "subtext": "新年度の書類、習い事の調整、備品買い出し…親が考え、判断し、動くコストが限界を迎えています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "生成AI×Computational Actionの威力",
-            "subtext": "2026年の最新AI開発ツールはノーコードを超え、当事者の『声』を即座に機能化。if塾の生徒も、感覚過敏をサポートするARツールを開発中です。",
+            "headline": "「指示待ち」から「自律実行」へ。Agentic AIの衝撃",
+            "subtext": "ただのチャットではなく、AIが自ら学校のPDFを読み込み、スケジュールを同期、必要な学用品の比較購入までを完結させます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "当事者目線が「共感」を呼び、社会を動かす",
-            "subtext": "単なる開発で終わらせないのがif塾流。アプリを実際にリリースし、社会の課題を自分事として解決する成功体験が、次世代のリーダーを育てます。",
+            "headline": "if塾流：AIに「家庭の秘書」を任せて、子供との対話時間を増やす",
+            "subtext": "事務作業を自動化し、余った時間で2026年必須の『AIを使いこなす力』を親子で育むのが最新の教育スタイルです。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
