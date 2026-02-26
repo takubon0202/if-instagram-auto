@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 50,
-    "last_updated": "2026-02-26T14:11:22.534305",
+    "last_updated": "2026-02-26T20:45:26.667177",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260226_ai_column",
       "post_id": "20260226_ai_column",
-      "created_at": "2026-02-26T14:11:22",
+      "created_at": "2026-02-26T20:45:26",
       "datetime": "2026-02-26T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
+      "theme": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
       "target_audience": "Students & Parents",
-      "title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-      "caption": "【2026年2月】最新AIトレンドをお届けします。\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものかもしれません。\n2026年現在、AIは単なるチャットボットを卒業し、私たちの意図を汲み取って動く「自律型エージェント」へと進化しました。\n\n保護者の皆様にとっては、煩雑な書類作成やスケジュールの最適化を支えるパートナーに。\n学生の皆さんにとっては、個別の学習進捗を管理し、弱点を先回りして補強してくれる専属コーチに。\n\nこれからの時代に求められるのは、AIを操作する技術よりも、AIをどう指揮し、自分自身の時間をどうクリエイティブに使うかという「構想力」です。\n\nif塾では、最新テクノロジーを味方につけ、次世代を生き抜く力を共に育みます。\n\n詳細はプロフィールのリンクからチェック！",
-      "caption_text": "【2026年2月】最新AIトレンドをお届けします。\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものかもしれません。\n2026年現在、AIは単なるチャットボットを卒業し、私たちの意図を汲み取って動く「自律型エージェント」へと進化しました。\n\n保護者の皆様にとっては、煩雑な書類作成やスケジュールの最適化を支えるパートナーに。\n学生の皆さんにとっては、個別の学習進捗を管理し、弱点を先回りして補強してくれる専属コーチに。\n\nこれからの時代に求められるのは、AIを操作する技術よりも、AIをどう指揮し、自分自身の時間をどうクリエイティブに使うかという「構想力」です。\n\nif塾では、最新テクノロジーを味方につけ、次世代を生き抜く力を共に育みます。\n\n詳細はプロフィールのリンクからチェック！",
+      "title": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+      "caption": "【2026年2月】AIの進化が止まらない！受験生・保護者必見です。\n\n今月リリースされたGPT-5.2とGemini 3.1 Pro。これまでのAIとは一線を画す「推論能力」を備えています。\n\n「AIに聞けば答えが出る」時代は終わり、「AIを使ってどう思考を深めるか」が問われる2026年。\nif塾では、これら最新AIを単なるツールではなく、最強の学習パートナーにする方法を伝授しています。\n\n新学期に向けて、どのAIを導入すべきか迷っている方はぜひチェックしてください！\n\n#if塾 #2026年 #AI教育 #GPT5 #Gemini3 #中学受験2027 #高校受験 #大学受験 #最新技術 #AIコラム",
+      "caption_text": "【2026年2月】AIの進化が止まらない！受験生・保護者必見です。\n\n今月リリースされたGPT-5.2とGemini 3.1 Pro。これまでのAIとは一線を画す「推論能力」を備えています。\n\n「AIに聞けば答えが出る」時代は終わり、「AIを使ってどう思考を深めるか」が問われる2026年。\nif塾では、これら最新AIを単なるツールではなく、最強の学習パートナーにする方法を伝授しています。\n\n新学期に向けて、どのAIを導入すべきか迷っている方はぜひチェックしてください！\n\n#if塾 #2026年 #AI教育 #GPT5 #Gemini3 #中学受験2027 #高校受験 #大学受験 #最新技術 #AIコラム",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#最新テクノロジー",
-        "#自律型AI",
-        "#教育ICT",
-        "#未来の学習",
-        "#DX教育"
+        "#GPT5",
+        "#Gemini3",
+        "#AI学習",
+        "#DX教育",
+        "#推論能力"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-          "sub_title": "2026年2月最新：AIエージェントが変える学習と生活の形",
-          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
+          "main_title": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+          "sub_title": "2026年2月最新版：受験・学習に勝つAIはどっち？",
+          "text_content": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-01.png",
           "image_file": "assets/img/posts/20260226_ai_column-01.png",
-          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-          "subtext": "2026年2月最新：AIエージェントが変える学習と生活の形",
-          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+          "overlay_text": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+          "subtext": "2026年2月最新版：受験・学習に勝つAIはどっち？",
+          "alt": "表紙 - GPT-5.2 vs Gemini 3."
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
-          "sub_title": "これまでのAIは「質問に答える」だけ。2026年の今、AIは自ら考え、スケジュールを組み、タスクを完結させる『チームメンバー』に進化しました。",
-          "text_content": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
+          "main_title": "数学の難問、まだ自力で悩みますか？",
+          "sub_title": "東大・京大レベルの推論が必要な今、AI選びが合否を分ける時代です。最新の2大AIが登場しましたが、何が違うのか整理しましょう。",
+          "text_content": "数学の難問、まだ自力で悩みますか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-02.png",
           "image_file": "assets/img/posts/20260226_ai_column-02.png",
-          "overlay_text": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
-          "subtext": "これまでのAIは「質問に答える」だけ。2026年の今、AIは自ら考え、スケジュールを組み、タスクを完結させる『チームメンバー』に進化しました。",
-          "alt": "内容1 - プロンプトすら不要？「自律型AI」が当た"
+          "overlay_text": "数学の難問、まだ自力で悩みますか？",
+          "subtext": "東大・京大レベルの推論が必要な今、AI選びが合否を分ける時代です。最新の2大AIが登場しましたが、何が違うのか整理しましょう。",
+          "alt": "内容1 - 数学の難問、まだ自力で悩みますか？"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
-          "sub_title": "「春期講習の最適プランを出して」と一言。AIがあなたのカレンダーと成績データ、志望校の最新倍率を照らし合わせ、予約まで代行する時代です。",
-          "text_content": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
+          "main_title": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
+          "sub_title": "GPT-5.2は論理の穴を見抜く推論、Gemini 3.1 Proは100万トークンの文脈理解で過去問10年分を瞬時に構造化。2026年の学習には使い分けが必須です。",
+          "text_content": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-03.png",
           "image_file": "assets/img/posts/20260226_ai_column-03.png",
-          "overlay_text": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
-          "subtext": "「春期講習の最適プランを出して」と一言。AIがあなたのカレンダーと成績データ、志望校の最新倍率を照らし合わせ、予約まで代行する時代です。",
-          "alt": "内容2 - 【活用例】進路調査から塾の振替まで、AI"
+          "overlay_text": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
+          "subtext": "GPT-5.2は論理の穴を見抜く推論、Gemini 3.1 Proは100万トークンの文脈理解で過去問10年分を瞬時に構造化。2026年の学習には使い分けが必須です。",
+          "alt": "内容2 - GPTは『思考の深さ』、Geminiは『"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
-          "sub_title": "事務作業はAIエージェントに。だからこそ、人間は『何を成し遂げたいか』という意思決定と、深い思考力、そして対話の熱量を磨く必要があります。",
-          "text_content": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
+          "main_title": "if塾流：AIを「家庭教師」に変える裏技",
+          "sub_title": "答えを聞くのはNG。GPT-5.2に『ヒントを段階的に出して』と指示し、Geminiに『類題を生成して』と頼む。この併用が2026年の最短合格ルートです。",
+          "text_content": "if塾流：AIを「家庭教師」に変える裏技",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-04.png",
           "image_file": "assets/img/posts/20260226_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
-          "subtext": "事務作業はAIエージェントに。だからこそ、人間は『何を成し遂げたいか』という意思決定と、深い思考力、そして対話の熱量を磨く必要があります。",
-          "alt": "内容3 - if塾の視点：AIに任せる力と「人間にし"
+          "overlay_text": "if塾流：AIを「家庭教師」に変える裏技",
+          "subtext": "答えを聞くのはNG。GPT-5.2に『ヒントを段階的に出して』と指示し、Geminiに『類題を生成して』と頼む。この併用が2026年の最短合格ルートです。",
+          "alt": "内容3 - if塾流：AIを「家庭教師」に変える裏技"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-          "sub_title": "2026年2月最新：AIエージェントが変える学習と生活の形",
-          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
+          "main_title": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+          "sub_title": "2026年2月最新版：受験・学習に勝つAIはどっち？",
+          "text_content": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-01.png",
           "image_file": "assets/img/posts/20260226_ai_column-01.png",
-          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-          "subtext": "2026年2月最新：AIエージェントが変える学習と生活の形",
-          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+          "overlay_text": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+          "subtext": "2026年2月最新版：受験・学習に勝つAIはどっち？",
+          "alt": "表紙 - GPT-5.2 vs Gemini 3."
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
-          "sub_title": "これまでのAIは「質問に答える」だけ。2026年の今、AIは自ら考え、スケジュールを組み、タスクを完結させる『チームメンバー』に進化しました。",
-          "text_content": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
+          "main_title": "数学の難問、まだ自力で悩みますか？",
+          "sub_title": "東大・京大レベルの推論が必要な今、AI選びが合否を分ける時代です。最新の2大AIが登場しましたが、何が違うのか整理しましょう。",
+          "text_content": "数学の難問、まだ自力で悩みますか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-02.png",
           "image_file": "assets/img/posts/20260226_ai_column-02.png",
-          "overlay_text": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
-          "subtext": "これまでのAIは「質問に答える」だけ。2026年の今、AIは自ら考え、スケジュールを組み、タスクを完結させる『チームメンバー』に進化しました。",
-          "alt": "内容1 - プロンプトすら不要？「自律型AI」が当た"
+          "overlay_text": "数学の難問、まだ自力で悩みますか？",
+          "subtext": "東大・京大レベルの推論が必要な今、AI選びが合否を分ける時代です。最新の2大AIが登場しましたが、何が違うのか整理しましょう。",
+          "alt": "内容1 - 数学の難問、まだ自力で悩みますか？"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
-          "sub_title": "「春期講習の最適プランを出して」と一言。AIがあなたのカレンダーと成績データ、志望校の最新倍率を照らし合わせ、予約まで代行する時代です。",
-          "text_content": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
+          "main_title": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
+          "sub_title": "GPT-5.2は論理の穴を見抜く推論、Gemini 3.1 Proは100万トークンの文脈理解で過去問10年分を瞬時に構造化。2026年の学習には使い分けが必須です。",
+          "text_content": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-03.png",
           "image_file": "assets/img/posts/20260226_ai_column-03.png",
-          "overlay_text": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
-          "subtext": "「春期講習の最適プランを出して」と一言。AIがあなたのカレンダーと成績データ、志望校の最新倍率を照らし合わせ、予約まで代行する時代です。",
-          "alt": "内容2 - 【活用例】進路調査から塾の振替まで、AI"
+          "overlay_text": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
+          "subtext": "GPT-5.2は論理の穴を見抜く推論、Gemini 3.1 Proは100万トークンの文脈理解で過去問10年分を瞬時に構造化。2026年の学習には使い分けが必須です。",
+          "alt": "内容2 - GPTは『思考の深さ』、Geminiは『"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
-          "sub_title": "事務作業はAIエージェントに。だからこそ、人間は『何を成し遂げたいか』という意思決定と、深い思考力、そして対話の熱量を磨く必要があります。",
-          "text_content": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
+          "main_title": "if塾流：AIを「家庭教師」に変える裏技",
+          "sub_title": "答えを聞くのはNG。GPT-5.2に『ヒントを段階的に出して』と指示し、Geminiに『類題を生成して』と頼む。この併用が2026年の最短合格ルートです。",
+          "text_content": "if塾流：AIを「家庭教師」に変える裏技",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260226_ai_column-04.png",
           "image_file": "assets/img/posts/20260226_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
-          "subtext": "事務作業はAIエージェントに。だからこそ、人間は『何を成し遂げたいか』という意思決定と、深い思考力、そして対話の熱量を磨く必要があります。",
-          "alt": "内容3 - if塾の視点：AIに任せる力と「人間にし"
+          "overlay_text": "if塾流：AIを「家庭教師」に変える裏技",
+          "subtext": "答えを聞くのはNG。GPT-5.2に『ヒントを段階的に出して』と指示し、Geminiに『類題を生成して』と頼む。この併用が2026年の最短合格ルートです。",
+          "alt": "内容3 - if塾流：AIを「家庭教師」に変える裏技"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-26T14:09:47",
+      "research_date": "2026-02-26T20:43:47",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「使う」から「任せる」へ。2026",
+        "cover_text": "GPT-5.2 vs Gemini 3.",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「使う」から「任せる」へ。2026年、自律型エージェントが家族の一員に？",
-            "subtext": "2026年2月最新：AIエージェントが変える学習と生活の形",
+            "headline": "GPT-5.2 vs Gemini 3.1 Pro 頂上決戦！",
+            "subtext": "2026年2月最新版：受験・学習に勝つAIはどっち？",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "プロンプトすら不要？「自律型AI」が当たり前の世界へ",
-            "subtext": "これまでのAIは「質問に答える」だけ。2026年の今、AIは自ら考え、スケジュールを組み、タスクを完結させる『チームメンバー』に進化しました。",
+            "headline": "数学の難問、まだ自力で悩みますか？",
+            "subtext": "東大・京大レベルの推論が必要な今、AI選びが合否を分ける時代です。最新の2大AIが登場しましたが、何が違うのか整理しましょう。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "【活用例】進路調査から塾の振替まで、AIが勝手に終わらせる",
-            "subtext": "「春期講習の最適プランを出して」と一言。AIがあなたのカレンダーと成績データ、志望校の最新倍率を照らし合わせ、予約まで代行する時代です。",
+            "headline": "GPTは『思考の深さ』、Geminiは『多角的な分析』",
+            "subtext": "GPT-5.2は論理の穴を見抜く推論、Gemini 3.1 Proは100万トークンの文脈理解で過去問10年分を瞬時に構造化。2026年の学習には使い分けが必須です。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIに任せる力と「人間にしかできない力」の境界線",
-            "subtext": "事務作業はAIエージェントに。だからこそ、人間は『何を成し遂げたいか』という意思決定と、深い思考力、そして対話の熱量を磨く必要があります。",
+            "headline": "if塾流：AIを「家庭教師」に変える裏技",
+            "subtext": "答えを聞くのはNG。GPT-5.2に『ヒントを段階的に出して』と指示し、Geminiに『類題を生成して』と頼む。この併用が2026年の最短合格ルートです。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
