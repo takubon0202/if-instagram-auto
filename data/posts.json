@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 52,
-    "last_updated": "2026-02-28T13:43:24.738595",
+    "last_updated": "2026-02-28T20:27:17.259495",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,25 @@
     {
       "id": "20260228_activity",
       "post_id": "20260228_activity",
-      "created_at": "2026-02-28T13:43:24",
+      "created_at": "2026-02-28T20:27:17",
       "datetime": "2026-02-28T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIを部下にするな。2026年の「自走型学習」最前線",
+      "theme": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
       "target_audience": "Students & Parents",
-      "title": "AIを部下にするな。2026年の「自走型学習」最前線",
-      "caption": "【2026年2月】最新の活動報告をお届けします。\n\n2026年も早いもので2月が終わろうとしています。\n受験シーズン真っ只中の今、if塾で起きている変化は「AIとの向き合い方」です。\n\nかつての「AIに答えを聞く」スタイルはもう古い。\n今の生徒たちは、AIを『思考のパートナー』として使いこなし、自らの力で正解にたどり着く「自走型学習」を当たり前に行っています。\n\n「この解き方のどこに論理的飛躍があると思う？」\nAIに対してそう問いかける生徒たちの姿は、まさに新時代のリーダーそのもの。\n\nif塾では、ツールに使われるのではなく、ツールを使いこなすことで「一生モノの思考力」を養う環境を提供し続けます。\n\n新年度の入塾相談も受付中です。詳細はプロフィールから！",
-      "caption_text": "【2026年2月】最新の活動報告をお届けします。\n\n2026年も早いもので2月が終わろうとしています。\n受験シーズン真っ只中の今、if塾で起きている変化は「AIとの向き合い方」です。\n\nかつての「AIに答えを聞く」スタイルはもう古い。\n今の生徒たちは、AIを『思考のパートナー』として使いこなし、自らの力で正解にたどり着く「自走型学習」を当たり前に行っています。\n\n「この解き方のどこに論理的飛躍があると思う？」\nAIに対してそう問いかける生徒たちの姿は、まさに新時代のリーダーそのもの。\n\nif塾では、ツールに使われるのではなく、ツールを使いこなすことで「一生モノの思考力」を養う環境を提供し続けます。\n\n新年度の入塾相談も受付中です。詳細はプロフィールから！",
+      "title": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+      "caption": "【2026年2月】最新の活動報告をお届けします！\n\n本日、if塾では「AIハッカソン」を開催しました。\n2026年現在、AIは単なるチャットツールを超え、自律的に動く『エージェント』の時代へ突入しています。\n\n今回のイベントでは、中高生たちがManus AIやDifyを駆使し、日常の課題を解決するアプリを自分たちの手で作り上げました。\n\n「自分でシステムを構築できる」という自信は、これからの予測不能な時代を生き抜く最強の武器になります。\n\nif塾では、最新テクノロジーをただ享受するのではなく、それを乗りこなす側のリーダーを育成しています。\n\n皆さんは、AIを使って何を作ってみたいですか？ぜひコメントで教えてください！",
+      "caption_text": "【2026年2月】最新の活動報告をお届けします！\n\n本日、if塾では「AIハッカソン」を開催しました。\n2026年現在、AIは単なるチャットツールを超え、自律的に動く『エージェント』の時代へ突入しています。\n\n今回のイベントでは、中高生たちがManus AIやDifyを駆使し、日常の課題を解決するアプリを自分たちの手で作り上げました。\n\n「自分でシステムを構築できる」という自信は、これからの予測不能な時代を生き抜く最強の武器になります。\n\nif塾では、最新テクノロジーをただ享受するのではなく、それを乗りこなす側のリーダーを育成しています。\n\n皆さんは、AIを使って何を作ってみたいですか？ぜひコメントで教えてください！",
       "hashtags": [
-        "#if塾",
-        "#2026年",
-        "#生成AI",
-        "#自走型学習",
-        "#教育ICT",
-        "#思考力向上",
-        "#2月のニュース"
+        "if塾",
+        "2026年",
+        "ManusAI",
+        "Dify",
+        "生成AI",
+        "AI教育",
+        "ハッカソン",
+        "探究学習",
+        "最新テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを部下にするな。2026年の「自走型学習」最前線",
-          "sub_title": "2026年2月・if塾活動レポート",
-          "text_content": "AIを部下にするな。2026年の「自走型学習」最前線",
+          "main_title": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+          "sub_title": "【2026.02.28】Manus AI×Difyで変わる学びの形",
+          "text_content": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-01.png",
           "image_file": "assets/img/posts/20260228_activity-01.png",
-          "overlay_text": "AIを部下にするな。2026年の「自走型学習」最前線",
-          "subtext": "2026年2月・if塾活動レポート",
-          "alt": "表紙 - AIを部下にするな。2026年の「自走型"
+          "overlay_text": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+          "subtext": "【2026.02.28】Manus AI×Difyで変わる学びの形",
+          "alt": "表紙 - AIは「使う」から「作る」へ。2026年"
         },
         {
           "page_number": 2,
@@ -58,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答え」を検索する時代は終わった。",
-          "sub_title": "2月、受験や新学年準備が本格化する中で、多くの学生が「効率的な解き方」を求めすぎて、自ら考える力を失いつつあります。",
-          "text_content": "「答え」を検索する時代は終わった。",
+          "main_title": "「AIに使われる側」で終わっていませんか？",
+          "sub_title": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは、もう差がつかない時代です。",
+          "text_content": "「AIに使われる側」で終わっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-02.png",
           "image_file": "assets/img/posts/20260228_activity-02.png",
-          "overlay_text": "「答え」を検索する時代は終わった。",
-          "subtext": "2月、受験や新学年準備が本格化する中で、多くの学生が「効率的な解き方」を求めすぎて、自ら考える力を失いつつあります。",
-          "alt": "内容1 - 「答え」を検索する時代は終わった。"
+          "overlay_text": "「AIに使われる側」で終わっていませんか？",
+          "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは、もう差がつかない時代です。",
+          "alt": "内容1 - 「AIに使われる側」で終わっていませんか"
         },
         {
           "page_number": 3,
@@ -74,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「思考のパートナー」としての対話型AI",
-          "sub_title": "if塾の生徒たちは、最新のマルチモーダルAIを「家庭教師」ではなく「議論相手」として活用。自らの仮説をぶつけ、論理の穴を特定しています。",
-          "text_content": "「思考のパートナー」としての対話型AI",
+          "main_title": "中高生がManus AIで自律型エージェントを構築",
+          "sub_title": "最新のManus AIとDifyを組み合わせ、複雑なタスクを自動実行するオリジナルAIを数時間で完成させました。",
+          "text_content": "中高生がManus AIで自律型エージェントを構築",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-03.png",
           "image_file": "assets/img/posts/20260228_activity-03.png",
-          "overlay_text": "「思考のパートナー」としての対話型AI",
-          "subtext": "if塾の生徒たちは、最新のマルチモーダルAIを「家庭教師」ではなく「議論相手」として活用。自らの仮説をぶつけ、論理の穴を特定しています。",
-          "alt": "内容2 - 「思考のパートナー」としての対話型AI"
+          "overlay_text": "中高生がManus AIで自律型エージェントを構築",
+          "subtext": "最新のManus AIとDifyを組み合わせ、複雑なタスクを自動実行するオリジナルAIを数時間で完成させました。",
+          "alt": "内容2 - 中高生がManus AIで自律型エージェ"
         },
         {
           "page_number": 4,
@@ -90,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提唱する「プロンプトレス」な学び",
-          "sub_title": "特定の指示文を覚えるのではなく、AIとの対話を通じて「自分の脳をどう動かすか」を言語化する。これが2026年の本質的な学力です。",
-          "text_content": "if塾が提唱する「プロンプトレス」な学び",
+          "main_title": "if塾が重視する「構造的思考力」",
+          "sub_title": "ツールが進化するほど、何を解決したいかという『問いを立てる力』とロジックを組む力が重要になります。",
+          "text_content": "if塾が重視する「構造的思考力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-04.png",
           "image_file": "assets/img/posts/20260228_activity-04.png",
-          "overlay_text": "if塾が提唱する「プロンプトレス」な学び",
-          "subtext": "特定の指示文を覚えるのではなく、AIとの対話を通じて「自分の脳をどう動かすか」を言語化する。これが2026年の本質的な学力です。",
-          "alt": "内容3 - if塾が提唱する「プロンプトレス」な学び"
+          "overlay_text": "if塾が重視する「構造的思考力」",
+          "subtext": "ツールが進化するほど、何を解決したいかという『問いを立てる力』とロジックを組む力が重要になります。",
+          "alt": "内容3 - if塾が重視する「構造的思考力」"
         },
         {
           "page_number": 5,
@@ -124,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを部下にするな。2026年の「自走型学習」最前線",
-          "sub_title": "2026年2月・if塾活動レポート",
-          "text_content": "AIを部下にするな。2026年の「自走型学習」最前線",
+          "main_title": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+          "sub_title": "【2026.02.28】Manus AI×Difyで変わる学びの形",
+          "text_content": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-01.png",
           "image_file": "assets/img/posts/20260228_activity-01.png",
-          "overlay_text": "AIを部下にするな。2026年の「自走型学習」最前線",
-          "subtext": "2026年2月・if塾活動レポート",
-          "alt": "表紙 - AIを部下にするな。2026年の「自走型"
+          "overlay_text": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+          "subtext": "【2026.02.28】Manus AI×Difyで変わる学びの形",
+          "alt": "表紙 - AIは「使う」から「作る」へ。2026年"
         },
         {
           "page_number": 2,
@@ -140,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答え」を検索する時代は終わった。",
-          "sub_title": "2月、受験や新学年準備が本格化する中で、多くの学生が「効率的な解き方」を求めすぎて、自ら考える力を失いつつあります。",
-          "text_content": "「答え」を検索する時代は終わった。",
+          "main_title": "「AIに使われる側」で終わっていませんか？",
+          "sub_title": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは、もう差がつかない時代です。",
+          "text_content": "「AIに使われる側」で終わっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-02.png",
           "image_file": "assets/img/posts/20260228_activity-02.png",
-          "overlay_text": "「答え」を検索する時代は終わった。",
-          "subtext": "2月、受験や新学年準備が本格化する中で、多くの学生が「効率的な解き方」を求めすぎて、自ら考える力を失いつつあります。",
-          "alt": "内容1 - 「答え」を検索する時代は終わった。"
+          "overlay_text": "「AIに使われる側」で終わっていませんか？",
+          "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは、もう差がつかない時代です。",
+          "alt": "内容1 - 「AIに使われる側」で終わっていませんか"
         },
         {
           "page_number": 3,
@@ -156,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「思考のパートナー」としての対話型AI",
-          "sub_title": "if塾の生徒たちは、最新のマルチモーダルAIを「家庭教師」ではなく「議論相手」として活用。自らの仮説をぶつけ、論理の穴を特定しています。",
-          "text_content": "「思考のパートナー」としての対話型AI",
+          "main_title": "中高生がManus AIで自律型エージェントを構築",
+          "sub_title": "最新のManus AIとDifyを組み合わせ、複雑なタスクを自動実行するオリジナルAIを数時間で完成させました。",
+          "text_content": "中高生がManus AIで自律型エージェントを構築",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-03.png",
           "image_file": "assets/img/posts/20260228_activity-03.png",
-          "overlay_text": "「思考のパートナー」としての対話型AI",
-          "subtext": "if塾の生徒たちは、最新のマルチモーダルAIを「家庭教師」ではなく「議論相手」として活用。自らの仮説をぶつけ、論理の穴を特定しています。",
-          "alt": "内容2 - 「思考のパートナー」としての対話型AI"
+          "overlay_text": "中高生がManus AIで自律型エージェントを構築",
+          "subtext": "最新のManus AIとDifyを組み合わせ、複雑なタスクを自動実行するオリジナルAIを数時間で完成させました。",
+          "alt": "内容2 - 中高生がManus AIで自律型エージェ"
         },
         {
           "page_number": 4,
@@ -172,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提唱する「プロンプトレス」な学び",
-          "sub_title": "特定の指示文を覚えるのではなく、AIとの対話を通じて「自分の脳をどう動かすか」を言語化する。これが2026年の本質的な学力です。",
-          "text_content": "if塾が提唱する「プロンプトレス」な学び",
+          "main_title": "if塾が重視する「構造的思考力」",
+          "sub_title": "ツールが進化するほど、何を解決したいかという『問いを立てる力』とロジックを組む力が重要になります。",
+          "text_content": "if塾が重視する「構造的思考力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260228_activity-04.png",
           "image_file": "assets/img/posts/20260228_activity-04.png",
-          "overlay_text": "if塾が提唱する「プロンプトレス」な学び",
-          "subtext": "特定の指示文を覚えるのではなく、AIとの対話を通じて「自分の脳をどう動かすか」を言語化する。これが2026年の本質的な学力です。",
-          "alt": "内容3 - if塾が提唱する「プロンプトレス」な学び"
+          "overlay_text": "if塾が重視する「構造的思考力」",
+          "subtext": "ツールが進化するほど、何を解決したいかという『問いを立てる力』とロジックを組む力が重要になります。",
+          "alt": "内容3 - if塾が重視する「構造的思考力」"
         },
         {
           "page_number": 5,
@@ -228,21 +230,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "アプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "yamazaki_takumi",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-02-28T13:41:51",
+      "research_date": "2026-02-28T20:25:48",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIを部下にするな。2026年の「自走型",
+        "cover_text": "AIは「使う」から「作る」へ。2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIを部下にするな。2026年の「自走型学習」最前線",
-            "subtext": "2026年2月・if塾活動レポート",
+            "headline": "AIは「使う」から「作る」へ。2026年最新ハッカソン報告",
+            "subtext": "【2026.02.28】Manus AI×Difyで変わる学びの形",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -266,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「答え」を検索する時代は終わった。",
-            "subtext": "2月、受験や新学年準備が本格化する中で、多くの学生が「効率的な解き方」を求めすぎて、自ら考える力を失いつつあります。",
+            "headline": "「AIに使われる側」で終わっていませんか？",
+            "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは、もう差がつかない時代です。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -275,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "「思考のパートナー」としての対話型AI",
-            "subtext": "if塾の生徒たちは、最新のマルチモーダルAIを「家庭教師」ではなく「議論相手」として活用。自らの仮説をぶつけ、論理の穴を特定しています。",
+            "headline": "中高生がManus AIで自律型エージェントを構築",
+            "subtext": "最新のManus AIとDifyを組み合わせ、複雑なタスクを自動実行するオリジナルAIを数時間で完成させました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -284,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提唱する「プロンプトレス」な学び",
-            "subtext": "特定の指示文を覚えるのではなく、AIとの対話を通じて「自分の脳をどう動かすか」を言語化する。これが2026年の本質的な学力です。",
+            "headline": "if塾が重視する「構造的思考力」",
+            "subtext": "ツールが進化するほど、何を解決したいかという『問いを立てる力』とロジックを組む力が重要になります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
