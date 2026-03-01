@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 52,
-    "last_updated": "2026-02-28T20:27:17.259495",
+    "total_posts": 53,
+    "last_updated": "2026-03-01T11:14:53.323609",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260301_activity",
+      "post_id": "20260301_activity",
+      "created_at": "2026-03-01T11:14:53",
+      "datetime": "2026-03-01T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+      "caption": "【2026年3月】最新の学びの現場からお届けします！\n\n「プログラミング＝コードを書くこと」という常識が、2026年、ついに完全に塗り替えられました。\n\n今、if塾の生徒たちが熱中しているのは、生成AIを駆使した『0コード・プロトタイピング』。以前なら数週間かかったアプリの試作が、AIとの対話によってわずか数分で完了します。\n\nこのスピード感こそが、これからの時代に求められる「創造のサイクル」です。\nコードの書き方で立ち止まる時間はもうありません。\n「どんな課題を解決したいか？」「どんな価値を届けたいか？」\nそんな本質的なクリエイティビティを、if塾は全力でサポートします。\n\n新学期を前に、一歩先のテクノロジーに触れてみませんか？\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年3月】最新の学びの現場からお届けします！\n\n「プログラミング＝コードを書くこと」という常識が、2026年、ついに完全に塗り替えられました。\n\n今、if塾の生徒たちが熱中しているのは、生成AIを駆使した『0コード・プロトタイピング』。以前なら数週間かかったアプリの試作が、AIとの対話によってわずか数分で完了します。\n\nこのスピード感こそが、これからの時代に求められる「創造のサイクル」です。\nコードの書き方で立ち止まる時間はもうありません。\n「どんな課題を解決したいか？」「どんな価値を届けたいか？」\nそんな本質的なクリエイティビティを、if塾は全力でサポートします。\n\n新学期を前に、一歩先のテクノロジーに触れてみませんか？\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#プログラミング教育",
+        "#ノーコード",
+        "#0コード",
+        "#プロトタイピング",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "sub_title": "2026年3月最新版：if塾の活動報告",
+          "text_content": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-01.png",
+          "image_file": "assets/img/posts/20260301_activity-01.png",
+          "overlay_text": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "subtext": "2026年3月最新版：if塾の活動報告",
+          "alt": "表紙 - コード不要の時代が到来！0コード・プロト"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が「コード」で止まっていませんか？",
+          "sub_title": "春休みの自由研究や進級制作を前に、アイデアはあるけれど実装に時間がかかりすぎる。そんな学生や保護者の悩みが急増しています。",
+          "text_content": "「やりたい」が「コード」で止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-02.png",
+          "image_file": "assets/img/posts/20260301_activity-02.png",
+          "overlay_text": "「やりたい」が「コード」で止まっていませんか？",
+          "subtext": "春休みの自由研究や進級制作を前に、アイデアはあるけれど実装に時間がかかりすぎる。そんな学生や保護者の悩みが急増しています。",
+          "alt": "内容1 - 「やりたい」が「コード」で止まっていませ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIエージェントで、対話するだけでアプリが完成",
+          "sub_title": "2026年現在の授業では、AIと会話しながら即座に動く試作を作る『0コード・プロトタイピング』を導入。生徒たちは1コマで独自のアプリを形にしています。",
+          "text_content": "最新AIエージェントで、対話するだけでアプリが完成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-03.png",
+          "image_file": "assets/img/posts/20260301_activity-03.png",
+          "overlay_text": "最新AIエージェントで、対話するだけでアプリが完成",
+          "subtext": "2026年現在の授業では、AIと会話しながら即座に動く試作を作る『0コード・プロトタイピング』を導入。生徒たちは1コマで独自のアプリを形にしています。",
+          "alt": "内容2 - 最新AIエージェントで、対話するだけでア"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「書くこと」ではなく「創ること」",
+          "sub_title": "if塾では、構文の暗記ではなくAIを使いこなす「設計力」と「課題解決力」を重視。技術の進化に合わせて、学ぶべきスキルの定義をアップデートしています。",
+          "text_content": "大切なのは「書くこと」ではなく「創ること」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-04.png",
+          "image_file": "assets/img/posts/20260301_activity-04.png",
+          "overlay_text": "大切なのは「書くこと」ではなく「創ること」",
+          "subtext": "if塾では、構文の暗記ではなくAIを使いこなす「設計力」と「課題解決力」を重視。技術の進化に合わせて、学ぶべきスキルの定義をアップデートしています。",
+          "alt": "内容3 - 大切なのは「書くこと」ではなく「創ること"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "sub_title": "2026年3月最新版：if塾の活動報告",
+          "text_content": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-01.png",
+          "image_file": "assets/img/posts/20260301_activity-01.png",
+          "overlay_text": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+          "subtext": "2026年3月最新版：if塾の活動報告",
+          "alt": "表紙 - コード不要の時代が到来！0コード・プロト"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が「コード」で止まっていませんか？",
+          "sub_title": "春休みの自由研究や進級制作を前に、アイデアはあるけれど実装に時間がかかりすぎる。そんな学生や保護者の悩みが急増しています。",
+          "text_content": "「やりたい」が「コード」で止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-02.png",
+          "image_file": "assets/img/posts/20260301_activity-02.png",
+          "overlay_text": "「やりたい」が「コード」で止まっていませんか？",
+          "subtext": "春休みの自由研究や進級制作を前に、アイデアはあるけれど実装に時間がかかりすぎる。そんな学生や保護者の悩みが急増しています。",
+          "alt": "内容1 - 「やりたい」が「コード」で止まっていませ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIエージェントで、対話するだけでアプリが完成",
+          "sub_title": "2026年現在の授業では、AIと会話しながら即座に動く試作を作る『0コード・プロトタイピング』を導入。生徒たちは1コマで独自のアプリを形にしています。",
+          "text_content": "最新AIエージェントで、対話するだけでアプリが完成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-03.png",
+          "image_file": "assets/img/posts/20260301_activity-03.png",
+          "overlay_text": "最新AIエージェントで、対話するだけでアプリが完成",
+          "subtext": "2026年現在の授業では、AIと会話しながら即座に動く試作を作る『0コード・プロトタイピング』を導入。生徒たちは1コマで独自のアプリを形にしています。",
+          "alt": "内容2 - 最新AIエージェントで、対話するだけでア"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「書くこと」ではなく「創ること」",
+          "sub_title": "if塾では、構文の暗記ではなくAIを使いこなす「設計力」と「課題解決力」を重視。技術の進化に合わせて、学ぶべきスキルの定義をアップデートしています。",
+          "text_content": "大切なのは「書くこと」ではなく「創ること」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260301_activity-04.png",
+          "image_file": "assets/img/posts/20260301_activity-04.png",
+          "overlay_text": "大切なのは「書くこと」ではなく「創ること」",
+          "subtext": "if塾では、構文の暗記ではなくAIを使いこなす「設計力」と「課題解決力」を重視。技術の進化に合わせて、学ぶべきスキルの定義をアップデートしています。",
+          "alt": "内容3 - 大切なのは「書くこと」ではなく「創ること"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260301_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260301_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260301_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260301_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-01T11:13:24",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コード不要の時代が到来！0コード・プロト",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コード不要の時代が到来！0コード・プロトタイピングの衝撃",
+            "subtext": "2026年3月最新版：if塾の活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」が「コード」で止まっていませんか？",
+            "subtext": "春休みの自由研究や進級制作を前に、アイデアはあるけれど実装に時間がかかりすぎる。そんな学生や保護者の悩みが急増しています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新AIエージェントで、対話するだけでアプリが完成",
+            "subtext": "2026年現在の授業では、AIと会話しながら即座に動く試作を作る『0コード・プロトタイピング』を導入。生徒たちは1コマで独自のアプリを形にしています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「書くこと」ではなく「創ること」",
+            "subtext": "if塾では、構文の暗記ではなくAIを使いこなす「設計力」と「課題解決力」を重視。技術の進化に合わせて、学ぶべきスキルの定義をアップデートしています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260228_activity",
       "post_id": "20260228_activity",
