@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 56,
-    "last_updated": "2026-03-04T13:57:14.082827",
+    "last_updated": "2026-03-04T20:38:33.192942",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260304_development",
       "post_id": "20260304_development",
-      "created_at": "2026-03-04T13:57:14",
+      "created_at": "2026-03-04T20:38:33",
       "datetime": "2026-03-04T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+      "theme": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
       "target_audience": "Students & Parents",
-      "title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-      "caption": "【2026年3月】最新のAIトレンドをチェック！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みはもう過去のものです。\n\n2026年現在、開発の主流は「自律型AIエージェント」へと完全に移行しました。これまでの「1から10まで指示する」スタイルから、「目標（ゴール）を共有する」スタイルへ。\n\n新学期を控えたこの時期、学生も保護者も「AIを使いこなす側」から「AIをデザインする側」へステップアップするチャンスです！\n\nif塾では、最新の自律型フレームワークを取り入れた開発カリキュラムを展開中。自分だけの「自律型AI」を作って、圧倒的な生産性を手に入れましょう！\n\n詳細はプロフィール欄のリンクから✨",
-      "caption_text": "【2026年3月】最新のAIトレンドをチェック！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みはもう過去のものです。\n\n2026年現在、開発の主流は「自律型AIエージェント」へと完全に移行しました。これまでの「1から10まで指示する」スタイルから、「目標（ゴール）を共有する」スタイルへ。\n\n新学期を控えたこの時期、学生も保護者も「AIを使いこなす側」から「AIをデザインする側」へステップアップするチャンスです！\n\nif塾では、最新の自律型フレームワークを取り入れた開発カリキュラムを展開中。自分だけの「自律型AI」を作って、圧倒的な生産性を手に入れましょう！\n\n詳細はプロフィール欄のリンクから✨",
+      "title": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+      "caption": "【2026年3月】最新の開発トピックをお届けします！\n\n新学期を目前に控え、AIの活用ステージが大きく進化しています。\nこれまでは「正しい指示（プロンプト）」を出すことが重要でしたが、2026年の今、注目されているのは「自律型AIエージェント」です。\n\n「何をしてほしいか」ではなく「何を達成したいか」を伝えるだけで、AIが自ら推論し、試行錯誤しながらゴールへ向かいます。\n\nif塾では、この最新技術をいち早く学習カリキュラムに導入。\n子供たちがAIを道具として使うだけでなく、目的を持ってプロジェクトを動かす「リーダーシップ」を養う環境を提供しています。\n\nこの春、あなたも次世代のクリエイションを体験してみませんか？\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年3月】最新の開発トピックをお届けします！\n\n新学期を目前に控え、AIの活用ステージが大きく進化しています。\nこれまでは「正しい指示（プロンプト）」を出すことが重要でしたが、2026年の今、注目されているのは「自律型AIエージェント」です。\n\n「何をしてほしいか」ではなく「何を達成したいか」を伝えるだけで、AIが自ら推論し、試行錯誤しながらゴールへ向かいます。\n\nif塾では、この最新技術をいち早く学習カリキュラムに導入。\n子供たちがAIを道具として使うだけでなく、目的を持ってプロジェクトを動かす「リーダーシップ」を養う環境を提供しています。\n\nこの春、あなたも次世代のクリエイションを体験してみませんか？\n詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
         "#自律型AI",
-        "#プログラミング学習",
-        "#最新技術",
-        "#自由研究",
-        "#AI開発"
+        "#AIエージェント",
+        "#次世代教育",
+        "#AI開発",
+        "#最新テクノロジー",
+        "#春休み"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-          "sub_title": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
-          "text_content": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "main_title": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+          "sub_title": "2026年3月最新：if塾の開発レポート",
+          "text_content": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-01.png",
           "image_file": "assets/img/posts/20260304_development-01.png",
-          "overlay_text": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-          "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
-          "alt": "表紙 - 指示待ちは終了！自律型AIエージェントが"
+          "overlay_text": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+          "subtext": "2026年3月最新：if塾の開発レポート",
+          "alt": "表紙 - 指示待ちはもう終わり。自ら考え動く「自律"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIへの細かな指示」に疲れていませんか？",
-          "sub_title": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
-          "text_content": "「AIへの細かな指示」に疲れていませんか？",
+          "main_title": "プロンプト疲れしていませんか？",
+          "sub_title": "「どう指示すればいいかわからない」という悩みは、AIが目的を推論する時代へ。進級・進学を控えた今、ツール選びの基準が変わります。",
+          "text_content": "プロンプト疲れしていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-02.png",
           "image_file": "assets/img/posts/20260304_development-02.png",
-          "overlay_text": "「AIへの細かな指示」に疲れていませんか？",
-          "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
-          "alt": "内容1 - 「AIへの細かな指示」に疲れていませんか"
+          "overlay_text": "プロンプト疲れしていませんか？",
+          "subtext": "「どう指示すればいいかわからない」という悩みは、AIが目的を推論する時代へ。進級・進学を控えた今、ツール選びの基準が変わります。",
+          "alt": "内容1 - プロンプト疲れしていませんか？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "開発トレンドは「自律実行（Autonomous）」へ",
-          "sub_title": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
-          "text_content": "開発トレンドは「自律実行（Autonomous）」へ",
+          "main_title": "「タスク」ではなく「目的」を渡すだけ",
+          "sub_title": "2026年の主流は自律型エージェント。目標を設定すれば、AIが自ら計画を立て、必要なツールを使いこなし、成果物まで完結させます。",
+          "text_content": "「タスク」ではなく「目的」を渡すだけ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-03.png",
           "image_file": "assets/img/posts/20260304_development-03.png",
-          "overlay_text": "開発トレンドは「自律実行（Autonomous）」へ",
-          "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
-          "alt": "内容2 - 開発トレンドは「自律実行（Autonom"
+          "overlay_text": "「タスク」ではなく「目的」を渡すだけ",
+          "subtext": "2026年の主流は自律型エージェント。目標を設定すれば、AIが自ら計画を立て、必要なツールを使いこなし、成果物まで完結させます。",
+          "alt": "内容2 - 「タスク」ではなく「目的」を渡すだけ"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "春休みから始める「AI部下」の育て方",
-          "sub_title": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
-          "text_content": "春休みから始める「AI部下」の育て方",
+          "main_title": "if塾生はAIを「部下」ではなく「相棒」に",
+          "sub_title": "春休みの自由研究や学習計画もAIと共創。指示を待つ側から、AIをマネジメントする側へ。この春、圧倒的な生産性の差が生まれます。",
+          "text_content": "if塾生はAIを「部下」ではなく「相棒」に",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-04.png",
           "image_file": "assets/img/posts/20260304_development-04.png",
-          "overlay_text": "春休みから始める「AI部下」の育て方",
-          "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
-          "alt": "内容3 - 春休みから始める「AI部下」の育て方"
+          "overlay_text": "if塾生はAIを「部下」ではなく「相棒」に",
+          "subtext": "春休みの自由研究や学習計画もAIと共創。指示を待つ側から、AIをマネジメントする側へ。この春、圧倒的な生産性の差が生まれます。",
+          "alt": "内容3 - if塾生はAIを「部下」ではなく「相棒」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-          "sub_title": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
-          "text_content": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "main_title": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+          "sub_title": "2026年3月最新：if塾の開発レポート",
+          "text_content": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-01.png",
           "image_file": "assets/img/posts/20260304_development-01.png",
-          "overlay_text": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-          "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
-          "alt": "表紙 - 指示待ちは終了！自律型AIエージェントが"
+          "overlay_text": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+          "subtext": "2026年3月最新：if塾の開発レポート",
+          "alt": "表紙 - 指示待ちはもう終わり。自ら考え動く「自律"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIへの細かな指示」に疲れていませんか？",
-          "sub_title": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
-          "text_content": "「AIへの細かな指示」に疲れていませんか？",
+          "main_title": "プロンプト疲れしていませんか？",
+          "sub_title": "「どう指示すればいいかわからない」という悩みは、AIが目的を推論する時代へ。進級・進学を控えた今、ツール選びの基準が変わります。",
+          "text_content": "プロンプト疲れしていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-02.png",
           "image_file": "assets/img/posts/20260304_development-02.png",
-          "overlay_text": "「AIへの細かな指示」に疲れていませんか？",
-          "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
-          "alt": "内容1 - 「AIへの細かな指示」に疲れていませんか"
+          "overlay_text": "プロンプト疲れしていませんか？",
+          "subtext": "「どう指示すればいいかわからない」という悩みは、AIが目的を推論する時代へ。進級・進学を控えた今、ツール選びの基準が変わります。",
+          "alt": "内容1 - プロンプト疲れしていませんか？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "開発トレンドは「自律実行（Autonomous）」へ",
-          "sub_title": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
-          "text_content": "開発トレンドは「自律実行（Autonomous）」へ",
+          "main_title": "「タスク」ではなく「目的」を渡すだけ",
+          "sub_title": "2026年の主流は自律型エージェント。目標を設定すれば、AIが自ら計画を立て、必要なツールを使いこなし、成果物まで完結させます。",
+          "text_content": "「タスク」ではなく「目的」を渡すだけ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-03.png",
           "image_file": "assets/img/posts/20260304_development-03.png",
-          "overlay_text": "開発トレンドは「自律実行（Autonomous）」へ",
-          "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
-          "alt": "内容2 - 開発トレンドは「自律実行（Autonom"
+          "overlay_text": "「タスク」ではなく「目的」を渡すだけ",
+          "subtext": "2026年の主流は自律型エージェント。目標を設定すれば、AIが自ら計画を立て、必要なツールを使いこなし、成果物まで完結させます。",
+          "alt": "内容2 - 「タスク」ではなく「目的」を渡すだけ"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "春休みから始める「AI部下」の育て方",
-          "sub_title": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
-          "text_content": "春休みから始める「AI部下」の育て方",
+          "main_title": "if塾生はAIを「部下」ではなく「相棒」に",
+          "sub_title": "春休みの自由研究や学習計画もAIと共創。指示を待つ側から、AIをマネジメントする側へ。この春、圧倒的な生産性の差が生まれます。",
+          "text_content": "if塾生はAIを「部下」ではなく「相棒」に",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-04.png",
           "image_file": "assets/img/posts/20260304_development-04.png",
-          "overlay_text": "春休みから始める「AI部下」の育て方",
-          "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
-          "alt": "内容3 - 春休みから始める「AI部下」の育て方"
+          "overlay_text": "if塾生はAIを「部下」ではなく「相棒」に",
+          "subtext": "春休みの自由研究や学習計画もAIと共創。指示を待つ側から、AIをマネジメントする側へ。この春、圧倒的な生産性の差が生まれます。",
+          "alt": "内容3 - if塾生はAIを「部下」ではなく「相棒」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "ロボット"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-04T13:55:42",
+      "research_date": "2026-03-04T20:36:54",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "指示待ちは終了！自律型AIエージェントが",
+        "cover_text": "指示待ちはもう終わり。自ら考え動く「自律",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
-            "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
+            "headline": "指示待ちはもう終わり。自ら考え動く「自律型AI」が教育を変える",
+            "subtext": "2026年3月最新：if塾の開発レポート",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIへの細かな指示」に疲れていませんか？",
-            "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
+            "headline": "プロンプト疲れしていませんか？",
+            "subtext": "「どう指示すればいいかわからない」という悩みは、AIが目的を推論する時代へ。進級・進学を控えた今、ツール選びの基準が変わります。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "開発トレンドは「自律実行（Autonomous）」へ",
-            "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
+            "headline": "「タスク」ではなく「目的」を渡すだけ",
+            "subtext": "2026年の主流は自律型エージェント。目標を設定すれば、AIが自ら計画を立て、必要なツールを使いこなし、成果物まで完結させます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "春休みから始める「AI部下」の育て方",
-            "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
+            "headline": "if塾生はAIを「部下」ではなく「相棒」に",
+            "subtext": "春休みの自由研究や学習計画もAIと共創。指示を待つ側から、AIをマネジメントする側へ。この春、圧倒的な生産性の差が生まれます。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
