@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 56,
-    "last_updated": "2026-03-04T11:01:46.053130",
+    "last_updated": "2026-03-04T13:57:14.082827",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260304_development",
       "post_id": "20260304_development",
-      "created_at": "2026-03-04T11:01:46",
+      "created_at": "2026-03-04T13:57:14",
       "datetime": "2026-03-04T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
+      "theme": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
       "target_audience": "Students & Parents",
-      "title": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-      "caption": "【2026年3月】最新の開発トレンドをお届け！\n\n皆さん「Vibe Coding（バイブコーディング）」という言葉を知っていますか？\n2026年現在、プログラミングは「書くもの」から「対話して形にするもの」へと完全にシフトしました。\n\n春休み、新しいことに挑戦したい学生の皆さんや、お子様の将来を考える保護者の皆様へ。\n文法を覚える時間を、アイデアを練る時間に変えられるのがこの技術の魅力です。\n\nif塾では最新のAIツールを駆使し、初心者でも即座にアプリを公開できるスキルを伝授しています。\n乗り遅れる前に、新しい時代の「創り方」を体験してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年3月】最新の開発トレンドをお届け！\n\n皆さん「Vibe Coding（バイブコーディング）」という言葉を知っていますか？\n2026年現在、プログラミングは「書くもの」から「対話して形にするもの」へと完全にシフトしました。\n\n春休み、新しいことに挑戦したい学生の皆さんや、お子様の将来を考える保護者の皆様へ。\n文法を覚える時間を、アイデアを練る時間に変えられるのがこの技術の魅力です。\n\nif塾では最新のAIツールを駆使し、初心者でも即座にアプリを公開できるスキルを伝授しています。\n乗り遅れる前に、新しい時代の「創り方」を体験してみませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+      "caption": "【2026年3月】最新のAIトレンドをチェック！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みはもう過去のものです。\n\n2026年現在、開発の主流は「自律型AIエージェント」へと完全に移行しました。これまでの「1から10まで指示する」スタイルから、「目標（ゴール）を共有する」スタイルへ。\n\n新学期を控えたこの時期、学生も保護者も「AIを使いこなす側」から「AIをデザインする側」へステップアップするチャンスです！\n\nif塾では、最新の自律型フレームワークを取り入れた開発カリキュラムを展開中。自分だけの「自律型AI」を作って、圧倒的な生産性を手に入れましょう！\n\n詳細はプロフィール欄のリンクから✨",
+      "caption_text": "【2026年3月】最新のAIトレンドをチェック！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みはもう過去のものです。\n\n2026年現在、開発の主流は「自律型AIエージェント」へと完全に移行しました。これまでの「1から10まで指示する」スタイルから、「目標（ゴール）を共有する」スタイルへ。\n\n新学期を控えたこの時期、学生も保護者も「AIを使いこなす側」から「AIをデザインする側」へステップアップするチャンスです！\n\nif塾では、最新の自律型フレームワークを取り入れた開発カリキュラムを展開中。自分だけの「自律型AI」を作って、圧倒的な生産性を手に入れましょう！\n\n詳細はプロフィール欄のリンクから✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#VibeCoding",
-        "#バイブコーディング",
-        "#最新技術",
+        "#AIエージェント",
+        "#自律型AI",
         "#プログラミング学習",
-        "#AI開発",
-        "#春休みの過ごし方"
+        "#最新技術",
+        "#自由研究",
+        "#AI開発"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-          "sub_title": "3月の進級・進学前に知っておきたい開発の常識",
-          "text_content": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
+          "main_title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "sub_title": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
+          "text_content": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-01.png",
           "image_file": "assets/img/posts/20260304_development-01.png",
-          "overlay_text": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-          "subtext": "3月の進級・進学前に知っておきたい開発の常識",
-          "alt": "表紙 - コード不要の時代へ。2026年最新『Vi"
+          "overlay_text": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
+          "alt": "表紙 - 指示待ちは終了！自律型AIエージェントが"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」で挫折していませんか？",
-          "sub_title": "文法ミスで動かない、何から書けばいいか分からない…そんな悩みは2025年までの過去のものです。",
-          "text_content": "「プログラミング＝暗記」で挫折していませんか？",
+          "main_title": "「AIへの細かな指示」に疲れていませんか？",
+          "sub_title": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
+          "text_content": "「AIへの細かな指示」に疲れていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-02.png",
           "image_file": "assets/img/posts/20260304_development-02.png",
-          "overlay_text": "「プログラミング＝暗記」で挫折していませんか？",
-          "subtext": "文法ミスで動かない、何から書けばいいか分からない…そんな悩みは2025年までの過去のものです。",
-          "alt": "内容1 - 「プログラミング＝暗記」で挫折していませ"
+          "overlay_text": "「AIへの細かな指示」に疲れていませんか？",
+          "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
+          "alt": "内容1 - 「AIへの細かな指示」に疲れていませんか"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "会話だけでアプリが完成。AIと共鳴する新スタイル",
-          "sub_title": "最新のAIモデルと『Cursor V3』等のツールを使い、曖昧な指示（バイブス）から高品質なコードを自動生成します。",
-          "text_content": "会話だけでアプリが完成。AIと共鳴する新スタイル",
+          "main_title": "開発トレンドは「自律実行（Autonomous）」へ",
+          "sub_title": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
+          "text_content": "開発トレンドは「自律実行（Autonomous）」へ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-03.png",
           "image_file": "assets/img/posts/20260304_development-03.png",
-          "overlay_text": "会話だけでアプリが完成。AIと共鳴する新スタイル",
-          "subtext": "最新のAIモデルと『Cursor V3』等のツールを使い、曖昧な指示（バイブス）から高品質なコードを自動生成します。",
-          "alt": "内容2 - 会話だけでアプリが完成。AIと共鳴する新"
+          "overlay_text": "開発トレンドは「自律実行（Autonomous）」へ",
+          "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
+          "alt": "内容2 - 開発トレンドは「自律実行（Autonom"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
-          "sub_title": "春休みの自由研究やポートフォリオ制作も、この手法なら1日で完結。技術の壁を超えて創造力に集中できます。",
-          "text_content": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
+          "main_title": "春休みから始める「AI部下」の育て方",
+          "sub_title": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
+          "text_content": "春休みから始める「AI部下」の育て方",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-04.png",
           "image_file": "assets/img/posts/20260304_development-04.png",
-          "overlay_text": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
-          "subtext": "春休みの自由研究やポートフォリオ制作も、この手法なら1日で完結。技術の壁を超えて創造力に集中できます。",
-          "alt": "内容3 - 【if塾の視点】「何を書きたいか」より「"
+          "overlay_text": "春休みから始める「AI部下」の育て方",
+          "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
+          "alt": "内容3 - 春休みから始める「AI部下」の育て方"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-          "sub_title": "3月の進級・進学前に知っておきたい開発の常識",
-          "text_content": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
+          "main_title": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "sub_title": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
+          "text_content": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-01.png",
           "image_file": "assets/img/posts/20260304_development-01.png",
-          "overlay_text": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-          "subtext": "3月の進級・進学前に知っておきたい開発の常識",
-          "alt": "表紙 - コード不要の時代へ。2026年最新『Vi"
+          "overlay_text": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+          "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
+          "alt": "表紙 - 指示待ちは終了！自律型AIエージェントが"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」で挫折していませんか？",
-          "sub_title": "文法ミスで動かない、何から書けばいいか分からない…そんな悩みは2025年までの過去のものです。",
-          "text_content": "「プログラミング＝暗記」で挫折していませんか？",
+          "main_title": "「AIへの細かな指示」に疲れていませんか？",
+          "sub_title": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
+          "text_content": "「AIへの細かな指示」に疲れていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-02.png",
           "image_file": "assets/img/posts/20260304_development-02.png",
-          "overlay_text": "「プログラミング＝暗記」で挫折していませんか？",
-          "subtext": "文法ミスで動かない、何から書けばいいか分からない…そんな悩みは2025年までの過去のものです。",
-          "alt": "内容1 - 「プログラミング＝暗記」で挫折していませ"
+          "overlay_text": "「AIへの細かな指示」に疲れていませんか？",
+          "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
+          "alt": "内容1 - 「AIへの細かな指示」に疲れていませんか"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "会話だけでアプリが完成。AIと共鳴する新スタイル",
-          "sub_title": "最新のAIモデルと『Cursor V3』等のツールを使い、曖昧な指示（バイブス）から高品質なコードを自動生成します。",
-          "text_content": "会話だけでアプリが完成。AIと共鳴する新スタイル",
+          "main_title": "開発トレンドは「自律実行（Autonomous）」へ",
+          "sub_title": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
+          "text_content": "開発トレンドは「自律実行（Autonomous）」へ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-03.png",
           "image_file": "assets/img/posts/20260304_development-03.png",
-          "overlay_text": "会話だけでアプリが完成。AIと共鳴する新スタイル",
-          "subtext": "最新のAIモデルと『Cursor V3』等のツールを使い、曖昧な指示（バイブス）から高品質なコードを自動生成します。",
-          "alt": "内容2 - 会話だけでアプリが完成。AIと共鳴する新"
+          "overlay_text": "開発トレンドは「自律実行（Autonomous）」へ",
+          "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
+          "alt": "内容2 - 開発トレンドは「自律実行（Autonom"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
-          "sub_title": "春休みの自由研究やポートフォリオ制作も、この手法なら1日で完結。技術の壁を超えて創造力に集中できます。",
-          "text_content": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
+          "main_title": "春休みから始める「AI部下」の育て方",
+          "sub_title": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
+          "text_content": "春休みから始める「AI部下」の育て方",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260304_development-04.png",
           "image_file": "assets/img/posts/20260304_development-04.png",
-          "overlay_text": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
-          "subtext": "春休みの自由研究やポートフォリオ制作も、この手法なら1日で完結。技術の壁を超えて創造力に集中できます。",
-          "alt": "内容3 - 【if塾の視点】「何を書きたいか」より「"
+          "overlay_text": "春休みから始める「AI部下」の育て方",
+          "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
+          "alt": "内容3 - 春休みから始める「AI部下」の育て方"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "アプリ開発"
+          "デザイン"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-04T11:00:04",
+      "research_date": "2026-03-04T13:55:42",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コード不要の時代へ。2026年最新『Vi",
+        "cover_text": "指示待ちは終了！自律型AIエージェントが",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コード不要の時代へ。2026年最新『Vibe Coding』が凄すぎる！",
-            "subtext": "3月の進級・進学前に知っておきたい開発の常識",
+            "headline": "指示待ちは終了！自律型AIエージェントが変える2026年の新常識",
+            "subtext": "【2026年3月最新版】目標を伝えるだけでタスク完遂",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミング＝暗記」で挫折していませんか？",
-            "subtext": "文法ミスで動かない、何から書けばいいか分からない…そんな悩みは2025年までの過去のものです。",
+            "headline": "「AIへの細かな指示」に疲れていませんか？",
+            "subtext": "これまではプロンプトの微調整が必要でしたが、2026年の今は『目的』を伝えるだけでAIが自分で考えて動く時代です。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "会話だけでアプリが完成。AIと共鳴する新スタイル",
-            "subtext": "最新のAIモデルと『Cursor V3』等のツールを使い、曖昧な指示（バイブス）から高品質なコードを自動生成します。",
+            "headline": "開発トレンドは「自律実行（Autonomous）」へ",
+            "subtext": "最新のAIエージェントは、目標から逆算してタスクを分割し、必要なツールを自ら選んで実行。人間は最終確認をするだけです。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "【if塾の視点】「何を書きたいか」より「何を作りたいか」",
-            "subtext": "春休みの自由研究やポートフォリオ制作も、この手法なら1日で完結。技術の壁を超えて創造力に集中できます。",
+            "headline": "春休みから始める「AI部下」の育て方",
+            "subtext": "if塾では、単なるコード作成ではなく、AIを『自律的に動かす仕組み』を構築。新学期までに自分専用の最強アシスタントを完成させよう！",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
