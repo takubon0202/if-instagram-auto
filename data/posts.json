@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 56,
-    "last_updated": "2026-03-04T20:38:33.192942",
+    "total_posts": 57,
+    "last_updated": "2026-03-05T11:05:00.348454",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260305_ai_column",
+      "post_id": "20260305_ai_column",
+      "created_at": "2026-03-05T11:05:00",
+      "datetime": "2026-03-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "【衝撃】GPT-5.3 Instant遂に登場！",
+      "target_audience": "Students & Parents",
+      "title": "【衝撃】GPT-5.3 Instant遂に登場！",
+      "caption": "【2026年3月】ついにAIは「考える時間」すら超越しました。\n\n本日リリースされたOpenAIの最新モデル『GPT-5.3 Instant』。\n今回のアップデートの目玉は、何といっても「レスポンス速度」と「正確性」の劇的な向上です。\n\nこれまでのAIは、複雑な質問に対して数秒の沈黙がありましたが、5.3 Instantは人間が相槌を打つのと同じ速度で反応します。\n\n特に新学期を控えた学生の皆さんにとって、この「ハルシネーション（もっともらしい嘘）の抑制」は最大の武器になります。\nわからない問題を質問しても、誤情報に惑わされるリスクが激減しました。\n\nif塾では、この最新ツールを「単なる検索」ではなく「思考の壁打ち」として使うことを推奨しています。\n\n最新技術を味方につけて、最高の新学期スタートを切りましょう！\n\n詳細や使い方のコツはプロフィールのリンクから🚀\n\n#if塾 #AI教育 #GPT5 #OpenAI #2026年3月 #最新技術 #AI学習 #教育DX #ハルシネーション抑制",
+      "caption_text": "【2026年3月】ついにAIは「考える時間」すら超越しました。\n\n本日リリースされたOpenAIの最新モデル『GPT-5.3 Instant』。\n今回のアップデートの目玉は、何といっても「レスポンス速度」と「正確性」の劇的な向上です。\n\nこれまでのAIは、複雑な質問に対して数秒の沈黙がありましたが、5.3 Instantは人間が相槌を打つのと同じ速度で反応します。\n\n特に新学期を控えた学生の皆さんにとって、この「ハルシネーション（もっともらしい嘘）の抑制」は最大の武器になります。\nわからない問題を質問しても、誤情報に惑わされるリスクが激減しました。\n\nif塾では、この最新ツールを「単なる検索」ではなく「思考の壁打ち」として使うことを推奨しています。\n\n最新技術を味方につけて、最高の新学期スタートを切りましょう！\n\n詳細や使い方のコツはプロフィールのリンクから🚀\n\n#if塾 #AI教育 #GPT5 #OpenAI #2026年3月 #最新技術 #AI学習 #教育DX #ハルシネーション抑制",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#GPT5",
+        "#最新AI",
+        "#教育改革",
+        "#OpenAI",
+        "#AIコラム"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "sub_title": "2026年3月最新アップデート：日常会話が「人間超え」の速度へ",
+          "text_content": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-01.png",
+          "image_file": "assets/img/posts/20260305_ai_column-01.png",
+          "overlay_text": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "subtext": "2026年3月最新アップデート：日常会話が「人間超え」の速度へ",
+          "alt": "表紙 - 【衝撃】GPT-5.3 Instant遂"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ『待ち時間』でストレス感じてる？",
+          "sub_title": "2026年の学習現場では、AIとの対話速度が成績を左右する時代。従来のモデルで起きていた「微妙な待ち時間」と「情報の不正確さ（ハルシネーション）」が、この春ついに解消されました。",
+          "text_content": "まだ『待ち時間』でストレス感じてる？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-02.png",
+          "image_file": "assets/img/posts/20260305_ai_column-02.png",
+          "overlay_text": "まだ『待ち時間』でストレス感じてる？",
+          "subtext": "2026年の学習現場では、AIとの対話速度が成績を左右する時代。従来のモデルで起きていた「微妙な待ち時間」と「情報の不正確さ（ハルシネーション）」が、この春ついに解消されました。",
+          "alt": "内容1 - まだ『待ち時間』でストレス感じてる？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "爆速レスポンス×嘘をつかないAIへ",
+          "sub_title": "最新の『GPT-5.3 Instant』は、日常会話の応答速度が0.1秒以下に。さらに、受験生が最も恐れる「AIの嘘」を極限まで抑制。まるで隣に家庭教師がいるようなリアルタイム学習が可能になります。",
+          "text_content": "爆速レスポンス×嘘をつかないAIへ",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-03.png",
+          "image_file": "assets/img/posts/20260305_ai_column-03.png",
+          "overlay_text": "爆速レスポンス×嘘をつかないAIへ",
+          "subtext": "最新の『GPT-5.3 Instant』は、日常会話の応答速度が0.1秒以下に。さらに、受験生が最も恐れる「AIの嘘」を極限まで抑制。まるで隣に家庭教師がいるようなリアルタイム学習が可能になります。",
+          "alt": "内容2 - 爆速レスポンス×嘘をつかないAIへ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：新学期に向けた「AI相棒」術",
+          "sub_title": "春休みの復習に最適。あえて『音声モード』でGPT-5.3と議論してください。ハルシネーションが減った今、あなたの論理的思考の矛盾をAIが即座に指摘してくれる「最高のディベート相手」になります。",
+          "text_content": "if塾流：新学期に向けた「AI相棒」術",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-04.png",
+          "image_file": "assets/img/posts/20260305_ai_column-04.png",
+          "overlay_text": "if塾流：新学期に向けた「AI相棒」術",
+          "subtext": "春休みの復習に最適。あえて『音声モード』でGPT-5.3と議論してください。ハルシネーションが減った今、あなたの論理的思考の矛盾をAIが即座に指摘してくれる「最高のディベート相手」になります。",
+          "alt": "内容3 - if塾流：新学期に向けた「AI相棒」術"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "sub_title": "2026年3月最新アップデート：日常会話が「人間超え」の速度へ",
+          "text_content": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-01.png",
+          "image_file": "assets/img/posts/20260305_ai_column-01.png",
+          "overlay_text": "【衝撃】GPT-5.3 Instant遂に登場！",
+          "subtext": "2026年3月最新アップデート：日常会話が「人間超え」の速度へ",
+          "alt": "表紙 - 【衝撃】GPT-5.3 Instant遂"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ『待ち時間』でストレス感じてる？",
+          "sub_title": "2026年の学習現場では、AIとの対話速度が成績を左右する時代。従来のモデルで起きていた「微妙な待ち時間」と「情報の不正確さ（ハルシネーション）」が、この春ついに解消されました。",
+          "text_content": "まだ『待ち時間』でストレス感じてる？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-02.png",
+          "image_file": "assets/img/posts/20260305_ai_column-02.png",
+          "overlay_text": "まだ『待ち時間』でストレス感じてる？",
+          "subtext": "2026年の学習現場では、AIとの対話速度が成績を左右する時代。従来のモデルで起きていた「微妙な待ち時間」と「情報の不正確さ（ハルシネーション）」が、この春ついに解消されました。",
+          "alt": "内容1 - まだ『待ち時間』でストレス感じてる？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "爆速レスポンス×嘘をつかないAIへ",
+          "sub_title": "最新の『GPT-5.3 Instant』は、日常会話の応答速度が0.1秒以下に。さらに、受験生が最も恐れる「AIの嘘」を極限まで抑制。まるで隣に家庭教師がいるようなリアルタイム学習が可能になります。",
+          "text_content": "爆速レスポンス×嘘をつかないAIへ",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-03.png",
+          "image_file": "assets/img/posts/20260305_ai_column-03.png",
+          "overlay_text": "爆速レスポンス×嘘をつかないAIへ",
+          "subtext": "最新の『GPT-5.3 Instant』は、日常会話の応答速度が0.1秒以下に。さらに、受験生が最も恐れる「AIの嘘」を極限まで抑制。まるで隣に家庭教師がいるようなリアルタイム学習が可能になります。",
+          "alt": "内容2 - 爆速レスポンス×嘘をつかないAIへ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：新学期に向けた「AI相棒」術",
+          "sub_title": "春休みの復習に最適。あえて『音声モード』でGPT-5.3と議論してください。ハルシネーションが減った今、あなたの論理的思考の矛盾をAIが即座に指摘してくれる「最高のディベート相手」になります。",
+          "text_content": "if塾流：新学期に向けた「AI相棒」術",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260305_ai_column-04.png",
+          "image_file": "assets/img/posts/20260305_ai_column-04.png",
+          "overlay_text": "if塾流：新学期に向けた「AI相棒」術",
+          "subtext": "春休みの復習に最適。あえて『音声モード』でGPT-5.3と議論してください。ハルシネーションが減った今、あなたの論理的思考の矛盾をAIが即座に指摘してくれる「最高のディベート相手」になります。",
+          "alt": "内容3 - if塾流：新学期に向けた「AI相棒」術"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260305_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260305_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260305_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260305_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-05T11:03:20",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【衝撃】GPT-5.3 Instant遂",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【衝撃】GPT-5.3 Instant遂に登場！",
+            "subtext": "2026年3月最新アップデート：日常会話が「人間超え」の速度へ",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "まだ『待ち時間』でストレス感じてる？",
+            "subtext": "2026年の学習現場では、AIとの対話速度が成績を左右する時代。従来のモデルで起きていた「微妙な待ち時間」と「情報の不正確さ（ハルシネーション）」が、この春ついに解消されました。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "爆速レスポンス×嘘をつかないAIへ",
+            "subtext": "最新の『GPT-5.3 Instant』は、日常会話の応答速度が0.1秒以下に。さらに、受験生が最も恐れる「AIの嘘」を極限まで抑制。まるで隣に家庭教師がいるようなリアルタイム学習が可能になります。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：新学期に向けた「AI相棒」術",
+            "subtext": "春休みの復習に最適。あえて『音声モード』でGPT-5.3と議論してください。ハルシネーションが減った今、あなたの論理的思考の矛盾をAIが即座に指摘してくれる「最高のディベート相手」になります。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260304_development",
       "post_id": "20260304_development",
