@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 57,
-    "last_updated": "2026-03-05T20:41:09.624265",
+    "total_posts": 58,
+    "last_updated": "2026-03-06T11:07:11.242731",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260306_business",
+      "post_id": "20260306_business",
+      "created_at": "2026-03-06T11:07:11",
+      "datetime": "2026-03-06T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+      "target_audience": "Students & Parents",
+      "title": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+      "caption": "【2026年3月】新学期目前！学生の副業スタイルが激変しています。\n\n「バイトが見つからない」「時給が上がらない」と嘆く前に、視点を「地域」と「AI」に向けてみませんか？\n\n今、地方の個人店では、SNS運用やメニュー作成を任せられる「AIに強い若手」を喉から手が出るほど探しています。\n\n2026年の今、必要なのはプログラミングスキルではなく、AIをディレクションして「地域の魅力を形にする力」です。\n\nif塾では、技術だけでなく、地域社会に貢献しながら自立するマインドセットを伝えています。\n\nこれからの時代、あなたのスマホは最高の「地域貢献ツール」になる。一歩踏み出してみませんか？\n\n詳細はプロフィールのリンクをチェック！\n#生成AI #学生副業 #2026年 #if塾 #地方創生 #SNS運用代行",
+      "caption_text": "【2026年3月】新学期目前！学生の副業スタイルが激変しています。\n\n「バイトが見つからない」「時給が上がらない」と嘆く前に、視点を「地域」と「AI」に向けてみませんか？\n\n今、地方の個人店では、SNS運用やメニュー作成を任せられる「AIに強い若手」を喉から手が出るほど探しています。\n\n2026年の今、必要なのはプログラミングスキルではなく、AIをディレクションして「地域の魅力を形にする力」です。\n\nif塾では、技術だけでなく、地域社会に貢献しながら自立するマインドセットを伝えています。\n\nこれからの時代、あなたのスマホは最高の「地域貢献ツール」になる。一歩踏み出してみませんか？\n\n詳細はプロフィールのリンクをチェック！\n#生成AI #学生副業 #2026年 #if塾 #地方創生 #SNS運用代行",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#学生副業",
+        "#地域活性化",
+        "#SNS運用代行",
+        "#リスキリング",
+        "#春休み"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "sub_title": "【2026年3月最新】地方個人店を救う生成AI活用術",
+          "text_content": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-01.png",
+          "image_file": "assets/img/posts/20260306_business-01.png",
+          "overlay_text": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "subtext": "【2026年3月最新】地方個人店を救う生成AI活用術",
+          "alt": "表紙 - 月5万は当たり前？2026年春、学生の副"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "バイト難民になってない？「ただの労働」はもう古い",
+          "sub_title": "2026年、単純作業のバイトは激減。一方、地方の個人店は「SNS発信」と「メニュー更新」に頭を抱えています。スマホ一つで解決できるスキルが今、求められています。",
+          "text_content": "バイト難民になってない？「ただの労働」はもう古い",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-02.png",
+          "image_file": "assets/img/posts/20260306_business-02.png",
+          "overlay_text": "バイト難民になってない？「ただの労働」はもう古い",
+          "subtext": "2026年、単純作業のバイトは激減。一方、地方の個人店は「SNS発信」と「メニュー更新」に頭を抱えています。スマホ一つで解決できるスキルが今、求められています。",
+          "alt": "内容1 - バイト難民になってない？「ただの労働」は"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "sub_title": "最新の動画生成AIでシズル感溢れるリールを5分で制作。メニュー表も『GPT-5(仮)』ベースのDTPツールで、スマホ撮影の写真をプロ級のプロモーション素材へ瞬時に変換します。",
+          "text_content": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-03.png",
+          "image_file": "assets/img/posts/20260306_business-03.png",
+          "overlay_text": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "subtext": "最新の動画生成AIでシズル感溢れるリールを5分で制作。メニュー表も『GPT-5(仮)』ベースのDTPツールで、スマホ撮影の写真をプロ級のプロモーション素材へ瞬時に変換します。",
+          "alt": "内容2 - OpenAI『Sora 2』×マルチモー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIは「道具」、心は「地元愛」",
+          "sub_title": "大切なのはAIを使いこなすことではなく、店主の想いを言語化すること。最新技術で効率化し、浮いた時間で店主と対話する。この『人間味×AI』のハイブリッドこそが高単価の秘訣です。",
+          "text_content": "if塾流：AIは「道具」、心は「地元愛」",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-04.png",
+          "image_file": "assets/img/posts/20260306_business-04.png",
+          "overlay_text": "if塾流：AIは「道具」、心は「地元愛」",
+          "subtext": "大切なのはAIを使いこなすことではなく、店主の想いを言語化すること。最新技術で効率化し、浮いた時間で店主と対話する。この『人間味×AI』のハイブリッドこそが高単価の秘訣です。",
+          "alt": "内容3 - if塾流：AIは「道具」、心は「地元愛」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "sub_title": "【2026年3月最新】地方個人店を救う生成AI活用術",
+          "text_content": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-01.png",
+          "image_file": "assets/img/posts/20260306_business-01.png",
+          "overlay_text": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+          "subtext": "【2026年3月最新】地方個人店を救う生成AI活用術",
+          "alt": "表紙 - 月5万は当たり前？2026年春、学生の副"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "バイト難民になってない？「ただの労働」はもう古い",
+          "sub_title": "2026年、単純作業のバイトは激減。一方、地方の個人店は「SNS発信」と「メニュー更新」に頭を抱えています。スマホ一つで解決できるスキルが今、求められています。",
+          "text_content": "バイト難民になってない？「ただの労働」はもう古い",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-02.png",
+          "image_file": "assets/img/posts/20260306_business-02.png",
+          "overlay_text": "バイト難民になってない？「ただの労働」はもう古い",
+          "subtext": "2026年、単純作業のバイトは激減。一方、地方の個人店は「SNS発信」と「メニュー更新」に頭を抱えています。スマホ一つで解決できるスキルが今、求められています。",
+          "alt": "内容1 - バイト難民になってない？「ただの労働」は"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "sub_title": "最新の動画生成AIでシズル感溢れるリールを5分で制作。メニュー表も『GPT-5(仮)』ベースのDTPツールで、スマホ撮影の写真をプロ級のプロモーション素材へ瞬時に変換します。",
+          "text_content": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-03.png",
+          "image_file": "assets/img/posts/20260306_business-03.png",
+          "overlay_text": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+          "subtext": "最新の動画生成AIでシズル感溢れるリールを5分で制作。メニュー表も『GPT-5(仮)』ベースのDTPツールで、スマホ撮影の写真をプロ級のプロモーション素材へ瞬時に変換します。",
+          "alt": "内容2 - OpenAI『Sora 2』×マルチモー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIは「道具」、心は「地元愛」",
+          "sub_title": "大切なのはAIを使いこなすことではなく、店主の想いを言語化すること。最新技術で効率化し、浮いた時間で店主と対話する。この『人間味×AI』のハイブリッドこそが高単価の秘訣です。",
+          "text_content": "if塾流：AIは「道具」、心は「地元愛」",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260306_business-04.png",
+          "image_file": "assets/img/posts/20260306_business-04.png",
+          "overlay_text": "if塾流：AIは「道具」、心は「地元愛」",
+          "subtext": "大切なのはAIを使いこなすことではなく、店主の想いを言語化すること。最新技術で効率化し、浮いた時間で店主と対話する。この『人間味×AI』のハイブリッドこそが高単価の秘訣です。",
+          "alt": "内容3 - if塾流：AIは「道具」、心は「地元愛」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260306_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260306_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260306_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260306_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-06T11:05:32",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "月5万は当たり前？2026年春、学生の副",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "月5万は当たり前？2026年春、学生の副業は『AI地域支援』が新定番！",
+            "subtext": "【2026年3月最新】地方個人店を救う生成AI活用術",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "バイト難民になってない？「ただの労働」はもう古い",
+            "subtext": "2026年、単純作業のバイトは激減。一方、地方の個人店は「SNS発信」と「メニュー更新」に頭を抱えています。スマホ一つで解決できるスキルが今、求められています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "OpenAI『Sora 2』×マルチモーダルAIで即戦力",
+            "subtext": "最新の動画生成AIでシズル感溢れるリールを5分で制作。メニュー表も『GPT-5(仮)』ベースのDTPツールで、スマホ撮影の写真をプロ級のプロモーション素材へ瞬時に変換します。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIは「道具」、心は「地元愛」",
+            "subtext": "大切なのはAIを使いこなすことではなく、店主の想いを言語化すること。最新技術で効率化し、浮いた時間で店主と対話する。この『人間味×AI』のハイブリッドこそが高単価の秘訣です。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260305_ai_column",
       "post_id": "20260305_ai_column",
