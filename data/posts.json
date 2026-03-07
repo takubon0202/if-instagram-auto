@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 58,
-    "last_updated": "2026-03-06T20:37:35.397895",
+    "total_posts": 59,
+    "last_updated": "2026-03-07T10:57:03.877177",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260307_activity",
+      "post_id": "20260307_activity",
+      "created_at": "2026-03-07T10:57:03",
+      "datetime": "2026-03-07T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+      "caption": "【2026年3月】最新の活動報告をお届けします！\n\n本日、if塾では最新の「バイブコーディング」を導入したワークショップを開催しました。🚀\n\n「バイブコーディング」とは、生成AIとリアルタイムに同期し、対話と感覚（Vibe）でアプリを組み上げていく2026年最先端の開発スタイル。かつて数ヶ月かかった学習工程が、今やわずか数時間に短縮されています。\n\n「プログラミングは難しい」という固定観念が消え、生徒たちは『どんな便利なツールを作ろう？』というクリエイティブな思考に集中しています。\n\n進級・進学を控えたこの時期、if塾では新しい技術をツールとして使いこなし、自らのアイデアを社会に実装できる力を育んでいます。\n\n未来の学びを、今ここから体験しませんか？",
+      "caption_text": "【2026年3月】最新の活動報告をお届けします！\n\n本日、if塾では最新の「バイブコーディング」を導入したワークショップを開催しました。🚀\n\n「バイブコーディング」とは、生成AIとリアルタイムに同期し、対話と感覚（Vibe）でアプリを組み上げていく2026年最先端の開発スタイル。かつて数ヶ月かかった学習工程が、今やわずか数時間に短縮されています。\n\n「プログラミングは難しい」という固定観念が消え、生徒たちは『どんな便利なツールを作ろう？』というクリエイティブな思考に集中しています。\n\n進級・進学を控えたこの時期、if塾では新しい技術をツールとして使いこなし、自らのアイデアを社会に実装できる力を育んでいます。\n\n未来の学びを、今ここから体験しませんか？",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#生成AI",
+        "#プログラミング教育",
+        "#春休みの過ごし方",
+        "#最新テック"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "sub_title": "【2026.03.07 活動報告】最新AI開発の現場から",
+          "text_content": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-01.png",
+          "image_file": "assets/img/posts/20260307_activity-01.png",
+          "overlay_text": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "subtext": "【2026.03.07 活動報告】最新AI開発の現場から",
+          "alt": "表紙 - 初心者が3時間でアプリ完成？2026年流"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードが書けない」はもう過去の話？",
+          "sub_title": "春休みを前に「何か作りたいけど何から始めれば…」と悩む生徒たち。2026年、プログラミングの壁はかつてないほど低くなっています。",
+          "text_content": "「コードが書けない」はもう過去の話？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-02.png",
+          "image_file": "assets/img/posts/20260307_activity-02.png",
+          "overlay_text": "「コードが書けない」はもう過去の話？",
+          "subtext": "春休みを前に「何か作りたいけど何から始めれば…」と悩む生徒たち。2026年、プログラミングの壁はかつてないほど低くなっています。",
+          "alt": "内容1 - 「コードが書けない」はもう過去の話？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "言葉と熱量で形にする新スタイル",
+          "sub_title": "最新のAIエージェントと対話しながら、感覚（バイブス）を形にする開発が定着。中学生が数時間で実用的なSNSアプリを立ち上げました。",
+          "text_content": "言葉と熱量で形にする新スタイル",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-03.png",
+          "image_file": "assets/img/posts/20260307_activity-03.png",
+          "overlay_text": "言葉と熱量で形にする新スタイル",
+          "subtext": "最新のAIエージェントと対話しながら、感覚（バイブス）を形にする開発が定着。中学生が数時間で実用的なSNSアプリを立ち上げました。",
+          "alt": "内容2 - 言葉と熱量で形にする新スタイル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視するのは「意図」の言語化",
+          "sub_title": "AIが書くからこそ、人間には「何を解決したいか」という強い意志が求められます。技術を使いこなすための思考力を養うのが2026年流の学びです。",
+          "text_content": "if塾が重視するのは「意図」の言語化",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-04.png",
+          "image_file": "assets/img/posts/20260307_activity-04.png",
+          "overlay_text": "if塾が重視するのは「意図」の言語化",
+          "subtext": "AIが書くからこそ、人間には「何を解決したいか」という強い意志が求められます。技術を使いこなすための思考力を養うのが2026年流の学びです。",
+          "alt": "内容3 - if塾が重視するのは「意図」の言語化"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "sub_title": "【2026.03.07 活動報告】最新AI開発の現場から",
+          "text_content": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-01.png",
+          "image_file": "assets/img/posts/20260307_activity-01.png",
+          "overlay_text": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+          "subtext": "【2026.03.07 活動報告】最新AI開発の現場から",
+          "alt": "表紙 - 初心者が3時間でアプリ完成？2026年流"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードが書けない」はもう過去の話？",
+          "sub_title": "春休みを前に「何か作りたいけど何から始めれば…」と悩む生徒たち。2026年、プログラミングの壁はかつてないほど低くなっています。",
+          "text_content": "「コードが書けない」はもう過去の話？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-02.png",
+          "image_file": "assets/img/posts/20260307_activity-02.png",
+          "overlay_text": "「コードが書けない」はもう過去の話？",
+          "subtext": "春休みを前に「何か作りたいけど何から始めれば…」と悩む生徒たち。2026年、プログラミングの壁はかつてないほど低くなっています。",
+          "alt": "内容1 - 「コードが書けない」はもう過去の話？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "言葉と熱量で形にする新スタイル",
+          "sub_title": "最新のAIエージェントと対話しながら、感覚（バイブス）を形にする開発が定着。中学生が数時間で実用的なSNSアプリを立ち上げました。",
+          "text_content": "言葉と熱量で形にする新スタイル",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-03.png",
+          "image_file": "assets/img/posts/20260307_activity-03.png",
+          "overlay_text": "言葉と熱量で形にする新スタイル",
+          "subtext": "最新のAIエージェントと対話しながら、感覚（バイブス）を形にする開発が定着。中学生が数時間で実用的なSNSアプリを立ち上げました。",
+          "alt": "内容2 - 言葉と熱量で形にする新スタイル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視するのは「意図」の言語化",
+          "sub_title": "AIが書くからこそ、人間には「何を解決したいか」という強い意志が求められます。技術を使いこなすための思考力を養うのが2026年流の学びです。",
+          "text_content": "if塾が重視するのは「意図」の言語化",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260307_activity-04.png",
+          "image_file": "assets/img/posts/20260307_activity-04.png",
+          "overlay_text": "if塾が重視するのは「意図」の言語化",
+          "subtext": "AIが書くからこそ、人間には「何を解決したいか」という強い意志が求められます。技術を使いこなすための思考力を養うのが2026年流の学びです。",
+          "alt": "内容3 - if塾が重視するのは「意図」の言語化"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260307_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260307_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260307_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260307_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-07T10:55:32",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "初心者が3時間でアプリ完成？2026年流",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "初心者が3時間でアプリ完成？2026年流「バイブコーディング」の衝撃",
+            "subtext": "【2026.03.07 活動報告】最新AI開発の現場から",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「コードが書けない」はもう過去の話？",
+            "subtext": "春休みを前に「何か作りたいけど何から始めれば…」と悩む生徒たち。2026年、プログラミングの壁はかつてないほど低くなっています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "言葉と熱量で形にする新スタイル",
+            "subtext": "最新のAIエージェントと対話しながら、感覚（バイブス）を形にする開発が定着。中学生が数時間で実用的なSNSアプリを立ち上げました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が重視するのは「意図」の言語化",
+            "subtext": "AIが書くからこそ、人間には「何を解決したいか」という強い意志が求められます。技術を使いこなすための思考力を養うのが2026年流の学びです。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260306_business",
       "post_id": "20260306_business",
