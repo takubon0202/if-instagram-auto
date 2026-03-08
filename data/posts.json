@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 60,
-    "last_updated": "2026-03-08T11:06:04.980253",
+    "last_updated": "2026-03-08T13:59:35.890225",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260308_activity",
       "post_id": "20260308_activity",
-      "created_at": "2026-03-08T11:06:04",
+      "created_at": "2026-03-08T13:59:35",
       "datetime": "2026-03-08T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
+      "theme": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
       "target_audience": "Students & Parents",
-      "title": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-      "caption": "【2026年3月】最新の教育現場をお届けします！\n\n今、中高生の開発現場は劇的な変化を遂げています。\nかつては数週間かかっていたアプリ開発が、Manusをはじめとする自律型AIエージェントの登場により、わずか数時間でプロトタイプまで完成する時代になりました。\n\n今月のハッカソンで目立ったのは、技術的な壁にぶつかって諦める生徒がゼロになったこと。\n\n「何を作るか」「誰を幸せにするか」\n\n生徒たちの視点は、より本質的なクリエイティビティへと向いています。\nif塾では、この加速する時代を生き抜くための「AIとの共創スキル」をこれからも伝えていきます。\n\n最新のAI活用授業に興味がある方は、プロフィールから春期講習の詳細をチェック！",
-      "caption_text": "【2026年3月】最新の教育現場をお届けします！\n\n今、中高生の開発現場は劇的な変化を遂げています。\nかつては数週間かかっていたアプリ開発が、Manusをはじめとする自律型AIエージェントの登場により、わずか数時間でプロトタイプまで完成する時代になりました。\n\n今月のハッカソンで目立ったのは、技術的な壁にぶつかって諦める生徒がゼロになったこと。\n\n「何を作るか」「誰を幸せにするか」\n\n生徒たちの視点は、より本質的なクリエイティビティへと向いています。\nif塾では、この加速する時代を生き抜くための「AIとの共創スキル」をこれからも伝えていきます。\n\n最新のAI活用授業に興味がある方は、プロフィールから春期講習の詳細をチェック！",
+      "title": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+      "caption": "【2026年3月】最新の活動報告をお届けします！\n\n本日、if塾では中高生を対象とした「生成AI×メディアリテラシー検証ワークショップ」を開催しました。\n\n2026年現在、AIが生成した動画や画像は、肉眼では判別不可能なレベルに達しています。進級・進学を控えたこの時期、SNSでのトラブルを防ぐために必要なのは「最新の知識」と「疑う技術」です。\n\n生徒たちは、最新のAI解析ツールを使いながら、何が事実で、何が作られたものかを自分たちの目で確かめました。\n\n「今まで信じていたものがAIだったなんて…」と驚く生徒も。この驚きこそが、正しいリテラシーへの第一歩です。\n\nif塾では、AIを怖がるのではなく、賢く使いこなす次世代のリーダーを育成しています。\n\n詳細はプロフィールのリンクから最新の活動ブログをチェック！",
+      "caption_text": "【2026年3月】最新の活動報告をお届けします！\n\n本日、if塾では中高生を対象とした「生成AI×メディアリテラシー検証ワークショップ」を開催しました。\n\n2026年現在、AIが生成した動画や画像は、肉眼では判別不可能なレベルに達しています。進級・進学を控えたこの時期、SNSでのトラブルを防ぐために必要なのは「最新の知識」と「疑う技術」です。\n\n生徒たちは、最新のAI解析ツールを使いながら、何が事実で、何が作られたものかを自分たちの目で確かめました。\n\n「今まで信じていたものがAIだったなんて…」と驚く生徒も。この驚きこそが、正しいリテラシーへの第一歩です。\n\nif塾では、AIを怖がるのではなく、賢く使いこなす次世代のリーダーを育成しています。\n\n詳細はプロフィールのリンクから最新の活動ブログをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#Manus",
-        "#AIエージェント",
-        "#中高生ハッカソン",
-        "#自由研究",
-        "#DX教育",
-        "#最新テック"
+        "#メディアリテラシー",
+        "#中高生教育",
+        "#最新教育トピック",
+        "#AIリテラシー",
+        "#春休みの過ごし方"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-          "sub_title": "AIエージェント「Manus」を使いこなすZ世代の今",
-          "text_content": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
+          "main_title": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+          "sub_title": "【2026.3.8】春休み前の集中ワークショップ密着レポート",
+          "text_content": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-01.png",
           "image_file": "assets/img/posts/20260308_activity-01.png",
-          "overlay_text": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-          "subtext": "AIエージェント「Manus」を使いこなすZ世代の今",
-          "alt": "表紙 - 中高生の創作が爆速化！2026年3月の最"
+          "overlay_text": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+          "subtext": "【2026.3.8】春休み前の集中ワークショップ密着レポート",
+          "alt": "表紙 - AI動画の嘘を見抜け！2026年最新リテ"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」に技術が追いつかない？",
-          "sub_title": "春休みを前に、アイデアはあるけれど実装に時間がかかる…そんな生徒たちの悩み。2026年、その常識が覆されました。",
-          "text_content": "「やりたい」に技術が追いつかない？",
+          "main_title": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
+          "sub_title": "2026年、生成AIは動画の域を超え、個人の声や癖まで完璧に再現。中高生から『どれを信じればいいの？』という不安の声が急増しています。",
+          "text_content": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-02.png",
           "image_file": "assets/img/posts/20260308_activity-02.png",
-          "overlay_text": "「やりたい」に技術が追いつかない？",
-          "subtext": "春休みを前に、アイデアはあるけれど実装に時間がかかる…そんな生徒たちの悩み。2026年、その常識が覆されました。",
-          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
+          "overlay_text": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
+          "subtext": "2026年、生成AIは動画の域を超え、個人の声や癖まで完璧に再現。中高生から『どれを信じればいいの？』という不安の声が急増しています。",
+          "alt": "内容1 - 「これ、本物？」SNSに溢れる超精巧AI"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIエージェントManusで開発が「秒」で進む",
-          "sub_title": "3月の開発イベントでは、自律型AIがコードを書き、バグを修正。生徒たちは「設計」と「体験」のブラッシュアップに集中しています。",
-          "text_content": "AIエージェントManusで開発が「秒」で進む",
+          "main_title": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
+          "sub_title": "最新の検証ツールを使い、フェイク動画のわずかな『瞬きの不自然さ』や『影の歪み』を特定する体験に、生徒たちは真剣そのもの。",
+          "text_content": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-03.png",
           "image_file": "assets/img/posts/20260308_activity-03.png",
-          "overlay_text": "AIエージェントManusで開発が「秒」で進む",
-          "subtext": "3月の開発イベントでは、自律型AIがコードを書き、バグを修正。生徒たちは「設計」と「体験」のブラッシュアップに集中しています。",
-          "alt": "内容2 - AIエージェントManusで開発が「秒」"
+          "overlay_text": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
+          "subtext": "最新の検証ツールを使い、フェイク動画のわずかな『瞬きの不自然さ』や『影の歪み』を特定する体験に、生徒たちは真剣そのもの。",
+          "alt": "内容2 - 「AI検知ツール」も万能じゃない？生徒の"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「作る力」から「選ぶ力・導く力」へ",
-          "sub_title": "if塾では、AIを単なるツールではなく『相棒』として指揮する力を指導。春期講習でも最新のAIエージェント活用術を導入しています。",
-          "text_content": "「作る力」から「選ぶ力・導く力」へ",
+          "main_title": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
+          "sub_title": "情報の正誤を判断するだけでなく、AIを正しく使いこなし、情報の裏側にある意図を読み解く『クリティカル・シンキング』を養います。",
+          "text_content": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-04.png",
           "image_file": "assets/img/posts/20260308_activity-04.png",
-          "overlay_text": "「作る力」から「選ぶ力・導く力」へ",
-          "subtext": "if塾では、AIを単なるツールではなく『相棒』として指揮する力を指導。春期講習でも最新のAIエージェント活用術を導入しています。",
-          "alt": "内容3 - 「作る力」から「選ぶ力・導く力」へ"
+          "overlay_text": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
+          "subtext": "情報の正誤を判断するだけでなく、AIを正しく使いこなし、情報の裏側にある意図を読み解く『クリティカル・シンキング』を養います。",
+          "alt": "内容3 - 【if塾流】疑う力は、AI時代を生き抜く"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-          "sub_title": "AIエージェント「Manus」を使いこなすZ世代の今",
-          "text_content": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
+          "main_title": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+          "sub_title": "【2026.3.8】春休み前の集中ワークショップ密着レポート",
+          "text_content": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-01.png",
           "image_file": "assets/img/posts/20260308_activity-01.png",
-          "overlay_text": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-          "subtext": "AIエージェント「Manus」を使いこなすZ世代の今",
-          "alt": "表紙 - 中高生の創作が爆速化！2026年3月の最"
+          "overlay_text": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+          "subtext": "【2026.3.8】春休み前の集中ワークショップ密着レポート",
+          "alt": "表紙 - AI動画の嘘を見抜け！2026年最新リテ"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」に技術が追いつかない？",
-          "sub_title": "春休みを前に、アイデアはあるけれど実装に時間がかかる…そんな生徒たちの悩み。2026年、その常識が覆されました。",
-          "text_content": "「やりたい」に技術が追いつかない？",
+          "main_title": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
+          "sub_title": "2026年、生成AIは動画の域を超え、個人の声や癖まで完璧に再現。中高生から『どれを信じればいいの？』という不安の声が急増しています。",
+          "text_content": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-02.png",
           "image_file": "assets/img/posts/20260308_activity-02.png",
-          "overlay_text": "「やりたい」に技術が追いつかない？",
-          "subtext": "春休みを前に、アイデアはあるけれど実装に時間がかかる…そんな生徒たちの悩み。2026年、その常識が覆されました。",
-          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
+          "overlay_text": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
+          "subtext": "2026年、生成AIは動画の域を超え、個人の声や癖まで完璧に再現。中高生から『どれを信じればいいの？』という不安の声が急増しています。",
+          "alt": "内容1 - 「これ、本物？」SNSに溢れる超精巧AI"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIエージェントManusで開発が「秒」で進む",
-          "sub_title": "3月の開発イベントでは、自律型AIがコードを書き、バグを修正。生徒たちは「設計」と「体験」のブラッシュアップに集中しています。",
-          "text_content": "AIエージェントManusで開発が「秒」で進む",
+          "main_title": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
+          "sub_title": "最新の検証ツールを使い、フェイク動画のわずかな『瞬きの不自然さ』や『影の歪み』を特定する体験に、生徒たちは真剣そのもの。",
+          "text_content": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-03.png",
           "image_file": "assets/img/posts/20260308_activity-03.png",
-          "overlay_text": "AIエージェントManusで開発が「秒」で進む",
-          "subtext": "3月の開発イベントでは、自律型AIがコードを書き、バグを修正。生徒たちは「設計」と「体験」のブラッシュアップに集中しています。",
-          "alt": "内容2 - AIエージェントManusで開発が「秒」"
+          "overlay_text": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
+          "subtext": "最新の検証ツールを使い、フェイク動画のわずかな『瞬きの不自然さ』や『影の歪み』を特定する体験に、生徒たちは真剣そのもの。",
+          "alt": "内容2 - 「AI検知ツール」も万能じゃない？生徒の"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「作る力」から「選ぶ力・導く力」へ",
-          "sub_title": "if塾では、AIを単なるツールではなく『相棒』として指揮する力を指導。春期講習でも最新のAIエージェント活用術を導入しています。",
-          "text_content": "「作る力」から「選ぶ力・導く力」へ",
+          "main_title": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
+          "sub_title": "情報の正誤を判断するだけでなく、AIを正しく使いこなし、情報の裏側にある意図を読み解く『クリティカル・シンキング』を養います。",
+          "text_content": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260308_activity-04.png",
           "image_file": "assets/img/posts/20260308_activity-04.png",
-          "overlay_text": "「作る力」から「選ぶ力・導く力」へ",
-          "subtext": "if塾では、AIを単なるツールではなく『相棒』として指揮する力を指導。春期講習でも最新のAIエージェント活用術を導入しています。",
-          "alt": "内容3 - 「作る力」から「選ぶ力・導く力」へ"
+          "overlay_text": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
+          "subtext": "情報の正誤を判断するだけでなく、AIを正しく使いこなし、情報の裏側にある意図を読み解く『クリティカル・シンキング』を養います。",
+          "alt": "内容3 - 【if塾流】疑う力は、AI時代を生き抜く"
         },
         {
           "page_number": 5,
@@ -230,21 +229,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-08T11:04:37",
+      "research_date": "2026-03-08T13:58:03",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生の創作が爆速化！2026年3月の最",
+        "cover_text": "AI動画の嘘を見抜け！2026年最新リテ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生の創作が爆速化！2026年3月の最新AIハッカソン報告",
-            "subtext": "AIエージェント「Manus」を使いこなすZ世代の今",
+            "headline": "AI動画の嘘を見抜け！2026年最新リテラシー教育",
+            "subtext": "【2026.3.8】春休み前の集中ワークショップ密着レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」に技術が追いつかない？",
-            "subtext": "春休みを前に、アイデアはあるけれど実装に時間がかかる…そんな生徒たちの悩み。2026年、その常識が覆されました。",
+            "headline": "「これ、本物？」SNSに溢れる超精巧AI情報の恐怖",
+            "subtext": "2026年、生成AIは動画の域を超え、個人の声や癖まで完璧に再現。中高生から『どれを信じればいいの？』という不安の声が急増しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AIエージェントManusで開発が「秒」で進む",
-            "subtext": "3月の開発イベントでは、自律型AIがコードを書き、バグを修正。生徒たちは「設計」と「体験」のブラッシュアップに集中しています。",
+            "headline": "「AI検知ツール」も万能じゃない？生徒の驚きの反応",
+            "subtext": "最新の検証ツールを使い、フェイク動画のわずかな『瞬きの不自然さ』や『影の歪み』を特定する体験に、生徒たちは真剣そのもの。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「作る力」から「選ぶ力・導く力」へ",
-            "subtext": "if塾では、AIを単なるツールではなく『相棒』として指揮する力を指導。春期講習でも最新のAIエージェント活用術を導入しています。",
+            "headline": "【if塾流】疑う力は、AI時代を生き抜く「武器」になる",
+            "subtext": "情報の正誤を判断するだけでなく、AIを正しく使いこなし、情報の裏側にある意図を読み解く『クリティカル・シンキング』を養います。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
