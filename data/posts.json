@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 60,
-    "last_updated": "2026-03-08T20:29:11.920582",
+    "total_posts": 61,
+    "last_updated": "2026-03-09T11:07:40.015228",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260309_announcement",
+      "post_id": "20260309_announcement",
+      "created_at": "2026-03-09T11:07:40",
+      "datetime": "2026-03-09T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026年最新】生成AIが「教えない」教育へ？",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】生成AIが「教えない」教育へ？",
+      "caption": "【2026年3月】最新エドテック情報をお届けします！\n\n新学期を目前に控えた今、教育現場では「AIの使い方」が大きな転換期を迎えています。\n\nかつてのAIは「答えを教えてくれる便利な道具」でした。\nしかし2026年、AIは「思考力を育てる最高のパートナー」へと進化しています。\n\n「自分で考えるのが面倒くさい…」\nそんなお子様の姿勢を、AIとの対話を通じて「自ら問いを立てる楽しさ」に変えていきませんか？\n\nif塾では、答えを教えないAIカリキュラムをいち早く取り入れ、新学年でのロケットスタートを支援します。\n\n詳しい活用法はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年3月】最新エドテック情報をお届けします！\n\n新学期を目前に控えた今、教育現場では「AIの使い方」が大きな転換期を迎えています。\n\nかつてのAIは「答えを教えてくれる便利な道具」でした。\nしかし2026年、AIは「思考力を育てる最高のパートナー」へと進化しています。\n\n「自分で考えるのが面倒くさい…」\nそんなお子様の姿勢を、AIとの対話を通じて「自ら問いを立てる楽しさ」に変えていきませんか？\n\nif塾では、答えを教えないAIカリキュラムをいち早く取り入れ、新学年でのロケットスタートを支援します。\n\n詳しい活用法はプロフィールのリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI教育",
+        "#次世代カリキュラム",
+        "#エドテック",
+        "#新学期準備",
+        "#教育AI",
+        "#思考力を育てる"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】生成AIが「教えない」教育へ？",
+          "sub_title": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+          "text_content": "【2026年最新】生成AIが「教えない」教育へ？",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-01.png",
+          "image_file": "assets/img/posts/20260309_announcement-01.png",
+          "overlay_text": "【2026年最新】生成AIが「教えない」教育へ？",
+          "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+          "alt": "表紙 - 【2026年最新】生成AIが「教えない」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "sub_title": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+          "text_content": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-02.png",
+          "image_file": "assets/img/posts/20260309_announcement-02.png",
+          "overlay_text": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+          "alt": "内容1 - 「答えをすぐ聞く癖」が子供の将来を奪う？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "答えを教えない「教育パートナーAI」の普及",
+          "sub_title": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+          "text_content": "答えを教えない「教育パートナーAI」の普及",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-03.png",
+          "image_file": "assets/img/posts/20260309_announcement-03.png",
+          "overlay_text": "答えを教えない「教育パートナーAI」の普及",
+          "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+          "alt": "内容2 - 答えを教えない「教育パートナーAI」の普"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIとの『対話の質』が学力差に",
+          "sub_title": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+          "text_content": "if塾の視点：AIとの『対話の質』が学力差に",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-04.png",
+          "image_file": "assets/img/posts/20260309_announcement-04.png",
+          "overlay_text": "if塾の視点：AIとの『対話の質』が学力差に",
+          "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+          "alt": "内容3 - if塾の視点：AIとの『対話の質』が学力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】生成AIが「教えない」教育へ？",
+          "sub_title": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+          "text_content": "【2026年最新】生成AIが「教えない」教育へ？",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-01.png",
+          "image_file": "assets/img/posts/20260309_announcement-01.png",
+          "overlay_text": "【2026年最新】生成AIが「教えない」教育へ？",
+          "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+          "alt": "表紙 - 【2026年最新】生成AIが「教えない」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "sub_title": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+          "text_content": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-02.png",
+          "image_file": "assets/img/posts/20260309_announcement-02.png",
+          "overlay_text": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+          "alt": "内容1 - 「答えをすぐ聞く癖」が子供の将来を奪う？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "答えを教えない「教育パートナーAI」の普及",
+          "sub_title": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+          "text_content": "答えを教えない「教育パートナーAI」の普及",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-03.png",
+          "image_file": "assets/img/posts/20260309_announcement-03.png",
+          "overlay_text": "答えを教えない「教育パートナーAI」の普及",
+          "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+          "alt": "内容2 - 答えを教えない「教育パートナーAI」の普"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIとの『対話の質』が学力差に",
+          "sub_title": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+          "text_content": "if塾の視点：AIとの『対話の質』が学力差に",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260309_announcement-04.png",
+          "image_file": "assets/img/posts/20260309_announcement-04.png",
+          "overlay_text": "if塾の視点：AIとの『対話の質』が学力差に",
+          "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+          "alt": "内容3 - if塾の視点：AIとの『対話の質』が学力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260309_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260309_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260309_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260309_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-09T11:06:10",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】生成AIが「教えない」",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】生成AIが「教えない」教育へ？",
+            "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+            "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "答えを教えない「教育パートナーAI」の普及",
+            "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIとの『対話の質』が学力差に",
+            "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260308_activity",
       "post_id": "20260308_activity",
