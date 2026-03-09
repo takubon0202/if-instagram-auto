@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 61,
-    "last_updated": "2026-03-09T11:07:40.015228",
+    "last_updated": "2026-03-09T14:11:17.872027",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260309_announcement",
       "post_id": "20260309_announcement",
-      "created_at": "2026-03-09T11:07:40",
+      "created_at": "2026-03-09T14:11:17",
       "datetime": "2026-03-09T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "【2026年最新】生成AIが「教えない」教育へ？",
+      "theme": "コードを書かない!? 2026年式プログラミング新常識",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】生成AIが「教えない」教育へ？",
-      "caption": "【2026年3月】最新エドテック情報をお届けします！\n\n新学期を目前に控えた今、教育現場では「AIの使い方」が大きな転換期を迎えています。\n\nかつてのAIは「答えを教えてくれる便利な道具」でした。\nしかし2026年、AIは「思考力を育てる最高のパートナー」へと進化しています。\n\n「自分で考えるのが面倒くさい…」\nそんなお子様の姿勢を、AIとの対話を通じて「自ら問いを立てる楽しさ」に変えていきませんか？\n\nif塾では、答えを教えないAIカリキュラムをいち早く取り入れ、新学年でのロケットスタートを支援します。\n\n詳しい活用法はプロフィールのリンクからチェック！",
-      "caption_text": "【2026年3月】最新エドテック情報をお届けします！\n\n新学期を目前に控えた今、教育現場では「AIの使い方」が大きな転換期を迎えています。\n\nかつてのAIは「答えを教えてくれる便利な道具」でした。\nしかし2026年、AIは「思考力を育てる最高のパートナー」へと進化しています。\n\n「自分で考えるのが面倒くさい…」\nそんなお子様の姿勢を、AIとの対話を通じて「自ら問いを立てる楽しさ」に変えていきませんか？\n\nif塾では、答えを教えないAIカリキュラムをいち早く取り入れ、新学年でのロケットスタートを支援します。\n\n詳しい活用法はプロフィールのリンクからチェック！",
+      "title": "コードを書かない!? 2026年式プログラミング新常識",
+      "caption": "【2026年3月】最新の教育トレンドをお届けします。\n\n「プログラミング＝コードを打ち込むこと」という時代は終わりました。\n2026年現在、開発現場では人間がコードを書く時間は激減し、AIへの「指示出し（ディレクション）」と「品質管理」が中心となっています。\n\n進級・進学を控えたこの時期、お子様に必要なのは「言語の文法」を覚えることではなく、AIをパートナーとして使いこなし、自分のアイデアを形にする力です。\n\nif塾では、最新のAIツールをフル活用した『共創型プログラミング』を導入しています。\n新年度、新しい学びのカタチを体験してみませんか？\n\n詳細はプロフィール欄のリンクから。🔍",
+      "caption_text": "【2026年3月】最新の教育トレンドをお届けします。\n\n「プログラミング＝コードを打ち込むこと」という時代は終わりました。\n2026年現在、開発現場では人間がコードを書く時間は激減し、AIへの「指示出し（ディレクション）」と「品質管理」が中心となっています。\n\n進級・進学を控えたこの時期、お子様に必要なのは「言語の文法」を覚えることではなく、AIをパートナーとして使いこなし、自分のアイデアを形にする力です。\n\nif塾では、最新のAIツールをフル活用した『共創型プログラミング』を導入しています。\n新年度、新しい学びのカタチを体験してみませんか？\n\n詳細はプロフィール欄のリンクから。🔍",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI教育",
-        "#次世代カリキュラム",
-        "#エドテック",
-        "#新学期準備",
-        "#教育AI",
-        "#思考力を育てる"
+        "#プログラミング教育",
+        "#生成AI",
+        "#共創型プログラミング",
+        "#リスキリング",
+        "#AIディレクション"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】生成AIが「教えない」教育へ？",
-          "sub_title": "3月の進級・進学前に知っておくべき次世代カリキュラム",
-          "text_content": "【2026年最新】生成AIが「教えない」教育へ？",
+          "main_title": "コードを書かない!? 2026年式プログラミング新常識",
+          "sub_title": "3月最新：共創型AIシフトが加速中",
+          "text_content": "コードを書かない!? 2026年式プログラミング新常識",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-01.png",
           "image_file": "assets/img/posts/20260309_announcement-01.png",
-          "overlay_text": "【2026年最新】生成AIが「教えない」教育へ？",
-          "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
-          "alt": "表紙 - 【2026年最新】生成AIが「教えない」"
+          "overlay_text": "コードを書かない!? 2026年式プログラミング新常識",
+          "subtext": "3月最新：共創型AIシフトが加速中",
+          "alt": "表紙 - コードを書かない!? 2026年式プログ"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答えをすぐ聞く癖」が子供の将来を奪う？",
-          "sub_title": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
-          "text_content": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "main_title": "まだ「1行ずつ」書いていますか？",
+          "sub_title": "2026年、プログラミングは『写経』から『対話』へ。単なる構文暗記の価値が急落しています。",
+          "text_content": "まだ「1行ずつ」書いていますか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-02.png",
           "image_file": "assets/img/posts/20260309_announcement-02.png",
-          "overlay_text": "「答えをすぐ聞く癖」が子供の将来を奪う？",
-          "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
-          "alt": "内容1 - 「答えをすぐ聞く癖」が子供の将来を奪う？"
+          "overlay_text": "まだ「1行ずつ」書いていますか？",
+          "subtext": "2026年、プログラミングは『写経』から『対話』へ。単なる構文暗記の価値が急落しています。",
+          "alt": "内容1 - まだ「1行ずつ」書いていますか？"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "答えを教えない「教育パートナーAI」の普及",
-          "sub_title": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
-          "text_content": "答えを教えない「教育パートナーAI」の普及",
+          "main_title": "AIを部下にする「共創型」への進化",
+          "sub_title": "最新の自律型エージェントAIを使いこなし、指示（プロンプト）一つで複雑な機能を実装する力が必須に。",
+          "text_content": "AIを部下にする「共創型」への進化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-03.png",
           "image_file": "assets/img/posts/20260309_announcement-03.png",
-          "overlay_text": "答えを教えない「教育パートナーAI」の普及",
-          "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
-          "alt": "内容2 - 答えを教えない「教育パートナーAI」の普"
+          "overlay_text": "AIを部下にする「共創型」への進化",
+          "subtext": "最新の自律型エージェントAIを使いこなし、指示（プロンプト）一つで複雑な機能を実装する力が必須に。",
+          "alt": "内容2 - AIを部下にする「共創型」への進化"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIとの『対話の質』が学力差に",
-          "sub_title": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
-          "text_content": "if塾の視点：AIとの『対話の質』が学力差に",
+          "main_title": "if塾が教える「AIディレクション術」",
+          "sub_title": "AIに丸投げするのではなく、論理的思考で『設計図』を渡し、成果物を検証する。これが2026年の最強スキル。",
+          "text_content": "if塾が教える「AIディレクション術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-04.png",
           "image_file": "assets/img/posts/20260309_announcement-04.png",
-          "overlay_text": "if塾の視点：AIとの『対話の質』が学力差に",
-          "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
-          "alt": "内容3 - if塾の視点：AIとの『対話の質』が学力"
+          "overlay_text": "if塾が教える「AIディレクション術」",
+          "subtext": "AIに丸投げするのではなく、論理的思考で『設計図』を渡し、成果物を検証する。これが2026年の最強スキル。",
+          "alt": "内容3 - if塾が教える「AIディレクション術」"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】生成AIが「教えない」教育へ？",
-          "sub_title": "3月の進級・進学前に知っておくべき次世代カリキュラム",
-          "text_content": "【2026年最新】生成AIが「教えない」教育へ？",
+          "main_title": "コードを書かない!? 2026年式プログラミング新常識",
+          "sub_title": "3月最新：共創型AIシフトが加速中",
+          "text_content": "コードを書かない!? 2026年式プログラミング新常識",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-01.png",
           "image_file": "assets/img/posts/20260309_announcement-01.png",
-          "overlay_text": "【2026年最新】生成AIが「教えない」教育へ？",
-          "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
-          "alt": "表紙 - 【2026年最新】生成AIが「教えない」"
+          "overlay_text": "コードを書かない!? 2026年式プログラミング新常識",
+          "subtext": "3月最新：共創型AIシフトが加速中",
+          "alt": "表紙 - コードを書かない!? 2026年式プログ"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答えをすぐ聞く癖」が子供の将来を奪う？",
-          "sub_title": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
-          "text_content": "「答えをすぐ聞く癖」が子供の将来を奪う？",
+          "main_title": "まだ「1行ずつ」書いていますか？",
+          "sub_title": "2026年、プログラミングは『写経』から『対話』へ。単なる構文暗記の価値が急落しています。",
+          "text_content": "まだ「1行ずつ」書いていますか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-02.png",
           "image_file": "assets/img/posts/20260309_announcement-02.png",
-          "overlay_text": "「答えをすぐ聞く癖」が子供の将来を奪う？",
-          "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
-          "alt": "内容1 - 「答えをすぐ聞く癖」が子供の将来を奪う？"
+          "overlay_text": "まだ「1行ずつ」書いていますか？",
+          "subtext": "2026年、プログラミングは『写経』から『対話』へ。単なる構文暗記の価値が急落しています。",
+          "alt": "内容1 - まだ「1行ずつ」書いていますか？"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "答えを教えない「教育パートナーAI」の普及",
-          "sub_title": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
-          "text_content": "答えを教えない「教育パートナーAI」の普及",
+          "main_title": "AIを部下にする「共創型」への進化",
+          "sub_title": "最新の自律型エージェントAIを使いこなし、指示（プロンプト）一つで複雑な機能を実装する力が必須に。",
+          "text_content": "AIを部下にする「共創型」への進化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-03.png",
           "image_file": "assets/img/posts/20260309_announcement-03.png",
-          "overlay_text": "答えを教えない「教育パートナーAI」の普及",
-          "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
-          "alt": "内容2 - 答えを教えない「教育パートナーAI」の普"
+          "overlay_text": "AIを部下にする「共創型」への進化",
+          "subtext": "最新の自律型エージェントAIを使いこなし、指示（プロンプト）一つで複雑な機能を実装する力が必須に。",
+          "alt": "内容2 - AIを部下にする「共創型」への進化"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIとの『対話の質』が学力差に",
-          "sub_title": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
-          "text_content": "if塾の視点：AIとの『対話の質』が学力差に",
+          "main_title": "if塾が教える「AIディレクション術」",
+          "sub_title": "AIに丸投げするのではなく、論理的思考で『設計図』を渡し、成果物を検証する。これが2026年の最強スキル。",
+          "text_content": "if塾が教える「AIディレクション術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260309_announcement-04.png",
           "image_file": "assets/img/posts/20260309_announcement-04.png",
-          "overlay_text": "if塾の視点：AIとの『対話の質』が学力差に",
-          "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
-          "alt": "内容3 - if塾の視点：AIとの『対話の質』が学力"
+          "overlay_text": "if塾が教える「AIディレクション術」",
+          "subtext": "AIに丸投げするのではなく、論理的思考で『設計図』を渡し、成果物を検証する。これが2026年の最強スキル。",
+          "alt": "内容3 - if塾が教える「AIディレクション術」"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-09T11:06:10",
+      "research_date": "2026-03-09T14:09:48",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】生成AIが「教えない」",
+        "cover_text": "コードを書かない!? 2026年式プログ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】生成AIが「教えない」教育へ？",
-            "subtext": "3月の進級・進学前に知っておくべき次世代カリキュラム",
+            "headline": "コードを書かない!? 2026年式プログラミング新常識",
+            "subtext": "3月最新：共創型AIシフトが加速中",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「答えをすぐ聞く癖」が子供の将来を奪う？",
-            "subtext": "AI浸透から2年。2026年の今、求められているのは『AIを使いこなす力』ではなく『AIと深く考える力』です。",
+            "headline": "まだ「1行ずつ」書いていますか？",
+            "subtext": "2026年、プログラミングは『写経』から『対話』へ。単なる構文暗記の価値が急落しています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "答えを教えない「教育パートナーAI」の普及",
-            "subtext": "今春から導入される新カリキュラムでは、AIがヒントを出しながら思考を促す「伴走型対話モデル」が主流になります。",
+            "headline": "AIを部下にする「共創型」への進化",
+            "subtext": "最新の自律型エージェントAIを使いこなし、指示（プロンプト）一つで複雑な機能を実装する力が必須に。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIとの『対話の質』が学力差に",
-            "subtext": "どこでも使えるAIだからこそ、if塾では自律的な問い立てをサポート。3月中に「考えるAI活用法」をマスターしましょう。",
+            "headline": "if塾が教える「AIディレクション術」",
+            "subtext": "AIに丸投げするのではなく、論理的思考で『設計図』を渡し、成果物を検証する。これが2026年の最強スキル。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
