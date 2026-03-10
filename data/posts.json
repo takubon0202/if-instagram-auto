@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 61,
-    "last_updated": "2026-03-09T20:40:18.584652",
+    "total_posts": 62,
+    "last_updated": "2026-03-10T11:00:00.555001",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260310_education",
+      "post_id": "20260310_education",
+      "created_at": "2026-03-10T11:00:00",
+      "datetime": "2026-03-10T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+      "caption": "【2026年3月】最新の教育ニュースをお届けします！\n\n新学年を目前に控えた今、最も注意すべきは大学入学共通テスト『情報I』の動向です。\n\n「去年は基礎的な問題が多かったから」と油断していませんか？\n2年目となる2026年度試験は、出題パターンが多様化し、難易度が一段階上がることが予測されています。\n\n特に、統計データの解釈やプログラミングの応用問題は、独学では限界があります。\n\nif塾では、最新の傾向を反映したカリキュラムで、あなたの『情報力』を武器に変えます。\n春休みからのスタートが、1年後の合否を分けます！\n\n詳細はプロフィール欄のリンクをチェック 🚀",
+      "caption_text": "【2026年3月】最新の教育ニュースをお届けします！\n\n新学年を目前に控えた今、最も注意すべきは大学入学共通テスト『情報I』の動向です。\n\n「去年は基礎的な問題が多かったから」と油断していませんか？\n2年目となる2026年度試験は、出題パターンが多様化し、難易度が一段階上がることが予測されています。\n\n特に、統計データの解釈やプログラミングの応用問題は、独学では限界があります。\n\nif塾では、最新の傾向を反映したカリキュラムで、あなたの『情報力』を武器に変えます。\n春休みからのスタートが、1年後の合否を分けます！\n\n詳細はプロフィール欄のリンクをチェック 🚀",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#大学共通テスト",
+        "#情報I",
+        "#大学受験2026",
+        "#高校生ママ",
+        "#教育コラム",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "sub_title": "3月10日発表：2年目の『激変』に備える新常識",
+          "text_content": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-01.png",
+          "image_file": "assets/img/posts/20260310_education-01.png",
+          "overlay_text": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "subtext": "3月10日発表：2年目の『激変』に備える新常識",
+          "alt": "表紙 - 【2026最新】情報I、昨年の傾向はもう"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "sub_title": "導入初年度の易化傾向から一転、2026年度は思考力重視の難化が確実に。新高3生の間で『情報格差』が広がっています。",
+          "text_content": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-02.png",
+          "image_file": "assets/img/posts/20260310_education-02.png",
+          "overlay_text": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "subtext": "導入初年度の易化傾向から一転、2026年度は思考力重視の難化が確実に。新高3生の間で『情報格差』が広がっています。",
+          "alt": "内容1 - 「平均点高かったし大丈夫」が一番危険なワ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "sub_title": "単なる暗記ではなく、シミュレーション結果を読み解く力が必須。最新のAI学習ツールを併用した、2026年式「効率学習」を導入しましょう。",
+          "text_content": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-03.png",
+          "image_file": "assets/img/posts/20260310_education-03.png",
+          "overlay_text": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "subtext": "単なる暗記ではなく、シミュレーション結果を読み解く力が必須。最新のAI学習ツールを併用した、2026年式「効率学習」を導入しましょう。",
+          "alt": "内容2 - if塾の予測：プログラミング言語の『実用"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "sub_title": "初年度の過去問だけでは不十分。if塾では、データサイエンス分野を強化した独自模試で、本番の『想定外』をゼロにします。",
+          "text_content": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-04.png",
+          "image_file": "assets/img/posts/20260310_education-04.png",
+          "overlay_text": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "subtext": "初年度の過去問だけでは不十分。if塾では、データサイエンス分野を強化した独自模試で、本番の『想定外』をゼロにします。",
+          "alt": "内容3 - 今すぐやるべき「過去問＋α」の戦略的学習"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "sub_title": "3月10日発表：2年目の『激変』に備える新常識",
+          "text_content": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-01.png",
+          "image_file": "assets/img/posts/20260310_education-01.png",
+          "overlay_text": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+          "subtext": "3月10日発表：2年目の『激変』に備える新常識",
+          "alt": "表紙 - 【2026最新】情報I、昨年の傾向はもう"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "sub_title": "導入初年度の易化傾向から一転、2026年度は思考力重視の難化が確実に。新高3生の間で『情報格差』が広がっています。",
+          "text_content": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-02.png",
+          "image_file": "assets/img/posts/20260310_education-02.png",
+          "overlay_text": "「平均点高かったし大丈夫」が一番危険なワケ",
+          "subtext": "導入初年度の易化傾向から一転、2026年度は思考力重視の難化が確実に。新高3生の間で『情報格差』が広がっています。",
+          "alt": "内容1 - 「平均点高かったし大丈夫」が一番危険なワ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "sub_title": "単なる暗記ではなく、シミュレーション結果を読み解く力が必須。最新のAI学習ツールを併用した、2026年式「効率学習」を導入しましょう。",
+          "text_content": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-03.png",
+          "image_file": "assets/img/posts/20260310_education-03.png",
+          "overlay_text": "if塾の予測：プログラミング言語の『実用性』が鍵",
+          "subtext": "単なる暗記ではなく、シミュレーション結果を読み解く力が必須。最新のAI学習ツールを併用した、2026年式「効率学習」を導入しましょう。",
+          "alt": "内容2 - if塾の予測：プログラミング言語の『実用"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "sub_title": "初年度の過去問だけでは不十分。if塾では、データサイエンス分野を強化した独自模試で、本番の『想定外』をゼロにします。",
+          "text_content": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260310_education-04.png",
+          "image_file": "assets/img/posts/20260310_education-04.png",
+          "overlay_text": "今すぐやるべき「過去問＋α」の戦略的学習",
+          "subtext": "初年度の過去問だけでは不十分。if塾では、データサイエンス分野を強化した独自模試で、本番の『想定外』をゼロにします。",
+          "alt": "内容3 - 今すぐやるべき「過去問＋α」の戦略的学習"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260310_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260310_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260310_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260310_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-10T10:58:27",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報I、昨年の傾向はもう",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報I、昨年の傾向はもう古い？合格ラインが跳ね上がる理由",
+            "subtext": "3月10日発表：2年目の『激変』に備える新常識",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「平均点高かったし大丈夫」が一番危険なワケ",
+            "subtext": "導入初年度の易化傾向から一転、2026年度は思考力重視の難化が確実に。新高3生の間で『情報格差』が広がっています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾の予測：プログラミング言語の『実用性』が鍵",
+            "subtext": "単なる暗記ではなく、シミュレーション結果を読み解く力が必須。最新のAI学習ツールを併用した、2026年式「効率学習」を導入しましょう。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐやるべき「過去問＋α」の戦略的学習",
+            "subtext": "初年度の過去問だけでは不十分。if塾では、データサイエンス分野を強化した独自模試で、本番の『想定外』をゼロにします。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260309_announcement",
       "post_id": "20260309_announcement",
