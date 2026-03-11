@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 62,
-    "last_updated": "2026-03-10T20:40:06.588902",
+    "total_posts": 63,
+    "last_updated": "2026-03-11T11:00:36.716778",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260311_development",
+      "post_id": "20260311_development",
+      "created_at": "2026-03-11T11:00:36",
+      "datetime": "2026-03-11T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+      "caption": "【2026年3月】最新テックニュースをお届けします！\n\n「最近、子どもの元気がなさそうだけど、何を考えているか分からない…」\nそんな悩み、2026年のAI技術が解決します。\n\n今、注目を集めているのは「エモーショナルUI（情緒的UI）」。\n単なる文字のやり取りではなく、今の心の状態を色や形で可視化し、家族や友人と共有する新しいコミュニケーションの形です。\n\n新生活が始まるこの時期は、期待以上に不安も大きいもの。\nif塾では、こうした最新ツールを活用し、生徒の小さな変化に気づき、最適な学習環境を整える取り組みを始めています。\n\nAIは効率化のためだけではなく、人を深く理解するために進化しています。\n皆さんは、自分の感情を誰かと共有したいですか？\nコメントで教えてください！✨\n\n#if塾 #2026年 #最新AI #エモーショナルUI #メンタルケア #親子コミュニケーション #最新技術 #教育の未来",
+      "caption_text": "【2026年3月】最新テックニュースをお届けします！\n\n「最近、子どもの元気がなさそうだけど、何を考えているか分からない…」\nそんな悩み、2026年のAI技術が解決します。\n\n今、注目を集めているのは「エモーショナルUI（情緒的UI）」。\n単なる文字のやり取りではなく、今の心の状態を色や形で可視化し、家族や友人と共有する新しいコミュニケーションの形です。\n\n新生活が始まるこの時期は、期待以上に不安も大きいもの。\nif塾では、こうした最新ツールを活用し、生徒の小さな変化に気づき、最適な学習環境を整える取り組みを始めています。\n\nAIは効率化のためだけではなく、人を深く理解するために進化しています。\n皆さんは、自分の感情を誰かと共有したいですか？\nコメントで教えてください！✨\n\n#if塾 #2026年 #最新AI #エモーショナルUI #メンタルケア #親子コミュニケーション #最新技術 #教育の未来",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#エモーショナルUI",
+        "#感情可視化",
+        "#AIのある生活",
+        "#新生活準備",
+        "#最新テック"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "sub_title": "2026年3月最新：言葉にできない感情を可視化する新時代",
+          "text_content": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-01.png",
+          "image_file": "assets/img/posts/20260311_development-01.png",
+          "overlay_text": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "subtext": "2026年3月最新：言葉にできない感情を可視化する新時代",
+          "alt": "表紙 - AIは「心」を映す鏡へ。エモーショナルU"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "sub_title": "新生活直前の3月。進路や環境の変化で、親子間のコミュニケーションが希薄になり、メンタル不調を見逃してしまう不安が増えています。",
+          "text_content": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-02.png",
+          "image_file": "assets/img/posts/20260311_development-02.png",
+          "overlay_text": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "subtext": "新生活直前の3月。進路や環境の変化で、親子間のコミュニケーションが希薄になり、メンタル不調を見逃してしまう不安が増えています。",
+          "alt": "内容1 - 「元気？」と聞かれても、本当の気持ちが分"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "バイタルデータ×AIで感情をグラフィック化",
+          "sub_title": "2026年の最新エモーショナルUIは、スマートウォッチの心拍変動と音声のトーンから「今の感情」を色のオーラや音楽として共有。言語化不要の対話を実現します。",
+          "text_content": "バイタルデータ×AIで感情をグラフィック化",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-03.png",
+          "image_file": "assets/img/posts/20260311_development-03.png",
+          "overlay_text": "バイタルデータ×AIで感情をグラフィック化",
+          "subtext": "2026年の最新エモーショナルUIは、スマートウォッチの心拍変動と音声のトーンから「今の感情」を色のオーラや音楽として共有。言語化不要の対話を実現します。",
+          "alt": "内容2 - バイタルデータ×AIで感情をグラフィック"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIで「心のズレ」を早期発見する",
+          "sub_title": "受験や卒業で多忙な今こそ、アプリを通じて「言葉にできないストレス」を親子で可視化。無理な励ましではなく、データに基づいた『見守り』の形を提案します。",
+          "text_content": "if塾流：AIで「心のズレ」を早期発見する",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-04.png",
+          "image_file": "assets/img/posts/20260311_development-04.png",
+          "overlay_text": "if塾流：AIで「心のズレ」を早期発見する",
+          "subtext": "受験や卒業で多忙な今こそ、アプリを通じて「言葉にできないストレス」を親子で可視化。無理な励ましではなく、データに基づいた『見守り』の形を提案します。",
+          "alt": "内容3 - if塾流：AIで「心のズレ」を早期発見す"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "sub_title": "2026年3月最新：言葉にできない感情を可視化する新時代",
+          "text_content": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-01.png",
+          "image_file": "assets/img/posts/20260311_development-01.png",
+          "overlay_text": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+          "subtext": "2026年3月最新：言葉にできない感情を可視化する新時代",
+          "alt": "表紙 - AIは「心」を映す鏡へ。エモーショナルU"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "sub_title": "新生活直前の3月。進路や環境の変化で、親子間のコミュニケーションが希薄になり、メンタル不調を見逃してしまう不安が増えています。",
+          "text_content": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-02.png",
+          "image_file": "assets/img/posts/20260311_development-02.png",
+          "overlay_text": "「元気？」と聞かれても、本当の気持ちが分からない。",
+          "subtext": "新生活直前の3月。進路や環境の変化で、親子間のコミュニケーションが希薄になり、メンタル不調を見逃してしまう不安が増えています。",
+          "alt": "内容1 - 「元気？」と聞かれても、本当の気持ちが分"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "バイタルデータ×AIで感情をグラフィック化",
+          "sub_title": "2026年の最新エモーショナルUIは、スマートウォッチの心拍変動と音声のトーンから「今の感情」を色のオーラや音楽として共有。言語化不要の対話を実現します。",
+          "text_content": "バイタルデータ×AIで感情をグラフィック化",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-03.png",
+          "image_file": "assets/img/posts/20260311_development-03.png",
+          "overlay_text": "バイタルデータ×AIで感情をグラフィック化",
+          "subtext": "2026年の最新エモーショナルUIは、スマートウォッチの心拍変動と音声のトーンから「今の感情」を色のオーラや音楽として共有。言語化不要の対話を実現します。",
+          "alt": "内容2 - バイタルデータ×AIで感情をグラフィック"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIで「心のズレ」を早期発見する",
+          "sub_title": "受験や卒業で多忙な今こそ、アプリを通じて「言葉にできないストレス」を親子で可視化。無理な励ましではなく、データに基づいた『見守り』の形を提案します。",
+          "text_content": "if塾流：AIで「心のズレ」を早期発見する",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260311_development-04.png",
+          "image_file": "assets/img/posts/20260311_development-04.png",
+          "overlay_text": "if塾流：AIで「心のズレ」を早期発見する",
+          "subtext": "受験や卒業で多忙な今こそ、アプリを通じて「言葉にできないストレス」を親子で可視化。無理な励ましではなく、データに基づいた『見守り』の形を提案します。",
+          "alt": "内容3 - if塾流：AIで「心のズレ」を早期発見す"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260311_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260311_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260311_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260311_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-11T10:59:05",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「心」を映す鏡へ。エモーショナルU",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「心」を映す鏡へ。エモーショナルUIの衝撃",
+            "subtext": "2026年3月最新：言葉にできない感情を可視化する新時代",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「元気？」と聞かれても、本当の気持ちが分からない。",
+            "subtext": "新生活直前の3月。進路や環境の変化で、親子間のコミュニケーションが希薄になり、メンタル不調を見逃してしまう不安が増えています。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "バイタルデータ×AIで感情をグラフィック化",
+            "subtext": "2026年の最新エモーショナルUIは、スマートウォッチの心拍変動と音声のトーンから「今の感情」を色のオーラや音楽として共有。言語化不要の対話を実現します。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIで「心のズレ」を早期発見する",
+            "subtext": "受験や卒業で多忙な今こそ、アプリを通じて「言葉にできないストレス」を親子で可視化。無理な励ましではなく、データに基づいた『見守り』の形を提案します。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260310_education",
       "post_id": "20260310_education",
