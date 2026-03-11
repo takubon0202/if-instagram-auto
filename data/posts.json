@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 63,
-    "last_updated": "2026-03-11T14:00:40.843176",
+    "last_updated": "2026-03-11T20:40:20.420910",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260311_development",
       "post_id": "20260311_development",
-      "created_at": "2026-03-11T14:00:40",
+      "created_at": "2026-03-11T20:40:20",
       "datetime": "2026-03-11T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+      "theme": "中高生が90分でアプリを完成させた話",
       "target_audience": "Students & Parents",
-      "title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-      "caption": "【2026年3月】最新のAIニュースをお届けします✨\n\n「AIに何を指示すればいいかわからない…」\nそんな悩みはもう過去のものです。2026年、AIは「指示待ち」から「自ら考えて実行する」自律型エージェントへと完全に進化しました。\n\n新学期を控えたこの時期、if塾では最新の自律型AIを導入し、生徒の「目標設定」だけを重視する新しい学習スタイルを提案しています。\n\n道具を使いこなす時代から、AIが最適なプロセスを構築してくれる時代へ。\nこの春、あなたも次世代のAI体験をif塾で始めてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！🚀",
-      "caption_text": "【2026年3月】最新のAIニュースをお届けします✨\n\n「AIに何を指示すればいいかわからない…」\nそんな悩みはもう過去のものです。2026年、AIは「指示待ち」から「自ら考えて実行する」自律型エージェントへと完全に進化しました。\n\n新学期を控えたこの時期、if塾では最新の自律型AIを導入し、生徒の「目標設定」だけを重視する新しい学習スタイルを提案しています。\n\n道具を使いこなす時代から、AIが最適なプロセスを構築してくれる時代へ。\nこの春、あなたも次世代のAI体験をif塾で始めてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！🚀",
+      "title": "中高生が90分でアプリを完成させた話",
+      "caption": "【2026年3月】最新の教育現場はここまで来ました！\n\n春休みを目前に控えた今、中高生たちの開発スピードが異次元に突入しています。🚀\n\nかつては数ヶ月かかったアプリ開発も、2026年の現在、最新のGeminiを活用すれば「わずか90分」でプロトタイプが完成します。\n\n「プログラミングを学ぶ」から「AIと共創する」へ。\nif塾では、技術の習得以上に『何を解決したいか？』という思考のプロセスを大切にしています。\n\nこの春、あなたのお子さんも「作る側」の人間になりませんか？\n\n詳細はプロフィールのリンクから！\n#if塾 #2026年 #生成AI #Gemini #中高生プログラミング #EdTech",
+      "caption_text": "【2026年3月】最新の教育現場はここまで来ました！\n\n春休みを目前に控えた今、中高生たちの開発スピードが異次元に突入しています。🚀\n\nかつては数ヶ月かかったアプリ開発も、2026年の現在、最新のGeminiを活用すれば「わずか90分」でプロトタイプが完成します。\n\n「プログラミングを学ぶ」から「AIと共創する」へ。\nif塾では、技術の習得以上に『何を解決したいか？』という思考のプロセスを大切にしています。\n\nこの春、あなたのお子さんも「作る側」の人間になりませんか？\n\n詳細はプロフィールのリンクから！\n#if塾 #2026年 #生成AI #Gemini #中高生プログラミング #EdTech",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "自律型AI",
-        "AIエージェント",
-        "教育DX",
-        "新学期準備",
-        "AI活用",
-        "最新テクノロジー"
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#Gemini",
+        "#爆速開発",
+        "#中高生",
+        "#DX教育",
+        "#春休み"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-          "sub_title": "2026年3月最新アップデート：目的を伝えるだけで完結する未来",
-          "text_content": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "main_title": "中高生が90分でアプリを完成させた話",
+          "sub_title": "2026年3月最新版：Gemini 2.5 Ultraで爆速開発",
+          "text_content": "中高生が90分でアプリを完成させた話",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-01.png",
           "image_file": "assets/img/posts/20260311_development-01.png",
-          "overlay_text": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-          "subtext": "2026年3月最新アップデート：目的を伝えるだけで完結する未来",
-          "alt": "表紙 - 指示待ちはもう終わり。自律型AIエージェ"
+          "overlay_text": "中高生が90分でアプリを完成させた話",
+          "subtext": "2026年3月最新版：Gemini 2.5 Ultraで爆速開発",
+          "alt": "表紙 - 中高生が90分でアプリを完成させた話"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプト職人は不要？「指示疲れ」が限界に",
-          "sub_title": "これまでは細かな手順をAIに指示する必要がありました。でも、忙しい新学期準備や学習計画、もう『何を言えばいいか』で悩みたくないですよね。",
-          "text_content": "プロンプト職人は不要？「指示疲れ」が限界に",
+          "main_title": "春休み、自由研究のネタが古い？",
+          "sub_title": "「プログラミングは時間がかかる」という常識が、この春、完全に崩れました。2026年の学生はコードを書かずに、思考を形にします。",
+          "text_content": "春休み、自由研究のネタが古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-02.png",
           "image_file": "assets/img/posts/20260311_development-02.png",
-          "overlay_text": "プロンプト職人は不要？「指示疲れ」が限界に",
-          "subtext": "これまでは細かな手順をAIに指示する必要がありました。でも、忙しい新学期準備や学習計画、もう『何を言えばいいか』で悩みたくないですよね。",
-          "alt": "内容1 - プロンプト職人は不要？「指示疲れ」が限界"
+          "overlay_text": "春休み、自由研究のネタが古い？",
+          "subtext": "「プログラミングは時間がかかる」という常識が、この春、完全に崩れました。2026年の学生はコードを書かずに、思考を形にします。",
+          "alt": "内容1 - 春休み、自由研究のネタが古い？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の常識：Auto-Tasking AIの登場",
-          "sub_title": "「〇〇大学合格のための今月の学習計画を立てて、参考書を買っておいて」と伝えるだけ。AIが自らWeb検索、スケジュール調整、決済までを自律的に判断して実行します。",
-          "text_content": "2026年の常識：Auto-Tasking AIの登場",
+          "main_title": "対話だけで動く、90分の魔法",
+          "sub_title": "Geminiの最新マルチモーダル機能を活用。手書きの設計図をカメラに見せるだけで、AIがバックエンドまで一気にビルドする時代です。",
+          "text_content": "対話だけで動く、90分の魔法",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-03.png",
           "image_file": "assets/img/posts/20260311_development-03.png",
-          "overlay_text": "2026年の常識：Auto-Tasking AIの登場",
-          "subtext": "「〇〇大学合格のための今月の学習計画を立てて、参考書を買っておいて」と伝えるだけ。AIが自らWeb検索、スケジュール調整、決済までを自律的に判断して実行します。",
-          "alt": "内容2 - 2026年の常識：Auto-Taskin"
+          "overlay_text": "対話だけで動く、90分の魔法",
+          "subtext": "Geminiの最新マルチモーダル機能を活用。手書きの設計図をカメラに見せるだけで、AIがバックエンドまで一気にビルドする時代です。",
+          "alt": "内容2 - 対話だけで動く、90分の魔法"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」ではなく「伴走者」に",
-          "sub_title": "if塾では、この自律型AIを生徒一人ひとりの専用コーチとして導入。学習の遅れをAIが自ら検知し、最適な復習カリキュラムを勝手に生成。保護者への進捗報告も全自動です。",
-          "text_content": "if塾流：AIを「部下」ではなく「伴走者」に",
+          "main_title": "技術習得より「問いを立てる力」",
+          "sub_title": "if塾では、AIを使いこなすための『指示力』を重視。エラー解決もAIと共に。中高生が社会課題を解決するアプリを即日リリースしています。",
+          "text_content": "技術習得より「問いを立てる力」",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-04.png",
           "image_file": "assets/img/posts/20260311_development-04.png",
-          "overlay_text": "if塾流：AIを「部下」ではなく「伴走者」に",
-          "subtext": "if塾では、この自律型AIを生徒一人ひとりの専用コーチとして導入。学習の遅れをAIが自ら検知し、最適な復習カリキュラムを勝手に生成。保護者への進捗報告も全自動です。",
-          "alt": "内容3 - if塾流：AIを「部下」ではなく「伴走者"
+          "overlay_text": "技術習得より「問いを立てる力」",
+          "subtext": "if塾では、AIを使いこなすための『指示力』を重視。エラー解決もAIと共に。中高生が社会課題を解決するアプリを即日リリースしています。",
+          "alt": "内容3 - 技術習得より「問いを立てる力」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-          "sub_title": "2026年3月最新アップデート：目的を伝えるだけで完結する未来",
-          "text_content": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "main_title": "中高生が90分でアプリを完成させた話",
+          "sub_title": "2026年3月最新版：Gemini 2.5 Ultraで爆速開発",
+          "text_content": "中高生が90分でアプリを完成させた話",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-01.png",
           "image_file": "assets/img/posts/20260311_development-01.png",
-          "overlay_text": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-          "subtext": "2026年3月最新アップデート：目的を伝えるだけで完結する未来",
-          "alt": "表紙 - 指示待ちはもう終わり。自律型AIエージェ"
+          "overlay_text": "中高生が90分でアプリを完成させた話",
+          "subtext": "2026年3月最新版：Gemini 2.5 Ultraで爆速開発",
+          "alt": "表紙 - 中高生が90分でアプリを完成させた話"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプト職人は不要？「指示疲れ」が限界に",
-          "sub_title": "これまでは細かな手順をAIに指示する必要がありました。でも、忙しい新学期準備や学習計画、もう『何を言えばいいか』で悩みたくないですよね。",
-          "text_content": "プロンプト職人は不要？「指示疲れ」が限界に",
+          "main_title": "春休み、自由研究のネタが古い？",
+          "sub_title": "「プログラミングは時間がかかる」という常識が、この春、完全に崩れました。2026年の学生はコードを書かずに、思考を形にします。",
+          "text_content": "春休み、自由研究のネタが古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-02.png",
           "image_file": "assets/img/posts/20260311_development-02.png",
-          "overlay_text": "プロンプト職人は不要？「指示疲れ」が限界に",
-          "subtext": "これまでは細かな手順をAIに指示する必要がありました。でも、忙しい新学期準備や学習計画、もう『何を言えばいいか』で悩みたくないですよね。",
-          "alt": "内容1 - プロンプト職人は不要？「指示疲れ」が限界"
+          "overlay_text": "春休み、自由研究のネタが古い？",
+          "subtext": "「プログラミングは時間がかかる」という常識が、この春、完全に崩れました。2026年の学生はコードを書かずに、思考を形にします。",
+          "alt": "内容1 - 春休み、自由研究のネタが古い？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の常識：Auto-Tasking AIの登場",
-          "sub_title": "「〇〇大学合格のための今月の学習計画を立てて、参考書を買っておいて」と伝えるだけ。AIが自らWeb検索、スケジュール調整、決済までを自律的に判断して実行します。",
-          "text_content": "2026年の常識：Auto-Tasking AIの登場",
+          "main_title": "対話だけで動く、90分の魔法",
+          "sub_title": "Geminiの最新マルチモーダル機能を活用。手書きの設計図をカメラに見せるだけで、AIがバックエンドまで一気にビルドする時代です。",
+          "text_content": "対話だけで動く、90分の魔法",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-03.png",
           "image_file": "assets/img/posts/20260311_development-03.png",
-          "overlay_text": "2026年の常識：Auto-Tasking AIの登場",
-          "subtext": "「〇〇大学合格のための今月の学習計画を立てて、参考書を買っておいて」と伝えるだけ。AIが自らWeb検索、スケジュール調整、決済までを自律的に判断して実行します。",
-          "alt": "内容2 - 2026年の常識：Auto-Taskin"
+          "overlay_text": "対話だけで動く、90分の魔法",
+          "subtext": "Geminiの最新マルチモーダル機能を活用。手書きの設計図をカメラに見せるだけで、AIがバックエンドまで一気にビルドする時代です。",
+          "alt": "内容2 - 対話だけで動く、90分の魔法"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」ではなく「伴走者」に",
-          "sub_title": "if塾では、この自律型AIを生徒一人ひとりの専用コーチとして導入。学習の遅れをAIが自ら検知し、最適な復習カリキュラムを勝手に生成。保護者への進捗報告も全自動です。",
-          "text_content": "if塾流：AIを「部下」ではなく「伴走者」に",
+          "main_title": "技術習得より「問いを立てる力」",
+          "sub_title": "if塾では、AIを使いこなすための『指示力』を重視。エラー解決もAIと共に。中高生が社会課題を解決するアプリを即日リリースしています。",
+          "text_content": "技術習得より「問いを立てる力」",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260311_development-04.png",
           "image_file": "assets/img/posts/20260311_development-04.png",
-          "overlay_text": "if塾流：AIを「部下」ではなく「伴走者」に",
-          "subtext": "if塾では、この自律型AIを生徒一人ひとりの専用コーチとして導入。学習の遅れをAIが自ら検知し、最適な復習カリキュラムを勝手に生成。保護者への進捗報告も全自動です。",
-          "alt": "内容3 - if塾流：AIを「部下」ではなく「伴走者"
+          "overlay_text": "技術習得より「問いを立てる力」",
+          "subtext": "if塾では、AIを使いこなすための『指示力』を重視。エラー解決もAIと共に。中高生が社会課題を解決するアプリを即日リリースしています。",
+          "alt": "内容3 - 技術習得より「問いを立てる力」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
+        "name": "井上陽斗",
         "role": "講師",
         "specialties": [
-          "AI",
-          "Webアプリ開発"
+          "プログラミング",
+          "ゲーム開発"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "井上陽斗（講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "inoue_haruto",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-11T13:59:15",
+      "research_date": "2026-03-11T20:38:50",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "指示待ちはもう終わり。自律型AIエージェ",
+        "cover_text": "中高生が90分でアプリを完成させた話",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
-            "subtext": "2026年3月最新アップデート：目的を伝えるだけで完結する未来",
+            "headline": "中高生が90分でアプリを完成させた話",
+            "subtext": "2026年3月最新版：Gemini 2.5 Ultraで爆速開発",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "プロンプト職人は不要？「指示疲れ」が限界に",
-            "subtext": "これまでは細かな手順をAIに指示する必要がありました。でも、忙しい新学期準備や学習計画、もう『何を言えばいいか』で悩みたくないですよね。",
+            "headline": "春休み、自由研究のネタが古い？",
+            "subtext": "「プログラミングは時間がかかる」という常識が、この春、完全に崩れました。2026年の学生はコードを書かずに、思考を形にします。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の常識：Auto-Tasking AIの登場",
-            "subtext": "「〇〇大学合格のための今月の学習計画を立てて、参考書を買っておいて」と伝えるだけ。AIが自らWeb検索、スケジュール調整、決済までを自律的に判断して実行します。",
+            "headline": "対話だけで動く、90分の魔法",
+            "subtext": "Geminiの最新マルチモーダル機能を活用。手書きの設計図をカメラに見せるだけで、AIがバックエンドまで一気にビルドする時代です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「部下」ではなく「伴走者」に",
-            "subtext": "if塾では、この自律型AIを生徒一人ひとりの専用コーチとして導入。学習の遅れをAIが自ら検知し、最適な復習カリキュラムを勝手に生成。保護者への進捗報告も全自動です。",
+            "headline": "技術習得より「問いを立てる力」",
+            "subtext": "if塾では、AIを使いこなすための『指示力』を重視。エラー解決もAIと共に。中高生が社会課題を解決するアプリを即日リリースしています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
