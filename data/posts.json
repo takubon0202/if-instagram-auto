@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 63,
-    "last_updated": "2026-03-11T20:40:20.420910",
+    "total_posts": 64,
+    "last_updated": "2026-03-12T11:05:59.760109",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260312_ai_column",
+      "post_id": "20260312_ai_column",
+      "created_at": "2026-03-12T11:05:59",
+      "datetime": "2026-03-12T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+      "target_audience": "Students & Parents",
+      "title": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+      "caption": "【2026年3月】最新AIニュースをお届け！\n\nOpenAIが発表した「インタラクティブ視覚解説機能」が、学習の常識を塗り替えています。📊\n\nこれまでの「文字を読む学習」から、AIが生成する動く図解を「触って理解する学習」へ。\n特に数学や物理の抽象的な概念に苦戦している学生さんにとって、この春最強の武器になります。\n\n「教科書の解説が宇宙語に見える…」\nそんな悩みは、もう過去のものかもしれません。\n\nif塾では、こうした最新AIツールを「正しく使いこなし、思考力を伸ばす方法」を指導しています。🤖✨\n\n新しい季節、最新のテクノロジーを味方につけて、最高のスタートダッシュを切りましょう！\n\n詳細は公式LINEでも配信中！プロフィールからチェックしてください。🏃‍♂️💨",
+      "caption_text": "【2026年3月】最新AIニュースをお届け！\n\nOpenAIが発表した「インタラクティブ視覚解説機能」が、学習の常識を塗り替えています。📊\n\nこれまでの「文字を読む学習」から、AIが生成する動く図解を「触って理解する学習」へ。\n特に数学や物理の抽象的な概念に苦戦している学生さんにとって、この春最強の武器になります。\n\n「教科書の解説が宇宙語に見える…」\nそんな悩みは、もう過去のものかもしれません。\n\nif塾では、こうした最新AIツールを「正しく使いこなし、思考力を伸ばす方法」を指導しています。🤖✨\n\n新しい季節、最新のテクノロジーを味方につけて、最高のスタートダッシュを切りましょう！\n\n詳細は公式LINEでも配信中！プロフィールからチェックしてください。🏃‍♂️💨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#ChatGPT",
+        "#OpenAI",
+        "#教育AI",
+        "#数学学習",
+        "#DX教育",
+        "#AIコラム",
+        "#最新技術"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "sub_title": "【2026年3月最新】期末テスト・受験準備の救世主",
+          "text_content": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-01.png",
+          "image_file": "assets/img/posts/20260312_ai_column-01.png",
+          "overlay_text": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "subtext": "【2026年3月最新】期末テスト・受験準備の救世主",
+          "alt": "表紙 - 数学が「動く」⁉ OpenAIの最新機能"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「解説を読んでもわからない」をゼロに",
+          "sub_title": "これまでのChatGPTはテキスト解説が中心でしたが、2026年春、ついに数式や物理現象をリアルタイムで図解・アニメーション化する『インタラクティブ視覚解説機能』が標準搭載されました。",
+          "text_content": "「解説を読んでもわからない」をゼロに",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-02.png",
+          "image_file": "assets/img/posts/20260312_ai_column-02.png",
+          "overlay_text": "「解説を読んでもわからない」をゼロに",
+          "subtext": "これまでのChatGPTはテキスト解説が中心でしたが、2026年春、ついに数式や物理現象をリアルタイムで図解・アニメーション化する『インタラクティブ視覚解説機能』が標準搭載されました。",
+          "alt": "内容1 - 「解説を読んでもわからない」をゼロに"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "グラフを指で動かして理解する新体験",
+          "sub_title": "「この関数の係数を変えたらグラフはどう動く？」という疑問に、AIがその場で可変グラフを生成。3月の復習シーズン、苦手な二次関数や微分積分も視覚的に一瞬で理解できるようになります。",
+          "text_content": "グラフを指で動かして理解する新体験",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-03.png",
+          "image_file": "assets/img/posts/20260312_ai_column-03.png",
+          "overlay_text": "グラフを指で動かして理解する新体験",
+          "subtext": "「この関数の係数を変えたらグラフはどう動く？」という疑問に、AIがその場で可変グラフを生成。3月の復習シーズン、苦手な二次関数や微分積分も視覚的に一瞬で理解できるようになります。",
+          "alt": "内容2 - グラフを指で動かして理解する新体験"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "sub_title": "プロの視点では、単に図を見るだけでなく「なぜこう動くのか」をAIに質問しながら操作するのがコツ。視覚情報と論理を紐付けることで、新学年からの応用力が飛躍的に高まります。",
+          "text_content": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-04.png",
+          "image_file": "assets/img/posts/20260312_ai_column-04.png",
+          "overlay_text": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "subtext": "プロの視点では、単に図を見るだけでなく「なぜこう動くのか」をAIに質問しながら操作するのがコツ。視覚情報と論理を紐付けることで、新学年からの応用力が飛躍的に高まります。",
+          "alt": "内容3 - if塾流：AIは「答え」ではなく「過程」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "sub_title": "【2026年3月最新】期末テスト・受験準備の救世主",
+          "text_content": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-01.png",
+          "image_file": "assets/img/posts/20260312_ai_column-01.png",
+          "overlay_text": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+          "subtext": "【2026年3月最新】期末テスト・受験準備の救世主",
+          "alt": "表紙 - 数学が「動く」⁉ OpenAIの最新機能"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「解説を読んでもわからない」をゼロに",
+          "sub_title": "これまでのChatGPTはテキスト解説が中心でしたが、2026年春、ついに数式や物理現象をリアルタイムで図解・アニメーション化する『インタラクティブ視覚解説機能』が標準搭載されました。",
+          "text_content": "「解説を読んでもわからない」をゼロに",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-02.png",
+          "image_file": "assets/img/posts/20260312_ai_column-02.png",
+          "overlay_text": "「解説を読んでもわからない」をゼロに",
+          "subtext": "これまでのChatGPTはテキスト解説が中心でしたが、2026年春、ついに数式や物理現象をリアルタイムで図解・アニメーション化する『インタラクティブ視覚解説機能』が標準搭載されました。",
+          "alt": "内容1 - 「解説を読んでもわからない」をゼロに"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "グラフを指で動かして理解する新体験",
+          "sub_title": "「この関数の係数を変えたらグラフはどう動く？」という疑問に、AIがその場で可変グラフを生成。3月の復習シーズン、苦手な二次関数や微分積分も視覚的に一瞬で理解できるようになります。",
+          "text_content": "グラフを指で動かして理解する新体験",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-03.png",
+          "image_file": "assets/img/posts/20260312_ai_column-03.png",
+          "overlay_text": "グラフを指で動かして理解する新体験",
+          "subtext": "「この関数の係数を変えたらグラフはどう動く？」という疑問に、AIがその場で可変グラフを生成。3月の復習シーズン、苦手な二次関数や微分積分も視覚的に一瞬で理解できるようになります。",
+          "alt": "内容2 - グラフを指で動かして理解する新体験"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "sub_title": "プロの視点では、単に図を見るだけでなく「なぜこう動くのか」をAIに質問しながら操作するのがコツ。視覚情報と論理を紐付けることで、新学年からの応用力が飛躍的に高まります。",
+          "text_content": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260312_ai_column-04.png",
+          "image_file": "assets/img/posts/20260312_ai_column-04.png",
+          "overlay_text": "if塾流：AIは「答え」ではなく「過程」に使え",
+          "subtext": "プロの視点では、単に図を見るだけでなく「なぜこう動くのか」をAIに質問しながら操作するのがコツ。視覚情報と論理を紐付けることで、新学年からの応用力が飛躍的に高まります。",
+          "alt": "内容3 - if塾流：AIは「答え」ではなく「過程」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260312_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260312_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260312_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260312_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-12T11:04:19",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "数学が「動く」⁉ OpenAIの最新機能",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "数学が「動く」⁉ OpenAIの最新機能がヤバすぎる",
+            "subtext": "【2026年3月最新】期末テスト・受験準備の救世主",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「解説を読んでもわからない」をゼロに",
+            "subtext": "これまでのChatGPTはテキスト解説が中心でしたが、2026年春、ついに数式や物理現象をリアルタイムで図解・アニメーション化する『インタラクティブ視覚解説機能』が標準搭載されました。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "グラフを指で動かして理解する新体験",
+            "subtext": "「この関数の係数を変えたらグラフはどう動く？」という疑問に、AIがその場で可変グラフを生成。3月の復習シーズン、苦手な二次関数や微分積分も視覚的に一瞬で理解できるようになります。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIは「答え」ではなく「過程」に使え",
+            "subtext": "プロの視点では、単に図を見るだけでなく「なぜこう動くのか」をAIに質問しながら操作するのがコツ。視覚情報と論理を紐付けることで、新学年からの応用力が飛躍的に高まります。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260311_development",
       "post_id": "20260311_development",
