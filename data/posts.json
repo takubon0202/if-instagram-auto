@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 64,
-    "last_updated": "2026-03-12T14:06:44.467978",
+    "last_updated": "2026-03-12T20:38:34.763424",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260312_ai_column",
       "post_id": "20260312_ai_column",
-      "created_at": "2026-03-12T14:06:44",
+      "created_at": "2026-03-12T20:38:34",
       "datetime": "2026-03-12T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
+      "theme": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
       "target_audience": "Students & Parents",
-      "title": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-      "caption": "【2026年3月】最新AI比較レポート！\n\n新学期を目前に控えた今、AIの進化が止まりません。\nついにリリースされたGPT-5.2とGemini 3 Pro。\n\n「どちらか一つ」を選ぶ時代は終わりました。\nこれからは「目的別に使い分ける」のが賢い選択です。\n\n・論理的思考が必要な課題なら：GPT-5.2\n・最新ニュースや学校情報の収集なら：Gemini 3 Pro\n\nif塾では、AIを道具として使いこなし、\n自分の時間を最大化する「AIリテラシー」を教えています。\n\n最新ツールに振り回されるのではなく、\n味方につけて最高のスタートダッシュを切りましょう！\n\n詳細は公式LINEで配布中の「2026年度AI活用マップ」をチェックしてください。\n\n#if塾 #2026年 #GPT5 #Gemini3 #AI教育 #新学期準備 #最新テック",
-      "caption_text": "【2026年3月】最新AI比較レポート！\n\n新学期を目前に控えた今、AIの進化が止まりません。\nついにリリースされたGPT-5.2とGemini 3 Pro。\n\n「どちらか一つ」を選ぶ時代は終わりました。\nこれからは「目的別に使い分ける」のが賢い選択です。\n\n・論理的思考が必要な課題なら：GPT-5.2\n・最新ニュースや学校情報の収集なら：Gemini 3 Pro\n\nif塾では、AIを道具として使いこなし、\n自分の時間を最大化する「AIリテラシー」を教えています。\n\n最新ツールに振り回されるのではなく、\n味方につけて最高のスタートダッシュを切りましょう！\n\n詳細は公式LINEで配布中の「2026年度AI活用マップ」をチェックしてください。\n\n#if塾 #2026年 #GPT5 #Gemini3 #AI教育 #新学期準備 #最新テック",
+      "title": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+      "caption": "【2026年3月】学習の常識が、また一つ塗り替えられました。\n\n昨日3月11日、ChatGPTの新機能『インタラクティブ視覚学習機能』がついに無料開放されました！\n\n「数式が抽象的すぎてわからない」\n「理科の現象をイメージできない」\n\nそんな悩みを持つ学生の皆さん、そしてサポートする保護者の皆様にとって、この春最大のニュースです。\n\n単なる静止画ではなく、自分が入力した数値に合わせてグラフや図解がリアルタイムで動く。この「触れる学習」が、深い理解を助けます。\n\nif塾では、AIを単なる解答ツールではなく、深い「思考のパートナー」として活用することを推奨しています。\n\n新学期を前に、この最新機能をぜひ親子で体験してみてください！\n\n詳細は公式LINEでも配信中。プロフィールのリンクからチェックしてくださいね✨",
+      "caption_text": "【2026年3月】学習の常識が、また一つ塗り替えられました。\n\n昨日3月11日、ChatGPTの新機能『インタラクティブ視覚学習機能』がついに無料開放されました！\n\n「数式が抽象的すぎてわからない」\n「理科の現象をイメージできない」\n\nそんな悩みを持つ学生の皆さん、そしてサポートする保護者の皆様にとって、この春最大のニュースです。\n\n単なる静止画ではなく、自分が入力した数値に合わせてグラフや図解がリアルタイムで動く。この「触れる学習」が、深い理解を助けます。\n\nif塾では、AIを単なる解答ツールではなく、深い「思考のパートナー」として活用することを推奨しています。\n\n新学期を前に、この最新機能をぜひ親子で体験してみてください！\n\n詳細は公式LINEでも配信中。プロフィールのリンクからチェックしてくださいね✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#GPT5",
-        "#Gemini3",
-        "#AI活用術",
-        "#教育AI",
-        "#新生活"
+        "#AI教育",
+        "#ChatGPT最新情報",
+        "#視覚学習",
+        "#数学苦手",
+        "#理科教育",
+        "#新学期準備"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-          "sub_title": "2026年3月最新版！新学期のAI使い分け術",
-          "text_content": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
+          "main_title": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+          "sub_title": "2026年3月最新アップデート：インタラクティブ視覚学習",
+          "text_content": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-01.png",
           "image_file": "assets/img/posts/20260312_ai_column-01.png",
-          "overlay_text": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-          "subtext": "2026年3月最新版！新学期のAI使い分け術",
-          "alt": "表紙 - GPT-5.2 vs Gemini 3 "
+          "overlay_text": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+          "subtext": "2026年3月最新アップデート：インタラクティブ視覚学習",
+          "alt": "表紙 - 数学・理科の『概念』が目に見える！Cha"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「結局どれがいいの？」という迷い",
-          "sub_title": "進級・進学準備で忙しい3月、タスクごとに最適なAIを選べていないと、貴重な時間を無駄にしてしまいます。",
-          "text_content": "「結局どれがいいの？」という迷い",
+          "main_title": "「解説を読んでもイメージできない」は、もう古い？",
+          "sub_title": "難解な数式や物理現象。2026年のAIは、ただテキストで教えるのではなく『リアルタイムで動く図解』を生成してくれます。",
+          "text_content": "「解説を読んでもイメージできない」は、もう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-02.png",
           "image_file": "assets/img/posts/20260312_ai_column-02.png",
-          "overlay_text": "「結局どれがいいの？」という迷い",
-          "subtext": "進級・進学準備で忙しい3月、タスクごとに最適なAIを選べていないと、貴重な時間を無駄にしてしまいます。",
-          "alt": "内容1 - 「結局どれがいいの？」という迷い"
+          "overlay_text": "「解説を読んでもイメージできない」は、もう古い？",
+          "subtext": "難解な数式や物理現象。2026年のAIは、ただテキストで教えるのではなく『リアルタイムで動く図解』を生成してくれます。",
+          "alt": "内容1 - 「解説を読んでもイメージできない」は、も"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "結論：論理のGPT、リアルタイムのGemini",
-          "sub_title": "超高精度のGPT-5.2は小論文や入試対策に。Gemini 3 Proは最新の学校情報検索やマルチモーダルな予定整理に最適です。",
-          "text_content": "結論：論理のGPT、リアルタイムのGemini",
+          "main_title": "3月11日解禁！『インタラクティブ視覚学習機能』",
+          "sub_title": "昨日から全ユーザーへ。数式を入力するだけで、変数をスライダーで動かせるグラフや、3Dで回転する分子構造がその場で出現します。",
+          "text_content": "3月11日解禁！『インタラクティブ視覚学習機能』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-03.png",
           "image_file": "assets/img/posts/20260312_ai_column-03.png",
-          "overlay_text": "結論：論理のGPT、リアルタイムのGemini",
-          "subtext": "超高精度のGPT-5.2は小論文や入試対策に。Gemini 3 Proは最新の学校情報検索やマルチモーダルな予定整理に最適です。",
-          "alt": "内容2 - 結論：論理のGPT、リアルタイムのGem"
+          "overlay_text": "3月11日解禁！『インタラクティブ視覚学習機能』",
+          "subtext": "昨日から全ユーザーへ。数式を入力するだけで、変数をスライダーで動かせるグラフや、3Dで回転する分子構造がその場で出現します。",
+          "alt": "内容2 - 3月11日解禁！『インタラクティブ視覚学"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：ハイブリッド「二刀流」活用術",
-          "sub_title": "GPTで構成案を作り、Geminiで最新の統計情報を参照して肉付け。2つのAIを連携させることで、学習効率は去年の3倍へ。",
-          "text_content": "if塾流：ハイブリッド「二刀流」活用術",
+          "main_title": "if塾流：思考のプロセスを視覚化せよ",
+          "sub_title": "答えを出すだけでなく「なぜそうなるか」を動かして体験するのがコツ。新学期の先取り学習に最適な、まさに『未来の家庭教師』です。",
+          "text_content": "if塾流：思考のプロセスを視覚化せよ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-04.png",
           "image_file": "assets/img/posts/20260312_ai_column-04.png",
-          "overlay_text": "if塾流：ハイブリッド「二刀流」活用術",
-          "subtext": "GPTで構成案を作り、Geminiで最新の統計情報を参照して肉付け。2つのAIを連携させることで、学習効率は去年の3倍へ。",
-          "alt": "内容3 - if塾流：ハイブリッド「二刀流」活用術"
+          "overlay_text": "if塾流：思考のプロセスを視覚化せよ",
+          "subtext": "答えを出すだけでなく「なぜそうなるか」を動かして体験するのがコツ。新学期の先取り学習に最適な、まさに『未来の家庭教師』です。",
+          "alt": "内容3 - if塾流：思考のプロセスを視覚化せよ"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-          "sub_title": "2026年3月最新版！新学期のAI使い分け術",
-          "text_content": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
+          "main_title": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+          "sub_title": "2026年3月最新アップデート：インタラクティブ視覚学習",
+          "text_content": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-01.png",
           "image_file": "assets/img/posts/20260312_ai_column-01.png",
-          "overlay_text": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-          "subtext": "2026年3月最新版！新学期のAI使い分け術",
-          "alt": "表紙 - GPT-5.2 vs Gemini 3 "
+          "overlay_text": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+          "subtext": "2026年3月最新アップデート：インタラクティブ視覚学習",
+          "alt": "表紙 - 数学・理科の『概念』が目に見える！Cha"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「結局どれがいいの？」という迷い",
-          "sub_title": "進級・進学準備で忙しい3月、タスクごとに最適なAIを選べていないと、貴重な時間を無駄にしてしまいます。",
-          "text_content": "「結局どれがいいの？」という迷い",
+          "main_title": "「解説を読んでもイメージできない」は、もう古い？",
+          "sub_title": "難解な数式や物理現象。2026年のAIは、ただテキストで教えるのではなく『リアルタイムで動く図解』を生成してくれます。",
+          "text_content": "「解説を読んでもイメージできない」は、もう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-02.png",
           "image_file": "assets/img/posts/20260312_ai_column-02.png",
-          "overlay_text": "「結局どれがいいの？」という迷い",
-          "subtext": "進級・進学準備で忙しい3月、タスクごとに最適なAIを選べていないと、貴重な時間を無駄にしてしまいます。",
-          "alt": "内容1 - 「結局どれがいいの？」という迷い"
+          "overlay_text": "「解説を読んでもイメージできない」は、もう古い？",
+          "subtext": "難解な数式や物理現象。2026年のAIは、ただテキストで教えるのではなく『リアルタイムで動く図解』を生成してくれます。",
+          "alt": "内容1 - 「解説を読んでもイメージできない」は、も"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "結論：論理のGPT、リアルタイムのGemini",
-          "sub_title": "超高精度のGPT-5.2は小論文や入試対策に。Gemini 3 Proは最新の学校情報検索やマルチモーダルな予定整理に最適です。",
-          "text_content": "結論：論理のGPT、リアルタイムのGemini",
+          "main_title": "3月11日解禁！『インタラクティブ視覚学習機能』",
+          "sub_title": "昨日から全ユーザーへ。数式を入力するだけで、変数をスライダーで動かせるグラフや、3Dで回転する分子構造がその場で出現します。",
+          "text_content": "3月11日解禁！『インタラクティブ視覚学習機能』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-03.png",
           "image_file": "assets/img/posts/20260312_ai_column-03.png",
-          "overlay_text": "結論：論理のGPT、リアルタイムのGemini",
-          "subtext": "超高精度のGPT-5.2は小論文や入試対策に。Gemini 3 Proは最新の学校情報検索やマルチモーダルな予定整理に最適です。",
-          "alt": "内容2 - 結論：論理のGPT、リアルタイムのGem"
+          "overlay_text": "3月11日解禁！『インタラクティブ視覚学習機能』",
+          "subtext": "昨日から全ユーザーへ。数式を入力するだけで、変数をスライダーで動かせるグラフや、3Dで回転する分子構造がその場で出現します。",
+          "alt": "内容2 - 3月11日解禁！『インタラクティブ視覚学"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：ハイブリッド「二刀流」活用術",
-          "sub_title": "GPTで構成案を作り、Geminiで最新の統計情報を参照して肉付け。2つのAIを連携させることで、学習効率は去年の3倍へ。",
-          "text_content": "if塾流：ハイブリッド「二刀流」活用術",
+          "main_title": "if塾流：思考のプロセスを視覚化せよ",
+          "sub_title": "答えを出すだけでなく「なぜそうなるか」を動かして体験するのがコツ。新学期の先取り学習に最適な、まさに『未来の家庭教師』です。",
+          "text_content": "if塾流：思考のプロセスを視覚化せよ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260312_ai_column-04.png",
           "image_file": "assets/img/posts/20260312_ai_column-04.png",
-          "overlay_text": "if塾流：ハイブリッド「二刀流」活用術",
-          "subtext": "GPTで構成案を作り、Geminiで最新の統計情報を参照して肉付け。2つのAIを連携させることで、学習効率は去年の3倍へ。",
-          "alt": "内容3 - if塾流：ハイブリッド「二刀流」活用術"
+          "overlay_text": "if塾流：思考のプロセスを視覚化せよ",
+          "subtext": "答えを出すだけでなく「なぜそうなるか」を動かして体験するのがコツ。新学期の先取り学習に最適な、まさに『未来の家庭教師』です。",
+          "alt": "内容3 - if塾流：思考のプロセスを視覚化せよ"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-12T14:05:14",
+      "research_date": "2026-03-12T20:36:35",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "GPT-5.2 vs Gemini 3 ",
+        "cover_text": "数学・理科の『概念』が目に見える！Cha",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "GPT-5.2 vs Gemini 3 Pro どっちが正解？",
-            "subtext": "2026年3月最新版！新学期のAI使い分け術",
+            "headline": "数学・理科の『概念』が目に見える！ChatGPT衝撃の新機能が無料開放",
+            "subtext": "2026年3月最新アップデート：インタラクティブ視覚学習",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「結局どれがいいの？」という迷い",
-            "subtext": "進級・進学準備で忙しい3月、タスクごとに最適なAIを選べていないと、貴重な時間を無駄にしてしまいます。",
+            "headline": "「解説を読んでもイメージできない」は、もう古い？",
+            "subtext": "難解な数式や物理現象。2026年のAIは、ただテキストで教えるのではなく『リアルタイムで動く図解』を生成してくれます。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "結論：論理のGPT、リアルタイムのGemini",
-            "subtext": "超高精度のGPT-5.2は小論文や入試対策に。Gemini 3 Proは最新の学校情報検索やマルチモーダルな予定整理に最適です。",
+            "headline": "3月11日解禁！『インタラクティブ視覚学習機能』",
+            "subtext": "昨日から全ユーザーへ。数式を入力するだけで、変数をスライダーで動かせるグラフや、3Dで回転する分子構造がその場で出現します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：ハイブリッド「二刀流」活用術",
-            "subtext": "GPTで構成案を作り、Geminiで最新の統計情報を参照して肉付け。2つのAIを連携させることで、学習効率は去年の3倍へ。",
+            "headline": "if塾流：思考のプロセスを視覚化せよ",
+            "subtext": "答えを出すだけでなく「なぜそうなるか」を動かして体験するのがコツ。新学期の先取り学習に最適な、まさに『未来の家庭教師』です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
