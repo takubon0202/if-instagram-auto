@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 67,
-    "last_updated": "2026-03-15T20:34:10.313391",
+    "total_posts": 68,
+    "last_updated": "2026-03-16T11:27:09.999948",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260316_announcement",
+      "post_id": "20260316_announcement",
+      "created_at": "2026-03-16T11:27:09",
+      "datetime": "2026-03-16T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+      "caption": "【2026年3月】最新トレンドをお届けします📢\n\n新年度を目前に控え、ITスキルの常識が大きく塗り替わっています。\n\n「AIにコードを書いてもらう」段階から、\n「自律して働くAIエージェントを構築する」段階へ。\n\n2026年の今、企業が喉から手が出るほど欲しがっているのは、\nAIを一つのツールとしてではなく、\n「チームメンバー（エージェント）」として設計できる人材です。\n\nこの春、if塾で新しい時代の武器を手に入れませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "caption_text": "【2026年3月】最新トレンドをお届けします📢\n\n新年度を目前に控え、ITスキルの常識が大きく塗り替わっています。\n\n「AIにコードを書いてもらう」段階から、\n「自律して働くAIエージェントを構築する」段階へ。\n\n2026年の今、企業が喉から手が出るほど欲しがっているのは、\nAIを一つのツールとしてではなく、\n「チームメンバー（エージェント）」として設計できる人材です。\n\nこの春、if塾で新しい時代の武器を手に入れませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#自律型AI",
+        "#プログラミング学習",
+        "#最新テックニュース",
+        "#春休み勉強"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "sub_title": "3.16最新：進級・進学前に知っておくべき生存戦略",
+          "text_content": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-01.png",
+          "image_file": "assets/img/posts/20260316_announcement-01.png",
+          "overlay_text": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "subtext": "3.16最新：進級・進学前に知っておくべき生存戦略",
+          "alt": "表紙 - 【2026年最新】コード生成の時代は終わ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIがコードを書く」のは当たり前の世界へ",
+          "sub_title": "2026年現在、単なるプログラミング知識だけでは不足しています。今求められているのは、AIに指示を出す力ではなく、自律して動く「AIエージェント」を設計・構築する力です。",
+          "text_content": "「AIがコードを書く」のは当たり前の世界へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-02.png",
+          "image_file": "assets/img/posts/20260316_announcement-02.png",
+          "overlay_text": "「AIがコードを書く」のは当たり前の世界へ",
+          "subtext": "2026年現在、単なるプログラミング知識だけでは不足しています。今求められているのは、AIに指示を出す力ではなく、自律して動く「AIエージェント」を設計・構築する力です。",
+          "alt": "内容1 - 「AIがコードを書く」のは当たり前の世界"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "sub_title": "最新のAIエージェントは自ら考え、タスクを完遂します。この仕組みを理解し、開発側に回ることで、学生も社会人も市場価値が圧倒的に高まるフェーズに突入しました。",
+          "text_content": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-03.png",
+          "image_file": "assets/img/posts/20260316_announcement-03.png",
+          "overlay_text": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "subtext": "最新のAIエージェントは自ら考え、タスクを完遂します。この仕組みを理解し、開発側に回ることで、学生も社会人も市場価値が圧倒的に高まるフェーズに突入しました。",
+          "alt": "内容2 - 自律型AIを使いこなす技術が「選ばれる条"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で学ぶ「2026年型」エンジニアリング",
+          "sub_title": "春休みからスタート！if塾では、Auto-Agentの構築からマルチエージェントシステムの運用まで、次世代のスタンダードを実践形式で学びます。今こそ一歩先へ。",
+          "text_content": "if塾で学ぶ「2026年型」エンジニアリング",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-04.png",
+          "image_file": "assets/img/posts/20260316_announcement-04.png",
+          "overlay_text": "if塾で学ぶ「2026年型」エンジニアリング",
+          "subtext": "春休みからスタート！if塾では、Auto-Agentの構築からマルチエージェントシステムの運用まで、次世代のスタンダードを実践形式で学びます。今こそ一歩先へ。",
+          "alt": "内容3 - if塾で学ぶ「2026年型」エンジニアリ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "sub_title": "3.16最新：進級・進学前に知っておくべき生存戦略",
+          "text_content": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-01.png",
+          "image_file": "assets/img/posts/20260316_announcement-01.png",
+          "overlay_text": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+          "subtext": "3.16最新：進級・進学前に知っておくべき生存戦略",
+          "alt": "表紙 - 【2026年最新】コード生成の時代は終わ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIがコードを書く」のは当たり前の世界へ",
+          "sub_title": "2026年現在、単なるプログラミング知識だけでは不足しています。今求められているのは、AIに指示を出す力ではなく、自律して動く「AIエージェント」を設計・構築する力です。",
+          "text_content": "「AIがコードを書く」のは当たり前の世界へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-02.png",
+          "image_file": "assets/img/posts/20260316_announcement-02.png",
+          "overlay_text": "「AIがコードを書く」のは当たり前の世界へ",
+          "subtext": "2026年現在、単なるプログラミング知識だけでは不足しています。今求められているのは、AIに指示を出す力ではなく、自律して動く「AIエージェント」を設計・構築する力です。",
+          "alt": "内容1 - 「AIがコードを書く」のは当たり前の世界"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "sub_title": "最新のAIエージェントは自ら考え、タスクを完遂します。この仕組みを理解し、開発側に回ることで、学生も社会人も市場価値が圧倒的に高まるフェーズに突入しました。",
+          "text_content": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-03.png",
+          "image_file": "assets/img/posts/20260316_announcement-03.png",
+          "overlay_text": "自律型AIを使いこなす技術が「選ばれる条件」",
+          "subtext": "最新のAIエージェントは自ら考え、タスクを完遂します。この仕組みを理解し、開発側に回ることで、学生も社会人も市場価値が圧倒的に高まるフェーズに突入しました。",
+          "alt": "内容2 - 自律型AIを使いこなす技術が「選ばれる条"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で学ぶ「2026年型」エンジニアリング",
+          "sub_title": "春休みからスタート！if塾では、Auto-Agentの構築からマルチエージェントシステムの運用まで、次世代のスタンダードを実践形式で学びます。今こそ一歩先へ。",
+          "text_content": "if塾で学ぶ「2026年型」エンジニアリング",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260316_announcement-04.png",
+          "image_file": "assets/img/posts/20260316_announcement-04.png",
+          "overlay_text": "if塾で学ぶ「2026年型」エンジニアリング",
+          "subtext": "春休みからスタート！if塾では、Auto-Agentの構築からマルチエージェントシステムの運用まで、次世代のスタンダードを実践形式で学びます。今こそ一歩先へ。",
+          "alt": "内容3 - if塾で学ぶ「2026年型」エンジニアリ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260316_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260316_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260316_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260316_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-16T11:25:30",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】コード生成の時代は終わ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】コード生成の時代は終わった？AIエージェント開発が必須スキルに",
+            "subtext": "3.16最新：進級・進学前に知っておくべき生存戦略",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIがコードを書く」のは当たり前の世界へ",
+            "subtext": "2026年現在、単なるプログラミング知識だけでは不足しています。今求められているのは、AIに指示を出す力ではなく、自律して動く「AIエージェント」を設計・構築する力です。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型AIを使いこなす技術が「選ばれる条件」",
+            "subtext": "最新のAIエージェントは自ら考え、タスクを完遂します。この仕組みを理解し、開発側に回ることで、学生も社会人も市場価値が圧倒的に高まるフェーズに突入しました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾で学ぶ「2026年型」エンジニアリング",
+            "subtext": "春休みからスタート！if塾では、Auto-Agentの構築からマルチエージェントシステムの運用まで、次世代のスタンダードを実践形式で学びます。今こそ一歩先へ。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260315_activity",
       "post_id": "20260315_activity",
