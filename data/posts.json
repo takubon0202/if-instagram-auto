@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 69,
-    "last_updated": "2026-03-17T11:06:26.394006",
+    "last_updated": "2026-03-17T14:11:25.213721",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,25 @@
     {
       "id": "20260317_education",
       "post_id": "20260317_education",
-      "created_at": "2026-03-17T11:06:26",
+      "created_at": "2026-03-17T14:11:25",
       "datetime": "2026-03-17T09:00:00+09:00",
       "type": "carousel",
       "category": "education",
-      "theme": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
+      "theme": "2026年版：大学入学共通テスト「情報I」2",
       "target_audience": "Students & Parents",
-      "title": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-      "caption": "【2026年3月】最新の入試速報をお届けします。\n\n今年の東大合格発表、そして共通テストの結果を経て、教育界には激震が走っています。\nついにGPT-5.2世代のAIが、難関入試のハードルを「知能」ではなく「作業」に変えてしまいました。\n\n「AIが答えを出せる時代に、子供は何を学べばいいの？」\nそんな不安を抱える保護者の方も多いはず。\n\nしかし、if塾はこれをチャンスと捉えています。\n知識の習得をAIに任せられる今だからこそ、人間は「問いを立てる」「価値を判断する」という、より高次元な学びに集中できるからです。\n\n2026年度、新しいステージの教育を一緒に始めませんか？\n詳細はプロフィールのリンクから公式LINEへ！\n\n#if塾 #2026年 #GPT5 #東大入試 #共通テスト #最新教育 #AI活用 #中学受験 #高校受験 #大学受験 #教育の再定義",
-      "caption_text": "【2026年3月】最新の入試速報をお届けします。\n\n今年の東大合格発表、そして共通テストの結果を経て、教育界には激震が走っています。\nついにGPT-5.2世代のAIが、難関入試のハードルを「知能」ではなく「作業」に変えてしまいました。\n\n「AIが答えを出せる時代に、子供は何を学べばいいの？」\nそんな不安を抱える保護者の方も多いはず。\n\nしかし、if塾はこれをチャンスと捉えています。\n知識の習得をAIに任せられる今だからこそ、人間は「問いを立てる」「価値を判断する」という、より高次元な学びに集中できるからです。\n\n2026年度、新しいステージの教育を一緒に始めませんか？\n詳細はプロフィールのリンクから公式LINEへ！\n\n#if塾 #2026年 #GPT5 #東大入試 #共通テスト #最新教育 #AI活用 #中学受験 #高校受験 #大学受験 #教育の再定義",
+      "title": "2026年版：大学入学共通テスト「情報I」2",
+      "caption": "【2026年3月】大学入学共通テスト「情報I」2年目の安定と定着：2026年1月実施結果の分析と次年度対策\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "caption_text": "【2026年3月】大学入学共通テスト「情報I」2年目の安定と定着：2026年1月実施結果の分析と次年度対策\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#GPT5",
-        "#教育革命",
-        "#AI共生時代",
-        "#最新入試"
+        "#if塾",
+        "#教育",
+        "#プログラミング教育",
+        "#AI時代",
+        "#子育て",
+        "#保護者向け",
+        "#将来のスキル"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-          "sub_title": "3月10日の合格発表を受けて分かった、教育の再定義",
-          "text_content": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
+          "main_title": "2026年版：大学入学共通テスト「情報I」2",
+          "sub_title": "3月の最新情報",
+          "text_content": "2026年版：大学入学共通テスト「情報I」2",
           "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-01.png",
           "image_file": "assets/img/posts/20260317_education-01.png",
-          "overlay_text": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-          "subtext": "3月10日の合格発表を受けて分かった、教育の再定義",
-          "alt": "表紙 - GPT-5.2が東大入試を席巻。知識の価"
+          "overlay_text": "2026年版：大学入学共通テスト「情報I」2",
+          "subtext": "3月の最新情報",
+          "alt": "表紙 - 2026年版：大学入学共通テスト「情報I"
         },
         {
           "page_number": 2,
@@ -57,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "共通テスト「AI平均点」が人間を圧倒",
-          "sub_title": "2026年度入試、GPT-5.2は共通テストで9割を軽々突破。もはや「解き方」を教える教育は限界を迎えています。保護者の不安は「何を学べば生き残れるのか」に集中しています。",
-          "text_content": "共通テスト「AI平均点」が人間を圧倒",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-02.png",
           "image_file": "assets/img/posts/20260317_education-02.png",
-          "overlay_text": "共通テスト「AI平均点」が人間を圧倒",
-          "subtext": "2026年度入試、GPT-5.2は共通テストで9割を軽々突破。もはや「解き方」を教える教育は限界を迎えています。保護者の不安は「何を学べば生き残れるのか」に集中しています。",
-          "alt": "内容1 - 共通テスト「AI平均点」が人間を圧倒"
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -73,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
-          "sub_title": "最新AIを使いこなす生徒は、単なる暗記ではなく「多角的な問いを立てる力」を磨いています。2026年の学びは、AIが出した答えを批判的に評価する「メタ認知能力」が軸になります。",
-          "text_content": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-03.png",
           "image_file": "assets/img/posts/20260317_education-03.png",
-          "overlay_text": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
-          "subtext": "最新AIを使いこなす生徒は、単なる暗記ではなく「多角的な問いを立てる力」を磨いています。2026年の学びは、AIが出した答えを批判的に評価する「メタ認知能力」が軸になります。",
-          "alt": "内容2 - if塾の視点：AIは『解答ツール』ではな"
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -89,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ「プロンプト読解力」を鍛えよう",
-          "sub_title": "春休みにやるべきは過去問の周回ではなく、AIと対話して概念の深層を理解すること。if塾ではGPT-5.2と連携した独自の『伴走型カリキュラム』で、人間にしかできない論理構築力を養成します。",
-          "text_content": "今すぐ「プロンプト読解力」を鍛えよう",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-04.png",
           "image_file": "assets/img/posts/20260317_education-04.png",
-          "overlay_text": "今すぐ「プロンプト読解力」を鍛えよう",
-          "subtext": "春休みにやるべきは過去問の周回ではなく、AIと対話して概念の深層を理解すること。if塾ではGPT-5.2と連携した独自の『伴走型カリキュラム』で、人間にしかできない論理構築力を養成します。",
-          "alt": "内容3 - 今すぐ「プロンプト読解力」を鍛えよう"
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -123,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-          "sub_title": "3月10日の合格発表を受けて分かった、教育の再定義",
-          "text_content": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
+          "main_title": "2026年版：大学入学共通テスト「情報I」2",
+          "sub_title": "3月の最新情報",
+          "text_content": "2026年版：大学入学共通テスト「情報I」2",
           "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-01.png",
           "image_file": "assets/img/posts/20260317_education-01.png",
-          "overlay_text": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-          "subtext": "3月10日の合格発表を受けて分かった、教育の再定義",
-          "alt": "表紙 - GPT-5.2が東大入試を席巻。知識の価"
+          "overlay_text": "2026年版：大学入学共通テスト「情報I」2",
+          "subtext": "3月の最新情報",
+          "alt": "表紙 - 2026年版：大学入学共通テスト「情報I"
         },
         {
           "page_number": 2,
@@ -139,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "共通テスト「AI平均点」が人間を圧倒",
-          "sub_title": "2026年度入試、GPT-5.2は共通テストで9割を軽々突破。もはや「解き方」を教える教育は限界を迎えています。保護者の不安は「何を学べば生き残れるのか」に集中しています。",
-          "text_content": "共通テスト「AI平均点」が人間を圧倒",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-02.png",
           "image_file": "assets/img/posts/20260317_education-02.png",
-          "overlay_text": "共通テスト「AI平均点」が人間を圧倒",
-          "subtext": "2026年度入試、GPT-5.2は共通テストで9割を軽々突破。もはや「解き方」を教える教育は限界を迎えています。保護者の不安は「何を学べば生き残れるのか」に集中しています。",
-          "alt": "内容1 - 共通テスト「AI平均点」が人間を圧倒"
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -155,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
-          "sub_title": "最新AIを使いこなす生徒は、単なる暗記ではなく「多角的な問いを立てる力」を磨いています。2026年の学びは、AIが出した答えを批判的に評価する「メタ認知能力」が軸になります。",
-          "text_content": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-03.png",
           "image_file": "assets/img/posts/20260317_education-03.png",
-          "overlay_text": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
-          "subtext": "最新AIを使いこなす生徒は、単なる暗記ではなく「多角的な問いを立てる力」を磨いています。2026年の学びは、AIが出した答えを批判的に評価する「メタ認知能力」が軸になります。",
-          "alt": "内容2 - if塾の視点：AIは『解答ツール』ではな"
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -171,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ「プロンプト読解力」を鍛えよう",
-          "sub_title": "春休みにやるべきは過去問の周回ではなく、AIと対話して概念の深層を理解すること。if塾ではGPT-5.2と連携した独自の『伴走型カリキュラム』で、人間にしかできない論理構築力を養成します。",
-          "text_content": "今すぐ「プロンプト読解力」を鍛えよう",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260317_education-04.png",
           "image_file": "assets/img/posts/20260317_education-04.png",
-          "overlay_text": "今すぐ「プロンプト読解力」を鍛えよう",
-          "subtext": "春休みにやるべきは過去問の周回ではなく、AIと対話して概念の深層を理解すること。if塾ではGPT-5.2と連携した独自の『伴走型カリキュラム』で、人間にしかできない論理構築力を養成します。",
-          "alt": "内容3 - 今すぐ「プロンプト読解力」を鍛えよう"
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -242,7 +245,7 @@
         "reason": "educationカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-17T11:04:52",
+      "research_date": "2026-03-17T14:09:59",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "GPT-5.2が東大入試を席巻。知識の価",
+        "cover_text": "2026年版：大学入学共通テスト「情報I",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "GPT-5.2が東大入試を席巻。知識の価値が消えた「2026年・春」",
-            "subtext": "3月10日の合格発表を受けて分かった、教育の再定義",
+            "headline": "2026年版：大学入学共通テスト「情報I」2",
+            "subtext": "3月の最新情報",
             "purpose": "問いかけ・逆説",
             "staff_image": null
           },
@@ -266,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "共通テスト「AI平均点」が人間を圧倒",
-            "subtext": "2026年度入試、GPT-5.2は共通テストで9割を軽々突破。もはや「解き方」を教える教育は限界を迎えています。保護者の不安は「何を学べば生き残れるのか」に集中しています。",
+            "headline": "こんな悩みありませんか？",
+            "subtext": "2026年の課題",
             "purpose": "世の中の流れ（現状の課題）",
             "staff_image": null
           },
@@ -275,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "if塾の視点：AIは『解答ツール』ではなく『思考の壁打ち相手』",
-            "subtext": "最新AIを使いこなす生徒は、単なる暗記ではなく「多角的な問いを立てる力」を磨いています。2026年の学びは、AIが出した答えを批判的に評価する「メタ認知能力」が軸になります。",
+            "headline": "2026年の解決策をご紹介",
+            "subtext": "最新ツールで解決",
             "purpose": "if塾の考え（解決策・視点）",
             "staff_image": null
           },
@@ -284,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "今すぐ「プロンプト読解力」を鍛えよう",
-            "subtext": "春休みにやるべきは過去問の周回ではなく、AIと対話して概念の深層を理解すること。if塾ではGPT-5.2と連携した独自の『伴走型カリキュラム』で、人間にしかできない論理構築力を養成します。",
+            "headline": "今すぐ始めよう",
+            "subtext": "if塾で学ぶ",
             "purpose": "今やるべきこと（提案）",
             "staff_image": null
           },
