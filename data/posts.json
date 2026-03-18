@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 69,
-    "last_updated": "2026-03-17T20:49:16.770946",
+    "total_posts": 70,
+    "last_updated": "2026-03-18T11:10:35.027419",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260318_development",
+      "post_id": "20260318_development",
+      "created_at": "2026-03-18T11:10:35",
+      "datetime": "2026-03-18T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+      "target_audience": "Students & Parents",
+      "title": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+      "caption": "【2026年3月】最新の開発トレンドをお届け！\n\n新学期を控えたこの時期、開発の常識が塗り替えられています。\nこれまでは「AIにコードを書いてもらう」のが主流でしたが、今は「AIエージェントにプロジェクトを任せる」時代です。\n\n「こんなアプリが欲しい」と目的を伝えるだけで、AIが自律的に考え、ツールを使い分け、完成まで走り抜けます。人間は最終確認をするだけの「ディレクター」へ。\n\nif塾では、この最新技術を使いこなし、圧倒的なスピードで形にする力を伝えています。\n春休みの間に、一歩先の未来を体験してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年3月】最新の開発トレンドをお届け！\n\n新学期を控えたこの時期、開発の常識が塗り替えられています。\nこれまでは「AIにコードを書いてもらう」のが主流でしたが、今は「AIエージェントにプロジェクトを任せる」時代です。\n\n「こんなアプリが欲しい」と目的を伝えるだけで、AIが自律的に考え、ツールを使い分け、完成まで走り抜けます。人間は最終確認をするだけの「ディレクター」へ。\n\nif塾では、この最新技術を使いこなし、圧倒的なスピードで形にする力を伝えています。\n春休みの間に、一歩先の未来を体験してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#自律型AI",
+        "#プログラミング学習",
+        "#最新技術",
+        "#エンジニアの未来",
+        "#春休み"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "sub_title": "2026年3月最新：自律型アプリ開発の衝撃",
+          "text_content": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-01.png",
+          "image_file": "assets/img/posts/20260318_development-01.png",
+          "overlay_text": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "subtext": "2026年3月最新：自律型アプリ開発の衝撃",
+          "alt": "表紙 - 指示はもう古い？AIエージェントが「勝手"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休み、プログラミング学習で挫折していませんか？",
+          "sub_title": "「エラーが直せない」「コードの書き方が分からない」という悩みは、2026年にはもう存在しません。",
+          "text_content": "春休み、プログラミング学習で挫折していませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-02.png",
+          "image_file": "assets/img/posts/20260318_development-02.png",
+          "overlay_text": "春休み、プログラミング学習で挫折していませんか？",
+          "subtext": "「エラーが直せない」「コードの書き方が分からない」という悩みは、2026年にはもう存在しません。",
+          "alt": "内容1 - 春休み、プログラミング学習で挫折していま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "sub_title": "最新のAIエージェントは、自らタスクを分解。バグ修正も外部API連携も、人間を待たずに自律的に実行します。",
+          "text_content": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-03.png",
+          "image_file": "assets/img/posts/20260318_development-03.png",
+          "overlay_text": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "subtext": "最新のAIエージェントは、自らタスクを分解。バグ修正も外部API連携も、人間を待たずに自律的に実行します。",
+          "alt": "内容2 - 「作って」の一言で、AIが要件定義からデ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "sub_title": "書く力より「何を作るか」を定義する力。AIを部下のように使いこなし、1日で商用レベルのアプリをリリースする体験を。",
+          "text_content": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-04.png",
+          "image_file": "assets/img/posts/20260318_development-04.png",
+          "overlay_text": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "subtext": "書く力より「何を作るか」を定義する力。AIを部下のように使いこなし、1日で商用レベルのアプリをリリースする体験を。",
+          "alt": "内容3 - if塾が教える、2026年を生き抜く「監"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "sub_title": "2026年3月最新：自律型アプリ開発の衝撃",
+          "text_content": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-01.png",
+          "image_file": "assets/img/posts/20260318_development-01.png",
+          "overlay_text": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+          "subtext": "2026年3月最新：自律型アプリ開発の衝撃",
+          "alt": "表紙 - 指示はもう古い？AIエージェントが「勝手"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休み、プログラミング学習で挫折していませんか？",
+          "sub_title": "「エラーが直せない」「コードの書き方が分からない」という悩みは、2026年にはもう存在しません。",
+          "text_content": "春休み、プログラミング学習で挫折していませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-02.png",
+          "image_file": "assets/img/posts/20260318_development-02.png",
+          "overlay_text": "春休み、プログラミング学習で挫折していませんか？",
+          "subtext": "「エラーが直せない」「コードの書き方が分からない」という悩みは、2026年にはもう存在しません。",
+          "alt": "内容1 - 春休み、プログラミング学習で挫折していま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "sub_title": "最新のAIエージェントは、自らタスクを分解。バグ修正も外部API連携も、人間を待たずに自律的に実行します。",
+          "text_content": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-03.png",
+          "image_file": "assets/img/posts/20260318_development-03.png",
+          "overlay_text": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+          "subtext": "最新のAIエージェントは、自らタスクを分解。バグ修正も外部API連携も、人間を待たずに自律的に実行します。",
+          "alt": "内容2 - 「作って」の一言で、AIが要件定義からデ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "sub_title": "書く力より「何を作るか」を定義する力。AIを部下のように使いこなし、1日で商用レベルのアプリをリリースする体験を。",
+          "text_content": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260318_development-04.png",
+          "image_file": "assets/img/posts/20260318_development-04.png",
+          "overlay_text": "if塾が教える、2026年を生き抜く「監督」のスキル",
+          "subtext": "書く力より「何を作るか」を定義する力。AIを部下のように使いこなし、1日で商用レベルのアプリをリリースする体験を。",
+          "alt": "内容3 - if塾が教える、2026年を生き抜く「監"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260318_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260318_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260318_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260318_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-18T11:09:00",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示はもう古い？AIエージェントが「勝手",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示はもう古い？AIエージェントが「勝手に作る」新時代",
+            "subtext": "2026年3月最新：自律型アプリ開発の衝撃",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "春休み、プログラミング学習で挫折していませんか？",
+            "subtext": "「エラーが直せない」「コードの書き方が分からない」という悩みは、2026年にはもう存在しません。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「作って」の一言で、AIが要件定義からデプロイまで完結",
+            "subtext": "最新のAIエージェントは、自らタスクを分解。バグ修正も外部API連携も、人間を待たずに自律的に実行します。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える、2026年を生き抜く「監督」のスキル",
+            "subtext": "書く力より「何を作るか」を定義する力。AIを部下のように使いこなし、1日で商用レベルのアプリをリリースする体験を。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260317_education",
       "post_id": "20260317_education",
