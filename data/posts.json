@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 70,
-    "last_updated": "2026-03-18T20:52:27.833373",
+    "total_posts": 71,
+    "last_updated": "2026-03-19T11:11:06.542959",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260319_ai_column",
+      "post_id": "20260319_ai_column",
+      "created_at": "2026-03-19T11:11:06",
+      "datetime": "2026-03-19T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+      "caption": "【2026年3月】最新AIニュースをお届けします！\n\nついにPC操作の自動化が「当たり前」の時代になりました。\n今話題の自律型AIエージェント「OpenClaw（オープンクロウ）」を知っていますか？\n\nこれまでのAIは「文章を作るだけ」でしたが、OpenClawはあなたの代わりにマウスを動かし、クリックし、資料を完成させます。\n\n春休み、新学期の準備に追われる保護者や学生の皆さんにとって、このツールは最強の味方になるはずです。\n\nしかし、if塾が最も伝えたいのは「自動化の先」にある能力です。\nAIが作業を代行してくれるからこそ、空いた時間で「自分はどう生きたいか」「何を学びたいか」という本質的な問いに向き合うチャンスです。\n\n最新ツールに振り回されず、使いこなす側に回りましょう！\n\n詳細はプロフィール欄のリンクからチェック！\n#if塾 #AI教育 #OpenClaw #自律型AI #2026年最新 #PC自動化 #新学期準備",
+      "caption_text": "【2026年3月】最新AIニュースをお届けします！\n\nついにPC操作の自動化が「当たり前」の時代になりました。\n今話題の自律型AIエージェント「OpenClaw（オープンクロウ）」を知っていますか？\n\nこれまでのAIは「文章を作るだけ」でしたが、OpenClawはあなたの代わりにマウスを動かし、クリックし、資料を完成させます。\n\n春休み、新学期の準備に追われる保護者や学生の皆さんにとって、このツールは最強の味方になるはずです。\n\nしかし、if塾が最も伝えたいのは「自動化の先」にある能力です。\nAIが作業を代行してくれるからこそ、空いた時間で「自分はどう生きたいか」「何を学びたいか」という本質的な問いに向き合うチャンスです。\n\n最新ツールに振り回されず、使いこなす側に回りましょう！\n\n詳細はプロフィール欄のリンクからチェック！\n#if塾 #AI教育 #OpenClaw #自律型AI #2026年最新 #PC自動化 #新学期準備",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#OpenClaw",
+        "#AIエージェント",
+        "#PC操作自動化",
+        "#最新テック",
+        "#春休みの過ごし方",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "sub_title": "3月春休み、自律型AIエージェントが学習環境を激変させる",
+          "text_content": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-01.png",
+          "image_file": "assets/img/posts/20260319_ai_column-01.png",
+          "overlay_text": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "subtext": "3月春休み、自律型AIエージェントが学習環境を激変させる",
+          "alt": "表紙 - 【2026年最新】PC操作はAIに丸投げ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "sub_title": "従来のチャットAIとは異なり、指示一つでブラウザ、Excel、スライド作成までAIが勝手にPCを操作して完結させる自律型エージェントです。",
+          "text_content": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-02.png",
+          "image_file": "assets/img/posts/20260319_ai_column-02.png",
+          "overlay_text": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "subtext": "従来のチャットAIとは異なり、指示一つでブラウザ、Excel、スライド作成までAIが勝手にPCを操作して完結させる自律型エージェントです。",
+          "alt": "内容1 - OpenClawって何？「マウスもキーボ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "sub_title": "「塾の比較表を作って」「履修登録のシミュレーションをして」と頼むだけ。2026年3月の最新アプデで、日本の学習サイトへの完全対応が完了しました。",
+          "text_content": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-03.png",
+          "image_file": "assets/img/posts/20260319_ai_column-03.png",
+          "overlay_text": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "subtext": "「塾の比較表を作って」「履修登録のシミュレーションをして」と頼むだけ。2026年3月の最新アプデで、日本の学習サイトへの完全対応が完了しました。",
+          "alt": "内容2 - 【活用例】新学期の準備、AIが10分で終"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "sub_title": "操作は自動化できても、出力された情報の「正しさ」を判断するのは人間の役目。OpenClawを『召使い』ではなく『優秀な助手』として使いこなすリテラシーが、2026年の必須スキルです。",
+          "text_content": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-04.png",
+          "image_file": "assets/img/posts/20260319_ai_column-04.png",
+          "overlay_text": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "subtext": "操作は自動化できても、出力された情報の「正しさ」を判断するのは人間の役目。OpenClawを『召使い』ではなく『優秀な助手』として使いこなすリテラシーが、2026年の必須スキルです。",
+          "alt": "内容3 - if塾の視点：便利だからこそ「考える力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "sub_title": "3月春休み、自律型AIエージェントが学習環境を激変させる",
+          "text_content": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-01.png",
+          "image_file": "assets/img/posts/20260319_ai_column-01.png",
+          "overlay_text": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+          "subtext": "3月春休み、自律型AIエージェントが学習環境を激変させる",
+          "alt": "表紙 - 【2026年最新】PC操作はAIに丸投げ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "sub_title": "従来のチャットAIとは異なり、指示一つでブラウザ、Excel、スライド作成までAIが勝手にPCを操作して完結させる自律型エージェントです。",
+          "text_content": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-02.png",
+          "image_file": "assets/img/posts/20260319_ai_column-02.png",
+          "overlay_text": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+          "subtext": "従来のチャットAIとは異なり、指示一つでブラウザ、Excel、スライド作成までAIが勝手にPCを操作して完結させる自律型エージェントです。",
+          "alt": "内容1 - OpenClawって何？「マウスもキーボ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "sub_title": "「塾の比較表を作って」「履修登録のシミュレーションをして」と頼むだけ。2026年3月の最新アプデで、日本の学習サイトへの完全対応が完了しました。",
+          "text_content": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-03.png",
+          "image_file": "assets/img/posts/20260319_ai_column-03.png",
+          "overlay_text": "【活用例】新学期の準備、AIが10分で終わらせる",
+          "subtext": "「塾の比較表を作って」「履修登録のシミュレーションをして」と頼むだけ。2026年3月の最新アプデで、日本の学習サイトへの完全対応が完了しました。",
+          "alt": "内容2 - 【活用例】新学期の準備、AIが10分で終"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "sub_title": "操作は自動化できても、出力された情報の「正しさ」を判断するのは人間の役目。OpenClawを『召使い』ではなく『優秀な助手』として使いこなすリテラシーが、2026年の必須スキルです。",
+          "text_content": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260319_ai_column-04.png",
+          "image_file": "assets/img/posts/20260319_ai_column-04.png",
+          "overlay_text": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+          "subtext": "操作は自動化できても、出力された情報の「正しさ」を判断するのは人間の役目。OpenClawを『召使い』ではなく『優秀な助手』として使いこなすリテラシーが、2026年の必須スキルです。",
+          "alt": "内容3 - if塾の視点：便利だからこそ「考える力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260319_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260319_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260319_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260319_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-19T11:09:29",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】PC操作はAIに丸投げ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】PC操作はAIに丸投げ。OpenClawの衝撃",
+            "subtext": "3月春休み、自律型AIエージェントが学習環境を激変させる",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "OpenClawって何？「マウスもキーボードも不要」の時代へ",
+            "subtext": "従来のチャットAIとは異なり、指示一つでブラウザ、Excel、スライド作成までAIが勝手にPCを操作して完結させる自律型エージェントです。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "【活用例】新学期の準備、AIが10分で終わらせる",
+            "subtext": "「塾の比較表を作って」「履修登録のシミュレーションをして」と頼むだけ。2026年3月の最新アプデで、日本の学習サイトへの完全対応が完了しました。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：便利だからこそ「考える力」を捨てないで",
+            "subtext": "操作は自動化できても、出力された情報の「正しさ」を判断するのは人間の役目。OpenClawを『召使い』ではなく『優秀な助手』として使いこなすリテラシーが、2026年の必須スキルです。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260318_development",
       "post_id": "20260318_development",
