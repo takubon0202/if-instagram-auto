@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 71,
-    "last_updated": "2026-03-19T20:42:29.174490",
+    "total_posts": 72,
+    "last_updated": "2026-03-20T11:04:49.383519",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260320_business",
+      "post_id": "20260320_business",
+      "created_at": "2026-03-20T11:04:49",
+      "datetime": "2026-03-20T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+      "target_audience": "Students & Parents",
+      "title": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+      "caption": "【2026年3月】進級・進学を控えた今、学びの形が激変しています。\n\nかつての「AI副業」は、AIに記事を書かせる、画像を生成するといった単発的な作業が中心でした。\nしかし2026年現在、中高生が取り組んでいるのは「AI副業2.0」。\n\n自ら課題を見つけ、AIをバックエンドに組み込んだ独自のサービスを構築・運用するスタイルが標準化されています。\n\n「AIに使われる」のではなく「AIと共に創る」。\nこの春、if塾で新しい時代の伴走者を手に入れませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年3月】進級・進学を控えた今、学びの形が激変しています。\n\nかつての「AI副業」は、AIに記事を書かせる、画像を生成するといった単発的な作業が中心でした。\nしかし2026年現在、中高生が取り組んでいるのは「AI副業2.0」。\n\n自ら課題を見つけ、AIをバックエンドに組み込んだ独自のサービスを構築・運用するスタイルが標準化されています。\n\n「AIに使われる」のではなく「AIと共に創る」。\nこの春、if塾で新しい時代の伴走者を手に入れませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI副業",
+        "#中高生起業",
+        "#生成AI教育",
+        "#AIエージェント",
+        "#DX教育",
+        "#春休み"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "sub_title": "2026年3月最新：春休みから始める教育×開発の新基準",
+          "text_content": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-01.png",
+          "image_file": "assets/img/posts/20260320_business-01.png",
+          "overlay_text": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "subtext": "2026年3月最新：春休みから始める教育×開発の新基準",
+          "alt": "表紙 - 中高生の新常識！AIを伴走者に『月5万』"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただAIに聞く」だけではもう稼げない？",
+          "sub_title": "2024-25年の『プロンプトブーム』は終了。今はAIをシステムの一部として組み込み、独自の価値（UX）を提供する時代へ。中高生の悩みは「ツールの使い道」から「継続的な運用」にシフトしています。",
+          "text_content": "「ただAIに聞く」だけではもう稼げない？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-02.png",
+          "image_file": "assets/img/posts/20260320_business-02.png",
+          "overlay_text": "「ただAIに聞く」だけではもう稼げない？",
+          "subtext": "2024-25年の『プロンプトブーム』は終了。今はAIをシステムの一部として組み込み、独自の価値（UX）を提供する時代へ。中高生の悩みは「ツールの使い道」から「継続的な運用」にシフトしています。",
+          "alt": "内容1 - 「ただAIに聞く」だけではもう稼げない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "NO-CODE×自律型AI agentsの連携",
+          "sub_title": "2026年の主流は、OpenAIの最新APIとDify等のプラットフォームを連結させた『自走型サービス』。プログラミング未経験でも、ユーザーの悩みを24時間解決するミニアプリを数日でリリース可能です。",
+          "text_content": "NO-CODE×自律型AI agentsの連携",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-03.png",
+          "image_file": "assets/img/posts/20260320_business-03.png",
+          "overlay_text": "NO-CODE×自律型AI agentsの連携",
+          "subtext": "2026年の主流は、OpenAIの最新APIとDify等のプラットフォームを連結させた『自走型サービス』。プログラミング未経験でも、ユーザーの悩みを24時間解決するミニアプリを数日でリリース可能です。",
+          "alt": "内容2 - NO-CODE×自律型AI agents"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：スキルではなく『課題発見力』",
+          "sub_title": "大事なのはAIの操作技術ではなく「誰の何を解決するか」。if塾ではAIを単なる外注先ではなく、アイデアを具現化する『共同創業者（伴走者）』として捉え、自律的な思考を養う伴走型教育を推進します。",
+          "text_content": "if塾の視点：スキルではなく『課題発見力』",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-04.png",
+          "image_file": "assets/img/posts/20260320_business-04.png",
+          "overlay_text": "if塾の視点：スキルではなく『課題発見力』",
+          "subtext": "大事なのはAIの操作技術ではなく「誰の何を解決するか」。if塾ではAIを単なる外注先ではなく、アイデアを具現化する『共同創業者（伴走者）』として捉え、自律的な思考を養う伴走型教育を推進します。",
+          "alt": "内容3 - if塾の視点：スキルではなく『課題発見力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "sub_title": "2026年3月最新：春休みから始める教育×開発の新基準",
+          "text_content": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-01.png",
+          "image_file": "assets/img/posts/20260320_business-01.png",
+          "overlay_text": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+          "subtext": "2026年3月最新：春休みから始める教育×開発の新基準",
+          "alt": "表紙 - 中高生の新常識！AIを伴走者に『月5万』"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただAIに聞く」だけではもう稼げない？",
+          "sub_title": "2024-25年の『プロンプトブーム』は終了。今はAIをシステムの一部として組み込み、独自の価値（UX）を提供する時代へ。中高生の悩みは「ツールの使い道」から「継続的な運用」にシフトしています。",
+          "text_content": "「ただAIに聞く」だけではもう稼げない？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-02.png",
+          "image_file": "assets/img/posts/20260320_business-02.png",
+          "overlay_text": "「ただAIに聞く」だけではもう稼げない？",
+          "subtext": "2024-25年の『プロンプトブーム』は終了。今はAIをシステムの一部として組み込み、独自の価値（UX）を提供する時代へ。中高生の悩みは「ツールの使い道」から「継続的な運用」にシフトしています。",
+          "alt": "内容1 - 「ただAIに聞く」だけではもう稼げない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "NO-CODE×自律型AI agentsの連携",
+          "sub_title": "2026年の主流は、OpenAIの最新APIとDify等のプラットフォームを連結させた『自走型サービス』。プログラミング未経験でも、ユーザーの悩みを24時間解決するミニアプリを数日でリリース可能です。",
+          "text_content": "NO-CODE×自律型AI agentsの連携",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-03.png",
+          "image_file": "assets/img/posts/20260320_business-03.png",
+          "overlay_text": "NO-CODE×自律型AI agentsの連携",
+          "subtext": "2026年の主流は、OpenAIの最新APIとDify等のプラットフォームを連結させた『自走型サービス』。プログラミング未経験でも、ユーザーの悩みを24時間解決するミニアプリを数日でリリース可能です。",
+          "alt": "内容2 - NO-CODE×自律型AI agents"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：スキルではなく『課題発見力』",
+          "sub_title": "大事なのはAIの操作技術ではなく「誰の何を解決するか」。if塾ではAIを単なる外注先ではなく、アイデアを具現化する『共同創業者（伴走者）』として捉え、自律的な思考を養う伴走型教育を推進します。",
+          "text_content": "if塾の視点：スキルではなく『課題発見力』",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260320_business-04.png",
+          "image_file": "assets/img/posts/20260320_business-04.png",
+          "overlay_text": "if塾の視点：スキルではなく『課題発見力』",
+          "subtext": "大事なのはAIの操作技術ではなく「誰の何を解決するか」。if塾ではAIを単なる外注先ではなく、アイデアを具現化する『共同創業者（伴走者）』として捉え、自律的な思考を養う伴走型教育を推進します。",
+          "alt": "内容3 - if塾の視点：スキルではなく『課題発見力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260320_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260320_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260320_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260320_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-20T11:03:19",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生の新常識！AIを伴走者に『月5万』",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生の新常識！AIを伴走者に『月5万』を自動化するAI副業2.0",
+            "subtext": "2026年3月最新：春休みから始める教育×開発の新基準",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「ただAIに聞く」だけではもう稼げない？",
+            "subtext": "2024-25年の『プロンプトブーム』は終了。今はAIをシステムの一部として組み込み、独自の価値（UX）を提供する時代へ。中高生の悩みは「ツールの使い道」から「継続的な運用」にシフトしています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "NO-CODE×自律型AI agentsの連携",
+            "subtext": "2026年の主流は、OpenAIの最新APIとDify等のプラットフォームを連結させた『自走型サービス』。プログラミング未経験でも、ユーザーの悩みを24時間解決するミニアプリを数日でリリース可能です。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：スキルではなく『課題発見力』",
+            "subtext": "大事なのはAIの操作技術ではなく「誰の何を解決するか」。if塾ではAIを単なる外注先ではなく、アイデアを具現化する『共同創業者（伴走者）』として捉え、自律的な思考を養う伴走型教育を推進します。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260319_ai_column",
       "post_id": "20260319_ai_column",
