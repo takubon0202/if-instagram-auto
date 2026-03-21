@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 72,
-    "last_updated": "2026-03-20T20:38:41.686016",
+    "total_posts": 73,
+    "last_updated": "2026-03-21T10:58:58.385604",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260321_activity",
+      "post_id": "20260321_activity",
+      "created_at": "2026-03-21T10:58:58",
+      "datetime": "2026-03-21T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+      "caption": "【2026年3月】最新の教育現場からお届けします！\n\n春休みが始まり、if塾の教室では「バイブコーディング」という新しい開発スタイルが完全に定着しています。\n\n「バイブコーディング」とは、自然言語（日本語）での指示を中心とした超高速開発のこと。2025年後半から急速に普及したこの手法により、プログラミングのハードルは劇的に下がりました。\n\n今、生徒たちに求められているのは「コードを正しく書くこと」ではなく、「AIに対して的確に、論理的に意図を伝えること」です。\n\nif塾では、この2026年のスタンダードにいち早く対応。テクノロジーを使いこなし、自分のアイデアを形にする楽しさを伝えています。\n\n新しい季節、お子様の「創造力」をAIと共に解き放ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年3月】最新の教育現場からお届けします！\n\n春休みが始まり、if塾の教室では「バイブコーディング」という新しい開発スタイルが完全に定着しています。\n\n「バイブコーディング」とは、自然言語（日本語）での指示を中心とした超高速開発のこと。2025年後半から急速に普及したこの手法により、プログラミングのハードルは劇的に下がりました。\n\n今、生徒たちに求められているのは「コードを正しく書くこと」ではなく、「AIに対して的確に、論理的に意図を伝えること」です。\n\nif塾では、この2026年のスタンダードにいち早く対応。テクノロジーを使いこなし、自分のアイデアを形にする楽しさを伝えています。\n\n新しい季節、お子様の「創造力」をAIと共に解き放ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#AI共創",
+        "#プログラミング教育",
+        "#次世代スキル",
+        "#春休み学習"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "sub_title": "2026.03.21 if塾 活動報告",
+          "text_content": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-01.png",
+          "image_file": "assets/img/posts/20260321_activity-01.png",
+          "overlay_text": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "subtext": "2026.03.21 if塾 活動報告",
+          "alt": "表紙 - 「書かない」開発が当たり前に？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "sub_title": "進級・進学を控えた今、従来の『コードを覚える』学習に限界を感じていませんか？AIと会話しながらアプリを作る新時代が到来しています。",
+          "text_content": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-02.png",
+          "image_file": "assets/img/posts/20260321_activity-02.png",
+          "overlay_text": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "subtext": "進級・進学を控えた今、従来の『コードを覚える』学習に限界を感じていませんか？AIと会話しながらアプリを作る新時代が到来しています。",
+          "alt": "内容1 - 春休み、プログラミングは「言語学習」から"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "sub_title": "最新のAI開発環境を活用。抽象的な指示だけで複雑なロジックが完成する『バイブコーディング』で、中学生がわずか1時間で実用アプリを完成させました。",
+          "text_content": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-03.png",
+          "image_file": "assets/img/posts/20260321_activity-03.png",
+          "overlay_text": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "subtext": "最新のAI開発環境を活用。抽象的な指示だけで複雑なロジックが完成する『バイブコーディング』で、中学生がわずか1時間で実用アプリを完成させました。",
+          "alt": "内容2 - 「言葉がそのまま形になる」生徒たちの驚き"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "sub_title": "2026年の学びにおいて、AIは単なるツールではなく共創パートナー。if塾では、技術以上に『何を解決したいか』を言語化する思考力を養っています。",
+          "text_content": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-04.png",
+          "image_file": "assets/img/posts/20260321_activity-04.png",
+          "overlay_text": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "subtext": "2026年の学びにおいて、AIは単なるツールではなく共創パートナー。if塾では、技術以上に『何を解決したいか』を言語化する思考力を養っています。",
+          "alt": "内容3 - 指導者の視点：必要なのは、構文の暗記では"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "sub_title": "2026.03.21 if塾 活動報告",
+          "text_content": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-01.png",
+          "image_file": "assets/img/posts/20260321_activity-01.png",
+          "overlay_text": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+          "subtext": "2026.03.21 if塾 活動報告",
+          "alt": "表紙 - 「書かない」開発が当たり前に？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "sub_title": "進級・進学を控えた今、従来の『コードを覚える』学習に限界を感じていませんか？AIと会話しながらアプリを作る新時代が到来しています。",
+          "text_content": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-02.png",
+          "image_file": "assets/img/posts/20260321_activity-02.png",
+          "overlay_text": "春休み、プログラミングは「言語学習」から「対話」へ",
+          "subtext": "進級・進学を控えた今、従来の『コードを覚える』学習に限界を感じていませんか？AIと会話しながらアプリを作る新時代が到来しています。",
+          "alt": "内容1 - 春休み、プログラミングは「言語学習」から"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "sub_title": "最新のAI開発環境を活用。抽象的な指示だけで複雑なロジックが完成する『バイブコーディング』で、中学生がわずか1時間で実用アプリを完成させました。",
+          "text_content": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-03.png",
+          "image_file": "assets/img/posts/20260321_activity-03.png",
+          "overlay_text": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+          "subtext": "最新のAI開発環境を活用。抽象的な指示だけで複雑なロジックが完成する『バイブコーディング』で、中学生がわずか1時間で実用アプリを完成させました。",
+          "alt": "内容2 - 「言葉がそのまま形になる」生徒たちの驚き"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "sub_title": "2026年の学びにおいて、AIは単なるツールではなく共創パートナー。if塾では、技術以上に『何を解決したいか』を言語化する思考力を養っています。",
+          "text_content": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260321_activity-04.png",
+          "image_file": "assets/img/posts/20260321_activity-04.png",
+          "overlay_text": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+          "subtext": "2026年の学びにおいて、AIは単なるツールではなく共創パートナー。if塾では、技術以上に『何を解決したいか』を言語化する思考力を養っています。",
+          "alt": "内容3 - 指導者の視点：必要なのは、構文の暗記では"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260321_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260321_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260321_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260321_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-21T10:57:31",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "「書かない」開発が当たり前に？2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "「書かない」開発が当たり前に？2026年最新バイブコーディングの衝撃",
+            "subtext": "2026.03.21 if塾 活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "春休み、プログラミングは「言語学習」から「対話」へ",
+            "subtext": "進級・進学を控えた今、従来の『コードを覚える』学習に限界を感じていませんか？AIと会話しながらアプリを作る新時代が到来しています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「言葉がそのまま形になる」生徒たちの驚きと没頭",
+            "subtext": "最新のAI開発環境を活用。抽象的な指示だけで複雑なロジックが完成する『バイブコーディング』で、中学生がわずか1時間で実用アプリを完成させました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "指導者の視点：必要なのは、構文の暗記ではなく「意図を伝える力」",
+            "subtext": "2026年の学びにおいて、AIは単なるツールではなく共創パートナー。if塾では、技術以上に『何を解決したいか』を言語化する思考力を養っています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260320_business",
       "post_id": "20260320_business",
