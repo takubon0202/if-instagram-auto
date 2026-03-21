@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 73,
-    "last_updated": "2026-03-21T13:54:51.835821",
+    "last_updated": "2026-03-21T20:30:37.728502",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260321_activity",
       "post_id": "20260321_activity",
-      "created_at": "2026-03-21T13:54:51",
+      "created_at": "2026-03-21T20:30:37",
       "datetime": "2026-03-21T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
+      "theme": "AIエージェントと共創する最新授業風景【2026年3月版】",
       "target_audience": "Students & Parents",
-      "title": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-      "caption": "【2026年3月】春休み直前、if塾の教室は驚きに満ちています！\n\nかつては1行のコードに苦戦していた子どもたちが、今では「AIエージェント」をマネジメントし、複雑なアプリケーションやゲームを次々と生み出しています。\n\n2026年現在、もはや「プログラミングができる」のは前提条件。\n大切なのは、AIという最強のツールを使って「どんな価値を生み出すか」というディレクション能力です。\n\n今日の授業でも、地域の課題を解決するためのAIツールを中学生が自律型エージェントと共に開発していました。このスピード感、まさに新時代です。\n\n進級・進学を控えたこの時期、if塾で「一歩先の未来」を体験してみませんか？\n\n詳細はプロフィールURLから！",
-      "caption_text": "【2026年3月】春休み直前、if塾の教室は驚きに満ちています！\n\nかつては1行のコードに苦戦していた子どもたちが、今では「AIエージェント」をマネジメントし、複雑なアプリケーションやゲームを次々と生み出しています。\n\n2026年現在、もはや「プログラミングができる」のは前提条件。\n大切なのは、AIという最強のツールを使って「どんな価値を生み出すか」というディレクション能力です。\n\n今日の授業でも、地域の課題を解決するためのAIツールを中学生が自律型エージェントと共に開発していました。このスピード感、まさに新時代です。\n\n進級・進学を控えたこの時期、if塾で「一歩先の未来」を体験してみませんか？\n\n詳細はプロフィールURLから！",
+      "title": "AIエージェントと共創する最新授業風景【2026年3月版】",
+      "caption": "【2026年3月】最新の授業レポートをお届けします！\n\n春休みに入り、if塾では「AIエージェント」を活用した特別ワークショップを開催しました。🚀\n\n2026年の今、AIは単なる検索ツールではなく、共に創る「パートナー」へと進化しています。生徒たちは自分のアイデアをAIに伝え、対話を重ねることで、わずか数時間でプロ顔負けのクリエイティブ作品を完成させています。\n\n大切なのは、AIの操作スキルだけではありません。\n「なぜこれを作りたいのか？」という強い意志と、AIの出力を精査する「編集力」です。\n\nif塾では、技術の進化に振り回されない、本質的なクリエイティブ思考を育んでいます。\n\n新学期からの学びを、一緒にアップデートしませんか？✨",
+      "caption_text": "【2026年3月】最新の授業レポートをお届けします！\n\n春休みに入り、if塾では「AIエージェント」を活用した特別ワークショップを開催しました。🚀\n\n2026年の今、AIは単なる検索ツールではなく、共に創る「パートナー」へと進化しています。生徒たちは自分のアイデアをAIに伝え、対話を重ねることで、わずか数時間でプロ顔負けのクリエイティブ作品を完成させています。\n\n大切なのは、AIの操作スキルだけではありません。\n「なぜこれを作りたいのか？」という強い意志と、AIの出力を精査する「編集力」です。\n\nif塾では、技術の進化に振り回されない、本質的なクリエイティブ思考を育んでいます。\n\n新学期からの学びを、一緒にアップデートしませんか？✨",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#AIエージェント",
-        "#次世代教育",
-        "#プログラミング教室",
         "#AI教育",
-        "#春休み",
-        "#自律型AI"
+        "#クリエイティブ教育",
+        "#春休みの過ごし方",
+        "#最新テック",
+        "#未来の教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-          "sub_title": "2026.03.21 最新活動報告 | if塾",
-          "text_content": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
+          "main_title": "AIエージェントと共創する最新授業風景【2026年3月版】",
+          "sub_title": "春休みに差をつける「AIクリエイティブ」の現場から",
+          "text_content": "AIエージェントと共創する最新授業風景【2026年3月版】",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-01.png",
           "image_file": "assets/img/posts/20260321_activity-01.png",
-          "overlay_text": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-          "subtext": "2026.03.21 最新活動報告 | if塾",
-          "alt": "表紙 - AIエージェントと創る。2026年、教室"
+          "overlay_text": "AIエージェントと共創する最新授業風景【2026年3月版】",
+          "subtext": "春休みに差をつける「AIクリエイティブ」の現場から",
+          "alt": "表紙 - AIエージェントと共創する最新授業風景【"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードを書く」のはもう古い？春休みの自由制作に異変",
-          "sub_title": "これまでは構文を覚えるのが精一杯だった生徒たちが、今はAIに『自律的な相棒』としての役割を与え、複雑な課題解決に挑んでいます。",
-          "text_content": "「コードを書く」のはもう古い？春休みの自由制作に異変",
+          "main_title": "「AIを使いこなす」はもう当たり前？",
+          "sub_title": "進級・進学を前に「AIに使われるのではなく、どう指示を出すか」という不安を抱える親子が急増しています。",
+          "text_content": "「AIを使いこなす」はもう当たり前？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-02.png",
           "image_file": "assets/img/posts/20260321_activity-02.png",
-          "overlay_text": "「コードを書く」のはもう古い？春休みの自由制作に異変",
-          "subtext": "これまでは構文を覚えるのが精一杯だった生徒たちが、今はAIに『自律的な相棒』としての役割を与え、複雑な課題解決に挑んでいます。",
-          "alt": "内容1 - 「コードを書く」のはもう古い？春休みの自"
+          "overlay_text": "「AIを使いこなす」はもう当たり前？",
+          "subtext": "進級・進学を前に「AIに使われるのではなく、どう指示を出すか」という不安を抱える親子が急増しています。",
+          "alt": "内容1 - 「AIを使いこなす」はもう当たり前？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "対話だけで終わらない。AIが勝手にデバッグする世界",
-          "sub_title": "最新のAIエージェントを活用し、生徒は「何を作りたいか」の設計に集中。エラー解決はAIが自ら自律実行し、わずか1コマで高度な3Dゲームを完成させる子も。",
-          "text_content": "対話だけで終わらない。AIが勝手にデバッグする世界",
+          "main_title": "自律型エージェントとの「共同制作」に熱中",
+          "sub_title": "最新のマルチモーダルAIを相棒に、生徒が1人でWebアプリや動画を完結。驚きの発想が次々と形になっています。",
+          "text_content": "自律型エージェントとの「共同制作」に熱中",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-03.png",
           "image_file": "assets/img/posts/20260321_activity-03.png",
-          "overlay_text": "対話だけで終わらない。AIが勝手にデバッグする世界",
-          "subtext": "最新のAIエージェントを活用し、生徒は「何を作りたいか」の設計に集中。エラー解決はAIが自ら自律実行し、わずか1コマで高度な3Dゲームを完成させる子も。",
-          "alt": "内容2 - 対話だけで終わらない。AIが勝手にデバッ"
+          "overlay_text": "自律型エージェントとの「共同制作」に熱中",
+          "subtext": "最新のマルチモーダルAIを相棒に、生徒が1人でWebアプリや動画を完結。驚きの発想が次々と形になっています。",
+          "alt": "内容2 - 自律型エージェントとの「共同制作」に熱中"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
-          "sub_title": "ツールが進化しても、大切なのは『なぜそれを作るのか』。if塾では、AIを使いこなすためのクリティカルシンキングと問題発見能力を育んでいます。",
-          "text_content": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
+          "main_title": "if塾が重視する「意思」と「編集力」",
+          "sub_title": "AIが何でも作る時代だからこそ、人間にしかできない『何を伝えたいか』という問いを磨く指導を徹底しています。",
+          "text_content": "if塾が重視する「意思」と「編集力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-04.png",
           "image_file": "assets/img/posts/20260321_activity-04.png",
-          "overlay_text": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
-          "subtext": "ツールが進化しても、大切なのは『なぜそれを作るのか』。if塾では、AIを使いこなすためのクリティカルシンキングと問題発見能力を育んでいます。",
-          "alt": "内容3 - 「指示者」から「ディレクター」へ。求めら"
+          "overlay_text": "if塾が重視する「意思」と「編集力」",
+          "subtext": "AIが何でも作る時代だからこそ、人間にしかできない『何を伝えたいか』という問いを磨く指導を徹底しています。",
+          "alt": "内容3 - if塾が重視する「意思」と「編集力」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-          "sub_title": "2026.03.21 最新活動報告 | if塾",
-          "text_content": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
+          "main_title": "AIエージェントと共創する最新授業風景【2026年3月版】",
+          "sub_title": "春休みに差をつける「AIクリエイティブ」の現場から",
+          "text_content": "AIエージェントと共創する最新授業風景【2026年3月版】",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-01.png",
           "image_file": "assets/img/posts/20260321_activity-01.png",
-          "overlay_text": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-          "subtext": "2026.03.21 最新活動報告 | if塾",
-          "alt": "表紙 - AIエージェントと創る。2026年、教室"
+          "overlay_text": "AIエージェントと共創する最新授業風景【2026年3月版】",
+          "subtext": "春休みに差をつける「AIクリエイティブ」の現場から",
+          "alt": "表紙 - AIエージェントと共創する最新授業風景【"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードを書く」のはもう古い？春休みの自由制作に異変",
-          "sub_title": "これまでは構文を覚えるのが精一杯だった生徒たちが、今はAIに『自律的な相棒』としての役割を与え、複雑な課題解決に挑んでいます。",
-          "text_content": "「コードを書く」のはもう古い？春休みの自由制作に異変",
+          "main_title": "「AIを使いこなす」はもう当たり前？",
+          "sub_title": "進級・進学を前に「AIに使われるのではなく、どう指示を出すか」という不安を抱える親子が急増しています。",
+          "text_content": "「AIを使いこなす」はもう当たり前？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-02.png",
           "image_file": "assets/img/posts/20260321_activity-02.png",
-          "overlay_text": "「コードを書く」のはもう古い？春休みの自由制作に異変",
-          "subtext": "これまでは構文を覚えるのが精一杯だった生徒たちが、今はAIに『自律的な相棒』としての役割を与え、複雑な課題解決に挑んでいます。",
-          "alt": "内容1 - 「コードを書く」のはもう古い？春休みの自"
+          "overlay_text": "「AIを使いこなす」はもう当たり前？",
+          "subtext": "進級・進学を前に「AIに使われるのではなく、どう指示を出すか」という不安を抱える親子が急増しています。",
+          "alt": "内容1 - 「AIを使いこなす」はもう当たり前？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "対話だけで終わらない。AIが勝手にデバッグする世界",
-          "sub_title": "最新のAIエージェントを活用し、生徒は「何を作りたいか」の設計に集中。エラー解決はAIが自ら自律実行し、わずか1コマで高度な3Dゲームを完成させる子も。",
-          "text_content": "対話だけで終わらない。AIが勝手にデバッグする世界",
+          "main_title": "自律型エージェントとの「共同制作」に熱中",
+          "sub_title": "最新のマルチモーダルAIを相棒に、生徒が1人でWebアプリや動画を完結。驚きの発想が次々と形になっています。",
+          "text_content": "自律型エージェントとの「共同制作」に熱中",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-03.png",
           "image_file": "assets/img/posts/20260321_activity-03.png",
-          "overlay_text": "対話だけで終わらない。AIが勝手にデバッグする世界",
-          "subtext": "最新のAIエージェントを活用し、生徒は「何を作りたいか」の設計に集中。エラー解決はAIが自ら自律実行し、わずか1コマで高度な3Dゲームを完成させる子も。",
-          "alt": "内容2 - 対話だけで終わらない。AIが勝手にデバッ"
+          "overlay_text": "自律型エージェントとの「共同制作」に熱中",
+          "subtext": "最新のマルチモーダルAIを相棒に、生徒が1人でWebアプリや動画を完結。驚きの発想が次々と形になっています。",
+          "alt": "内容2 - 自律型エージェントとの「共同制作」に熱中"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
-          "sub_title": "ツールが進化しても、大切なのは『なぜそれを作るのか』。if塾では、AIを使いこなすためのクリティカルシンキングと問題発見能力を育んでいます。",
-          "text_content": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
+          "main_title": "if塾が重視する「意思」と「編集力」",
+          "sub_title": "AIが何でも作る時代だからこそ、人間にしかできない『何を伝えたいか』という問いを磨く指導を徹底しています。",
+          "text_content": "if塾が重視する「意思」と「編集力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260321_activity-04.png",
           "image_file": "assets/img/posts/20260321_activity-04.png",
-          "overlay_text": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
-          "subtext": "ツールが進化しても、大切なのは『なぜそれを作るのか』。if塾では、AIを使いこなすためのクリティカルシンキングと問題発見能力を育んでいます。",
-          "alt": "内容3 - 「指示者」から「ディレクター」へ。求めら"
+          "overlay_text": "if塾が重視する「意思」と「編集力」",
+          "subtext": "AIが何でも作る時代だからこそ、人間にしかできない『何を伝えたいか』という問いを磨く指導を徹底しています。",
+          "alt": "内容3 - if塾が重視する「意思」と「編集力」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "アプリ開発"
+          "ロボット"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "fujimoto_hinata",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-21T13:53:26",
+      "research_date": "2026-03-21T20:29:08",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIエージェントと創る。2026年、教室",
+        "cover_text": "AIエージェントと共創する最新授業風景【",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIエージェントと創る。2026年、教室の「当たり前」が変わった",
-            "subtext": "2026.03.21 最新活動報告 | if塾",
+            "headline": "AIエージェントと共創する最新授業風景【2026年3月版】",
+            "subtext": "春休みに差をつける「AIクリエイティブ」の現場から",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「コードを書く」のはもう古い？春休みの自由制作に異変",
-            "subtext": "これまでは構文を覚えるのが精一杯だった生徒たちが、今はAIに『自律的な相棒』としての役割を与え、複雑な課題解決に挑んでいます。",
+            "headline": "「AIを使いこなす」はもう当たり前？",
+            "subtext": "進級・進学を前に「AIに使われるのではなく、どう指示を出すか」という不安を抱える親子が急増しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "対話だけで終わらない。AIが勝手にデバッグする世界",
-            "subtext": "最新のAIエージェントを活用し、生徒は「何を作りたいか」の設計に集中。エラー解決はAIが自ら自律実行し、わずか1コマで高度な3Dゲームを完成させる子も。",
+            "headline": "自律型エージェントとの「共同制作」に熱中",
+            "subtext": "最新のマルチモーダルAIを相棒に、生徒が1人でWebアプリや動画を完結。驚きの発想が次々と形になっています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「指示者」から「ディレクター」へ。求められるのは思考の深さ",
-            "subtext": "ツールが進化しても、大切なのは『なぜそれを作るのか』。if塾では、AIを使いこなすためのクリティカルシンキングと問題発見能力を育んでいます。",
+            "headline": "if塾が重視する「意思」と「編集力」",
+            "subtext": "AIが何でも作る時代だからこそ、人間にしかできない『何を伝えたいか』という問いを磨く指導を徹底しています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
