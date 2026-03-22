@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 74,
-    "last_updated": "2026-03-22T11:11:25.400879",
+    "last_updated": "2026-03-22T14:10:32.759198",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260322_activity",
       "post_id": "20260322_activity",
-      "created_at": "2026-03-22T11:11:25",
+      "created_at": "2026-03-22T14:10:32",
       "datetime": "2026-03-22T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+      "theme": "フィジカルAI元年、ついに開幕。",
       "target_audience": "Students & Parents",
-      "title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-      "caption": "【2026年3月】進級・進学を控えた今、学びの常識が塗り替えられています。\n\n「AIに頼ると頭が悪くなる」そんな不安は、もう過去のものになりました。2026年現在、if塾の『AIクリエイティ部』では、生徒たちが生成AIを「第二の脳」として使いこなし、驚くべきスピードでアウトプットを生み出しています。\n\n大事なのは、AIに答えを聞くことではありません。\n「自分の考えを形にするために、どうAIと対話するか」\nそのプロンプトエンジニアリングこそが、これからの入試や社会で求められる新時代の学力です。\n\n春休み、if塾で「最新の武器」を手に入れませんか？\n\n詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年3月】進級・進学を控えた今、学びの常識が塗り替えられています。\n\n「AIに頼ると頭が悪くなる」そんな不安は、もう過去のものになりました。2026年現在、if塾の『AIクリエイティ部』では、生徒たちが生成AIを「第二の脳」として使いこなし、驚くべきスピードでアウトプットを生み出しています。\n\n大事なのは、AIに答えを聞くことではありません。\n「自分の考えを形にするために、どうAIと対話するか」\nそのプロンプトエンジニアリングこそが、これからの入試や社会で求められる新時代の学力です。\n\n春休み、if塾で「最新の武器」を手に入れませんか？\n\n詳細はプロフィールのリンクから！",
+      "title": "フィジカルAI元年、ついに開幕。",
+      "caption": "【2026年3月】最新レポート：ついにフィジカルAIが日常へ。\n\nみなさん、こんにちは！if塾です。\n2026年の春、教育現場は大きな転換点を迎えています。\n\nこれまでは「AI＝画面の中の賢い存在」でしたが、今年は「フィジカルAI元年」。言葉（プロンプト）を理解し、ロボットが自律的に現実世界で行動する学習が本格化しています。\n\n「散らかったブロックを、色と形を判別して箱に入れて」\n\nこの一行の命令で、ロボットが自ら判断し、最適な動きを生成する。そんな光景がif塾の教室でも当たり前になりつつあります。\n\n大事なのは、コードを書くスキル以上に「どんな課題を解決したいか」という目的設定の力。進級・進学を控えたこの時期、次世代のスタンダードを一緒に体験しませんか？\n\n最新のAI学習環境を、ぜひ見学しに来てください！\n\n#if塾 #2026年 #フィジカルAI #AI教育 #自律型ロボット #最新技術 #春休み #EdTech #STEAM教育 #次世代の学び",
+      "caption_text": "【2026年3月】最新レポート：ついにフィジカルAIが日常へ。\n\nみなさん、こんにちは！if塾です。\n2026年の春、教育現場は大きな転換点を迎えています。\n\nこれまでは「AI＝画面の中の賢い存在」でしたが、今年は「フィジカルAI元年」。言葉（プロンプト）を理解し、ロボットが自律的に現実世界で行動する学習が本格化しています。\n\n「散らかったブロックを、色と形を判別して箱に入れて」\n\nこの一行の命令で、ロボットが自ら判断し、最適な動きを生成する。そんな光景がif塾の教室でも当たり前になりつつあります。\n\n大事なのは、コードを書くスキル以上に「どんな課題を解決したいか」という目的設定の力。進級・進学を控えたこの時期、次世代のスタンダードを一緒に体験しませんか？\n\n最新のAI学習環境を、ぜひ見学しに来てください！\n\n#if塾 #2026年 #フィジカルAI #AI教育 #自律型ロボット #最新技術 #春休み #EdTech #STEAM教育 #次世代の学び",
       "hashtags": [
-        "#if塾",
-        "#2026年",
-        "#生成AI",
-        "#AIクリエイティ部",
-        "#次世代教育",
-        "#春期講習",
-        "#プロンプトエンジニアリング",
-        "#教育DX"
+        "if塾",
+        "2026年",
+        "フィジカルAI",
+        "AI教育",
+        "ロボット学習",
+        "春期講習",
+        "自律型AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-          "sub_title": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
-          "text_content": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "main_title": "フィジカルAI元年、ついに開幕。",
+          "sub_title": "2026年3月最新：AIが『自ら動く』新時代の学び",
+          "text_content": "フィジカルAI元年、ついに開幕。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-01.png",
           "image_file": "assets/img/posts/20260322_activity-01.png",
-          "overlay_text": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-          "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
-          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年最"
+          "overlay_text": "フィジカルAI元年、ついに開幕。",
+          "subtext": "2026年3月最新：AIが『自ら動く』新時代の学び",
+          "alt": "表紙 - フィジカルAI元年、ついに開幕。"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
-          "sub_title": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
-          "text_content": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "main_title": "「言葉」で命令するだけでロボットが動く？",
+          "sub_title": "プログラミングの壁が消え、次は『何をさせるか』の思考力が問われる時代へ。進級前の今、親子で知っておきたい変化です。",
+          "text_content": "「言葉」で命令するだけでロボットが動く？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-02.png",
           "image_file": "assets/img/posts/20260322_activity-02.png",
-          "overlay_text": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
-          "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
-          "alt": "内容1 - 「AIで宿題」はもう古い？今の悩みは\"使"
+          "overlay_text": "「言葉」で命令するだけでロボットが動く？",
+          "subtext": "プログラミングの壁が消え、次は『何をさせるか』の思考力が問われる時代へ。進級前の今、親子で知っておきたい変化です。",
+          "alt": "内容1 - 「言葉」で命令するだけでロボットが動く？"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
-          "sub_title": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
-          "text_content": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "main_title": "「自分で考えて片付けた！」驚きの自律型学習",
+          "sub_title": "if塾の春期講習では、最新のフィジカルAIモデルを導入。指示待ちではない、ロボット自らが環境を判断して動く姿に生徒たちも興奮。 ",
+          "text_content": "「自分で考えて片付けた！」驚きの自律型学習",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-03.png",
           "image_file": "assets/img/posts/20260322_activity-03.png",
-          "overlay_text": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
-          "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
-          "alt": "内容2 - AIクリエイティ部、始動。生徒は「プロン"
+          "overlay_text": "「自分で考えて片付けた！」驚きの自律型学習",
+          "subtext": "if塾の春期講習では、最新のフィジカルAIモデルを導入。指示待ちではない、ロボット自らが環境を判断して動く姿に生徒たちも興奮。 ",
+          "alt": "内容2 - 「自分で考えて片付けた！」驚きの自律型学"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
-          "sub_title": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
-          "text_content": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "main_title": "知識の習得から「身体知」の活用へ",
+          "sub_title": "画面の中だけで完結しないAI。現実世界を動かすフィジカルAIを使いこなすことで、論理的思考と試行錯誤の質が圧倒的に高まります。",
+          "text_content": "知識の習得から「身体知」の活用へ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-04.png",
           "image_file": "assets/img/posts/20260322_activity-04.png",
-          "overlay_text": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
-          "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
-          "alt": "内容3 - if塾の視点：AI時代こそ「問いを立てる"
+          "overlay_text": "知識の習得から「身体知」の活用へ",
+          "subtext": "画面の中だけで完結しないAI。現実世界を動かすフィジカルAIを使いこなすことで、論理的思考と試行錯誤の質が圧倒的に高まります。",
+          "alt": "内容3 - 知識の習得から「身体知」の活用へ"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-          "sub_title": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
-          "text_content": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "main_title": "フィジカルAI元年、ついに開幕。",
+          "sub_title": "2026年3月最新：AIが『自ら動く』新時代の学び",
+          "text_content": "フィジカルAI元年、ついに開幕。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-01.png",
           "image_file": "assets/img/posts/20260322_activity-01.png",
-          "overlay_text": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-          "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
-          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年最"
+          "overlay_text": "フィジカルAI元年、ついに開幕。",
+          "subtext": "2026年3月最新：AIが『自ら動く』新時代の学び",
+          "alt": "表紙 - フィジカルAI元年、ついに開幕。"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
-          "sub_title": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
-          "text_content": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "main_title": "「言葉」で命令するだけでロボットが動く？",
+          "sub_title": "プログラミングの壁が消え、次は『何をさせるか』の思考力が問われる時代へ。進級前の今、親子で知っておきたい変化です。",
+          "text_content": "「言葉」で命令するだけでロボットが動く？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-02.png",
           "image_file": "assets/img/posts/20260322_activity-02.png",
-          "overlay_text": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
-          "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
-          "alt": "内容1 - 「AIで宿題」はもう古い？今の悩みは\"使"
+          "overlay_text": "「言葉」で命令するだけでロボットが動く？",
+          "subtext": "プログラミングの壁が消え、次は『何をさせるか』の思考力が問われる時代へ。進級前の今、親子で知っておきたい変化です。",
+          "alt": "内容1 - 「言葉」で命令するだけでロボットが動く？"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
-          "sub_title": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
-          "text_content": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "main_title": "「自分で考えて片付けた！」驚きの自律型学習",
+          "sub_title": "if塾の春期講習では、最新のフィジカルAIモデルを導入。指示待ちではない、ロボット自らが環境を判断して動く姿に生徒たちも興奮。 ",
+          "text_content": "「自分で考えて片付けた！」驚きの自律型学習",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-03.png",
           "image_file": "assets/img/posts/20260322_activity-03.png",
-          "overlay_text": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
-          "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
-          "alt": "内容2 - AIクリエイティ部、始動。生徒は「プロン"
+          "overlay_text": "「自分で考えて片付けた！」驚きの自律型学習",
+          "subtext": "if塾の春期講習では、最新のフィジカルAIモデルを導入。指示待ちではない、ロボット自らが環境を判断して動く姿に生徒たちも興奮。 ",
+          "alt": "内容2 - 「自分で考えて片付けた！」驚きの自律型学"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
-          "sub_title": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
-          "text_content": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "main_title": "知識の習得から「身体知」の活用へ",
+          "sub_title": "画面の中だけで完結しないAI。現実世界を動かすフィジカルAIを使いこなすことで、論理的思考と試行錯誤の質が圧倒的に高まります。",
+          "text_content": "知識の習得から「身体知」の活用へ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260322_activity-04.png",
           "image_file": "assets/img/posts/20260322_activity-04.png",
-          "overlay_text": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
-          "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
-          "alt": "内容3 - if塾の視点：AI時代こそ「問いを立てる"
+          "overlay_text": "知識の習得から「身体知」の活用へ",
+          "subtext": "画面の中だけで完結しないAI。現実世界を動かすフィジカルAIを使いこなすことで、論理的思考と試行錯誤の質が圧倒的に高まります。",
+          "alt": "内容3 - 知識の習得から「身体知」の活用へ"
         },
         {
           "page_number": 5,
@@ -229,21 +228,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "井上陽斗",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "アプリ開発"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "yamazaki_takumi",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-22T11:10:01",
+      "research_date": "2026-03-22T14:09:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「敵」から「相棒」へ。2026年最",
+        "cover_text": "フィジカルAI元年、ついに開幕。",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
-            "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+            "headline": "フィジカルAI元年、ついに開幕。",
+            "subtext": "2026年3月最新：AIが『自ら動く』新時代の学び",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
-            "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+            "headline": "「言葉」で命令するだけでロボットが動く？",
+            "subtext": "プログラミングの壁が消え、次は『何をさせるか』の思考力が問われる時代へ。進級前の今、親子で知っておきたい変化です。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
-            "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+            "headline": "「自分で考えて片付けた！」驚きの自律型学習",
+            "subtext": "if塾の春期講習では、最新のフィジカルAIモデルを導入。指示待ちではない、ロボット自らが環境を判断して動く姿に生徒たちも興奮。 ",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
-            "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+            "headline": "知識の習得から「身体知」の活用へ",
+            "subtext": "画面の中だけで完結しないAI。現実世界を動かすフィジカルAIを使いこなすことで、論理的思考と試行錯誤の質が圧倒的に高まります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
