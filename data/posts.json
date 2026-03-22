@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 73,
-    "last_updated": "2026-03-21T20:30:37.728502",
+    "total_posts": 74,
+    "last_updated": "2026-03-22T11:11:25.400879",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260322_activity",
+      "post_id": "20260322_activity",
+      "created_at": "2026-03-22T11:11:25",
+      "datetime": "2026-03-22T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+      "target_audience": "Students & Parents",
+      "title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+      "caption": "【2026年3月】進級・進学を控えた今、学びの常識が塗り替えられています。\n\n「AIに頼ると頭が悪くなる」そんな不安は、もう過去のものになりました。2026年現在、if塾の『AIクリエイティ部』では、生徒たちが生成AIを「第二の脳」として使いこなし、驚くべきスピードでアウトプットを生み出しています。\n\n大事なのは、AIに答えを聞くことではありません。\n「自分の考えを形にするために、どうAIと対話するか」\nそのプロンプトエンジニアリングこそが、これからの入試や社会で求められる新時代の学力です。\n\n春休み、if塾で「最新の武器」を手に入れませんか？\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年3月】進級・進学を控えた今、学びの常識が塗り替えられています。\n\n「AIに頼ると頭が悪くなる」そんな不安は、もう過去のものになりました。2026年現在、if塾の『AIクリエイティ部』では、生徒たちが生成AIを「第二の脳」として使いこなし、驚くべきスピードでアウトプットを生み出しています。\n\n大事なのは、AIに答えを聞くことではありません。\n「自分の考えを形にするために、どうAIと対話するか」\nそのプロンプトエンジニアリングこそが、これからの入試や社会で求められる新時代の学力です。\n\n春休み、if塾で「最新の武器」を手に入れませんか？\n\n詳細はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#AIクリエイティ部",
+        "#次世代教育",
+        "#春期講習",
+        "#プロンプトエンジニアリング",
+        "#教育DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "sub_title": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+          "text_content": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-01.png",
+          "image_file": "assets/img/posts/20260322_activity-01.png",
+          "overlay_text": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "sub_title": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+          "text_content": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-02.png",
+          "image_file": "assets/img/posts/20260322_activity-02.png",
+          "overlay_text": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+          "alt": "内容1 - 「AIで宿題」はもう古い？今の悩みは\"使"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "sub_title": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+          "text_content": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-03.png",
+          "image_file": "assets/img/posts/20260322_activity-03.png",
+          "overlay_text": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+          "alt": "内容2 - AIクリエイティ部、始動。生徒は「プロン"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "sub_title": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+          "text_content": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-04.png",
+          "image_file": "assets/img/posts/20260322_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+          "alt": "内容3 - if塾の視点：AI時代こそ「問いを立てる"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "sub_title": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+          "text_content": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-01.png",
+          "image_file": "assets/img/posts/20260322_activity-01.png",
+          "overlay_text": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+          "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "sub_title": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+          "text_content": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-02.png",
+          "image_file": "assets/img/posts/20260322_activity-02.png",
+          "overlay_text": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+          "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+          "alt": "内容1 - 「AIで宿題」はもう古い？今の悩みは\"使"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "sub_title": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+          "text_content": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-03.png",
+          "image_file": "assets/img/posts/20260322_activity-03.png",
+          "overlay_text": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+          "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+          "alt": "内容2 - AIクリエイティ部、始動。生徒は「プロン"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "sub_title": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+          "text_content": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260322_activity-04.png",
+          "image_file": "assets/img/posts/20260322_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+          "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+          "alt": "内容3 - if塾の視点：AI時代こそ「問いを立てる"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260322_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260322_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260322_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260322_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-22T11:10:01",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「敵」から「相棒」へ。2026年最",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「敵」から「相棒」へ。2026年最新の授業スタイルとは？",
+            "subtext": "3.22 活動報告 | AIクリエイティ部が変えた学びの形",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIで宿題」はもう古い？今の悩みは\"使いこなし格差\"",
+            "subtext": "2026年、AI禁止の議論は終わり「どう対話して思考を深めるか」が春休みの新しい課題になっています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIクリエイティ部、始動。生徒は「プロンプト」で思考を形にする",
+            "subtext": "最新のマルチモーダルAIを使い、5分で数学の解法アニメを自作。教えられるのを待つのではなく、AIを使い倒す姿が日常に。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AI時代こそ「問いを立てる力」が学力を決める",
+            "subtext": "正解を出すのはAIの仕事。if塾では、AIにどう指示し、出てきた答えをどう疑うかという「批判的思考」を授業の核に据えています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260321_activity",
       "post_id": "20260321_activity",
