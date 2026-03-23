@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 75,
-    "last_updated": "2026-03-23T14:22:55.093005",
+    "last_updated": "2026-03-23T20:50:42.623412",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,23 @@
     {
       "id": "20260323_announcement",
       "post_id": "20260323_announcement",
-      "created_at": "2026-03-23T14:22:55",
+      "created_at": "2026-03-23T20:50:42",
       "datetime": "2026-03-23T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新！AIを「相棒」にする中高生が急増中",
+      "theme": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
       "target_audience": "Students & Parents",
-      "title": "2026年最新！AIを「相棒」にする中高生が急増中",
-      "caption": "【2026年3月】最新トレンドをお届け！\n\n新学期を前に、今「生成AI」との向き合い方が大きく変わっています。\nもはやAIは「調べるための道具」ではなく、共に形を作る「相棒（バディ）」です。\n\nこの春、多くのスクールで「AIネイティブ向け開発コース」が新設されていますが、if塾では一歩先を行く「AIディレクション」に特化したカリキュラムを強化中！\n\n「AIに使われる」のではなく「AIを使いこなす」スキルを、この春休みに手に入れませんか？\n\n最新の教育トレンドや、if塾の春季講習の詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #プログラミング教育 #中高生 #アプリ開発 #AIネイティブ",
-      "caption_text": "【2026年3月】最新トレンドをお届け！\n\n新学期を前に、今「生成AI」との向き合い方が大きく変わっています。\nもはやAIは「調べるための道具」ではなく、共に形を作る「相棒（バディ）」です。\n\nこの春、多くのスクールで「AIネイティブ向け開発コース」が新設されていますが、if塾では一歩先を行く「AIディレクション」に特化したカリキュラムを強化中！\n\n「AIに使われる」のではなく「AIを使いこなす」スキルを、この春休みに手に入れませんか？\n\n最新の教育トレンドや、if塾の春季講習の詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #プログラミング教育 #中高生 #アプリ開発 #AIネイティブ",
+      "title": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+      "caption": "【2026年3月】いよいよ、学びの形が決定的に変わります。\n\nif塾では本日より、最新の「GPT-5 mini」を標準搭載した学習コースの一般提供、および全塾生への無償開放をスタートしました！\n\n「AIに頼ると思考力が落ちるのでは？」\nそんな不安はもう過去のものです。\n\n2026年の今、求められるのはAIを『辞書』のように使いこなし、自分自身の思考をブーストさせる力。if塾の新コースでは、AIとの対話を通じて「なぜ？」を深掘りする、次世代の学習体験を提供します。\n\n春休み、この最新ツールを手に、新しい自分へアップデートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年3月】いよいよ、学びの形が決定的に変わります。\n\nif塾では本日より、最新の「GPT-5 mini」を標準搭載した学習コースの一般提供、および全塾生への無償開放をスタートしました！\n\n「AIに頼ると思考力が落ちるのでは？」\nそんな不安はもう過去のものです。\n\n2026年の今、求められるのはAIを『辞書』のように使いこなし、自分自身の思考をブーストさせる力。if塾の新コースでは、AIとの対話を通じて「なぜ？」を深掘りする、次世代の学習体験を提供します。\n\n春休み、この最新ツールを手に、新しい自分へアップデートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#プログラミング学習",
-        "#中高生ママ",
-        "#EdTech",
-        "#AI教育"
+        "#GPT5mini",
+        "#教育AI",
+        "#新学期準備",
+        "#AI学習",
+        "#最新教育テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！AIを「相棒」にする中高生が急増中",
-          "sub_title": "3月の進級・進学前に知っておきたい新常識",
-          "text_content": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "main_title": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+          "sub_title": "2026年3月最新｜if塾から重大発表",
+          "text_content": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-01.png",
           "image_file": "assets/img/posts/20260323_announcement-01.png",
-          "overlay_text": "2026年最新！AIを「相棒」にする中高生が急増中",
-          "subtext": "3月の進級・進学前に知っておきたい新常識",
-          "alt": "表紙 - 2026年最新！AIを「相棒」にする中高"
+          "overlay_text": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+          "subtext": "2026年3月最新｜if塾から重大発表",
+          "alt": "表紙 - GPT-5 miniが全生徒に。教育の「"
         },
         {
           "page_number": 2,
@@ -58,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使える」だけではもう足りない？",
-          "sub_title": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
-          "text_content": "「AIを使える」だけではもう足りない？",
+          "main_title": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
+          "sub_title": "新学期を前に、AIを使いこなせるかどうかで成績と効率に決定的な差がつく時代になりました。",
+          "text_content": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-02.png",
           "image_file": "assets/img/posts/20260323_announcement-02.png",
-          "overlay_text": "「AIを使える」だけではもう足りない？",
-          "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
-          "alt": "内容1 - 「AIを使える」だけではもう足りない？"
+          "overlay_text": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
+          "subtext": "新学期を前に、AIを使いこなせるかどうかで成績と効率に決定的な差がつく時代になりました。",
+          "alt": "内容1 - 「AIは補助」から「標準装備」へ。追いつ"
         },
         {
           "page_number": 3,
@@ -74,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "アプリ開発コースが「AI特化型」へ進化",
-          "sub_title": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
-          "text_content": "アプリ開発コースが「AI特化型」へ進化",
+          "main_title": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
+          "sub_title": "最新のマルチモーダルAIが24時間あなたの隣で、問題解説から英会話、小論文の添削まで伴走します。",
+          "text_content": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-03.png",
           "image_file": "assets/img/posts/20260323_announcement-03.png",
-          "overlay_text": "アプリ開発コースが「AI特化型」へ進化",
-          "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
-          "alt": "内容2 - アプリ開発コースが「AI特化型」へ進化"
+          "overlay_text": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
+          "subtext": "最新のマルチモーダルAIが24時間あなたの隣で、問題解説から英会話、小論文の添削まで伴走します。",
+          "alt": "内容2 - GPT-5 mini搭載コースを完全無償"
         },
         {
           "page_number": 4,
@@ -90,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾なら「AIと対話する力」が身につく",
-          "sub_title": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
-          "text_content": "if塾なら「AIと対話する力」が身につく",
+          "main_title": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
+          "sub_title": "答えを聞くのではなく、AIに「ヒント」を導き出させる対話型プロンプト技術をカリキュラムに導入しました。",
+          "text_content": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-04.png",
           "image_file": "assets/img/posts/20260323_announcement-04.png",
-          "overlay_text": "if塾なら「AIと対話する力」が身につく",
-          "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
-          "alt": "内容3 - if塾なら「AIと対話する力」が身につく"
+          "overlay_text": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
+          "subtext": "答えを聞くのではなく、AIに「ヒント」を導き出させる対話型プロンプト技術をカリキュラムに導入しました。",
+          "alt": "内容3 - if塾流：AIを「正解ツール」にしない、"
         },
         {
           "page_number": 5,
@@ -124,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新！AIを「相棒」にする中高生が急増中",
-          "sub_title": "3月の進級・進学前に知っておきたい新常識",
-          "text_content": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "main_title": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+          "sub_title": "2026年3月最新｜if塾から重大発表",
+          "text_content": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-01.png",
           "image_file": "assets/img/posts/20260323_announcement-01.png",
-          "overlay_text": "2026年最新！AIを「相棒」にする中高生が急増中",
-          "subtext": "3月の進級・進学前に知っておきたい新常識",
-          "alt": "表紙 - 2026年最新！AIを「相棒」にする中高"
+          "overlay_text": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+          "subtext": "2026年3月最新｜if塾から重大発表",
+          "alt": "表紙 - GPT-5 miniが全生徒に。教育の「"
         },
         {
           "page_number": 2,
@@ -140,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使える」だけではもう足りない？",
-          "sub_title": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
-          "text_content": "「AIを使える」だけではもう足りない？",
+          "main_title": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
+          "sub_title": "新学期を前に、AIを使いこなせるかどうかで成績と効率に決定的な差がつく時代になりました。",
+          "text_content": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-02.png",
           "image_file": "assets/img/posts/20260323_announcement-02.png",
-          "overlay_text": "「AIを使える」だけではもう足りない？",
-          "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
-          "alt": "内容1 - 「AIを使える」だけではもう足りない？"
+          "overlay_text": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
+          "subtext": "新学期を前に、AIを使いこなせるかどうかで成績と効率に決定的な差がつく時代になりました。",
+          "alt": "内容1 - 「AIは補助」から「標準装備」へ。追いつ"
         },
         {
           "page_number": 3,
@@ -156,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "アプリ開発コースが「AI特化型」へ進化",
-          "sub_title": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
-          "text_content": "アプリ開発コースが「AI特化型」へ進化",
+          "main_title": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
+          "sub_title": "最新のマルチモーダルAIが24時間あなたの隣で、問題解説から英会話、小論文の添削まで伴走します。",
+          "text_content": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-03.png",
           "image_file": "assets/img/posts/20260323_announcement-03.png",
-          "overlay_text": "アプリ開発コースが「AI特化型」へ進化",
-          "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
-          "alt": "内容2 - アプリ開発コースが「AI特化型」へ進化"
+          "overlay_text": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
+          "subtext": "最新のマルチモーダルAIが24時間あなたの隣で、問題解説から英会話、小論文の添削まで伴走します。",
+          "alt": "内容2 - GPT-5 mini搭載コースを完全無償"
         },
         {
           "page_number": 4,
@@ -172,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾なら「AIと対話する力」が身につく",
-          "sub_title": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
-          "text_content": "if塾なら「AIと対話する力」が身につく",
+          "main_title": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
+          "sub_title": "答えを聞くのではなく、AIに「ヒント」を導き出させる対話型プロンプト技術をカリキュラムに導入しました。",
+          "text_content": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-04.png",
           "image_file": "assets/img/posts/20260323_announcement-04.png",
-          "overlay_text": "if塾なら「AIと対話する力」が身につく",
-          "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
-          "alt": "内容3 - if塾なら「AIと対話する力」が身につく"
+          "overlay_text": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
+          "subtext": "答えを聞くのではなく、AIに「ヒント」を導き出させる対話型プロンプト技術をカリキュラムに導入しました。",
+          "alt": "内容3 - if塾流：AIを「正解ツール」にしない、"
         },
         {
           "page_number": 5,
@@ -243,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-23T14:21:27",
+      "research_date": "2026-03-23T20:49:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新！AIを「相棒」にする中高",
+        "cover_text": "GPT-5 miniが全生徒に。教育の「",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新！AIを「相棒」にする中高生が急増中",
-            "subtext": "3月の進級・進学前に知っておきたい新常識",
+            "headline": "GPT-5 miniが全生徒に。教育の「当たり前」が変わる日",
+            "subtext": "2026年3月最新｜if塾から重大発表",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを使える」だけではもう足りない？",
-            "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
+            "headline": "「AIは補助」から「標準装備」へ。追いつけない学習格差の不安",
+            "subtext": "新学期を前に、AIを使いこなせるかどうかで成績と効率に決定的な差がつく時代になりました。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "アプリ開発コースが「AI特化型」へ進化",
-            "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
+            "headline": "GPT-5 mini搭載コースを完全無償化。全生徒へ一般開放！",
+            "subtext": "最新のマルチモーダルAIが24時間あなたの隣で、問題解説から英会話、小論文の添削まで伴走します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾なら「AIと対話する力」が身につく",
-            "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
+            "headline": "if塾流：AIを「正解ツール」にしない、思考力を伸ばす活用法",
+            "subtext": "答えを聞くのではなく、AIに「ヒント」を導き出させる対話型プロンプト技術をカリキュラムに導入しました。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
