@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 74,
-    "last_updated": "2026-03-22T20:31:20.874927",
+    "total_posts": 75,
+    "last_updated": "2026-03-23T11:12:39.947470",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260323_announcement",
+      "post_id": "20260323_announcement",
+      "created_at": "2026-03-23T11:12:39",
+      "datetime": "2026-03-23T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+      "target_audience": "Students & Parents",
+      "title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+      "caption": "【2026年3月】最新エデュケーション・ニュース！\n\n文部科学省の最新調査でも、中学生の生成AI利用率が4割を超えたことが発表されましたね。🌏\n\n今の10代にとって、AIは「調べる道具」ではなく、自分のアイディアを形にするための「共同開発者（バディ）」へと進化しています。\n\n「プログラミングは難しそう…」\nそんな悩みはもう過去のもの！\n\n2026年の今、生成AIを活用したアプリ開発は、英語や数学と同じくらい重要なスキルになっています。\n\nif塾では、AIを正しく、そしてクリエイティブに使いこなすための特別プログラムを実施中。この春、君だけのオリジナルアプリを世界に公開してみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "caption_text": "【2026年3月】最新エデュケーション・ニュース！\n\n文部科学省の最新調査でも、中学生の生成AI利用率が4割を超えたことが発表されましたね。🌏\n\n今の10代にとって、AIは「調べる道具」ではなく、自分のアイディアを形にするための「共同開発者（バディ）」へと進化しています。\n\n「プログラミングは難しそう…」\nそんな悩みはもう過去のもの！\n\n2026年の今、生成AIを活用したアプリ開発は、英語や数学と同じくらい重要なスキルになっています。\n\nif塾では、AIを正しく、そしてクリエイティブに使いこなすための特別プログラムを実施中。この春、君だけのオリジナルアプリを世界に公開してみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#AI教育",
+        "#中学生",
+        "#アプリ開発",
+        "#ノーコード",
+        "#春期講習",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "sub_title": "3月最新：生成AIネイティブ時代の教育トレンド",
+          "text_content": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-01.png",
+          "image_file": "assets/img/posts/20260323_announcement-01.png",
+          "overlay_text": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
+          "alt": "表紙 - 中学生の4割がAI利用！2026年「アプ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "sub_title": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+          "text_content": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-02.png",
+          "image_file": "assets/img/posts/20260323_announcement-02.png",
+          "overlay_text": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+          "alt": "内容1 - 「検索」から「生成」へ。もはやAIなしの"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "sub_title": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+          "text_content": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-03.png",
+          "image_file": "assets/img/posts/20260323_announcement-03.png",
+          "overlay_text": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+          "alt": "内容2 - ノーコードAIで、13歳が1日でアプリを"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "sub_title": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+          "text_content": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-04.png",
+          "image_file": "assets/img/posts/20260323_announcement-04.png",
+          "overlay_text": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+          "alt": "内容3 - if塾流：AIを「最高の相棒」にするアプ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "sub_title": "3月最新：生成AIネイティブ時代の教育トレンド",
+          "text_content": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-01.png",
+          "image_file": "assets/img/posts/20260323_announcement-01.png",
+          "overlay_text": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
+          "alt": "表紙 - 中学生の4割がAI利用！2026年「アプ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "sub_title": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+          "text_content": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-02.png",
+          "image_file": "assets/img/posts/20260323_announcement-02.png",
+          "overlay_text": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+          "alt": "内容1 - 「検索」から「生成」へ。もはやAIなしの"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "sub_title": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+          "text_content": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-03.png",
+          "image_file": "assets/img/posts/20260323_announcement-03.png",
+          "overlay_text": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+          "alt": "内容2 - ノーコードAIで、13歳が1日でアプリを"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "sub_title": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+          "text_content": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260323_announcement-04.png",
+          "image_file": "assets/img/posts/20260323_announcement-04.png",
+          "overlay_text": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+          "alt": "内容3 - if塾流：AIを「最高の相棒」にするアプ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260323_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260323_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260323_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260323_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-23T11:11:01",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中学生の4割がAI利用！2026年「アプ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+            "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+            "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+            "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+            "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260322_activity",
       "post_id": "20260322_activity",
