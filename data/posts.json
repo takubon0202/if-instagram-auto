@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 75,
-    "last_updated": "2026-03-23T11:12:39.947470",
+    "last_updated": "2026-03-23T14:22:55.093005",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20260323_announcement",
       "post_id": "20260323_announcement",
-      "created_at": "2026-03-23T11:12:39",
+      "created_at": "2026-03-23T14:22:55",
       "datetime": "2026-03-23T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+      "theme": "2026年最新！AIを「相棒」にする中高生が急増中",
       "target_audience": "Students & Parents",
-      "title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-      "caption": "【2026年3月】最新エデュケーション・ニュース！\n\n文部科学省の最新調査でも、中学生の生成AI利用率が4割を超えたことが発表されましたね。🌏\n\n今の10代にとって、AIは「調べる道具」ではなく、自分のアイディアを形にするための「共同開発者（バディ）」へと進化しています。\n\n「プログラミングは難しそう…」\nそんな悩みはもう過去のもの！\n\n2026年の今、生成AIを活用したアプリ開発は、英語や数学と同じくらい重要なスキルになっています。\n\nif塾では、AIを正しく、そしてクリエイティブに使いこなすための特別プログラムを実施中。この春、君だけのオリジナルアプリを世界に公開してみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
-      "caption_text": "【2026年3月】最新エデュケーション・ニュース！\n\n文部科学省の最新調査でも、中学生の生成AI利用率が4割を超えたことが発表されましたね。🌏\n\n今の10代にとって、AIは「調べる道具」ではなく、自分のアイディアを形にするための「共同開発者（バディ）」へと進化しています。\n\n「プログラミングは難しそう…」\nそんな悩みはもう過去のもの！\n\n2026年の今、生成AIを活用したアプリ開発は、英語や数学と同じくらい重要なスキルになっています。\n\nif塾では、AIを正しく、そしてクリエイティブに使いこなすための特別プログラムを実施中。この春、君だけのオリジナルアプリを世界に公開してみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "title": "2026年最新！AIを「相棒」にする中高生が急増中",
+      "caption": "【2026年3月】最新トレンドをお届け！\n\n新学期を前に、今「生成AI」との向き合い方が大きく変わっています。\nもはやAIは「調べるための道具」ではなく、共に形を作る「相棒（バディ）」です。\n\nこの春、多くのスクールで「AIネイティブ向け開発コース」が新設されていますが、if塾では一歩先を行く「AIディレクション」に特化したカリキュラムを強化中！\n\n「AIに使われる」のではなく「AIを使いこなす」スキルを、この春休みに手に入れませんか？\n\n最新の教育トレンドや、if塾の春季講習の詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #プログラミング教育 #中高生 #アプリ開発 #AIネイティブ",
+      "caption_text": "【2026年3月】最新トレンドをお届け！\n\n新学期を前に、今「生成AI」との向き合い方が大きく変わっています。\nもはやAIは「調べるための道具」ではなく、共に形を作る「相棒（バディ）」です。\n\nこの春、多くのスクールで「AIネイティブ向け開発コース」が新設されていますが、if塾では一歩先を行く「AIディレクション」に特化したカリキュラムを強化中！\n\n「AIに使われる」のではなく「AIを使いこなす」スキルを、この春休みに手に入れませんか？\n\n最新の教育トレンドや、if塾の春季講習の詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #プログラミング教育 #中高生 #アプリ開発 #AIネイティブ",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#AI教育",
-        "#中学生",
-        "#アプリ開発",
-        "#ノーコード",
-        "#春期講習",
-        "#最新教育"
+        "#プログラミング学習",
+        "#中高生ママ",
+        "#EdTech",
+        "#AI教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-          "sub_title": "3月最新：生成AIネイティブ時代の教育トレンド",
-          "text_content": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "main_title": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "sub_title": "3月の進級・進学前に知っておきたい新常識",
+          "text_content": "2026年最新！AIを「相棒」にする中高生が急増中",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-01.png",
           "image_file": "assets/img/posts/20260323_announcement-01.png",
-          "overlay_text": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-          "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
-          "alt": "表紙 - 中学生の4割がAI利用！2026年「アプ"
+          "overlay_text": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "subtext": "3月の進級・進学前に知っておきたい新常識",
+          "alt": "表紙 - 2026年最新！AIを「相棒」にする中高"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
-          "sub_title": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
-          "text_content": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "main_title": "「AIを使える」だけではもう足りない？",
+          "sub_title": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
+          "text_content": "「AIを使える」だけではもう足りない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-02.png",
           "image_file": "assets/img/posts/20260323_announcement-02.png",
-          "overlay_text": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
-          "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
-          "alt": "内容1 - 「検索」から「生成」へ。もはやAIなしの"
+          "overlay_text": "「AIを使える」だけではもう足りない？",
+          "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
+          "alt": "内容1 - 「AIを使える」だけではもう足りない？"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ノーコードAIで、13歳が1日でアプリを公開する世界",
-          "sub_title": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
-          "text_content": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "main_title": "アプリ開発コースが「AI特化型」へ進化",
+          "sub_title": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
+          "text_content": "アプリ開発コースが「AI特化型」へ進化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-03.png",
           "image_file": "assets/img/posts/20260323_announcement-03.png",
-          "overlay_text": "ノーコードAIで、13歳が1日でアプリを公開する世界",
-          "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
-          "alt": "内容2 - ノーコードAIで、13歳が1日でアプリを"
+          "overlay_text": "アプリ開発コースが「AI特化型」へ進化",
+          "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
+          "alt": "内容2 - アプリ開発コースが「AI特化型」へ進化"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「最高の相棒」にするアプリ開発術",
-          "sub_title": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
-          "text_content": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "main_title": "if塾なら「AIと対話する力」が身につく",
+          "sub_title": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
+          "text_content": "if塾なら「AIと対話する力」が身につく",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-04.png",
           "image_file": "assets/img/posts/20260323_announcement-04.png",
-          "overlay_text": "if塾流：AIを「最高の相棒」にするアプリ開発術",
-          "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
-          "alt": "内容3 - if塾流：AIを「最高の相棒」にするアプ"
+          "overlay_text": "if塾なら「AIと対話する力」が身につく",
+          "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
+          "alt": "内容3 - if塾なら「AIと対話する力」が身につく"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-          "sub_title": "3月最新：生成AIネイティブ時代の教育トレンド",
-          "text_content": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
+          "main_title": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "sub_title": "3月の進級・進学前に知っておきたい新常識",
+          "text_content": "2026年最新！AIを「相棒」にする中高生が急増中",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-01.png",
           "image_file": "assets/img/posts/20260323_announcement-01.png",
-          "overlay_text": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-          "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
-          "alt": "表紙 - 中学生の4割がAI利用！2026年「アプ"
+          "overlay_text": "2026年最新！AIを「相棒」にする中高生が急増中",
+          "subtext": "3月の進級・進学前に知っておきたい新常識",
+          "alt": "表紙 - 2026年最新！AIを「相棒」にする中高"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
-          "sub_title": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
-          "text_content": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
+          "main_title": "「AIを使える」だけではもう足りない？",
+          "sub_title": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
+          "text_content": "「AIを使える」だけではもう足りない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-02.png",
           "image_file": "assets/img/posts/20260323_announcement-02.png",
-          "overlay_text": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
-          "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
-          "alt": "内容1 - 「検索」から「生成」へ。もはやAIなしの"
+          "overlay_text": "「AIを使える」だけではもう足りない？",
+          "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
+          "alt": "内容1 - 「AIを使える」だけではもう足りない？"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ノーコードAIで、13歳が1日でアプリを公開する世界",
-          "sub_title": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
-          "text_content": "ノーコードAIで、13歳が1日でアプリを公開する世界",
+          "main_title": "アプリ開発コースが「AI特化型」へ進化",
+          "sub_title": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
+          "text_content": "アプリ開発コースが「AI特化型」へ進化",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-03.png",
           "image_file": "assets/img/posts/20260323_announcement-03.png",
-          "overlay_text": "ノーコードAIで、13歳が1日でアプリを公開する世界",
-          "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
-          "alt": "内容2 - ノーコードAIで、13歳が1日でアプリを"
+          "overlay_text": "アプリ開発コースが「AI特化型」へ進化",
+          "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
+          "alt": "内容2 - アプリ開発コースが「AI特化型」へ進化"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「最高の相棒」にするアプリ開発術",
-          "sub_title": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
-          "text_content": "if塾流：AIを「最高の相棒」にするアプリ開発術",
+          "main_title": "if塾なら「AIと対話する力」が身につく",
+          "sub_title": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
+          "text_content": "if塾なら「AIと対話する力」が身につく",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260323_announcement-04.png",
           "image_file": "assets/img/posts/20260323_announcement-04.png",
-          "overlay_text": "if塾流：AIを「最高の相棒」にするアプリ開発術",
-          "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
-          "alt": "内容3 - if塾流：AIを「最高の相棒」にするアプ"
+          "overlay_text": "if塾なら「AIと対話する力」が身につく",
+          "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
+          "alt": "内容3 - if塾なら「AIと対話する力」が身につく"
         },
         {
           "page_number": 5,
@@ -245,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-23T11:11:01",
+      "research_date": "2026-03-23T14:21:27",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中学生の4割がAI利用！2026年「アプ",
+        "cover_text": "2026年最新！AIを「相棒」にする中高",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中学生の4割がAI利用！2026年「アプリ開発」が新常識に",
-            "subtext": "3月最新：生成AIネイティブ時代の教育トレンド",
+            "headline": "2026年最新！AIを「相棒」にする中高生が急増中",
+            "subtext": "3月の進級・進学前に知っておきたい新常識",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -269,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「検索」から「生成」へ。もはやAIなしの学習はあり得ない？",
-            "subtext": "春休み、周りの子はもう始めています。宿題の補助だけでなく、自らツールを創る時代が到来しました。",
+            "headline": "「AIを使える」だけではもう足りない？",
+            "subtext": "2026年、生成AIは検索ツールから「共創相手」へ。出遅れると学力や創造性に差がつく時代が到来しています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -278,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "ノーコードAIで、13歳が1日でアプリを公開する世界",
-            "subtext": "2026年、主要な中学校でAIリテラシー教育が本格化。消費する側から「AIを使いこなして創る側」へ。",
+            "headline": "アプリ開発コースが「AI特化型」へ進化",
+            "subtext": "今年の春はGPT-5.5世代を組み込んだ独自アプリ開発が主流に。中高生が一人で高度なサービスを立ち上げています。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -287,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「最高の相棒」にするアプリ開発術",
-            "subtext": "ただ指示を出すだけじゃない。論理的思考とアイディアを形にする力を、if塾の春期講習で身につけよう。",
+            "headline": "if塾なら「AIと対話する力」が身につく",
+            "subtext": "コードを書くだけじゃない。AIをディレクションして、社会の課題を解決する「次世代のリーダーシップ」を育成します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
