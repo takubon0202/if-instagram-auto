@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 75,
-    "last_updated": "2026-03-23T20:50:42.623412",
+    "total_posts": 76,
+    "last_updated": "2026-03-24T11:04:38.507521",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260324_education",
+      "post_id": "20260324_education",
+      "created_at": "2026-03-24T11:04:38",
+      "datetime": "2026-03-24T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+      "target_audience": "Students & Parents",
+      "title": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+      "caption": "【2026年3月】新学期、教育の形が劇的に変わります。\n\n2026年現在、生成AIは「答えを教える道具」から、一人ひとりに寄り添う「心強いパートナー」へと進化しました。\n\nif塾では、最新のAI技術を活用した個別最適化学習を本格導入。\n「どこが分からないか分からない」という悩みは、もう過去のものです。\n\nAIがあなたの理解度を瞬時に分析し、今解くべき1題を提示する。\nこの春、if塾で「自分史上最高の効率」で学びをスタートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年3月】新学期、教育の形が劇的に変わります。\n\n2026年現在、生成AIは「答えを教える道具」から、一人ひとりに寄り添う「心強いパートナー」へと進化しました。\n\nif塾では、最新のAI技術を活用した個別最適化学習を本格導入。\n「どこが分からないか分からない」という悩みは、もう過去のものです。\n\nAIがあなたの理解度を瞬時に分析し、今解くべき1題を提示する。\nこの春、if塾で「自分史上最高の効率」で学びをスタートしませんか？\n\n詳細はプロフィールのリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#教育DX",
+        "#個別最適化学習",
+        "#生成AI",
+        "#新学期準備",
+        "#EdTech",
+        "#受験対策"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "sub_title": "2026年3月最新版：個別最適化学習の最前線",
+          "text_content": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-01.png",
+          "image_file": "assets/img/posts/20260324_education-01.png",
+          "overlay_text": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "subtext": "2026年3月最新版：個別最適化学習の最前線",
+          "alt": "表紙 - AIは「敵」から「パートナー」へ。202"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "sub_title": "一人ひとりの理解度が違うのに、同じ教材・同じ進度。この春、その『非効率』をAIが解消します。",
+          "text_content": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-02.png",
+          "image_file": "assets/img/posts/20260324_education-02.png",
+          "overlay_text": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "subtext": "一人ひとりの理解度が違うのに、同じ教材・同じ進度。この春、その『非効率』をAIが解消します。",
+          "alt": "内容1 - 「みんなと同じ」勉強法に、限界を感じてい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が導入する「24時間伴走型AIパートナー」",
+          "sub_title": "最新のGPT-5.5sを搭載。単なる解答生成ではなく、生徒の「思考のクセ」を分析し、最適なヒントを提示します。",
+          "text_content": "if塾が導入する「24時間伴走型AIパートナー」",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-03.png",
+          "image_file": "assets/img/posts/20260324_education-03.png",
+          "overlay_text": "if塾が導入する「24時間伴走型AIパートナー」",
+          "subtext": "最新のGPT-5.5sを搭載。単なる解答生成ではなく、生徒の「思考のクセ」を分析し、最適なヒントを提示します。",
+          "alt": "内容2 - if塾が導入する「24時間伴走型AIパー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "この春から始める「AIとの対話」習慣",
+          "sub_title": "質問力を磨くことが学力向上に直結。if塾ではAIを使いこなし、自走する力を育てるカリキュラムが本格始動します。",
+          "text_content": "この春から始める「AIとの対話」習慣",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-04.png",
+          "image_file": "assets/img/posts/20260324_education-04.png",
+          "overlay_text": "この春から始める「AIとの対話」習慣",
+          "subtext": "質問力を磨くことが学力向上に直結。if塾ではAIを使いこなし、自走する力を育てるカリキュラムが本格始動します。",
+          "alt": "内容3 - この春から始める「AIとの対話」習慣"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "sub_title": "2026年3月最新版：個別最適化学習の最前線",
+          "text_content": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-01.png",
+          "image_file": "assets/img/posts/20260324_education-01.png",
+          "overlay_text": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+          "subtext": "2026年3月最新版：個別最適化学習の最前線",
+          "alt": "表紙 - AIは「敵」から「パートナー」へ。202"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "sub_title": "一人ひとりの理解度が違うのに、同じ教材・同じ進度。この春、その『非効率』をAIが解消します。",
+          "text_content": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-02.png",
+          "image_file": "assets/img/posts/20260324_education-02.png",
+          "overlay_text": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+          "subtext": "一人ひとりの理解度が違うのに、同じ教材・同じ進度。この春、その『非効率』をAIが解消します。",
+          "alt": "内容1 - 「みんなと同じ」勉強法に、限界を感じてい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が導入する「24時間伴走型AIパートナー」",
+          "sub_title": "最新のGPT-5.5sを搭載。単なる解答生成ではなく、生徒の「思考のクセ」を分析し、最適なヒントを提示します。",
+          "text_content": "if塾が導入する「24時間伴走型AIパートナー」",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-03.png",
+          "image_file": "assets/img/posts/20260324_education-03.png",
+          "overlay_text": "if塾が導入する「24時間伴走型AIパートナー」",
+          "subtext": "最新のGPT-5.5sを搭載。単なる解答生成ではなく、生徒の「思考のクセ」を分析し、最適なヒントを提示します。",
+          "alt": "内容2 - if塾が導入する「24時間伴走型AIパー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "この春から始める「AIとの対話」習慣",
+          "sub_title": "質問力を磨くことが学力向上に直結。if塾ではAIを使いこなし、自走する力を育てるカリキュラムが本格始動します。",
+          "text_content": "この春から始める「AIとの対話」習慣",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260324_education-04.png",
+          "image_file": "assets/img/posts/20260324_education-04.png",
+          "overlay_text": "この春から始める「AIとの対話」習慣",
+          "subtext": "質問力を磨くことが学力向上に直結。if塾ではAIを使いこなし、自走する力を育てるカリキュラムが本格始動します。",
+          "alt": "内容3 - この春から始める「AIとの対話」習慣"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260324_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260324_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260324_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260324_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-24T11:03:06",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「敵」から「パートナー」へ。202",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「敵」から「パートナー」へ。2026年、新学期の常識が変わる",
+            "subtext": "2026年3月最新版：個別最適化学習の最前線",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「みんなと同じ」勉強法に、限界を感じていませんか？",
+            "subtext": "一人ひとりの理解度が違うのに、同じ教材・同じ進度。この春、その『非効率』をAIが解消します。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾が導入する「24時間伴走型AIパートナー」",
+            "subtext": "最新のGPT-5.5sを搭載。単なる解答生成ではなく、生徒の「思考のクセ」を分析し、最適なヒントを提示します。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "この春から始める「AIとの対話」習慣",
+            "subtext": "質問力を磨くことが学力向上に直結。if塾ではAIを使いこなし、自走する力を育てるカリキュラムが本格始動します。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260323_announcement",
       "post_id": "20260323_announcement",
