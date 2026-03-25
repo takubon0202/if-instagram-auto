@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 76,
-    "last_updated": "2026-03-24T20:51:16.234342",
+    "total_posts": 77,
+    "last_updated": "2026-03-25T11:09:52.244971",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260325_development",
+      "post_id": "20260325_development",
+      "created_at": "2026-03-25T11:09:52",
+      "datetime": "2026-03-25T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+      "target_audience": "Students & Parents",
+      "title": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+      "caption": "【2026年3月】春休み、中高生のクリエイティビティが爆発しています！\n\nかつてはプロンプトを入力するだけだったAI活用も、2026年現在は「自律型AIエージェント」を自ら開発するフェーズへ進化しました。\n\n「宿題のスケジュールを最適化して実行を促すエージェント」\n「SNSのトレンドを分析して投稿案を自動生成するエージェント」\n\nif塾では、既存のツールを使うだけでなく、AIの思考プロセスを設計する力を養っています。新学期に向けたこの時期、一歩先行くテクノロジーを武器にしませんか？\n\n詳細はプロフィールURLの最新レポートをチェック！",
+      "caption_text": "【2026年3月】春休み、中高生のクリエイティビティが爆発しています！\n\nかつてはプロンプトを入力するだけだったAI活用も、2026年現在は「自律型AIエージェント」を自ら開発するフェーズへ進化しました。\n\n「宿題のスケジュールを最適化して実行を促すエージェント」\n「SNSのトレンドを分析して投稿案を自動生成するエージェント」\n\nif塾では、既存のツールを使うだけでなく、AIの思考プロセスを設計する力を養っています。新学期に向けたこの時期、一歩先行くテクノロジーを武器にしませんか？\n\n詳細はプロフィールURLの最新レポートをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#自律型AI",
+        "#AIエージェント",
+        "#中高生プログラミング",
+        "#探究学習",
+        "#春休みの過ごし方",
+        "#次世代教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "sub_title": "【2026年3月最新】自分で考え動くAIを、春休み中に作り上げる方法",
+          "text_content": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-01.png",
+          "image_file": "assets/img/posts/20260325_development-01.png",
+          "overlay_text": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "subtext": "【2026年3月最新】自分で考え動くAIを、春休み中に作り上げる方法",
+          "alt": "表紙 - 中高生の新常識！自律型AIエージェント開"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "sub_title": "ChatGPTに毎回命令するのはもう古い。2026年の学生は、目標を投げるだけでタスクを完遂する『自律型エージェント』を求めています。",
+          "text_content": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-02.png",
+          "image_file": "assets/img/posts/20260325_development-02.png",
+          "overlay_text": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "subtext": "ChatGPTに毎回命令するのはもう古い。2026年の学生は、目標を投げるだけでタスクを完遂する『自律型エージェント』を求めています。",
+          "alt": "内容1 - 「指示待ちAI」から卒業。忙しい春休み、"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "sub_title": "最新の軽量モデルを組み込み、ブラウジング、データ分析、コード生成を自らループして解決するエージェント開発が今のトレンドです。",
+          "text_content": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-03.png",
+          "image_file": "assets/img/posts/20260325_development-03.png",
+          "overlay_text": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "subtext": "最新の軽量モデルを組み込み、ブラウジング、データ分析、コード生成を自らループして解決するエージェント開発が今のトレンドです。",
+          "alt": "内容2 - AutoGPT 4.0を使いこなす。中高"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "sub_title": "テーマを伝えるだけで、関連論文の要約からスライド構成案の作成まで、AIが自律的に実行。思考の深化に時間を使えるようになりました。",
+          "text_content": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-04.png",
+          "image_file": "assets/img/posts/20260325_development-04.png",
+          "overlay_text": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "subtext": "テーマを伝えるだけで、関連論文の要約からスライド構成案の作成まで、AIが自律的に実行。思考の深化に時間を使えるようになりました。",
+          "alt": "内容3 - if塾生は『探究学習エージェント』を開発"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "sub_title": "【2026年3月最新】自分で考え動くAIを、春休み中に作り上げる方法",
+          "text_content": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-01.png",
+          "image_file": "assets/img/posts/20260325_development-01.png",
+          "overlay_text": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+          "subtext": "【2026年3月最新】自分で考え動くAIを、春休み中に作り上げる方法",
+          "alt": "表紙 - 中高生の新常識！自律型AIエージェント開"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "sub_title": "ChatGPTに毎回命令するのはもう古い。2026年の学生は、目標を投げるだけでタスクを完遂する『自律型エージェント』を求めています。",
+          "text_content": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-02.png",
+          "image_file": "assets/img/posts/20260325_development-02.png",
+          "overlay_text": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+          "subtext": "ChatGPTに毎回命令するのはもう古い。2026年の学生は、目標を投げるだけでタスクを完遂する『自律型エージェント』を求めています。",
+          "alt": "内容1 - 「指示待ちAI」から卒業。忙しい春休み、"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "sub_title": "最新の軽量モデルを組み込み、ブラウジング、データ分析、コード生成を自らループして解決するエージェント開発が今のトレンドです。",
+          "text_content": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-03.png",
+          "image_file": "assets/img/posts/20260325_development-03.png",
+          "overlay_text": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+          "subtext": "最新の軽量モデルを組み込み、ブラウジング、データ分析、コード生成を自らループして解決するエージェント開発が今のトレンドです。",
+          "alt": "内容2 - AutoGPT 4.0を使いこなす。中高"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "sub_title": "テーマを伝えるだけで、関連論文の要約からスライド構成案の作成まで、AIが自律的に実行。思考の深化に時間を使えるようになりました。",
+          "text_content": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260325_development-04.png",
+          "image_file": "assets/img/posts/20260325_development-04.png",
+          "overlay_text": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+          "subtext": "テーマを伝えるだけで、関連論文の要約からスライド構成案の作成まで、AIが自律的に実行。思考の深化に時間を使えるようになりました。",
+          "alt": "内容3 - if塾生は『探究学習エージェント』を開発"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260325_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260325_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260325_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260325_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-25T11:08:16",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生の新常識！自律型AIエージェント開",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生の新常識！自律型AIエージェント開発が加速する2026年春",
+            "subtext": "【2026年3月最新】自分で考え動くAIを、春休み中に作り上げる方法",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「指示待ちAI」から卒業。忙しい春休み、自分専用の秘書が欲しくない？",
+            "subtext": "ChatGPTに毎回命令するのはもう古い。2026年の学生は、目標を投げるだけでタスクを完遂する『自律型エージェント』を求めています。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AutoGPT 4.0を使いこなす。中高生が「自走するアプリ」を作る時代に",
+            "subtext": "最新の軽量モデルを組み込み、ブラウジング、データ分析、コード生成を自らループして解決するエージェント開発が今のトレンドです。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾生は『探究学習エージェント』を開発。リサーチ時間が1/10に！",
+            "subtext": "テーマを伝えるだけで、関連論文の要約からスライド構成案の作成まで、AIが自律的に実行。思考の深化に時間を使えるようになりました。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260324_education",
       "post_id": "20260324_education",
