@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 78,
-    "last_updated": "2026-03-26T14:25:15.818706",
+    "last_updated": "2026-03-26T20:55:54.923932",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260326_ai_column",
       "post_id": "20260326_ai_column",
-      "created_at": "2026-03-26T14:25:15",
+      "created_at": "2026-03-26T20:55:54",
       "datetime": "2026-03-26T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
+      "theme": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-      "caption": "【2026年3月】新学期、AIとの付き合い方が根本から変わります。\n\n「ChatGPTに何を聞けばいい？」と悩んでいた時代は終わり、これからは「AIにどのゴールを預けるか」を考えるフェーズへ突入しました。\n\n今月、多くの自律型AIエージェントがスマホOSに標準搭載され、私たちの生活は劇的に変化しています。お子様の学習においても、単なる検索ツールとしてではなく、目標達成のための『専属マネージャー』としてAIを活用するスキルが不可欠です。\n\nif塾では、最新のAI技術を使いこなしながらも、人間にしかできない「問いを立てる力」を養うカリキュラムを提供しています。\n\n今のうちから「自律型AI」に触れ、新学年のスタートダッシュを切りましょう！\n\n詳細はプロフィールのリンクから🚀",
-      "caption_text": "【2026年3月】新学期、AIとの付き合い方が根本から変わります。\n\n「ChatGPTに何を聞けばいい？」と悩んでいた時代は終わり、これからは「AIにどのゴールを預けるか」を考えるフェーズへ突入しました。\n\n今月、多くの自律型AIエージェントがスマホOSに標準搭載され、私たちの生活は劇的に変化しています。お子様の学習においても、単なる検索ツールとしてではなく、目標達成のための『専属マネージャー』としてAIを活用するスキルが不可欠です。\n\nif塾では、最新のAI技術を使いこなしながらも、人間にしかできない「問いを立てる力」を養うカリキュラムを提供しています。\n\n今のうちから「自律型AI」に触れ、新学年のスタートダッシュを切りましょう！\n\n詳細はプロフィールのリンクから🚀",
+      "title": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+      "caption": "【2026年3月】ついに歴史が動きました。\n\nOpenAIが最新の「GPT-5.4 mini/nano」をリリースし、これまで有料級だった高度な「Thinking（思考）モード」をすべてのユーザーに無償開放しました。\n\nこれ、実は学生さんや保護者の方にとって、単なるアップデート以上の意味があります。\n\n今までのAIは「答え」を出すのが得意でしたが、Thinkingモードは「なぜその答えになるのか」というプロセスを重視します。\n\n春休み、新しい学年に向けて「自走する力」をつけたいなら、このAIを使いこなさない手はありません。\n\nif塾では、AIに頼るのではなく、AIと一緒に賢くなる「共創学習」を推奨しています。\n\n最新のAIツール、あなたはどう使いますか？\nコメントで教えてください！✨\n\n#if塾 #2026年 #AI教育 #GPT5 #教育DX #新学期準備 #思考力",
+      "caption_text": "【2026年3月】ついに歴史が動きました。\n\nOpenAIが最新の「GPT-5.4 mini/nano」をリリースし、これまで有料級だった高度な「Thinking（思考）モード」をすべてのユーザーに無償開放しました。\n\nこれ、実は学生さんや保護者の方にとって、単なるアップデート以上の意味があります。\n\n今までのAIは「答え」を出すのが得意でしたが、Thinkingモードは「なぜその答えになるのか」というプロセスを重視します。\n\n春休み、新しい学年に向けて「自走する力」をつけたいなら、このAIを使いこなさない手はありません。\n\nif塾では、AIに頼るのではなく、AIと一緒に賢くなる「共創学習」を推奨しています。\n\n最新のAIツール、あなたはどう使いますか？\nコメントで教えてください！✨\n\n#if塾 #2026年 #AI教育 #GPT5 #教育DX #新学期準備 #思考力",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#自律型AI",
-        "#AIエージェント",
-        "#AI教育",
-        "#新学期準備",
-        "#DX教育",
-        "#最新テクノロジー"
+        "#GPT5",
+        "#最新AI",
+        "#教育",
+        "#春休み",
+        "#AI活用"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-          "sub_title": "2026年3月：新学期直前のAIエージェント激変ニュース",
-          "text_content": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
+          "main_title": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+          "sub_title": "2026年3月26日 最新アップデート速報",
+          "text_content": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-01.png",
           "image_file": "assets/img/posts/20260326_ai_column-01.png",
-          "overlay_text": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-          "subtext": "2026年3月：新学期直前のAIエージェント激変ニュース",
-          "alt": "表紙 - 【2026年最新】指示待ちは終了。自律型"
+          "overlay_text": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+          "subtext": "2026年3月26日 最新アップデート速報",
+          "alt": "表紙 - GPT-5.4 miniがついに解禁！思"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「チャットして終わり」はもう古い？",
-          "sub_title": "2025年までのAIは人間が都度指示を出していました。しかし、今春から普及した『自律型エージェント』は、目標を1つ伝えるだけで、プロセスを自分で考え、外部ツールを使いこなし、完遂まで一人で走り抜けます。",
-          "text_content": "「チャットして終わり」はもう古い？",
+          "main_title": "「AIは答えを出すだけ」はもう古い？",
+          "sub_title": "新学期を前に、OpenAIが「Thinkingモード」を無償開放。推論プロセスが見える化され、学生の『思考の癖』をAIが指摘する時代が到来しました。",
+          "text_content": "「AIは答えを出すだけ」はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-02.png",
           "image_file": "assets/img/posts/20260326_ai_column-02.png",
-          "overlay_text": "「チャットして終わり」はもう古い？",
-          "subtext": "2025年までのAIは人間が都度指示を出していました。しかし、今春から普及した『自律型エージェント』は、目標を1つ伝えるだけで、プロセスを自分で考え、外部ツールを使いこなし、完遂まで一人で走り抜けます。",
-          "alt": "内容1 - 「チャットして終わり」はもう古い？"
+          "overlay_text": "「AIは答えを出すだけ」はもう古い？",
+          "subtext": "新学期を前に、OpenAIが「Thinkingモード」を無償開放。推論プロセスが見える化され、学生の『思考の癖』をAIが指摘する時代が到来しました。",
+          "alt": "内容1 - 「AIは答えを出すだけ」はもう古い？"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "勉強もスケジュール管理も、AIが「伴走」する",
-          "sub_title": "最新の自律型ツールでは「志望校合格」というゴールを与えるだけで、日々の学習計画の修正、苦手分野の抽出、さらには塾の予約までをAIが自律的に実行。親や教師は『指示』ではなく『進捗の承認』をする立場に変わっています。",
-          "text_content": "勉強もスケジュール管理も、AIが「伴走」する",
+          "main_title": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
+          "sub_title": "超軽量モデルnanoの登場で、オフラインでも爆速で深い対話が可能に。春休みの宿題も「答えを写す」のではなく「解き方を教わる」のが当たり前に。",
+          "text_content": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-03.png",
           "image_file": "assets/img/posts/20260326_ai_column-03.png",
-          "overlay_text": "勉強もスケジュール管理も、AIが「伴走」する",
-          "subtext": "最新の自律型ツールでは「志望校合格」というゴールを与えるだけで、日々の学習計画の修正、苦手分野の抽出、さらには塾の予約までをAIが自律的に実行。親や教師は『指示』ではなく『進捗の承認』をする立場に変わっています。",
-          "alt": "内容2 - 勉強もスケジュール管理も、AIが「伴走」"
+          "overlay_text": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
+          "subtext": "超軽量モデルnanoの登場で、オフラインでも爆速で深い対話が可能に。春休みの宿題も「答えを写す」のではなく「解き方を教わる」のが当たり前に。",
+          "alt": "内容2 - GPT-5.4 nanoで、スマホが最強"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」ではなく「パートナー」にする",
-          "sub_title": "2026年の学びで大切なのは、AIに何をさせるかではなく『どんなゴールを描けるか』。丸投げではなく、AIが提案するプロセスに『自分の意志』を介在させる訓練が必要です。if塾では、この「ゴール設定力」を最優先で伝えています。",
-          "text_content": "if塾流：AIを「部下」ではなく「パートナー」にする",
+          "main_title": "if塾流：Thinkingモードの賢い使い分け",
+          "sub_title": "論理的思考が必要な記述式問題にはThinkingをON。単なる暗記確認は通常モードで。AIに考えさせるのではなく、AIの思考過程を盗むのが2026年の勉強法です。",
+          "text_content": "if塾流：Thinkingモードの賢い使い分け",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-04.png",
           "image_file": "assets/img/posts/20260326_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「部下」ではなく「パートナー」にする",
-          "subtext": "2026年の学びで大切なのは、AIに何をさせるかではなく『どんなゴールを描けるか』。丸投げではなく、AIが提案するプロセスに『自分の意志』を介在させる訓練が必要です。if塾では、この「ゴール設定力」を最優先で伝えています。",
-          "alt": "内容3 - if塾流：AIを「部下」ではなく「パート"
+          "overlay_text": "if塾流：Thinkingモードの賢い使い分け",
+          "subtext": "論理的思考が必要な記述式問題にはThinkingをON。単なる暗記確認は通常モードで。AIに考えさせるのではなく、AIの思考過程を盗むのが2026年の勉強法です。",
+          "alt": "内容3 - if塾流：Thinkingモードの賢い使"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-          "sub_title": "2026年3月：新学期直前のAIエージェント激変ニュース",
-          "text_content": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
+          "main_title": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+          "sub_title": "2026年3月26日 最新アップデート速報",
+          "text_content": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-01.png",
           "image_file": "assets/img/posts/20260326_ai_column-01.png",
-          "overlay_text": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-          "subtext": "2026年3月：新学期直前のAIエージェント激変ニュース",
-          "alt": "表紙 - 【2026年最新】指示待ちは終了。自律型"
+          "overlay_text": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+          "subtext": "2026年3月26日 最新アップデート速報",
+          "alt": "表紙 - GPT-5.4 miniがついに解禁！思"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「チャットして終わり」はもう古い？",
-          "sub_title": "2025年までのAIは人間が都度指示を出していました。しかし、今春から普及した『自律型エージェント』は、目標を1つ伝えるだけで、プロセスを自分で考え、外部ツールを使いこなし、完遂まで一人で走り抜けます。",
-          "text_content": "「チャットして終わり」はもう古い？",
+          "main_title": "「AIは答えを出すだけ」はもう古い？",
+          "sub_title": "新学期を前に、OpenAIが「Thinkingモード」を無償開放。推論プロセスが見える化され、学生の『思考の癖』をAIが指摘する時代が到来しました。",
+          "text_content": "「AIは答えを出すだけ」はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-02.png",
           "image_file": "assets/img/posts/20260326_ai_column-02.png",
-          "overlay_text": "「チャットして終わり」はもう古い？",
-          "subtext": "2025年までのAIは人間が都度指示を出していました。しかし、今春から普及した『自律型エージェント』は、目標を1つ伝えるだけで、プロセスを自分で考え、外部ツールを使いこなし、完遂まで一人で走り抜けます。",
-          "alt": "内容1 - 「チャットして終わり」はもう古い？"
+          "overlay_text": "「AIは答えを出すだけ」はもう古い？",
+          "subtext": "新学期を前に、OpenAIが「Thinkingモード」を無償開放。推論プロセスが見える化され、学生の『思考の癖』をAIが指摘する時代が到来しました。",
+          "alt": "内容1 - 「AIは答えを出すだけ」はもう古い？"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "勉強もスケジュール管理も、AIが「伴走」する",
-          "sub_title": "最新の自律型ツールでは「志望校合格」というゴールを与えるだけで、日々の学習計画の修正、苦手分野の抽出、さらには塾の予約までをAIが自律的に実行。親や教師は『指示』ではなく『進捗の承認』をする立場に変わっています。",
-          "text_content": "勉強もスケジュール管理も、AIが「伴走」する",
+          "main_title": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
+          "sub_title": "超軽量モデルnanoの登場で、オフラインでも爆速で深い対話が可能に。春休みの宿題も「答えを写す」のではなく「解き方を教わる」のが当たり前に。",
+          "text_content": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-03.png",
           "image_file": "assets/img/posts/20260326_ai_column-03.png",
-          "overlay_text": "勉強もスケジュール管理も、AIが「伴走」する",
-          "subtext": "最新の自律型ツールでは「志望校合格」というゴールを与えるだけで、日々の学習計画の修正、苦手分野の抽出、さらには塾の予約までをAIが自律的に実行。親や教師は『指示』ではなく『進捗の承認』をする立場に変わっています。",
-          "alt": "内容2 - 勉強もスケジュール管理も、AIが「伴走」"
+          "overlay_text": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
+          "subtext": "超軽量モデルnanoの登場で、オフラインでも爆速で深い対話が可能に。春休みの宿題も「答えを写す」のではなく「解き方を教わる」のが当たり前に。",
+          "alt": "内容2 - GPT-5.4 nanoで、スマホが最強"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」ではなく「パートナー」にする",
-          "sub_title": "2026年の学びで大切なのは、AIに何をさせるかではなく『どんなゴールを描けるか』。丸投げではなく、AIが提案するプロセスに『自分の意志』を介在させる訓練が必要です。if塾では、この「ゴール設定力」を最優先で伝えています。",
-          "text_content": "if塾流：AIを「部下」ではなく「パートナー」にする",
+          "main_title": "if塾流：Thinkingモードの賢い使い分け",
+          "sub_title": "論理的思考が必要な記述式問題にはThinkingをON。単なる暗記確認は通常モードで。AIに考えさせるのではなく、AIの思考過程を盗むのが2026年の勉強法です。",
+          "text_content": "if塾流：Thinkingモードの賢い使い分け",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260326_ai_column-04.png",
           "image_file": "assets/img/posts/20260326_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「部下」ではなく「パートナー」にする",
-          "subtext": "2026年の学びで大切なのは、AIに何をさせるかではなく『どんなゴールを描けるか』。丸投げではなく、AIが提案するプロセスに『自分の意志』を介在させる訓練が必要です。if塾では、この「ゴール設定力」を最優先で伝えています。",
-          "alt": "内容3 - if塾流：AIを「部下」ではなく「パート"
+          "overlay_text": "if塾流：Thinkingモードの賢い使い分け",
+          "subtext": "論理的思考が必要な記述式問題にはThinkingをON。単なる暗記確認は通常モードで。AIに考えさせるのではなく、AIの思考過程を盗むのが2026年の勉強法です。",
+          "alt": "内容3 - if塾流：Thinkingモードの賢い使"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-26T14:23:40",
+      "research_date": "2026-03-26T20:54:22",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】指示待ちは終了。自律型",
+        "cover_text": "GPT-5.4 miniがついに解禁！思",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】指示待ちは終了。自律型AIが「勝手にやる」時代へ",
-            "subtext": "2026年3月：新学期直前のAIエージェント激変ニュース",
+            "headline": "GPT-5.4 miniがついに解禁！思考するAIが全人類へ。",
+            "subtext": "2026年3月26日 最新アップデート速報",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「チャットして終わり」はもう古い？",
-            "subtext": "2025年までのAIは人間が都度指示を出していました。しかし、今春から普及した『自律型エージェント』は、目標を1つ伝えるだけで、プロセスを自分で考え、外部ツールを使いこなし、完遂まで一人で走り抜けます。",
+            "headline": "「AIは答えを出すだけ」はもう古い？",
+            "subtext": "新学期を前に、OpenAIが「Thinkingモード」を無償開放。推論プロセスが見える化され、学生の『思考の癖』をAIが指摘する時代が到来しました。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "勉強もスケジュール管理も、AIが「伴走」する",
-            "subtext": "最新の自律型ツールでは「志望校合格」というゴールを与えるだけで、日々の学習計画の修正、苦手分野の抽出、さらには塾の予約までをAIが自律的に実行。親や教師は『指示』ではなく『進捗の承認』をする立場に変わっています。",
+            "headline": "GPT-5.4 nanoで、スマホが最強の家庭教師に",
+            "subtext": "超軽量モデルnanoの登場で、オフラインでも爆速で深い対話が可能に。春休みの宿題も「答えを写す」のではなく「解き方を教わる」のが当たり前に。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「部下」ではなく「パートナー」にする",
-            "subtext": "2026年の学びで大切なのは、AIに何をさせるかではなく『どんなゴールを描けるか』。丸投げではなく、AIが提案するプロセスに『自分の意志』を介在させる訓練が必要です。if塾では、この「ゴール設定力」を最優先で伝えています。",
+            "headline": "if塾流：Thinkingモードの賢い使い分け",
+            "subtext": "論理的思考が必要な記述式問題にはThinkingをON。単なる暗記確認は通常モードで。AIに考えさせるのではなく、AIの思考過程を盗むのが2026年の勉強法です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
