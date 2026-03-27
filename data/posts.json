@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 79,
-    "last_updated": "2026-03-27T11:25:05.643840",
+    "last_updated": "2026-03-27T14:25:41.151486",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260327_business",
       "post_id": "20260327_business",
-      "created_at": "2026-03-27T11:25:05",
+      "created_at": "2026-03-27T14:25:41",
       "datetime": "2026-03-27T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+      "theme": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
       "target_audience": "Students & Parents",
-      "title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-      "caption": "【2026年3月】春休み、中高生の過ごし方が劇的に変わっています！\n\n今、地方在住の中高生が「生成AI」を武器に、地元の魅力を世界へ発信するクリエイターとして活躍し始めているのをご存知ですか？\n\nかつては高度な編集スキルが必要だった動画制作も、2026年現在のAIツールを使えば、アイデア次第で誰でもプロクオリティの発信が可能です。\n\n「地元の何気ない景色」が、世界中の観光客にとっては「宝物」に見える。その橋渡しをするのが、AIを使いこなす次世代のクリエイターたちです。\n\nif塾では、単なるAI操作ではなく、地域社会に貢献しながら自立する力を引き出します。この春、新しい一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年3月】春休み、中高生の過ごし方が劇的に変わっています！\n\n今、地方在住の中高生が「生成AI」を武器に、地元の魅力を世界へ発信するクリエイターとして活躍し始めているのをご存知ですか？\n\nかつては高度な編集スキルが必要だった動画制作も、2026年現在のAIツールを使えば、アイデア次第で誰でもプロクオリティの発信が可能です。\n\n「地元の何気ない景色」が、世界中の観光客にとっては「宝物」に見える。その橋渡しをするのが、AIを使いこなす次世代のクリエイターたちです。\n\nif塾では、単なるAI操作ではなく、地域社会に貢献しながら自立する力を引き出します。この春、新しい一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+      "caption": "【2026年3月】進級・進学を控えたこの時期、中高生の「稼ぐ力」が注目されています。\n\n今や生成AIは単なる遊び道具ではなく、中高生が「AIクリエイター」として社会と繋がる武器になりました。\n\n2026年現在、SNS運用代行や画像生成の現場では、若者の感性と最新AIを掛け合わせた「月収5万円」のロールモデルが次々と誕生しています。\n\n大切なのは、AIに仕事を奪われることを恐れるのではなく、AIを使って新しい価値を創り出すこと。\n\n春休みを利用して、次世代のスキルを身につけませんか？\n\nif塾では、AI時代を生き抜く「思考力」と「技術」を伝えています。\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年3月】進級・進学を控えたこの時期、中高生の「稼ぐ力」が注目されています。\n\n今や生成AIは単なる遊び道具ではなく、中高生が「AIクリエイター」として社会と繋がる武器になりました。\n\n2026年現在、SNS運用代行や画像生成の現場では、若者の感性と最新AIを掛け合わせた「月収5万円」のロールモデルが次々と誕生しています。\n\n大切なのは、AIに仕事を奪われることを恐れるのではなく、AIを使って新しい価値を創り出すこと。\n\n春休みを利用して、次世代のスキルを身につけませんか？\n\nif塾では、AI時代を生き抜く「思考力」と「技術」を伝えています。\n詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#中高生クリエイター",
-        "#地域活性化",
-        "#AI教育",
-        "#最新トレンド"
+        "#中高生副業",
+        "#AIクリエイター",
+        "#SNS運用代行",
+        "#春休み",
+        "#キャリア教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-          "sub_title": "地方の魅力を世界へ届けるクリエイター急増中",
-          "text_content": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "main_title": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+          "sub_title": "2026年3月最新トレンド：AIクリエイターへの道",
+          "text_content": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-01.png",
           "image_file": "assets/img/posts/20260327_business-01.png",
-          "overlay_text": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-          "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
-          "alt": "表紙 - 中高生が「月5万」を稼ぐ？2026年3月"
+          "overlay_text": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+          "subtext": "2026年3月最新トレンド：AIクリエイターへの道",
+          "alt": "表紙 - 中高生がAIで月5万稼ぐ時代。2026年"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "春休みなのに「やることがない」？",
-          "sub_title": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
-          "text_content": "春休みなのに「やることがない」？",
+          "main_title": "「お小遣い」を自分で創る時代へ",
+          "sub_title": "春休み、バイト禁止の校則に縛られず、自宅でスキルを磨きながら収益化したい中高生が急増中。でも「何から始めればいい？」という悩みが大半です。",
+          "text_content": "「お小遣い」を自分で創る時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-02.png",
           "image_file": "assets/img/posts/20260327_business-02.png",
-          "overlay_text": "春休みなのに「やることがない」？",
-          "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
-          "alt": "内容1 - 春休みなのに「やることがない」？"
+          "overlay_text": "「お小遣い」を自分で創る時代へ",
+          "subtext": "春休み、バイト禁止の校則に縛られず、自宅でスキルを磨きながら収益化したい中高生が急増中。でも「何から始めればいい？」という悩みが大半です。",
+          "alt": "内容1 - 「お小遣い」を自分で創る時代へ"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
-          "sub_title": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
-          "text_content": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "main_title": "GPT-5.5と最新画像生成AIの連携",
+          "sub_title": "2026年主流のマルチモーダルAIを活用。SNS投稿の自動デザイン生成や、企業のショート動画台本作成代行が、中高生の主力スキルになっています。",
+          "text_content": "GPT-5.5と最新画像生成AIの連携",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-03.png",
           "image_file": "assets/img/posts/20260327_business-03.png",
-          "overlay_text": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
-          "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
-          "alt": "内容2 - 2026年最新：動画生成AI「Sora "
+          "overlay_text": "GPT-5.5と最新画像生成AIの連携",
+          "subtext": "2026年主流のマルチモーダルAIを活用。SNS投稿の自動デザイン生成や、企業のショート動画台本作成代行が、中高生の主力スキルになっています。",
+          "alt": "内容2 - GPT-5.5と最新画像生成AIの連携"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「技術」より「視点」。if塾が教えるAI時代の武器",
-          "sub_title": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
-          "text_content": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "main_title": "「作業」ではなく「プロデュース」",
+          "sub_title": "if塾が教える成功の秘訣は、AIを道具として使いこなす『ディレクション能力』。ツールの操作方法よりも、クライアントの悩みを解決する視点が収益を生みます。",
+          "text_content": "「作業」ではなく「プロデュース」",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-04.png",
           "image_file": "assets/img/posts/20260327_business-04.png",
-          "overlay_text": "「技術」より「視点」。if塾が教えるAI時代の武器",
-          "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
-          "alt": "内容3 - 「技術」より「視点」。if塾が教えるAI"
+          "overlay_text": "「作業」ではなく「プロデュース」",
+          "subtext": "if塾が教える成功の秘訣は、AIを道具として使いこなす『ディレクション能力』。ツールの操作方法よりも、クライアントの悩みを解決する視点が収益を生みます。",
+          "alt": "内容3 - 「作業」ではなく「プロデュース」"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-          "sub_title": "地方の魅力を世界へ届けるクリエイター急増中",
-          "text_content": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "main_title": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+          "sub_title": "2026年3月最新トレンド：AIクリエイターへの道",
+          "text_content": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-01.png",
           "image_file": "assets/img/posts/20260327_business-01.png",
-          "overlay_text": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-          "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
-          "alt": "表紙 - 中高生が「月5万」を稼ぐ？2026年3月"
+          "overlay_text": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+          "subtext": "2026年3月最新トレンド：AIクリエイターへの道",
+          "alt": "表紙 - 中高生がAIで月5万稼ぐ時代。2026年"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "春休みなのに「やることがない」？",
-          "sub_title": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
-          "text_content": "春休みなのに「やることがない」？",
+          "main_title": "「お小遣い」を自分で創る時代へ",
+          "sub_title": "春休み、バイト禁止の校則に縛られず、自宅でスキルを磨きながら収益化したい中高生が急増中。でも「何から始めればいい？」という悩みが大半です。",
+          "text_content": "「お小遣い」を自分で創る時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-02.png",
           "image_file": "assets/img/posts/20260327_business-02.png",
-          "overlay_text": "春休みなのに「やることがない」？",
-          "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
-          "alt": "内容1 - 春休みなのに「やることがない」？"
+          "overlay_text": "「お小遣い」を自分で創る時代へ",
+          "subtext": "春休み、バイト禁止の校則に縛られず、自宅でスキルを磨きながら収益化したい中高生が急増中。でも「何から始めればいい？」という悩みが大半です。",
+          "alt": "内容1 - 「お小遣い」を自分で創る時代へ"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
-          "sub_title": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
-          "text_content": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "main_title": "GPT-5.5と最新画像生成AIの連携",
+          "sub_title": "2026年主流のマルチモーダルAIを活用。SNS投稿の自動デザイン生成や、企業のショート動画台本作成代行が、中高生の主力スキルになっています。",
+          "text_content": "GPT-5.5と最新画像生成AIの連携",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-03.png",
           "image_file": "assets/img/posts/20260327_business-03.png",
-          "overlay_text": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
-          "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
-          "alt": "内容2 - 2026年最新：動画生成AI「Sora "
+          "overlay_text": "GPT-5.5と最新画像生成AIの連携",
+          "subtext": "2026年主流のマルチモーダルAIを活用。SNS投稿の自動デザイン生成や、企業のショート動画台本作成代行が、中高生の主力スキルになっています。",
+          "alt": "内容2 - GPT-5.5と最新画像生成AIの連携"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「技術」より「視点」。if塾が教えるAI時代の武器",
-          "sub_title": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
-          "text_content": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "main_title": "「作業」ではなく「プロデュース」",
+          "sub_title": "if塾が教える成功の秘訣は、AIを道具として使いこなす『ディレクション能力』。ツールの操作方法よりも、クライアントの悩みを解決する視点が収益を生みます。",
+          "text_content": "「作業」ではなく「プロデュース」",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260327_business-04.png",
           "image_file": "assets/img/posts/20260327_business-04.png",
-          "overlay_text": "「技術」より「視点」。if塾が教えるAI時代の武器",
-          "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
-          "alt": "内容3 - 「技術」より「視点」。if塾が教えるAI"
+          "overlay_text": "「作業」ではなく「プロデュース」",
+          "subtext": "if塾が教える成功の秘訣は、AIを道具として使いこなす『ディレクション能力』。ツールの操作方法よりも、クライアントの悩みを解決する視点が収益を生みます。",
+          "alt": "内容3 - 「作業」ではなく「プロデュース」"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-27T11:23:25",
+      "research_date": "2026-03-27T14:24:07",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が「月5万」を稼ぐ？2026年3月",
+        "cover_text": "中高生がAIで月5万稼ぐ時代。2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
-            "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
+            "headline": "中高生がAIで月5万稼ぐ時代。2026年春の最新副業術",
+            "subtext": "2026年3月最新トレンド：AIクリエイターへの道",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "春休みなのに「やることがない」？",
-            "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+            "headline": "「お小遣い」を自分で創る時代へ",
+            "subtext": "春休み、バイト禁止の校則に縛られず、自宅でスキルを磨きながら収益化したい中高生が急増中。でも「何から始めればいい？」という悩みが大半です。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
-            "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+            "headline": "GPT-5.5と最新画像生成AIの連携",
+            "subtext": "2026年主流のマルチモーダルAIを活用。SNS投稿の自動デザイン生成や、企業のショート動画台本作成代行が、中高生の主力スキルになっています。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「技術」より「視点」。if塾が教えるAI時代の武器",
-            "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+            "headline": "「作業」ではなく「プロデュース」",
+            "subtext": "if塾が教える成功の秘訣は、AIを道具として使いこなす『ディレクション能力』。ツールの操作方法よりも、クライアントの悩みを解決する視点が収益を生みます。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
