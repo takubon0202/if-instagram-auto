@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 78,
-    "last_updated": "2026-03-26T20:55:54.923932",
+    "total_posts": 79,
+    "last_updated": "2026-03-27T11:25:05.643840",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260327_business",
+      "post_id": "20260327_business",
+      "created_at": "2026-03-27T11:25:05",
+      "datetime": "2026-03-27T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+      "target_audience": "Students & Parents",
+      "title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+      "caption": "【2026年3月】春休み、中高生の過ごし方が劇的に変わっています！\n\n今、地方在住の中高生が「生成AI」を武器に、地元の魅力を世界へ発信するクリエイターとして活躍し始めているのをご存知ですか？\n\nかつては高度な編集スキルが必要だった動画制作も、2026年現在のAIツールを使えば、アイデア次第で誰でもプロクオリティの発信が可能です。\n\n「地元の何気ない景色」が、世界中の観光客にとっては「宝物」に見える。その橋渡しをするのが、AIを使いこなす次世代のクリエイターたちです。\n\nif塾では、単なるAI操作ではなく、地域社会に貢献しながら自立する力を引き出します。この春、新しい一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年3月】春休み、中高生の過ごし方が劇的に変わっています！\n\n今、地方在住の中高生が「生成AI」を武器に、地元の魅力を世界へ発信するクリエイターとして活躍し始めているのをご存知ですか？\n\nかつては高度な編集スキルが必要だった動画制作も、2026年現在のAIツールを使えば、アイデア次第で誰でもプロクオリティの発信が可能です。\n\n「地元の何気ない景色」が、世界中の観光客にとっては「宝物」に見える。その橋渡しをするのが、AIを使いこなす次世代のクリエイターたちです。\n\nif塾では、単なるAI操作ではなく、地域社会に貢献しながら自立する力を引き出します。この春、新しい一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#中高生クリエイター",
+        "#地域活性化",
+        "#AI教育",
+        "#最新トレンド"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "sub_title": "地方の魅力を世界へ届けるクリエイター急増中",
+          "text_content": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-01.png",
+          "image_file": "assets/img/posts/20260327_business-01.png",
+          "overlay_text": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
+          "alt": "表紙 - 中高生が「月5万」を稼ぐ？2026年3月"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休みなのに「やることがない」？",
+          "sub_title": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+          "text_content": "春休みなのに「やることがない」？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-02.png",
+          "image_file": "assets/img/posts/20260327_business-02.png",
+          "overlay_text": "春休みなのに「やることがない」？",
+          "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+          "alt": "内容1 - 春休みなのに「やることがない」？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "sub_title": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+          "text_content": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-03.png",
+          "image_file": "assets/img/posts/20260327_business-03.png",
+          "overlay_text": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+          "alt": "内容2 - 2026年最新：動画生成AI「Sora "
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "sub_title": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+          "text_content": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-04.png",
+          "image_file": "assets/img/posts/20260327_business-04.png",
+          "overlay_text": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+          "alt": "内容3 - 「技術」より「視点」。if塾が教えるAI"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "sub_title": "地方の魅力を世界へ届けるクリエイター急増中",
+          "text_content": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-01.png",
+          "image_file": "assets/img/posts/20260327_business-01.png",
+          "overlay_text": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+          "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
+          "alt": "表紙 - 中高生が「月5万」を稼ぐ？2026年3月"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "春休みなのに「やることがない」？",
+          "sub_title": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+          "text_content": "春休みなのに「やることがない」？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-02.png",
+          "image_file": "assets/img/posts/20260327_business-02.png",
+          "overlay_text": "春休みなのに「やることがない」？",
+          "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+          "alt": "内容1 - 春休みなのに「やることがない」？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "sub_title": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+          "text_content": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-03.png",
+          "image_file": "assets/img/posts/20260327_business-03.png",
+          "overlay_text": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+          "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+          "alt": "内容2 - 2026年最新：動画生成AI「Sora "
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "sub_title": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+          "text_content": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260327_business-04.png",
+          "image_file": "assets/img/posts/20260327_business-04.png",
+          "overlay_text": "「技術」より「視点」。if塾が教えるAI時代の武器",
+          "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+          "alt": "内容3 - 「技術」より「視点」。if塾が教えるAI"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260327_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260327_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260327_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260327_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-27T11:23:25",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が「月5万」を稼ぐ？2026年3月",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が「月5万」を稼ぐ？2026年3月の最新AI副業",
+            "subtext": "地方の魅力を世界へ届けるクリエイター急増中",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "春休みなのに「やることがない」？",
+            "subtext": "ただスマホを見るだけは終了。今は生成AIを使って地元の『隠れた名所』をコンテンツ化し、収益化する学生が急増しています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年最新：動画生成AI「Sora 2.0」と翻訳AIの掛け合わせ",
+            "subtext": "最新のマルチモーダルAIを使えば、スマホ1台でプロ級の観光PR動画が完成。インバウンド向けに多言語発信も自動で行えます。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「技術」より「視点」。if塾が教えるAI時代の武器",
+            "subtext": "AIはツールに過ぎません。大切なのは『地元の人しか知らない価値』を見つける観察力。if塾ではAIを使いこなし、地域の課題を解決する力を育てます。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260326_ai_column",
       "post_id": "20260326_ai_column",
