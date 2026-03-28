@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 80,
-    "last_updated": "2026-03-28T14:12:35.072001",
+    "last_updated": "2026-03-28T20:35:55.653775",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260328_activity",
       "post_id": "20260328_activity",
-      "created_at": "2026-03-28T14:12:35",
+      "created_at": "2026-03-28T20:35:55",
       "datetime": "2026-03-28T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
+      "theme": "2026年、3D制作は「読み書き」の次へ。",
       "target_audience": "Students & Parents",
-      "title": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-      "caption": "【2026年3月】春期講習が盛り上がっています！🌸\n\nAIが日常に溶け込んだ2026年。プログラミング学習も大きな転換期を迎えています。\n\n「AIを使えばすぐコードが書けるから、考える力がつかないのでは？」\nそんな不安を解消するのが、if塾が活用している最新の「自走型AIエージェント」です。\n\nこのAI、実は「答え」を絶対に教えません。\n生徒の詰まっているポイントを分析し、「このエラーは、さっきの変数と関係があるかも？」と、絶妙なヒントを投げかけます。\n\n自ら悩み、解決した時の生徒たちの「あ、わかった！」という表情。これこそが、これからの時代に必要な本物の自信に繋がります。\n\n春休み、if塾で「最新AI」を味方につけて、圧倒的な自走力を身につけませんか？\n\n詳細はプロフィールURLからチェックしてください！✨",
-      "caption_text": "【2026年3月】春期講習が盛り上がっています！🌸\n\nAIが日常に溶け込んだ2026年。プログラミング学習も大きな転換期を迎えています。\n\n「AIを使えばすぐコードが書けるから、考える力がつかないのでは？」\nそんな不安を解消するのが、if塾が活用している最新の「自走型AIエージェント」です。\n\nこのAI、実は「答え」を絶対に教えません。\n生徒の詰まっているポイントを分析し、「このエラーは、さっきの変数と関係があるかも？」と、絶妙なヒントを投げかけます。\n\n自ら悩み、解決した時の生徒たちの「あ、わかった！」という表情。これこそが、これからの時代に必要な本物の自信に繋がります。\n\n春休み、if塾で「最新AI」を味方につけて、圧倒的な自走力を身につけませんか？\n\n詳細はプロフィールURLからチェックしてください！✨",
+      "title": "2026年、3D制作は「読み書き」の次へ。",
+      "caption": "【2026年3月】春休み真っ只中、if塾では特別な体験会を開催しました！\n\n今、教育の現場で最も注目されているのが「メタバース教育」の一般化です。\nかつてのプログラミング教育は「コードを書くこと」が目的でしたが、2026年の現在は「3D空間で何を表現するか」へとシフトしています。\n\n本日参加した生徒たちは、最新のAIアシスト機能を使いこなし、わずか1時間で自分だけのオリジナルワールドを完成させました！\n\n「自分で作った世界に友達を招待できるのが嬉しい！」\nそんな笑顔の中に、未来のクリエイターの芽を感じます。\n\n新学期に向けて、新しい学びをスタートしませんか？\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年3月】春休み真っ只中、if塾では特別な体験会を開催しました！\n\n今、教育の現場で最も注目されているのが「メタバース教育」の一般化です。\nかつてのプログラミング教育は「コードを書くこと」が目的でしたが、2026年の現在は「3D空間で何を表現するか」へとシフトしています。\n\n本日参加した生徒たちは、最新のAIアシスト機能を使いこなし、わずか1時間で自分だけのオリジナルワールドを完成させました！\n\n「自分で作った世界に友達を招待できるのが嬉しい！」\nそんな笑顔の中に、未来のクリエイターの芽を感じます。\n\n新学期に向けて、新しい学びをスタートしませんか？\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "AIエージェント",
-        "プログラミング教育",
-        "自走型学習",
-        "春期講習",
-        "AIメンター",
-        "最新教育"
+        "#if塾",
+        "#2026年",
+        "#RobloxStudio",
+        "#メタバース教育",
+        "#春休みワークショップ",
+        "#プログラミング教室",
+        "#3D制作",
+        "#次世代教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-          "sub_title": "2026年3月・春期講習の現場レポート",
-          "text_content": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
+          "main_title": "2026年、3D制作は「読み書き」の次へ。",
+          "sub_title": "3.28最新レポ：Roblox Studio体験会の全貌",
+          "text_content": "2026年、3D制作は「読み書き」の次へ。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-01.png",
           "image_file": "assets/img/posts/20260328_activity-01.png",
-          "overlay_text": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-          "subtext": "2026年3月・春期講習の現場レポート",
-          "alt": "表紙 - 「答えを教えないAI」で成績急上昇？20"
+          "overlay_text": "2026年、3D制作は「読み書き」の次へ。",
+          "subtext": "3.28最新レポ：Roblox Studio体験会の全貌",
+          "alt": "表紙 - 2026年、3D制作は「読み書き」の次へ"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに聞けばすぐ解ける」が成長を止めていた？",
-          "sub_title": "生成AIが当たり前になった2026年。便利すぎるゆえに、自ら考える力が弱まるという保護者の方の不安が増えています。",
-          "text_content": "「AIに聞けばすぐ解ける」が成長を止めていた？",
+          "main_title": "春休み、YouTubeを見る側で終わっていませんか？",
+          "sub_title": "「ゲームを遊ぶだけ」から卒業したい。そんな小中学生が今、メタバース制作に続々と参入しています。",
+          "text_content": "春休み、YouTubeを見る側で終わっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-02.png",
           "image_file": "assets/img/posts/20260328_activity-02.png",
-          "overlay_text": "「AIに聞けばすぐ解ける」が成長を止めていた？",
-          "subtext": "生成AIが当たり前になった2026年。便利すぎるゆえに、自ら考える力が弱まるという保護者の方の不安が増えています。",
-          "alt": "内容1 - 「AIに聞けばすぐ解ける」が成長を止めて"
+          "overlay_text": "春休み、YouTubeを見る側で終わっていませんか？",
+          "subtext": "「ゲームを遊ぶだけ」から卒業したい。そんな小中学生が今、メタバース制作に続々と参入しています。",
+          "alt": "内容1 - 春休み、YouTubeを見る側で終わって"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "導入後、生徒が「自分で解決する快感」に目覚めた！",
-          "sub_title": "if塾が導入した最新AIエージェントは、答えではなく『ヒントの出し方』を思考。粘り強くデバッグする生徒が続出しています。",
-          "text_content": "導入後、生徒が「自分で解決する快感」に目覚めた！",
+          "main_title": "最新AIアシストで、小学生が30分で街を創造",
+          "sub_title": "2026年のRoblox Studioは、生成AIとの対話でコードを書く時代。子供たちの想像力が形になる速度が劇的に進化しました。",
+          "text_content": "最新AIアシストで、小学生が30分で街を創造",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-03.png",
           "image_file": "assets/img/posts/20260328_activity-03.png",
-          "overlay_text": "導入後、生徒が「自分で解決する快感」に目覚めた！",
-          "subtext": "if塾が導入した最新AIエージェントは、答えではなく『ヒントの出し方』を思考。粘り強くデバッグする生徒が続出しています。",
-          "alt": "内容2 - 導入後、生徒が「自分で解決する快感」に目"
+          "overlay_text": "最新AIアシストで、小学生が30分で街を創造",
+          "subtext": "2026年のRoblox Studioは、生成AIとの対話でコードを書く時代。子供たちの想像力が形になる速度が劇的に進化しました。",
+          "alt": "内容2 - 最新AIアシストで、小学生が30分で街を"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは『正解マシン』から『並走者』へ",
-          "sub_title": "2026年の学びは、AIを使いこなして自走する力。if塾ではAIをメンター化し、本質的な論理的思考力を養う環境を整えています。",
-          "text_content": "指導者の視点：AIは『正解マシン』から『並走者』へ",
+          "main_title": "if塾が教えるのは、技術ではなく「空間設計力」",
+          "sub_title": "3D空間で他者をどう楽しませるか。この視点こそが、AI時代に最も価値を持つ「メタバース・リテラシー」に繋がります。",
+          "text_content": "if塾が教えるのは、技術ではなく「空間設計力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-04.png",
           "image_file": "assets/img/posts/20260328_activity-04.png",
-          "overlay_text": "指導者の視点：AIは『正解マシン』から『並走者』へ",
-          "subtext": "2026年の学びは、AIを使いこなして自走する力。if塾ではAIをメンター化し、本質的な論理的思考力を養う環境を整えています。",
-          "alt": "内容3 - 指導者の視点：AIは『正解マシン』から『"
+          "overlay_text": "if塾が教えるのは、技術ではなく「空間設計力」",
+          "subtext": "3D空間で他者をどう楽しませるか。この視点こそが、AI時代に最も価値を持つ「メタバース・リテラシー」に繋がります。",
+          "alt": "内容3 - if塾が教えるのは、技術ではなく「空間設"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-          "sub_title": "2026年3月・春期講習の現場レポート",
-          "text_content": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
+          "main_title": "2026年、3D制作は「読み書き」の次へ。",
+          "sub_title": "3.28最新レポ：Roblox Studio体験会の全貌",
+          "text_content": "2026年、3D制作は「読み書き」の次へ。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-01.png",
           "image_file": "assets/img/posts/20260328_activity-01.png",
-          "overlay_text": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-          "subtext": "2026年3月・春期講習の現場レポート",
-          "alt": "表紙 - 「答えを教えないAI」で成績急上昇？20"
+          "overlay_text": "2026年、3D制作は「読み書き」の次へ。",
+          "subtext": "3.28最新レポ：Roblox Studio体験会の全貌",
+          "alt": "表紙 - 2026年、3D制作は「読み書き」の次へ"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに聞けばすぐ解ける」が成長を止めていた？",
-          "sub_title": "生成AIが当たり前になった2026年。便利すぎるゆえに、自ら考える力が弱まるという保護者の方の不安が増えています。",
-          "text_content": "「AIに聞けばすぐ解ける」が成長を止めていた？",
+          "main_title": "春休み、YouTubeを見る側で終わっていませんか？",
+          "sub_title": "「ゲームを遊ぶだけ」から卒業したい。そんな小中学生が今、メタバース制作に続々と参入しています。",
+          "text_content": "春休み、YouTubeを見る側で終わっていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-02.png",
           "image_file": "assets/img/posts/20260328_activity-02.png",
-          "overlay_text": "「AIに聞けばすぐ解ける」が成長を止めていた？",
-          "subtext": "生成AIが当たり前になった2026年。便利すぎるゆえに、自ら考える力が弱まるという保護者の方の不安が増えています。",
-          "alt": "内容1 - 「AIに聞けばすぐ解ける」が成長を止めて"
+          "overlay_text": "春休み、YouTubeを見る側で終わっていませんか？",
+          "subtext": "「ゲームを遊ぶだけ」から卒業したい。そんな小中学生が今、メタバース制作に続々と参入しています。",
+          "alt": "内容1 - 春休み、YouTubeを見る側で終わって"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "導入後、生徒が「自分で解決する快感」に目覚めた！",
-          "sub_title": "if塾が導入した最新AIエージェントは、答えではなく『ヒントの出し方』を思考。粘り強くデバッグする生徒が続出しています。",
-          "text_content": "導入後、生徒が「自分で解決する快感」に目覚めた！",
+          "main_title": "最新AIアシストで、小学生が30分で街を創造",
+          "sub_title": "2026年のRoblox Studioは、生成AIとの対話でコードを書く時代。子供たちの想像力が形になる速度が劇的に進化しました。",
+          "text_content": "最新AIアシストで、小学生が30分で街を創造",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-03.png",
           "image_file": "assets/img/posts/20260328_activity-03.png",
-          "overlay_text": "導入後、生徒が「自分で解決する快感」に目覚めた！",
-          "subtext": "if塾が導入した最新AIエージェントは、答えではなく『ヒントの出し方』を思考。粘り強くデバッグする生徒が続出しています。",
-          "alt": "内容2 - 導入後、生徒が「自分で解決する快感」に目"
+          "overlay_text": "最新AIアシストで、小学生が30分で街を創造",
+          "subtext": "2026年のRoblox Studioは、生成AIとの対話でコードを書く時代。子供たちの想像力が形になる速度が劇的に進化しました。",
+          "alt": "内容2 - 最新AIアシストで、小学生が30分で街を"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは『正解マシン』から『並走者』へ",
-          "sub_title": "2026年の学びは、AIを使いこなして自走する力。if塾ではAIをメンター化し、本質的な論理的思考力を養う環境を整えています。",
-          "text_content": "指導者の視点：AIは『正解マシン』から『並走者』へ",
+          "main_title": "if塾が教えるのは、技術ではなく「空間設計力」",
+          "sub_title": "3D空間で他者をどう楽しませるか。この視点こそが、AI時代に最も価値を持つ「メタバース・リテラシー」に繋がります。",
+          "text_content": "if塾が教えるのは、技術ではなく「空間設計力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260328_activity-04.png",
           "image_file": "assets/img/posts/20260328_activity-04.png",
-          "overlay_text": "指導者の視点：AIは『正解マシン』から『並走者』へ",
-          "subtext": "2026年の学びは、AIを使いこなして自走する力。if塾ではAIをメンター化し、本質的な論理的思考力を養う環境を整えています。",
-          "alt": "内容3 - 指導者の視点：AIは『正解マシン』から『"
+          "overlay_text": "if塾が教えるのは、技術ではなく「空間設計力」",
+          "subtext": "3D空間で他者をどう楽しませるか。この視点こそが、AI時代に最も価値を持つ「メタバース・リテラシー」に繋がります。",
+          "alt": "内容3 - if塾が教えるのは、技術ではなく「空間設"
         },
         {
           "page_number": 5,
@@ -229,22 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "井上陽斗",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "ゲーム開発"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "井上陽斗（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "inoue_haruto",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-28T14:11:04",
+      "research_date": "2026-03-28T20:34:24",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "「答えを教えないAI」で成績急上昇？20",
+        "cover_text": "2026年、3D制作は「読み書き」の次へ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "「答えを教えないAI」で成績急上昇？2026年最新プログラミング学習法",
-            "subtext": "2026年3月・春期講習の現場レポート",
+            "headline": "2026年、3D制作は「読み書き」の次へ。",
+            "subtext": "3.28最新レポ：Roblox Studio体験会の全貌",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIに聞けばすぐ解ける」が成長を止めていた？",
-            "subtext": "生成AIが当たり前になった2026年。便利すぎるゆえに、自ら考える力が弱まるという保護者の方の不安が増えています。",
+            "headline": "春休み、YouTubeを見る側で終わっていませんか？",
+            "subtext": "「ゲームを遊ぶだけ」から卒業したい。そんな小中学生が今、メタバース制作に続々と参入しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "導入後、生徒が「自分で解決する快感」に目覚めた！",
-            "subtext": "if塾が導入した最新AIエージェントは、答えではなく『ヒントの出し方』を思考。粘り強くデバッグする生徒が続出しています。",
+            "headline": "最新AIアシストで、小学生が30分で街を創造",
+            "subtext": "2026年のRoblox Studioは、生成AIとの対話でコードを書く時代。子供たちの想像力が形になる速度が劇的に進化しました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者の視点：AIは『正解マシン』から『並走者』へ",
-            "subtext": "2026年の学びは、AIを使いこなして自走する力。if塾ではAIをメンター化し、本質的な論理的思考力を養う環境を整えています。",
+            "headline": "if塾が教えるのは、技術ではなく「空間設計力」",
+            "subtext": "3D空間で他者をどう楽しませるか。この視点こそが、AI時代に最も価値を持つ「メタバース・リテラシー」に繋がります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
