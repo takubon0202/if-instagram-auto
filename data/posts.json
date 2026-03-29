@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 80,
-    "last_updated": "2026-03-28T20:35:55.653775",
+    "total_posts": 81,
+    "last_updated": "2026-03-29T11:27:43.919833",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260329_activity",
+      "post_id": "20260329_activity",
+      "created_at": "2026-03-29T11:27:43",
+      "datetime": "2026-03-29T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "【2026最新】生成AI×開発ハッカソン開催！",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】生成AI×開発ハッカソン開催！",
+      "caption": "【2026年3月】春休み最後の大イベント！\n\n本日、if塾では最新の自律型AI「Manus」や進化したChatGPTを活用した『超速アプリ開発ハッカソン』を開催しました✨\n\nわずか数年前までは「コードを一行ずつ書く」のが当たり前でしたが、2026年の今、プログラミングは「AIと共にデザインする」フェーズへ突入しています。\n\n参加した生徒たちは、自分のアイデアがAIによって即座に形になるスピード感に驚きながらも、一番大切なのは「何を解決したいか」という論理的思考であることを肌で感じていました。\n\n「AIがあるから勉強しなくていい」ではなく「AIがあるからもっと高度な挑戦ができる」。\nif塾は、最新ツールを使いこなし、社会を生き抜く力をこれからも提供していきます！\n\n次回の体験会も受付中！詳細はプロフィールリンクから🔗",
+      "caption_text": "【2026年3月】春休み最後の大イベント！\n\n本日、if塾では最新の自律型AI「Manus」や進化したChatGPTを活用した『超速アプリ開発ハッカソン』を開催しました✨\n\nわずか数年前までは「コードを一行ずつ書く」のが当たり前でしたが、2026年の今、プログラミングは「AIと共にデザインする」フェーズへ突入しています。\n\n参加した生徒たちは、自分のアイデアがAIによって即座に形になるスピード感に驚きながらも、一番大切なのは「何を解決したいか」という論理的思考であることを肌で感じていました。\n\n「AIがあるから勉強しなくていい」ではなく「AIがあるからもっと高度な挑戦ができる」。\nif塾は、最新ツールを使いこなし、社会を生き抜く力をこれからも提供していきます！\n\n次回の体験会も受付中！詳細はプロフィールリンクから🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#ManusAI",
+        "#ChatGPT",
+        "#プログラミング教育",
+        "#AI教育",
+        "#ハッカソン",
+        "#春休みイベント",
+        "#最新テック",
+        "#デジタルネイティブ"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】生成AI×開発ハッカソン開催！",
+          "sub_title": "Manus AIで実現する「爆速」アプリ開発の裏側",
+          "text_content": "【2026最新】生成AI×開発ハッカソン開催！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-01.png",
+          "image_file": "assets/img/posts/20260329_activity-01.png",
+          "overlay_text": "【2026最新】生成AI×開発ハッカソン開催！",
+          "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
+          "alt": "表紙 - 【2026最新】生成AI×開発ハッカソン"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「もうコードは書かなくていいの？」",
+          "sub_title": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+          "text_content": "「もうコードは書かなくていいの？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-02.png",
+          "image_file": "assets/img/posts/20260329_activity-02.png",
+          "overlay_text": "「もうコードは書かなくていいの？」",
+          "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+          "alt": "内容1 - 「もうコードは書かなくていいの？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型エージェントがコードを自動生成",
+          "sub_title": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+          "text_content": "自律型エージェントがコードを自動生成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-03.png",
+          "image_file": "assets/img/posts/20260329_activity-03.png",
+          "overlay_text": "自律型エージェントがコードを自動生成",
+          "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+          "alt": "内容2 - 自律型エージェントがコードを自動生成"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える『AIに指示を出す思考力』",
+          "sub_title": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+          "text_content": "if塾が教える『AIに指示を出す思考力』",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-04.png",
+          "image_file": "assets/img/posts/20260329_activity-04.png",
+          "overlay_text": "if塾が教える『AIに指示を出す思考力』",
+          "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+          "alt": "内容3 - if塾が教える『AIに指示を出す思考力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】生成AI×開発ハッカソン開催！",
+          "sub_title": "Manus AIで実現する「爆速」アプリ開発の裏側",
+          "text_content": "【2026最新】生成AI×開発ハッカソン開催！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-01.png",
+          "image_file": "assets/img/posts/20260329_activity-01.png",
+          "overlay_text": "【2026最新】生成AI×開発ハッカソン開催！",
+          "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
+          "alt": "表紙 - 【2026最新】生成AI×開発ハッカソン"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「もうコードは書かなくていいの？」",
+          "sub_title": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+          "text_content": "「もうコードは書かなくていいの？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-02.png",
+          "image_file": "assets/img/posts/20260329_activity-02.png",
+          "overlay_text": "「もうコードは書かなくていいの？」",
+          "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+          "alt": "内容1 - 「もうコードは書かなくていいの？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型エージェントがコードを自動生成",
+          "sub_title": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+          "text_content": "自律型エージェントがコードを自動生成",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-03.png",
+          "image_file": "assets/img/posts/20260329_activity-03.png",
+          "overlay_text": "自律型エージェントがコードを自動生成",
+          "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+          "alt": "内容2 - 自律型エージェントがコードを自動生成"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える『AIに指示を出す思考力』",
+          "sub_title": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+          "text_content": "if塾が教える『AIに指示を出す思考力』",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260329_activity-04.png",
+          "image_file": "assets/img/posts/20260329_activity-04.png",
+          "overlay_text": "if塾が教える『AIに指示を出す思考力』",
+          "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+          "alt": "内容3 - if塾が教える『AIに指示を出す思考力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260329_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260329_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260329_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260329_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-29T11:26:11",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】生成AI×開発ハッカソン",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】生成AI×開発ハッカソン開催！",
+            "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「もうコードは書かなくていいの？」",
+            "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型エージェントがコードを自動生成",
+            "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える『AIに指示を出す思考力』",
+            "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260328_activity",
       "post_id": "20260328_activity",
