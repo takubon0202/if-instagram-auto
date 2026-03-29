@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 81,
-    "last_updated": "2026-03-29T11:27:43.919833",
+    "last_updated": "2026-03-29T14:26:15.069830",
     "categories": [
       "announcement",
       "development",
@@ -16,26 +16,25 @@
     {
       "id": "20260329_activity",
       "post_id": "20260329_activity",
-      "created_at": "2026-03-29T11:27:43",
+      "created_at": "2026-03-29T14:26:15",
       "datetime": "2026-03-29T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "【2026最新】生成AI×開発ハッカソン開催！",
+      "theme": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
       "target_audience": "Students & Parents",
-      "title": "【2026最新】生成AI×開発ハッカソン開催！",
-      "caption": "【2026年3月】春休み最後の大イベント！\n\n本日、if塾では最新の自律型AI「Manus」や進化したChatGPTを活用した『超速アプリ開発ハッカソン』を開催しました✨\n\nわずか数年前までは「コードを一行ずつ書く」のが当たり前でしたが、2026年の今、プログラミングは「AIと共にデザインする」フェーズへ突入しています。\n\n参加した生徒たちは、自分のアイデアがAIによって即座に形になるスピード感に驚きながらも、一番大切なのは「何を解決したいか」という論理的思考であることを肌で感じていました。\n\n「AIがあるから勉強しなくていい」ではなく「AIがあるからもっと高度な挑戦ができる」。\nif塾は、最新ツールを使いこなし、社会を生き抜く力をこれからも提供していきます！\n\n次回の体験会も受付中！詳細はプロフィールリンクから🔗",
-      "caption_text": "【2026年3月】春休み最後の大イベント！\n\n本日、if塾では最新の自律型AI「Manus」や進化したChatGPTを活用した『超速アプリ開発ハッカソン』を開催しました✨\n\nわずか数年前までは「コードを一行ずつ書く」のが当たり前でしたが、2026年の今、プログラミングは「AIと共にデザインする」フェーズへ突入しています。\n\n参加した生徒たちは、自分のアイデアがAIによって即座に形になるスピード感に驚きながらも、一番大切なのは「何を解決したいか」という論理的思考であることを肌で感じていました。\n\n「AIがあるから勉強しなくていい」ではなく「AIがあるからもっと高度な挑戦ができる」。\nif塾は、最新ツールを使いこなし、社会を生き抜く力をこれからも提供していきます！\n\n次回の体験会も受付中！詳細はプロフィールリンクから🔗",
+      "title": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+      "caption": "【2026年3月】春休み真っ只中のif塾から、最新の学習レポートをお届けします！\n\n新学年を前に「生成AIとの付き合い方」を気にされる保護者様が増えています。かつては検索の代替だったAIも、2026年現在は、プログラミングにおける最高の「相棒」へと進化しました。\n\n今月の授業では、最新のマルチモーダルAIを活用した共創型プログラミングが完全に定着。生徒たちは単にコードを生成させるのではなく、AIに対して「この設計の問題点はどこ？」「もっと効率的なアルゴリズムはある？」と、レベルの高いディスカッションを繰り広げています。\n\nif塾が大切にしているのは、AIに答えを出させることではありません。AIを使いこなし、自分のアイデアを形にするための「論理的思考」と「問いの質」を高めることです。\n\n2026年度、さらに加速するAI時代。if塾で『一生モノのスキル』を一緒に磨きませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年3月】春休み真っ只中のif塾から、最新の学習レポートをお届けします！\n\n新学年を前に「生成AIとの付き合い方」を気にされる保護者様が増えています。かつては検索の代替だったAIも、2026年現在は、プログラミングにおける最高の「相棒」へと進化しました。\n\n今月の授業では、最新のマルチモーダルAIを活用した共創型プログラミングが完全に定着。生徒たちは単にコードを生成させるのではなく、AIに対して「この設計の問題点はどこ？」「もっと効率的なアルゴリズムはある？」と、レベルの高いディスカッションを繰り広げています。\n\nif塾が大切にしているのは、AIに答えを出させることではありません。AIを使いこなし、自分のアイデアを形にするための「論理的思考」と「問いの質」を高めることです。\n\n2026年度、さらに加速するAI時代。if塾で『一生モノのスキル』を一緒に磨きませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
       "hashtags": [
-        "#if塾",
-        "#2026年",
-        "#ManusAI",
-        "#ChatGPT",
-        "#プログラミング教育",
-        "#AI教育",
-        "#ハッカソン",
-        "#春休みイベント",
-        "#最新テック",
-        "#デジタルネイティブ"
+        "if塾",
+        "2026年",
+        "プログラミング教育",
+        "生成AI",
+        "EdTech",
+        "共創型学習",
+        "春期講習",
+        "エンジニアの卵",
+        "最新テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -45,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】生成AI×開発ハッカソン開催！",
-          "sub_title": "Manus AIで実現する「爆速」アプリ開発の裏側",
-          "text_content": "【2026最新】生成AI×開発ハッカソン開催！",
+          "main_title": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+          "sub_title": "2026年3月・if塾活動報告",
+          "text_content": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-01.png",
           "image_file": "assets/img/posts/20260329_activity-01.png",
-          "overlay_text": "【2026最新】生成AI×開発ハッカソン開催！",
-          "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
-          "alt": "表紙 - 【2026最新】生成AI×開発ハッカソン"
+          "overlay_text": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+          "subtext": "2026年3月・if塾活動報告",
+          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年、"
         },
         {
           "page_number": 2,
@@ -61,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「もうコードは書かなくていいの？」",
-          "sub_title": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
-          "text_content": "「もうコードは書かなくていいの？」",
+          "main_title": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
+          "sub_title": "回答をコピペするだけの学習に終わりを感じている今、真の『使いこなし方』が求められています。",
+          "text_content": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-02.png",
           "image_file": "assets/img/posts/20260329_activity-02.png",
-          "overlay_text": "「もうコードは書かなくていいの？」",
-          "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
-          "alt": "内容1 - 「もうコードは書かなくていいの？」"
+          "overlay_text": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
+          "subtext": "回答をコピペするだけの学習に終わりを感じている今、真の『使いこなし方』が求められています。",
+          "alt": "内容1 - 「AIに頼ると実力がつかない？」春休みの"
         },
         {
           "page_number": 3,
@@ -77,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型エージェントがコードを自動生成",
-          "sub_title": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
-          "text_content": "自律型エージェントがコードを自動生成",
+          "main_title": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
+          "sub_title": "最新モデルと対話しながら、バグの原因を推論。命令するのではなく「相談」する学習スタイルが定着しました。",
+          "text_content": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-03.png",
           "image_file": "assets/img/posts/20260329_activity-03.png",
-          "overlay_text": "自律型エージェントがコードを自動生成",
-          "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
-          "alt": "内容2 - 自律型エージェントがコードを自動生成"
+          "overlay_text": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
+          "subtext": "最新モデルと対話しながら、バグの原因を推論。命令するのではなく「相談」する学習スタイルが定着しました。",
+          "alt": "内容2 - マルチモーダルAI「Gemini 3.5"
         },
         {
           "page_number": 4,
@@ -93,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える『AIに指示を出す思考力』",
-          "sub_title": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
-          "text_content": "if塾が教える『AIに指示を出す思考力』",
+          "main_title": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
+          "sub_title": "if塾では、AIをデバッグツールとしてだけでなく、思考を深めるためのクリエイティブ・パートナーとして位置づけています。",
+          "text_content": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-04.png",
           "image_file": "assets/img/posts/20260329_activity-04.png",
-          "overlay_text": "if塾が教える『AIに指示を出す思考力』",
-          "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
-          "alt": "内容3 - if塾が教える『AIに指示を出す思考力』"
+          "overlay_text": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
+          "subtext": "if塾では、AIをデバッグツールとしてだけでなく、思考を深めるためのクリエイティブ・パートナーとして位置づけています。",
+          "alt": "内容3 - コードを書くこと以上に、「問いを立てる力"
         },
         {
           "page_number": 5,
@@ -127,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】生成AI×開発ハッカソン開催！",
-          "sub_title": "Manus AIで実現する「爆速」アプリ開発の裏側",
-          "text_content": "【2026最新】生成AI×開発ハッカソン開催！",
+          "main_title": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+          "sub_title": "2026年3月・if塾活動報告",
+          "text_content": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-01.png",
           "image_file": "assets/img/posts/20260329_activity-01.png",
-          "overlay_text": "【2026最新】生成AI×開発ハッカソン開催！",
-          "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
-          "alt": "表紙 - 【2026最新】生成AI×開発ハッカソン"
+          "overlay_text": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+          "subtext": "2026年3月・if塾活動報告",
+          "alt": "表紙 - AIは「敵」から「相棒」へ。2026年、"
         },
         {
           "page_number": 2,
@@ -143,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「もうコードは書かなくていいの？」",
-          "sub_title": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
-          "text_content": "「もうコードは書かなくていいの？」",
+          "main_title": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
+          "sub_title": "回答をコピペするだけの学習に終わりを感じている今、真の『使いこなし方』が求められています。",
+          "text_content": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-02.png",
           "image_file": "assets/img/posts/20260329_activity-02.png",
-          "overlay_text": "「もうコードは書かなくていいの？」",
-          "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
-          "alt": "内容1 - 「もうコードは書かなくていいの？」"
+          "overlay_text": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
+          "subtext": "回答をコピペするだけの学習に終わりを感じている今、真の『使いこなし方』が求められています。",
+          "alt": "内容1 - 「AIに頼ると実力がつかない？」春休みの"
         },
         {
           "page_number": 3,
@@ -159,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型エージェントがコードを自動生成",
-          "sub_title": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
-          "text_content": "自律型エージェントがコードを自動生成",
+          "main_title": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
+          "sub_title": "最新モデルと対話しながら、バグの原因を推論。命令するのではなく「相談」する学習スタイルが定着しました。",
+          "text_content": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-03.png",
           "image_file": "assets/img/posts/20260329_activity-03.png",
-          "overlay_text": "自律型エージェントがコードを自動生成",
-          "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
-          "alt": "内容2 - 自律型エージェントがコードを自動生成"
+          "overlay_text": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
+          "subtext": "最新モデルと対話しながら、バグの原因を推論。命令するのではなく「相談」する学習スタイルが定着しました。",
+          "alt": "内容2 - マルチモーダルAI「Gemini 3.5"
         },
         {
           "page_number": 4,
@@ -175,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える『AIに指示を出す思考力』",
-          "sub_title": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
-          "text_content": "if塾が教える『AIに指示を出す思考力』",
+          "main_title": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
+          "sub_title": "if塾では、AIをデバッグツールとしてだけでなく、思考を深めるためのクリエイティブ・パートナーとして位置づけています。",
+          "text_content": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260329_activity-04.png",
           "image_file": "assets/img/posts/20260329_activity-04.png",
-          "overlay_text": "if塾が教える『AIに指示を出す思考力』",
-          "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
-          "alt": "内容3 - if塾が教える『AIに指示を出す思考力』"
+          "overlay_text": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
+          "subtext": "if塾では、AIをデバッグツールとしてだけでなく、思考を深めるためのクリエイティブ・パートナーとして位置づけています。",
+          "alt": "内容3 - コードを書くこと以上に、「問いを立てる力"
         },
         {
           "page_number": 5,
@@ -231,21 +230,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "井上陽斗",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "ゲーム開発"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-03-29T11:26:11",
+      "research_date": "2026-03-29T14:24:48",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026最新】生成AI×開発ハッカソン",
+        "cover_text": "AIは「敵」から「相棒」へ。2026年、",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026最新】生成AI×開発ハッカソン開催！",
-            "subtext": "Manus AIで実現する「爆速」アプリ開発の裏側",
+            "headline": "AIは「敵」から「相棒」へ。2026年、共創型プログラミングが標準に。",
+            "subtext": "2026年3月・if塾活動報告",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -269,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「もうコードは書かなくていいの？」",
-            "subtext": "春休み、生徒たちが直面した『AI時代のプログラミング』への期待と不安。最新AI「Manus」を使いこなし、数分でプロトタイプを作る衝撃の体験が始まります。",
+            "headline": "「AIに頼ると実力がつかない？」春休みの保護者様が抱く、新学年への不安。",
+            "subtext": "回答をコピペするだけの学習に終わりを感じている今、真の『使いこなし方』が求められています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -278,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型エージェントがコードを自動生成",
-            "subtext": "ChatGPT-5（仮）とManus AIを連携。中高生が「作りたい」と指示するだけで、エラー修正からデプロイまでAIが完結。数時間でストア公開レベルのアプリが完成しました。",
+            "headline": "マルチモーダルAI「Gemini 3.5」を使いこなし、複雑なロジックを生徒が自律設計。",
+            "subtext": "最新モデルと対話しながら、バグの原因を推論。命令するのではなく「相談」する学習スタイルが定着しました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -287,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える『AIに指示を出す思考力』",
-            "subtext": "2026年の学びは「書き方」より「設計」へ。AIに丸投げするのではなく、論理的な対話を通じて課題解決する力を養う。これがif塾流の次世代教育です。",
+            "headline": "コードを書くこと以上に、「問いを立てる力」と「意図を伝える力」が武器になる。",
+            "subtext": "if塾では、AIをデバッグツールとしてだけでなく、思考を深めるためのクリエイティブ・パートナーとして位置づけています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
