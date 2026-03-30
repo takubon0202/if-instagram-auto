@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 81,
-    "last_updated": "2026-03-29T20:36:54.351930",
+    "total_posts": 82,
+    "last_updated": "2026-03-30T11:30:14.275411",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260330_announcement",
+      "post_id": "20260330_announcement",
+      "created_at": "2026-03-30T11:30:14",
+      "datetime": "2026-03-30T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+      "caption": "【2026年3月】新学期直前！AIを『相棒』にする準備はできていますか？\n\n2026年現在、生成AIは「便利な道具」から「共に創造するパートナー」へと進化しました。\n\nこれからの時代、重要なのはAIに答えを聞くことではなく、\n「自分の課題を解決するために、どうAIをカスタマイズするか」というクリエイティブな視点です。\n\nif塾では、最新のAI技術を駆使したアプリ開発・クリエイティブ学習を強化中！\n春休み、自分だけの『AI相棒』を作って、周りに一歩差をつけませんか？\n\n詳細はプロフィールのリンクからチェック！🚀",
+      "caption_text": "【2026年3月】新学期直前！AIを『相棒』にする準備はできていますか？\n\n2026年現在、生成AIは「便利な道具」から「共に創造するパートナー」へと進化しました。\n\nこれからの時代、重要なのはAIに答えを聞くことではなく、\n「自分の課題を解決するために、どうAIをカスタマイズするか」というクリエイティブな視点です。\n\nif塾では、最新のAI技術を駆使したアプリ開発・クリエイティブ学習を強化中！\n春休み、自分だけの『AI相棒』を作って、周りに一歩差をつけませんか？\n\n詳細はプロフィールのリンクからチェック！🚀",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "生成AI",
+        "アプリ開発",
+        "探究学習",
+        "EdTech",
+        "ノーコード",
+        "最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "sub_title": "3月30日最新：新学期に備える生成AI活用術",
+          "text_content": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-01.png",
+          "image_file": "assets/img/posts/20260330_announcement-01.png",
+          "overlay_text": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "subtext": "3月30日最新：新学期に備える生成AI活用術",
+          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使いこなせない」が最大の不安に？",
+          "sub_title": "2026年、入試や就職活動で『AIとの共創経験』が必須スキルとして評価される時代が到来しました。ただ検索するだけの段階はもう終わりです。",
+          "text_content": "「AIを使いこなせない」が最大の不安に？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-02.png",
+          "image_file": "assets/img/posts/20260330_announcement-02.png",
+          "overlay_text": "「AIを使いこなせない」が最大の不安に？",
+          "subtext": "2026年、入試や就職活動で『AIとの共創経験』が必須スキルとして評価される時代が到来しました。ただ検索するだけの段階はもう終わりです。",
+          "alt": "内容1 - 「AIを使いこなせない」が最大の不安に？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "sub_title": "最新のノーコードツールとマルチモーダルAIを組み合わせ、自分の学習をサポートする専用アプリを中高生が自作するカリキュラムが本格始動します。",
+          "text_content": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-03.png",
+          "image_file": "assets/img/posts/20260330_announcement-03.png",
+          "overlay_text": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "subtext": "最新のノーコードツールとマルチモーダルAIを組み合わせ、自分の学習をサポートする専用アプリを中高生が自作するカリキュラムが本格始動します。",
+          "alt": "内容2 - 自分専用の「AI相棒」を開発するクリエイ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で体験する「次世代の思考プロセス」",
+          "sub_title": "if塾では、AIを単なる回答ツールではなく、思考を拡張する『相棒』として定義。プログラミングとデザインを融合し、社会課題を解決するプロダクト開発を実践します。",
+          "text_content": "if塾で体験する「次世代の思考プロセス」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-04.png",
+          "image_file": "assets/img/posts/20260330_announcement-04.png",
+          "overlay_text": "if塾で体験する「次世代の思考プロセス」",
+          "subtext": "if塾では、AIを単なる回答ツールではなく、思考を拡張する『相棒』として定義。プログラミングとデザインを融合し、社会課題を解決するプロダクト開発を実践します。",
+          "alt": "内容3 - if塾で体験する「次世代の思考プロセス」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "sub_title": "3月30日最新：新学期に備える生成AI活用術",
+          "text_content": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-01.png",
+          "image_file": "assets/img/posts/20260330_announcement-01.png",
+          "overlay_text": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+          "subtext": "3月30日最新：新学期に備える生成AI活用術",
+          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使いこなせない」が最大の不安に？",
+          "sub_title": "2026年、入試や就職活動で『AIとの共創経験』が必須スキルとして評価される時代が到来しました。ただ検索するだけの段階はもう終わりです。",
+          "text_content": "「AIを使いこなせない」が最大の不安に？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-02.png",
+          "image_file": "assets/img/posts/20260330_announcement-02.png",
+          "overlay_text": "「AIを使いこなせない」が最大の不安に？",
+          "subtext": "2026年、入試や就職活動で『AIとの共創経験』が必須スキルとして評価される時代が到来しました。ただ検索するだけの段階はもう終わりです。",
+          "alt": "内容1 - 「AIを使いこなせない」が最大の不安に？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "sub_title": "最新のノーコードツールとマルチモーダルAIを組み合わせ、自分の学習をサポートする専用アプリを中高生が自作するカリキュラムが本格始動します。",
+          "text_content": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-03.png",
+          "image_file": "assets/img/posts/20260330_announcement-03.png",
+          "overlay_text": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+          "subtext": "最新のノーコードツールとマルチモーダルAIを組み合わせ、自分の学習をサポートする専用アプリを中高生が自作するカリキュラムが本格始動します。",
+          "alt": "内容2 - 自分専用の「AI相棒」を開発するクリエイ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で体験する「次世代の思考プロセス」",
+          "sub_title": "if塾では、AIを単なる回答ツールではなく、思考を拡張する『相棒』として定義。プログラミングとデザインを融合し、社会課題を解決するプロダクト開発を実践します。",
+          "text_content": "if塾で体験する「次世代の思考プロセス」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260330_announcement-04.png",
+          "image_file": "assets/img/posts/20260330_announcement-04.png",
+          "overlay_text": "if塾で体験する「次世代の思考プロセス」",
+          "subtext": "if塾では、AIを単なる回答ツールではなく、思考を拡張する『相棒』として定義。プログラミングとデザインを融合し、社会課題を解決するプロダクト開発を実践します。",
+          "alt": "内容3 - if塾で体験する「次世代の思考プロセス」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260330_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260330_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260330_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260330_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-03-30T11:28:41",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「創る」へ。2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「創る」へ。2026年春、学習の常識が変わる！",
+            "subtext": "3月30日最新：新学期に備える生成AI活用術",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使いこなせない」が最大の不安に？",
+            "subtext": "2026年、入試や就職活動で『AIとの共創経験』が必須スキルとして評価される時代が到来しました。ただ検索するだけの段階はもう終わりです。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自分専用の「AI相棒」を開発するクリエイティブ学習",
+            "subtext": "最新のノーコードツールとマルチモーダルAIを組み合わせ、自分の学習をサポートする専用アプリを中高生が自作するカリキュラムが本格始動します。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾で体験する「次世代の思考プロセス」",
+            "subtext": "if塾では、AIを単なる回答ツールではなく、思考を拡張する『相棒』として定義。プログラミングとデザインを融合し、社会課題を解決するプロダクト開発を実践します。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260329_activity",
       "post_id": "20260329_activity",
