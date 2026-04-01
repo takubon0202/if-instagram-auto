@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 84,
-    "last_updated": "2026-04-01T14:37:48.222452",
+    "last_updated": "2026-04-01T20:57:31.449962",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260401_development",
       "post_id": "20260401_development",
-      "created_at": "2026-04-01T14:37:48",
+      "created_at": "2026-04-01T20:57:31",
       "datetime": "2026-04-01T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
+      "theme": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
       "target_audience": "Students & Parents",
-      "title": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-      "caption": "【2026年4月】\n新学期が始まり、開発の常識が塗り替えられています。🌸\n\nかつては数ヶ月かかったアプリ開発も、今や「バイブコーディング（対話型開発）」によって、数時間でプロトタイプが完成する時代です。\n\n「うちの子にプログラミングは難しいかも…」\n「コードを覚えるのが苦手で…」\n\nそんな心配はもういりません。これからの開発者に求められるのは、キーボードを叩く速さではなく、AIと対話して課題を解決する「思考の深さ」と「創造力」です。\n\nif塾では、2026年の最新ツールをいち早く導入し、子供たちの「作りたい！」を形にする力をサポートします。\n\n最新の開発環境を、ぜひ一度体験しに来てください！✨",
-      "caption_text": "【2026年4月】\n新学期が始まり、開発の常識が塗り替えられています。🌸\n\nかつては数ヶ月かかったアプリ開発も、今や「バイブコーディング（対話型開発）」によって、数時間でプロトタイプが完成する時代です。\n\n「うちの子にプログラミングは難しいかも…」\n「コードを覚えるのが苦手で…」\n\nそんな心配はもういりません。これからの開発者に求められるのは、キーボードを叩く速さではなく、AIと対話して課題を解決する「思考の深さ」と「創造力」です。\n\nif塾では、2026年の最新ツールをいち早く導入し、子供たちの「作りたい！」を形にする力をサポートします。\n\n最新の開発環境を、ぜひ一度体験しに来てください！✨",
+      "title": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+      "caption": "【2026年4月】新学期が始まりました！🌸\n\nプログラミング教育は、今や「文法を覚える」ステージから「AIと共に創る（バイブコーディング）」ステージへと進化しています。\n\n「こんなアプリがあったらいいな」を言葉にするだけで、AIがその場でコードを書き上げ、形にする。2026年の今、求められているのは『AIをどう使いこなすか』という対話力です。\n\nif塾では、最新のAIツールを活用した次世代のクリエイティブ学習をスタートしています。\nこの春、新しい時代の「つくる力」を身につけませんか？\n\n詳細はプロフィールのリンクから✨",
+      "caption_text": "【2026年4月】新学期が始まりました！🌸\n\nプログラミング教育は、今や「文法を覚える」ステージから「AIと共に創る（バイブコーディング）」ステージへと進化しています。\n\n「こんなアプリがあったらいいな」を言葉にするだけで、AIがその場でコードを書き上げ、形にする。2026年の今、求められているのは『AIをどう使いこなすか』という対話力です。\n\nif塾では、最新のAIツールを活用した次世代のクリエイティブ学習をスタートしています。\nこの春、新しい時代の「つくる力」を身につけませんか？\n\n詳細はプロフィールのリンクから✨",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#バイブコーディング",
+        "#AI共創",
         "#プログラミング教育",
-        "#VibeCoding",
-        "#AI教育",
-        "#DX教育",
-        "#新学期"
+        "#新学期",
+        "#EdTech"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-          "sub_title": "【2026年4月最新版】新学期に知っておくべき開発の常識",
-          "text_content": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
+          "main_title": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+          "sub_title": "2026年最新版：4月の進級・進学シーズンの必修知識",
+          "text_content": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-01.png",
           "image_file": "assets/img/posts/20260401_development-01.png",
-          "overlay_text": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-          "subtext": "【2026年4月最新版】新学期に知っておくべき開発の常識",
-          "alt": "表紙 - 2026年、コードは「書く」から「話す」"
+          "overlay_text": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+          "subtext": "2026年最新版：4月の進級・進学シーズンの必修知識",
+          "alt": "表紙 - コード不要の時代。AIと会話してアプリを"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」の時代は終わりました",
-          "sub_title": "英単語や構文エラーに悩まされ、作りたいものに辿り着く前に挫折してしまう。そんな保護者や学生の悩みは、2026年、過去のものとなりました。",
-          "text_content": "「プログラミング＝暗記」の時代は終わりました",
+          "main_title": "「やりたいこと」はある。でも「書き方」がわからない…",
+          "sub_title": "プログラミングの文法学習で挫折する学生が急増。2026年、知識の習得よりも「言語化力」が問われる時代へ。",
+          "text_content": "「やりたいこと」はある。でも「書き方」がわからない…",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-02.png",
           "image_file": "assets/img/posts/20260401_development-02.png",
-          "overlay_text": "「プログラミング＝暗記」の時代は終わりました",
-          "subtext": "英単語や構文エラーに悩まされ、作りたいものに辿り着く前に挫折してしまう。そんな保護者や学生の悩みは、2026年、過去のものとなりました。",
-          "alt": "内容1 - 「プログラミング＝暗記」の時代は終わりま"
+          "overlay_text": "「やりたいこと」はある。でも「書き方」がわからない…",
+          "subtext": "プログラミングの文法学習で挫折する学生が急増。2026年、知識の習得よりも「言語化力」が問われる時代へ。",
+          "alt": "内容1 - 「やりたいこと」はある。でも「書き方」が"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "思考を口に出すだけ。対話型開発のリアル",
-          "sub_title": "最新のVibe Codingツールなら「ここを青くして、右に動かして」と話すだけでAIが即座に実装。言語の壁を超え、アイデアの具体化スピードが10倍に加速しています。",
-          "text_content": "思考を口に出すだけ。対話型開発のリアル",
+          "main_title": "「バイブコーディング」で思考を即座にカタチに",
+          "sub_title": "マルチモーダルAIが意図を汲み取り、リアルタイムでデプロイ。最新のAIエージェントが、あなたの右腕として動作を構築します。",
+          "text_content": "「バイブコーディング」で思考を即座にカタチに",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-03.png",
           "image_file": "assets/img/posts/20260401_development-03.png",
-          "overlay_text": "思考を口に出すだけ。対話型開発のリアル",
-          "subtext": "最新のVibe Codingツールなら「ここを青くして、右に動かして」と話すだけでAIが即座に実装。言語の壁を超え、アイデアの具体化スピードが10倍に加速しています。",
-          "alt": "内容2 - 思考を口に出すだけ。対話型開発のリアル"
+          "overlay_text": "「バイブコーディング」で思考を即座にカタチに",
+          "subtext": "マルチモーダルAIが意図を汲み取り、リアルタイムでデプロイ。最新のAIエージェントが、あなたの右腕として動作を構築します。",
+          "alt": "内容2 - 「バイブコーディング」で思考を即座にカタ"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「論理的対話力」の重要性",
-          "sub_title": "道具が進化しても「何を、なぜ作りたいか」を整理する力は不可欠。if塾ではバイブコーディングを駆使し、AIを賢く使いこなすための『指示の質』を磨きます。",
-          "text_content": "if塾が提案する「論理的対話力」の重要性",
+          "main_title": "自由研究からポートフォリオまで、数時間で完成",
+          "sub_title": "if塾では「AIに指示する力」を磨くカリキュラムを導入。技術に振り回されず、課題解決の手段としてAIを使いこなす力を養います。",
+          "text_content": "自由研究からポートフォリオまで、数時間で完成",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-04.png",
           "image_file": "assets/img/posts/20260401_development-04.png",
-          "overlay_text": "if塾が提案する「論理的対話力」の重要性",
-          "subtext": "道具が進化しても「何を、なぜ作りたいか」を整理する力は不可欠。if塾ではバイブコーディングを駆使し、AIを賢く使いこなすための『指示の質』を磨きます。",
-          "alt": "内容3 - if塾が提案する「論理的対話力」の重要性"
+          "overlay_text": "自由研究からポートフォリオまで、数時間で完成",
+          "subtext": "if塾では「AIに指示する力」を磨くカリキュラムを導入。技術に振り回されず、課題解決の手段としてAIを使いこなす力を養います。",
+          "alt": "内容3 - 自由研究からポートフォリオまで、数時間で"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-          "sub_title": "【2026年4月最新版】新学期に知っておくべき開発の常識",
-          "text_content": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
+          "main_title": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+          "sub_title": "2026年最新版：4月の進級・進学シーズンの必修知識",
+          "text_content": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-01.png",
           "image_file": "assets/img/posts/20260401_development-01.png",
-          "overlay_text": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-          "subtext": "【2026年4月最新版】新学期に知っておくべき開発の常識",
-          "alt": "表紙 - 2026年、コードは「書く」から「話す」"
+          "overlay_text": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+          "subtext": "2026年最新版：4月の進級・進学シーズンの必修知識",
+          "alt": "表紙 - コード不要の時代。AIと会話してアプリを"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」の時代は終わりました",
-          "sub_title": "英単語や構文エラーに悩まされ、作りたいものに辿り着く前に挫折してしまう。そんな保護者や学生の悩みは、2026年、過去のものとなりました。",
-          "text_content": "「プログラミング＝暗記」の時代は終わりました",
+          "main_title": "「やりたいこと」はある。でも「書き方」がわからない…",
+          "sub_title": "プログラミングの文法学習で挫折する学生が急増。2026年、知識の習得よりも「言語化力」が問われる時代へ。",
+          "text_content": "「やりたいこと」はある。でも「書き方」がわからない…",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-02.png",
           "image_file": "assets/img/posts/20260401_development-02.png",
-          "overlay_text": "「プログラミング＝暗記」の時代は終わりました",
-          "subtext": "英単語や構文エラーに悩まされ、作りたいものに辿り着く前に挫折してしまう。そんな保護者や学生の悩みは、2026年、過去のものとなりました。",
-          "alt": "内容1 - 「プログラミング＝暗記」の時代は終わりま"
+          "overlay_text": "「やりたいこと」はある。でも「書き方」がわからない…",
+          "subtext": "プログラミングの文法学習で挫折する学生が急増。2026年、知識の習得よりも「言語化力」が問われる時代へ。",
+          "alt": "内容1 - 「やりたいこと」はある。でも「書き方」が"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "思考を口に出すだけ。対話型開発のリアル",
-          "sub_title": "最新のVibe Codingツールなら「ここを青くして、右に動かして」と話すだけでAIが即座に実装。言語の壁を超え、アイデアの具体化スピードが10倍に加速しています。",
-          "text_content": "思考を口に出すだけ。対話型開発のリアル",
+          "main_title": "「バイブコーディング」で思考を即座にカタチに",
+          "sub_title": "マルチモーダルAIが意図を汲み取り、リアルタイムでデプロイ。最新のAIエージェントが、あなたの右腕として動作を構築します。",
+          "text_content": "「バイブコーディング」で思考を即座にカタチに",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-03.png",
           "image_file": "assets/img/posts/20260401_development-03.png",
-          "overlay_text": "思考を口に出すだけ。対話型開発のリアル",
-          "subtext": "最新のVibe Codingツールなら「ここを青くして、右に動かして」と話すだけでAIが即座に実装。言語の壁を超え、アイデアの具体化スピードが10倍に加速しています。",
-          "alt": "内容2 - 思考を口に出すだけ。対話型開発のリアル"
+          "overlay_text": "「バイブコーディング」で思考を即座にカタチに",
+          "subtext": "マルチモーダルAIが意図を汲み取り、リアルタイムでデプロイ。最新のAIエージェントが、あなたの右腕として動作を構築します。",
+          "alt": "内容2 - 「バイブコーディング」で思考を即座にカタ"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「論理的対話力」の重要性",
-          "sub_title": "道具が進化しても「何を、なぜ作りたいか」を整理する力は不可欠。if塾ではバイブコーディングを駆使し、AIを賢く使いこなすための『指示の質』を磨きます。",
-          "text_content": "if塾が提案する「論理的対話力」の重要性",
+          "main_title": "自由研究からポートフォリオまで、数時間で完成",
+          "sub_title": "if塾では「AIに指示する力」を磨くカリキュラムを導入。技術に振り回されず、課題解決の手段としてAIを使いこなす力を養います。",
+          "text_content": "自由研究からポートフォリオまで、数時間で完成",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260401_development-04.png",
           "image_file": "assets/img/posts/20260401_development-04.png",
-          "overlay_text": "if塾が提案する「論理的対話力」の重要性",
-          "subtext": "道具が進化しても「何を、なぜ作りたいか」を整理する力は不可欠。if塾ではバイブコーディングを駆使し、AIを賢く使いこなすための『指示の質』を磨きます。",
-          "alt": "内容3 - if塾が提案する「論理的対話力」の重要性"
+          "overlay_text": "自由研究からポートフォリオまで、数時間で完成",
+          "subtext": "if塾では「AIに指示する力」を磨くカリキュラムを導入。技術に振り回されず、課題解決の手段としてAIを使いこなす力を養います。",
+          "alt": "内容3 - 自由研究からポートフォリオまで、数時間で"
         },
         {
           "page_number": 5,
@@ -229,21 +228,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "井上陽斗",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "デザイン"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-01T14:36:10",
+      "research_date": "2026-04-01T20:56:01",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、コードは「書く」から「話す」",
+        "cover_text": "コード不要の時代。AIと会話してアプリを",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、コードは「書く」から「話す」へ。バイブコーディングの衝撃",
-            "subtext": "【2026年4月最新版】新学期に知っておくべき開発の常識",
+            "headline": "コード不要の時代。AIと会話してアプリを「共創」する新常識",
+            "subtext": "2026年最新版：4月の進級・進学シーズンの必修知識",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミング＝暗記」の時代は終わりました",
-            "subtext": "英単語や構文エラーに悩まされ、作りたいものに辿り着く前に挫折してしまう。そんな保護者や学生の悩みは、2026年、過去のものとなりました。",
+            "headline": "「やりたいこと」はある。でも「書き方」がわからない…",
+            "subtext": "プログラミングの文法学習で挫折する学生が急増。2026年、知識の習得よりも「言語化力」が問われる時代へ。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "思考を口に出すだけ。対話型開発のリアル",
-            "subtext": "最新のVibe Codingツールなら「ここを青くして、右に動かして」と話すだけでAIが即座に実装。言語の壁を超え、アイデアの具体化スピードが10倍に加速しています。",
+            "headline": "「バイブコーディング」で思考を即座にカタチに",
+            "subtext": "マルチモーダルAIが意図を汲み取り、リアルタイムでデプロイ。最新のAIエージェントが、あなたの右腕として動作を構築します。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「論理的対話力」の重要性",
-            "subtext": "道具が進化しても「何を、なぜ作りたいか」を整理する力は不可欠。if塾ではバイブコーディングを駆使し、AIを賢く使いこなすための『指示の質』を磨きます。",
+            "headline": "自由研究からポートフォリオまで、数時間で完成",
+            "subtext": "if塾では「AIに指示する力」を磨くカリキュラムを導入。技術に振り回されず、課題解決の手段としてAIを使いこなす力を養います。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
