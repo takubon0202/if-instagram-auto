@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 83,
-    "last_updated": "2026-03-31T20:55:28.982700",
+    "total_posts": 84,
+    "last_updated": "2026-04-01T11:35:17.025648",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260401_development",
+      "post_id": "20260401_development",
+      "created_at": "2026-04-01T11:35:17",
+      "datetime": "2026-04-01T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "コード不要！2026年式「バイブコーディング」で爆速開発",
+      "target_audience": "Students & Parents",
+      "title": "コード不要！2026年式「バイブコーディング」で爆速開発",
+      "caption": "【2026年4月】新学期、開発の常識が変わる！\n\n「プログラミング＝コードを書くこと」という定義は、2026年の今、完全に上書きされました。\n今注目されているのは、自然言語でAIと共感し合いながら作る『バイブコーディング』です。\n\n「こんな機能が欲しいな」「もっとワクワクするデザインにしたい」\nそんなあなたの「バイブス（直感）」をAIが即座に形にしてくれます。\n\nif塾では、技術の習得以上に「何を解決したいか」という思考力を重視しています。\nこの春、あなたもAIと共に「ゼロからイチ」を創り出す体験をしてみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "caption_text": "【2026年4月】新学期、開発の常識が変わる！\n\n「プログラミング＝コードを書くこと」という定義は、2026年の今、完全に上書きされました。\n今注目されているのは、自然言語でAIと共感し合いながら作る『バイブコーディング』です。\n\n「こんな機能が欲しいな」「もっとワクワクするデザインにしたい」\nそんなあなたの「バイブス（直感）」をAIが即座に形にしてくれます。\n\nif塾では、技術の習得以上に「何を解決したいか」という思考力を重視しています。\nこの春、あなたもAIと共に「ゼロからイチ」を創り出す体験をしてみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#VibeCoding",
+        "#AI開発",
+        "#プログラミング教育",
+        "#ノーコード",
+        "#最新テック"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "sub_title": "2026年4月最新：言葉だけでアプリができる時代の幕開け",
+          "text_content": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-01.png",
+          "image_file": "assets/img/posts/20260401_development-01.png",
+          "overlay_text": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "subtext": "2026年4月最新：言葉だけでアプリができる時代の幕開け",
+          "alt": "表紙 - コード不要！2026年式「バイブコーディ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたいこと」はあるのに、書き方がわからない...",
+          "sub_title": "プログラミング学習の壁は、構文（ルール）の暗記。2026年の今、その苦労は過去のものになりました。",
+          "text_content": "「やりたいこと」はあるのに、書き方がわからない...",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-02.png",
+          "image_file": "assets/img/posts/20260401_development-02.png",
+          "overlay_text": "「やりたいこと」はあるのに、書き方がわからない...",
+          "subtext": "プログラミング学習の壁は、構文（ルール）の暗記。2026年の今、その苦労は過去のものになりました。",
+          "alt": "内容1 - 「やりたいこと」はあるのに、書き方がわか"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "sub_title": "最新のマルチモーダルAI「Cursor v10」や「v0.dev」の進化により、話し言葉や雑なスケッチから、数秒で完成形が生成される時代です。",
+          "text_content": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-03.png",
+          "image_file": "assets/img/posts/20260401_development-03.png",
+          "overlay_text": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "subtext": "最新のマルチモーダルAI「Cursor v10」や「v0.dev」の進化により、話し言葉や雑なスケッチから、数秒で完成形が生成される時代です。",
+          "alt": "内容2 - 自然言語だけでAIと共創する「バイブコー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "sub_title": "AIに丸投げするのではなく、自分の『感性』を言葉にして伝える力が、次世代エンジニアに求められる真のスキルです。",
+          "text_content": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-04.png",
+          "image_file": "assets/img/posts/20260401_development-04.png",
+          "overlay_text": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "subtext": "AIに丸投げするのではなく、自分の『感性』を言葉にして伝える力が、次世代エンジニアに求められる真のスキルです。",
+          "alt": "内容3 - if塾の視点：大事なのは「コード」ではな"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "sub_title": "2026年4月最新：言葉だけでアプリができる時代の幕開け",
+          "text_content": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-01.png",
+          "image_file": "assets/img/posts/20260401_development-01.png",
+          "overlay_text": "コード不要！2026年式「バイブコーディング」で爆速開発",
+          "subtext": "2026年4月最新：言葉だけでアプリができる時代の幕開け",
+          "alt": "表紙 - コード不要！2026年式「バイブコーディ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたいこと」はあるのに、書き方がわからない...",
+          "sub_title": "プログラミング学習の壁は、構文（ルール）の暗記。2026年の今、その苦労は過去のものになりました。",
+          "text_content": "「やりたいこと」はあるのに、書き方がわからない...",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-02.png",
+          "image_file": "assets/img/posts/20260401_development-02.png",
+          "overlay_text": "「やりたいこと」はあるのに、書き方がわからない...",
+          "subtext": "プログラミング学習の壁は、構文（ルール）の暗記。2026年の今、その苦労は過去のものになりました。",
+          "alt": "内容1 - 「やりたいこと」はあるのに、書き方がわか"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "sub_title": "最新のマルチモーダルAI「Cursor v10」や「v0.dev」の進化により、話し言葉や雑なスケッチから、数秒で完成形が生成される時代です。",
+          "text_content": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-03.png",
+          "image_file": "assets/img/posts/20260401_development-03.png",
+          "overlay_text": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+          "subtext": "最新のマルチモーダルAI「Cursor v10」や「v0.dev」の進化により、話し言葉や雑なスケッチから、数秒で完成形が生成される時代です。",
+          "alt": "内容2 - 自然言語だけでAIと共創する「バイブコー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "sub_title": "AIに丸投げするのではなく、自分の『感性』を言葉にして伝える力が、次世代エンジニアに求められる真のスキルです。",
+          "text_content": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260401_development-04.png",
+          "image_file": "assets/img/posts/20260401_development-04.png",
+          "overlay_text": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+          "subtext": "AIに丸投げするのではなく、自分の『感性』を言葉にして伝える力が、次世代エンジニアに求められる真のスキルです。",
+          "alt": "内容3 - if塾の視点：大事なのは「コード」ではな"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260401_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260401_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260401_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260401_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-01T11:33:40",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コード不要！2026年式「バイブコーディ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コード不要！2026年式「バイブコーディング」で爆速開発",
+            "subtext": "2026年4月最新：言葉だけでアプリができる時代の幕開け",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたいこと」はあるのに、書き方がわからない...",
+            "subtext": "プログラミング学習の壁は、構文（ルール）の暗記。2026年の今、その苦労は過去のものになりました。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自然言語だけでAIと共創する「バイブコーディング」が主流に",
+            "subtext": "最新のマルチモーダルAI「Cursor v10」や「v0.dev」の進化により、話し言葉や雑なスケッチから、数秒で完成形が生成される時代です。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：大事なのは「コード」ではなく「対話力」",
+            "subtext": "AIに丸投げするのではなく、自分の『感性』を言葉にして伝える力が、次世代エンジニアに求められる真のスキルです。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260331_education",
       "post_id": "20260331_education",
