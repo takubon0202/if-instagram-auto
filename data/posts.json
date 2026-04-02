@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 84,
-    "last_updated": "2026-04-01T20:57:31.449962",
+    "total_posts": 85,
+    "last_updated": "2026-04-02T11:14:11.973063",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260402_ai_column",
+      "post_id": "20260402_ai_column",
+      "created_at": "2026-04-02T11:14:11",
+      "datetime": "2026-04-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+      "caption": "【2026年4月】\n新学期がスタートしましたが、皆さんの学習環境はどう変わりましたか？\n\n2026年、教育界の主役は「AIエージェント」です。\nこれまでのように人間が一つ一つプロンプトを打ち込む必要はありません。\n\n「志望校に合格したい」\n「この単元をマスターしたい」\n\nその一言だけで、AIが自律的に学習ルートを設計し、実行をサポートしてくれる時代です。\n\nしかし、ここで重要なのが「if塾」が提唱する「人間主導のAI活用法」。\nすべてをAI任せにするのではなく、AIが出してきた計画をどう判断し、自分の血肉にするか。\n\n4月の今こそ、最新のAIツールと共に「自ら考える力」をアップデートしていきましょう！\n\n感想や質問はコメント欄で募集中です！👇",
+      "caption_text": "【2026年4月】\n新学期がスタートしましたが、皆さんの学習環境はどう変わりましたか？\n\n2026年、教育界の主役は「AIエージェント」です。\nこれまでのように人間が一つ一つプロンプトを打ち込む必要はありません。\n\n「志望校に合格したい」\n「この単元をマスターしたい」\n\nその一言だけで、AIが自律的に学習ルートを設計し、実行をサポートしてくれる時代です。\n\nしかし、ここで重要なのが「if塾」が提唱する「人間主導のAI活用法」。\nすべてをAI任せにするのではなく、AIが出してきた計画をどう判断し、自分の血肉にするか。\n\n4月の今こそ、最新のAIツールと共に「自ら考える力」をアップデートしていきましょう！\n\n感想や質問はコメント欄で募集中です！👇",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#自律学習",
+        "#教育DX",
+        "#新学期",
+        "#AI活用術",
+        "#EdTech"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "sub_title": "4月新学期：自律学習のニューノーマル",
+          "text_content": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-01.png",
+          "image_file": "assets/img/posts/20260402_ai_column-01.png",
+          "overlay_text": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "subtext": "4月新学期：自律学習のニューノーマル",
+          "alt": "表紙 - 【2026最新】もう勉強を指示する時代は"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすべきか」をAIが自分で考える時代へ",
+          "sub_title": "これまでのAIは回答するだけでしたが、2026年のAIエージェントは目標から逆算し、スケジュール作成、参考書の選定、進捗管理までを「自律実行」します。",
+          "text_content": "「何をすべきか」をAIが自分で考える時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-02.png",
+          "image_file": "assets/img/posts/20260402_ai_column-02.png",
+          "overlay_text": "「何をすべきか」をAIが自分で考える時代へ",
+          "subtext": "これまでのAIは回答するだけでしたが、2026年のAIエージェントは目標から逆算し、スケジュール作成、参考書の選定、進捗管理までを「自律実行」します。",
+          "alt": "内容1 - 「何をすべきか」をAIが自分で考える時代"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "sub_title": "例えば「第一志望合格」と入力するだけで、弱点を自動分析。日々の学習タスクをスマホに通知し、理解度に合わせてカリキュラムをリアルタイムで書き換えます。",
+          "text_content": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-03.png",
+          "image_file": "assets/img/posts/20260402_ai_column-03.png",
+          "overlay_text": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "subtext": "例えば「第一志望合格」と入力するだけで、弱点を自動分析。日々の学習タスクをスマホに通知し、理解度に合わせてカリキュラムをリアルタイムで書き換えます。",
+          "alt": "内容2 - 4月の新生活、AIエージェントを専属コー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "sub_title": "2026年の最重要スキルは暗記ではなく「指示の精度」。AIが作成した計画を人間がどう評価し、主体性を保つかが、成績の明暗を分けます。",
+          "text_content": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-04.png",
+          "image_file": "assets/img/posts/20260402_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "subtext": "2026年の最重要スキルは暗記ではなく「指示の精度」。AIが作成した計画を人間がどう評価し、主体性を保つかが、成績の明暗を分けます。",
+          "alt": "内容3 - if塾の視点：AIに使われるのではなく、"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "sub_title": "4月新学期：自律学習のニューノーマル",
+          "text_content": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-01.png",
+          "image_file": "assets/img/posts/20260402_ai_column-01.png",
+          "overlay_text": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+          "subtext": "4月新学期：自律学習のニューノーマル",
+          "alt": "表紙 - 【2026最新】もう勉強を指示する時代は"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすべきか」をAIが自分で考える時代へ",
+          "sub_title": "これまでのAIは回答するだけでしたが、2026年のAIエージェントは目標から逆算し、スケジュール作成、参考書の選定、進捗管理までを「自律実行」します。",
+          "text_content": "「何をすべきか」をAIが自分で考える時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-02.png",
+          "image_file": "assets/img/posts/20260402_ai_column-02.png",
+          "overlay_text": "「何をすべきか」をAIが自分で考える時代へ",
+          "subtext": "これまでのAIは回答するだけでしたが、2026年のAIエージェントは目標から逆算し、スケジュール作成、参考書の選定、進捗管理までを「自律実行」します。",
+          "alt": "内容1 - 「何をすべきか」をAIが自分で考える時代"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "sub_title": "例えば「第一志望合格」と入力するだけで、弱点を自動分析。日々の学習タスクをスマホに通知し、理解度に合わせてカリキュラムをリアルタイムで書き換えます。",
+          "text_content": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-03.png",
+          "image_file": "assets/img/posts/20260402_ai_column-03.png",
+          "overlay_text": "4月の新生活、AIエージェントを専属コーチにする方法",
+          "subtext": "例えば「第一志望合格」と入力するだけで、弱点を自動分析。日々の学習タスクをスマホに通知し、理解度に合わせてカリキュラムをリアルタイムで書き換えます。",
+          "alt": "内容2 - 4月の新生活、AIエージェントを専属コー"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "sub_title": "2026年の最重要スキルは暗記ではなく「指示の精度」。AIが作成した計画を人間がどう評価し、主体性を保つかが、成績の明暗を分けます。",
+          "text_content": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260402_ai_column-04.png",
+          "image_file": "assets/img/posts/20260402_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+          "subtext": "2026年の最重要スキルは暗記ではなく「指示の精度」。AIが作成した計画を人間がどう評価し、主体性を保つかが、成績の明暗を分けます。",
+          "alt": "内容3 - if塾の視点：AIに使われるのではなく、"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260402_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260402_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260402_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260402_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-02T11:12:37",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】もう勉強を指示する時代は",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】もう勉強を指示する時代は終わった？AIエージェントの衝撃",
+            "subtext": "4月新学期：自律学習のニューノーマル",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「何をすべきか」をAIが自分で考える時代へ",
+            "subtext": "これまでのAIは回答するだけでしたが、2026年のAIエージェントは目標から逆算し、スケジュール作成、参考書の選定、進捗管理までを「自律実行」します。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "4月の新生活、AIエージェントを専属コーチにする方法",
+            "subtext": "例えば「第一志望合格」と入力するだけで、弱点を自動分析。日々の学習タスクをスマホに通知し、理解度に合わせてカリキュラムをリアルタイムで書き換えます。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIに使われるのではなく、AIを「マネジメント」する力を",
+            "subtext": "2026年の最重要スキルは暗記ではなく「指示の精度」。AIが作成した計画を人間がどう評価し、主体性を保つかが、成績の明暗を分けます。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260401_development",
       "post_id": "20260401_development",
