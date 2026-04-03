@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 86,
-    "last_updated": "2026-04-03T11:15:32.223867",
+    "last_updated": "2026-04-03T14:24:38.134505",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260403_business",
       "post_id": "20260403_business",
-      "created_at": "2026-04-03T11:15:32",
+      "created_at": "2026-04-03T14:24:38",
       "datetime": "2026-04-03T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
+      "theme": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
       "target_audience": "Students & Parents",
-      "title": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-      "caption": "【2026年4月】新年度、副業のスタンダードが激変しています！\n\n「プログラミングを1から学ぶのは大変そう…」\nそんな悩みは2025年までの古い常識かもしれません。\n\n今、Claude CodeやDevinといった「自律型AIエージェント」の普及により、ノーコードどころか「AI指示のみ」でのシステム開発副業が一般化しています。\n\nもはや必要なのは「言語の習得」ではなく「課題の発見力」と「AIへのマネジメント力」。\n\nif塾では、こうした最新AIを使いこなし、自分自身の価値を最大化するマインドセットを伝えています。\n\nこの春、AIエージェントをあなたの最強のパートナーにしてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
-      "caption_text": "【2026年4月】新年度、副業のスタンダードが激変しています！\n\n「プログラミングを1から学ぶのは大変そう…」\nそんな悩みは2025年までの古い常識かもしれません。\n\n今、Claude CodeやDevinといった「自律型AIエージェント」の普及により、ノーコードどころか「AI指示のみ」でのシステム開発副業が一般化しています。\n\nもはや必要なのは「言語の習得」ではなく「課題の発見力」と「AIへのマネジメント力」。\n\nif塾では、こうした最新AIを使いこなし、自分自身の価値を最大化するマインドセットを伝えています。\n\nこの春、AIエージェントをあなたの最強のパートナーにしてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "title": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+      "caption": "【2026年4月】新年度がスタートしました！🌸\n\n今、学生の間で「地方創生×生成AI」の副業が熱いことをご存知ですか？\n\n2026年現在、生成AIは「ただのブーム」から「企業のインフラ」へと進化しました。\n特に地方の魅力ある中小企業では、SNSで発信したいけれど「やり方がわからない」「時間がない」という悩みが深刻化しています。\n\nそこで活躍しているのが、if塾で学ぶようなAIスキルを持つ学生たちです。\n\n✅ 最新AIツールによる画像・動画の高速生成\n✅ ターゲットに刺さるキャプションの自動構成\n✅ 24時間稼働のAIチャット接客導入\n\nこれらをパッケージ化して提供することで、月収20万円を超える学生も珍しくありません。\n\n「AIに使われる」のではなく「AIを使いこなして価値を生む」。\nこの春、あなたも一生モノのスキルを身につけませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
+      "caption_text": "【2026年4月】新年度がスタートしました！🌸\n\n今、学生の間で「地方創生×生成AI」の副業が熱いことをご存知ですか？\n\n2026年現在、生成AIは「ただのブーム」から「企業のインフラ」へと進化しました。\n特に地方の魅力ある中小企業では、SNSで発信したいけれど「やり方がわからない」「時間がない」という悩みが深刻化しています。\n\nそこで活躍しているのが、if塾で学ぶようなAIスキルを持つ学生たちです。\n\n✅ 最新AIツールによる画像・動画の高速生成\n✅ ターゲットに刺さるキャプションの自動構成\n✅ 24時間稼働のAIチャット接客導入\n\nこれらをパッケージ化して提供することで、月収20万円を超える学生も珍しくありません。\n\n「AIに使われる」のではなく「AIを使いこなして価値を生む」。\nこの春、あなたも一生モノのスキルを身につけませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#ClaudeCode",
-        "#Devin",
-        "#副業初心者",
-        "#ノーコード",
-        "#リスキリング"
+        "#生成AI",
+        "#地方創生",
+        "#学生副業",
+        "#SNS運用代行",
+        "#AI画像生成",
+        "#キャリア教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-          "sub_title": "【2026年4月最新版】Claude CodeとDevinが変えた副業の形",
-          "text_content": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
+          "main_title": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+          "sub_title": "4月の新学期に始める「場所を選ばない」最強の副業術",
+          "text_content": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-01.png",
           "image_file": "assets/img/posts/20260403_business-01.png",
-          "overlay_text": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-          "subtext": "【2026年4月最新版】Claude CodeとDevinが変えた副業の形",
-          "alt": "表紙 - AIエージェントで月5万を自動化。202"
+          "overlay_text": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+          "subtext": "4月の新学期に始める「場所を選ばない」最強の副業術",
+          "alt": "表紙 - 【2026年最新】月20万稼ぐ学生が急増"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードが書けない」はもう言い訳にならない時代",
-          "sub_title": "新年度、副業を始めたいけどスキルがない…と悩んでいませんか？2026年、開発は「書く」から「指示して見守る」へ完全にシフトしました。",
-          "text_content": "「コードが書けない」はもう言い訳にならない時代",
+          "main_title": "地方企業は「AIの使い手」を喉から手が出るほど探している",
+          "sub_title": "2026年、多くの地方企業がSNS発信の重要性を理解しましたが、運用リソースが圧倒的に不足しています。単なる投稿代行ではなく、AIを駆使した『圧倒的な量と質』の両立が求められています。",
+          "text_content": "地方企業は「AIの使い手」を喉から手が出るほど探している",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-02.png",
           "image_file": "assets/img/posts/20260403_business-02.png",
-          "overlay_text": "「コードが書けない」はもう言い訳にならない時代",
-          "subtext": "新年度、副業を始めたいけどスキルがない…と悩んでいませんか？2026年、開発は「書く」から「指示して見守る」へ完全にシフトしました。",
-          "alt": "内容1 - 「コードが書けない」はもう言い訳にならな"
+          "overlay_text": "地方企業は「AIの使い手」を喉から手が出るほど探している",
+          "subtext": "2026年、多くの地方企業がSNS発信の重要性を理解しましたが、運用リソースが圧倒的に不足しています。単なる投稿代行ではなく、AIを駆使した『圧倒的な量と質』の両立が求められています。",
+          "alt": "内容1 - 地方企業は「AIの使い手」を喉から手が出"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
-          "sub_title": "最新のClaude Codeなら自然言語で指示するだけ。Devinはデバッグからデプロイまで自動実行。プログラミング未経験の主婦や学生が、受注から数時間でWebアプリを納品する事例が急増中です。",
-          "text_content": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
+          "main_title": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
+          "sub_title": "2026年標準の『VideoGen v4』での自動動画生成や『Flux.2』での超高画質素材作成。これらを使いこなし、企業のインスタ・YouTube運用を丸ごと引き受ける学生が全国で活躍しています。",
+          "text_content": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-03.png",
           "image_file": "assets/img/posts/20260403_business-03.png",
-          "overlay_text": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
-          "subtext": "最新のClaude Codeなら自然言語で指示するだけ。Devinはデバッグからデプロイまで自動実行。プログラミング未経験の主婦や学生が、受注から数時間でWebアプリを納品する事例が急増中です。",
-          "alt": "内容2 - Claude CodeとDevinを使い"
+          "overlay_text": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
+          "subtext": "2026年標準の『VideoGen v4』での自動動画生成や『Flux.2』での超高画質素材作成。これらを使いこなし、企業のインスタ・YouTube運用を丸ごと引き受ける学生が全国で活躍しています。",
+          "alt": "内容2 - 最新AIツールで「数ヶ月分」のコンテンツ"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
-          "sub_title": "成功の秘訣は、AIの出力を鵜呑みにしない「ディレクション能力」。技術を学ぶ時間を、顧客の悩みを見つける「マーケティング」とAIへの「指示力」に全振りしましょう。",
-          "text_content": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
+          "main_title": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
+          "sub_title": "ツールを使えるのは当たり前。大切なのは『その企業の強みをどうAIで言語化するか』という視点です。if塾では、技術以上に「AIを課題解決に繋げる思考法」を重視しています。",
+          "text_content": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-04.png",
           "image_file": "assets/img/posts/20260403_business-04.png",
-          "overlay_text": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
-          "subtext": "成功の秘訣は、AIの出力を鵜呑みにしない「ディレクション能力」。技術を学ぶ時間を、顧客の悩みを見つける「マーケティング」とAIへの「指示力」に全振りしましょう。",
-          "alt": "内容3 - if塾の視点：AIを「ツール」ではなく「"
+          "overlay_text": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
+          "subtext": "ツールを使えるのは当たり前。大切なのは『その企業の強みをどうAIで言語化するか』という視点です。if塾では、技術以上に「AIを課題解決に繋げる思考法」を重視しています。",
+          "alt": "内容3 - if塾流：単なる『代行』で終わらせない「"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-          "sub_title": "【2026年4月最新版】Claude CodeとDevinが変えた副業の形",
-          "text_content": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
+          "main_title": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+          "sub_title": "4月の新学期に始める「場所を選ばない」最強の副業術",
+          "text_content": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-01.png",
           "image_file": "assets/img/posts/20260403_business-01.png",
-          "overlay_text": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-          "subtext": "【2026年4月最新版】Claude CodeとDevinが変えた副業の形",
-          "alt": "表紙 - AIエージェントで月5万を自動化。202"
+          "overlay_text": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+          "subtext": "4月の新学期に始める「場所を選ばない」最強の副業術",
+          "alt": "表紙 - 【2026年最新】月20万稼ぐ学生が急増"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードが書けない」はもう言い訳にならない時代",
-          "sub_title": "新年度、副業を始めたいけどスキルがない…と悩んでいませんか？2026年、開発は「書く」から「指示して見守る」へ完全にシフトしました。",
-          "text_content": "「コードが書けない」はもう言い訳にならない時代",
+          "main_title": "地方企業は「AIの使い手」を喉から手が出るほど探している",
+          "sub_title": "2026年、多くの地方企業がSNS発信の重要性を理解しましたが、運用リソースが圧倒的に不足しています。単なる投稿代行ではなく、AIを駆使した『圧倒的な量と質』の両立が求められています。",
+          "text_content": "地方企業は「AIの使い手」を喉から手が出るほど探している",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-02.png",
           "image_file": "assets/img/posts/20260403_business-02.png",
-          "overlay_text": "「コードが書けない」はもう言い訳にならない時代",
-          "subtext": "新年度、副業を始めたいけどスキルがない…と悩んでいませんか？2026年、開発は「書く」から「指示して見守る」へ完全にシフトしました。",
-          "alt": "内容1 - 「コードが書けない」はもう言い訳にならな"
+          "overlay_text": "地方企業は「AIの使い手」を喉から手が出るほど探している",
+          "subtext": "2026年、多くの地方企業がSNS発信の重要性を理解しましたが、運用リソースが圧倒的に不足しています。単なる投稿代行ではなく、AIを駆使した『圧倒的な量と質』の両立が求められています。",
+          "alt": "内容1 - 地方企業は「AIの使い手」を喉から手が出"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
-          "sub_title": "最新のClaude Codeなら自然言語で指示するだけ。Devinはデバッグからデプロイまで自動実行。プログラミング未経験の主婦や学生が、受注から数時間でWebアプリを納品する事例が急増中です。",
-          "text_content": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
+          "main_title": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
+          "sub_title": "2026年標準の『VideoGen v4』での自動動画生成や『Flux.2』での超高画質素材作成。これらを使いこなし、企業のインスタ・YouTube運用を丸ごと引き受ける学生が全国で活躍しています。",
+          "text_content": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-03.png",
           "image_file": "assets/img/posts/20260403_business-03.png",
-          "overlay_text": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
-          "subtext": "最新のClaude Codeなら自然言語で指示するだけ。Devinはデバッグからデプロイまで自動実行。プログラミング未経験の主婦や学生が、受注から数時間でWebアプリを納品する事例が急増中です。",
-          "alt": "内容2 - Claude CodeとDevinを使い"
+          "overlay_text": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
+          "subtext": "2026年標準の『VideoGen v4』での自動動画生成や『Flux.2』での超高画質素材作成。これらを使いこなし、企業のインスタ・YouTube運用を丸ごと引き受ける学生が全国で活躍しています。",
+          "alt": "内容2 - 最新AIツールで「数ヶ月分」のコンテンツ"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
-          "sub_title": "成功の秘訣は、AIの出力を鵜呑みにしない「ディレクション能力」。技術を学ぶ時間を、顧客の悩みを見つける「マーケティング」とAIへの「指示力」に全振りしましょう。",
-          "text_content": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
+          "main_title": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
+          "sub_title": "ツールを使えるのは当たり前。大切なのは『その企業の強みをどうAIで言語化するか』という視点です。if塾では、技術以上に「AIを課題解決に繋げる思考法」を重視しています。",
+          "text_content": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260403_business-04.png",
           "image_file": "assets/img/posts/20260403_business-04.png",
-          "overlay_text": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
-          "subtext": "成功の秘訣は、AIの出力を鵜呑みにしない「ディレクション能力」。技術を学ぶ時間を、顧客の悩みを見つける「マーケティング」とAIへの「指示力」に全振りしましょう。",
-          "alt": "内容3 - if塾の視点：AIを「ツール」ではなく「"
+          "overlay_text": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
+          "subtext": "ツールを使えるのは当たり前。大切なのは『その企業の強みをどうAIで言語化するか』という視点です。if塾では、技術以上に「AIを課題解決に繋げる思考法」を重視しています。",
+          "alt": "内容3 - if塾流：単なる『代行』で終わらせない「"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-03T11:13:58",
+      "research_date": "2026-04-03T14:22:58",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIエージェントで月5万を自動化。202",
+        "cover_text": "【2026年最新】月20万稼ぐ学生が急増",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIエージェントで月5万を自動化。2026年式「ノーコード開発」の新常識",
-            "subtext": "【2026年4月最新版】Claude CodeとDevinが変えた副業の形",
+            "headline": "【2026年最新】月20万稼ぐ学生が急増中！地方×生成AI代行の極意",
+            "subtext": "4月の新学期に始める「場所を選ばない」最強の副業術",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「コードが書けない」はもう言い訳にならない時代",
-            "subtext": "新年度、副業を始めたいけどスキルがない…と悩んでいませんか？2026年、開発は「書く」から「指示して見守る」へ完全にシフトしました。",
+            "headline": "地方企業は「AIの使い手」を喉から手が出るほど探している",
+            "subtext": "2026年、多くの地方企業がSNS発信の重要性を理解しましたが、運用リソースが圧倒的に不足しています。単なる投稿代行ではなく、AIを駆使した『圧倒的な量と質』の両立が求められています。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Claude CodeとDevinを使い倒す。自律型AIが納品まで完結",
-            "subtext": "最新のClaude Codeなら自然言語で指示するだけ。Devinはデバッグからデプロイまで自動実行。プログラミング未経験の主婦や学生が、受注から数時間でWebアプリを納品する事例が急増中です。",
+            "headline": "最新AIツールで「数ヶ月分」のコンテンツを1日で生成",
+            "subtext": "2026年標準の『VideoGen v4』での自動動画生成や『Flux.2』での超高画質素材作成。これらを使いこなし、企業のインスタ・YouTube運用を丸ごと引き受ける学生が全国で活躍しています。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIを「ツール」ではなく「部下」としてマネジメントする",
-            "subtext": "成功の秘訣は、AIの出力を鵜呑みにしない「ディレクション能力」。技術を学ぶ時間を、顧客の悩みを見つける「マーケティング」とAIへの「指示力」に全振りしましょう。",
+            "headline": "if塾流：単なる『代行』で終わらせない「伴走型AIコンサル」へ",
+            "subtext": "ツールを使えるのは当たり前。大切なのは『その企業の強みをどうAIで言語化するか』という視点です。if塾では、技術以上に「AIを課題解決に繋げる思考法」を重視しています。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
