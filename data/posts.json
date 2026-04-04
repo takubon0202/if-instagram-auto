@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 86,
-    "last_updated": "2026-04-03T20:43:12.780523",
+    "total_posts": 87,
+    "last_updated": "2026-04-04T11:08:26.964402",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260404_activity",
+      "post_id": "20260404_activity",
+      "created_at": "2026-04-04T11:08:26",
+      "datetime": "2026-04-04T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+      "target_audience": "Students & Parents",
+      "title": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+      "caption": "【2026年4月】最新の活動報告をお届けします！\n\n新年度が始まり、if塾では「AI×ドローン/ロボティクス」をテーマにした社会実装型プロジェクトが本格始動しました。\n\nもはや生成AIはテキストを生成するだけのツールではありません。\n2026年の今、私たちはAIを「物理的な課題解決」の脳として活用しています。\n\n今日の講義では、自律飛行AIを用いて地域の農業支援や防災ルートの自動探索アルゴリズムを構築しました。\n生徒たちの真剣な眼差しは、未来のエンジニアそのものです。\n\n「自分のコードが、誰かの役に立つ」\nそんな実感を、この春から一緒に体験してみませんか？\n\n詳細が気になる方は、ぜひ「体験希望」とコメントしてください！",
+      "caption_text": "【2026年4月】最新の活動報告をお届けします！\n\n新年度が始まり、if塾では「AI×ドローン/ロボティクス」をテーマにした社会実装型プロジェクトが本格始動しました。\n\nもはや生成AIはテキストを生成するだけのツールではありません。\n2026年の今、私たちはAIを「物理的な課題解決」の脳として活用しています。\n\n今日の講義では、自律飛行AIを用いて地域の農業支援や防災ルートの自動探索アルゴリズムを構築しました。\n生徒たちの真剣な眼差しは、未来のエンジニアそのものです。\n\n「自分のコードが、誰かの役に立つ」\nそんな実感を、この春から一緒に体験してみませんか？\n\n詳細が気になる方は、ぜひ「体験希望」とコメントしてください！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI教育",
+        "#ドローン",
+        "#ロボティクス",
+        "#社会実装",
+        "#STEM教育",
+        "#生成AI",
+        "#EdTech"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "sub_title": "4月4日：if塾が挑む「実世界実装」の最前線",
+          "text_content": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-01.png",
+          "image_file": "assets/img/posts/20260404_activity-01.png",
+          "overlay_text": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "subtext": "4月4日：if塾が挑む「実世界実装」の最前線",
+          "alt": "表紙 - AI×ドローンで社会を救う！2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「技術を学んでも、どう役立てる？」",
+          "sub_title": "2026年、AIの知識は当たり前に。今、学生に求められているのは、異常気象や人手不足を解決する『リアルな実装力』です。",
+          "text_content": "「技術を学んでも、どう役立てる？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-02.png",
+          "image_file": "assets/img/posts/20260404_activity-02.png",
+          "overlay_text": "「技術を学んでも、どう役立てる？」",
+          "subtext": "2026年、AIの知識は当たり前に。今、学生に求められているのは、異常気象や人手不足を解決する『リアルな実装力』です。",
+          "alt": "内容1 - 「技術を学んでも、どう役立てる？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律飛行AIドローンで農業・防災をアップデート",
+          "sub_title": "最新のマルチモーダルAIを搭載したドローンを使用。生徒たちは画像認識で害虫検知や被災状況の自動解析に挑戦しています。",
+          "text_content": "自律飛行AIドローンで農業・防災をアップデート",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-03.png",
+          "image_file": "assets/img/posts/20260404_activity-03.png",
+          "overlay_text": "自律飛行AIドローンで農業・防災をアップデート",
+          "subtext": "最新のマルチモーダルAIを搭載したドローンを使用。生徒たちは画像認識で害虫検知や被災状況の自動解析に挑戦しています。",
+          "alt": "内容2 - 自律飛行AIドローンで農業・防災をアップ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「画面の中」で終わらせない、if塾のこだわり",
+          "sub_title": "プログラミングのミスが墜落に直結する緊張感。現場で通用する技術と、AIを使いこなす倫理観を同時に育てるのが2026年流の教育です。",
+          "text_content": "「画面の中」で終わらせない、if塾のこだわり",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-04.png",
+          "image_file": "assets/img/posts/20260404_activity-04.png",
+          "overlay_text": "「画面の中」で終わらせない、if塾のこだわり",
+          "subtext": "プログラミングのミスが墜落に直結する緊張感。現場で通用する技術と、AIを使いこなす倫理観を同時に育てるのが2026年流の教育です。",
+          "alt": "内容3 - 「画面の中」で終わらせない、if塾のこだ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "sub_title": "4月4日：if塾が挑む「実世界実装」の最前線",
+          "text_content": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-01.png",
+          "image_file": "assets/img/posts/20260404_activity-01.png",
+          "overlay_text": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+          "subtext": "4月4日：if塾が挑む「実世界実装」の最前線",
+          "alt": "表紙 - AI×ドローンで社会を救う！2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「技術を学んでも、どう役立てる？」",
+          "sub_title": "2026年、AIの知識は当たり前に。今、学生に求められているのは、異常気象や人手不足を解決する『リアルな実装力』です。",
+          "text_content": "「技術を学んでも、どう役立てる？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-02.png",
+          "image_file": "assets/img/posts/20260404_activity-02.png",
+          "overlay_text": "「技術を学んでも、どう役立てる？」",
+          "subtext": "2026年、AIの知識は当たり前に。今、学生に求められているのは、異常気象や人手不足を解決する『リアルな実装力』です。",
+          "alt": "内容1 - 「技術を学んでも、どう役立てる？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律飛行AIドローンで農業・防災をアップデート",
+          "sub_title": "最新のマルチモーダルAIを搭載したドローンを使用。生徒たちは画像認識で害虫検知や被災状況の自動解析に挑戦しています。",
+          "text_content": "自律飛行AIドローンで農業・防災をアップデート",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-03.png",
+          "image_file": "assets/img/posts/20260404_activity-03.png",
+          "overlay_text": "自律飛行AIドローンで農業・防災をアップデート",
+          "subtext": "最新のマルチモーダルAIを搭載したドローンを使用。生徒たちは画像認識で害虫検知や被災状況の自動解析に挑戦しています。",
+          "alt": "内容2 - 自律飛行AIドローンで農業・防災をアップ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「画面の中」で終わらせない、if塾のこだわり",
+          "sub_title": "プログラミングのミスが墜落に直結する緊張感。現場で通用する技術と、AIを使いこなす倫理観を同時に育てるのが2026年流の教育です。",
+          "text_content": "「画面の中」で終わらせない、if塾のこだわり",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260404_activity-04.png",
+          "image_file": "assets/img/posts/20260404_activity-04.png",
+          "overlay_text": "「画面の中」で終わらせない、if塾のこだわり",
+          "subtext": "プログラミングのミスが墜落に直結する緊張感。現場で通用する技術と、AIを使いこなす倫理観を同時に育てるのが2026年流の教育です。",
+          "alt": "内容3 - 「画面の中」で終わらせない、if塾のこだ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260404_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260404_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260404_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260404_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-04T11:06:57",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AI×ドローンで社会を救う！2026年最",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AI×ドローンで社会を救う！2026年最新プロジェクト始動",
+            "subtext": "4月4日：if塾が挑む「実世界実装」の最前線",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「技術を学んでも、どう役立てる？」",
+            "subtext": "2026年、AIの知識は当たり前に。今、学生に求められているのは、異常気象や人手不足を解決する『リアルな実装力』です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律飛行AIドローンで農業・防災をアップデート",
+            "subtext": "最新のマルチモーダルAIを搭載したドローンを使用。生徒たちは画像認識で害虫検知や被災状況の自動解析に挑戦しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「画面の中」で終わらせない、if塾のこだわり",
+            "subtext": "プログラミングのミスが墜落に直結する緊張感。現場で通用する技術と、AIを使いこなす倫理観を同時に育てるのが2026年流の教育です。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260403_business",
       "post_id": "20260403_business",
