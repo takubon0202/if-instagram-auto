@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 87,
-    "last_updated": "2026-04-04T20:36:47.671405",
+    "total_posts": 88,
+    "last_updated": "2026-04-05T11:29:46.773663",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260405_activity",
+      "post_id": "20260405_activity",
+      "created_at": "2026-04-05T11:29:46",
+      "datetime": "2026-04-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+      "target_audience": "Students & Parents",
+      "title": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+      "caption": "【2026年4月】\n新学期がスタートしました！🌸\n\nif塾では、今期から「AIクリエイティ部」が本格始動。\nかつては難しかった「プロンプトエンジニアリング」さえ、2026年の今では過去の技術になりつつあります。\n\n現在の主流は、AIとの「対話」を通じた感性の拡張。\n生徒たちは、自分専用にカスタマイズされたAIを「相棒」と呼び、驚くようなスピードで独自の作品を生み出しています。\n\n「AIが何でもやってくれるから、勉強は不要？」\n答えはNOです。\nAIが高度化する今だからこそ、人間にしかできない「問い」や「こだわり」の価値が高まっています。\n\nif塾で、未来を創る『相棒』との付き合い方を学びませんか？\n\n最新の体験会情報はプロフィールのリンクから！🔗",
+      "caption_text": "【2026年4月】\n新学期がスタートしました！🌸\n\nif塾では、今期から「AIクリエイティ部」が本格始動。\nかつては難しかった「プロンプトエンジニアリング」さえ、2026年の今では過去の技術になりつつあります。\n\n現在の主流は、AIとの「対話」を通じた感性の拡張。\n生徒たちは、自分専用にカスタマイズされたAIを「相棒」と呼び、驚くようなスピードで独自の作品を生み出しています。\n\n「AIが何でもやってくれるから、勉強は不要？」\n答えはNOです。\nAIが高度化する今だからこそ、人間にしかできない「問い」や「こだわり」の価値が高まっています。\n\nif塾で、未来を創る『相棒』との付き合い方を学びませんか？\n\n最新の体験会情報はプロフィールのリンクから！🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIクリエイティ部",
+        "#生成AI",
+        "#未来の教育",
+        "#新学期",
+        "#AI教育",
+        "#クリエイティブ教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "sub_title": "【2026.04.05】最新のAIクリエイティブ教育レポート",
+          "text_content": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-01.png",
+          "image_file": "assets/img/posts/20260405_activity-01.png",
+          "overlay_text": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "subtext": "【2026.04.05】最新のAIクリエイティブ教育レポート",
+          "alt": "表紙 - AIは「ツール」から「相棒」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに使われる」不安、まだ抱えていませんか？",
+          "sub_title": "新学期が始まり、画像・動画生成AIの普及で「何を学ぶべきか」悩む親子が急増しています。",
+          "text_content": "「AIに使われる」不安、まだ抱えていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-02.png",
+          "image_file": "assets/img/posts/20260405_activity-02.png",
+          "overlay_text": "「AIに使われる」不安、まだ抱えていませんか？",
+          "subtext": "新学期が始まり、画像・動画生成AIの普及で「何を学ぶべきか」悩む親子が急増しています。",
+          "alt": "内容1 - 「AIに使われる」不安、まだ抱えていませ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "sub_title": "プロンプト不要？思考をダイレクトに形にする最新インターフェースで、中高生が次々と3Dアートを生成。",
+          "text_content": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-03.png",
+          "image_file": "assets/img/posts/20260405_activity-03.png",
+          "overlay_text": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "subtext": "プロンプト不要？思考をダイレクトに形にする最新インターフェースで、中高生が次々と3Dアートを生成。",
+          "alt": "内容2 - 『AIクリエイティ部』初日の熱狂！最新モ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "sub_title": "大切なのは「問いを立てる力」。AIをクリエイティブな相棒（バディ）として、試行錯誤を楽しむ力を養います。",
+          "text_content": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-04.png",
+          "image_file": "assets/img/posts/20260405_activity-04.png",
+          "overlay_text": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "subtext": "大切なのは「問いを立てる力」。AIをクリエイティブな相棒（バディ）として、試行錯誤を楽しむ力を養います。",
+          "alt": "内容3 - if塾が提案する「対話型」教育。AIは答"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "sub_title": "【2026.04.05】最新のAIクリエイティブ教育レポート",
+          "text_content": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-01.png",
+          "image_file": "assets/img/posts/20260405_activity-01.png",
+          "overlay_text": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+          "subtext": "【2026.04.05】最新のAIクリエイティブ教育レポート",
+          "alt": "表紙 - AIは「ツール」から「相棒」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに使われる」不安、まだ抱えていませんか？",
+          "sub_title": "新学期が始まり、画像・動画生成AIの普及で「何を学ぶべきか」悩む親子が急増しています。",
+          "text_content": "「AIに使われる」不安、まだ抱えていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-02.png",
+          "image_file": "assets/img/posts/20260405_activity-02.png",
+          "overlay_text": "「AIに使われる」不安、まだ抱えていませんか？",
+          "subtext": "新学期が始まり、画像・動画生成AIの普及で「何を学ぶべきか」悩む親子が急増しています。",
+          "alt": "内容1 - 「AIに使われる」不安、まだ抱えていませ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "sub_title": "プロンプト不要？思考をダイレクトに形にする最新インターフェースで、中高生が次々と3Dアートを生成。",
+          "text_content": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-03.png",
+          "image_file": "assets/img/posts/20260405_activity-03.png",
+          "overlay_text": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+          "subtext": "プロンプト不要？思考をダイレクトに形にする最新インターフェースで、中高生が次々と3Dアートを生成。",
+          "alt": "内容2 - 『AIクリエイティ部』初日の熱狂！最新モ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "sub_title": "大切なのは「問いを立てる力」。AIをクリエイティブな相棒（バディ）として、試行錯誤を楽しむ力を養います。",
+          "text_content": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260405_activity-04.png",
+          "image_file": "assets/img/posts/20260405_activity-04.png",
+          "overlay_text": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+          "subtext": "大切なのは「問いを立てる力」。AIをクリエイティブな相棒（バディ）として、試行錯誤を楽しむ力を養います。",
+          "alt": "内容3 - if塾が提案する「対話型」教育。AIは答"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260405_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260405_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260405_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260405_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-05T11:28:15",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「ツール」から「相棒」へ。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「ツール」から「相棒」へ。2026年、新時代の部活動が始動！",
+            "subtext": "【2026.04.05】最新のAIクリエイティブ教育レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIに使われる」不安、まだ抱えていませんか？",
+            "subtext": "新学期が始まり、画像・動画生成AIの普及で「何を学ぶべきか」悩む親子が急増しています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "『AIクリエイティ部』初日の熱狂！最新モデルを使いこなす生徒たち",
+            "subtext": "プロンプト不要？思考をダイレクトに形にする最新インターフェースで、中高生が次々と3Dアートを生成。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する「対話型」教育。AIは答えを出す存在ではない。",
+            "subtext": "大切なのは「問いを立てる力」。AIをクリエイティブな相棒（バディ）として、試行錯誤を楽しむ力を養います。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260404_activity",
       "post_id": "20260404_activity",
