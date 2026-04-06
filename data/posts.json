@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 89,
-    "last_updated": "2026-04-06T11:31:05.127525",
+    "last_updated": "2026-04-06T14:40:09.496380",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,24 @@
     {
       "id": "20260406_announcement",
       "post_id": "20260406_announcement",
-      "created_at": "2026-04-06T11:31:05",
+      "created_at": "2026-04-06T14:40:09",
       "datetime": "2026-04-06T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "【2026年最新】もうコードを書くだけでは通用しない？",
+      "theme": "【2026最新】AIが筆記試験を超える？",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】もうコードを書くだけでは通用しない？",
-      "caption": "【2026年4月】最新のエンジニア教育が始まります！\n\n新年度がスタートしましたが、IT業界の常識はまた一つ進化しました。\n「プログラミングを学ぶ」から「AIを使いこなして価値を生む」へ。\n\nif塾では、ChatGPTやClaude等の最新AIツールをカリキュラムに完全統合。\nコードを書くスキルはもちろん、AIへの指示（プロンプト）の精度と、AIが出した回答を正しく評価・修正できる『AI共創型エンジニア』を育成します。\n\n「AIに仕事を奪われる」のではなく「AIで10倍の成果を出す」側へ。\n2026年のトレンドを掴みたい方は、ぜひプロフィールのリンクから詳細をチェックしてください！\n\n#if塾 #2026年 #AI共創型エンジニア #ChatGPT #Claude #エンジニア志望 #プログラミング教育 #最新ITトレンド",
-      "caption_text": "【2026年4月】最新のエンジニア教育が始まります！\n\n新年度がスタートしましたが、IT業界の常識はまた一つ進化しました。\n「プログラミングを学ぶ」から「AIを使いこなして価値を生む」へ。\n\nif塾では、ChatGPTやClaude等の最新AIツールをカリキュラムに完全統合。\nコードを書くスキルはもちろん、AIへの指示（プロンプト）の精度と、AIが出した回答を正しく評価・修正できる『AI共創型エンジニア』を育成します。\n\n「AIに仕事を奪われる」のではなく「AIで10倍の成果を出す」側へ。\n2026年のトレンドを掴みたい方は、ぜひプロフィールのリンクから詳細をチェックしてください！\n\n#if塾 #2026年 #AI共創型エンジニア #ChatGPT #Claude #エンジニア志望 #プログラミング教育 #最新ITトレンド",
+      "title": "【2026最新】AIが筆記試験を超える？",
+      "caption": "【2026年4月】\n新学期が始まり、教育の現場は大きな転換点を迎えています。\n\n「AIを使える」のはもう普通。\nこれからは「AIの能力を120%引き出せる」ことが、子供たちの武器になります。\n\nif塾では、2026年の最新AIトレンドを反映した\n「AIプロンプトエンジニアリング」初等・中等教育コースを本格始動します！\n\n・AIを賢く使いこなすための「問いの立て方」\n・最新GPT-6環境での実践演習\n・倫理観とクリエイティビティの融合\n\nこれからの時代に最も必要な「未来の公用語」を、if塾で一緒に学びませんか？\n\n詳細はプロフィールのリンクからチェックしてください！✨",
+      "caption_text": "【2026年4月】\n新学期が始まり、教育の現場は大きな転換点を迎えています。\n\n「AIを使える」のはもう普通。\nこれからは「AIの能力を120%引き出せる」ことが、子供たちの武器になります。\n\nif塾では、2026年の最新AIトレンドを反映した\n「AIプロンプトエンジニアリング」初等・中等教育コースを本格始動します！\n\n・AIを賢く使いこなすための「問いの立て方」\n・最新GPT-6環境での実践演習\n・倫理観とクリエイティビティの融合\n\nこれからの時代に最も必要な「未来の公用語」を、if塾で一緒に学びませんか？\n\n詳細はプロフィールのリンクからチェックしてください！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI共創型エンジニア",
-        "#プログラミングスクール",
-        "#エンジニア転職",
-        "#AI教育"
+        "#AI教育",
+        "#プロンプトエンジニアリング",
+        "#新学期",
+        "#次世代スキル",
+        "#プログラミング教育",
+        "#AIネイティブ"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】もうコードを書くだけでは通用しない？",
-          "sub_title": "4月開講：AI共創型エンジニアへの道",
-          "text_content": "【2026年最新】もうコードを書くだけでは通用しない？",
+          "main_title": "【2026最新】AIが筆記試験を超える？",
+          "sub_title": "4月始動！次世代プロンプトエンジニアリング教育",
+          "text_content": "【2026最新】AIが筆記試験を超える？",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-01.png",
           "image_file": "assets/img/posts/20260406_announcement-01.png",
-          "overlay_text": "【2026年最新】もうコードを書くだけでは通用しない？",
-          "subtext": "4月開講：AI共創型エンジニアへの道",
-          "alt": "表紙 - 【2026年最新】もうコードを書くだけで"
+          "overlay_text": "【2026最新】AIが筆記試験を超える？",
+          "subtext": "4月始動！次世代プロンプトエンジニアリング教育",
+          "alt": "表紙 - 【2026最新】AIが筆記試験を超える？"
         },
         {
           "page_number": 2,
@@ -57,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」エンジニアの価値が激減中",
-          "sub_title": "2026年、単純なコーディングはAIが数秒で完了。今、求められているのはAIを使いこなし、設計と検証をリードする力です。",
-          "text_content": "「指示待ち」エンジニアの価値が激減中",
+          "main_title": "「AIが使えて当たり前」の時代へ",
+          "sub_title": "2026年、入試や就職活動でAI活用スキルが必須要件になりつつあります。ただ使うだけでなく、AIを『飼い慣らす』能力の差が、子供たちの未来を左右する大きな課題となっています。",
+          "text_content": "「AIが使えて当たり前」の時代へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-02.png",
           "image_file": "assets/img/posts/20260406_announcement-02.png",
-          "overlay_text": "「指示待ち」エンジニアの価値が激減中",
-          "subtext": "2026年、単純なコーディングはAIが数秒で完了。今、求められているのはAIを使いこなし、設計と検証をリードする力です。",
-          "alt": "内容1 - 「指示待ち」エンジニアの価値が激減中"
+          "overlay_text": "「AIが使えて当たり前」の時代へ",
+          "subtext": "2026年、入試や就職活動でAI活用スキルが必須要件になりつつあります。ただ使うだけでなく、AIを『飼い慣らす』能力の差が、子供たちの未来を左右する大きな課題となっています。",
+          "alt": "内容1 - 「AIが使えて当たり前」の時代へ"
         },
         {
           "page_number": 3,
@@ -73,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ChatGPT & Claude完全実装カリキュラム",
-          "sub_title": "従来の学習時間を半分に。AIを『外部脳』として使い、プロトタイプを数時間で組み上げる実務直結のスキルを習得します。",
-          "text_content": "ChatGPT & Claude完全実装カリキュラム",
+          "main_title": "GPT-6時代の思考力を手に入れる",
+          "sub_title": "最新のマルチモーダルAIを駆使し、複雑な問題を瞬時に解決。if塾の新コースでは、論理的思考とAIへの指示能力を同時に養い、創造性を最大化させる2026年基準のスキルを伝授します。",
+          "text_content": "GPT-6時代の思考力を手に入れる",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-03.png",
           "image_file": "assets/img/posts/20260406_announcement-03.png",
-          "overlay_text": "ChatGPT & Claude完全実装カリキュラム",
-          "subtext": "従来の学習時間を半分に。AIを『外部脳』として使い、プロトタイプを数時間で組み上げる実務直結のスキルを習得します。",
-          "alt": "内容2 - ChatGPT & Claude完全実装"
+          "overlay_text": "GPT-6時代の思考力を手に入れる",
+          "subtext": "最新のマルチモーダルAIを駆使し、複雑な問題を瞬時に解決。if塾の新コースでは、論理的思考とAIへの指示能力を同時に養い、創造性を最大化させる2026年基準のスキルを伝授します。",
+          "alt": "内容2 - GPT-6時代の思考力を手に入れる"
         },
         {
           "page_number": 4,
@@ -89,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する『AI共創』のカタチ",
-          "sub_title": "ただツールを使うだけでなく、プロンプトの論理性とシステム全体の設計思考を養う。4月期生からはAIペアプログラミングが標準に。",
-          "text_content": "if塾が提案する『AI共創』のカタチ",
+          "main_title": "if塾で学ぶ「本質的」な対話術",
+          "sub_title": "単なるコード入力ではなく、AIをパートナーとして議論する力を。4月開講のオンライン・オフライン併用コースでは、実社会のプロジェクトを題材に、世界に通用するプロンプト技術を磨きます。",
+          "text_content": "if塾で学ぶ「本質的」な対話術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-04.png",
           "image_file": "assets/img/posts/20260406_announcement-04.png",
-          "overlay_text": "if塾が提案する『AI共創』のカタチ",
-          "subtext": "ただツールを使うだけでなく、プロンプトの論理性とシステム全体の設計思考を養う。4月期生からはAIペアプログラミングが標準に。",
-          "alt": "内容3 - if塾が提案する『AI共創』のカタチ"
+          "overlay_text": "if塾で学ぶ「本質的」な対話術",
+          "subtext": "単なるコード入力ではなく、AIをパートナーとして議論する力を。4月開講のオンライン・オフライン併用コースでは、実社会のプロジェクトを題材に、世界に通用するプロンプト技術を磨きます。",
+          "alt": "内容3 - if塾で学ぶ「本質的」な対話術"
         },
         {
           "page_number": 5,
@@ -123,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】もうコードを書くだけでは通用しない？",
-          "sub_title": "4月開講：AI共創型エンジニアへの道",
-          "text_content": "【2026年最新】もうコードを書くだけでは通用しない？",
+          "main_title": "【2026最新】AIが筆記試験を超える？",
+          "sub_title": "4月始動！次世代プロンプトエンジニアリング教育",
+          "text_content": "【2026最新】AIが筆記試験を超える？",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-01.png",
           "image_file": "assets/img/posts/20260406_announcement-01.png",
-          "overlay_text": "【2026年最新】もうコードを書くだけでは通用しない？",
-          "subtext": "4月開講：AI共創型エンジニアへの道",
-          "alt": "表紙 - 【2026年最新】もうコードを書くだけで"
+          "overlay_text": "【2026最新】AIが筆記試験を超える？",
+          "subtext": "4月始動！次世代プロンプトエンジニアリング教育",
+          "alt": "表紙 - 【2026最新】AIが筆記試験を超える？"
         },
         {
           "page_number": 2,
@@ -139,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」エンジニアの価値が激減中",
-          "sub_title": "2026年、単純なコーディングはAIが数秒で完了。今、求められているのはAIを使いこなし、設計と検証をリードする力です。",
-          "text_content": "「指示待ち」エンジニアの価値が激減中",
+          "main_title": "「AIが使えて当たり前」の時代へ",
+          "sub_title": "2026年、入試や就職活動でAI活用スキルが必須要件になりつつあります。ただ使うだけでなく、AIを『飼い慣らす』能力の差が、子供たちの未来を左右する大きな課題となっています。",
+          "text_content": "「AIが使えて当たり前」の時代へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-02.png",
           "image_file": "assets/img/posts/20260406_announcement-02.png",
-          "overlay_text": "「指示待ち」エンジニアの価値が激減中",
-          "subtext": "2026年、単純なコーディングはAIが数秒で完了。今、求められているのはAIを使いこなし、設計と検証をリードする力です。",
-          "alt": "内容1 - 「指示待ち」エンジニアの価値が激減中"
+          "overlay_text": "「AIが使えて当たり前」の時代へ",
+          "subtext": "2026年、入試や就職活動でAI活用スキルが必須要件になりつつあります。ただ使うだけでなく、AIを『飼い慣らす』能力の差が、子供たちの未来を左右する大きな課題となっています。",
+          "alt": "内容1 - 「AIが使えて当たり前」の時代へ"
         },
         {
           "page_number": 3,
@@ -155,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ChatGPT & Claude完全実装カリキュラム",
-          "sub_title": "従来の学習時間を半分に。AIを『外部脳』として使い、プロトタイプを数時間で組み上げる実務直結のスキルを習得します。",
-          "text_content": "ChatGPT & Claude完全実装カリキュラム",
+          "main_title": "GPT-6時代の思考力を手に入れる",
+          "sub_title": "最新のマルチモーダルAIを駆使し、複雑な問題を瞬時に解決。if塾の新コースでは、論理的思考とAIへの指示能力を同時に養い、創造性を最大化させる2026年基準のスキルを伝授します。",
+          "text_content": "GPT-6時代の思考力を手に入れる",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-03.png",
           "image_file": "assets/img/posts/20260406_announcement-03.png",
-          "overlay_text": "ChatGPT & Claude完全実装カリキュラム",
-          "subtext": "従来の学習時間を半分に。AIを『外部脳』として使い、プロトタイプを数時間で組み上げる実務直結のスキルを習得します。",
-          "alt": "内容2 - ChatGPT & Claude完全実装"
+          "overlay_text": "GPT-6時代の思考力を手に入れる",
+          "subtext": "最新のマルチモーダルAIを駆使し、複雑な問題を瞬時に解決。if塾の新コースでは、論理的思考とAIへの指示能力を同時に養い、創造性を最大化させる2026年基準のスキルを伝授します。",
+          "alt": "内容2 - GPT-6時代の思考力を手に入れる"
         },
         {
           "page_number": 4,
@@ -171,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する『AI共創』のカタチ",
-          "sub_title": "ただツールを使うだけでなく、プロンプトの論理性とシステム全体の設計思考を養う。4月期生からはAIペアプログラミングが標準に。",
-          "text_content": "if塾が提案する『AI共創』のカタチ",
+          "main_title": "if塾で学ぶ「本質的」な対話術",
+          "sub_title": "単なるコード入力ではなく、AIをパートナーとして議論する力を。4月開講のオンライン・オフライン併用コースでは、実社会のプロジェクトを題材に、世界に通用するプロンプト技術を磨きます。",
+          "text_content": "if塾で学ぶ「本質的」な対話術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260406_announcement-04.png",
           "image_file": "assets/img/posts/20260406_announcement-04.png",
-          "overlay_text": "if塾が提案する『AI共創』のカタチ",
-          "subtext": "ただツールを使うだけでなく、プロンプトの論理性とシステム全体の設計思考を養う。4月期生からはAIペアプログラミングが標準に。",
-          "alt": "内容3 - if塾が提案する『AI共創』のカタチ"
+          "overlay_text": "if塾で学ぶ「本質的」な対話術",
+          "subtext": "単なるコード入力ではなく、AIをパートナーとして議論する力を。4月開講のオンライン・オフライン併用コースでは、実社会のプロジェクトを題材に、世界に通用するプロンプト技術を磨きます。",
+          "alt": "内容3 - if塾で学ぶ「本質的」な対話術"
         },
         {
           "page_number": 5,
@@ -242,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-06T11:29:32",
+      "research_date": "2026-04-06T14:38:33",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】もうコードを書くだけで",
+        "cover_text": "【2026最新】AIが筆記試験を超える？",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】もうコードを書くだけでは通用しない？",
-            "subtext": "4月開講：AI共創型エンジニアへの道",
+            "headline": "【2026最新】AIが筆記試験を超える？",
+            "subtext": "4月始動！次世代プロンプトエンジニアリング教育",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -266,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ち」エンジニアの価値が激減中",
-            "subtext": "2026年、単純なコーディングはAIが数秒で完了。今、求められているのはAIを使いこなし、設計と検証をリードする力です。",
+            "headline": "「AIが使えて当たり前」の時代へ",
+            "subtext": "2026年、入試や就職活動でAI活用スキルが必須要件になりつつあります。ただ使うだけでなく、AIを『飼い慣らす』能力の差が、子供たちの未来を左右する大きな課題となっています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -275,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "ChatGPT & Claude完全実装カリキュラム",
-            "subtext": "従来の学習時間を半分に。AIを『外部脳』として使い、プロトタイプを数時間で組み上げる実務直結のスキルを習得します。",
+            "headline": "GPT-6時代の思考力を手に入れる",
+            "subtext": "最新のマルチモーダルAIを駆使し、複雑な問題を瞬時に解決。if塾の新コースでは、論理的思考とAIへの指示能力を同時に養い、創造性を最大化させる2026年基準のスキルを伝授します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -284,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する『AI共創』のカタチ",
-            "subtext": "ただツールを使うだけでなく、プロンプトの論理性とシステム全体の設計思考を養う。4月期生からはAIペアプログラミングが標準に。",
+            "headline": "if塾で学ぶ「本質的」な対話術",
+            "subtext": "単なるコード入力ではなく、AIをパートナーとして議論する力を。4月開講のオンライン・オフライン併用コースでは、実社会のプロジェクトを題材に、世界に通用するプロンプト技術を磨きます。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
