@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 89,
-    "last_updated": "2026-04-06T20:53:51.978546",
+    "total_posts": 90,
+    "last_updated": "2026-04-07T11:26:19.986292",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260407_education",
+      "post_id": "20260407_education",
+      "created_at": "2026-04-07T11:26:19",
+      "datetime": "2026-04-07T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+      "caption": "【2026年4月】新学期がスタートしました！\n\nいよいよ新課程入試も2年目。昨年の傾向を見て「情報Iは基礎だけで大丈夫」と安心していませんか？\n\n実は、2年目こそが一番危ないと言われています。\n各大学が初年度の結果を分析し、より差がつく「思考力重視」の問題へシフトしているからです。\n\nif塾では、2026年度入試に向けた最新の対策カリキュラムを公開中。\n「情報の配点が高い大学」を目指すなら、今この時期からの準備が不可欠です。\n\n出遅れる前に、まずは「情報の解き方」のコツを掴みましょう！\n\n詳細はプロフィール欄のリンクからチェック。🔍\n\n#教育コラム #大学入試 #情報I #2026年入試 #新課程 #プログラミング #if塾 #受験生の母 #勉強法",
+      "caption_text": "【2026年4月】新学期がスタートしました！\n\nいよいよ新課程入試も2年目。昨年の傾向を見て「情報Iは基礎だけで大丈夫」と安心していませんか？\n\n実は、2年目こそが一番危ないと言われています。\n各大学が初年度の結果を分析し、より差がつく「思考力重視」の問題へシフトしているからです。\n\nif塾では、2026年度入試に向けた最新の対策カリキュラムを公開中。\n「情報の配点が高い大学」を目指すなら、今この時期からの準備が不可欠です。\n\n出遅れる前に、まずは「情報の解き方」のコツを掴みましょう！\n\n詳細はプロフィール欄のリンクからチェック。🔍\n\n#教育コラム #大学入試 #情報I #2026年入試 #新課程 #プログラミング #if塾 #受験生の母 #勉強法",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "情報I",
+        "大学入試",
+        "新課程2年目",
+        "プログラミング学習",
+        "受験対策",
+        "高校生"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "sub_title": "新課程2年目の難化予想と4月にすべきこと",
+          "text_content": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-01.png",
+          "image_file": "assets/img/posts/20260407_education-01.png",
+          "overlay_text": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "subtext": "新課程2年目の難化予想と4月にすべきこと",
+          "alt": "表紙 - 【2026最新】情報Iは、もう「おまけ」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "sub_title": "2025年度の初回入試を経て、各大学が問題レベルを底上げ。平均点ダウンが予想される「魔の2年目」に突入しました。",
+          "text_content": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-02.png",
+          "image_file": "assets/img/posts/20260407_education-02.png",
+          "overlay_text": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "subtext": "2025年度の初回入試を経て、各大学が問題レベルを底上げ。平均点ダウンが予想される「魔の2年目」に突入しました。",
+          "alt": "内容1 - 去年の「傾向」が通用しない？新課程2年目"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に求められる「思考の深化」",
+          "sub_title": "単なる用語暗記は生成AIで代替可能に。2026年入試では、Pythonを用いたデータ解析の「解釈力」が合否を分けます。",
+          "text_content": "if塾の視点：AI時代に求められる「思考の深化」",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-03.png",
+          "image_file": "assets/img/posts/20260407_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に求められる「思考の深化」",
+          "subtext": "単なる用語暗記は生成AIで代替可能に。2026年入試では、Pythonを用いたデータ解析の「解釈力」が合否を分けます。",
+          "alt": "内容2 - if塾の視点：AI時代に求められる「思考"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ「プログラミング実行環境」を日常に",
+          "sub_title": "教科書を読むだけは卒業。if塾推奨のシミュレータで、アルゴリズムを視覚的に理解する習慣を今月から作りましょう。",
+          "text_content": "今すぐ「プログラミング実行環境」を日常に",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-04.png",
+          "image_file": "assets/img/posts/20260407_education-04.png",
+          "overlay_text": "今すぐ「プログラミング実行環境」を日常に",
+          "subtext": "教科書を読むだけは卒業。if塾推奨のシミュレータで、アルゴリズムを視覚的に理解する習慣を今月から作りましょう。",
+          "alt": "内容3 - 今すぐ「プログラミング実行環境」を日常に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "sub_title": "新課程2年目の難化予想と4月にすべきこと",
+          "text_content": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-01.png",
+          "image_file": "assets/img/posts/20260407_education-01.png",
+          "overlay_text": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+          "subtext": "新課程2年目の難化予想と4月にすべきこと",
+          "alt": "表紙 - 【2026最新】情報Iは、もう「おまけ」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "sub_title": "2025年度の初回入試を経て、各大学が問題レベルを底上げ。平均点ダウンが予想される「魔の2年目」に突入しました。",
+          "text_content": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-02.png",
+          "image_file": "assets/img/posts/20260407_education-02.png",
+          "overlay_text": "去年の「傾向」が通用しない？新課程2年目の罠",
+          "subtext": "2025年度の初回入試を経て、各大学が問題レベルを底上げ。平均点ダウンが予想される「魔の2年目」に突入しました。",
+          "alt": "内容1 - 去年の「傾向」が通用しない？新課程2年目"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に求められる「思考の深化」",
+          "sub_title": "単なる用語暗記は生成AIで代替可能に。2026年入試では、Pythonを用いたデータ解析の「解釈力」が合否を分けます。",
+          "text_content": "if塾の視点：AI時代に求められる「思考の深化」",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-03.png",
+          "image_file": "assets/img/posts/20260407_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に求められる「思考の深化」",
+          "subtext": "単なる用語暗記は生成AIで代替可能に。2026年入試では、Pythonを用いたデータ解析の「解釈力」が合否を分けます。",
+          "alt": "内容2 - if塾の視点：AI時代に求められる「思考"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ「プログラミング実行環境」を日常に",
+          "sub_title": "教科書を読むだけは卒業。if塾推奨のシミュレータで、アルゴリズムを視覚的に理解する習慣を今月から作りましょう。",
+          "text_content": "今すぐ「プログラミング実行環境」を日常に",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260407_education-04.png",
+          "image_file": "assets/img/posts/20260407_education-04.png",
+          "overlay_text": "今すぐ「プログラミング実行環境」を日常に",
+          "subtext": "教科書を読むだけは卒業。if塾推奨のシミュレータで、アルゴリズムを視覚的に理解する習慣を今月から作りましょう。",
+          "alt": "内容3 - 今すぐ「プログラミング実行環境」を日常に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260407_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260407_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260407_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260407_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-07T11:24:48",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報Iは、もう「おまけ」",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報Iは、もう「おまけ」じゃない。",
+            "subtext": "新課程2年目の難化予想と4月にすべきこと",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "去年の「傾向」が通用しない？新課程2年目の罠",
+            "subtext": "2025年度の初回入試を経て、各大学が問題レベルを底上げ。平均点ダウンが予想される「魔の2年目」に突入しました。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾の視点：AI時代に求められる「思考の深化」",
+            "subtext": "単なる用語暗記は生成AIで代替可能に。2026年入試では、Pythonを用いたデータ解析の「解釈力」が合否を分けます。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐ「プログラミング実行環境」を日常に",
+            "subtext": "教科書を読むだけは卒業。if塾推奨のシミュレータで、アルゴリズムを視覚的に理解する習慣を今月から作りましょう。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260406_announcement",
       "post_id": "20260406_announcement",
