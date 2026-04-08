@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 90,
-    "last_updated": "2026-04-07T20:58:09.932726",
+    "total_posts": 91,
+    "last_updated": "2026-04-08T11:27:18.081082",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260408_development",
+      "post_id": "20260408_development",
+      "created_at": "2026-04-08T11:27:18",
+      "datetime": "2026-04-08T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+      "caption": "【2026年4月】最新のAIトレンドをお届けします！\n\n新学期が始まりましたが、「AIに何を聞けばいいかわからない」と悩むフェーズはもう終わりです。\n\n今、最も注目されているのは『Agentic AI（自律型AIエージェント）』。\n指示を一つ出すだけで、AIが自分で考えて必要なツールを使い、タスクを最後までやり遂げてくれるアプリです。\n\n「進路調査をして、比較表を作り、メールで送っておいて」\nこれだけで完了する世界が、2026年の当たり前になりつつあります。\n\nif塾では、この強力なツールを『使いこなす側』になるための思考法を伝授しています。\nAIに仕事を任せ、浮いた時間であなたは何を学びますか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年4月】最新のAIトレンドをお届けします！\n\n新学期が始まりましたが、「AIに何を聞けばいいかわからない」と悩むフェーズはもう終わりです。\n\n今、最も注目されているのは『Agentic AI（自律型AIエージェント）』。\n指示を一つ出すだけで、AIが自分で考えて必要なツールを使い、タスクを最後までやり遂げてくれるアプリです。\n\n「進路調査をして、比較表を作り、メールで送っておいて」\nこれだけで完了する世界が、2026年の当たり前になりつつあります。\n\nif塾では、この強力なツールを『使いこなす側』になるための思考法を伝授しています。\nAIに仕事を任せ、浮いた時間であなたは何を学びますか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#自律型AI",
+        "#AgenticAI",
+        "#新学期",
+        "#最新テクノロジー",
+        "#AI教育",
+        "#業務効率化"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "sub_title": "2026年4月8日：新学期の常識が変わる",
+          "text_content": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-01.png",
+          "image_file": "assets/img/posts/20260408_development-01.png",
+          "overlay_text": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "subtext": "2026年4月8日：新学期の常識が変わる",
+          "alt": "表紙 - 【2026年最新】自律型AIが宿題も研究"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "sub_title": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+          "text_content": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-02.png",
+          "image_file": "assets/img/posts/20260408_development-02.png",
+          "overlay_text": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+          "alt": "内容1 - 「やり方」を調べるだけで一日が終わってい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "sub_title": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+          "text_content": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-03.png",
+          "image_file": "assets/img/posts/20260408_development-03.png",
+          "overlay_text": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+          "alt": "内容2 - 丸投げOK？Agentic AIが『意思"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "sub_title": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+          "text_content": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-04.png",
+          "image_file": "assets/img/posts/20260408_development-04.png",
+          "overlay_text": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+          "alt": "内容3 - if塾流：AIを「部下」にして、人間は「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "sub_title": "2026年4月8日：新学期の常識が変わる",
+          "text_content": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-01.png",
+          "image_file": "assets/img/posts/20260408_development-01.png",
+          "overlay_text": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "subtext": "2026年4月8日：新学期の常識が変わる",
+          "alt": "表紙 - 【2026年最新】自律型AIが宿題も研究"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "sub_title": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+          "text_content": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-02.png",
+          "image_file": "assets/img/posts/20260408_development-02.png",
+          "overlay_text": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+          "alt": "内容1 - 「やり方」を調べるだけで一日が終わってい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "sub_title": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+          "text_content": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-03.png",
+          "image_file": "assets/img/posts/20260408_development-03.png",
+          "overlay_text": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+          "alt": "内容2 - 丸投げOK？Agentic AIが『意思"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "sub_title": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+          "text_content": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260408_development-04.png",
+          "image_file": "assets/img/posts/20260408_development-04.png",
+          "overlay_text": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+          "alt": "内容3 - if塾流：AIを「部下」にして、人間は「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260408_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260408_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260408_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260408_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "井上陽斗",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ゲーム開発"
+        ],
+        "caption_text": "井上陽斗（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "inoue_haruto",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-08T11:25:38",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】自律型AIが宿題も研究",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+            "subtext": "2026年4月8日：新学期の常識が変わる",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やり方」を調べるだけで一日が終わっていませんか？",
+            "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+            "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+            "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260407_education",
       "post_id": "20260407_education",
