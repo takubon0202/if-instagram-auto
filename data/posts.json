@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 91,
-    "last_updated": "2026-04-08T11:27:18.081082",
+    "last_updated": "2026-04-08T14:29:04.110687",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260408_development",
       "post_id": "20260408_development",
-      "created_at": "2026-04-08T11:27:18",
+      "created_at": "2026-04-08T14:29:04",
       "datetime": "2026-04-08T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+      "theme": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-      "caption": "【2026年4月】最新のAIトレンドをお届けします！\n\n新学期が始まりましたが、「AIに何を聞けばいいかわからない」と悩むフェーズはもう終わりです。\n\n今、最も注目されているのは『Agentic AI（自律型AIエージェント）』。\n指示を一つ出すだけで、AIが自分で考えて必要なツールを使い、タスクを最後までやり遂げてくれるアプリです。\n\n「進路調査をして、比較表を作り、メールで送っておいて」\nこれだけで完了する世界が、2026年の当たり前になりつつあります。\n\nif塾では、この強力なツールを『使いこなす側』になるための思考法を伝授しています。\nAIに仕事を任せ、浮いた時間であなたは何を学びますか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年4月】最新のAIトレンドをお届けします！\n\n新学期が始まりましたが、「AIに何を聞けばいいかわからない」と悩むフェーズはもう終わりです。\n\n今、最も注目されているのは『Agentic AI（自律型AIエージェント）』。\n指示を一つ出すだけで、AIが自分で考えて必要なツールを使い、タスクを最後までやり遂げてくれるアプリです。\n\n「進路調査をして、比較表を作り、メールで送っておいて」\nこれだけで完了する世界が、2026年の当たり前になりつつあります。\n\nif塾では、この強力なツールを『使いこなす側』になるための思考法を伝授しています。\nAIに仕事を任せ、浮いた時間であなたは何を学びますか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+      "caption": "【2026年4月】最新の開発スタイルをアップデート！\n\n新学期が始まり、プログラミング学習や自由研究のテーマを探している方も多いはず。\n2026年現在、生成AIは「指示して作ってもらうツール」から、一歩進んだ「並走する開発パートナー」へと進化しました。\n\n「AIに丸投げして出力されたものが正解か分からない…」\nそんな悩みを持つ学生や保護者の皆様へ。\n\n今、最も求められているのは、AIの思考プロセスを可視化し、人間が「意思決定」を積み重ねるプロセスです。if塾では、AIエージェントとの対話を通じて、論理的思考と創造力を同時に鍛えるメソッドを公開中！\n\nこの春、ただの「ツール使い」から、AIをリードする「プロジェクトマネージャー」へと成長しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年4月】最新の開発スタイルをアップデート！\n\n新学期が始まり、プログラミング学習や自由研究のテーマを探している方も多いはず。\n2026年現在、生成AIは「指示して作ってもらうツール」から、一歩進んだ「並走する開発パートナー」へと進化しました。\n\n「AIに丸投げして出力されたものが正解か分からない…」\nそんな悩みを持つ学生や保護者の皆様へ。\n\n今、最も求められているのは、AIの思考プロセスを可視化し、人間が「意思決定」を積み重ねるプロセスです。if塾では、AIエージェントとの対話を通じて、論理的思考と創造力を同時に鍛えるメソッドを公開中！\n\nこの春、ただの「ツール使い」から、AIをリードする「プロジェクトマネージャー」へと成長しませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#生成AI",
+        "#AI思考の可視化",
+        "#プログラミング教育",
         "#自律型AI",
-        "#AgenticAI",
-        "#新学期",
-        "#最新テクノロジー",
-        "#AI教育",
-        "#業務効率化"
+        "#春の挑戦",
+        "#開発パートナー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-          "sub_title": "2026年4月8日：新学期の常識が変わる",
-          "text_content": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "main_title": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+          "sub_title": "【2026.04.08】新学期、AIエージェントと作る次世代プロトタイプ",
+          "text_content": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-01.png",
           "image_file": "assets/img/posts/20260408_development-01.png",
-          "overlay_text": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-          "subtext": "2026年4月8日：新学期の常識が変わる",
-          "alt": "表紙 - 【2026年最新】自律型AIが宿題も研究"
+          "overlay_text": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+          "subtext": "【2026.04.08】新学期、AIエージェントと作る次世代プロトタイプ",
+          "alt": "表紙 - AIは「書く」から「共に思考する」へ。2"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やり方」を調べるだけで一日が終わっていませんか？",
-          "sub_title": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
-          "text_content": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "main_title": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
+          "sub_title": "2026年の開発現場では、コピペではなく「なぜその設計にしたか」の対話プロセスが評価の分かれ道になっています。",
+          "text_content": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-02.png",
           "image_file": "assets/img/posts/20260408_development-02.png",
-          "overlay_text": "「やり方」を調べるだけで一日が終わっていませんか？",
-          "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
-          "alt": "内容1 - 「やり方」を調べるだけで一日が終わってい"
+          "overlay_text": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
+          "subtext": "2026年の開発現場では、コピペではなく「なぜその設計にしたか」の対話プロセスが評価の分かれ道になっています。",
+          "alt": "内容1 - 「AIが作ったコード、中身がわからない」"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
-          "sub_title": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
-          "text_content": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "main_title": "マルチモーダルAIとの「思考共有型」開発フロー",
+          "sub_title": "最新の自律型エージェントを使用し、構想段階のマインドマップからロジックを同時生成。思考の足跡をログ化するのが今の常識です。",
+          "text_content": "マルチモーダルAIとの「思考共有型」開発フロー",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-03.png",
           "image_file": "assets/img/posts/20260408_development-03.png",
-          "overlay_text": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
-          "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
-          "alt": "内容2 - 丸投げOK？Agentic AIが『意思"
+          "overlay_text": "マルチモーダルAIとの「思考共有型」開発フロー",
+          "subtext": "最新の自律型エージェントを使用し、構想段階のマインドマップからロジックを同時生成。思考の足跡をログ化するのが今の常識です。",
+          "alt": "内容2 - マルチモーダルAIとの「思考共有型」開発"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
-          "sub_title": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
-          "text_content": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "main_title": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
+          "sub_title": "if塾では、AIの思考プロセスを可視化し、自分の意図を反映させる『対話スキル』を重視。春のプロジェクトで差をつけよう！",
+          "text_content": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-04.png",
           "image_file": "assets/img/posts/20260408_development-04.png",
-          "overlay_text": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
-          "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
-          "alt": "内容3 - if塾流：AIを「部下」にして、人間は「"
+          "overlay_text": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
+          "subtext": "if塾では、AIの思考プロセスを可視化し、自分の意図を反映させる『対話スキル』を重視。春のプロジェクトで差をつけよう！",
+          "alt": "内容3 - 単なる完成品以上に「AIとどう揉んだか」"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-          "sub_title": "2026年4月8日：新学期の常識が変わる",
-          "text_content": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
+          "main_title": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+          "sub_title": "【2026.04.08】新学期、AIエージェントと作る次世代プロトタイプ",
+          "text_content": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-01.png",
           "image_file": "assets/img/posts/20260408_development-01.png",
-          "overlay_text": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-          "subtext": "2026年4月8日：新学期の常識が変わる",
-          "alt": "表紙 - 【2026年最新】自律型AIが宿題も研究"
+          "overlay_text": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+          "subtext": "【2026.04.08】新学期、AIエージェントと作る次世代プロトタイプ",
+          "alt": "表紙 - AIは「書く」から「共に思考する」へ。2"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やり方」を調べるだけで一日が終わっていませんか？",
-          "sub_title": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
-          "text_content": "「やり方」を調べるだけで一日が終わっていませんか？",
+          "main_title": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
+          "sub_title": "2026年の開発現場では、コピペではなく「なぜその設計にしたか」の対話プロセスが評価の分かれ道になっています。",
+          "text_content": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-02.png",
           "image_file": "assets/img/posts/20260408_development-02.png",
-          "overlay_text": "「やり方」を調べるだけで一日が終わっていませんか？",
-          "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
-          "alt": "内容1 - 「やり方」を調べるだけで一日が終わってい"
+          "overlay_text": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
+          "subtext": "2026年の開発現場では、コピペではなく「なぜその設計にしたか」の対話プロセスが評価の分かれ道になっています。",
+          "alt": "内容1 - 「AIが作ったコード、中身がわからない」"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
-          "sub_title": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
-          "text_content": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
+          "main_title": "マルチモーダルAIとの「思考共有型」開発フロー",
+          "sub_title": "最新の自律型エージェントを使用し、構想段階のマインドマップからロジックを同時生成。思考の足跡をログ化するのが今の常識です。",
+          "text_content": "マルチモーダルAIとの「思考共有型」開発フロー",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-03.png",
           "image_file": "assets/img/posts/20260408_development-03.png",
-          "overlay_text": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
-          "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
-          "alt": "内容2 - 丸投げOK？Agentic AIが『意思"
+          "overlay_text": "マルチモーダルAIとの「思考共有型」開発フロー",
+          "subtext": "最新の自律型エージェントを使用し、構想段階のマインドマップからロジックを同時生成。思考の足跡をログ化するのが今の常識です。",
+          "alt": "内容2 - マルチモーダルAIとの「思考共有型」開発"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
-          "sub_title": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
-          "text_content": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
+          "main_title": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
+          "sub_title": "if塾では、AIの思考プロセスを可視化し、自分の意図を反映させる『対話スキル』を重視。春のプロジェクトで差をつけよう！",
+          "text_content": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260408_development-04.png",
           "image_file": "assets/img/posts/20260408_development-04.png",
-          "overlay_text": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
-          "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
-          "alt": "内容3 - if塾流：AIを「部下」にして、人間は「"
+          "overlay_text": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
+          "subtext": "if塾では、AIの思考プロセスを可視化し、自分の意図を反映させる『対話スキル』を重視。春のプロジェクトで差をつけよう！",
+          "alt": "内容3 - 単なる完成品以上に「AIとどう揉んだか」"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "井上陽斗",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "ロボット"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-08T11:25:38",
+      "research_date": "2026-04-08T14:27:34",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】自律型AIが宿題も研究",
+        "cover_text": "AIは「書く」から「共に思考する」へ。2",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】自律型AIが宿題も研究も完結!? 驚愕の『エージェント型アプリ』誕生",
-            "subtext": "2026年4月8日：新学期の常識が変わる",
+            "headline": "AIは「書く」から「共に思考する」へ。2026年最新の開発パートナー術",
+            "subtext": "【2026.04.08】新学期、AIエージェントと作る次世代プロトタイプ",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やり方」を調べるだけで一日が終わっていませんか？",
-            "subtext": "従来のAIは回答するだけ。でも2026年の今は、計画から実行までAIが勝手に進める時代です。",
+            "headline": "「AIが作ったコード、中身がわからない」で止まっていませんか？",
+            "subtext": "2026年の開発現場では、コピペではなく「なぜその設計にしたか」の対話プロセスが評価の分かれ道になっています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "丸投げOK？Agentic AIが『意思』を持ってタスクを完結",
-            "subtext": "複数のツールを自ら使い分け、情報収集、分析、資料作成まで自律的にループを回します。",
+            "headline": "マルチモーダルAIとの「思考共有型」開発フロー",
+            "subtext": "最新の自律型エージェントを使用し、構想段階のマインドマップからロジックを同時生成。思考の足跡をログ化するのが今の常識です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「部下」にして、人間は「意思決定」に集中する",
-            "subtext": "学生なら研究の自動化、保護者なら家計管理の自動化。空いた時間で、一生モノの『問いを立てる力』を養います。",
+            "headline": "単なる完成品以上に「AIとどう揉んだか」があなたの資産になる",
+            "subtext": "if塾では、AIの思考プロセスを可視化し、自分の意図を反映させる『対話スキル』を重視。春のプロジェクトで差をつけよう！",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
