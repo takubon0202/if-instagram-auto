@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 92,
-    "last_updated": "2026-04-09T14:30:55.570729",
+    "last_updated": "2026-04-09T20:59:37.108333",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,22 @@
     {
       "id": "20260409_ai_column",
       "post_id": "20260409_ai_column",
-      "created_at": "2026-04-09T14:30:55",
+      "created_at": "2026-04-09T20:59:37",
       "datetime": "2026-04-09T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
+      "theme": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
       "target_audience": "Students & Parents",
-      "title": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-      "caption": "【2026年4月】最新のAIトレンドをお届けします。\n\n新学期が始まり、身の回りのツールも一新されるこの時期。\n今、最も注目すべきは「自律型AIエージェント」の本格普及です。\n\nこれまでのAIは、一問一答形式で私たちが「指示（プロンプト）」を細かく書く必要がありました。\nしかし、2026年の最新AIは、一つの大きな目標を与えるだけで、必要な情報を自ら検索し、判断し、実行まで自動で行います。\n\n「宿題をやって」ではなく「この単元をマスターするための学習プランを立てて、苦手な部分のドリルを作って」といった高度な並走が可能になっています。\n\n便利な反面、重要なのは「AIが出した結果をどう評価するか」という人間の判断力。\nif塾では、AIを使いこなしつつ、自分の頭で考える力を養う次世代の学びを提案しています。\n\nあなたはAIに、何を任せたいですか？\nコメント欄で教えてください！\n\n#AI教育 #自律型AI #2026年 #新学期 #if塾 #未来の教育 #エージェントAI",
-      "caption_text": "【2026年4月】最新のAIトレンドをお届けします。\n\n新学期が始まり、身の回りのツールも一新されるこの時期。\n今、最も注目すべきは「自律型AIエージェント」の本格普及です。\n\nこれまでのAIは、一問一答形式で私たちが「指示（プロンプト）」を細かく書く必要がありました。\nしかし、2026年の最新AIは、一つの大きな目標を与えるだけで、必要な情報を自ら検索し、判断し、実行まで自動で行います。\n\n「宿題をやって」ではなく「この単元をマスターするための学習プランを立てて、苦手な部分のドリルを作って」といった高度な並走が可能になっています。\n\n便利な反面、重要なのは「AIが出した結果をどう評価するか」という人間の判断力。\nif塾では、AIを使いこなしつつ、自分の頭で考える力を養う次世代の学びを提案しています。\n\nあなたはAIに、何を任せたいですか？\nコメント欄で教えてください！\n\n#AI教育 #自律型AI #2026年 #新学期 #if塾 #未来の教育 #エージェントAI",
+      "title": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+      "caption": "【2026年4月】新学期、情報整理の常識が変わります！\n\nGoogle Geminiの最新アップデート『Notebooks』をご存知ですか？\nかつてのNotebookLMがGeminiに完全統合され、パーソナルな知識データベースの構築が驚くほど簡単になりました。\n\n「あの資料、どこに置いたっけ？」\n「この大量のPDF、要点だけ知りたい…」\n\nそんな悩みはもう過去のもの。2026年のAIは、あなたの代わりに情報を記憶し、あなたの思考を加速させるパートナーです。\n\nif塾では、こうした最新AIツールを「武器」として使いこなし、主体的に学ぶ力を育むサポートをしています。\n\n保存して後で見返して、ぜひ今日から「自分専用AI」を育ててみてください！\n\n#AIコラム #Gemini #Notebooks #GoogleAI #2026年 #新学期 #学習効率 #if塾 #教育DX #NotebookLM",
+      "caption_text": "【2026年4月】新学期、情報整理の常識が変わります！\n\nGoogle Geminiの最新アップデート『Notebooks』をご存知ですか？\nかつてのNotebookLMがGeminiに完全統合され、パーソナルな知識データベースの構築が驚くほど簡単になりました。\n\n「あの資料、どこに置いたっけ？」\n「この大量のPDF、要点だけ知りたい…」\n\nそんな悩みはもう過去のもの。2026年のAIは、あなたの代わりに情報を記憶し、あなたの思考を加速させるパートナーです。\n\nif塾では、こうした最新AIツールを「武器」として使いこなし、主体的に学ぶ力を育むサポートをしています。\n\n保存して後で見返して、ぜひ今日から「自分専用AI」を育ててみてください！\n\n#AIコラム #Gemini #Notebooks #GoogleAI #2026年 #新学期 #学習効率 #if塾 #教育DX #NotebookLM",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#自律型AI",
-        "#AIエージェント",
-        "#最新テクノロジー",
-        "#教育改革",
-        "#リスキリング"
+        "#Gemini",
+        "#AI教育",
+        "#Notebooks",
+        "#最新ツール"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-          "sub_title": "4月の進級・進学シーズン、学び方が劇的に変わります",
-          "text_content": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
+          "main_title": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+          "sub_title": "2026年4月最新アップデート：NotebookLMが完全統合",
+          "text_content": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-01.png",
           "image_file": "assets/img/posts/20260409_ai_column-01.png",
-          "overlay_text": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-          "subtext": "4月の進級・進学シーズン、学び方が劇的に変わります",
-          "alt": "表紙 - 【2026年最新】「AIを使う」から「A"
+          "overlay_text": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+          "subtext": "2026年4月最新アップデート：NotebookLMが完全統合",
+          "alt": "表紙 - Geminiに「自分専用DB」が爆誕！新"
         },
         {
           "page_number": 2,
@@ -58,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプト職人はもう不要？「自律型AI」の正体",
-          "sub_title": "これまでのAIは「答えを出す」だけ。2026年のAIは、目標を伝えれば自分で手順を考え、ツールを使い、完遂まで自動実行します。",
-          "text_content": "プロンプト職人はもう不要？「自律型AI」の正体",
+          "main_title": "資料が散らばって「どこだっけ？」を卒業",
+          "sub_title": "新学期、配布プリントや参考書PDF、Web記事が山積みになっていませんか？Geminiの新機能『Notebooks』は、これら全ての情報を一箇所に集約し、あなた専用のAI知能として整理してくれる神機能です。",
+          "text_content": "資料が散らばって「どこだっけ？」を卒業",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-02.png",
           "image_file": "assets/img/posts/20260409_ai_column-02.png",
-          "overlay_text": "プロンプト職人はもう不要？「自律型AI」の正体",
-          "subtext": "これまでのAIは「答えを出す」だけ。2026年のAIは、目標を伝えれば自分で手順を考え、ツールを使い、完遂まで自動実行します。",
-          "alt": "内容1 - プロンプト職人はもう不要？「自律型AI」"
+          "overlay_text": "資料が散らばって「どこだっけ？」を卒業",
+          "subtext": "新学期、配布プリントや参考書PDF、Web記事が山積みになっていませんか？Geminiの新機能『Notebooks』は、これら全ての情報を一箇所に集約し、あなた専用のAI知能として整理してくれる神機能です。",
+          "alt": "内容1 - 資料が散らばって「どこだっけ？」を卒業"
         },
         {
           "page_number": 3,
@@ -74,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「〇〇を調べて資料にまとめて」の一言で完了",
-          "sub_title": "学生なら「志望校の傾向分析と対策スケジュールの作成」、社会人なら「競合リサーチとプレゼン骨子作成」までAIが自律的にこなす時代に。",
-          "text_content": "「〇〇を調べて資料にまとめて」の一言で完了",
+          "main_title": "NotebookLMとの統合で「対話する知識庫」へ",
+          "sub_title": "2026年春、Geminiは従来のNotebookLMを完全に吸収。数千ページの資料から一瞬で要約・比較・類推が可能に。受験勉強の志望校対策や、大学の論文リサーチも、AIに「この資料群の共通点を見つけて」と頼むだけで完結します。",
+          "text_content": "NotebookLMとの統合で「対話する知識庫」へ",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-03.png",
           "image_file": "assets/img/posts/20260409_ai_column-03.png",
-          "overlay_text": "「〇〇を調べて資料にまとめて」の一言で完了",
-          "subtext": "学生なら「志望校の傾向分析と対策スケジュールの作成」、社会人なら「競合リサーチとプレゼン骨子作成」までAIが自律的にこなす時代に。",
-          "alt": "内容2 - 「〇〇を調べて資料にまとめて」の一言で完"
+          "overlay_text": "NotebookLMとの統合で「対話する知識庫」へ",
+          "subtext": "2026年春、Geminiは従来のNotebookLMを完全に吸収。数千ページの資料から一瞬で要約・比較・類推が可能に。受験勉強の志望校対策や、大学の論文リサーチも、AIに「この資料群の共通点を見つけて」と頼むだけで完結します。",
+          "alt": "内容2 - NotebookLMとの統合で「対話する"
         },
         {
           "page_number": 4,
@@ -90,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
-          "sub_title": "実行はAIがやります。だからこそ、人間は「どんな価値観で判断するか」という『哲学』と『問いを立てる力』を磨く必要があります。",
-          "text_content": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
+          "main_title": "if塾流：思考を止めない「第2の脳」構築術",
+          "sub_title": "単なる保存先ではなく、AIとの共同作業場として使いましょう。プロの視点では「音声モード」での対話型整理がおすすめ。登下校中にAIと自分のメモを壁打ちさせ、理解度を深めるのが2026年流の超効率学習です。",
+          "text_content": "if塾流：思考を止めない「第2の脳」構築術",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-04.png",
           "image_file": "assets/img/posts/20260409_ai_column-04.png",
-          "overlay_text": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
-          "subtext": "実行はAIがやります。だからこそ、人間は「どんな価値観で判断するか」という『哲学』と『問いを立てる力』を磨く必要があります。",
-          "alt": "内容3 - if塾の視点：大事なのは「丸投げ」ではな"
+          "overlay_text": "if塾流：思考を止めない「第2の脳」構築術",
+          "subtext": "単なる保存先ではなく、AIとの共同作業場として使いましょう。プロの視点では「音声モード」での対話型整理がおすすめ。登下校中にAIと自分のメモを壁打ちさせ、理解度を深めるのが2026年流の超効率学習です。",
+          "alt": "内容3 - if塾流：思考を止めない「第2の脳」構築"
         },
         {
           "page_number": 5,
@@ -124,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-          "sub_title": "4月の進級・進学シーズン、学び方が劇的に変わります",
-          "text_content": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
+          "main_title": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+          "sub_title": "2026年4月最新アップデート：NotebookLMが完全統合",
+          "text_content": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-01.png",
           "image_file": "assets/img/posts/20260409_ai_column-01.png",
-          "overlay_text": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-          "subtext": "4月の進級・進学シーズン、学び方が劇的に変わります",
-          "alt": "表紙 - 【2026年最新】「AIを使う」から「A"
+          "overlay_text": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+          "subtext": "2026年4月最新アップデート：NotebookLMが完全統合",
+          "alt": "表紙 - Geminiに「自分専用DB」が爆誕！新"
         },
         {
           "page_number": 2,
@@ -140,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプト職人はもう不要？「自律型AI」の正体",
-          "sub_title": "これまでのAIは「答えを出す」だけ。2026年のAIは、目標を伝えれば自分で手順を考え、ツールを使い、完遂まで自動実行します。",
-          "text_content": "プロンプト職人はもう不要？「自律型AI」の正体",
+          "main_title": "資料が散らばって「どこだっけ？」を卒業",
+          "sub_title": "新学期、配布プリントや参考書PDF、Web記事が山積みになっていませんか？Geminiの新機能『Notebooks』は、これら全ての情報を一箇所に集約し、あなた専用のAI知能として整理してくれる神機能です。",
+          "text_content": "資料が散らばって「どこだっけ？」を卒業",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-02.png",
           "image_file": "assets/img/posts/20260409_ai_column-02.png",
-          "overlay_text": "プロンプト職人はもう不要？「自律型AI」の正体",
-          "subtext": "これまでのAIは「答えを出す」だけ。2026年のAIは、目標を伝えれば自分で手順を考え、ツールを使い、完遂まで自動実行します。",
-          "alt": "内容1 - プロンプト職人はもう不要？「自律型AI」"
+          "overlay_text": "資料が散らばって「どこだっけ？」を卒業",
+          "subtext": "新学期、配布プリントや参考書PDF、Web記事が山積みになっていませんか？Geminiの新機能『Notebooks』は、これら全ての情報を一箇所に集約し、あなた専用のAI知能として整理してくれる神機能です。",
+          "alt": "内容1 - 資料が散らばって「どこだっけ？」を卒業"
         },
         {
           "page_number": 3,
@@ -156,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「〇〇を調べて資料にまとめて」の一言で完了",
-          "sub_title": "学生なら「志望校の傾向分析と対策スケジュールの作成」、社会人なら「競合リサーチとプレゼン骨子作成」までAIが自律的にこなす時代に。",
-          "text_content": "「〇〇を調べて資料にまとめて」の一言で完了",
+          "main_title": "NotebookLMとの統合で「対話する知識庫」へ",
+          "sub_title": "2026年春、Geminiは従来のNotebookLMを完全に吸収。数千ページの資料から一瞬で要約・比較・類推が可能に。受験勉強の志望校対策や、大学の論文リサーチも、AIに「この資料群の共通点を見つけて」と頼むだけで完結します。",
+          "text_content": "NotebookLMとの統合で「対話する知識庫」へ",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-03.png",
           "image_file": "assets/img/posts/20260409_ai_column-03.png",
-          "overlay_text": "「〇〇を調べて資料にまとめて」の一言で完了",
-          "subtext": "学生なら「志望校の傾向分析と対策スケジュールの作成」、社会人なら「競合リサーチとプレゼン骨子作成」までAIが自律的にこなす時代に。",
-          "alt": "内容2 - 「〇〇を調べて資料にまとめて」の一言で完"
+          "overlay_text": "NotebookLMとの統合で「対話する知識庫」へ",
+          "subtext": "2026年春、Geminiは従来のNotebookLMを完全に吸収。数千ページの資料から一瞬で要約・比較・類推が可能に。受験勉強の志望校対策や、大学の論文リサーチも、AIに「この資料群の共通点を見つけて」と頼むだけで完結します。",
+          "alt": "内容2 - NotebookLMとの統合で「対話する"
         },
         {
           "page_number": 4,
@@ -172,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
-          "sub_title": "実行はAIがやります。だからこそ、人間は「どんな価値観で判断するか」という『哲学』と『問いを立てる力』を磨く必要があります。",
-          "text_content": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
+          "main_title": "if塾流：思考を止めない「第2の脳」構築術",
+          "sub_title": "単なる保存先ではなく、AIとの共同作業場として使いましょう。プロの視点では「音声モード」での対話型整理がおすすめ。登下校中にAIと自分のメモを壁打ちさせ、理解度を深めるのが2026年流の超効率学習です。",
+          "text_content": "if塾流：思考を止めない「第2の脳」構築術",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260409_ai_column-04.png",
           "image_file": "assets/img/posts/20260409_ai_column-04.png",
-          "overlay_text": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
-          "subtext": "実行はAIがやります。だからこそ、人間は「どんな価値観で判断するか」という『哲学』と『問いを立てる力』を磨く必要があります。",
-          "alt": "内容3 - if塾の視点：大事なのは「丸投げ」ではな"
+          "overlay_text": "if塾流：思考を止めない「第2の脳」構築術",
+          "subtext": "単なる保存先ではなく、AIとの共同作業場として使いましょう。プロの視点では「音声モード」での対話型整理がおすすめ。登下校中にAIと自分のメモを壁打ちさせ、理解度を深めるのが2026年流の超効率学習です。",
+          "alt": "内容3 - if塾流：思考を止めない「第2の脳」構築"
         },
         {
           "page_number": 5,
@@ -243,7 +242,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-09T14:29:24",
+      "research_date": "2026-04-09T20:58:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年最新】「AIを使う」から「A",
+        "cover_text": "Geminiに「自分専用DB」が爆誕！新",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年最新】「AIを使う」から「AIにお任せ」へ。自律型エージェントの衝撃",
-            "subtext": "4月の進級・進学シーズン、学び方が劇的に変わります",
+            "headline": "Geminiに「自分専用DB」が爆誕！新機能『Notebooks』が凄すぎる",
+            "subtext": "2026年4月最新アップデート：NotebookLMが完全統合",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "プロンプト職人はもう不要？「自律型AI」の正体",
-            "subtext": "これまでのAIは「答えを出す」だけ。2026年のAIは、目標を伝えれば自分で手順を考え、ツールを使い、完遂まで自動実行します。",
+            "headline": "資料が散らばって「どこだっけ？」を卒業",
+            "subtext": "新学期、配布プリントや参考書PDF、Web記事が山積みになっていませんか？Geminiの新機能『Notebooks』は、これら全ての情報を一箇所に集約し、あなた専用のAI知能として整理してくれる神機能です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "「〇〇を調べて資料にまとめて」の一言で完了",
-            "subtext": "学生なら「志望校の傾向分析と対策スケジュールの作成」、社会人なら「競合リサーチとプレゼン骨子作成」までAIが自律的にこなす時代に。",
+            "headline": "NotebookLMとの統合で「対話する知識庫」へ",
+            "subtext": "2026年春、Geminiは従来のNotebookLMを完全に吸収。数千ページの資料から一瞬で要約・比較・類推が可能に。受験勉強の志望校対策や、大学の論文リサーチも、AIに「この資料群の共通点を見つけて」と頼むだけで完結します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：大事なのは「丸投げ」ではなく「並走」",
-            "subtext": "実行はAIがやります。だからこそ、人間は「どんな価値観で判断するか」という『哲学』と『問いを立てる力』を磨く必要があります。",
+            "headline": "if塾流：思考を止めない「第2の脳」構築術",
+            "subtext": "単なる保存先ではなく、AIとの共同作業場として使いましょう。プロの視点では「音声モード」での対話型整理がおすすめ。登下校中にAIと自分のメモを壁打ちさせ、理解度を深めるのが2026年流の超効率学習です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
