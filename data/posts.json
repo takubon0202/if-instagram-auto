@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 91,
-    "last_updated": "2026-04-08T20:59:53.507449",
+    "total_posts": 92,
+    "last_updated": "2026-04-09T11:13:39.860759",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260409_ai_column",
+      "post_id": "20260409_ai_column",
+      "created_at": "2026-04-09T11:13:39",
+      "datetime": "2026-04-09T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+      "caption": "【2026年4月】最新のAIニュースをお届けします。\n\n新学期が始まりましたが、学習の進め方に変化はありますか？\n2026年の今、AIは「質問に答えるツール」から「勝手にタスクを終わらせてくれる相棒」へと進化しました。\n\n「自律型AIエージェント」の本格普及により、私たちはもはや細かいプロンプトを考える必要すらなくなろうとしています。\n\nしかし、だからこそ大切なのが「何を成し遂げたいか」という明確な意志です。\nif塾では、AIに振り回されるのではなく、AIを使いこなして自分の可能性を最大化する「次世代の思考力」を伝えています。\n\nあなたはAIに、どんな未来をオーダーしますか？\n詳細はプロフィール欄のリンクから。🔍",
+      "caption_text": "【2026年4月】最新のAIニュースをお届けします。\n\n新学期が始まりましたが、学習の進め方に変化はありますか？\n2026年の今、AIは「質問に答えるツール」から「勝手にタスクを終わらせてくれる相棒」へと進化しました。\n\n「自律型AIエージェント」の本格普及により、私たちはもはや細かいプロンプトを考える必要すらなくなろうとしています。\n\nしかし、だからこそ大切なのが「何を成し遂げたいか」という明確な意志です。\nif塾では、AIに振り回されるのではなく、AIを使いこなして自分の可能性を最大化する「次世代の思考力」を伝えています。\n\nあなたはAIに、どんな未来をオーダーしますか？\n詳細はプロフィール欄のリンクから。🔍",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#自律型AI",
+        "#AIエージェント",
+        "#新学期",
+        "#最新テック",
+        "#教育DX",
+        "#AI教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "sub_title": "【2026年4月最新版】新学期の学習スタイルが激変",
+          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-01.png",
+          "image_file": "assets/img/posts/20260409_ai_column-01.png",
+          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "subtext": "【2026年4月最新版】新学期の学習スタイルが激変",
+          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ「プロンプト」を入力していますか？",
+          "sub_title": "これまでのAIは一問一答。2026年の今は、一つの目標を伝えるだけでAIが自分で考え、計画し、実行まで完結させる『自律型エージェント』が標準になりました。",
+          "text_content": "まだ「プロンプト」を入力していますか？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-02.png",
+          "image_file": "assets/img/posts/20260409_ai_column-02.png",
+          "overlay_text": "まだ「プロンプト」を入力していますか？",
+          "subtext": "これまでのAIは一問一答。2026年の今は、一つの目標を伝えるだけでAIが自分で考え、計画し、実行まで完結させる『自律型エージェント』が標準になりました。",
+          "alt": "内容1 - まだ「プロンプト」を入力していますか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「〇〇大学に合格したい」だけで計画が動く",
+          "sub_title": "最新のAuto-GPT系ツールは、志望校の過去問分析、スケジュール管理、苦手克服の問題作成まで自動実行。4月の履修登録や塾選びも、AIがあなたの専属秘書として完了させます。",
+          "text_content": "「〇〇大学に合格したい」だけで計画が動く",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-03.png",
+          "image_file": "assets/img/posts/20260409_ai_column-03.png",
+          "overlay_text": "「〇〇大学に合格したい」だけで計画が動く",
+          "subtext": "最新のAuto-GPT系ツールは、志望校の過去問分析、スケジュール管理、苦手克服の問題作成まで自動実行。4月の履修登録や塾選びも、AIがあなたの専属秘書として完了させます。",
+          "alt": "内容2 - 「〇〇大学に合格したい」だけで計画が動く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『部下』として使いこなす力",
+          "sub_title": "指示待ち人間ではなく、AIに正しく「丸投げ」できるマネジメント能力が問われます。目標設定の具体性と、最終的なアウトプットを評価する『審美眼』を養うことが2026年以降の教育の核です。",
+          "text_content": "if塾の視点：AIを『部下』として使いこなす力",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-04.png",
+          "image_file": "assets/img/posts/20260409_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを『部下』として使いこなす力",
+          "subtext": "指示待ち人間ではなく、AIに正しく「丸投げ」できるマネジメント能力が問われます。目標設定の具体性と、最終的なアウトプットを評価する『審美眼』を養うことが2026年以降の教育の核です。",
+          "alt": "内容3 - if塾の視点：AIを『部下』として使いこ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "sub_title": "【2026年4月最新版】新学期の学習スタイルが激変",
+          "text_content": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-01.png",
+          "image_file": "assets/img/posts/20260409_ai_column-01.png",
+          "overlay_text": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+          "subtext": "【2026年4月最新版】新学期の学習スタイルが激変",
+          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ「プロンプト」を入力していますか？",
+          "sub_title": "これまでのAIは一問一答。2026年の今は、一つの目標を伝えるだけでAIが自分で考え、計画し、実行まで完結させる『自律型エージェント』が標準になりました。",
+          "text_content": "まだ「プロンプト」を入力していますか？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-02.png",
+          "image_file": "assets/img/posts/20260409_ai_column-02.png",
+          "overlay_text": "まだ「プロンプト」を入力していますか？",
+          "subtext": "これまでのAIは一問一答。2026年の今は、一つの目標を伝えるだけでAIが自分で考え、計画し、実行まで完結させる『自律型エージェント』が標準になりました。",
+          "alt": "内容1 - まだ「プロンプト」を入力していますか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「〇〇大学に合格したい」だけで計画が動く",
+          "sub_title": "最新のAuto-GPT系ツールは、志望校の過去問分析、スケジュール管理、苦手克服の問題作成まで自動実行。4月の履修登録や塾選びも、AIがあなたの専属秘書として完了させます。",
+          "text_content": "「〇〇大学に合格したい」だけで計画が動く",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-03.png",
+          "image_file": "assets/img/posts/20260409_ai_column-03.png",
+          "overlay_text": "「〇〇大学に合格したい」だけで計画が動く",
+          "subtext": "最新のAuto-GPT系ツールは、志望校の過去問分析、スケジュール管理、苦手克服の問題作成まで自動実行。4月の履修登録や塾選びも、AIがあなたの専属秘書として完了させます。",
+          "alt": "内容2 - 「〇〇大学に合格したい」だけで計画が動く"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『部下』として使いこなす力",
+          "sub_title": "指示待ち人間ではなく、AIに正しく「丸投げ」できるマネジメント能力が問われます。目標設定の具体性と、最終的なアウトプットを評価する『審美眼』を養うことが2026年以降の教育の核です。",
+          "text_content": "if塾の視点：AIを『部下』として使いこなす力",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260409_ai_column-04.png",
+          "image_file": "assets/img/posts/20260409_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを『部下』として使いこなす力",
+          "subtext": "指示待ち人間ではなく、AIに正しく「丸投げ」できるマネジメント能力が問われます。目標設定の具体性と、最終的なアウトプットを評価する『審美眼』を養うことが2026年以降の教育の核です。",
+          "alt": "内容3 - if塾の視点：AIを『部下』として使いこ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260409_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260409_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260409_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260409_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-09T11:12:04",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「任せる」へ。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「任せる」へ。2026年、自律型エージェントの衝撃。",
+            "subtext": "【2026年4月最新版】新学期の学習スタイルが激変",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "まだ「プロンプト」を入力していますか？",
+            "subtext": "これまでのAIは一問一答。2026年の今は、一つの目標を伝えるだけでAIが自分で考え、計画し、実行まで完結させる『自律型エージェント』が標準になりました。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「〇〇大学に合格したい」だけで計画が動く",
+            "subtext": "最新のAuto-GPT系ツールは、志望校の過去問分析、スケジュール管理、苦手克服の問題作成まで自動実行。4月の履修登録や塾選びも、AIがあなたの専属秘書として完了させます。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIを『部下』として使いこなす力",
+            "subtext": "指示待ち人間ではなく、AIに正しく「丸投げ」できるマネジメント能力が問われます。目標設定の具体性と、最終的なアウトプットを評価する『審美眼』を養うことが2026年以降の教育の核です。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260408_development",
       "post_id": "20260408_development",
