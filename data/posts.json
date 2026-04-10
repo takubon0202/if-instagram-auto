@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 93,
-    "last_updated": "2026-04-10T14:40:17.678159",
+    "last_updated": "2026-04-10T20:54:59.822507",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260410_business",
       "post_id": "20260410_business",
-      "created_at": "2026-04-10T14:40:17",
+      "created_at": "2026-04-10T20:54:59",
       "datetime": "2026-04-10T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
+      "theme": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
       "target_audience": "Students & Parents",
-      "title": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-      "caption": "【2026年4月】新学期が始まりました！🌸\n\n今、地方で起きている「中高生によるSNS運用代行」の波を知っていますか？\n\n2026年現在、AIツールは驚異的な進化を遂げ、かつては専門業者が行っていたPR業務を、中高生が「AI」を相棒にして、より安価に、よりスピーディーに請け負うビジネスが台頭しています。\n\n「生成AI×若者の感性」は、地方企業のDXを加速させる救世主。\n\nif塾では、ただAIを使うだけでなく、地域課題を解決し「ありがとう」を報酬に変えるマインドセットを大切にしています。\n\nこの春、新しいスキルで地元を盛り上げませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
-      "caption_text": "【2026年4月】新学期が始まりました！🌸\n\n今、地方で起きている「中高生によるSNS運用代行」の波を知っていますか？\n\n2026年現在、AIツールは驚異的な進化を遂げ、かつては専門業者が行っていたPR業務を、中高生が「AI」を相棒にして、より安価に、よりスピーディーに請け負うビジネスが台頭しています。\n\n「生成AI×若者の感性」は、地方企業のDXを加速させる救世主。\n\nif塾では、ただAIを使うだけでなく、地域課題を解決し「ありがとう」を報酬に変えるマインドセットを大切にしています。\n\nこの春、新しいスキルで地元を盛り上げませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "title": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+      "caption": "【2026年4月】新学期が始まり、中高生の「稼ぎ方」が激変しています。\n\nかつての動画編集やプログラミングの受託は、今やAIによって数秒で完結する時代。今、最も高単価で取引されているのは「プロンプトエンジニアリング」を駆使した課題解決型フリーランスです。\n\n「AIに何をさせるか」をデザインできる若者は、大人顔負けの報酬を得ています。この春、if塾で「AIを使いこなす側」への一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクからチェック！",
+      "caption_text": "【2026年4月】新学期が始まり、中高生の「稼ぎ方」が激変しています。\n\nかつての動画編集やプログラミングの受託は、今やAIによって数秒で完結する時代。今、最も高単価で取引されているのは「プロンプトエンジニアリング」を駆使した課題解決型フリーランスです。\n\n「AIに何をさせるか」をデザインできる若者は、大人顔負けの報酬を得ています。この春、if塾で「AIを使いこなす側」への一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#地方創生",
-        "#SNS運用代行",
-        "#中高生起業",
-        "#DX教育",
-        "#AI活用"
+        "#プロンプトエンジニアリング",
+        "#中高生フリーランス",
+        "#AI副業",
+        "#新学期",
+        "#キャリア教育",
+        "#GPT5"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-          "sub_title": "【2026年4月版】生成AI×地方創生のリアル",
-          "text_content": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
+          "main_title": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+          "sub_title": "【2026年4月最新版】新学期から始めるAI副業の極意",
+          "text_content": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-01.png",
           "image_file": "assets/img/posts/20260410_business-01.png",
-          "overlay_text": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-          "subtext": "【2026年4月版】生成AI×地方創生のリアル",
-          "alt": "表紙 - 中高生が地元のSNS運用代行で月10万稼"
+          "overlay_text": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+          "subtext": "【2026年4月最新版】新学期から始めるAI副業の極意",
+          "alt": "表紙 - 中高生がAIで月10万稼ぐ時代。プロンプ"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
-          "sub_title": "2026年、地方企業や飲食店は「動画映え」と「AI更新」の波に追いつけず、若者のセンスとAIスキルを求めています。",
-          "text_content": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
+          "main_title": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
+          "sub_title": "2026年、単純な作業代行はAIに代替されました。今、市場が求めているのは「AIを飼い慣らす力」です。",
+          "text_content": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-02.png",
           "image_file": "assets/img/posts/20260410_business-02.png",
-          "overlay_text": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
-          "subtext": "2026年、地方企業や飲食店は「動画映え」と「AI更新」の波に追いつけず、若者のセンスとAIスキルを求めています。",
-          "alt": "内容1 - 「部活」の延長がビジネスに？地方の深刻な"
+          "overlay_text": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
+          "subtext": "2026年、単純な作業代行はAIに代替されました。今、市場が求めているのは「AIを飼い慣らす力」です。",
+          "alt": "内容1 - 「動画編集はもう古い？」手作業の限界が中"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
-          "sub_title": "スマホで撮った素材をAIに渡すだけ。プロ級のPR動画と集客文を10分で生成し、店舗のSNSを自動運用する中高生が急増中。",
-          "text_content": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
+          "main_title": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
+          "sub_title": "最新の自律型エージェントを使い、企業のSNS運用やLP制作を「プロンプト1本」で完結させる手法が主流に。",
+          "text_content": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-03.png",
           "image_file": "assets/img/posts/20260410_business-03.png",
-          "overlay_text": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
-          "subtext": "スマホで撮った素材をAIに渡すだけ。プロ級のPR動画と集客文を10分で生成し、店舗のSNSを自動運用する中高生が急増中。",
-          "alt": "内容2 - マルチモーダルAI「GPT-5.5」と動"
+          "overlay_text": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
+          "subtext": "最新の自律型エージェントを使い、企業のSNS運用やLP制作を「プロンプト1本」で完結させる手法が主流に。",
+          "alt": "内容2 - GPT-5.5とClaude 4を連携。"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
-          "sub_title": "AIは誰でも使えます。差がつくのは「地域の何を伝えたいか」という人間らしい視点。それこそが2026年の最強のビジネススキルです。",
-          "text_content": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
+          "main_title": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
+          "sub_title": "AIが答えを出す時代だからこそ、顧客の真の課題を見抜く「要件定義力」が中高生フリーランスの生存戦略になります。",
+          "text_content": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-04.png",
           "image_file": "assets/img/posts/20260410_business-04.png",
-          "overlay_text": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
-          "subtext": "AIは誰でも使えます。差がつくのは「地域の何を伝えたいか」という人間らしい視点。それこそが2026年の最強のビジネススキルです。",
-          "alt": "内容3 - if塾が教える「AI使い」の極意：技術よ"
+          "overlay_text": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
+          "subtext": "AIが答えを出す時代だからこそ、顧客の真の課題を見抜く「要件定義力」が中高生フリーランスの生存戦略になります。",
+          "alt": "内容3 - 技術よりも「問い」を磨け。if塾が教える"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-          "sub_title": "【2026年4月版】生成AI×地方創生のリアル",
-          "text_content": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
+          "main_title": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+          "sub_title": "【2026年4月最新版】新学期から始めるAI副業の極意",
+          "text_content": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-01.png",
           "image_file": "assets/img/posts/20260410_business-01.png",
-          "overlay_text": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-          "subtext": "【2026年4月版】生成AI×地方創生のリアル",
-          "alt": "表紙 - 中高生が地元のSNS運用代行で月10万稼"
+          "overlay_text": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+          "subtext": "【2026年4月最新版】新学期から始めるAI副業の極意",
+          "alt": "表紙 - 中高生がAIで月10万稼ぐ時代。プロンプ"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
-          "sub_title": "2026年、地方企業や飲食店は「動画映え」と「AI更新」の波に追いつけず、若者のセンスとAIスキルを求めています。",
-          "text_content": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
+          "main_title": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
+          "sub_title": "2026年、単純な作業代行はAIに代替されました。今、市場が求めているのは「AIを飼い慣らす力」です。",
+          "text_content": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-02.png",
           "image_file": "assets/img/posts/20260410_business-02.png",
-          "overlay_text": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
-          "subtext": "2026年、地方企業や飲食店は「動画映え」と「AI更新」の波に追いつけず、若者のセンスとAIスキルを求めています。",
-          "alt": "内容1 - 「部活」の延長がビジネスに？地方の深刻な"
+          "overlay_text": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
+          "subtext": "2026年、単純な作業代行はAIに代替されました。今、市場が求めているのは「AIを飼い慣らす力」です。",
+          "alt": "内容1 - 「動画編集はもう古い？」手作業の限界が中"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
-          "sub_title": "スマホで撮った素材をAIに渡すだけ。プロ級のPR動画と集客文を10分で生成し、店舗のSNSを自動運用する中高生が急増中。",
-          "text_content": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
+          "main_title": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
+          "sub_title": "最新の自律型エージェントを使い、企業のSNS運用やLP制作を「プロンプト1本」で完結させる手法が主流に。",
+          "text_content": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-03.png",
           "image_file": "assets/img/posts/20260410_business-03.png",
-          "overlay_text": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
-          "subtext": "スマホで撮った素材をAIに渡すだけ。プロ級のPR動画と集客文を10分で生成し、店舗のSNSを自動運用する中高生が急増中。",
-          "alt": "内容2 - マルチモーダルAI「GPT-5.5」と動"
+          "overlay_text": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
+          "subtext": "最新の自律型エージェントを使い、企業のSNS運用やLP制作を「プロンプト1本」で完結させる手法が主流に。",
+          "alt": "内容2 - GPT-5.5とClaude 4を連携。"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
-          "sub_title": "AIは誰でも使えます。差がつくのは「地域の何を伝えたいか」という人間らしい視点。それこそが2026年の最強のビジネススキルです。",
-          "text_content": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
+          "main_title": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
+          "sub_title": "AIが答えを出す時代だからこそ、顧客の真の課題を見抜く「要件定義力」が中高生フリーランスの生存戦略になります。",
+          "text_content": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260410_business-04.png",
           "image_file": "assets/img/posts/20260410_business-04.png",
-          "overlay_text": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
-          "subtext": "AIは誰でも使えます。差がつくのは「地域の何を伝えたいか」という人間らしい視点。それこそが2026年の最強のビジネススキルです。",
-          "alt": "内容3 - if塾が教える「AI使い」の極意：技術よ"
+          "overlay_text": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
+          "subtext": "AIが答えを出す時代だからこそ、顧客の真の課題を見抜く「要件定義力」が中高生フリーランスの生存戦略になります。",
+          "alt": "内容3 - 技術よりも「問い」を磨け。if塾が教える"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-10T14:38:41",
+      "research_date": "2026-04-10T20:53:28",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が地元のSNS運用代行で月10万稼",
+        "cover_text": "中高生がAIで月10万稼ぐ時代。プロンプ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が地元のSNS運用代行で月10万稼ぐ時代。2026年最新の「稼ぎ方」",
-            "subtext": "【2026年4月版】生成AI×地方創生のリアル",
+            "headline": "中高生がAIで月10万稼ぐ時代。プロンプト受託の新常識",
+            "subtext": "【2026年4月最新版】新学期から始めるAI副業の極意",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「部活」の延長がビジネスに？地方の深刻なDX人材不足",
-            "subtext": "2026年、地方企業や飲食店は「動画映え」と「AI更新」の波に追いつけず、若者のセンスとAIスキルを求めています。",
+            "headline": "「動画編集はもう古い？」手作業の限界が中高生を悩ませる",
+            "subtext": "2026年、単純な作業代行はAIに代替されました。今、市場が求めているのは「AIを飼い慣らす力」です。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAI「GPT-5.5」と動画自動生成ツールの活用",
-            "subtext": "スマホで撮った素材をAIに渡すだけ。プロ級のPR動画と集客文を10分で生成し、店舗のSNSを自動運用する中高生が急増中。",
+            "headline": "GPT-5.5とClaude 4を連携。マルチモーダル受託の衝撃",
+            "subtext": "最新の自律型エージェントを使い、企業のSNS運用やLP制作を「プロンプト1本」で完結させる手法が主流に。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える「AI使い」の極意：技術よりも『地元愛』が武器になる",
-            "subtext": "AIは誰でも使えます。差がつくのは「地域の何を伝えたいか」という人間らしい視点。それこそが2026年の最強のビジネススキルです。",
+            "headline": "技術よりも「問い」を磨け。if塾が教える0→1の思考法",
+            "subtext": "AIが答えを出す時代だからこそ、顧客の真の課題を見抜く「要件定義力」が中高生フリーランスの生存戦略になります。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
