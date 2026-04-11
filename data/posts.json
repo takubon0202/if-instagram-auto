@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 93,
-    "last_updated": "2026-04-10T20:54:59.822507",
+    "total_posts": 94,
+    "last_updated": "2026-04-11T11:12:25.467075",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260411_activity",
+      "post_id": "20260411_activity",
+      "created_at": "2026-04-11T11:12:25",
+      "datetime": "2026-04-11T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+      "caption": "【2026年4月】最新の教育トレンドをお届けします。\n\n新学期が始まり、if塾の生徒たちは一段とパワフルに！\n先日のハッカソンでは、小学生が「自律型AIエージェント」を自作し、複雑なタスクを自動化させる姿が見られました。\n\n2026年の今、AIは「調べる道具」から「共に働くパートナー」へと進化しています。\n「うちの子にはまだ早いかも…」と思っている間に、子供たちの世界は驚くべきスピードで変化しています。\n\nif塾では、最新のAIツールを使いこなし、社会課題を解決できる「実装力」を養うカリキュラムを提供中。\nこの春、新しい学びの一歩を一緒に踏み出しませんか？\n\n詳細はプロフィール欄のリンクをチェック！",
+      "caption_text": "【2026年4月】最新の教育トレンドをお届けします。\n\n新学期が始まり、if塾の生徒たちは一段とパワフルに！\n先日のハッカソンでは、小学生が「自律型AIエージェント」を自作し、複雑なタスクを自動化させる姿が見られました。\n\n2026年の今、AIは「調べる道具」から「共に働くパートナー」へと進化しています。\n「うちの子にはまだ早いかも…」と思っている間に、子供たちの世界は驚くべきスピードで変化しています。\n\nif塾では、最新のAIツールを使いこなし、社会課題を解決できる「実装力」を養うカリキュラムを提供中。\nこの春、新しい学びの一歩を一緒に踏み出しませんか？\n\n詳細はプロフィール欄のリンクをチェック！",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "AIエージェント",
+        "生成AIネイティブ",
+        "プログラミング教育",
+        "ハッカソン",
+        "DX教育",
+        "新学期"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "sub_title": "4月のハッカソン速報！生成AIネイティブの驚異的な進化",
+          "text_content": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-01.png",
+          "image_file": "assets/img/posts/20260411_activity-01.png",
+          "overlay_text": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "subtext": "4月のハッカソン速報！生成AIネイティブの驚異的な進化",
+          "alt": "表紙 - 【2026年最新】小中高生がAIエージェ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIを組織する」へ",
+          "sub_title": "これまでのプロンプト入力はもう古い？2026年の新学期、子供たちは自律型エージェントの開発に夢中です。",
+          "text_content": "「AIを使う」から「AIを組織する」へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-02.png",
+          "image_file": "assets/img/posts/20260411_activity-02.png",
+          "overlay_text": "「AIを使う」から「AIを組織する」へ",
+          "subtext": "これまでのプロンプト入力はもう古い？2026年の新学期、子供たちは自律型エージェントの開発に夢中です。",
+          "alt": "内容1 - 「AIを使う」から「AIを組織する」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "sub_title": "先週末のハッカソンでは、登下校の見守りや学習スケジュールを自動管理するAIエージェントが続々と誕生しました。",
+          "text_content": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-03.png",
+          "image_file": "assets/img/posts/20260411_activity-03.png",
+          "overlay_text": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "subtext": "先週末のハッカソンでは、登下校の見守りや学習スケジュールを自動管理するAIエージェントが続々と誕生しました。",
+          "alt": "内容2 - マルチモーダルAIを操り、数時間で課題解"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視する「AIとの共生」のカタチ",
+          "sub_title": "単なるツール活用ではなく、AIのロジックを設計する『構築力』こそが、これからの入試や社会で求められる本質的なスキルです。",
+          "text_content": "if塾が重視する「AIとの共生」のカタチ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-04.png",
+          "image_file": "assets/img/posts/20260411_activity-04.png",
+          "overlay_text": "if塾が重視する「AIとの共生」のカタチ",
+          "subtext": "単なるツール活用ではなく、AIのロジックを設計する『構築力』こそが、これからの入試や社会で求められる本質的なスキルです。",
+          "alt": "内容3 - if塾が重視する「AIとの共生」のカタチ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "sub_title": "4月のハッカソン速報！生成AIネイティブの驚異的な進化",
+          "text_content": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-01.png",
+          "image_file": "assets/img/posts/20260411_activity-01.png",
+          "overlay_text": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+          "subtext": "4月のハッカソン速報！生成AIネイティブの驚異的な進化",
+          "alt": "表紙 - 【2026年最新】小中高生がAIエージェ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIを組織する」へ",
+          "sub_title": "これまでのプロンプト入力はもう古い？2026年の新学期、子供たちは自律型エージェントの開発に夢中です。",
+          "text_content": "「AIを使う」から「AIを組織する」へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-02.png",
+          "image_file": "assets/img/posts/20260411_activity-02.png",
+          "overlay_text": "「AIを使う」から「AIを組織する」へ",
+          "subtext": "これまでのプロンプト入力はもう古い？2026年の新学期、子供たちは自律型エージェントの開発に夢中です。",
+          "alt": "内容1 - 「AIを使う」から「AIを組織する」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "sub_title": "先週末のハッカソンでは、登下校の見守りや学習スケジュールを自動管理するAIエージェントが続々と誕生しました。",
+          "text_content": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-03.png",
+          "image_file": "assets/img/posts/20260411_activity-03.png",
+          "overlay_text": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+          "subtext": "先週末のハッカソンでは、登下校の見守りや学習スケジュールを自動管理するAIエージェントが続々と誕生しました。",
+          "alt": "内容2 - マルチモーダルAIを操り、数時間で課題解"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視する「AIとの共生」のカタチ",
+          "sub_title": "単なるツール活用ではなく、AIのロジックを設計する『構築力』こそが、これからの入試や社会で求められる本質的なスキルです。",
+          "text_content": "if塾が重視する「AIとの共生」のカタチ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260411_activity-04.png",
+          "image_file": "assets/img/posts/20260411_activity-04.png",
+          "overlay_text": "if塾が重視する「AIとの共生」のカタチ",
+          "subtext": "単なるツール活用ではなく、AIのロジックを設計する『構築力』こそが、これからの入試や社会で求められる本質的なスキルです。",
+          "alt": "内容3 - if塾が重視する「AIとの共生」のカタチ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260411_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260411_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260411_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260411_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-11T11:10:52",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】小中高生がAIエージェ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】小中高生がAIエージェントを自作する時代へ",
+            "subtext": "4月のハッカソン速報！生成AIネイティブの驚異的な進化",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使う」から「AIを組織する」へ",
+            "subtext": "これまでのプロンプト入力はもう古い？2026年の新学期、子供たちは自律型エージェントの開発に夢中です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAIを操り、数時間で課題解決ツールを開発",
+            "subtext": "先週末のハッカソンでは、登下校の見守りや学習スケジュールを自動管理するAIエージェントが続々と誕生しました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が重視する「AIとの共生」のカタチ",
+            "subtext": "単なるツール活用ではなく、AIのロジックを設計する『構築力』こそが、これからの入試や社会で求められる本質的なスキルです。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260410_business",
       "post_id": "20260410_business",
