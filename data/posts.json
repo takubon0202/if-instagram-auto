@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 94,
-    "last_updated": "2026-04-11T20:38:14.700323",
+    "total_posts": 95,
+    "last_updated": "2026-04-12T11:34:55.062611",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260412_activity",
+      "post_id": "20260412_activity",
+      "created_at": "2026-04-12T11:34:55",
+      "datetime": "2026-04-12T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+      "target_audience": "Students & Parents",
+      "title": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+      "caption": "【2026年4月】最新の活動報告をお届けします！\n\n新学期が始まり、if塾では「AIエージェント活用ハッカソン」を開催しました。2026年現在、AIは単に質問に答えるだけのツールから、自ら動く「エージェント」へと進化しています。\n\n「AIに何をやらせるか」ではなく「AIをどう組み合わせ、どう指揮するか」。\n生徒たちが試行錯誤しながら、自律型AIを使いこなして課題を解決する姿は、まさに次世代のリーダーそのものでした。\n\n今の時代、大切なのはAIを恐れることでも、頼り切ることでもありません。自分の意思を形にするための「最強の道具」として使いこなす視点です。\n\n春休みを経て、一回り成長した生徒たちの創造力に驚かされた一日でした。\n\n詳細が気になる方は、プロフィール欄のリンクから活動レポートをチェック！",
+      "caption_text": "【2026年4月】最新の活動報告をお届けします！\n\n新学期が始まり、if塾では「AIエージェント活用ハッカソン」を開催しました。2026年現在、AIは単に質問に答えるだけのツールから、自ら動く「エージェント」へと進化しています。\n\n「AIに何をやらせるか」ではなく「AIをどう組み合わせ、どう指揮するか」。\n生徒たちが試行錯誤しながら、自律型AIを使いこなして課題を解決する姿は、まさに次世代のリーダーそのものでした。\n\n今の時代、大切なのはAIを恐れることでも、頼り切ることでもありません。自分の意思を形にするための「最強の道具」として使いこなす視点です。\n\n春休みを経て、一回り成長した生徒たちの創造力に驚かされた一日でした。\n\n詳細が気になる方は、プロフィール欄のリンクから活動レポートをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年4月",
+        "#AIエージェント",
+        "#ハッカソン",
+        "#次世代スキル",
+        "#自律型AI",
+        "#プログラミング教育",
+        "#AI教育",
+        "#教育改革"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026年4月12日｜AIエージェントを使いこなす新世代の学び",
+          "text_content": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-01.png",
+          "image_file": "assets/img/posts/20260412_activity-01.png",
+          "overlay_text": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "subtext": "2026年4月12日｜AIエージェントを使いこなす新世代の学び",
+          "alt": "表紙 - AIは「書く」から「動かす」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "sub_title": "2026年、プロンプト入力はもはや当たり前のスキルに。今の学生が直面しているのは、複数のAIをどう『連携』させ、目的を達成するかという高度な課題です。",
+          "text_content": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-02.png",
+          "image_file": "assets/img/posts/20260412_activity-02.png",
+          "overlay_text": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "subtext": "2026年、プロンプト入力はもはや当たり前のスキルに。今の学生が直面しているのは、複数のAIをどう『連携』させ、目的を達成するかという高度な課題です。",
+          "alt": "内容1 - 「AIに何を聞けばいい？」で止まっていま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIエージェントを指揮する中高生たち",
+          "sub_title": "今回のハッカソンでは、複数のAIが自らタスクを分担し実行する『エージェント機能』をフル活用。生徒たちはコードを書くのではなく、AIの指揮官としてアプリを完遂させました。",
+          "text_content": "自律型AIエージェントを指揮する中高生たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-03.png",
+          "image_file": "assets/img/posts/20260412_activity-03.png",
+          "overlay_text": "自律型AIエージェントを指揮する中高生たち",
+          "subtext": "今回のハッカソンでは、複数のAIが自らタスクを分担し実行する『エージェント機能』をフル活用。生徒たちはコードを書くのではなく、AIの指揮官としてアプリを完遂させました。",
+          "alt": "内容2 - 自律型AIエージェントを指揮する中高生た"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「道具」に使われるな、AIの「オーナー」になれ",
+          "sub_title": "if塾が教えるのは単なる操作法ではありません。AIの提案を批判的に吟味し、自分の意志で取捨選択する『ディレクション能力』こそが、2026年以降の必須スキルです。",
+          "text_content": "「道具」に使われるな、AIの「オーナー」になれ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-04.png",
+          "image_file": "assets/img/posts/20260412_activity-04.png",
+          "overlay_text": "「道具」に使われるな、AIの「オーナー」になれ",
+          "subtext": "if塾が教えるのは単なる操作法ではありません。AIの提案を批判的に吟味し、自分の意志で取捨選択する『ディレクション能力』こそが、2026年以降の必須スキルです。",
+          "alt": "内容3 - 「道具」に使われるな、AIの「オーナー」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "sub_title": "2026年4月12日｜AIエージェントを使いこなす新世代の学び",
+          "text_content": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-01.png",
+          "image_file": "assets/img/posts/20260412_activity-01.png",
+          "overlay_text": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+          "subtext": "2026年4月12日｜AIエージェントを使いこなす新世代の学び",
+          "alt": "表紙 - AIは「書く」から「動かす」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "sub_title": "2026年、プロンプト入力はもはや当たり前のスキルに。今の学生が直面しているのは、複数のAIをどう『連携』させ、目的を達成するかという高度な課題です。",
+          "text_content": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-02.png",
+          "image_file": "assets/img/posts/20260412_activity-02.png",
+          "overlay_text": "「AIに何を聞けばいい？」で止まっていませんか？",
+          "subtext": "2026年、プロンプト入力はもはや当たり前のスキルに。今の学生が直面しているのは、複数のAIをどう『連携』させ、目的を達成するかという高度な課題です。",
+          "alt": "内容1 - 「AIに何を聞けばいい？」で止まっていま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIエージェントを指揮する中高生たち",
+          "sub_title": "今回のハッカソンでは、複数のAIが自らタスクを分担し実行する『エージェント機能』をフル活用。生徒たちはコードを書くのではなく、AIの指揮官としてアプリを完遂させました。",
+          "text_content": "自律型AIエージェントを指揮する中高生たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-03.png",
+          "image_file": "assets/img/posts/20260412_activity-03.png",
+          "overlay_text": "自律型AIエージェントを指揮する中高生たち",
+          "subtext": "今回のハッカソンでは、複数のAIが自らタスクを分担し実行する『エージェント機能』をフル活用。生徒たちはコードを書くのではなく、AIの指揮官としてアプリを完遂させました。",
+          "alt": "内容2 - 自律型AIエージェントを指揮する中高生た"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「道具」に使われるな、AIの「オーナー」になれ",
+          "sub_title": "if塾が教えるのは単なる操作法ではありません。AIの提案を批判的に吟味し、自分の意志で取捨選択する『ディレクション能力』こそが、2026年以降の必須スキルです。",
+          "text_content": "「道具」に使われるな、AIの「オーナー」になれ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260412_activity-04.png",
+          "image_file": "assets/img/posts/20260412_activity-04.png",
+          "overlay_text": "「道具」に使われるな、AIの「オーナー」になれ",
+          "subtext": "if塾が教えるのは単なる操作法ではありません。AIの提案を批判的に吟味し、自分の意志で取捨選択する『ディレクション能力』こそが、2026年以降の必須スキルです。",
+          "alt": "内容3 - 「道具」に使われるな、AIの「オーナー」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260412_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260412_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260412_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260412_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-12T11:33:24",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「書く」から「動かす」へ。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「書く」から「動かす」へ。2026年最新ハッカソン報告",
+            "subtext": "2026年4月12日｜AIエージェントを使いこなす新世代の学び",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIに何を聞けばいい？」で止まっていませんか？",
+            "subtext": "2026年、プロンプト入力はもはや当たり前のスキルに。今の学生が直面しているのは、複数のAIをどう『連携』させ、目的を達成するかという高度な課題です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型AIエージェントを指揮する中高生たち",
+            "subtext": "今回のハッカソンでは、複数のAIが自らタスクを分担し実行する『エージェント機能』をフル活用。生徒たちはコードを書くのではなく、AIの指揮官としてアプリを完遂させました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「道具」に使われるな、AIの「オーナー」になれ",
+            "subtext": "if塾が教えるのは単なる操作法ではありません。AIの提案を批判的に吟味し、自分の意志で取捨選択する『ディレクション能力』こそが、2026年以降の必須スキルです。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260411_activity",
       "post_id": "20260411_activity",
