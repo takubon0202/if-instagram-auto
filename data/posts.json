@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 96,
-    "last_updated": "2026-04-13T15:12:27.068207",
+    "last_updated": "2026-04-13T21:14:56.630081",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,22 @@
     {
       "id": "20260413_announcement",
       "post_id": "20260413_announcement",
-      "created_at": "2026-04-13T15:12:27",
+      "created_at": "2026-04-13T21:14:56",
       "datetime": "2026-04-13T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
+      "theme": "2026年、プログラミング学習は「書く」から「操る」へ。",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-      "caption": "【2026年4月】新年度が始まり、キャリアの形が激変しています。\n\n「AIに仕事が奪われる」という議論はもう過去の話。\n今は「AIを使いこなす専門家」が、あらゆる業界で主役となっています。\n\n2026年春、if塾では最新の生成AIを実務に直結させる\n『AI×専門スキル』の特化コースを強化しました。\n\n・AIを駆使した超速マーケティング\n・ノーコードとAIによる爆速プロトタイピング\n・感性をデータで拡張するAIデザイン\n\n「ただのスキル」にAIを掛け合わせることで、\nあなただけの独自の価値を創造しませんか？\n\n新生活のスタートに、未来への一歩を。 \n\n詳細はプロフィールリンクをチェック！",
-      "caption_text": "【2026年4月】新年度が始まり、キャリアの形が激変しています。\n\n「AIに仕事が奪われる」という議論はもう過去の話。\n今は「AIを使いこなす専門家」が、あらゆる業界で主役となっています。\n\n2026年春、if塾では最新の生成AIを実務に直結させる\n『AI×専門スキル』の特化コースを強化しました。\n\n・AIを駆使した超速マーケティング\n・ノーコードとAIによる爆速プロトタイピング\n・感性をデータで拡張するAIデザイン\n\n「ただのスキル」にAIを掛け合わせることで、\nあなただけの独自の価値を創造しませんか？\n\n新生活のスタートに、未来への一歩を。 \n\n詳細はプロフィールリンクをチェック！",
+      "title": "2026年、プログラミング学習は「書く」から「操る」へ。",
+      "caption": "【2026年4月】最新の教育トレンドをお届けします！\n\n新年度が始まり、プログラミング教育の現場では今「AIエージェント」の活用が急速に広がっています。\n\n2025年までの「AIにコードを書かせる」段階から一歩進み、2026年は「AIを自律的に動かしてシステムを構築する」スキルが求められるようになりました。\n\nif塾では、この春から「AIエージェント活用コース」を強化！\nプログラミングの基礎はもちろん、AIをどう指揮し、どう新しい価値を生み出すかという『ディレクション能力』を重視しています。\n\n「これからの時代、何を学ばせるべき？」とお悩みの保護者の皆様、ぜひ一度if塾の最新授業を体験してみてください。\n\n詳細はプロフィールのリンクからチェック！\n#if塾 #プログラミング教育 #2026年 #AIエージェント #新学期 #次世代スキル",
+      "caption_text": "【2026年4月】最新の教育トレンドをお届けします！\n\n新年度が始まり、プログラミング教育の現場では今「AIエージェント」の活用が急速に広がっています。\n\n2025年までの「AIにコードを書かせる」段階から一歩進み、2026年は「AIを自律的に動かしてシステムを構築する」スキルが求められるようになりました。\n\nif塾では、この春から「AIエージェント活用コース」を強化！\nプログラミングの基礎はもちろん、AIをどう指揮し、どう新しい価値を生み出すかという『ディレクション能力』を重視しています。\n\n「これからの時代、何を学ばせるべき？」とお悩みの保護者の皆様、ぜひ一度if塾の最新授業を体験してみてください。\n\n詳細はプロフィールのリンクからチェック！\n#if塾 #プログラミング教育 #2026年 #AIエージェント #新学期 #次世代スキル",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#AIマーケティング",
-        "#AIデザイン",
-        "#リスキリング",
-        "#キャリア形成",
-        "#最新教育"
+        "#AIエージェント",
+        "#プログラミング学習",
+        "#教育ICT",
+        "#AIディレクション"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-          "sub_title": "4月開講！生成AI×専門スキルコースが急増中",
-          "text_content": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
+          "main_title": "2026年、プログラミング学習は「書く」から「操る」へ。",
+          "sub_title": "4月の最新トピック：AIエージェント活用の波",
+          "text_content": "2026年、プログラミング学習は「書く」から「操る」へ。",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-01.png",
           "image_file": "assets/img/posts/20260413_announcement-01.png",
-          "overlay_text": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-          "subtext": "4月開講！生成AI×専門スキルコースが急増中",
-          "alt": "表紙 - 2026年最新版！AIを「使う側」で終わ"
+          "overlay_text": "2026年、プログラミング学習は「書く」から「操る」へ。",
+          "subtext": "4月の最新トピック：AIエージェント活用の波",
+          "alt": "表紙 - 2026年、プログラミング学習は「書く」"
         },
         {
           "page_number": 2,
@@ -59,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使える」は、もう当たり前の時代に。",
-          "sub_title": "2026年、単純なプロンプト操作は共通言語化しました。今、保護者や学生が直面しているのは『AIを自分の専門性にどう組み込むか』という高度な競争です。",
-          "text_content": "「AIを使える」は、もう当たり前の時代に。",
+          "main_title": "コードを書くだけでは通用しない時代？",
+          "sub_title": "新学期、AIが自動でアプリを完成させる今、子どもたちに必要なのは「指示する力」と「設計力」に変化しています。",
+          "text_content": "コードを書くだけでは通用しない時代？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-02.png",
           "image_file": "assets/img/posts/20260413_announcement-02.png",
-          "overlay_text": "「AIを使える」は、もう当たり前の時代に。",
-          "subtext": "2026年、単純なプロンプト操作は共通言語化しました。今、保護者や学生が直面しているのは『AIを自分の専門性にどう組み込むか』という高度な競争です。",
-          "alt": "内容1 - 「AIを使える」は、もう当たり前の時代に"
+          "overlay_text": "コードを書くだけでは通用しない時代？",
+          "subtext": "新学期、AIが自動でアプリを完成させる今、子どもたちに必要なのは「指示する力」と「設計力」に変化しています。",
+          "alt": "内容1 - コードを書くだけでは通用しない時代？"
         },
         {
           "page_number": 3,
@@ -75,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "掛け算スキルで「市場価値」を10倍にする",
-          "sub_title": "AIデザイン、AIマーケティング、AIコーディング。2026年の新定番ツールを駆使し、1人で10人分の成果を出す『次世代型プロフェッショナル』への道が開かれています。",
-          "text_content": "掛け算スキルで「市場価値」を10倍にする",
+          "main_title": "自律型AIエージェントが学習の相棒に",
+          "sub_title": "2026年の最新コースでは、AIに目標を伝え、デバッグから最適化までをAIと共創する次世代のスキルを習得します。",
+          "text_content": "自律型AIエージェントが学習の相棒に",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-03.png",
           "image_file": "assets/img/posts/20260413_announcement-03.png",
-          "overlay_text": "掛け算スキルで「市場価値」を10倍にする",
-          "subtext": "AIデザイン、AIマーケティング、AIコーディング。2026年の新定番ツールを駆使し、1人で10人分の成果を出す『次世代型プロフェッショナル』への道が開かれています。",
-          "alt": "内容2 - 掛け算スキルで「市場価値」を10倍にする"
+          "overlay_text": "自律型AIエージェントが学習の相棒に",
+          "subtext": "2026年の最新コースでは、AIに目標を伝え、デバッグから最適化までをAIと共創する次世代のスキルを習得します。",
+          "alt": "内容2 - 自律型AIエージェントが学習の相棒に"
         },
         {
           "page_number": 4,
@@ -91,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型AIラーニング」",
-          "sub_title": "動画教材を見るだけでは身につきません。if塾では実案件を想定したワークフローに最新AIを組み込み、2026年の即戦力として通用するポートフォリオを構築します。",
-          "text_content": "if塾が提案する「伴走型AIラーニング」",
+          "main_title": "if塾で学ぶ「AIディレクション術」",
+          "sub_title": "単なるツール利用ではなく、AIの思考プロセスを理解し、複雑な問題を解決する力をif塾独自のカリキュラムで養います。",
+          "text_content": "if塾で学ぶ「AIディレクション術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-04.png",
           "image_file": "assets/img/posts/20260413_announcement-04.png",
-          "overlay_text": "if塾が提案する「伴走型AIラーニング」",
-          "subtext": "動画教材を見るだけでは身につきません。if塾では実案件を想定したワークフローに最新AIを組み込み、2026年の即戦力として通用するポートフォリオを構築します。",
-          "alt": "内容3 - if塾が提案する「伴走型AIラーニング」"
+          "overlay_text": "if塾で学ぶ「AIディレクション術」",
+          "subtext": "単なるツール利用ではなく、AIの思考プロセスを理解し、複雑な問題を解決する力をif塾独自のカリキュラムで養います。",
+          "alt": "内容3 - if塾で学ぶ「AIディレクション術」"
         },
         {
           "page_number": 5,
@@ -125,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-          "sub_title": "4月開講！生成AI×専門スキルコースが急増中",
-          "text_content": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
+          "main_title": "2026年、プログラミング学習は「書く」から「操る」へ。",
+          "sub_title": "4月の最新トピック：AIエージェント活用の波",
+          "text_content": "2026年、プログラミング学習は「書く」から「操る」へ。",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-01.png",
           "image_file": "assets/img/posts/20260413_announcement-01.png",
-          "overlay_text": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-          "subtext": "4月開講！生成AI×専門スキルコースが急増中",
-          "alt": "表紙 - 2026年最新版！AIを「使う側」で終わ"
+          "overlay_text": "2026年、プログラミング学習は「書く」から「操る」へ。",
+          "subtext": "4月の最新トピック：AIエージェント活用の波",
+          "alt": "表紙 - 2026年、プログラミング学習は「書く」"
         },
         {
           "page_number": 2,
@@ -141,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使える」は、もう当たり前の時代に。",
-          "sub_title": "2026年、単純なプロンプト操作は共通言語化しました。今、保護者や学生が直面しているのは『AIを自分の専門性にどう組み込むか』という高度な競争です。",
-          "text_content": "「AIを使える」は、もう当たり前の時代に。",
+          "main_title": "コードを書くだけでは通用しない時代？",
+          "sub_title": "新学期、AIが自動でアプリを完成させる今、子どもたちに必要なのは「指示する力」と「設計力」に変化しています。",
+          "text_content": "コードを書くだけでは通用しない時代？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-02.png",
           "image_file": "assets/img/posts/20260413_announcement-02.png",
-          "overlay_text": "「AIを使える」は、もう当たり前の時代に。",
-          "subtext": "2026年、単純なプロンプト操作は共通言語化しました。今、保護者や学生が直面しているのは『AIを自分の専門性にどう組み込むか』という高度な競争です。",
-          "alt": "内容1 - 「AIを使える」は、もう当たり前の時代に"
+          "overlay_text": "コードを書くだけでは通用しない時代？",
+          "subtext": "新学期、AIが自動でアプリを完成させる今、子どもたちに必要なのは「指示する力」と「設計力」に変化しています。",
+          "alt": "内容1 - コードを書くだけでは通用しない時代？"
         },
         {
           "page_number": 3,
@@ -157,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "掛け算スキルで「市場価値」を10倍にする",
-          "sub_title": "AIデザイン、AIマーケティング、AIコーディング。2026年の新定番ツールを駆使し、1人で10人分の成果を出す『次世代型プロフェッショナル』への道が開かれています。",
-          "text_content": "掛け算スキルで「市場価値」を10倍にする",
+          "main_title": "自律型AIエージェントが学習の相棒に",
+          "sub_title": "2026年の最新コースでは、AIに目標を伝え、デバッグから最適化までをAIと共創する次世代のスキルを習得します。",
+          "text_content": "自律型AIエージェントが学習の相棒に",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-03.png",
           "image_file": "assets/img/posts/20260413_announcement-03.png",
-          "overlay_text": "掛け算スキルで「市場価値」を10倍にする",
-          "subtext": "AIデザイン、AIマーケティング、AIコーディング。2026年の新定番ツールを駆使し、1人で10人分の成果を出す『次世代型プロフェッショナル』への道が開かれています。",
-          "alt": "内容2 - 掛け算スキルで「市場価値」を10倍にする"
+          "overlay_text": "自律型AIエージェントが学習の相棒に",
+          "subtext": "2026年の最新コースでは、AIに目標を伝え、デバッグから最適化までをAIと共創する次世代のスキルを習得します。",
+          "alt": "内容2 - 自律型AIエージェントが学習の相棒に"
         },
         {
           "page_number": 4,
@@ -173,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型AIラーニング」",
-          "sub_title": "動画教材を見るだけでは身につきません。if塾では実案件を想定したワークフローに最新AIを組み込み、2026年の即戦力として通用するポートフォリオを構築します。",
-          "text_content": "if塾が提案する「伴走型AIラーニング」",
+          "main_title": "if塾で学ぶ「AIディレクション術」",
+          "sub_title": "単なるツール利用ではなく、AIの思考プロセスを理解し、複雑な問題を解決する力をif塾独自のカリキュラムで養います。",
+          "text_content": "if塾で学ぶ「AIディレクション術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260413_announcement-04.png",
           "image_file": "assets/img/posts/20260413_announcement-04.png",
-          "overlay_text": "if塾が提案する「伴走型AIラーニング」",
-          "subtext": "動画教材を見るだけでは身につきません。if塾では実案件を想定したワークフローに最新AIを組み込み、2026年の即戦力として通用するポートフォリオを構築します。",
-          "alt": "内容3 - if塾が提案する「伴走型AIラーニング」"
+          "overlay_text": "if塾で学ぶ「AIディレクション術」",
+          "subtext": "単なるツール利用ではなく、AIの思考プロセスを理解し、複雑な問題を解決する力をif塾独自のカリキュラムで養います。",
+          "alt": "内容3 - if塾で学ぶ「AIディレクション術」"
         },
         {
           "page_number": 5,
@@ -244,7 +242,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-13T15:02:01",
+      "research_date": "2026-04-13T21:07:25",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！AIを「使う側」で終わ",
+        "cover_text": "2026年、プログラミング学習は「書く」",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！AIを「使う側」で終わる人、AIと「創る側」へ行く人の差",
-            "subtext": "4月開講！生成AI×専門スキルコースが急増中",
+            "headline": "2026年、プログラミング学習は「書く」から「操る」へ。",
+            "subtext": "4月の最新トピック：AIエージェント活用の波",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを使える」は、もう当たり前の時代に。",
-            "subtext": "2026年、単純なプロンプト操作は共通言語化しました。今、保護者や学生が直面しているのは『AIを自分の専門性にどう組み込むか』という高度な競争です。",
+            "headline": "コードを書くだけでは通用しない時代？",
+            "subtext": "新学期、AIが自動でアプリを完成させる今、子どもたちに必要なのは「指示する力」と「設計力」に変化しています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "掛け算スキルで「市場価値」を10倍にする",
-            "subtext": "AIデザイン、AIマーケティング、AIコーディング。2026年の新定番ツールを駆使し、1人で10人分の成果を出す『次世代型プロフェッショナル』への道が開かれています。",
+            "headline": "自律型AIエージェントが学習の相棒に",
+            "subtext": "2026年の最新コースでは、AIに目標を伝え、デバッグから最適化までをAIと共創する次世代のスキルを習得します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「伴走型AIラーニング」",
-            "subtext": "動画教材を見るだけでは身につきません。if塾では実案件を想定したワークフローに最新AIを組み込み、2026年の即戦力として通用するポートフォリオを構築します。",
+            "headline": "if塾で学ぶ「AIディレクション術」",
+            "subtext": "単なるツール利用ではなく、AIの思考プロセスを理解し、複雑な問題を解決する力をif塾独自のカリキュラムで養います。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
