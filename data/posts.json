@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 95,
-    "last_updated": "2026-04-12T20:40:39.146777",
+    "total_posts": 96,
+    "last_updated": "2026-04-13T11:40:02.541561",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260413_announcement",
+      "post_id": "20260413_announcement",
+      "created_at": "2026-04-13T11:40:02",
+      "datetime": "2026-04-13T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "2026年最新版！ハイブリッド学習の常識",
+      "target_audience": "Students & Parents",
+      "title": "2026年最新版！ハイブリッド学習の常識",
+      "caption": "【2026年4月】新学期が始まり1週間。\nいよいよ「完全ハイブリッド学習」が当たり前の時代になりました。\n\n「塾に通う日は勉強するけれど、家では...」\nそんな悩みはもう過去のものです。\n\nif塾では、2026年度より最新の学習管理ツールを刷新。\nAIがリアルタイムでお子様の理解度をキャッチアップし、\n自宅学習と教室での対面指導をシームレスに繋ぎます。\n\n忙しい令和の学生だからこそ、\nタイパ（タイムパフォーマンス）を最大化した学びを。\n\n今なら「新学期ハイブリッド体験会」実施中！\n詳細はプロフィール欄のリンクからチェックしてください。\n\n#if塾 #2026年度 #新学期 #ハイブリッド学習 #教育DX #中学生ママ #高校生ママ #AI学習 #個別指導 #タイパ学習",
+      "caption_text": "【2026年4月】新学期が始まり1週間。\nいよいよ「完全ハイブリッド学習」が当たり前の時代になりました。\n\n「塾に通う日は勉強するけれど、家では...」\nそんな悩みはもう過去のものです。\n\nif塾では、2026年度より最新の学習管理ツールを刷新。\nAIがリアルタイムでお子様の理解度をキャッチアップし、\n自宅学習と教室での対面指導をシームレスに繋ぎます。\n\n忙しい令和の学生だからこそ、\nタイパ（タイムパフォーマンス）を最大化した学びを。\n\n今なら「新学期ハイブリッド体験会」実施中！\n詳細はプロフィール欄のリンクからチェックしてください。\n\n#if塾 #2026年度 #新学期 #ハイブリッド学習 #教育DX #中学生ママ #高校生ママ #AI学習 #個別指導 #タイパ学習",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#新学期",
+        "#ハイブリッド学習",
+        "#教育ニュース",
+        "#AI教育",
+        "#学習塾"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！ハイブリッド学習の常識",
+          "sub_title": "4/13更新：もう「通うだけ」は古い？",
+          "text_content": "2026年最新版！ハイブリッド学習の常識",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-01.png",
+          "image_file": "assets/img/posts/20260413_announcement-01.png",
+          "overlay_text": "2026年最新版！ハイブリッド学習の常識",
+          "subtext": "4/13更新：もう「通うだけ」は古い？",
+          "alt": "表紙 - 2026年最新版！ハイブリッド学習の常識"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "新学期、お子様の「時間」足りていますか？",
+          "sub_title": "2026年度、部活動の地域移行や探究学習の本格化で、中高生のスケジュールはかつてないほど過密に。従来型の通塾だけでは限界が見え始めています。",
+          "text_content": "新学期、お子様の「時間」足りていますか？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-02.png",
+          "image_file": "assets/img/posts/20260413_announcement-02.png",
+          "overlay_text": "新学期、お子様の「時間」足りていますか？",
+          "subtext": "2026年度、部活動の地域移行や探究学習の本格化で、中高生のスケジュールはかつてないほど過密に。従来型の通塾だけでは限界が見え始めています。",
+          "alt": "内容1 - 新学期、お子様の「時間」足りていますか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI解析×対面指導。これが2026年の標準形",
+          "sub_title": "if塾では最新のAI家庭学習OSを全受講生に導入。自宅での『苦手の自動抽出』と、教室での『思考力の深化』を組み合わせたハイブリッド化が完了しました。",
+          "text_content": "AI解析×対面指導。これが2026年の標準形",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-03.png",
+          "image_file": "assets/img/posts/20260413_announcement-03.png",
+          "overlay_text": "AI解析×対面指導。これが2026年の標準形",
+          "subtext": "if塾では最新のAI家庭学習OSを全受講生に導入。自宅での『苦手の自動抽出』と、教室での『思考力の深化』を組み合わせたハイブリッド化が完了しました。",
+          "alt": "内容2 - AI解析×対面指導。これが2026年の標"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾流】週2通塾で週7の学習効果を",
+          "sub_title": "平日はVR自習室で仲間と繋がり、週末は対面で講師によるフィードバック。場所を選ばない学習スタイルで、隙間時間をすべて「自分専用の学び」に変えましょう。",
+          "text_content": "【if塾流】週2通塾で週7の学習効果を",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-04.png",
+          "image_file": "assets/img/posts/20260413_announcement-04.png",
+          "overlay_text": "【if塾流】週2通塾で週7の学習効果を",
+          "subtext": "平日はVR自習室で仲間と繋がり、週末は対面で講師によるフィードバック。場所を選ばない学習スタイルで、隙間時間をすべて「自分専用の学び」に変えましょう。",
+          "alt": "内容3 - 【if塾流】週2通塾で週7の学習効果を"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！ハイブリッド学習の常識",
+          "sub_title": "4/13更新：もう「通うだけ」は古い？",
+          "text_content": "2026年最新版！ハイブリッド学習の常識",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-01.png",
+          "image_file": "assets/img/posts/20260413_announcement-01.png",
+          "overlay_text": "2026年最新版！ハイブリッド学習の常識",
+          "subtext": "4/13更新：もう「通うだけ」は古い？",
+          "alt": "表紙 - 2026年最新版！ハイブリッド学習の常識"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "新学期、お子様の「時間」足りていますか？",
+          "sub_title": "2026年度、部活動の地域移行や探究学習の本格化で、中高生のスケジュールはかつてないほど過密に。従来型の通塾だけでは限界が見え始めています。",
+          "text_content": "新学期、お子様の「時間」足りていますか？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-02.png",
+          "image_file": "assets/img/posts/20260413_announcement-02.png",
+          "overlay_text": "新学期、お子様の「時間」足りていますか？",
+          "subtext": "2026年度、部活動の地域移行や探究学習の本格化で、中高生のスケジュールはかつてないほど過密に。従来型の通塾だけでは限界が見え始めています。",
+          "alt": "内容1 - 新学期、お子様の「時間」足りていますか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI解析×対面指導。これが2026年の標準形",
+          "sub_title": "if塾では最新のAI家庭学習OSを全受講生に導入。自宅での『苦手の自動抽出』と、教室での『思考力の深化』を組み合わせたハイブリッド化が完了しました。",
+          "text_content": "AI解析×対面指導。これが2026年の標準形",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-03.png",
+          "image_file": "assets/img/posts/20260413_announcement-03.png",
+          "overlay_text": "AI解析×対面指導。これが2026年の標準形",
+          "subtext": "if塾では最新のAI家庭学習OSを全受講生に導入。自宅での『苦手の自動抽出』と、教室での『思考力の深化』を組み合わせたハイブリッド化が完了しました。",
+          "alt": "内容2 - AI解析×対面指導。これが2026年の標"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾流】週2通塾で週7の学習効果を",
+          "sub_title": "平日はVR自習室で仲間と繋がり、週末は対面で講師によるフィードバック。場所を選ばない学習スタイルで、隙間時間をすべて「自分専用の学び」に変えましょう。",
+          "text_content": "【if塾流】週2通塾で週7の学習効果を",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260413_announcement-04.png",
+          "image_file": "assets/img/posts/20260413_announcement-04.png",
+          "overlay_text": "【if塾流】週2通塾で週7の学習効果を",
+          "subtext": "平日はVR自習室で仲間と繋がり、週末は対面で講師によるフィードバック。場所を選ばない学習スタイルで、隙間時間をすべて「自分専用の学び」に変えましょう。",
+          "alt": "内容3 - 【if塾流】週2通塾で週7の学習効果を"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260413_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260413_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260413_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260413_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-13T11:38:27",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年最新版！ハイブリッド学習の常識",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年最新版！ハイブリッド学習の常識",
+            "subtext": "4/13更新：もう「通うだけ」は古い？",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "新学期、お子様の「時間」足りていますか？",
+            "subtext": "2026年度、部活動の地域移行や探究学習の本格化で、中高生のスケジュールはかつてないほど過密に。従来型の通塾だけでは限界が見え始めています。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AI解析×対面指導。これが2026年の標準形",
+            "subtext": "if塾では最新のAI家庭学習OSを全受講生に導入。自宅での『苦手の自動抽出』と、教室での『思考力の深化』を組み合わせたハイブリッド化が完了しました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "【if塾流】週2通塾で週7の学習効果を",
+            "subtext": "平日はVR自習室で仲間と繋がり、週末は対面で講師によるフィードバック。場所を選ばない学習スタイルで、隙間時間をすべて「自分専用の学び」に変えましょう。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260412_activity",
       "post_id": "20260412_activity",
