@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 96,
-    "last_updated": "2026-04-13T21:14:56.630081",
+    "total_posts": 97,
+    "last_updated": "2026-04-14T11:33:35.930750",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260414_education",
+      "post_id": "20260414_education",
+      "created_at": "2026-04-14T11:33:35",
+      "datetime": "2026-04-14T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+      "caption": "【2026年4月】最新の教育ニュースをお届けします！\n\n今年1月に行われた第2回共通テスト「情報I」。\n皆さんはその衝撃の難化傾向をご存知でしょうか？\n\n昨年以上に「思考力」と「応用力」が問われ、\n多くの受験生が苦戦しました。\nもはや「直前の詰め込み」で通用する科目ではありません。\n\n2026年度、現役合格を狙う新高校3年生・2年生にとって、\nこの4月からどう動くかが運命の分かれ道です。\n\nif塾では、最新の試験傾向を徹底分析し、\n「情報」を武器にするためのカリキュラムを用意しています。\n\n「何から始めたらいいかわからない…」\n「プログラミングが苦手で不安…」\n\nそんな悩みを持つ方は、ぜひ一度ご相談ください！\n4月の今なら、まだ間に合います。\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "caption_text": "【2026年4月】最新の教育ニュースをお届けします！\n\n今年1月に行われた第2回共通テスト「情報I」。\n皆さんはその衝撃の難化傾向をご存知でしょうか？\n\n昨年以上に「思考力」と「応用力」が問われ、\n多くの受験生が苦戦しました。\nもはや「直前の詰め込み」で通用する科目ではありません。\n\n2026年度、現役合格を狙う新高校3年生・2年生にとって、\nこの4月からどう動くかが運命の分かれ道です。\n\nif塾では、最新の試験傾向を徹底分析し、\n「情報」を武器にするためのカリキュラムを用意しています。\n\n「何から始めたらいいかわからない…」\n「プログラミングが苦手で不安…」\n\nそんな悩みを持つ方は、ぜひ一度ご相談ください！\n4月の今なら、まだ間に合います。\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#大学入学共通テスト",
+        "#情報I",
+        "#新課程入試",
+        "#大学受験2026",
+        "#高校生ママ",
+        "#教育コラム",
+        "#プログラミング学習"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "sub_title": "2026年4月14日更新：今すぐ始めるべき対策の正体",
+          "text_content": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-01.png",
+          "image_file": "assets/img/posts/20260414_education-01.png",
+          "overlay_text": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "subtext": "2026年4月14日更新：今すぐ始めるべき対策の正体",
+          "alt": "表紙 - 【2026最新】情報Ⅰが「主要科目」へ。"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "sub_title": "今年1月の第2回実施を経て、単なる知識問題から『プログラミングと数学的思考の融合』へ。もはや片手間で対策できるレベルではありません。",
+          "text_content": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-02.png",
+          "image_file": "assets/img/posts/20260414_education-02.png",
+          "overlay_text": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "subtext": "今年1月の第2回実施を経て、単なる知識問題から『プログラミングと数学的思考の融合』へ。もはや片手間で対策できるレベルではありません。",
+          "alt": "内容1 - 「配点100点」の重圧。平均点は下がり、"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "sub_title": "2026年度入試は国立大の配点比率が安定。だからこそ、4月の今から『アルゴリズムの視覚化ツール』で論理構造を体に叩き込む必要があります。",
+          "text_content": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-03.png",
+          "image_file": "assets/img/posts/20260414_education-03.png",
+          "overlay_text": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "subtext": "2026年度入試は国立大の配点比率が安定。だからこそ、4月の今から『アルゴリズムの視覚化ツール』で論理構造を体に叩き込む必要があります。",
+          "alt": "内容2 - if塾が分析する「難化の壁」。Pytho"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "sub_title": "if塾では最新のAIシミュレーターを導入。問題を解くのではなく、プログラムを構築する体験を通じて、共通テスト特有の長文読解力を養います。",
+          "text_content": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-04.png",
+          "image_file": "assets/img/posts/20260414_education-04.png",
+          "overlay_text": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "subtext": "if塾では最新のAIシミュレーターを導入。問題を解くのではなく、プログラムを構築する体験を通じて、共通テスト特有の長文読解力を養います。",
+          "alt": "内容3 - 4月にやるべき「情報戦略」。暗記を捨てて"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "sub_title": "2026年4月14日更新：今すぐ始めるべき対策の正体",
+          "text_content": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-01.png",
+          "image_file": "assets/img/posts/20260414_education-01.png",
+          "overlay_text": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+          "subtext": "2026年4月14日更新：今すぐ始めるべき対策の正体",
+          "alt": "表紙 - 【2026最新】情報Ⅰが「主要科目」へ。"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "sub_title": "今年1月の第2回実施を経て、単なる知識問題から『プログラミングと数学的思考の融合』へ。もはや片手間で対策できるレベルではありません。",
+          "text_content": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-02.png",
+          "image_file": "assets/img/posts/20260414_education-02.png",
+          "overlay_text": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+          "subtext": "今年1月の第2回実施を経て、単なる知識問題から『プログラミングと数学的思考の融合』へ。もはや片手間で対策できるレベルではありません。",
+          "alt": "内容1 - 「配点100点」の重圧。平均点は下がり、"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "sub_title": "2026年度入試は国立大の配点比率が安定。だからこそ、4月の今から『アルゴリズムの視覚化ツール』で論理構造を体に叩き込む必要があります。",
+          "text_content": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-03.png",
+          "image_file": "assets/img/posts/20260414_education-03.png",
+          "overlay_text": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+          "subtext": "2026年度入試は国立大の配点比率が安定。だからこそ、4月の今から『アルゴリズムの視覚化ツール』で論理構造を体に叩き込む必要があります。",
+          "alt": "内容2 - if塾が分析する「難化の壁」。Pytho"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "sub_title": "if塾では最新のAIシミュレーターを導入。問題を解くのではなく、プログラムを構築する体験を通じて、共通テスト特有の長文読解力を養います。",
+          "text_content": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260414_education-04.png",
+          "image_file": "assets/img/posts/20260414_education-04.png",
+          "overlay_text": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+          "subtext": "if塾では最新のAIシミュレーターを導入。問題を解くのではなく、プログラムを構築する体験を通じて、共通テスト特有の長文読解力を養います。",
+          "alt": "内容3 - 4月にやるべき「情報戦略」。暗記を捨てて"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260414_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260414_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260414_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260414_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-14T11:32:02",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報Ⅰが「主要科目」へ。",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報Ⅰが「主要科目」へ。第2回共通テストで見えた衝撃の難化",
+            "subtext": "2026年4月14日更新：今すぐ始めるべき対策の正体",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「配点100点」の重圧。平均点は下がり、浪人生との格差も顕著に",
+            "subtext": "今年1月の第2回実施を経て、単なる知識問題から『プログラミングと数学的思考の融合』へ。もはや片手間で対策できるレベルではありません。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾が分析する「難化の壁」。Python活用能力が合否を分ける時代へ",
+            "subtext": "2026年度入試は国立大の配点比率が安定。だからこそ、4月の今から『アルゴリズムの視覚化ツール』で論理構造を体に叩き込む必要があります。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "4月にやるべき「情報戦略」。暗記を捨てて、コードの『意味』を理解せよ",
+            "subtext": "if塾では最新のAIシミュレーターを導入。問題を解くのではなく、プログラムを構築する体験を通じて、共通テスト特有の長文読解力を養います。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260413_announcement",
       "post_id": "20260413_announcement",
