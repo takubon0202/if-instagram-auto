@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 98,
-    "last_updated": "2026-04-15T21:01:00.103825",
+    "total_posts": 99,
+    "last_updated": "2026-04-16T11:38:29.636476",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260416_ai_column",
+      "post_id": "20260416_ai_column",
+      "created_at": "2026-04-16T11:38:29",
+      "datetime": "2026-04-16T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+      "target_audience": "Students & Parents",
+      "title": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+      "caption": "【2026年4月】新学期が始まり、学習環境は劇的な変化を遂げています。\n\n今、教育現場で最も注目されているのが「AIエージェント」による自律型学習への移行です。\n\nこれまでの「プロンプトを入力して答えを待つ」スタイルから、AIがユーザーの目的を理解し、主体的にタスクを遂行する段階へ。もはやAIは単なる辞書ではなく、目標達成までの道のりを共に歩む「自律的なパートナー」となりました。\n\n指示待ちの学習から、自ら目的を設定し、AIをマネジメントする学習へ。\nこの春、if塾と一緒に「一歩先」の学びを体験してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n\n#AIエージェント #自律型学習 #2026年教育 #if塾 #新学期 #AI教育 #個別最適化",
+      "caption_text": "【2026年4月】新学期が始まり、学習環境は劇的な変化を遂げています。\n\n今、教育現場で最も注目されているのが「AIエージェント」による自律型学習への移行です。\n\nこれまでの「プロンプトを入力して答えを待つ」スタイルから、AIがユーザーの目的を理解し、主体的にタスクを遂行する段階へ。もはやAIは単なる辞書ではなく、目標達成までの道のりを共に歩む「自律的なパートナー」となりました。\n\n指示待ちの学習から、自ら目的を設定し、AIをマネジメントする学習へ。\nこの春、if塾と一緒に「一歩先」の学びを体験してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n\n#AIエージェント #自律型学習 #2026年教育 #if塾 #新学期 #AI教育 #個別最適化",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#自律型学習",
+        "#EdTech",
+        "#リスキリング",
+        "#新学期"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "sub_title": "2026年4月最新：新学期から差がつく自走する学び方",
+          "text_content": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-01.png",
+          "image_file": "assets/img/posts/20260416_ai_column-01.png",
+          "overlay_text": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "subtext": "2026年4月最新：新学期から差がつく自走する学び方",
+          "alt": "表紙 - 指示待ちはもう終わり。AIエージェントで"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすればいい？」と聞く時代は終わりました。",
+          "sub_title": "これまでのAIは回答を待つ『ツール』でしたが、2026年の主流は自ら考え動く『エージェント』。目標を伝えるだけで、学習プランの構築から実行までAIが並走します。",
+          "text_content": "「何をすればいい？」と聞く時代は終わりました。",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-02.png",
+          "image_file": "assets/img/posts/20260416_ai_column-02.png",
+          "overlay_text": "「何をすればいい？」と聞く時代は終わりました。",
+          "subtext": "これまでのAIは回答を待つ『ツール』でしたが、2026年の主流は自ら考え動く『エージェント』。目標を伝えるだけで、学習プランの構築から実行までAIが並走します。",
+          "alt": "内容1 - 「何をすればいい？」と聞く時代は終わりま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "sub_title": "例えば「英検準1級合格」と入力すれば、AIが苦手箇所を特定し、毎日の進捗を管理。わからない箇所はリアルタイムで個別指導を行う、24時間体制の家庭教師が誕生しています。",
+          "text_content": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-03.png",
+          "image_file": "assets/img/posts/20260416_ai_column-03.png",
+          "overlay_text": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "subtext": "例えば「英検準1級合格」と入力すれば、AIが苦手箇所を特定し、毎日の進捗を管理。わからない箇所はリアルタイムで個別指導を行う、24時間体制の家庭教師が誕生しています。",
+          "alt": "内容2 - 目的を入力するだけ。AIが「自律的」に教"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "sub_title": "大切なのは、AIに丸投げすることではありません。AIが提示するプロセスに対して「なぜこの順序なのか？」を問い直すこと。この対話が、2026年以降に求められる本当の思考力を養います。",
+          "text_content": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-04.png",
+          "image_file": "assets/img/posts/20260416_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "subtext": "大切なのは、AIに丸投げすることではありません。AIが提示するプロセスに対して「なぜこの順序なのか？」を問い直すこと。この対話が、2026年以降に求められる本当の思考力を養います。",
+          "alt": "内容3 - if塾の視点：AIを『使いこなす』から『"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "sub_title": "2026年4月最新：新学期から差がつく自走する学び方",
+          "text_content": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-01.png",
+          "image_file": "assets/img/posts/20260416_ai_column-01.png",
+          "overlay_text": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+          "subtext": "2026年4月最新：新学期から差がつく自走する学び方",
+          "alt": "表紙 - 指示待ちはもう終わり。AIエージェントで"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすればいい？」と聞く時代は終わりました。",
+          "sub_title": "これまでのAIは回答を待つ『ツール』でしたが、2026年の主流は自ら考え動く『エージェント』。目標を伝えるだけで、学習プランの構築から実行までAIが並走します。",
+          "text_content": "「何をすればいい？」と聞く時代は終わりました。",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-02.png",
+          "image_file": "assets/img/posts/20260416_ai_column-02.png",
+          "overlay_text": "「何をすればいい？」と聞く時代は終わりました。",
+          "subtext": "これまでのAIは回答を待つ『ツール』でしたが、2026年の主流は自ら考え動く『エージェント』。目標を伝えるだけで、学習プランの構築から実行までAIが並走します。",
+          "alt": "内容1 - 「何をすればいい？」と聞く時代は終わりま"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "sub_title": "例えば「英検準1級合格」と入力すれば、AIが苦手箇所を特定し、毎日の進捗を管理。わからない箇所はリアルタイムで個別指導を行う、24時間体制の家庭教師が誕生しています。",
+          "text_content": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-03.png",
+          "image_file": "assets/img/posts/20260416_ai_column-03.png",
+          "overlay_text": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+          "subtext": "例えば「英検準1級合格」と入力すれば、AIが苦手箇所を特定し、毎日の進捗を管理。わからない箇所はリアルタイムで個別指導を行う、24時間体制の家庭教師が誕生しています。",
+          "alt": "内容2 - 目的を入力するだけ。AIが「自律的」に教"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "sub_title": "大切なのは、AIに丸投げすることではありません。AIが提示するプロセスに対して「なぜこの順序なのか？」を問い直すこと。この対話が、2026年以降に求められる本当の思考力を養います。",
+          "text_content": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260416_ai_column-04.png",
+          "image_file": "assets/img/posts/20260416_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+          "subtext": "大切なのは、AIに丸投げすることではありません。AIが提示するプロセスに対して「なぜこの順序なのか？」を問い直すこと。この対話が、2026年以降に求められる本当の思考力を養います。",
+          "alt": "内容3 - if塾の視点：AIを『使いこなす』から『"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260416_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260416_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260416_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260416_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-16T11:36:57",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示待ちはもう終わり。AIエージェントで",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示待ちはもう終わり。AIエージェントで変わる『自律型学習』の正体",
+            "subtext": "2026年4月最新：新学期から差がつく自走する学び方",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「何をすればいい？」と聞く時代は終わりました。",
+            "subtext": "これまでのAIは回答を待つ『ツール』でしたが、2026年の主流は自ら考え動く『エージェント』。目標を伝えるだけで、学習プランの構築から実行までAIが並走します。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "目的を入力するだけ。AIが「自律的」に教材を完遂させる。",
+            "subtext": "例えば「英検準1級合格」と入力すれば、AIが苦手箇所を特定し、毎日の進捗を管理。わからない箇所はリアルタイムで個別指導を行う、24時間体制の家庭教師が誕生しています。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIを『使いこなす』から『共創する』へ",
+            "subtext": "大切なのは、AIに丸投げすることではありません。AIが提示するプロセスに対して「なぜこの順序なのか？」を問い直すこと。この対話が、2026年以降に求められる本当の思考力を養います。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260415_development",
       "post_id": "20260415_development",
