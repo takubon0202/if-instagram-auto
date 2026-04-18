@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 101,
-    "last_updated": "2026-04-18T11:25:20.840864",
+    "last_updated": "2026-04-18T14:26:07.677929",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260418_activity",
       "post_id": "20260418_activity",
-      "created_at": "2026-04-18T11:25:20",
+      "created_at": "2026-04-18T14:26:07",
       "datetime": "2026-04-18T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
+      "theme": "AIチューター元年！自分専用の先生がつく時代へ",
       "target_audience": "Students & Parents",
-      "title": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-      "caption": "【2026年4月】最新のプログラミング教育の現場からお届けします。\n\n新学期が始まり、if塾の教室では驚くべき変化が起きています。\nかつての「構文を覚える」勉強は過去のものとなり、今は複数の自律型AIエージェントを指揮して、一つのプロダクトを作り上げる『オーケストレーション能力』が求められる時代になりました。\n\n生徒たちの姿は、もはやプログラマーではなく、AIというチームを率いるプロジェクトマネージャーそのもの。\n「AIが書いたコードの意図を読み解く」「論理的な矛盾を指摘する」といった、より高度な論理的思考力が試されています。\n\nif塾では、最新のAIツールを導入するだけでなく、それらを乗りこなすための「人間ならではの視点」を育む指導を継続していきます。\n\nこれからの時代に求められるスキルを、一緒に手に入れませんか？\n\n詳細はプロフィールのリンクから✨",
-      "caption_text": "【2026年4月】最新のプログラミング教育の現場からお届けします。\n\n新学期が始まり、if塾の教室では驚くべき変化が起きています。\nかつての「構文を覚える」勉強は過去のものとなり、今は複数の自律型AIエージェントを指揮して、一つのプロダクトを作り上げる『オーケストレーション能力』が求められる時代になりました。\n\n生徒たちの姿は、もはやプログラマーではなく、AIというチームを率いるプロジェクトマネージャーそのもの。\n「AIが書いたコードの意図を読み解く」「論理的な矛盾を指摘する」といった、より高度な論理的思考力が試されています。\n\nif塾では、最新のAIツールを導入するだけでなく、それらを乗りこなすための「人間ならではの視点」を育む指導を継続していきます。\n\nこれからの時代に求められるスキルを、一緒に手に入れませんか？\n\n詳細はプロフィールのリンクから✨",
+      "title": "AIチューター元年！自分専用の先生がつく時代へ",
+      "caption": "【2026年4月】最新の学習スタイルをご紹介！\n\n新学期が始まり、授業スピードに戸惑う声も増えてきました。\nしかし、2026年の学習現場は劇的に進化しています。\n\nif塾では、生成AIを活用した「AIチューター」によるパーソナライズ学習を本格導入。一人ひとりの苦手箇所を瞬時に特定し、最適な問題を提供します。\n\n「AIに任せきりで大丈夫？」という声もありますが、ご安心ください。\n私たちの役割は、AIが生み出した時間で、生徒一人ひとりの目標に伴走し、心を通わせた対話を行うことです。\n\n最新技術で効率を上げ、人間味ある指導で情熱を育む。\nこれからのif塾にご期待ください！\n\n詳しい学習体験はプロフィールリンクから🔗",
+      "caption_text": "【2026年4月】最新の学習スタイルをご紹介！\n\n新学期が始まり、授業スピードに戸惑う声も増えてきました。\nしかし、2026年の学習現場は劇的に進化しています。\n\nif塾では、生成AIを活用した「AIチューター」によるパーソナライズ学習を本格導入。一人ひとりの苦手箇所を瞬時に特定し、最適な問題を提供します。\n\n「AIに任せきりで大丈夫？」という声もありますが、ご安心ください。\n私たちの役割は、AIが生み出した時間で、生徒一人ひとりの目標に伴走し、心を通わせた対話を行うことです。\n\n最新技術で効率を上げ、人間味ある指導で情熱を育む。\nこれからのif塾にご期待ください！\n\n詳しい学習体験はプロフィールリンクから🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#プログラミング教育",
-        "#オーケストレーター",
-        "#DX教育",
+        "#教育改革",
+        "#生成AI",
+        "#AIチューター",
+        "#パーソナライズ学習",
+        "#個別指導",
         "#新学期",
-        "#自律型AI"
+        "#EdTech"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-          "sub_title": "2026年4月・最新活動レポート",
-          "text_content": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
+          "main_title": "AIチューター元年！自分専用の先生がつく時代へ",
+          "sub_title": "2026年4月最新：パーソナライズ学習の衝撃",
+          "text_content": "AIチューター元年！自分専用の先生がつく時代へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-01.png",
           "image_file": "assets/img/posts/20260418_activity-01.png",
-          "overlay_text": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-          "subtext": "2026年4月・最新活動レポート",
-          "alt": "表紙 - コードを書く時代は終わった？AIを指揮す"
+          "overlay_text": "AIチューター元年！自分専用の先生がつく時代へ",
+          "subtext": "2026年4月最新：パーソナライズ学習の衝撃",
+          "alt": "表紙 - AIチューター元年！自分専用の先生がつく"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」の限界",
-          "sub_title": "2026年春、新学期を迎えた生徒たちが直面しているのは、コードを書く速さではなく「AIにどう命じるか」という新しい壁です。",
-          "text_content": "「プログラミング＝暗記」の限界",
+          "main_title": "「新学期のつまずき」を放置していませんか？",
+          "sub_title": "4月は授業スピードが速く、一人ひとりの苦手が放置されがち。従来の集団指導や自習では、疑問をすぐに解決できないのが課題でした。",
+          "text_content": "「新学期のつまずき」を放置していませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-02.png",
           "image_file": "assets/img/posts/20260418_activity-02.png",
-          "overlay_text": "「プログラミング＝暗記」の限界",
-          "subtext": "2026年春、新学期を迎えた生徒たちが直面しているのは、コードを書く速さではなく「AIにどう命じるか」という新しい壁です。",
-          "alt": "内容1 - 「プログラミング＝暗記」の限界"
+          "overlay_text": "「新学期のつまずき」を放置していませんか？",
+          "subtext": "4月は授業スピードが速く、一人ひとりの苦手が放置されがち。従来の集団指導や自習では、疑問をすぐに解決できないのが課題でした。",
+          "alt": "内容1 - 「新学期のつまずき」を放置していませんか"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントとの「共創」",
-          "sub_title": "if塾の授業では、AIが勝手にコードを書き進める中、生徒は『設計図の修正』と『品質管理』に集中。まるで指揮者のような光景が広がっています。",
-          "text_content": "自律型AIエージェントとの「共創」",
+          "main_title": "AIチューターが生徒の表情から理解度を分析",
+          "sub_title": "2026年最新のAIは、音声対話だけでなくカメラを通じた感情分析も。生徒が「分かったふり」をすると、AIが優しくヒントを出してくれます。",
+          "text_content": "AIチューターが生徒の表情から理解度を分析",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-03.png",
           "image_file": "assets/img/posts/20260418_activity-03.png",
-          "overlay_text": "自律型AIエージェントとの「共創」",
-          "subtext": "if塾の授業では、AIが勝手にコードを書き進める中、生徒は『設計図の修正』と『品質管理』に集中。まるで指揮者のような光景が広がっています。",
-          "alt": "内容2 - 自律型AIエージェントとの「共創」"
+          "overlay_text": "AIチューターが生徒の表情から理解度を分析",
+          "subtext": "2026年最新のAIは、音声対話だけでなくカメラを通じた感情分析も。生徒が「分かったふり」をすると、AIが優しくヒントを出してくれます。",
+          "alt": "内容2 - AIチューターが生徒の表情から理解度を分"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者が教えるのは「問いの質」",
-          "sub_title": "AIが何でもできる今だからこそ、if塾では『何を解決したいか』という定義力を重視。技術を使いこなすための思考体力を鍛えています。",
-          "text_content": "指導者が教えるのは「問いの質」",
+          "main_title": "人間×AIのハイブリッド指導がif塾の強み",
+          "sub_title": "AIが知識を補い、人間の講師は「モチベーション管理」と「対話」に集中。効率的な学習と、深い思考力の両立をif塾は実現します。",
+          "text_content": "人間×AIのハイブリッド指導がif塾の強み",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-04.png",
           "image_file": "assets/img/posts/20260418_activity-04.png",
-          "overlay_text": "指導者が教えるのは「問いの質」",
-          "subtext": "AIが何でもできる今だからこそ、if塾では『何を解決したいか』という定義力を重視。技術を使いこなすための思考体力を鍛えています。",
-          "alt": "内容3 - 指導者が教えるのは「問いの質」"
+          "overlay_text": "人間×AIのハイブリッド指導がif塾の強み",
+          "subtext": "AIが知識を補い、人間の講師は「モチベーション管理」と「対話」に集中。効率的な学習と、深い思考力の両立をif塾は実現します。",
+          "alt": "内容3 - 人間×AIのハイブリッド指導がif塾の強"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-          "sub_title": "2026年4月・最新活動レポート",
-          "text_content": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
+          "main_title": "AIチューター元年！自分専用の先生がつく時代へ",
+          "sub_title": "2026年4月最新：パーソナライズ学習の衝撃",
+          "text_content": "AIチューター元年！自分専用の先生がつく時代へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-01.png",
           "image_file": "assets/img/posts/20260418_activity-01.png",
-          "overlay_text": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-          "subtext": "2026年4月・最新活動レポート",
-          "alt": "表紙 - コードを書く時代は終わった？AIを指揮す"
+          "overlay_text": "AIチューター元年！自分専用の先生がつく時代へ",
+          "subtext": "2026年4月最新：パーソナライズ学習の衝撃",
+          "alt": "表紙 - AIチューター元年！自分専用の先生がつく"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング＝暗記」の限界",
-          "sub_title": "2026年春、新学期を迎えた生徒たちが直面しているのは、コードを書く速さではなく「AIにどう命じるか」という新しい壁です。",
-          "text_content": "「プログラミング＝暗記」の限界",
+          "main_title": "「新学期のつまずき」を放置していませんか？",
+          "sub_title": "4月は授業スピードが速く、一人ひとりの苦手が放置されがち。従来の集団指導や自習では、疑問をすぐに解決できないのが課題でした。",
+          "text_content": "「新学期のつまずき」を放置していませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-02.png",
           "image_file": "assets/img/posts/20260418_activity-02.png",
-          "overlay_text": "「プログラミング＝暗記」の限界",
-          "subtext": "2026年春、新学期を迎えた生徒たちが直面しているのは、コードを書く速さではなく「AIにどう命じるか」という新しい壁です。",
-          "alt": "内容1 - 「プログラミング＝暗記」の限界"
+          "overlay_text": "「新学期のつまずき」を放置していませんか？",
+          "subtext": "4月は授業スピードが速く、一人ひとりの苦手が放置されがち。従来の集団指導や自習では、疑問をすぐに解決できないのが課題でした。",
+          "alt": "内容1 - 「新学期のつまずき」を放置していませんか"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントとの「共創」",
-          "sub_title": "if塾の授業では、AIが勝手にコードを書き進める中、生徒は『設計図の修正』と『品質管理』に集中。まるで指揮者のような光景が広がっています。",
-          "text_content": "自律型AIエージェントとの「共創」",
+          "main_title": "AIチューターが生徒の表情から理解度を分析",
+          "sub_title": "2026年最新のAIは、音声対話だけでなくカメラを通じた感情分析も。生徒が「分かったふり」をすると、AIが優しくヒントを出してくれます。",
+          "text_content": "AIチューターが生徒の表情から理解度を分析",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-03.png",
           "image_file": "assets/img/posts/20260418_activity-03.png",
-          "overlay_text": "自律型AIエージェントとの「共創」",
-          "subtext": "if塾の授業では、AIが勝手にコードを書き進める中、生徒は『設計図の修正』と『品質管理』に集中。まるで指揮者のような光景が広がっています。",
-          "alt": "内容2 - 自律型AIエージェントとの「共創」"
+          "overlay_text": "AIチューターが生徒の表情から理解度を分析",
+          "subtext": "2026年最新のAIは、音声対話だけでなくカメラを通じた感情分析も。生徒が「分かったふり」をすると、AIが優しくヒントを出してくれます。",
+          "alt": "内容2 - AIチューターが生徒の表情から理解度を分"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者が教えるのは「問いの質」",
-          "sub_title": "AIが何でもできる今だからこそ、if塾では『何を解決したいか』という定義力を重視。技術を使いこなすための思考体力を鍛えています。",
-          "text_content": "指導者が教えるのは「問いの質」",
+          "main_title": "人間×AIのハイブリッド指導がif塾の強み",
+          "sub_title": "AIが知識を補い、人間の講師は「モチベーション管理」と「対話」に集中。効率的な学習と、深い思考力の両立をif塾は実現します。",
+          "text_content": "人間×AIのハイブリッド指導がif塾の強み",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260418_activity-04.png",
           "image_file": "assets/img/posts/20260418_activity-04.png",
-          "overlay_text": "指導者が教えるのは「問いの質」",
-          "subtext": "AIが何でもできる今だからこそ、if塾では『何を解決したいか』という定義力を重視。技術を使いこなすための思考体力を鍛えています。",
-          "alt": "内容3 - 指導者が教えるのは「問いの質」"
+          "overlay_text": "人間×AIのハイブリッド指導がif塾の強み",
+          "subtext": "AIが知識を補い、人間の講師は「モチベーション管理」と「対話」に集中。効率的な学習と、深い思考力の両立をif塾は実現します。",
+          "alt": "内容3 - 人間×AIのハイブリッド指導がif塾の強"
         },
         {
           "page_number": 5,
@@ -229,21 +230,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "アプリ開発"
+          "デザイン"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-18T11:23:49",
+      "research_date": "2026-04-18T14:24:34",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コードを書く時代は終わった？AIを指揮す",
+        "cover_text": "AIチューター元年！自分専用の先生がつく",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コードを書く時代は終わった？AIを指揮する「オーケストレーター」への進化",
-            "subtext": "2026年4月・最新活動レポート",
+            "headline": "AIチューター元年！自分専用の先生がつく時代へ",
+            "subtext": "2026年4月最新：パーソナライズ学習の衝撃",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミング＝暗記」の限界",
-            "subtext": "2026年春、新学期を迎えた生徒たちが直面しているのは、コードを書く速さではなく「AIにどう命じるか」という新しい壁です。",
+            "headline": "「新学期のつまずき」を放置していませんか？",
+            "subtext": "4月は授業スピードが速く、一人ひとりの苦手が放置されがち。従来の集団指導や自習では、疑問をすぐに解決できないのが課題でした。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントとの「共創」",
-            "subtext": "if塾の授業では、AIが勝手にコードを書き進める中、生徒は『設計図の修正』と『品質管理』に集中。まるで指揮者のような光景が広がっています。",
+            "headline": "AIチューターが生徒の表情から理解度を分析",
+            "subtext": "2026年最新のAIは、音声対話だけでなくカメラを通じた感情分析も。生徒が「分かったふり」をすると、AIが優しくヒントを出してくれます。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者が教えるのは「問いの質」",
-            "subtext": "AIが何でもできる今だからこそ、if塾では『何を解決したいか』という定義力を重視。技術を使いこなすための思考体力を鍛えています。",
+            "headline": "人間×AIのハイブリッド指導がif塾の強み",
+            "subtext": "AIが知識を補い、人間の講師は「モチベーション管理」と「対話」に集中。効率的な学習と、深い思考力の両立をif塾は実現します。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
