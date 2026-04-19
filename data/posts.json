@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 101,
-    "last_updated": "2026-04-18T20:41:39.052291",
+    "total_posts": 102,
+    "last_updated": "2026-04-19T11:39:41.365314",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260419_activity",
+      "post_id": "20260419_activity",
+      "created_at": "2026-04-19T11:39:41",
+      "datetime": "2026-04-19T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "2026年、プログラミングは「書く」から「共創する」へ",
+      "target_audience": "Students & Parents",
+      "title": "2026年、プログラミングは「書く」から「共創する」へ",
+      "caption": "【2026年4月】最新の授業風景をお届け！\n\n新学期が始まり、if塾では「AI共創型プログラミング」が本格始動しました。🚀\n\n今、プログラミング教育は大きな転換点を迎えています。\nかつてのように構文を暗記する時代は終わり、生成AIを「副操縦士（コパイロット）」としてどう乗りこなすかが重要です。\n\n「AIに全部やらせるの？」\nいいえ、逆です。AIを使いこなすには、より高度な「ロジック」と「検証力」が求められます。\n\n生徒たちは、自分たちのアイデアを形にするスピードが圧倒的に速くなり、ものづくりの楽しさを今まで以上に実感しています！✨\n\nこれからの時代に必須となる「AIとの対話力」。\nif塾で一緒に身につけませんか？\n\n詳細はプロフィール欄のリンクから！",
+      "caption_text": "【2026年4月】最新の授業風景をお届け！\n\n新学期が始まり、if塾では「AI共創型プログラミング」が本格始動しました。🚀\n\n今、プログラミング教育は大きな転換点を迎えています。\nかつてのように構文を暗記する時代は終わり、生成AIを「副操縦士（コパイロット）」としてどう乗りこなすかが重要です。\n\n「AIに全部やらせるの？」\nいいえ、逆です。AIを使いこなすには、より高度な「ロジック」と「検証力」が求められます。\n\n生徒たちは、自分たちのアイデアを形にするスピードが圧倒的に速くなり、ものづくりの楽しさを今まで以上に実感しています！✨\n\nこれからの時代に必須となる「AIとの対話力」。\nif塾で一緒に身につけませんか？\n\n詳細はプロフィール欄のリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#プログラミング教育",
+        "#生成AI",
+        "#AI共創",
+        "#EdTech",
+        "#副操縦士",
+        "#新学期",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、プログラミングは「書く」から「共創する」へ",
+          "sub_title": "4月の最新授業レポ：AI副操縦士（Copilot）の衝撃",
+          "text_content": "2026年、プログラミングは「書く」から「共創する」へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-01.png",
+          "image_file": "assets/img/posts/20260419_activity-01.png",
+          "overlay_text": "2026年、プログラミングは「書く」から「共創する」へ",
+          "subtext": "4月の最新授業レポ：AI副操縦士（Copilot）の衝撃",
+          "alt": "表紙 - 2026年、プログラミングは「書く」から"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードの書き方」で悩む時間はもう古い？",
+          "sub_title": "新学期、複雑化するデジタル課題に直面し「どこから手をつければいいか分からない」と戸惑う生徒たちが増えています。",
+          "text_content": "「コードの書き方」で悩む時間はもう古い？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-02.png",
+          "image_file": "assets/img/posts/20260419_activity-02.png",
+          "overlay_text": "「コードの書き方」で悩む時間はもう古い？",
+          "subtext": "新学期、複雑化するデジタル課題に直面し「どこから手をつければいいか分からない」と戸惑う生徒たちが増えています。",
+          "alt": "内容1 - 「コードの書き方」で悩む時間はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIを「カンニング」ではなく「相棒」にする授業",
+          "sub_title": "最新のAI共創型ツールを導入。生徒たちはAIに指示を出し、バグ修正や最適化をリアルタイムで行う『副操縦士スタイル』に目を輝かせています。",
+          "text_content": "AIを「カンニング」ではなく「相棒」にする授業",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-03.png",
+          "image_file": "assets/img/posts/20260419_activity-03.png",
+          "overlay_text": "AIを「カンニング」ではなく「相棒」にする授業",
+          "subtext": "最新のAI共創型ツールを導入。生徒たちはAIに指示を出し、バグ修正や最適化をリアルタイムで行う『副操縦士スタイル』に目を輝かせています。",
+          "alt": "内容2 - AIを「カンニング」ではなく「相棒」にす"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "sub_title": "AIが書けるからこそ、人間には「何を解決したいか」という意図の明確化と、論理的思考が不可欠。私たちは『AIを使いこなす側』のリーダーを育てます。",
+          "text_content": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-04.png",
+          "image_file": "assets/img/posts/20260419_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "subtext": "AIが書けるからこそ、人間には「何を解決したいか」という意図の明確化と、論理的思考が不可欠。私たちは『AIを使いこなす側』のリーダーを育てます。",
+          "alt": "内容3 - if塾の視点：AI時代にこそ求められる「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年、プログラミングは「書く」から「共創する」へ",
+          "sub_title": "4月の最新授業レポ：AI副操縦士（Copilot）の衝撃",
+          "text_content": "2026年、プログラミングは「書く」から「共創する」へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-01.png",
+          "image_file": "assets/img/posts/20260419_activity-01.png",
+          "overlay_text": "2026年、プログラミングは「書く」から「共創する」へ",
+          "subtext": "4月の最新授業レポ：AI副操縦士（Copilot）の衝撃",
+          "alt": "表紙 - 2026年、プログラミングは「書く」から"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードの書き方」で悩む時間はもう古い？",
+          "sub_title": "新学期、複雑化するデジタル課題に直面し「どこから手をつければいいか分からない」と戸惑う生徒たちが増えています。",
+          "text_content": "「コードの書き方」で悩む時間はもう古い？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-02.png",
+          "image_file": "assets/img/posts/20260419_activity-02.png",
+          "overlay_text": "「コードの書き方」で悩む時間はもう古い？",
+          "subtext": "新学期、複雑化するデジタル課題に直面し「どこから手をつければいいか分からない」と戸惑う生徒たちが増えています。",
+          "alt": "内容1 - 「コードの書き方」で悩む時間はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIを「カンニング」ではなく「相棒」にする授業",
+          "sub_title": "最新のAI共創型ツールを導入。生徒たちはAIに指示を出し、バグ修正や最適化をリアルタイムで行う『副操縦士スタイル』に目を輝かせています。",
+          "text_content": "AIを「カンニング」ではなく「相棒」にする授業",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-03.png",
+          "image_file": "assets/img/posts/20260419_activity-03.png",
+          "overlay_text": "AIを「カンニング」ではなく「相棒」にする授業",
+          "subtext": "最新のAI共創型ツールを導入。生徒たちはAIに指示を出し、バグ修正や最適化をリアルタイムで行う『副操縦士スタイル』に目を輝かせています。",
+          "alt": "内容2 - AIを「カンニング」ではなく「相棒」にす"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "sub_title": "AIが書けるからこそ、人間には「何を解決したいか」という意図の明確化と、論理的思考が不可欠。私たちは『AIを使いこなす側』のリーダーを育てます。",
+          "text_content": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260419_activity-04.png",
+          "image_file": "assets/img/posts/20260419_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代にこそ求められる「問う力」",
+          "subtext": "AIが書けるからこそ、人間には「何を解決したいか」という意図の明確化と、論理的思考が不可欠。私たちは『AIを使いこなす側』のリーダーを育てます。",
+          "alt": "内容3 - if塾の視点：AI時代にこそ求められる「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260419_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260419_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260419_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260419_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-19T11:38:10",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年、プログラミングは「書く」から",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年、プログラミングは「書く」から「共創する」へ",
+            "subtext": "4月の最新授業レポ：AI副操縦士（Copilot）の衝撃",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「コードの書き方」で悩む時間はもう古い？",
+            "subtext": "新学期、複雑化するデジタル課題に直面し「どこから手をつければいいか分からない」と戸惑う生徒たちが増えています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIを「カンニング」ではなく「相棒」にする授業",
+            "subtext": "最新のAI共創型ツールを導入。生徒たちはAIに指示を出し、バグ修正や最適化をリアルタイムで行う『副操縦士スタイル』に目を輝かせています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AI時代にこそ求められる「問う力」",
+            "subtext": "AIが書けるからこそ、人間には「何を解決したいか」という意図の明確化と、論理的思考が不可欠。私たちは『AIを使いこなす側』のリーダーを育てます。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260418_activity",
       "post_id": "20260418_activity",
