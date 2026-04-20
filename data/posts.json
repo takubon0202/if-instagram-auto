@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 103,
-    "last_updated": "2026-04-20T11:40:31.996279",
+    "last_updated": "2026-04-20T15:03:55.871148",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,25 @@
     {
       "id": "20260420_announcement",
       "post_id": "20260420_announcement",
-      "created_at": "2026-04-20T11:40:31",
+      "created_at": "2026-04-20T15:03:55",
       "datetime": "2026-04-20T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "コード不要の時代へ！AIエージェントでゲーム完結",
+      "theme": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
       "target_audience": "Students & Parents",
-      "title": "コード不要の時代へ！AIエージェントでゲーム完結",
-      "caption": "【2026年4月】最新の制作トレンドをお届けします🌸\n\n新学期が始まりましたが、今求められているスキルは劇的に変化しています。2025年までの「AIにコードを書いてもらう」段階から、2026年は「AIエージェントにプロジェクトを完結させる」フェーズへ突入しました。\n\n今、企業やスタートアップが喉から手が出るほど欲しがっているのは、複雑な指示を分解し、複数のAIを使いこなして一つのゲームやWebサービスを自律的に作り上げる力です。\n\nif塾では、この「AIエージェント時代の制作術」を実践的にレクチャーしています。最新の技術を武器に、自分だけのプロダクトを形にしてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #AIエージェント #プログラミング教育 #ノーコード #ゲーム開発 #最新テクノロジー",
-      "caption_text": "【2026年4月】最新の制作トレンドをお届けします🌸\n\n新学期が始まりましたが、今求められているスキルは劇的に変化しています。2025年までの「AIにコードを書いてもらう」段階から、2026年は「AIエージェントにプロジェクトを完結させる」フェーズへ突入しました。\n\n今、企業やスタートアップが喉から手が出るほど欲しがっているのは、複雑な指示を分解し、複数のAIを使いこなして一つのゲームやWebサービスを自律的に作り上げる力です。\n\nif塾では、この「AIエージェント時代の制作術」を実践的にレクチャーしています。最新の技術を武器に、自分だけのプロダクトを形にしてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #AIエージェント #プログラミング教育 #ノーコード #ゲーム開発 #最新テクノロジー",
+      "title": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+      "caption": "【2026年4月】最新の教育トレンドをお届けします！\n\n新年度がスタートして3週間。学習の進み具合はいかがでしょうか？\n2026年のトレンドは、ズバリ「答えを出さないAI」です。\n\n「AIに聞けばすぐわかる」という時代は終わり、\n今は「AIに導いてもらって自分で考える」時代へ。\n\nif塾が本格導入した自律学習支援AIは、\n安易に正解を教えません。\n「ここまでは合ってるよ、次はどう考える？」\nそんなコーチング機能で、お子様の「自走する力」を育てます。\n\n最新のAI学習を、ぜひif塾で体験してください！\n詳細はプロフィールのリンクから✨",
+      "caption_text": "【2026年4月】最新の教育トレンドをお届けします！\n\n新年度がスタートして3週間。学習の進み具合はいかがでしょうか？\n2026年のトレンドは、ズバリ「答えを出さないAI」です。\n\n「AIに聞けばすぐわかる」という時代は終わり、\n今は「AIに導いてもらって自分で考える」時代へ。\n\nif塾が本格導入した自律学習支援AIは、\n安易に正解を教えません。\n「ここまでは合ってるよ、次はどう考える？」\nそんなコーチング機能で、お子様の「自走する力」を育てます。\n\n最新のAI学習を、ぜひif塾で体験してください！\n詳細はプロフィールのリンクから✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#AIエージェント",
-        "#リスキリング",
-        "#未来の教育",
-        "#エンジニア"
+        "#教育DX",
+        "#自律学習",
+        "#AIコーチング",
+        "#新中学生",
+        "#新高校生",
+        "#家庭学習",
+        "#思考力を鍛える"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の時代へ！AIエージェントでゲーム完結",
-          "sub_title": "2026年4月の最新・教育ニュース：if塾",
-          "text_content": "コード不要の時代へ！AIエージェントでゲーム完結",
+          "main_title": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+          "sub_title": "2026.04.20 | 自律型AIコーチングが本格始動",
+          "text_content": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-01.png",
           "image_file": "assets/img/posts/20260420_announcement-01.png",
-          "overlay_text": "コード不要の時代へ！AIエージェントでゲーム完結",
-          "subtext": "2026年4月の最新・教育ニュース：if塾",
-          "alt": "表紙 - コード不要の時代へ！AIエージェントでゲ"
+          "overlay_text": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+          "subtext": "2026.04.20 | 自律型AIコーチングが本格始動",
+          "alt": "表紙 - 【2026年最新】「答えを教えないAI」"
         },
         {
           "page_number": 2,
@@ -58,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIにコードを書かせる」はもう古い？",
-          "sub_title": "2026年、現場では1行ずつコードを書く力より、複数のAIを自律的に動かす「エージェント統括力」が問われています。",
-          "text_content": "「AIにコードを書かせる」はもう古い？",
+          "main_title": "AIに頼りすぎて「思考力」が落ちていませんか？",
+          "sub_title": "従来のAIは即座に答えを出すだけでした。4月からの新学期、ただ答えを写すだけの学習では2026年型の記述式入試には太刀打ちできません。",
+          "text_content": "AIに頼りすぎて「思考力」が落ちていませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-02.png",
           "image_file": "assets/img/posts/20260420_announcement-02.png",
-          "overlay_text": "「AIにコードを書かせる」はもう古い？",
-          "subtext": "2026年、現場では1行ずつコードを書く力より、複数のAIを自律的に動かす「エージェント統括力」が問われています。",
-          "alt": "内容1 - 「AIにコードを書かせる」はもう古い？"
+          "overlay_text": "AIに頼りすぎて「思考力」が落ちていませんか？",
+          "subtext": "従来のAIは即座に答えを出すだけでした。4月からの新学期、ただ答えを写すだけの学習では2026年型の記述式入試には太刀打ちできません。",
+          "alt": "内容1 - AIに頼りすぎて「思考力」が落ちていませ"
         },
         {
           "page_number": 3,
@@ -74,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年春、AIエージェントが制作を完結させる",
-          "sub_title": "指示一つで「企画・設計・開発・テスト」をAIが自動ループ。学生でも数日で高機能なWebやゲームを公開できる時代へ。",
-          "text_content": "2026年春、AIエージェントが制作を完結させる",
+          "main_title": "話題の『自律学習支援AI』があなたのコーチに！",
+          "sub_title": "最新AIは「正解」を隠し、生徒の躓きに合わせて「問いかけ」を投げかけます。自分で答えを導き出す快感を知ることで、主体性が劇的に向上します。",
+          "text_content": "話題の『自律学習支援AI』があなたのコーチに！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-03.png",
           "image_file": "assets/img/posts/20260420_announcement-03.png",
-          "overlay_text": "2026年春、AIエージェントが制作を完結させる",
-          "subtext": "指示一つで「企画・設計・開発・テスト」をAIが自動ループ。学生でも数日で高機能なWebやゲームを公開できる時代へ。",
-          "alt": "内容2 - 2026年春、AIエージェントが制作を完"
+          "overlay_text": "話題の『自律学習支援AI』があなたのコーチに！",
+          "subtext": "最新AIは「正解」を隠し、生徒の躓きに合わせて「問いかけ」を投げかけます。自分で答えを導き出す快感を知ることで、主体性が劇的に向上します。",
+          "alt": "内容2 - 話題の『自律学習支援AI』があなたのコー"
         },
         {
           "page_number": 4,
@@ -90,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AI指揮官」へのステップ",
-          "sub_title": "単なるツール利用ではなく、AIに『正しい思考の枠組み』を与える力を養い、個人のアイデアを即座にプロダクト化します。",
-          "text_content": "if塾で学ぶ「AI指揮官」へのステップ",
+          "main_title": "if塾では「AI×人間」のダブルコーチングを導入",
+          "sub_title": "AIが思考を促し、if塾の講師がそのプロセスを深く対話で深掘りします。自宅学習でも「先生がそばにいるような感覚」で24時間迷わず学習を進められます。",
+          "text_content": "if塾では「AI×人間」のダブルコーチングを導入",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-04.png",
           "image_file": "assets/img/posts/20260420_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AI指揮官」へのステップ",
-          "subtext": "単なるツール利用ではなく、AIに『正しい思考の枠組み』を与える力を養い、個人のアイデアを即座にプロダクト化します。",
-          "alt": "内容3 - if塾で学ぶ「AI指揮官」へのステップ"
+          "overlay_text": "if塾では「AI×人間」のダブルコーチングを導入",
+          "subtext": "AIが思考を促し、if塾の講師がそのプロセスを深く対話で深掘りします。自宅学習でも「先生がそばにいるような感覚」で24時間迷わず学習を進められます。",
+          "alt": "内容3 - if塾では「AI×人間」のダブルコーチン"
         },
         {
           "page_number": 5,
@@ -124,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の時代へ！AIエージェントでゲーム完結",
-          "sub_title": "2026年4月の最新・教育ニュース：if塾",
-          "text_content": "コード不要の時代へ！AIエージェントでゲーム完結",
+          "main_title": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+          "sub_title": "2026.04.20 | 自律型AIコーチングが本格始動",
+          "text_content": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-01.png",
           "image_file": "assets/img/posts/20260420_announcement-01.png",
-          "overlay_text": "コード不要の時代へ！AIエージェントでゲーム完結",
-          "subtext": "2026年4月の最新・教育ニュース：if塾",
-          "alt": "表紙 - コード不要の時代へ！AIエージェントでゲ"
+          "overlay_text": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+          "subtext": "2026.04.20 | 自律型AIコーチングが本格始動",
+          "alt": "表紙 - 【2026年最新】「答えを教えないAI」"
         },
         {
           "page_number": 2,
@@ -140,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIにコードを書かせる」はもう古い？",
-          "sub_title": "2026年、現場では1行ずつコードを書く力より、複数のAIを自律的に動かす「エージェント統括力」が問われています。",
-          "text_content": "「AIにコードを書かせる」はもう古い？",
+          "main_title": "AIに頼りすぎて「思考力」が落ちていませんか？",
+          "sub_title": "従来のAIは即座に答えを出すだけでした。4月からの新学期、ただ答えを写すだけの学習では2026年型の記述式入試には太刀打ちできません。",
+          "text_content": "AIに頼りすぎて「思考力」が落ちていませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-02.png",
           "image_file": "assets/img/posts/20260420_announcement-02.png",
-          "overlay_text": "「AIにコードを書かせる」はもう古い？",
-          "subtext": "2026年、現場では1行ずつコードを書く力より、複数のAIを自律的に動かす「エージェント統括力」が問われています。",
-          "alt": "内容1 - 「AIにコードを書かせる」はもう古い？"
+          "overlay_text": "AIに頼りすぎて「思考力」が落ちていませんか？",
+          "subtext": "従来のAIは即座に答えを出すだけでした。4月からの新学期、ただ答えを写すだけの学習では2026年型の記述式入試には太刀打ちできません。",
+          "alt": "内容1 - AIに頼りすぎて「思考力」が落ちていませ"
         },
         {
           "page_number": 3,
@@ -156,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年春、AIエージェントが制作を完結させる",
-          "sub_title": "指示一つで「企画・設計・開発・テスト」をAIが自動ループ。学生でも数日で高機能なWebやゲームを公開できる時代へ。",
-          "text_content": "2026年春、AIエージェントが制作を完結させる",
+          "main_title": "話題の『自律学習支援AI』があなたのコーチに！",
+          "sub_title": "最新AIは「正解」を隠し、生徒の躓きに合わせて「問いかけ」を投げかけます。自分で答えを導き出す快感を知ることで、主体性が劇的に向上します。",
+          "text_content": "話題の『自律学習支援AI』があなたのコーチに！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-03.png",
           "image_file": "assets/img/posts/20260420_announcement-03.png",
-          "overlay_text": "2026年春、AIエージェントが制作を完結させる",
-          "subtext": "指示一つで「企画・設計・開発・テスト」をAIが自動ループ。学生でも数日で高機能なWebやゲームを公開できる時代へ。",
-          "alt": "内容2 - 2026年春、AIエージェントが制作を完"
+          "overlay_text": "話題の『自律学習支援AI』があなたのコーチに！",
+          "subtext": "最新AIは「正解」を隠し、生徒の躓きに合わせて「問いかけ」を投げかけます。自分で答えを導き出す快感を知ることで、主体性が劇的に向上します。",
+          "alt": "内容2 - 話題の『自律学習支援AI』があなたのコー"
         },
         {
           "page_number": 4,
@@ -172,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AI指揮官」へのステップ",
-          "sub_title": "単なるツール利用ではなく、AIに『正しい思考の枠組み』を与える力を養い、個人のアイデアを即座にプロダクト化します。",
-          "text_content": "if塾で学ぶ「AI指揮官」へのステップ",
+          "main_title": "if塾では「AI×人間」のダブルコーチングを導入",
+          "sub_title": "AIが思考を促し、if塾の講師がそのプロセスを深く対話で深掘りします。自宅学習でも「先生がそばにいるような感覚」で24時間迷わず学習を進められます。",
+          "text_content": "if塾では「AI×人間」のダブルコーチングを導入",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260420_announcement-04.png",
           "image_file": "assets/img/posts/20260420_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AI指揮官」へのステップ",
-          "subtext": "単なるツール利用ではなく、AIに『正しい思考の枠組み』を与える力を養い、個人のアイデアを即座にプロダクト化します。",
-          "alt": "内容3 - if塾で学ぶ「AI指揮官」へのステップ"
+          "overlay_text": "if塾では「AI×人間」のダブルコーチングを導入",
+          "subtext": "AIが思考を促し、if塾の講師がそのプロセスを深く対話で深掘りします。自宅学習でも「先生がそばにいるような感覚」で24時間迷わず学習を進められます。",
+          "alt": "内容3 - if塾では「AI×人間」のダブルコーチン"
         },
         {
           "page_number": 5,
@@ -243,7 +245,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-20T11:38:53",
+      "research_date": "2026-04-20T15:02:17",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コード不要の時代へ！AIエージェントでゲ",
+        "cover_text": "【2026年最新】「答えを教えないAI」",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コード不要の時代へ！AIエージェントでゲーム完結",
-            "subtext": "2026年4月の最新・教育ニュース：if塾",
+            "headline": "【2026年最新】「答えを教えないAI」が変える最新の家庭学習術",
+            "subtext": "2026.04.20 | 自律型AIコーチングが本格始動",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -267,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIにコードを書かせる」はもう古い？",
-            "subtext": "2026年、現場では1行ずつコードを書く力より、複数のAIを自律的に動かす「エージェント統括力」が問われています。",
+            "headline": "AIに頼りすぎて「思考力」が落ちていませんか？",
+            "subtext": "従来のAIは即座に答えを出すだけでした。4月からの新学期、ただ答えを写すだけの学習では2026年型の記述式入試には太刀打ちできません。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -276,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年春、AIエージェントが制作を完結させる",
-            "subtext": "指示一つで「企画・設計・開発・テスト」をAIが自動ループ。学生でも数日で高機能なWebやゲームを公開できる時代へ。",
+            "headline": "話題の『自律学習支援AI』があなたのコーチに！",
+            "subtext": "最新AIは「正解」を隠し、生徒の躓きに合わせて「問いかけ」を投げかけます。自分で答えを導き出す快感を知ることで、主体性が劇的に向上します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -285,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾で学ぶ「AI指揮官」へのステップ",
-            "subtext": "単なるツール利用ではなく、AIに『正しい思考の枠組み』を与える力を養い、個人のアイデアを即座にプロダクト化します。",
+            "headline": "if塾では「AI×人間」のダブルコーチングを導入",
+            "subtext": "AIが思考を促し、if塾の講師がそのプロセスを深く対話で深掘りします。自宅学習でも「先生がそばにいるような感覚」で24時間迷わず学習を進められます。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
