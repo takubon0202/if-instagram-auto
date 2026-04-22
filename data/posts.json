@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 105,
-    "last_updated": "2026-04-22T14:41:22.669803",
+    "last_updated": "2026-04-22T21:04:16.266341",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260422_development",
       "post_id": "20260422_development",
-      "created_at": "2026-04-22T14:41:22",
+      "created_at": "2026-04-22T21:04:16",
       "datetime": "2026-04-22T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+      "theme": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
       "target_audience": "Students & Parents",
-      "title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-      "caption": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、生活のリズムが大きく変わるこの時期。\n2026年の今、AIは「聞けば答える」から「先回りして動く」エージェント型へと完全に進化しました。\n\nif塾では、Gemini 2.5 ProやGPT-4oを活用し、個人のニーズに最適化された『自律型AIアプリ』の開発をサポートしています。\n\n「宿題をリマインドするだけでなく、理解度に合わせて解説動画を探してくる」\nそんな魔法のようなアプリが、中高生でも開発できる時代です。\n\nこれからの時代に求められるのは、AIを使いこなすだけでなく、自分の味方となるエージェントを構築する力。\n\n乗り遅れたくない方は、ぜひプロフィールのリンクから最新のワークショップ情報をチェックしてください！\n\n#if塾 #2026年 #生成AI #Gemini25Pro #GPT4o #AIエージェント #自由研究 #新学期 #プログラミング教育",
-      "caption_text": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、生活のリズムが大きく変わるこの時期。\n2026年の今、AIは「聞けば答える」から「先回りして動く」エージェント型へと完全に進化しました。\n\nif塾では、Gemini 2.5 ProやGPT-4oを活用し、個人のニーズに最適化された『自律型AIアプリ』の開発をサポートしています。\n\n「宿題をリマインドするだけでなく、理解度に合わせて解説動画を探してくる」\nそんな魔法のようなアプリが、中高生でも開発できる時代です。\n\nこれからの時代に求められるのは、AIを使いこなすだけでなく、自分の味方となるエージェントを構築する力。\n\n乗り遅れたくない方は、ぜひプロフィールのリンクから最新のワークショップ情報をチェックしてください！\n\n#if塾 #2026年 #生成AI #Gemini25Pro #GPT4o #AIエージェント #自由研究 #新学期 #プログラミング教育",
+      "title": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+      "caption": "【2026年4月】最新の教育トレンドをお届け！\n\n新学期が始まり、中高生のプログラミング学習は「一つのAIを使う」ステージから「複数のAIを指揮する」ステージへと進化しました。\n\n今、話題の『マルチエージェントAI』を知っていますか？\n例えば、調べ物をするAI、構成を考えるAI、画像を生成するAIを連携させて、自分だけの自動学習アプリを作る子が続出しています。\n\n「難しそう…」と思うかもしれませんが、2026年の最新ツールならノーコード感覚で設計が可能！\n\nif塾では、この春から「AIオーケストレーション講座」をスタート。\nAIに使われるのではなく、AIをチームとして使いこなす次世代のリーダーを目指しましょう！\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "caption_text": "【2026年4月】最新の教育トレンドをお届け！\n\n新学期が始まり、中高生のプログラミング学習は「一つのAIを使う」ステージから「複数のAIを指揮する」ステージへと進化しました。\n\n今、話題の『マルチエージェントAI』を知っていますか？\n例えば、調べ物をするAI、構成を考えるAI、画像を生成するAIを連携させて、自分だけの自動学習アプリを作る子が続出しています。\n\n「難しそう…」と思うかもしれませんが、2026年の最新ツールならノーコード感覚で設計が可能！\n\nif塾では、この春から「AIオーケストレーション講座」をスタート。\nAIに使われるのではなく、AIをチームとして使いこなす次世代のリーダーを目指しましょう！\n\n詳細はプロフィール欄のリンクからチェック！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#Gemini",
-        "#GPT4o",
-        "#AIエージェント",
-        "#アプリ開発",
-        "#DX教育"
+        "#マルチエージェントAI",
+        "#AI教育",
+        "#自由研究2026",
+        "#中高生エンジニア",
+        "#新学期準備",
+        "#AIアプリ開発"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-          "sub_title": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
-          "text_content": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "main_title": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+          "sub_title": "4月の新学期に乗り遅れない！AI連携開発の最前線",
+          "text_content": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-01.png",
           "image_file": "assets/img/posts/20260422_development-01.png",
-          "overlay_text": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-          "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
-          "alt": "表紙 - Gemini 2.5 Proで作る！20"
+          "overlay_text": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+          "subtext": "4月の新学期に乗り遅れない！AI連携開発の最前線",
+          "alt": "表紙 - 2026年最新！中高生が「マルチエージェ"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "新学期、タスク管理に限界を感じていませんか？",
-          "sub_title": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
-          "text_content": "新学期、タスク管理に限界を感じていませんか？",
+          "main_title": "「AIを1つ使う」だけではもう足りない？",
+          "sub_title": "自由研究や部活動のDX化が進む中、単一のチャットAIでは複雑なタスクをこなせないという壁に直面する学生が急増しています。",
+          "text_content": "「AIを1つ使う」だけではもう足りない？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-02.png",
           "image_file": "assets/img/posts/20260422_development-02.png",
-          "overlay_text": "新学期、タスク管理に限界を感じていませんか？",
-          "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
-          "alt": "内容1 - 新学期、タスク管理に限界を感じていません"
+          "overlay_text": "「AIを1つ使う」だけではもう足りない？",
+          "subtext": "自由研究や部活動のDX化が進む中、単一のチャットAIでは複雑なタスクをこなせないという壁に直面する学生が急増しています。",
+          "alt": "内容1 - 「AIを1つ使う」だけではもう足りない？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
-          "sub_title": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
-          "text_content": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "main_title": "複数のAIが「会議」して解決する仕組み",
+          "sub_title": "2026年主流の『Agent-Orchestration』ツールを使えば、実行役・検証役・修正役のAIを連携させ、自律的にアプリを動かすことが可能です。",
+          "text_content": "複数のAIが「会議」して解決する仕組み",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-03.png",
           "image_file": "assets/img/posts/20260422_development-03.png",
-          "overlay_text": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
-          "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
-          "alt": "内容2 - GPT-4o×Gemini 2.5 Pr"
+          "overlay_text": "複数のAIが「会議」して解決する仕組み",
+          "subtext": "2026年主流の『Agent-Orchestration』ツールを使えば、実行役・検証役・修正役のAIを連携させ、自律的にアプリを動かすことが可能です。",
+          "alt": "内容2 - 複数のAIが「会議」して解決する仕組み"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：学習効率が300%向上した驚きの結果",
-          "sub_title": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
-          "text_content": "if塾流：学習効率が300%向上した驚きの結果",
+          "main_title": "if塾生は「AIチーム」の司令塔になる",
+          "sub_title": "コードを書くのではなく、AI同士の役割を設計する『プロンプト・アーキテクチャ』を伝授。中高生が1週間で多機能アプリを完成させています。",
+          "text_content": "if塾生は「AIチーム」の司令塔になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-04.png",
           "image_file": "assets/img/posts/20260422_development-04.png",
-          "overlay_text": "if塾流：学習効率が300%向上した驚きの結果",
-          "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
-          "alt": "内容3 - if塾流：学習効率が300%向上した驚き"
+          "overlay_text": "if塾生は「AIチーム」の司令塔になる",
+          "subtext": "コードを書くのではなく、AI同士の役割を設計する『プロンプト・アーキテクチャ』を伝授。中高生が1週間で多機能アプリを完成させています。",
+          "alt": "内容3 - if塾生は「AIチーム」の司令塔になる"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-          "sub_title": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
-          "text_content": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "main_title": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+          "sub_title": "4月の新学期に乗り遅れない！AI連携開発の最前線",
+          "text_content": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-01.png",
           "image_file": "assets/img/posts/20260422_development-01.png",
-          "overlay_text": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-          "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
-          "alt": "表紙 - Gemini 2.5 Proで作る！20"
+          "overlay_text": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+          "subtext": "4月の新学期に乗り遅れない！AI連携開発の最前線",
+          "alt": "表紙 - 2026年最新！中高生が「マルチエージェ"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "新学期、タスク管理に限界を感じていませんか？",
-          "sub_title": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
-          "text_content": "新学期、タスク管理に限界を感じていませんか？",
+          "main_title": "「AIを1つ使う」だけではもう足りない？",
+          "sub_title": "自由研究や部活動のDX化が進む中、単一のチャットAIでは複雑なタスクをこなせないという壁に直面する学生が急増しています。",
+          "text_content": "「AIを1つ使う」だけではもう足りない？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-02.png",
           "image_file": "assets/img/posts/20260422_development-02.png",
-          "overlay_text": "新学期、タスク管理に限界を感じていませんか？",
-          "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
-          "alt": "内容1 - 新学期、タスク管理に限界を感じていません"
+          "overlay_text": "「AIを1つ使う」だけではもう足りない？",
+          "subtext": "自由研究や部活動のDX化が進む中、単一のチャットAIでは複雑なタスクをこなせないという壁に直面する学生が急増しています。",
+          "alt": "内容1 - 「AIを1つ使う」だけではもう足りない？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
-          "sub_title": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
-          "text_content": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "main_title": "複数のAIが「会議」して解決する仕組み",
+          "sub_title": "2026年主流の『Agent-Orchestration』ツールを使えば、実行役・検証役・修正役のAIを連携させ、自律的にアプリを動かすことが可能です。",
+          "text_content": "複数のAIが「会議」して解決する仕組み",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-03.png",
           "image_file": "assets/img/posts/20260422_development-03.png",
-          "overlay_text": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
-          "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
-          "alt": "内容2 - GPT-4o×Gemini 2.5 Pr"
+          "overlay_text": "複数のAIが「会議」して解決する仕組み",
+          "subtext": "2026年主流の『Agent-Orchestration』ツールを使えば、実行役・検証役・修正役のAIを連携させ、自律的にアプリを動かすことが可能です。",
+          "alt": "内容2 - 複数のAIが「会議」して解決する仕組み"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：学習効率が300%向上した驚きの結果",
-          "sub_title": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
-          "text_content": "if塾流：学習効率が300%向上した驚きの結果",
+          "main_title": "if塾生は「AIチーム」の司令塔になる",
+          "sub_title": "コードを書くのではなく、AI同士の役割を設計する『プロンプト・アーキテクチャ』を伝授。中高生が1週間で多機能アプリを完成させています。",
+          "text_content": "if塾生は「AIチーム」の司令塔になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-04.png",
           "image_file": "assets/img/posts/20260422_development-04.png",
-          "overlay_text": "if塾流：学習効率が300%向上した驚きの結果",
-          "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
-          "alt": "内容3 - if塾流：学習効率が300%向上した驚き"
+          "overlay_text": "if塾生は「AIチーム」の司令塔になる",
+          "subtext": "コードを書くのではなく、AI同士の役割を設計する『プロンプト・アーキテクチャ』を伝授。中高生が1週間で多機能アプリを完成させています。",
+          "alt": "内容3 - if塾生は「AIチーム」の司令塔になる"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "アプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "yamazaki_takumi",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-22T14:39:45",
+      "research_date": "2026-04-22T21:02:39",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Gemini 2.5 Proで作る！20",
+        "cover_text": "2026年最新！中高生が「マルチエージェ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
-            "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
+            "headline": "2026年最新！中高生が「マルチエージェントAI」を自作する時代へ",
+            "subtext": "4月の新学期に乗り遅れない！AI連携開発の最前線",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "新学期、タスク管理に限界を感じていませんか？",
-            "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
+            "headline": "「AIを1つ使う」だけではもう足りない？",
+            "subtext": "自由研究や部活動のDX化が進む中、単一のチャットAIでは複雑なタスクをこなせないという壁に直面する学生が急増しています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
-            "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
+            "headline": "複数のAIが「会議」して解決する仕組み",
+            "subtext": "2026年主流の『Agent-Orchestration』ツールを使えば、実行役・検証役・修正役のAIを連携させ、自律的にアプリを動かすことが可能です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：学習効率が300%向上した驚きの結果",
-            "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
+            "headline": "if塾生は「AIチーム」の司令塔になる",
+            "subtext": "コードを書くのではなく、AI同士の役割を設計する『プロンプト・アーキテクチャ』を伝授。中高生が1週間で多機能アプリを完成させています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
