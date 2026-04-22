@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 105,
-    "last_updated": "2026-04-22T11:33:59.064599",
+    "last_updated": "2026-04-22T14:41:22.669803",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260422_development",
       "post_id": "20260422_development",
-      "created_at": "2026-04-22T11:33:59",
+      "created_at": "2026-04-22T14:41:22",
       "datetime": "2026-04-22T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
+      "theme": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
       "target_audience": "Students & Parents",
-      "title": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-      "caption": "【2026年4月】最新の開発トレンドをお届け！\n\n新学期が始まり、if塾の学生たちが開発するAIもさらに進化しています。\n今、最も注目されているのが「自律型AIエージェント」です。\n\n「これをやっておいて」と一言伝えるだけで、AIが自ら考え、必要なツールを使い、タスクを完結させる。もはやSFの世界ではなく、2026年の学生たちが日常的に実装している技術です。\n\nこれからの時代、大切なのは「やり方を知っていること」よりも「AIをどう指揮するか」というディレクション能力。\n\nif塾では、こうした最先端の技術を武器に、社会を変えるアウトプットを続々と生み出しています！\n\n詳細はプロフィールのリンクをチェック！🚀",
-      "caption_text": "【2026年4月】最新の開発トレンドをお届け！\n\n新学期が始まり、if塾の学生たちが開発するAIもさらに進化しています。\n今、最も注目されているのが「自律型AIエージェント」です。\n\n「これをやっておいて」と一言伝えるだけで、AIが自ら考え、必要なツールを使い、タスクを完結させる。もはやSFの世界ではなく、2026年の学生たちが日常的に実装している技術です。\n\nこれからの時代、大切なのは「やり方を知っていること」よりも「AIをどう指揮するか」というディレクション能力。\n\nif塾では、こうした最先端の技術を武器に、社会を変えるアウトプットを続々と生み出しています！\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+      "caption": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、生活のリズムが大きく変わるこの時期。\n2026年の今、AIは「聞けば答える」から「先回りして動く」エージェント型へと完全に進化しました。\n\nif塾では、Gemini 2.5 ProやGPT-4oを活用し、個人のニーズに最適化された『自律型AIアプリ』の開発をサポートしています。\n\n「宿題をリマインドするだけでなく、理解度に合わせて解説動画を探してくる」\nそんな魔法のようなアプリが、中高生でも開発できる時代です。\n\nこれからの時代に求められるのは、AIを使いこなすだけでなく、自分の味方となるエージェントを構築する力。\n\n乗り遅れたくない方は、ぜひプロフィールのリンクから最新のワークショップ情報をチェックしてください！\n\n#if塾 #2026年 #生成AI #Gemini25Pro #GPT4o #AIエージェント #自由研究 #新学期 #プログラミング教育",
+      "caption_text": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、生活のリズムが大きく変わるこの時期。\n2026年の今、AIは「聞けば答える」から「先回りして動く」エージェント型へと完全に進化しました。\n\nif塾では、Gemini 2.5 ProやGPT-4oを活用し、個人のニーズに最適化された『自律型AIアプリ』の開発をサポートしています。\n\n「宿題をリマインドするだけでなく、理解度に合わせて解説動画を探してくる」\nそんな魔法のようなアプリが、中高生でも開発できる時代です。\n\nこれからの時代に求められるのは、AIを使いこなすだけでなく、自分の味方となるエージェントを構築する力。\n\n乗り遅れたくない方は、ぜひプロフィールのリンクから最新のワークショップ情報をチェックしてください！\n\n#if塾 #2026年 #生成AI #Gemini25Pro #GPT4o #AIエージェント #自由研究 #新学期 #プログラミング教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#自律型AIエージェント",
-        "#AI開発",
-        "#プログラミング学習",
-        "#自由研究",
+        "#生成AI",
+        "#Gemini",
+        "#GPT4o",
         "#AIエージェント",
-        "#最新技術"
+        "#アプリ開発",
+        "#DX教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-          "sub_title": "【2026年4月最新版】新学期に注目の自律型AI開発ニュース",
-          "text_content": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
+          "main_title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "sub_title": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
+          "text_content": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-01.png",
           "image_file": "assets/img/posts/20260422_development-01.png",
-          "overlay_text": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-          "subtext": "【2026年4月最新版】新学期に注目の自律型AI開発ニュース",
-          "alt": "表紙 - 勝手に動くAI？学生が開発した「自律型エ"
+          "overlay_text": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
+          "alt": "表紙 - Gemini 2.5 Proで作る！20"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」はもう古い？",
-          "sub_title": "これまでは一回ずつプロンプトを打つのが普通でしたが、2026年の今はAIが自分で考え、次のタスクを決める時代に。学生たちの悩みは『AIをどう使うか』から『どう動いてもらうか』へ。 ",
-          "text_content": "「指示待ちAI」はもう古い？",
+          "main_title": "新学期、タスク管理に限界を感じていませんか？",
+          "sub_title": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
+          "text_content": "新学期、タスク管理に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-02.png",
           "image_file": "assets/img/posts/20260422_development-02.png",
-          "overlay_text": "「指示待ちAI」はもう古い？",
-          "subtext": "これまでは一回ずつプロンプトを打つのが普通でしたが、2026年の今はAIが自分で考え、次のタスクを決める時代に。学生たちの悩みは『AIをどう使うか』から『どう動いてもらうか』へ。 ",
-          "alt": "内容1 - 「指示待ちAI」はもう古い？"
+          "overlay_text": "新学期、タスク管理に限界を感じていませんか？",
+          "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
+          "alt": "内容1 - 新学期、タスク管理に限界を感じていません"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "判断から実行まで。自走するAIの仕組み",
-          "sub_title": "2026年最新のAgentic Workflowを採用。目的を伝えるだけで、AIが自らブラウジング、コード実行、レポート作成を完結させます。中高生の個人開発でも実装者が急増中！",
-          "text_content": "判断から実行まで。自走するAIの仕組み",
+          "main_title": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "sub_title": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
+          "text_content": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-03.png",
           "image_file": "assets/img/posts/20260422_development-03.png",
-          "overlay_text": "判断から実行まで。自走するAIの仕組み",
-          "subtext": "2026年最新のAgentic Workflowを採用。目的を伝えるだけで、AIが自らブラウジング、コード実行、レポート作成を完結させます。中高生の個人開発でも実装者が急増中！",
-          "alt": "内容2 - 判断から実行まで。自走するAIの仕組み"
+          "overlay_text": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
+          "alt": "内容2 - GPT-4o×Gemini 2.5 Pr"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾での活用：学習効率が5倍に",
-          "sub_title": "if塾生は、自分の苦手分野をAIエージェントに分析させ、自動でカリキュラムを組ませる仕組みを開発。単なるツールではなく、共に成長する『デジタル相棒』が誕生しています。",
-          "text_content": "if塾での活用：学習効率が5倍に",
+          "main_title": "if塾流：学習効率が300%向上した驚きの結果",
+          "sub_title": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
+          "text_content": "if塾流：学習効率が300%向上した驚きの結果",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-04.png",
           "image_file": "assets/img/posts/20260422_development-04.png",
-          "overlay_text": "if塾での活用：学習効率が5倍に",
-          "subtext": "if塾生は、自分の苦手分野をAIエージェントに分析させ、自動でカリキュラムを組ませる仕組みを開発。単なるツールではなく、共に成長する『デジタル相棒』が誕生しています。",
-          "alt": "内容3 - if塾での活用：学習効率が5倍に"
+          "overlay_text": "if塾流：学習効率が300%向上した驚きの結果",
+          "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
+          "alt": "内容3 - if塾流：学習効率が300%向上した驚き"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-          "sub_title": "【2026年4月最新版】新学期に注目の自律型AI開発ニュース",
-          "text_content": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
+          "main_title": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "sub_title": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
+          "text_content": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-01.png",
           "image_file": "assets/img/posts/20260422_development-01.png",
-          "overlay_text": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-          "subtext": "【2026年4月最新版】新学期に注目の自律型AI開発ニュース",
-          "alt": "表紙 - 勝手に動くAI？学生が開発した「自律型エ"
+          "overlay_text": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+          "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
+          "alt": "表紙 - Gemini 2.5 Proで作る！20"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」はもう古い？",
-          "sub_title": "これまでは一回ずつプロンプトを打つのが普通でしたが、2026年の今はAIが自分で考え、次のタスクを決める時代に。学生たちの悩みは『AIをどう使うか』から『どう動いてもらうか』へ。 ",
-          "text_content": "「指示待ちAI」はもう古い？",
+          "main_title": "新学期、タスク管理に限界を感じていませんか？",
+          "sub_title": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
+          "text_content": "新学期、タスク管理に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-02.png",
           "image_file": "assets/img/posts/20260422_development-02.png",
-          "overlay_text": "「指示待ちAI」はもう古い？",
-          "subtext": "これまでは一回ずつプロンプトを打つのが普通でしたが、2026年の今はAIが自分で考え、次のタスクを決める時代に。学生たちの悩みは『AIをどう使うか』から『どう動いてもらうか』へ。 ",
-          "alt": "内容1 - 「指示待ちAI」はもう古い？"
+          "overlay_text": "新学期、タスク管理に限界を感じていませんか？",
+          "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
+          "alt": "内容1 - 新学期、タスク管理に限界を感じていません"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "判断から実行まで。自走するAIの仕組み",
-          "sub_title": "2026年最新のAgentic Workflowを採用。目的を伝えるだけで、AIが自らブラウジング、コード実行、レポート作成を完結させます。中高生の個人開発でも実装者が急増中！",
-          "text_content": "判断から実行まで。自走するAIの仕組み",
+          "main_title": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "sub_title": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
+          "text_content": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-03.png",
           "image_file": "assets/img/posts/20260422_development-03.png",
-          "overlay_text": "判断から実行まで。自走するAIの仕組み",
-          "subtext": "2026年最新のAgentic Workflowを採用。目的を伝えるだけで、AIが自らブラウジング、コード実行、レポート作成を完結させます。中高生の個人開発でも実装者が急増中！",
-          "alt": "内容2 - 判断から実行まで。自走するAIの仕組み"
+          "overlay_text": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+          "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
+          "alt": "内容2 - GPT-4o×Gemini 2.5 Pr"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾での活用：学習効率が5倍に",
-          "sub_title": "if塾生は、自分の苦手分野をAIエージェントに分析させ、自動でカリキュラムを組ませる仕組みを開発。単なるツールではなく、共に成長する『デジタル相棒』が誕生しています。",
-          "text_content": "if塾での活用：学習効率が5倍に",
+          "main_title": "if塾流：学習効率が300%向上した驚きの結果",
+          "sub_title": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
+          "text_content": "if塾流：学習効率が300%向上した驚きの結果",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260422_development-04.png",
           "image_file": "assets/img/posts/20260422_development-04.png",
-          "overlay_text": "if塾での活用：学習効率が5倍に",
-          "subtext": "if塾生は、自分の苦手分野をAIエージェントに分析させ、自動でカリキュラムを組ませる仕組みを開発。単なるツールではなく、共に成長する『デジタル相棒』が誕生しています。",
-          "alt": "内容3 - if塾での活用：学習効率が5倍に"
+          "overlay_text": "if塾流：学習効率が300%向上した驚きの結果",
+          "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
+          "alt": "内容3 - if塾流：学習効率が300%向上した驚き"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "井上陽斗",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "デザイン"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-22T11:32:24",
+      "research_date": "2026-04-22T14:39:45",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "勝手に動くAI？学生が開発した「自律型エ",
+        "cover_text": "Gemini 2.5 Proで作る！20",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "勝手に動くAI？学生が開発した「自律型エージェント」が凄すぎる",
-            "subtext": "【2026年4月最新版】新学期に注目の自律型AI開発ニュース",
+            "headline": "Gemini 2.5 Proで作る！2026年型AIエージェント開発術",
+            "subtext": "4月の最新ニュース：自律型アプリが当たり前の時代へ",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ちAI」はもう古い？",
-            "subtext": "これまでは一回ずつプロンプトを打つのが普通でしたが、2026年の今はAIが自分で考え、次のタスクを決める時代に。学生たちの悩みは『AIをどう使うか』から『どう動いてもらうか』へ。 ",
+            "headline": "新学期、タスク管理に限界を感じていませんか？",
+            "subtext": "「指示待ちAI」ではもう足りない。2026年の学生・保護者が求めるのは、自ら考えて動くパートナーです。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "判断から実行まで。自走するAIの仕組み",
-            "subtext": "2026年最新のAgentic Workflowを採用。目的を伝えるだけで、AIが自らブラウジング、コード実行、レポート作成を完結させます。中高生の個人開発でも実装者が急増中！",
+            "headline": "GPT-4o×Gemini 2.5 Proのマルチモーダル連携",
+            "subtext": "最新のAIエージェントは、カメラで課題を見るだけでスケジュールを自動生成し、必要な資料まで揃えます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾での活用：学習効率が5倍に",
-            "subtext": "if塾生は、自分の苦手分野をAIエージェントに分析させ、自動でカリキュラムを組ませる仕組みを開発。単なるツールではなく、共に成長する『デジタル相棒』が誕生しています。",
+            "headline": "if塾流：学習効率が300%向上した驚きの結果",
+            "subtext": "単なるツールではなく、24時間寄り添う「専属メンター」を自作。AIを『使う』から『創る』側へ。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
