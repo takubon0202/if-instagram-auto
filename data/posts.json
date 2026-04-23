@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 106,
-    "last_updated": "2026-04-23T11:37:55.058919",
+    "last_updated": "2026-04-23T14:53:48.584212",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,25 @@
     {
       "id": "20260423_ai_column",
       "post_id": "20260423_ai_column",
-      "created_at": "2026-04-23T11:37:55",
+      "created_at": "2026-04-23T14:53:48",
       "datetime": "2026-04-23T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+      "theme": "Gemini 3.0 教育版が無料開放！",
       "target_audience": "Students & Parents",
-      "title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-      "caption": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、タスクに追われていませんか？\n2026年の今、AIは「指示を待つツール」から「自ら考えて動くパートナー」へと進化しました。\n\n「AIエージェント」の自律化により、私たちは細かい操作から解放され、よりクリエイティブな決定に集中できるようになっています。\n\n特に受験生や保護者の皆様にとって、膨大な情報収集やスケジュール管理をAIが先回りして提案してくれる恩恵は計り知れません。\n\n大切なのは、AIの提案を鵜呑みにせず「最後に選ぶ力」を養うこと。\nif塾では、そんな次世代のAI活用術を教えています。\n\n最新のAI活用で、最高のスタートダッシュを切りましょう！\n\n#if塾 #2026年 #AIエージェント #自律型AI #生産性向上 #教育ICT #新学期 #DX",
-      "caption_text": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、タスクに追われていませんか？\n2026年の今、AIは「指示を待つツール」から「自ら考えて動くパートナー」へと進化しました。\n\n「AIエージェント」の自律化により、私たちは細かい操作から解放され、よりクリエイティブな決定に集中できるようになっています。\n\n特に受験生や保護者の皆様にとって、膨大な情報収集やスケジュール管理をAIが先回りして提案してくれる恩恵は計り知れません。\n\n大切なのは、AIの提案を鵜呑みにせず「最後に選ぶ力」を養うこと。\nif塾では、そんな次世代のAI活用術を教えています。\n\n最新のAI活用で、最高のスタートダッシュを切りましょう！\n\n#if塾 #2026年 #AIエージェント #自律型AI #生産性向上 #教育ICT #新学期 #DX",
+      "title": "Gemini 3.0 教育版が無料開放！",
+      "caption": "【2026年4月】最新AIニュースをお届け！\n\n新学期が始まって約1ヶ月。ついにGoogleが動きました。\n「Gemini 3.0 教育版」が全ての学生・教育関係者に無料開放！\n\nさらに、NotebookLMのクイズ自動生成機能が劇的アップデート。\n配布されたPDFを読み込ませるだけで、数秒で単語テストや記述対策問題が完成します。\n\n「AIに頼ると馬鹿になる」はもう過去の話。\nこれからは「AIを家庭教師にして効率化する」のが2026年の新常識です。\n\nif塾では最新ツールを正しく使い、本質的な思考力を伸ばす指導を行っています。\nこの波に乗り遅れないよう、まずはNotebookLMを触ってみてくださいね！\n\n詳細は公式LINEにて配信中✨",
+      "caption_text": "【2026年4月】最新AIニュースをお届け！\n\n新学期が始まって約1ヶ月。ついにGoogleが動きました。\n「Gemini 3.0 教育版」が全ての学生・教育関係者に無料開放！\n\nさらに、NotebookLMのクイズ自動生成機能が劇的アップデート。\n配布されたPDFを読み込ませるだけで、数秒で単語テストや記述対策問題が完成します。\n\n「AIに頼ると馬鹿になる」はもう過去の話。\nこれからは「AIを家庭教師にして効率化する」のが2026年の新常識です。\n\nif塾では最新ツールを正しく使い、本質的な思考力を伸ばす指導を行っています。\nこの波に乗り遅れないよう、まずはNotebookLMを触ってみてくださいね！\n\n詳細は公式LINEにて配信中✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#自律型AI",
-        "#最新テクノロジー",
-        "#教育革命"
+        "#教育AI",
+        "#Gemini",
+        "#NotebookLM",
+        "#新学期",
+        "#勉強法",
+        "#DX教育",
+        "#テスト対策"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-          "sub_title": "2026年4月最新：AIエージェントの自律化が加速中",
-          "text_content": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "main_title": "Gemini 3.0 教育版が無料開放！",
+          "sub_title": "2026年4月最新：勉強効率が劇的に変わる神アプデ",
+          "text_content": "Gemini 3.0 教育版が無料開放！",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-01.png",
           "image_file": "assets/img/posts/20260423_ai_column-01.png",
-          "overlay_text": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-          "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
-          "alt": "表紙 - 指示待ちはもう終わり。2026年「勝手に"
+          "overlay_text": "Gemini 3.0 教育版が無料開放！",
+          "subtext": "2026年4月最新：勉強効率が劇的に変わる神アプデ",
+          "alt": "表紙 - Gemini 3.0 教育版が無料開放！"
         },
         {
           "page_number": 2,
@@ -57,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "新学期、AIに「何をさせるか」で悩んでいませんか？",
-          "sub_title": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
-          "text_content": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "main_title": "新学期、膨大な課題に溺れていませんか？",
+          "sub_title": "2026年の学習スピードは加速。Gemini 3.0が全学生に開放され、AIを使いこなせるかどうかが成績の分かれ道に。",
+          "text_content": "新学期、膨大な課題に溺れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-02.png",
           "image_file": "assets/img/posts/20260423_ai_column-02.png",
-          "overlay_text": "新学期、AIに「何をさせるか」で悩んでいませんか？",
-          "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
-          "alt": "内容1 - 新学期、AIに「何をさせるか」で悩んでい"
+          "overlay_text": "新学期、膨大な課題に溺れていませんか？",
+          "subtext": "2026年の学習スピードは加速。Gemini 3.0が全学生に開放され、AIを使いこなせるかどうかが成績の分かれ道に。",
+          "alt": "内容1 - 新学期、膨大な課題に溺れていませんか？"
         },
         {
           "page_number": 3,
@@ -73,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「〇〇しておいて」だけで完結する最新活用術",
-          "sub_title": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
-          "text_content": "「〇〇しておいて」だけで完結する最新活用術",
+          "main_title": "NotebookLMで「自分専用クイズ」を自動生成",
+          "sub_title": "教科書を読み込ませるだけで即座にテスト対策。最新のアップデートで、記述式問題の添削精度も人間レベルに進化しました。",
+          "text_content": "NotebookLMで「自分専用クイズ」を自動生成",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-03.png",
           "image_file": "assets/img/posts/20260423_ai_column-03.png",
-          "overlay_text": "「〇〇しておいて」だけで完結する最新活用術",
-          "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
-          "alt": "内容2 - 「〇〇しておいて」だけで完結する最新活用"
+          "overlay_text": "NotebookLMで「自分専用クイズ」を自動生成",
+          "subtext": "教科書を読み込ませるだけで即座にテスト対策。最新のアップデートで、記述式問題の添削精度も人間レベルに進化しました。",
+          "alt": "内容2 - NotebookLMで「自分専用クイズ」"
         },
         {
           "page_number": 4,
@@ -89,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "プロの視点：AIを「部下」ではなく「パートナー」に",
-          "sub_title": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
-          "text_content": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "main_title": "if塾の視点：AIは『思考の壁打ち相手』にする",
+          "sub_title": "答えを出すだけでなく「なぜそうなるか」をAIに解説させる。プロンプト不要の対話型UIになった今こそ、深い本質理解に使いましょう。",
+          "text_content": "if塾の視点：AIは『思考の壁打ち相手』にする",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-04.png",
           "image_file": "assets/img/posts/20260423_ai_column-04.png",
-          "overlay_text": "プロの視点：AIを「部下」ではなく「パートナー」に",
-          "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
-          "alt": "内容3 - プロの視点：AIを「部下」ではなく「パー"
+          "overlay_text": "if塾の視点：AIは『思考の壁打ち相手』にする",
+          "subtext": "答えを出すだけでなく「なぜそうなるか」をAIに解説させる。プロンプト不要の対話型UIになった今こそ、深い本質理解に使いましょう。",
+          "alt": "内容3 - if塾の視点：AIは『思考の壁打ち相手』"
         },
         {
           "page_number": 5,
@@ -123,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-          "sub_title": "2026年4月最新：AIエージェントの自律化が加速中",
-          "text_content": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "main_title": "Gemini 3.0 教育版が無料開放！",
+          "sub_title": "2026年4月最新：勉強効率が劇的に変わる神アプデ",
+          "text_content": "Gemini 3.0 教育版が無料開放！",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-01.png",
           "image_file": "assets/img/posts/20260423_ai_column-01.png",
-          "overlay_text": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-          "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
-          "alt": "表紙 - 指示待ちはもう終わり。2026年「勝手に"
+          "overlay_text": "Gemini 3.0 教育版が無料開放！",
+          "subtext": "2026年4月最新：勉強効率が劇的に変わる神アプデ",
+          "alt": "表紙 - Gemini 3.0 教育版が無料開放！"
         },
         {
           "page_number": 2,
@@ -139,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "新学期、AIに「何をさせるか」で悩んでいませんか？",
-          "sub_title": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
-          "text_content": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "main_title": "新学期、膨大な課題に溺れていませんか？",
+          "sub_title": "2026年の学習スピードは加速。Gemini 3.0が全学生に開放され、AIを使いこなせるかどうかが成績の分かれ道に。",
+          "text_content": "新学期、膨大な課題に溺れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-02.png",
           "image_file": "assets/img/posts/20260423_ai_column-02.png",
-          "overlay_text": "新学期、AIに「何をさせるか」で悩んでいませんか？",
-          "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
-          "alt": "内容1 - 新学期、AIに「何をさせるか」で悩んでい"
+          "overlay_text": "新学期、膨大な課題に溺れていませんか？",
+          "subtext": "2026年の学習スピードは加速。Gemini 3.0が全学生に開放され、AIを使いこなせるかどうかが成績の分かれ道に。",
+          "alt": "内容1 - 新学期、膨大な課題に溺れていませんか？"
         },
         {
           "page_number": 3,
@@ -155,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「〇〇しておいて」だけで完結する最新活用術",
-          "sub_title": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
-          "text_content": "「〇〇しておいて」だけで完結する最新活用術",
+          "main_title": "NotebookLMで「自分専用クイズ」を自動生成",
+          "sub_title": "教科書を読み込ませるだけで即座にテスト対策。最新のアップデートで、記述式問題の添削精度も人間レベルに進化しました。",
+          "text_content": "NotebookLMで「自分専用クイズ」を自動生成",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-03.png",
           "image_file": "assets/img/posts/20260423_ai_column-03.png",
-          "overlay_text": "「〇〇しておいて」だけで完結する最新活用術",
-          "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
-          "alt": "内容2 - 「〇〇しておいて」だけで完結する最新活用"
+          "overlay_text": "NotebookLMで「自分専用クイズ」を自動生成",
+          "subtext": "教科書を読み込ませるだけで即座にテスト対策。最新のアップデートで、記述式問題の添削精度も人間レベルに進化しました。",
+          "alt": "内容2 - NotebookLMで「自分専用クイズ」"
         },
         {
           "page_number": 4,
@@ -171,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "プロの視点：AIを「部下」ではなく「パートナー」に",
-          "sub_title": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
-          "text_content": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "main_title": "if塾の視点：AIは『思考の壁打ち相手』にする",
+          "sub_title": "答えを出すだけでなく「なぜそうなるか」をAIに解説させる。プロンプト不要の対話型UIになった今こそ、深い本質理解に使いましょう。",
+          "text_content": "if塾の視点：AIは『思考の壁打ち相手』にする",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260423_ai_column-04.png",
           "image_file": "assets/img/posts/20260423_ai_column-04.png",
-          "overlay_text": "プロの視点：AIを「部下」ではなく「パートナー」に",
-          "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
-          "alt": "内容3 - プロの視点：AIを「部下」ではなく「パー"
+          "overlay_text": "if塾の視点：AIは『思考の壁打ち相手』にする",
+          "subtext": "答えを出すだけでなく「なぜそうなるか」をAIに解説させる。プロンプト不要の対話型UIになった今こそ、深い本質理解に使いましょう。",
+          "alt": "内容3 - if塾の視点：AIは『思考の壁打ち相手』"
         },
         {
           "page_number": 5,
@@ -242,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-23T11:36:13",
+      "research_date": "2026-04-23T14:52:13",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "指示待ちはもう終わり。2026年「勝手に",
+        "cover_text": "Gemini 3.0 教育版が無料開放！",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
-            "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
+            "headline": "Gemini 3.0 教育版が無料開放！",
+            "subtext": "2026年4月最新：勉強効率が劇的に変わる神アプデ",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -266,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "新学期、AIに「何をさせるか」で悩んでいませんか？",
-            "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+            "headline": "新学期、膨大な課題に溺れていませんか？",
+            "subtext": "2026年の学習スピードは加速。Gemini 3.0が全学生に開放され、AIを使いこなせるかどうかが成績の分かれ道に。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -275,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "「〇〇しておいて」だけで完結する最新活用術",
-            "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+            "headline": "NotebookLMで「自分専用クイズ」を自動生成",
+            "subtext": "教科書を読み込ませるだけで即座にテスト対策。最新のアップデートで、記述式問題の添削精度も人間レベルに進化しました。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -284,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "プロの視点：AIを「部下」ではなく「パートナー」に",
-            "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+            "headline": "if塾の視点：AIは『思考の壁打ち相手』にする",
+            "subtext": "答えを出すだけでなく「なぜそうなるか」をAIに解説させる。プロンプト不要の対話型UIになった今こそ、深い本質理解に使いましょう。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
