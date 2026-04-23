@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 105,
-    "last_updated": "2026-04-22T21:04:16.266341",
+    "total_posts": 106,
+    "last_updated": "2026-04-23T11:37:55.058919",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260423_ai_column",
+      "post_id": "20260423_ai_column",
+      "created_at": "2026-04-23T11:37:55",
+      "datetime": "2026-04-23T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+      "target_audience": "Students & Parents",
+      "title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+      "caption": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、タスクに追われていませんか？\n2026年の今、AIは「指示を待つツール」から「自ら考えて動くパートナー」へと進化しました。\n\n「AIエージェント」の自律化により、私たちは細かい操作から解放され、よりクリエイティブな決定に集中できるようになっています。\n\n特に受験生や保護者の皆様にとって、膨大な情報収集やスケジュール管理をAIが先回りして提案してくれる恩恵は計り知れません。\n\n大切なのは、AIの提案を鵜呑みにせず「最後に選ぶ力」を養うこと。\nif塾では、そんな次世代のAI活用術を教えています。\n\n最新のAI活用で、最高のスタートダッシュを切りましょう！\n\n#if塾 #2026年 #AIエージェント #自律型AI #生産性向上 #教育ICT #新学期 #DX",
+      "caption_text": "【2026年4月】最新AIトレンドをお届け！\n\n新年度が始まり、タスクに追われていませんか？\n2026年の今、AIは「指示を待つツール」から「自ら考えて動くパートナー」へと進化しました。\n\n「AIエージェント」の自律化により、私たちは細かい操作から解放され、よりクリエイティブな決定に集中できるようになっています。\n\n特に受験生や保護者の皆様にとって、膨大な情報収集やスケジュール管理をAIが先回りして提案してくれる恩恵は計り知れません。\n\n大切なのは、AIの提案を鵜呑みにせず「最後に選ぶ力」を養うこと。\nif塾では、そんな次世代のAI活用術を教えています。\n\n最新のAI活用で、最高のスタートダッシュを切りましょう！\n\n#if塾 #2026年 #AIエージェント #自律型AI #生産性向上 #教育ICT #新学期 #DX",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#自律型AI",
+        "#最新テクノロジー",
+        "#教育革命"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "sub_title": "2026年4月最新：AIエージェントの自律化が加速中",
+          "text_content": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-01.png",
+          "image_file": "assets/img/posts/20260423_ai_column-01.png",
+          "overlay_text": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
+          "alt": "表紙 - 指示待ちはもう終わり。2026年「勝手に"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "sub_title": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+          "text_content": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-02.png",
+          "image_file": "assets/img/posts/20260423_ai_column-02.png",
+          "overlay_text": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+          "alt": "内容1 - 新学期、AIに「何をさせるか」で悩んでい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「〇〇しておいて」だけで完結する最新活用術",
+          "sub_title": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+          "text_content": "「〇〇しておいて」だけで完結する最新活用術",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-03.png",
+          "image_file": "assets/img/posts/20260423_ai_column-03.png",
+          "overlay_text": "「〇〇しておいて」だけで完結する最新活用術",
+          "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+          "alt": "内容2 - 「〇〇しておいて」だけで完結する最新活用"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "sub_title": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+          "text_content": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-04.png",
+          "image_file": "assets/img/posts/20260423_ai_column-04.png",
+          "overlay_text": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+          "alt": "内容3 - プロの視点：AIを「部下」ではなく「パー"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "sub_title": "2026年4月最新：AIエージェントの自律化が加速中",
+          "text_content": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-01.png",
+          "image_file": "assets/img/posts/20260423_ai_column-01.png",
+          "overlay_text": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+          "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
+          "alt": "表紙 - 指示待ちはもう終わり。2026年「勝手に"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "sub_title": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+          "text_content": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-02.png",
+          "image_file": "assets/img/posts/20260423_ai_column-02.png",
+          "overlay_text": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+          "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+          "alt": "内容1 - 新学期、AIに「何をさせるか」で悩んでい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「〇〇しておいて」だけで完結する最新活用術",
+          "sub_title": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+          "text_content": "「〇〇しておいて」だけで完結する最新活用術",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-03.png",
+          "image_file": "assets/img/posts/20260423_ai_column-03.png",
+          "overlay_text": "「〇〇しておいて」だけで完結する最新活用術",
+          "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+          "alt": "内容2 - 「〇〇しておいて」だけで完結する最新活用"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "sub_title": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+          "text_content": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260423_ai_column-04.png",
+          "image_file": "assets/img/posts/20260423_ai_column-04.png",
+          "overlay_text": "プロの視点：AIを「部下」ではなく「パートナー」に",
+          "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+          "alt": "内容3 - プロの視点：AIを「部下」ではなく「パー"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260423_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260423_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260423_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260423_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-23T11:36:13",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示待ちはもう終わり。2026年「勝手に",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示待ちはもう終わり。2026年「勝手に動くAI」が標準に",
+            "subtext": "2026年4月最新：AIエージェントの自律化が加速中",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "新学期、AIに「何をさせるか」で悩んでいませんか？",
+            "subtext": "これまではプロンプト（指示）が命でしたが、今はAIが自ら目標を立て、必要なツールを選んで実行する『自律型エージェント』の時代です。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「〇〇しておいて」だけで完結する最新活用術",
+            "subtext": "例えば『志望校の最新入試日程を調べてカレンダーに同期し、対策ToDoを作って』。これだけでAIがWeb巡回からスケジュール登録まで完結させます。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "プロの視点：AIを「部下」ではなく「パートナー」に",
+            "subtext": "if塾ではAIを丸投げせず、AIが提案してきた『実行プラン』を人間がレビューする習慣を推奨。自律化が進む今こそ、判断力が最大の武器になります。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260422_development",
       "post_id": "20260422_development",
