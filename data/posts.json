@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 109,
-    "last_updated": "2026-04-26T20:45:57.517033",
+    "total_posts": 110,
+    "last_updated": "2026-04-27T11:45:45.442254",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260427_announcement",
+      "post_id": "20260427_announcement",
+      "created_at": "2026-04-27T11:45:45",
+      "datetime": "2026-04-27T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+      "caption": "【2026年4月】最新教育トレンドをお届け！\n\n新学期が始まり1ヶ月。今、教育現場で最も注目されているのは「生成AI×プログラミング」によるゼロイチ起業教育です。\n\nもはやプログラミングは「覚えるもの」ではなく、AIを駆使して「形にするもの」へと進化しました。\n\n「自分のアプリをリリースしたい」\n「学生のうちにビジネスを経験したい」\n\nそんな夢が、AIの力で驚くほど身近になっています。\nif塾では、2026年最新のAIエージェント活用術を伝授。\n\nこのGW、あなたも「クリエイター」から「起業家」への第一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクからチェック！\n@if_school_official",
+      "caption_text": "【2026年4月】最新教育トレンドをお届け！\n\n新学期が始まり1ヶ月。今、教育現場で最も注目されているのは「生成AI×プログラミング」によるゼロイチ起業教育です。\n\nもはやプログラミングは「覚えるもの」ではなく、AIを駆使して「形にするもの」へと進化しました。\n\n「自分のアプリをリリースしたい」\n「学生のうちにビジネスを経験したい」\n\nそんな夢が、AIの力で驚くほど身近になっています。\nif塾では、2026年最新のAIエージェント活用術を伝授。\n\nこのGW、あなたも「クリエイター」から「起業家」への第一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクからチェック！\n@if_school_official",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#プログラミング教育",
+        "#中高生起業",
+        "#ゼロイチ起業",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "sub_title": "4月27日更新：ゼロイチ起業教育の全貌",
+          "text_content": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-01.png",
+          "image_file": "assets/img/posts/20260427_announcement-01.png",
+          "overlay_text": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "subtext": "4月27日更新：ゼロイチ起業教育の全貌",
+          "alt": "表紙 - 【2026最新】生成AI×プログラミング"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "sub_title": "進級・進学後の今、スキルをどう活かすか悩んでいませんか？2026年、コードを書くだけの学習はもう古い。自分のアイデアを即プロダクト化する力が求められています。",
+          "text_content": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-02.png",
+          "image_file": "assets/img/posts/20260427_announcement-02.png",
+          "overlay_text": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "subtext": "進級・進学後の今、スキルをどう活かすか悩んでいませんか？2026年、コードを書くだけの学習はもう古い。自分のアイデアを即プロダクト化する力が求められています。",
+          "alt": "内容1 - 「ただ学ぶ」から「稼ぐ」プログラミングへ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生成AIエージェントが開発を爆速化",
+          "sub_title": "最新のAIツールにより、1人でも数日でサービス公開が可能に。if塾ではAIを『部下』として使いこなし、ビジネスモデルの構築から実装までを最短距離で完結させます。",
+          "text_content": "生成AIエージェントが開発を爆速化",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-03.png",
+          "image_file": "assets/img/posts/20260427_announcement-03.png",
+          "overlay_text": "生成AIエージェントが開発を爆速化",
+          "subtext": "最新のAIツールにより、1人でも数日でサービス公開が可能に。if塾ではAIを『部下』として使いこなし、ビジネスモデルの構築から実装までを最短距離で完結させます。",
+          "alt": "内容2 - 生成AIエージェントが開発を爆速化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で始める「起業家マインドセット」",
+          "sub_title": "GWから本格始動！独自のAI対話型フレームワークで、身近な課題を解決するアプリを開発。技術だけでなく、市場調査や収益化までを実践的にサポートします。",
+          "text_content": "if塾で始める「起業家マインドセット」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-04.png",
+          "image_file": "assets/img/posts/20260427_announcement-04.png",
+          "overlay_text": "if塾で始める「起業家マインドセット」",
+          "subtext": "GWから本格始動！独自のAI対話型フレームワークで、身近な課題を解決するアプリを開発。技術だけでなく、市場調査や収益化までを実践的にサポートします。",
+          "alt": "内容3 - if塾で始める「起業家マインドセット」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "sub_title": "4月27日更新：ゼロイチ起業教育の全貌",
+          "text_content": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-01.png",
+          "image_file": "assets/img/posts/20260427_announcement-01.png",
+          "overlay_text": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+          "subtext": "4月27日更新：ゼロイチ起業教育の全貌",
+          "alt": "表紙 - 【2026最新】生成AI×プログラミング"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "sub_title": "進級・進学後の今、スキルをどう活かすか悩んでいませんか？2026年、コードを書くだけの学習はもう古い。自分のアイデアを即プロダクト化する力が求められています。",
+          "text_content": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-02.png",
+          "image_file": "assets/img/posts/20260427_announcement-02.png",
+          "overlay_text": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+          "subtext": "進級・進学後の今、スキルをどう活かすか悩んでいませんか？2026年、コードを書くだけの学習はもう古い。自分のアイデアを即プロダクト化する力が求められています。",
+          "alt": "内容1 - 「ただ学ぶ」から「稼ぐ」プログラミングへ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生成AIエージェントが開発を爆速化",
+          "sub_title": "最新のAIツールにより、1人でも数日でサービス公開が可能に。if塾ではAIを『部下』として使いこなし、ビジネスモデルの構築から実装までを最短距離で完結させます。",
+          "text_content": "生成AIエージェントが開発を爆速化",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-03.png",
+          "image_file": "assets/img/posts/20260427_announcement-03.png",
+          "overlay_text": "生成AIエージェントが開発を爆速化",
+          "subtext": "最新のAIツールにより、1人でも数日でサービス公開が可能に。if塾ではAIを『部下』として使いこなし、ビジネスモデルの構築から実装までを最短距離で完結させます。",
+          "alt": "内容2 - 生成AIエージェントが開発を爆速化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で始める「起業家マインドセット」",
+          "sub_title": "GWから本格始動！独自のAI対話型フレームワークで、身近な課題を解決するアプリを開発。技術だけでなく、市場調査や収益化までを実践的にサポートします。",
+          "text_content": "if塾で始める「起業家マインドセット」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260427_announcement-04.png",
+          "image_file": "assets/img/posts/20260427_announcement-04.png",
+          "overlay_text": "if塾で始める「起業家マインドセット」",
+          "subtext": "GWから本格始動！独自のAI対話型フレームワークで、身近な課題を解決するアプリを開発。技術だけでなく、市場調査や収益化までを実践的にサポートします。",
+          "alt": "内容3 - if塾で始める「起業家マインドセット」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260427_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260427_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260427_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260427_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-27T11:44:11",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】生成AI×プログラミング",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】生成AI×プログラミングで中高生が「社長」になる時代へ",
+            "subtext": "4月27日更新：ゼロイチ起業教育の全貌",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「ただ学ぶ」から「稼ぐ」プログラミングへ",
+            "subtext": "進級・進学後の今、スキルをどう活かすか悩んでいませんか？2026年、コードを書くだけの学習はもう古い。自分のアイデアを即プロダクト化する力が求められています。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "生成AIエージェントが開発を爆速化",
+            "subtext": "最新のAIツールにより、1人でも数日でサービス公開が可能に。if塾ではAIを『部下』として使いこなし、ビジネスモデルの構築から実装までを最短距離で完結させます。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾で始める「起業家マインドセット」",
+            "subtext": "GWから本格始動！独自のAI対話型フレームワークで、身近な課題を解決するアプリを開発。技術だけでなく、市場調査や収益化までを実践的にサポートします。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260426_activity",
       "post_id": "20260426_activity",
