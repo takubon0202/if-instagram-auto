@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 110,
-    "last_updated": "2026-04-27T15:18:04.018569",
+    "last_updated": "2026-04-27T21:24:24.321038",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260427_announcement",
       "post_id": "20260427_announcement",
-      "created_at": "2026-04-27T15:18:04",
+      "created_at": "2026-04-27T21:24:24",
       "datetime": "2026-04-27T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、教育が激変。IT・AIリテラシーの新基準",
+      "theme": "【2026最新】情報オリンピック×生成AI対策が必須に！",
       "target_audience": "Students & Parents",
-      "title": "2026年、教育が激変。IT・AIリテラシーの新基準",
-      "caption": "【2026年4月】最新の教育トレンドをお届けします！\n\n今月、全国で「デジタル創生学部」が続々と新設され、教育の現場はいよいよ本格的なAI共生時代に突入しました。\n\n「AIをどう使うか？」という段階は終わり、これからは「AIを使って何を創り出すか？」が問われる時代です。\n\nif塾では、この4月からIT・AIリテラシー教育をさらに加速！\n単なるスキルの習得ではなく、大学入試やその先のキャリアで武器になる「本質的なデジタル活用能力」を育みます。\n\n「新時代の学びに乗り遅れたくない」\n「具体的にどんな準備をすればいいの？」\n\nそんな不安をお持ちの保護者の皆様、ぜひ一度if塾へご相談ください。\n2026年の最新入試動向に基づいたアドバイスをさせていただきます。\n\n詳細はプロフィール欄のリンクからチェック！🔗",
-      "caption_text": "【2026年4月】最新の教育トレンドをお届けします！\n\n今月、全国で「デジタル創生学部」が続々と新設され、教育の現場はいよいよ本格的なAI共生時代に突入しました。\n\n「AIをどう使うか？」という段階は終わり、これからは「AIを使って何を創り出すか？」が問われる時代です。\n\nif塾では、この4月からIT・AIリテラシー教育をさらに加速！\n単なるスキルの習得ではなく、大学入試やその先のキャリアで武器になる「本質的なデジタル活用能力」を育みます。\n\n「新時代の学びに乗り遅れたくない」\n「具体的にどんな準備をすればいいの？」\n\nそんな不安をお持ちの保護者の皆様、ぜひ一度if塾へご相談ください。\n2026年の最新入試動向に基づいたアドバイスをさせていただきます。\n\n詳細はプロフィール欄のリンクからチェック！🔗",
+      "title": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+      "caption": "【2026年4月】最新ニュースをお届けします！\n\n進級・進学から1ヶ月。2026年度の情報オリンピック対策は、これまでの延長線上では通用しません。\n\n今、求められているのは「生成AIをプログラミングの相棒にする力」です。\n\n「AIに書かせる」のではなく「AIと共に思考する」。\nif塾の『生成AI×情報オリンピック対策コース』では、最新のAIエージェントを活用した高度な問題解決スキルを養います。\n\nライバルに差をつけるなら、GW前の今がチャンス！\n詳細はプロフィールのリンクからご確認ください。🚀\n\n#if塾 #情報オリンピック #JOI #2026年 #生成AI #プログラミング教育 #AI教育",
+      "caption_text": "【2026年4月】最新ニュースをお届けします！\n\n進級・進学から1ヶ月。2026年度の情報オリンピック対策は、これまでの延長線上では通用しません。\n\n今、求められているのは「生成AIをプログラミングの相棒にする力」です。\n\n「AIに書かせる」のではなく「AIと共に思考する」。\nif塾の『生成AI×情報オリンピック対策コース』では、最新のAIエージェントを活用した高度な問題解決スキルを養います。\n\nライバルに差をつけるなら、GW前の今がチャンス！\n詳細はプロフィールのリンクからご確認ください。🚀\n\n#if塾 #情報オリンピック #JOI #2026年 #生成AI #プログラミング教育 #AI教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#デジタル創生学部",
-        "#AIリテラシー",
-        "#教育改革",
-        "#最新教育ニュース",
-        "#プログラミング教育",
-        "#大学受験2026"
+        "#情報オリンピック",
+        "#生成AI",
+        "#プログラミング学習",
+        "#DX教育",
+        "#AI活用"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、教育が激変。IT・AIリテラシーの新基準",
-          "sub_title": "4月新設「デジタル創生学部」で加速する未来の学び",
-          "text_content": "2026年、教育が激変。IT・AIリテラシーの新基準",
+          "main_title": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+          "sub_title": "4月27日更新：今すぐ始めるべき理由",
+          "text_content": "【2026最新】情報オリンピック×生成AI対策が必須に！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-01.png",
           "image_file": "assets/img/posts/20260427_announcement-01.png",
-          "overlay_text": "2026年、教育が激変。IT・AIリテラシーの新基準",
-          "subtext": "4月新設「デジタル創生学部」で加速する未来の学び",
-          "alt": "表紙 - 2026年、教育が激変。IT・AIリテラ"
+          "overlay_text": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+          "subtext": "4月27日更新：今すぐ始めるべき理由",
+          "alt": "表紙 - 【2026最新】情報オリンピック×生成A"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使いこなす」は、もはや当たり前の時代へ",
-          "sub_title": "2026年春、デジタル系学部の新設ラッシュ。ただ便利な道具として使うだけでなく「構造」を理解する力が、大学入試や就職の必須条件になっています。",
-          "text_content": "「AIを使いこなす」は、もはや当たり前の時代へ",
+          "main_title": "「ただのプログラミング」では勝てない時代へ",
+          "sub_title": "2026年度、情報オリンピックの出題傾向が激変。生成AIを「使いこなす」能力が合否を分けるポイントになっています。",
+          "text_content": "「ただのプログラミング」では勝てない時代へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-02.png",
           "image_file": "assets/img/posts/20260427_announcement-02.png",
-          "overlay_text": "「AIを使いこなす」は、もはや当たり前の時代へ",
-          "subtext": "2026年春、デジタル系学部の新設ラッシュ。ただ便利な道具として使うだけでなく「構造」を理解する力が、大学入試や就職の必須条件になっています。",
-          "alt": "内容1 - 「AIを使いこなす」は、もはや当たり前の"
+          "overlay_text": "「ただのプログラミング」では勝てない時代へ",
+          "subtext": "2026年度、情報オリンピックの出題傾向が激変。生成AIを「使いこなす」能力が合否を分けるポイントになっています。",
+          "alt": "内容1 - 「ただのプログラミング」では勝てない時代"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新AIツールを「自作」して解決する力",
-          "sub_title": "デジタル創生学部では、既存ツールを使うだけでなく、独自のプロンプトエンジニアリングや簡易AIモデルの構築が求められます。これが2026年の新リテラシーです。",
-          "text_content": "最新AIツールを「自作」して解決する力",
+          "main_title": "AI活用コースで、最短・最適解を導き出す",
+          "sub_title": "if塾の最新ツールなら、複雑なアルゴリズムの最適化もAIと対話しながら学習。2026年の新傾向に完全準拠した対策が可能です。",
+          "text_content": "AI活用コースで、最短・最適解を導き出す",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-03.png",
           "image_file": "assets/img/posts/20260427_announcement-03.png",
-          "overlay_text": "最新AIツールを「自作」して解決する力",
-          "subtext": "デジタル創生学部では、既存ツールを使うだけでなく、独自のプロンプトエンジニアリングや簡易AIモデルの構築が求められます。これが2026年の新リテラシーです。",
-          "alt": "内容2 - 最新AIツールを「自作」して解決する力"
+          "overlay_text": "AI活用コースで、最短・最適解を導き出す",
+          "subtext": "if塾の最新ツールなら、複雑なアルゴリズムの最適化もAIと対話しながら学習。2026年の新傾向に完全準拠した対策が可能です。",
+          "alt": "内容2 - AI活用コースで、最短・最適解を導き出す"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AI×問題解決」の実践をスタート",
-          "sub_title": "当塾では新学部に完全対応。プログラミングの基礎に加え、AIに適切な指示出しを行い、最短で正解を導き出す「思考プロセス」を個別に指導します。",
-          "text_content": "if塾では「AI×問題解決」の実践をスタート",
+          "main_title": "今からGWまでの「先行逃げ切り」プラン",
+          "sub_title": "if塾ではオンライン個別指導を強化中。最新のAIモデルを使い、競技プログラミングの壁を突破する独自の活用法を伝授します。",
+          "text_content": "今からGWまでの「先行逃げ切り」プラン",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-04.png",
           "image_file": "assets/img/posts/20260427_announcement-04.png",
-          "overlay_text": "if塾では「AI×問題解決」の実践をスタート",
-          "subtext": "当塾では新学部に完全対応。プログラミングの基礎に加え、AIに適切な指示出しを行い、最短で正解を導き出す「思考プロセス」を個別に指導します。",
-          "alt": "内容3 - if塾では「AI×問題解決」の実践をスタ"
+          "overlay_text": "今からGWまでの「先行逃げ切り」プラン",
+          "subtext": "if塾ではオンライン個別指導を強化中。最新のAIモデルを使い、競技プログラミングの壁を突破する独自の活用法を伝授します。",
+          "alt": "内容3 - 今からGWまでの「先行逃げ切り」プラン"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、教育が激変。IT・AIリテラシーの新基準",
-          "sub_title": "4月新設「デジタル創生学部」で加速する未来の学び",
-          "text_content": "2026年、教育が激変。IT・AIリテラシーの新基準",
+          "main_title": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+          "sub_title": "4月27日更新：今すぐ始めるべき理由",
+          "text_content": "【2026最新】情報オリンピック×生成AI対策が必須に！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-01.png",
           "image_file": "assets/img/posts/20260427_announcement-01.png",
-          "overlay_text": "2026年、教育が激変。IT・AIリテラシーの新基準",
-          "subtext": "4月新設「デジタル創生学部」で加速する未来の学び",
-          "alt": "表紙 - 2026年、教育が激変。IT・AIリテラ"
+          "overlay_text": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+          "subtext": "4月27日更新：今すぐ始めるべき理由",
+          "alt": "表紙 - 【2026最新】情報オリンピック×生成A"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使いこなす」は、もはや当たり前の時代へ",
-          "sub_title": "2026年春、デジタル系学部の新設ラッシュ。ただ便利な道具として使うだけでなく「構造」を理解する力が、大学入試や就職の必須条件になっています。",
-          "text_content": "「AIを使いこなす」は、もはや当たり前の時代へ",
+          "main_title": "「ただのプログラミング」では勝てない時代へ",
+          "sub_title": "2026年度、情報オリンピックの出題傾向が激変。生成AIを「使いこなす」能力が合否を分けるポイントになっています。",
+          "text_content": "「ただのプログラミング」では勝てない時代へ",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-02.png",
           "image_file": "assets/img/posts/20260427_announcement-02.png",
-          "overlay_text": "「AIを使いこなす」は、もはや当たり前の時代へ",
-          "subtext": "2026年春、デジタル系学部の新設ラッシュ。ただ便利な道具として使うだけでなく「構造」を理解する力が、大学入試や就職の必須条件になっています。",
-          "alt": "内容1 - 「AIを使いこなす」は、もはや当たり前の"
+          "overlay_text": "「ただのプログラミング」では勝てない時代へ",
+          "subtext": "2026年度、情報オリンピックの出題傾向が激変。生成AIを「使いこなす」能力が合否を分けるポイントになっています。",
+          "alt": "内容1 - 「ただのプログラミング」では勝てない時代"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新AIツールを「自作」して解決する力",
-          "sub_title": "デジタル創生学部では、既存ツールを使うだけでなく、独自のプロンプトエンジニアリングや簡易AIモデルの構築が求められます。これが2026年の新リテラシーです。",
-          "text_content": "最新AIツールを「自作」して解決する力",
+          "main_title": "AI活用コースで、最短・最適解を導き出す",
+          "sub_title": "if塾の最新ツールなら、複雑なアルゴリズムの最適化もAIと対話しながら学習。2026年の新傾向に完全準拠した対策が可能です。",
+          "text_content": "AI活用コースで、最短・最適解を導き出す",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-03.png",
           "image_file": "assets/img/posts/20260427_announcement-03.png",
-          "overlay_text": "最新AIツールを「自作」して解決する力",
-          "subtext": "デジタル創生学部では、既存ツールを使うだけでなく、独自のプロンプトエンジニアリングや簡易AIモデルの構築が求められます。これが2026年の新リテラシーです。",
-          "alt": "内容2 - 最新AIツールを「自作」して解決する力"
+          "overlay_text": "AI活用コースで、最短・最適解を導き出す",
+          "subtext": "if塾の最新ツールなら、複雑なアルゴリズムの最適化もAIと対話しながら学習。2026年の新傾向に完全準拠した対策が可能です。",
+          "alt": "内容2 - AI活用コースで、最短・最適解を導き出す"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾では「AI×問題解決」の実践をスタート",
-          "sub_title": "当塾では新学部に完全対応。プログラミングの基礎に加え、AIに適切な指示出しを行い、最短で正解を導き出す「思考プロセス」を個別に指導します。",
-          "text_content": "if塾では「AI×問題解決」の実践をスタート",
+          "main_title": "今からGWまでの「先行逃げ切り」プラン",
+          "sub_title": "if塾ではオンライン個別指導を強化中。最新のAIモデルを使い、競技プログラミングの壁を突破する独自の活用法を伝授します。",
+          "text_content": "今からGWまでの「先行逃げ切り」プラン",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260427_announcement-04.png",
           "image_file": "assets/img/posts/20260427_announcement-04.png",
-          "overlay_text": "if塾では「AI×問題解決」の実践をスタート",
-          "subtext": "当塾では新学部に完全対応。プログラミングの基礎に加え、AIに適切な指示出しを行い、最短で正解を導き出す「思考プロセス」を個別に指導します。",
-          "alt": "内容3 - if塾では「AI×問題解決」の実践をスタ"
+          "overlay_text": "今からGWまでの「先行逃げ切り」プラン",
+          "subtext": "if塾ではオンライン個別指導を強化中。最新のAIモデルを使い、競技プログラミングの壁を突破する独自の活用法を伝授します。",
+          "alt": "内容3 - 今からGWまでの「先行逃げ切り」プラン"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-27T15:16:30",
+      "research_date": "2026-04-27T21:22:50",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、教育が激変。IT・AIリテラ",
+        "cover_text": "【2026最新】情報オリンピック×生成A",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、教育が激変。IT・AIリテラシーの新基準",
-            "subtext": "4月新設「デジタル創生学部」で加速する未来の学び",
+            "headline": "【2026最新】情報オリンピック×生成AI対策が必須に！",
+            "subtext": "4月27日更新：今すぐ始めるべき理由",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを使いこなす」は、もはや当たり前の時代へ",
-            "subtext": "2026年春、デジタル系学部の新設ラッシュ。ただ便利な道具として使うだけでなく「構造」を理解する力が、大学入試や就職の必須条件になっています。",
+            "headline": "「ただのプログラミング」では勝てない時代へ",
+            "subtext": "2026年度、情報オリンピックの出題傾向が激変。生成AIを「使いこなす」能力が合否を分けるポイントになっています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "最新AIツールを「自作」して解決する力",
-            "subtext": "デジタル創生学部では、既存ツールを使うだけでなく、独自のプロンプトエンジニアリングや簡易AIモデルの構築が求められます。これが2026年の新リテラシーです。",
+            "headline": "AI活用コースで、最短・最適解を導き出す",
+            "subtext": "if塾の最新ツールなら、複雑なアルゴリズムの最適化もAIと対話しながら学習。2026年の新傾向に完全準拠した対策が可能です。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾では「AI×問題解決」の実践をスタート",
-            "subtext": "当塾では新学部に完全対応。プログラミングの基礎に加え、AIに適切な指示出しを行い、最短で正解を導き出す「思考プロセス」を個別に指導します。",
+            "headline": "今からGWまでの「先行逃げ切り」プラン",
+            "subtext": "if塾ではオンライン個別指導を強化中。最新のAIモデルを使い、競技プログラミングの壁を突破する独自の活用法を伝授します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
