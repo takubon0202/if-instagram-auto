@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 110,
-    "last_updated": "2026-04-27T21:24:24.321038",
+    "total_posts": 111,
+    "last_updated": "2026-04-28T11:53:13.730788",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260428_education",
+      "post_id": "20260428_education",
+      "created_at": "2026-04-28T11:53:13",
+      "datetime": "2026-04-28T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+      "target_audience": "Students & Parents",
+      "title": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+      "caption": "【2026年4月】新学期が始まって1ヶ月。宿題のボリュームに驚いているご家庭も多いのではないでしょうか？\n\n今や生成AIは「カンニングツール」ではなく、一人ひとりに寄り添う「最強の家庭教師」へと進化しました。文部科学省がデジタル教科書との完全連携を加速させる中、大切なのは「AIに何を聞くか」という質問力です。\n\nif塾では、AIを思考の壁打ち相手として活用し、自ら考える力を養う次世代型カリキュラムを実践中。最新のAIモデルは、あなたの「わからない」の正体を見つけてくれます。\n\n「AIに使われる人」ではなく「AIを使いこなす人」へ。この春、学びのOSをアップデートしませんか？\n\n詳細はプロフィール欄のリンクから公式LINEへ！",
+      "caption_text": "【2026年4月】新学期が始まって1ヶ月。宿題のボリュームに驚いているご家庭も多いのではないでしょうか？\n\n今や生成AIは「カンニングツール」ではなく、一人ひとりに寄り添う「最強の家庭教師」へと進化しました。文部科学省がデジタル教科書との完全連携を加速させる中、大切なのは「AIに何を聞くか」という質問力です。\n\nif塾では、AIを思考の壁打ち相手として活用し、自ら考える力を養う次世代型カリキュラムを実践中。最新のAIモデルは、あなたの「わからない」の正体を見つけてくれます。\n\n「AIに使われる人」ではなく「AIを使いこなす人」へ。この春、学びのOSをアップデートしませんか？\n\n詳細はプロフィール欄のリンクから公式LINEへ！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#教育ICT",
+        "#生成AI",
+        "#探究学習",
+        "#新学期",
+        "#宿題の極意",
+        "#思考力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "sub_title": "4月28日最新：新学期の成績を分ける活用格差",
+          "text_content": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-01.png",
+          "image_file": "assets/img/posts/20260428_education-01.png",
+          "overlay_text": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "subtext": "4月28日最新：新学期の成績を分ける活用格差",
+          "alt": "表紙 - 宿題代行AIはもう古い？2026年式『思"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "sub_title": "文科省の最新指針でも、単なる生成結果のコピペは評価対象外に。4月からの新学習指導要領で求められるのは、AIをどう使いこなしたかという『対話のログ』です。",
+          "text_content": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-02.png",
+          "image_file": "assets/img/posts/20260428_education-02.png",
+          "overlay_text": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "subtext": "文科省の最新指針でも、単なる生成結果のコピペは評価対象外に。4月からの新学習指導要領で求められるのは、AIをどう使いこなしたかという『対話のログ』です。",
+          "alt": "内容1 - 「答え」を聞く子は伸び悩み、「過程」を語"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "sub_title": "2026年、多くの塾でAI導入が進みましたが、if塾では最新の『推論特化型モデル』を導入。正解を教えるのではなく、生徒の矛盾を指摘し、気づきを与える「壁打ち」を推奨しています。",
+          "text_content": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-03.png",
+          "image_file": "assets/img/posts/20260428_education-03.png",
+          "overlay_text": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "subtext": "2026年、多くの塾でAI導入が進みましたが、if塾では最新の『推論特化型モデル』を導入。正解を教えるのではなく、生徒の矛盾を指摘し、気づきを与える「壁打ち」を推奨しています。",
+          "alt": "内容2 - if塾が提案する『パーソナル・メンター』"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "sub_title": "AIに「答えを教えて」ではなく「私がこの問題を解くために必要なヒントを3つ、難易度順に出して」と指示しましょう。この1分が、2026年の受験を生き抜く論理的思考力を育てます。",
+          "text_content": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-04.png",
+          "image_file": "assets/img/posts/20260428_education-04.png",
+          "overlay_text": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "subtext": "AIに「答えを教えて」ではなく「私がこの問題を解くために必要なヒントを3つ、難易度順に出して」と指示しましょう。この1分が、2026年の受験を生き抜く論理的思考力を育てます。",
+          "alt": "内容3 - 今日からできる！「逆質問プロンプト」で思"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "sub_title": "4月28日最新：新学期の成績を分ける活用格差",
+          "text_content": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-01.png",
+          "image_file": "assets/img/posts/20260428_education-01.png",
+          "overlay_text": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+          "subtext": "4月28日最新：新学期の成績を分ける活用格差",
+          "alt": "表紙 - 宿題代行AIはもう古い？2026年式『思"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "sub_title": "文科省の最新指針でも、単なる生成結果のコピペは評価対象外に。4月からの新学習指導要領で求められるのは、AIをどう使いこなしたかという『対話のログ』です。",
+          "text_content": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-02.png",
+          "image_file": "assets/img/posts/20260428_education-02.png",
+          "overlay_text": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+          "subtext": "文科省の最新指針でも、単なる生成結果のコピペは評価対象外に。4月からの新学習指導要領で求められるのは、AIをどう使いこなしたかという『対話のログ』です。",
+          "alt": "内容1 - 「答え」を聞く子は伸び悩み、「過程」を語"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "sub_title": "2026年、多くの塾でAI導入が進みましたが、if塾では最新の『推論特化型モデル』を導入。正解を教えるのではなく、生徒の矛盾を指摘し、気づきを与える「壁打ち」を推奨しています。",
+          "text_content": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-03.png",
+          "image_file": "assets/img/posts/20260428_education-03.png",
+          "overlay_text": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+          "subtext": "2026年、多くの塾でAI導入が進みましたが、if塾では最新の『推論特化型モデル』を導入。正解を教えるのではなく、生徒の矛盾を指摘し、気づきを与える「壁打ち」を推奨しています。",
+          "alt": "内容2 - if塾が提案する『パーソナル・メンター』"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "sub_title": "AIに「答えを教えて」ではなく「私がこの問題を解くために必要なヒントを3つ、難易度順に出して」と指示しましょう。この1分が、2026年の受験を生き抜く論理的思考力を育てます。",
+          "text_content": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260428_education-04.png",
+          "image_file": "assets/img/posts/20260428_education-04.png",
+          "overlay_text": "今日からできる！「逆質問プロンプト」で思考を深める",
+          "subtext": "AIに「答えを教えて」ではなく「私がこの問題を解くために必要なヒントを3つ、難易度順に出して」と指示しましょう。この1分が、2026年の受験を生き抜く論理的思考力を育てます。",
+          "alt": "内容3 - 今日からできる！「逆質問プロンプト」で思"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260428_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260428_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260428_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260428_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-04-28T11:51:37",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "宿題代行AIはもう古い？2026年式『思",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "宿題代行AIはもう古い？2026年式『思考の相棒』術",
+            "subtext": "4月28日最新：新学期の成績を分ける活用格差",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「答え」を聞く子は伸び悩み、「過程」を語る子が伸びる時代",
+            "subtext": "文科省の最新指針でも、単なる生成結果のコピペは評価対象外に。4月からの新学習指導要領で求められるのは、AIをどう使いこなしたかという『対話のログ』です。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾が提案する『パーソナル・メンター』としてのAI活用",
+            "subtext": "2026年、多くの塾でAI導入が進みましたが、if塾では最新の『推論特化型モデル』を導入。正解を教えるのではなく、生徒の矛盾を指摘し、気づきを与える「壁打ち」を推奨しています。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今日からできる！「逆質問プロンプト」で思考を深める",
+            "subtext": "AIに「答えを教えて」ではなく「私がこの問題を解くために必要なヒントを3つ、難易度順に出して」と指示しましょう。この1分が、2026年の受験を生き抜く論理的思考力を育てます。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260427_announcement",
       "post_id": "20260427_announcement",
