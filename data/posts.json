@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 112,
-    "last_updated": "2026-04-29T15:14:47.970299",
+    "last_updated": "2026-04-29T21:22:02.681786",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260429_development",
       "post_id": "20260429_development",
-      "created_at": "2026-04-29T15:14:47",
+      "created_at": "2026-04-29T21:22:02",
       "datetime": "2026-04-29T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "2026年最新版！自律型AIで「宿題」は消滅する？",
+      "theme": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！自律型AIで「宿題」は消滅する？",
-      "caption": "【2026年4月】最新の開発ニュースをお届けします！\n\n新学期が始まり、学習環境は劇的な変化を迎えています。\n今回if塾が注目したのは、指示を待たずに自ら考えて動く「エージェンティックAI（自律型AI）」。\n\n「宿題を代わりにやる」のはもう古い？\n2026年の最新アプリは、学生の目標達成に向けて、AIが自らスケジュールを組み、最適な教材を提案し、24時間体制で学習をサポートする時代です。\n\nif塾では、この最新テクノロジーを活用し、学生が「自分専用のAIコーチ」を自ら開発するカリキュラムを展開しています。\n\nテクノロジーを使いこなす側になるか、使われる側になるか。\nこの春、新しい学びの形を一緒に体験しませんか？\n\n詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年4月】最新の開発ニュースをお届けします！\n\n新学期が始まり、学習環境は劇的な変化を迎えています。\n今回if塾が注目したのは、指示を待たずに自ら考えて動く「エージェンティックAI（自律型AI）」。\n\n「宿題を代わりにやる」のはもう古い？\n2026年の最新アプリは、学生の目標達成に向けて、AIが自らスケジュールを組み、最適な教材を提案し、24時間体制で学習をサポートする時代です。\n\nif塾では、この最新テクノロジーを活用し、学生が「自分専用のAIコーチ」を自ら開発するカリキュラムを展開しています。\n\nテクノロジーを使いこなす側になるか、使われる側になるか。\nこの春、新しい学びの形を一緒に体験しませんか？\n\n詳細はプロフィールのリンクから！",
+      "title": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+      "caption": "【2026年4月】最新のAIトレンドは「使う」から「任せる」へ。\n\n新年度が始まり、情報収集に追われている学生や保護者の皆さんに朗報です！\n今、if塾の学生たちが開発しているのは、自ら考えて行動する「エージェンティックAI（自律型AIエージェント）」。\n\n「〇〇大学の最新入試要項をまとめて、自分の成績に基づいた学習プランを作っておいて」\nそう指示を出すだけで、AIが自動でブラウジングし、タスクを完了させます。\n\n2026年の学びは、AIをツールとして使う段階を超え、信頼できるパートナーとして構築するフェーズに入りました。\n\nあなたなら、余った時間で何を学びますか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #エージェンティックAI #自律型AI #学生エンジニア #新年度 #AI教育 #キャリアデザイン",
+      "caption_text": "【2026年4月】最新のAIトレンドは「使う」から「任せる」へ。\n\n新年度が始まり、情報収集に追われている学生や保護者の皆さんに朗報です！\n今、if塾の学生たちが開発しているのは、自ら考えて行動する「エージェンティックAI（自律型AIエージェント）」。\n\n「〇〇大学の最新入試要項をまとめて、自分の成績に基づいた学習プランを作っておいて」\nそう指示を出すだけで、AIが自動でブラウジングし、タスクを完了させます。\n\n2026年の学びは、AIをツールとして使う段階を超え、信頼できるパートナーとして構築するフェーズに入りました。\n\nあなたなら、余った時間で何を学びますか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #エージェンティックAI #自律型AI #学生エンジニア #新年度 #AI教育 #キャリアデザイン",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#エージェンティックAI",
-        "#自律型AI",
-        "#次世代教育",
-        "#AIアプリ開発",
-        "#新学期",
-        "#EdTech"
+        "#自律型AIエージェント",
+        "#AI開発",
+        "#最新テック",
+        "#教育DX"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！自律型AIで「宿題」は消滅する？",
-          "sub_title": "4月の新学期に革命を起こすエージェンティックAI開発",
-          "text_content": "2026年最新版！自律型AIで「宿題」は消滅する？",
+          "main_title": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+          "sub_title": "【2026年4月最新版】if塾生の驚きの成果物",
+          "text_content": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-01.png",
           "image_file": "assets/img/posts/20260429_development-01.png",
-          "overlay_text": "2026年最新版！自律型AIで「宿題」は消滅する？",
-          "subtext": "4月の新学期に革命を起こすエージェンティックAI開発",
-          "alt": "表紙 - 2026年最新版！自律型AIで「宿題」は"
+          "overlay_text": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+          "subtext": "【2026年4月最新版】if塾生の驚きの成果物",
+          "alt": "表紙 - 自律型AIで進路選びを自動化！2026年"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに聞く」から「AIが動く」へ",
-          "sub_title": "これまでの生成AIは指示待ち。でも2026年の学生は、計画・実行・修正までこなす『自律型エージェント』を相棒にしています。",
-          "text_content": "「AIに聞く」から「AIが動く」へ",
+          "main_title": "新学期の悩み「情報過多」を解消",
+          "sub_title": "大学の履修登録、奨学金、最新資格の動向…調べるだけで一日が終わっていませんか？2026年は、探す時代から『AIが動く時代』へ。",
+          "text_content": "新学期の悩み「情報過多」を解消",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-02.png",
           "image_file": "assets/img/posts/20260429_development-02.png",
-          "overlay_text": "「AIに聞く」から「AIが動く」へ",
-          "subtext": "これまでの生成AIは指示待ち。でも2026年の学生は、計画・実行・修正までこなす『自律型エージェント』を相棒にしています。",
-          "alt": "内容1 - 「AIに聞く」から「AIが動く」へ"
+          "overlay_text": "新学期の悩み「情報過多」を解消",
+          "subtext": "大学の履修登録、奨学金、最新資格の動向…調べるだけで一日が終わっていませんか？2026年は、探す時代から『AIが動く時代』へ。",
+          "alt": "内容1 - 新学期の悩み「情報過多」を解消"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新アプリ『StudyPath 2026』",
-          "sub_title": "GPT-5以降のマルチエージェント機能を搭載。教科書をスキャンするだけで、目標に合わせた日々の学習タスクを自動生成し、進捗を自律管理します。",
-          "text_content": "最新アプリ『StudyPath 2026』",
+          "main_title": "『エージェンティックAI』が勝手にタスク完遂",
+          "sub_title": "GPT-5以降のマルチモーダル基盤を活用。目標を伝えるだけで、AIがネット検索、ドキュメント作成、出願リマインドまで自律的に実行します。",
+          "text_content": "『エージェンティックAI』が勝手にタスク完遂",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-03.png",
           "image_file": "assets/img/posts/20260429_development-03.png",
-          "overlay_text": "最新アプリ『StudyPath 2026』",
-          "subtext": "GPT-5以降のマルチエージェント機能を搭載。教科書をスキャンするだけで、目標に合わせた日々の学習タスクを自動生成し、進捗を自律管理します。",
-          "alt": "内容2 - 最新アプリ『StudyPath 2026"
+          "overlay_text": "『エージェンティックAI』が勝手にタスク完遂",
+          "subtext": "GPT-5以降のマルチモーダル基盤を活用。目標を伝えるだけで、AIがネット検索、ドキュメント作成、出願リマインドまで自律的に実行します。",
+          "alt": "内容2 - 『エージェンティックAI』が勝手にタスク"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型AI」の姿",
-          "sub_title": "ただ答えを出すのではなく、学生の思考の癖を分析。詰まった時だけヒントを出す『専属コーチ』として、真の学力を伸ばすツールに進化しました。",
-          "text_content": "if塾が提案する「伴走型AI」の姿",
+          "main_title": "自分の『分身』が24時間キャリアを最適化",
+          "sub_title": "if塾では、単なるAI利用ではなく、自分の思考プロセスを反映した「自律型エージェント」を自作。効率化の先にある、本質的な学びに集中できる環境へ。",
+          "text_content": "自分の『分身』が24時間キャリアを最適化",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-04.png",
           "image_file": "assets/img/posts/20260429_development-04.png",
-          "overlay_text": "if塾が提案する「伴走型AI」の姿",
-          "subtext": "ただ答えを出すのではなく、学生の思考の癖を分析。詰まった時だけヒントを出す『専属コーチ』として、真の学力を伸ばすツールに進化しました。",
-          "alt": "内容3 - if塾が提案する「伴走型AI」の姿"
+          "overlay_text": "自分の『分身』が24時間キャリアを最適化",
+          "subtext": "if塾では、単なるAI利用ではなく、自分の思考プロセスを反映した「自律型エージェント」を自作。効率化の先にある、本質的な学びに集中できる環境へ。",
+          "alt": "内容3 - 自分の『分身』が24時間キャリアを最適化"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！自律型AIで「宿題」は消滅する？",
-          "sub_title": "4月の新学期に革命を起こすエージェンティックAI開発",
-          "text_content": "2026年最新版！自律型AIで「宿題」は消滅する？",
+          "main_title": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+          "sub_title": "【2026年4月最新版】if塾生の驚きの成果物",
+          "text_content": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-01.png",
           "image_file": "assets/img/posts/20260429_development-01.png",
-          "overlay_text": "2026年最新版！自律型AIで「宿題」は消滅する？",
-          "subtext": "4月の新学期に革命を起こすエージェンティックAI開発",
-          "alt": "表紙 - 2026年最新版！自律型AIで「宿題」は"
+          "overlay_text": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+          "subtext": "【2026年4月最新版】if塾生の驚きの成果物",
+          "alt": "表紙 - 自律型AIで進路選びを自動化！2026年"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに聞く」から「AIが動く」へ",
-          "sub_title": "これまでの生成AIは指示待ち。でも2026年の学生は、計画・実行・修正までこなす『自律型エージェント』を相棒にしています。",
-          "text_content": "「AIに聞く」から「AIが動く」へ",
+          "main_title": "新学期の悩み「情報過多」を解消",
+          "sub_title": "大学の履修登録、奨学金、最新資格の動向…調べるだけで一日が終わっていませんか？2026年は、探す時代から『AIが動く時代』へ。",
+          "text_content": "新学期の悩み「情報過多」を解消",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-02.png",
           "image_file": "assets/img/posts/20260429_development-02.png",
-          "overlay_text": "「AIに聞く」から「AIが動く」へ",
-          "subtext": "これまでの生成AIは指示待ち。でも2026年の学生は、計画・実行・修正までこなす『自律型エージェント』を相棒にしています。",
-          "alt": "内容1 - 「AIに聞く」から「AIが動く」へ"
+          "overlay_text": "新学期の悩み「情報過多」を解消",
+          "subtext": "大学の履修登録、奨学金、最新資格の動向…調べるだけで一日が終わっていませんか？2026年は、探す時代から『AIが動く時代』へ。",
+          "alt": "内容1 - 新学期の悩み「情報過多」を解消"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新アプリ『StudyPath 2026』",
-          "sub_title": "GPT-5以降のマルチエージェント機能を搭載。教科書をスキャンするだけで、目標に合わせた日々の学習タスクを自動生成し、進捗を自律管理します。",
-          "text_content": "最新アプリ『StudyPath 2026』",
+          "main_title": "『エージェンティックAI』が勝手にタスク完遂",
+          "sub_title": "GPT-5以降のマルチモーダル基盤を活用。目標を伝えるだけで、AIがネット検索、ドキュメント作成、出願リマインドまで自律的に実行します。",
+          "text_content": "『エージェンティックAI』が勝手にタスク完遂",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-03.png",
           "image_file": "assets/img/posts/20260429_development-03.png",
-          "overlay_text": "最新アプリ『StudyPath 2026』",
-          "subtext": "GPT-5以降のマルチエージェント機能を搭載。教科書をスキャンするだけで、目標に合わせた日々の学習タスクを自動生成し、進捗を自律管理します。",
-          "alt": "内容2 - 最新アプリ『StudyPath 2026"
+          "overlay_text": "『エージェンティックAI』が勝手にタスク完遂",
+          "subtext": "GPT-5以降のマルチモーダル基盤を活用。目標を伝えるだけで、AIがネット検索、ドキュメント作成、出願リマインドまで自律的に実行します。",
+          "alt": "内容2 - 『エージェンティックAI』が勝手にタスク"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型AI」の姿",
-          "sub_title": "ただ答えを出すのではなく、学生の思考の癖を分析。詰まった時だけヒントを出す『専属コーチ』として、真の学力を伸ばすツールに進化しました。",
-          "text_content": "if塾が提案する「伴走型AI」の姿",
+          "main_title": "自分の『分身』が24時間キャリアを最適化",
+          "sub_title": "if塾では、単なるAI利用ではなく、自分の思考プロセスを反映した「自律型エージェント」を自作。効率化の先にある、本質的な学びに集中できる環境へ。",
+          "text_content": "自分の『分身』が24時間キャリアを最適化",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260429_development-04.png",
           "image_file": "assets/img/posts/20260429_development-04.png",
-          "overlay_text": "if塾が提案する「伴走型AI」の姿",
-          "subtext": "ただ答えを出すのではなく、学生の思考の癖を分析。詰まった時だけヒントを出す『専属コーチ』として、真の学力を伸ばすツールに進化しました。",
-          "alt": "内容3 - if塾が提案する「伴走型AI」の姿"
+          "overlay_text": "自分の『分身』が24時間キャリアを最適化",
+          "subtext": "if塾では、単なるAI利用ではなく、自分の思考プロセスを反映した「自律型エージェント」を自作。効率化の先にある、本質的な学びに集中できる環境へ。",
+          "alt": "内容3 - 自分の『分身』が24時間キャリアを最適化"
         },
         {
           "page_number": 5,
@@ -229,21 +228,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "アプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "yamazaki_takumi",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-04-29T15:13:08",
+      "research_date": "2026-04-29T21:20:26",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！自律型AIで「宿題」は",
+        "cover_text": "自律型AIで進路選びを自動化！2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！自律型AIで「宿題」は消滅する？",
-            "subtext": "4月の新学期に革命を起こすエージェンティックAI開発",
+            "headline": "自律型AIで進路選びを自動化！2026年春、学生が開発した最新エージェント",
+            "subtext": "【2026年4月最新版】if塾生の驚きの成果物",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIに聞く」から「AIが動く」へ",
-            "subtext": "これまでの生成AIは指示待ち。でも2026年の学生は、計画・実行・修正までこなす『自律型エージェント』を相棒にしています。",
+            "headline": "新学期の悩み「情報過多」を解消",
+            "subtext": "大学の履修登録、奨学金、最新資格の動向…調べるだけで一日が終わっていませんか？2026年は、探す時代から『AIが動く時代』へ。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "最新アプリ『StudyPath 2026』",
-            "subtext": "GPT-5以降のマルチエージェント機能を搭載。教科書をスキャンするだけで、目標に合わせた日々の学習タスクを自動生成し、進捗を自律管理します。",
+            "headline": "『エージェンティックAI』が勝手にタスク完遂",
+            "subtext": "GPT-5以降のマルチモーダル基盤を活用。目標を伝えるだけで、AIがネット検索、ドキュメント作成、出願リマインドまで自律的に実行します。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「伴走型AI」の姿",
-            "subtext": "ただ答えを出すのではなく、学生の思考の癖を分析。詰まった時だけヒントを出す『専属コーチ』として、真の学力を伸ばすツールに進化しました。",
+            "headline": "自分の『分身』が24時間キャリアを最適化",
+            "subtext": "if塾では、単なるAI利用ではなく、自分の思考プロセスを反映した「自律型エージェント」を自作。効率化の先にある、本質的な学びに集中できる環境へ。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
