@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 114,
-    "last_updated": "2026-05-01T21:04:41.856849",
+    "total_posts": 115,
+    "last_updated": "2026-05-02T11:41:16.771746",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260502_activity",
+      "post_id": "20260502_activity",
+      "created_at": "2026-05-02T11:41:16",
+      "datetime": "2026-05-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+      "target_audience": "Students & Parents",
+      "title": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+      "caption": "【2026年5月】最新の授業レポートをお届けします。\n\nGWが始まり、進級から1ヶ月が経ちました。if塾の教室では、今まさに「学びのパラダイムシフト」が起きています。\n\nかつてのプログラミング教育は「コードの書き方」を覚えることが中心でした。しかし、2026年現在の現場では、AIエージェントが瞬時にコードを生成・実行します。\n\n今、私たちが生徒たちに伝えているのは、コードの文法ではなく「AIをどう動かし、どんな課題を解決するか」という設計力です。\n\n「AIがあるから勉強しなくていい」ではなく、「AIがあるからこそ、より高度な創造ができる」。\nそんな未来のスキルを、if塾で一緒に身につけませんか？\n\n最新のAI活用授業の様子は、プロフィールのリンクからチェック！",
+      "caption_text": "【2026年5月】最新の授業レポートをお届けします。\n\nGWが始まり、進級から1ヶ月が経ちました。if塾の教室では、今まさに「学びのパラダイムシフト」が起きています。\n\nかつてのプログラミング教育は「コードの書き方」を覚えることが中心でした。しかし、2026年現在の現場では、AIエージェントが瞬時にコードを生成・実行します。\n\n今、私たちが生徒たちに伝えているのは、コードの文法ではなく「AIをどう動かし、どんな課題を解決するか」という設計力です。\n\n「AIがあるから勉強しなくていい」ではなく、「AIがあるからこそ、より高度な創造ができる」。\nそんな未来のスキルを、if塾で一緒に身につけませんか？\n\n最新のAI活用授業の様子は、プロフィールのリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#AIエージェント",
+        "#プログラミング教育",
+        "#教育のICT化",
+        "#最新教育",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "sub_title": "2026年5月：if塾・活動報告",
+          "text_content": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-01.png",
+          "image_file": "assets/img/posts/20260502_activity-01.png",
+          "overlay_text": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "subtext": "2026年5月：if塾・活動報告",
+          "alt": "表紙 - コード不要の時代へ。AIエージェントと『"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "sub_title": "これまでのプログラミング学習は終わり？生徒たちが直面しているのは、コードの書き方ではなく『AIへの的確な指示』という新しい課題です。",
+          "text_content": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-02.png",
+          "image_file": "assets/img/posts/20260502_activity-02.png",
+          "overlay_text": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "subtext": "これまでのプログラミング学習は終わり？生徒たちが直面しているのは、コードの書き方ではなく『AIへの的確な指示』という新しい課題です。",
+          "alt": "内容1 - 「書く」から「設計する」へ。中間テストで"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIエージェントを使いこなす中高生たち",
+          "sub_title": "授業では最新のマルチモーダルAIを活用。生徒はコードを一行も書かずに、複雑なWebアプリの『アーキテクチャ設計』に没頭しています。",
+          "text_content": "自律型AIエージェントを使いこなす中高生たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-03.png",
+          "image_file": "assets/img/posts/20260502_activity-03.png",
+          "overlay_text": "自律型AIエージェントを使いこなす中高生たち",
+          "subtext": "授業では最新のマルチモーダルAIを活用。生徒はコードを一行も書かずに、複雑なWebアプリの『アーキテクチャ設計』に没頭しています。",
+          "alt": "内容2 - 自律型AIエージェントを使いこなす中高生"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "sub_title": "2026年の学びは「AIに何をさせるか」の意図設計。論理的思考の出口が、手作業からAIマネジメントへと完全にシフトしました。",
+          "text_content": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-04.png",
+          "image_file": "assets/img/posts/20260502_activity-04.png",
+          "overlay_text": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "subtext": "2026年の学びは「AIに何をさせるか」の意図設計。論理的思考の出口が、手作業からAIマネジメントへと完全にシフトしました。",
+          "alt": "内容3 - 【if塾の視点】問われるのは、解く力より"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "sub_title": "2026年5月：if塾・活動報告",
+          "text_content": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-01.png",
+          "image_file": "assets/img/posts/20260502_activity-01.png",
+          "overlay_text": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+          "subtext": "2026年5月：if塾・活動報告",
+          "alt": "表紙 - コード不要の時代へ。AIエージェントと『"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "sub_title": "これまでのプログラミング学習は終わり？生徒たちが直面しているのは、コードの書き方ではなく『AIへの的確な指示』という新しい課題です。",
+          "text_content": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-02.png",
+          "image_file": "assets/img/posts/20260502_activity-02.png",
+          "overlay_text": "「書く」から「設計する」へ。中間テストで見えた壁",
+          "subtext": "これまでのプログラミング学習は終わり？生徒たちが直面しているのは、コードの書き方ではなく『AIへの的確な指示』という新しい課題です。",
+          "alt": "内容1 - 「書く」から「設計する」へ。中間テストで"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AIエージェントを使いこなす中高生たち",
+          "sub_title": "授業では最新のマルチモーダルAIを活用。生徒はコードを一行も書かずに、複雑なWebアプリの『アーキテクチャ設計』に没頭しています。",
+          "text_content": "自律型AIエージェントを使いこなす中高生たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-03.png",
+          "image_file": "assets/img/posts/20260502_activity-03.png",
+          "overlay_text": "自律型AIエージェントを使いこなす中高生たち",
+          "subtext": "授業では最新のマルチモーダルAIを活用。生徒はコードを一行も書かずに、複雑なWebアプリの『アーキテクチャ設計』に没頭しています。",
+          "alt": "内容2 - 自律型AIエージェントを使いこなす中高生"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "sub_title": "2026年の学びは「AIに何をさせるか」の意図設計。論理的思考の出口が、手作業からAIマネジメントへと完全にシフトしました。",
+          "text_content": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260502_activity-04.png",
+          "image_file": "assets/img/posts/20260502_activity-04.png",
+          "overlay_text": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+          "subtext": "2026年の学びは「AIに何をさせるか」の意図設計。論理的思考の出口が、手作業からAIマネジメントへと完全にシフトしました。",
+          "alt": "内容3 - 【if塾の視点】問われるのは、解く力より"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260502_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260502_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260502_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260502_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-02T11:39:51",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コード不要の時代へ。AIエージェントと『",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コード不要の時代へ。AIエージェントと『共創』する最新授業",
+            "subtext": "2026年5月：if塾・活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「書く」から「設計する」へ。中間テストで見えた壁",
+            "subtext": "これまでのプログラミング学習は終わり？生徒たちが直面しているのは、コードの書き方ではなく『AIへの的確な指示』という新しい課題です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型AIエージェントを使いこなす中高生たち",
+            "subtext": "授業では最新のマルチモーダルAIを活用。生徒はコードを一行も書かずに、複雑なWebアプリの『アーキテクチャ設計』に没頭しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "【if塾の視点】問われるのは、解く力より『問いを立てる力』",
+            "subtext": "2026年の学びは「AIに何をさせるか」の意図設計。論理的思考の出口が、手作業からAIマネジメントへと完全にシフトしました。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260501_business",
       "post_id": "20260501_business",
