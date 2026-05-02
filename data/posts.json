@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 115,
-    "last_updated": "2026-05-02T14:56:03.197653",
+    "last_updated": "2026-05-02T20:53:32.994024",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260502_activity",
       "post_id": "20260502_activity",
-      "created_at": "2026-05-02T14:56:03",
+      "created_at": "2026-05-02T20:53:32",
       "datetime": "2026-05-02T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは敵じゃない、最強の「副操縦士」だ！",
+      "theme": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
       "target_audience": "Students & Parents",
-      "title": "AIは敵じゃない、最強の「副操縦士」だ！",
-      "caption": "【2026年5月】GW真っ只中ですが、if塾では驚きの光景が広がっています！\n\n「AIが全部やってくれるから勉強しなくていい」\nそんな声が聞かれたのも今は昔。\n\n2026年現在のプログラミング学習は、AIを『副操縦士（コパイロット）』として使いこなし、人間が『機長』としてクリエイティブな意思決定をするスタイルへ完全に移行しました。\n\n今日の授業でも、生徒たちはAIにコードを書かせるのではなく、自分のアイデアを実現するための「最適な対話」を繰り返していました。\n\n重要なのは「何を作るか」を言語化する能力。\nif塾では、最新のAIツールを標準装備しながら、本質的な思考力を養うカリキュラムを強化しています。\n\n変化の激しい2026年。お子様に「使われる側」ではなく「使いこなす側」のスキルを。 \n\n詳細はプロフィール欄のリンクからチェック！",
-      "caption_text": "【2026年5月】GW真っ只中ですが、if塾では驚きの光景が広がっています！\n\n「AIが全部やってくれるから勉強しなくていい」\nそんな声が聞かれたのも今は昔。\n\n2026年現在のプログラミング学習は、AIを『副操縦士（コパイロット）』として使いこなし、人間が『機長』としてクリエイティブな意思決定をするスタイルへ完全に移行しました。\n\n今日の授業でも、生徒たちはAIにコードを書かせるのではなく、自分のアイデアを実現するための「最適な対話」を繰り返していました。\n\n重要なのは「何を作るか」を言語化する能力。\nif塾では、最新のAIツールを標準装備しながら、本質的な思考力を養うカリキュラムを強化しています。\n\n変化の激しい2026年。お子様に「使われる側」ではなく「使いこなす側」のスキルを。 \n\n詳細はプロフィール欄のリンクからチェック！",
+      "title": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+      "caption": "【2026年5月】GWの熱気の中、if塾では最新の「AI×プログラミング」ハッカソンを開催しました！\n\nかつてのプログラミング学習は、スペルミスや文法エラーとの戦いでした。\nしかし2026年現在、生成AIを標準活用することで、中高生でも数時間で実用的なアプリを組み上げることが可能です。\n\n今回、生徒たちはAIエージェントと対話しながら、社会課題を解決するツールを次々と開発。\nもはやAIは「カンニング」ではなく、最も頼れる「開発パートナー」となりました。\n\n大切なのは、AIに指示を出すための論理的思考と、提示されたコードの是非を見極める確かな基礎学力です。\nif塾では、最新ツールを使いこなしつつ、その裏側にある技術の本質を伝え続けています。\n\nあなたのお子様も、2026年基準の学びを体験してみませんか？",
+      "caption_text": "【2026年5月】GWの熱気の中、if塾では最新の「AI×プログラミング」ハッカソンを開催しました！\n\nかつてのプログラミング学習は、スペルミスや文法エラーとの戦いでした。\nしかし2026年現在、生成AIを標準活用することで、中高生でも数時間で実用的なアプリを組み上げることが可能です。\n\n今回、生徒たちはAIエージェントと対話しながら、社会課題を解決するツールを次々と開発。\nもはやAIは「カンニング」ではなく、最も頼れる「開発パートナー」となりました。\n\n大切なのは、AIに指示を出すための論理的思考と、提示されたコードの是非を見極める確かな基礎学力です。\nif塾では、最新ツールを使いこなしつつ、その裏側にある技術の本質を伝え続けています。\n\nあなたのお子様も、2026年基準の学びを体験してみませんか？",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#プログラミング教育",
         "#生成AI",
-        "#副操縦士",
-        "#GPT5s",
-        "#次世代学習",
-        "#エンジニア教育"
+        "#プログラミング教育",
+        "#ハッカソン",
+        "#AI教育",
+        "#中高生プログラマー",
+        "#STEM教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは敵じゃない、最強の「副操縦士」だ！",
-          "sub_title": "2026年5月最新：次世代プログラミング学習の現場報告",
-          "text_content": "AIは敵じゃない、最強の「副操縦士」だ！",
+          "main_title": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+          "sub_title": "【5月最新】生成AIを標準活用する次世代の学び",
+          "text_content": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-01.png",
           "image_file": "assets/img/posts/20260502_activity-01.png",
-          "overlay_text": "AIは敵じゃない、最強の「副操縦士」だ！",
-          "subtext": "2026年5月最新：次世代プログラミング学習の現場報告",
-          "alt": "表紙 - AIは敵じゃない、最強の「副操縦士」だ！"
+          "overlay_text": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+          "subtext": "【5月最新】生成AIを標準活用する次世代の学び",
+          "alt": "表紙 - AI×コードはもう当たり前。2026年式"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答えを写すだけ」で伸び悩んでいませんか？",
-          "sub_title": "AI浸透から2年、ただツールを使うだけの子と、使いこなす子の差が開いています。",
-          "text_content": "「答えを写すだけ」で伸び悩んでいませんか？",
+          "main_title": "「書けない」で止まる時間はもう、過去のもの。",
+          "sub_title": "従来は文法エラーで半日が潰れていました。2026年の今、生徒たちが直面しているのは「何を創るか」という本質的な問いです。",
+          "text_content": "「書けない」で止まる時間はもう、過去のもの。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-02.png",
           "image_file": "assets/img/posts/20260502_activity-02.png",
-          "overlay_text": "「答えを写すだけ」で伸び悩んでいませんか？",
-          "subtext": "AI浸透から2年、ただツールを使うだけの子と、使いこなす子の差が開いています。",
-          "alt": "内容1 - 「答えを写すだけ」で伸び悩んでいませんか"
+          "overlay_text": "「書けない」で止まる時間はもう、過去のもの。",
+          "subtext": "従来は文法エラーで半日が潰れていました。2026年の今、生徒たちが直面しているのは「何を創るか」という本質的な問いです。",
+          "alt": "内容1 - 「書けない」で止まる時間はもう、過去のも"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-5sと対話しながらコードを『設計』する生徒たち",
-          "sub_title": "エラー解決を丸投げするのではなく、論理的なデバッグ手法をAIから引き出す姿が日常に。",
-          "text_content": "GPT-5sと対話しながらコードを『設計』する生徒たち",
+          "main_title": "AIエージェントと共創する中高生たち",
+          "sub_title": "最新のAI開発ツールを使いこなし、開始3時間でプロトタイプを完成。マルチモーダルAIを組み込んだ高度なアプリが続出しています。",
+          "text_content": "AIエージェントと共創する中高生たち",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-03.png",
           "image_file": "assets/img/posts/20260502_activity-03.png",
-          "overlay_text": "GPT-5sと対話しながらコードを『設計』する生徒たち",
-          "subtext": "エラー解決を丸投げするのではなく、論理的なデバッグ手法をAIから引き出す姿が日常に。",
-          "alt": "内容2 - GPT-5sと対話しながらコードを『設計"
+          "overlay_text": "AIエージェントと共創する中高生たち",
+          "subtext": "最新のAI開発ツールを使いこなし、開始3時間でプロトタイプを完成。マルチモーダルAIを組み込んだ高度なアプリが続出しています。",
+          "alt": "内容2 - AIエージェントと共創する中高生たち"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは、AIへの『問いかけ力』",
-          "sub_title": "コードを書く技能以上に、意図を言語化しAIを制御するプロンプト思考が今の必須科目です。",
-          "text_content": "if塾が教えるのは、AIへの『問いかけ力』",
+          "main_title": "if塾が教えるのは「プロンプト」の先にある論理",
+          "sub_title": "AIが出したコードの正誤を判断し、構造を理解する。これからのプログラミング教育は「書く力」から「設計・検証する力」へシフトしています。",
+          "text_content": "if塾が教えるのは「プロンプト」の先にある論理",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-04.png",
           "image_file": "assets/img/posts/20260502_activity-04.png",
-          "overlay_text": "if塾が教えるのは、AIへの『問いかけ力』",
-          "subtext": "コードを書く技能以上に、意図を言語化しAIを制御するプロンプト思考が今の必須科目です。",
-          "alt": "内容3 - if塾が教えるのは、AIへの『問いかけ力"
+          "overlay_text": "if塾が教えるのは「プロンプト」の先にある論理",
+          "subtext": "AIが出したコードの正誤を判断し、構造を理解する。これからのプログラミング教育は「書く力」から「設計・検証する力」へシフトしています。",
+          "alt": "内容3 - if塾が教えるのは「プロンプト」の先にあ"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは敵じゃない、最強の「副操縦士」だ！",
-          "sub_title": "2026年5月最新：次世代プログラミング学習の現場報告",
-          "text_content": "AIは敵じゃない、最強の「副操縦士」だ！",
+          "main_title": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+          "sub_title": "【5月最新】生成AIを標準活用する次世代の学び",
+          "text_content": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-01.png",
           "image_file": "assets/img/posts/20260502_activity-01.png",
-          "overlay_text": "AIは敵じゃない、最強の「副操縦士」だ！",
-          "subtext": "2026年5月最新：次世代プログラミング学習の現場報告",
-          "alt": "表紙 - AIは敵じゃない、最強の「副操縦士」だ！"
+          "overlay_text": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+          "subtext": "【5月最新】生成AIを標準活用する次世代の学び",
+          "alt": "表紙 - AI×コードはもう当たり前。2026年式"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答えを写すだけ」で伸び悩んでいませんか？",
-          "sub_title": "AI浸透から2年、ただツールを使うだけの子と、使いこなす子の差が開いています。",
-          "text_content": "「答えを写すだけ」で伸び悩んでいませんか？",
+          "main_title": "「書けない」で止まる時間はもう、過去のもの。",
+          "sub_title": "従来は文法エラーで半日が潰れていました。2026年の今、生徒たちが直面しているのは「何を創るか」という本質的な問いです。",
+          "text_content": "「書けない」で止まる時間はもう、過去のもの。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-02.png",
           "image_file": "assets/img/posts/20260502_activity-02.png",
-          "overlay_text": "「答えを写すだけ」で伸び悩んでいませんか？",
-          "subtext": "AI浸透から2年、ただツールを使うだけの子と、使いこなす子の差が開いています。",
-          "alt": "内容1 - 「答えを写すだけ」で伸び悩んでいませんか"
+          "overlay_text": "「書けない」で止まる時間はもう、過去のもの。",
+          "subtext": "従来は文法エラーで半日が潰れていました。2026年の今、生徒たちが直面しているのは「何を創るか」という本質的な問いです。",
+          "alt": "内容1 - 「書けない」で止まる時間はもう、過去のも"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-5sと対話しながらコードを『設計』する生徒たち",
-          "sub_title": "エラー解決を丸投げするのではなく、論理的なデバッグ手法をAIから引き出す姿が日常に。",
-          "text_content": "GPT-5sと対話しながらコードを『設計』する生徒たち",
+          "main_title": "AIエージェントと共創する中高生たち",
+          "sub_title": "最新のAI開発ツールを使いこなし、開始3時間でプロトタイプを完成。マルチモーダルAIを組み込んだ高度なアプリが続出しています。",
+          "text_content": "AIエージェントと共創する中高生たち",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-03.png",
           "image_file": "assets/img/posts/20260502_activity-03.png",
-          "overlay_text": "GPT-5sと対話しながらコードを『設計』する生徒たち",
-          "subtext": "エラー解決を丸投げするのではなく、論理的なデバッグ手法をAIから引き出す姿が日常に。",
-          "alt": "内容2 - GPT-5sと対話しながらコードを『設計"
+          "overlay_text": "AIエージェントと共創する中高生たち",
+          "subtext": "最新のAI開発ツールを使いこなし、開始3時間でプロトタイプを完成。マルチモーダルAIを組み込んだ高度なアプリが続出しています。",
+          "alt": "内容2 - AIエージェントと共創する中高生たち"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは、AIへの『問いかけ力』",
-          "sub_title": "コードを書く技能以上に、意図を言語化しAIを制御するプロンプト思考が今の必須科目です。",
-          "text_content": "if塾が教えるのは、AIへの『問いかけ力』",
+          "main_title": "if塾が教えるのは「プロンプト」の先にある論理",
+          "sub_title": "AIが出したコードの正誤を判断し、構造を理解する。これからのプログラミング教育は「書く力」から「設計・検証する力」へシフトしています。",
+          "text_content": "if塾が教えるのは「プロンプト」の先にある論理",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260502_activity-04.png",
           "image_file": "assets/img/posts/20260502_activity-04.png",
-          "overlay_text": "if塾が教えるのは、AIへの『問いかけ力』",
-          "subtext": "コードを書く技能以上に、意図を言語化しAIを制御するプロンプト思考が今の必須科目です。",
-          "alt": "内容3 - if塾が教えるのは、AIへの『問いかけ力"
+          "overlay_text": "if塾が教えるのは「プロンプト」の先にある論理",
+          "subtext": "AIが出したコードの正誤を判断し、構造を理解する。これからのプログラミング教育は「書く力」から「設計・検証する力」へシフトしています。",
+          "alt": "内容3 - if塾が教えるのは「プロンプト」の先にあ"
         },
         {
           "page_number": 5,
@@ -229,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "井上陽斗",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "アプリ開発"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "yamazaki_takumi",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-02T14:54:33",
+      "research_date": "2026-05-02T20:51:58",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは敵じゃない、最強の「副操縦士」だ！",
+        "cover_text": "AI×コードはもう当たり前。2026年式",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは敵じゃない、最強の「副操縦士」だ！",
-            "subtext": "2026年5月最新：次世代プログラミング学習の現場報告",
+            "headline": "AI×コードはもう当たり前。2026年式ハッカソン密着！",
+            "subtext": "【5月最新】生成AIを標準活用する次世代の学び",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「答えを写すだけ」で伸び悩んでいませんか？",
-            "subtext": "AI浸透から2年、ただツールを使うだけの子と、使いこなす子の差が開いています。",
+            "headline": "「書けない」で止まる時間はもう、過去のもの。",
+            "subtext": "従来は文法エラーで半日が潰れていました。2026年の今、生徒たちが直面しているのは「何を創るか」という本質的な問いです。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "GPT-5sと対話しながらコードを『設計』する生徒たち",
-            "subtext": "エラー解決を丸投げするのではなく、論理的なデバッグ手法をAIから引き出す姿が日常に。",
+            "headline": "AIエージェントと共創する中高生たち",
+            "subtext": "最新のAI開発ツールを使いこなし、開始3時間でプロトタイプを完成。マルチモーダルAIを組み込んだ高度なアプリが続出しています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教えるのは、AIへの『問いかけ力』",
-            "subtext": "コードを書く技能以上に、意図を言語化しAIを制御するプロンプト思考が今の必須科目です。",
+            "headline": "if塾が教えるのは「プロンプト」の先にある論理",
+            "subtext": "AIが出したコードの正誤を判断し、構造を理解する。これからのプログラミング教育は「書く力」から「設計・検証する力」へシフトしています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
