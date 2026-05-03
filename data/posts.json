@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 115,
-    "last_updated": "2026-05-02T20:53:32.994024",
+    "total_posts": 116,
+    "last_updated": "2026-05-03T11:53:12.928480",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260503_activity",
+      "post_id": "20260503_activity",
+      "created_at": "2026-05-03T11:53:12",
+      "datetime": "2026-05-03T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+      "target_audience": "Students & Parents",
+      "title": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+      "caption": "【2026年5月】最新の教育現場からの報告です。\n\n「AIに答えを聞く」時代は、2025年で終わりました。\n2026年現在の教育トレンドは、自律型AI（エージェントAI）との「伴走型学習」です。\n\n今、if塾の教室では、AIが一方的に教えるのではなく、生徒一人ひとりの進捗を自ら把握し、「君ならこの課題にどうアプローチする？」と問いかける光景が日常になっています。\n\n5月のこの時期、新しい環境に慣れてきた今こそ、指示待ち人間にならないための「AIとの協働スキル」を身につけるチャンスです。\n\n「AIに使われる」のではなく「AIと共に創る」。\nif塾で、2026年基準の学びを体験してみませんか？\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年5月】最新の教育現場からの報告です。\n\n「AIに答えを聞く」時代は、2025年で終わりました。\n2026年現在の教育トレンドは、自律型AI（エージェントAI）との「伴走型学習」です。\n\n今、if塾の教室では、AIが一方的に教えるのではなく、生徒一人ひとりの進捗を自ら把握し、「君ならこの課題にどうアプローチする？」と問いかける光景が日常になっています。\n\n5月のこの時期、新しい環境に慣れてきた今こそ、指示待ち人間にならないための「AIとの協働スキル」を身につけるチャンスです。\n\n「AIに使われる」のではなく「AIと共に創る」。\nif塾で、2026年基準の学びを体験してみませんか？\n\n詳細はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年教育",
+        "#エージェントAI",
+        "#伴走型学習",
+        "#自律型AI",
+        "#教育DX",
+        "#最新教育",
+        "#指示待ち人間からの脱却"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "sub_title": "2026.05.03 最新教育レポート",
+          "text_content": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-01.png",
+          "image_file": "assets/img/posts/20260503_activity-01.png",
+          "overlay_text": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "subtext": "2026.05.03 最新教育レポート",
+          "alt": "表紙 - 指示待ちはもう古い？AIと「共創」する2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすればいい？」から卒業できない不安",
+          "sub_title": "答えを教えるAIの普及から1年。今、保護者が最も懸念しているのは、子供たちの『思考停止』と『自律性の欠如』です。",
+          "text_content": "「何をすればいい？」から卒業できない不安",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-02.png",
+          "image_file": "assets/img/posts/20260503_activity-02.png",
+          "overlay_text": "「何をすればいい？」から卒業できない不安",
+          "subtext": "答えを教えるAIの普及から1年。今、保護者が最も懸念しているのは、子供たちの『思考停止』と『自律性の欠如』です。",
+          "alt": "内容1 - 「何をすればいい？」から卒業できない不安"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "エージェントAIが「伴走」する授業風景",
+          "sub_title": "if塾では最新の自律型AIを導入。AIが答えを出すのではなく、生徒の目標に合わせ『次に必要な問い』を投げかける学習が当たり前になりました。",
+          "text_content": "エージェントAIが「伴走」する授業風景",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-03.png",
+          "image_file": "assets/img/posts/20260503_activity-03.png",
+          "overlay_text": "エージェントAIが「伴走」する授業風景",
+          "subtext": "if塾では最新の自律型AIを導入。AIが答えを出すのではなく、生徒の目標に合わせ『次に必要な問い』を投げかける学習が当たり前になりました。",
+          "alt": "内容2 - エージェントAIが「伴走」する授業風景"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを「使う側」から「協働する側」へ",
+          "sub_title": "指導者の役割は管理からコーチングへ。AIエージェントをチームメイトとして使いこなし、自らプロジェクトを動かす力を5月の連休明けから強化します。",
+          "text_content": "AIを「使う側」から「協働する側」へ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-04.png",
+          "image_file": "assets/img/posts/20260503_activity-04.png",
+          "overlay_text": "AIを「使う側」から「協働する側」へ",
+          "subtext": "指導者の役割は管理からコーチングへ。AIエージェントをチームメイトとして使いこなし、自らプロジェクトを動かす力を5月の連休明けから強化します。",
+          "alt": "内容3 - AIを「使う側」から「協働する側」へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "sub_title": "2026.05.03 最新教育レポート",
+          "text_content": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-01.png",
+          "image_file": "assets/img/posts/20260503_activity-01.png",
+          "overlay_text": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+          "subtext": "2026.05.03 最新教育レポート",
+          "alt": "表紙 - 指示待ちはもう古い？AIと「共創」する2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「何をすればいい？」から卒業できない不安",
+          "sub_title": "答えを教えるAIの普及から1年。今、保護者が最も懸念しているのは、子供たちの『思考停止』と『自律性の欠如』です。",
+          "text_content": "「何をすればいい？」から卒業できない不安",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-02.png",
+          "image_file": "assets/img/posts/20260503_activity-02.png",
+          "overlay_text": "「何をすればいい？」から卒業できない不安",
+          "subtext": "答えを教えるAIの普及から1年。今、保護者が最も懸念しているのは、子供たちの『思考停止』と『自律性の欠如』です。",
+          "alt": "内容1 - 「何をすればいい？」から卒業できない不安"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "エージェントAIが「伴走」する授業風景",
+          "sub_title": "if塾では最新の自律型AIを導入。AIが答えを出すのではなく、生徒の目標に合わせ『次に必要な問い』を投げかける学習が当たり前になりました。",
+          "text_content": "エージェントAIが「伴走」する授業風景",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-03.png",
+          "image_file": "assets/img/posts/20260503_activity-03.png",
+          "overlay_text": "エージェントAIが「伴走」する授業風景",
+          "subtext": "if塾では最新の自律型AIを導入。AIが答えを出すのではなく、生徒の目標に合わせ『次に必要な問い』を投げかける学習が当たり前になりました。",
+          "alt": "内容2 - エージェントAIが「伴走」する授業風景"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを「使う側」から「協働する側」へ",
+          "sub_title": "指導者の役割は管理からコーチングへ。AIエージェントをチームメイトとして使いこなし、自らプロジェクトを動かす力を5月の連休明けから強化します。",
+          "text_content": "AIを「使う側」から「協働する側」へ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260503_activity-04.png",
+          "image_file": "assets/img/posts/20260503_activity-04.png",
+          "overlay_text": "AIを「使う側」から「協働する側」へ",
+          "subtext": "指導者の役割は管理からコーチングへ。AIエージェントをチームメイトとして使いこなし、自らプロジェクトを動かす力を5月の連休明けから強化します。",
+          "alt": "内容3 - AIを「使う側」から「協働する側」へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260503_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260503_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260503_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260503_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-03T11:51:47",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示待ちはもう古い？AIと「共創」する2",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示待ちはもう古い？AIと「共創」する2026年の新常識",
+            "subtext": "2026.05.03 最新教育レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「何をすればいい？」から卒業できない不安",
+            "subtext": "答えを教えるAIの普及から1年。今、保護者が最も懸念しているのは、子供たちの『思考停止』と『自律性の欠如』です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "エージェントAIが「伴走」する授業風景",
+            "subtext": "if塾では最新の自律型AIを導入。AIが答えを出すのではなく、生徒の目標に合わせ『次に必要な問い』を投げかける学習が当たり前になりました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "AIを「使う側」から「協働する側」へ",
+            "subtext": "指導者の役割は管理からコーチングへ。AIエージェントをチームメイトとして使いこなし、自らプロジェクトを動かす力を5月の連休明けから強化します。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260502_activity",
       "post_id": "20260502_activity",
