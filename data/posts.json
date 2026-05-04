@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 117,
-    "last_updated": "2026-05-04T15:28:55.750121",
+    "last_updated": "2026-05-04T21:24:41.758417",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260504_announcement",
       "post_id": "20260504_announcement",
-      "created_at": "2026-05-04T15:28:55",
+      "created_at": "2026-05-04T21:24:41",
       "datetime": "2026-05-04T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、AIは「使う」から「任せる」へ",
+      "theme": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
       "target_audience": "Students & Parents",
-      "title": "2026年、AIは「使う」から「任せる」へ",
-      "caption": "【2026年5月】最新の教育アップデート！\n\n「AIに何を聞けばいいかわからない…」そんな悩みはもう過去のものです。2026年現在、主流は『自律型エージェント（AI Agent）』へシフトしました。\n\nもはやAIは、一問一答の道具ではありません。\n目標に向かって自ら考え、タスクを分解し、実行する存在です。\n\nこの5月、if塾では最新のAIエージェント教育を本格始動。\n学生たちが「AIに使われる」のではなく「AIを指揮する」スキルを身につけるための環境を整えました。\n\n「うちの子、今のままで大丈夫？」\n「最新のAI教育って具体的に何をするの？」\n\nそんな不安や疑問に応える無料相談会を実施中です。\n詳細はプロフィール欄のリンクからチェックしてください！\n\n#if塾 #2026年 #最新教育 #自律型エージェント #AIAgent #AI教育 #個別指導 #未来の教育 #生成AI",
-      "caption_text": "【2026年5月】最新の教育アップデート！\n\n「AIに何を聞けばいいかわからない…」そんな悩みはもう過去のものです。2026年現在、主流は『自律型エージェント（AI Agent）』へシフトしました。\n\nもはやAIは、一問一答の道具ではありません。\n目標に向かって自ら考え、タスクを分解し、実行する存在です。\n\nこの5月、if塾では最新のAIエージェント教育を本格始動。\n学生たちが「AIに使われる」のではなく「AIを指揮する」スキルを身につけるための環境を整えました。\n\n「うちの子、今のままで大丈夫？」\n「最新のAI教育って具体的に何をするの？」\n\nそんな不安や疑問に応える無料相談会を実施中です。\n詳細はプロフィール欄のリンクからチェックしてください！\n\n#if塾 #2026年 #最新教育 #自律型エージェント #AIAgent #AI教育 #個別指導 #未来の教育 #生成AI",
+      "title": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+      "caption": "【2026年5月】最新のAI教育ニュースをお届けします！\n\nついにif塾の「AI共創コース」夏期募集が本日よりスタートしました✨\n\nGPT-5やGemini 2.0といった次世代モデルの登場により、学びの形は劇的に変化しています。\nこれからの時代に求められるのは「AIに代わられる力」ではなく「AIを使いこなし、新しい価値を生み出す力」です。\n\n今年の夏、if塾で最新テクノロジーを味方につけてみませんか？\n\n✅ 募集期間：5月4日〜6月15日まで\n✅ 対象：中学生・高校生・大学生\n\n詳細はプロフィールのリンクから特設サイトをチェックしてください！🔗",
+      "caption_text": "【2026年5月】最新のAI教育ニュースをお届けします！\n\nついにif塾の「AI共創コース」夏期募集が本日よりスタートしました✨\n\nGPT-5やGemini 2.0といった次世代モデルの登場により、学びの形は劇的に変化しています。\nこれからの時代に求められるのは「AIに代わられる力」ではなく「AIを使いこなし、新しい価値を生み出す力」です。\n\n今年の夏、if塾で最新テクノロジーを味方につけてみませんか？\n\n✅ 募集期間：5月4日〜6月15日まで\n✅ 対象：中学生・高校生・大学生\n\n詳細はプロフィールのリンクから特設サイトをチェックしてください！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#自律型エージェント",
-        "#AIAgent",
         "#AI教育",
-        "#教育トレンド",
-        "#未来の学習",
-        "#5月のお知らせ"
+        "#GPT5",
+        "#Gemini",
+        "#夏期講習",
+        "#プロンプトエンジニアリング",
+        "#未来の教育",
+        "#AI共創"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIは「使う」から「任せる」へ",
-          "sub_title": "5月の最新教育トレンド：自律型エージェントの衝撃",
-          "text_content": "2026年、AIは「使う」から「任せる」へ",
+          "main_title": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+          "sub_title": "【2026年5月最新】夏期講習の先行予約スタート",
+          "text_content": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-01.png",
           "image_file": "assets/img/posts/20260504_announcement-01.png",
-          "overlay_text": "2026年、AIは「使う」から「任せる」へ",
-          "subtext": "5月の最新教育トレンド：自律型エージェントの衝撃",
-          "alt": "表紙 - 2026年、AIは「使う」から「任せる」"
+          "overlay_text": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+          "subtext": "【2026年5月最新】夏期講習の先行予約スタート",
+          "alt": "表紙 - GPT-5・Gemini 2.0を使いこ"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」では取り残される時代？",
-          "sub_title": "対話型AIの普及から2年。2026年の今、求められているのはAIを自律的に動かす『エージェント管理能力』です。中間テストを前に、学習効率の差が決定的に開き始めています。",
-          "text_content": "「指示待ち」では取り残される時代？",
+          "main_title": "「AIを使いこなす側」か「代行される側」か。",
+          "sub_title": "2026年、入試や就職の現場ではAIとの共創スキルが必須に。ただ使うだけでなく、精度の高いGPT-5やGeminiをどう指揮するかが問われています。",
+          "text_content": "「AIを使いこなす側」か「代行される側」か。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-02.png",
           "image_file": "assets/img/posts/20260504_announcement-02.png",
-          "overlay_text": "「指示待ち」では取り残される時代？",
-          "subtext": "対話型AIの普及から2年。2026年の今、求められているのはAIを自律的に動かす『エージェント管理能力』です。中間テストを前に、学習効率の差が決定的に開き始めています。",
-          "alt": "内容1 - 「指示待ち」では取り残される時代？"
+          "overlay_text": "「AIを使いこなす側」か「代行される側」か。",
+          "subtext": "2026年、入試や就職の現場ではAIとの共創スキルが必須に。ただ使うだけでなく、精度の高いGPT-5やGeminiをどう指揮するかが問われています。",
+          "alt": "内容1 - 「AIを使いこなす側」か「代行される側」"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントが「家庭教師」に",
-          "sub_title": "最新のAI Agentは、目標を伝えるだけで学習計画の策定から参考書の選定、理解度チェックまで自動で実行。もはや単なる検索ツールではなく、24時間並走する「パートナー」が一般化しました。",
-          "text_content": "自律型AIエージェントが「家庭教師」に",
+          "main_title": "最新モデルで『自分だけの超効率学習』を構築",
+          "sub_title": "最新のマルチモーダルAIを活用し、24時間体制の専属家庭教師を自分でプログラミング。夏休みの40日間で、一生モノの「プロンプトエンジニアリング力」を習得します。",
+          "text_content": "最新モデルで『自分だけの超効率学習』を構築",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-03.png",
           "image_file": "assets/img/posts/20260504_announcement-03.png",
-          "overlay_text": "自律型AIエージェントが「家庭教師」に",
-          "subtext": "最新のAI Agentは、目標を伝えるだけで学習計画の策定から参考書の選定、理解度チェックまで自動で実行。もはや単なる検索ツールではなく、24時間並走する「パートナー」が一般化しました。",
-          "alt": "内容2 - 自律型AIエージェントが「家庭教師」に"
+          "overlay_text": "最新モデルで『自分だけの超効率学習』を構築",
+          "subtext": "最新のマルチモーダルAIを活用し、24時間体制の専属家庭教師を自分でプログラミング。夏休みの40日間で、一生モノの「プロンプトエンジニアリング力」を習得します。",
+          "alt": "内容2 - 最新モデルで『自分だけの超効率学習』を構"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを使いこなす「自律の力」",
-          "sub_title": "if塾では、AI Agentを構築・運用する新カリキュラムを導入。自分専用の学習エージェントを自作することで、論理的思考力と問題解決能力を同時に養います。この5月、一歩先へ進みませんか？",
-          "text_content": "if塾流：AIを使いこなす「自律の力」",
+          "main_title": "if塾流：思考を止めない「AI対話術」",
+          "sub_title": "答えを出すのはAI。問いを立てるのは自分。if塾では最新ツールを駆使し、論理的思考力と創造力を同時に鍛える独自のカリキュラムを提供します。",
+          "text_content": "if塾流：思考を止めない「AI対話術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-04.png",
           "image_file": "assets/img/posts/20260504_announcement-04.png",
-          "overlay_text": "if塾流：AIを使いこなす「自律の力」",
-          "subtext": "if塾では、AI Agentを構築・運用する新カリキュラムを導入。自分専用の学習エージェントを自作することで、論理的思考力と問題解決能力を同時に養います。この5月、一歩先へ進みませんか？",
-          "alt": "内容3 - if塾流：AIを使いこなす「自律の力」"
+          "overlay_text": "if塾流：思考を止めない「AI対話術」",
+          "subtext": "答えを出すのはAI。問いを立てるのは自分。if塾では最新ツールを駆使し、論理的思考力と創造力を同時に鍛える独自のカリキュラムを提供します。",
+          "alt": "内容3 - if塾流：思考を止めない「AI対話術」"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIは「使う」から「任せる」へ",
-          "sub_title": "5月の最新教育トレンド：自律型エージェントの衝撃",
-          "text_content": "2026年、AIは「使う」から「任せる」へ",
+          "main_title": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+          "sub_title": "【2026年5月最新】夏期講習の先行予約スタート",
+          "text_content": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-01.png",
           "image_file": "assets/img/posts/20260504_announcement-01.png",
-          "overlay_text": "2026年、AIは「使う」から「任せる」へ",
-          "subtext": "5月の最新教育トレンド：自律型エージェントの衝撃",
-          "alt": "表紙 - 2026年、AIは「使う」から「任せる」"
+          "overlay_text": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+          "subtext": "【2026年5月最新】夏期講習の先行予約スタート",
+          "alt": "表紙 - GPT-5・Gemini 2.0を使いこ"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ち」では取り残される時代？",
-          "sub_title": "対話型AIの普及から2年。2026年の今、求められているのはAIを自律的に動かす『エージェント管理能力』です。中間テストを前に、学習効率の差が決定的に開き始めています。",
-          "text_content": "「指示待ち」では取り残される時代？",
+          "main_title": "「AIを使いこなす側」か「代行される側」か。",
+          "sub_title": "2026年、入試や就職の現場ではAIとの共創スキルが必須に。ただ使うだけでなく、精度の高いGPT-5やGeminiをどう指揮するかが問われています。",
+          "text_content": "「AIを使いこなす側」か「代行される側」か。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-02.png",
           "image_file": "assets/img/posts/20260504_announcement-02.png",
-          "overlay_text": "「指示待ち」では取り残される時代？",
-          "subtext": "対話型AIの普及から2年。2026年の今、求められているのはAIを自律的に動かす『エージェント管理能力』です。中間テストを前に、学習効率の差が決定的に開き始めています。",
-          "alt": "内容1 - 「指示待ち」では取り残される時代？"
+          "overlay_text": "「AIを使いこなす側」か「代行される側」か。",
+          "subtext": "2026年、入試や就職の現場ではAIとの共創スキルが必須に。ただ使うだけでなく、精度の高いGPT-5やGeminiをどう指揮するかが問われています。",
+          "alt": "内容1 - 「AIを使いこなす側」か「代行される側」"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントが「家庭教師」に",
-          "sub_title": "最新のAI Agentは、目標を伝えるだけで学習計画の策定から参考書の選定、理解度チェックまで自動で実行。もはや単なる検索ツールではなく、24時間並走する「パートナー」が一般化しました。",
-          "text_content": "自律型AIエージェントが「家庭教師」に",
+          "main_title": "最新モデルで『自分だけの超効率学習』を構築",
+          "sub_title": "最新のマルチモーダルAIを活用し、24時間体制の専属家庭教師を自分でプログラミング。夏休みの40日間で、一生モノの「プロンプトエンジニアリング力」を習得します。",
+          "text_content": "最新モデルで『自分だけの超効率学習』を構築",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-03.png",
           "image_file": "assets/img/posts/20260504_announcement-03.png",
-          "overlay_text": "自律型AIエージェントが「家庭教師」に",
-          "subtext": "最新のAI Agentは、目標を伝えるだけで学習計画の策定から参考書の選定、理解度チェックまで自動で実行。もはや単なる検索ツールではなく、24時間並走する「パートナー」が一般化しました。",
-          "alt": "内容2 - 自律型AIエージェントが「家庭教師」に"
+          "overlay_text": "最新モデルで『自分だけの超効率学習』を構築",
+          "subtext": "最新のマルチモーダルAIを活用し、24時間体制の専属家庭教師を自分でプログラミング。夏休みの40日間で、一生モノの「プロンプトエンジニアリング力」を習得します。",
+          "alt": "内容2 - 最新モデルで『自分だけの超効率学習』を構"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを使いこなす「自律の力」",
-          "sub_title": "if塾では、AI Agentを構築・運用する新カリキュラムを導入。自分専用の学習エージェントを自作することで、論理的思考力と問題解決能力を同時に養います。この5月、一歩先へ進みませんか？",
-          "text_content": "if塾流：AIを使いこなす「自律の力」",
+          "main_title": "if塾流：思考を止めない「AI対話術」",
+          "sub_title": "答えを出すのはAI。問いを立てるのは自分。if塾では最新ツールを駆使し、論理的思考力と創造力を同時に鍛える独自のカリキュラムを提供します。",
+          "text_content": "if塾流：思考を止めない「AI対話術」",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260504_announcement-04.png",
           "image_file": "assets/img/posts/20260504_announcement-04.png",
-          "overlay_text": "if塾流：AIを使いこなす「自律の力」",
-          "subtext": "if塾では、AI Agentを構築・運用する新カリキュラムを導入。自分専用の学習エージェントを自作することで、論理的思考力と問題解決能力を同時に養います。この5月、一歩先へ進みませんか？",
-          "alt": "内容3 - if塾流：AIを使いこなす「自律の力」"
+          "overlay_text": "if塾流：思考を止めない「AI対話術」",
+          "subtext": "答えを出すのはAI。問いを立てるのは自分。if塾では最新ツールを駆使し、論理的思考力と創造力を同時に鍛える独自のカリキュラムを提供します。",
+          "alt": "内容3 - if塾流：思考を止めない「AI対話術」"
         },
         {
           "page_number": 5,
@@ -244,7 +245,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-04T15:27:23",
+      "research_date": "2026-05-04T21:23:09",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、AIは「使う」から「任せる」",
+        "cover_text": "GPT-5・Gemini 2.0を使いこ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、AIは「使う」から「任せる」へ",
-            "subtext": "5月の最新教育トレンド：自律型エージェントの衝撃",
+            "headline": "GPT-5・Gemini 2.0を使いこなす。2026年、新・AI共創コース始動",
+            "subtext": "【2026年5月最新】夏期講習の先行予約スタート",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ち」では取り残される時代？",
-            "subtext": "対話型AIの普及から2年。2026年の今、求められているのはAIを自律的に動かす『エージェント管理能力』です。中間テストを前に、学習効率の差が決定的に開き始めています。",
+            "headline": "「AIを使いこなす側」か「代行される側」か。",
+            "subtext": "2026年、入試や就職の現場ではAIとの共創スキルが必須に。ただ使うだけでなく、精度の高いGPT-5やGeminiをどう指揮するかが問われています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントが「家庭教師」に",
-            "subtext": "最新のAI Agentは、目標を伝えるだけで学習計画の策定から参考書の選定、理解度チェックまで自動で実行。もはや単なる検索ツールではなく、24時間並走する「パートナー」が一般化しました。",
+            "headline": "最新モデルで『自分だけの超効率学習』を構築",
+            "subtext": "最新のマルチモーダルAIを活用し、24時間体制の専属家庭教師を自分でプログラミング。夏休みの40日間で、一生モノの「プロンプトエンジニアリング力」を習得します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを使いこなす「自律の力」",
-            "subtext": "if塾では、AI Agentを構築・運用する新カリキュラムを導入。自分専用の学習エージェントを自作することで、論理的思考力と問題解決能力を同時に養います。この5月、一歩先へ進みませんか？",
+            "headline": "if塾流：思考を止めない「AI対話術」",
+            "subtext": "答えを出すのはAI。問いを立てるのは自分。if塾では最新ツールを駆使し、論理的思考力と創造力を同時に鍛える独自のカリキュラムを提供します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
