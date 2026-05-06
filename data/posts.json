@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 118,
-    "last_updated": "2026-05-05T21:09:26.859809",
+    "total_posts": 119,
+    "last_updated": "2026-05-06T11:48:33.747017",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260506_development",
+      "post_id": "20260506_development",
+      "created_at": "2026-05-06T11:48:33",
+      "datetime": "2026-05-06T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "Geminiと作るGW明けの爆速開発術",
+      "target_audience": "Students & Parents",
+      "title": "Geminiと作るGW明けの爆速開発術",
+      "caption": "【2026年5月】ゴールデンウィークが明け、いよいよ本格的な開発シーズンが到来しました！\n\n「プログラミングを始めたいけど、時間がかかりそう…」\nそんな悩みは2025年までのもの。2026年の今、GeminiやCopilotは単なる検索ツールではなく、あなたの右腕となる『開発パートナー』です。\n\nif塾では、最新AIを駆使した「超速アプリ開発」を実践中。\n大事なのはコードを暗記することではなく、AIにどう指示を出し、どう形にするかという「設計力」と「対話力」です。\n\nこの夏、あなただけのオリジナルアプリで周囲を驚かせませんか？\n今から始めれば、6月には形になります！\n\n詳細はプロフィール欄のリンクからチェックしてくださいね✨",
+      "caption_text": "【2026年5月】ゴールデンウィークが明け、いよいよ本格的な開発シーズンが到来しました！\n\n「プログラミングを始めたいけど、時間がかかりそう…」\nそんな悩みは2025年までのもの。2026年の今、GeminiやCopilotは単なる検索ツールではなく、あなたの右腕となる『開発パートナー』です。\n\nif塾では、最新AIを駆使した「超速アプリ開発」を実践中。\n大事なのはコードを暗記することではなく、AIにどう指示を出し、どう形にするかという「設計力」と「対話力」です。\n\nこの夏、あなただけのオリジナルアプリで周囲を驚かせませんか？\n今から始めれば、6月には形になります！\n\n詳細はプロフィール欄のリンクからチェックしてくださいね✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#Gemini",
+        "#Copilot",
+        "#プログラミング教育",
+        "#アプリ開発",
+        "#自由研究",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Geminiと作るGW明けの爆速開発術",
+          "sub_title": "2026年5月最新・AIは開発パートナーへ",
+          "text_content": "Geminiと作るGW明けの爆速開発術",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-01.png",
+          "image_file": "assets/img/posts/20260506_development-01.png",
+          "overlay_text": "Geminiと作るGW明けの爆速開発術",
+          "subtext": "2026年5月最新・AIは開発パートナーへ",
+          "alt": "表紙 - Geminiと作るGW明けの爆速開発術"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "sub_title": "自由研究やポートフォリオ。構想はあるのに、コードの一行目が書けない悩み。2026年の今、一人で悩む時間はもう不要です。",
+          "text_content": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-02.png",
+          "image_file": "assets/img/posts/20260506_development-02.png",
+          "overlay_text": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "subtext": "自由研究やポートフォリオ。構想はあるのに、コードの一行目が書けない悩み。2026年の今、一人で悩む時間はもう不要です。",
+          "alt": "内容1 - 「夏休みまでに何か作りたい」焦り始めてい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "sub_title": "手書きのラフ図をカメラで見せるだけで、UIコードとDB設計が数秒で完成。進化したGeminiなら2026年最新のライブラリ選定も完璧です。",
+          "text_content": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-03.png",
+          "image_file": "assets/img/posts/20260506_development-03.png",
+          "overlay_text": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "subtext": "手書きのラフ図をカメラで見せるだけで、UIコードとDB設計が数秒で完成。進化したGeminiなら2026年最新のライブラリ選定も完璧です。",
+          "alt": "内容2 - Gemini 2.5 × Copilot"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "sub_title": "エラー解決もAIにお任せ。if塾生はAIをコンサルタントとして使い、わずか3日でオリジナルWebアプリをデプロイ完了しています。",
+          "text_content": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-04.png",
+          "image_file": "assets/img/posts/20260506_development-04.png",
+          "overlay_text": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "subtext": "エラー解決もAIにお任せ。if塾生はAIをコンサルタントとして使い、わずか3日でオリジナルWebアプリをデプロイ完了しています。",
+          "alt": "内容3 - if塾流：AIに「書かせる」のではなく「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Geminiと作るGW明けの爆速開発術",
+          "sub_title": "2026年5月最新・AIは開発パートナーへ",
+          "text_content": "Geminiと作るGW明けの爆速開発術",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-01.png",
+          "image_file": "assets/img/posts/20260506_development-01.png",
+          "overlay_text": "Geminiと作るGW明けの爆速開発術",
+          "subtext": "2026年5月最新・AIは開発パートナーへ",
+          "alt": "表紙 - Geminiと作るGW明けの爆速開発術"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "sub_title": "自由研究やポートフォリオ。構想はあるのに、コードの一行目が書けない悩み。2026年の今、一人で悩む時間はもう不要です。",
+          "text_content": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-02.png",
+          "image_file": "assets/img/posts/20260506_development-02.png",
+          "overlay_text": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+          "subtext": "自由研究やポートフォリオ。構想はあるのに、コードの一行目が書けない悩み。2026年の今、一人で悩む時間はもう不要です。",
+          "alt": "内容1 - 「夏休みまでに何か作りたい」焦り始めてい"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "sub_title": "手書きのラフ図をカメラで見せるだけで、UIコードとDB設計が数秒で完成。進化したGeminiなら2026年最新のライブラリ選定も完璧です。",
+          "text_content": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-03.png",
+          "image_file": "assets/img/posts/20260506_development-03.png",
+          "overlay_text": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+          "subtext": "手書きのラフ図をカメラで見せるだけで、UIコードとDB設計が数秒で完成。進化したGeminiなら2026年最新のライブラリ選定も完璧です。",
+          "alt": "内容2 - Gemini 2.5 × Copilot"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "sub_title": "エラー解決もAIにお任せ。if塾生はAIをコンサルタントとして使い、わずか3日でオリジナルWebアプリをデプロイ完了しています。",
+          "text_content": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260506_development-04.png",
+          "image_file": "assets/img/posts/20260506_development-04.png",
+          "overlay_text": "if塾流：AIに「書かせる」のではなく「共創する」",
+          "subtext": "エラー解決もAIにお任せ。if塾生はAIをコンサルタントとして使い、わずか3日でオリジナルWebアプリをデプロイ完了しています。",
+          "alt": "内容3 - if塾流：AIに「書かせる」のではなく「"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260506_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260506_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260506_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260506_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-06T11:47:01",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "Geminiと作るGW明けの爆速開発術",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "Geminiと作るGW明けの爆速開発術",
+            "subtext": "2026年5月最新・AIは開発パートナーへ",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「夏休みまでに何か作りたい」焦り始めていませんか？",
+            "subtext": "自由研究やポートフォリオ。構想はあるのに、コードの一行目が書けない悩み。2026年の今、一人で悩む時間はもう不要です。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Gemini 2.5 × Copilotの『マルチモーダル対話』が凄すぎる",
+            "subtext": "手書きのラフ図をカメラで見せるだけで、UIコードとDB設計が数秒で完成。進化したGeminiなら2026年最新のライブラリ選定も完璧です。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIに「書かせる」のではなく「共創する」",
+            "subtext": "エラー解決もAIにお任せ。if塾生はAIをコンサルタントとして使い、わずか3日でオリジナルWebアプリをデプロイ完了しています。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260505_education",
       "post_id": "20260505_education",
