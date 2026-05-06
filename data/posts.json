@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 119,
-    "last_updated": "2026-05-06T15:20:31.424651",
+    "last_updated": "2026-05-06T22:00:41.545478",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260506_development",
       "post_id": "20260506_development",
-      "created_at": "2026-05-06T15:20:31",
+      "created_at": "2026-05-06T22:00:41",
       "datetime": "2026-05-06T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
+      "theme": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
       "target_audience": "Students & Parents",
-      "title": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-      "caption": "【2026年5月】最新のAI開発はここまで来ました。\n\n「AIを学ぶのに数ヶ月かかる」というのは、もう過去の話です。\n2026年の今、求められているのは「アイデアを即座に形にする力」。\n\nif塾では、最新のGemini 2.5等を活用し、\nわずか2コマ（約3時間）で実用的なアプリを構築する\n『AIハッカソン』形式のカリキュラムが普及しています。\n\n中間テストや進路面談が始まるこの時期、\n「自分には何が作れるのか」という実績を\n超高速で手に入れませんか？\n\nAIに使われるのではなく、AIを使いこなす側へ。\nif塾がその最短ルートをナビゲートします。\n\n詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年5月】最新のAI開発はここまで来ました。\n\n「AIを学ぶのに数ヶ月かかる」というのは、もう過去の話です。\n2026年の今、求められているのは「アイデアを即座に形にする力」。\n\nif塾では、最新のGemini 2.5等を活用し、\nわずか2コマ（約3時間）で実用的なアプリを構築する\n『AIハッカソン』形式のカリキュラムが普及しています。\n\n中間テストや進路面談が始まるこの時期、\n「自分には何が作れるのか」という実績を\n超高速で手に入れませんか？\n\nAIに使われるのではなく、AIを使いこなす側へ。\nif塾がその最短ルートをナビゲートします。\n\n詳細はプロフィールのリンクから！",
+      "title": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+      "caption": "【2026年5月】最新AI活用術✨\n\nGWが明け、新しい挑戦を始めたくなるこの時期。2026年の今、アプリ開発は「学ぶ」ものから「AIと一緒に創る」ものへと完全にシフトしました。\n\nGeminiやClaudeの最新モデルを「開発パートナー」として迎えることで、これまで数ヶ月かかっていた開発が、わずか数時間に短縮されています。\n\nif塾では、単なるコードの書き方ではなく、AIへ的確に指示を出す「プロンプト思考」と「課題解決力」を重視しています。これこそが、これからのAI共生時代に最も必要なスキルです。\n\nあなたもAIという最強の相棒と一緒に、自分だけのアプリを作ってみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
+      "caption_text": "【2026年5月】最新AI活用術✨\n\nGWが明け、新しい挑戦を始めたくなるこの時期。2026年の今、アプリ開発は「学ぶ」ものから「AIと一緒に創る」ものへと完全にシフトしました。\n\nGeminiやClaudeの最新モデルを「開発パートナー」として迎えることで、これまで数ヶ月かかっていた開発が、わずか数時間に短縮されています。\n\nif塾では、単なるコードの書き方ではなく、AIへ的確に指示を出す「プロンプト思考」と「課題解決力」を重視しています。これこそが、これからのAI共生時代に最も必要なスキルです。\n\nあなたもAIという最強の相棒と一緒に、自分だけのアプリを作ってみませんか？\n\n詳細はプロフィールのリンクをチェック！🚀",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIハッカソン",
+        "#生成AI",
+        "#アプリ開発",
         "#Gemini",
-        "#自由研究",
+        "#Claude",
         "#DX教育",
-        "#リスキリング",
-        "#最新テック"
+        "#プログラミング学習",
+        "#最新テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-          "sub_title": "2026年5月・進路を左右するAI実装の新常識",
-          "text_content": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
+          "main_title": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+          "sub_title": "GW明けの自由研究にも最適！5月の最新AI連携術",
+          "text_content": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-01.png",
           "image_file": "assets/img/posts/20260506_development-01.png",
-          "overlay_text": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-          "subtext": "2026年5月・進路を左右するAI実装の新常識",
-          "alt": "表紙 - 実質2コマでAIアプリ完成！2026年最"
+          "overlay_text": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+          "subtext": "GW明けの自由研究にも最適！5月の最新AI連携術",
+          "alt": "表紙 - AI相棒と30分で完成！2026年式『超"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
-          "sub_title": "プログラミングの基礎はAIが自動生成。でも「何を創るか」で悩む学生・保護者が急増中。2026年の受験や就活では、実装スピードこそが評価の分かれ道です。",
-          "text_content": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
+          "main_title": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
+          "sub_title": "コードを書くのが壁だった時代から、AIに意図を伝え、対話しながらプロトタイプを即座に生み出す時代へ。",
+          "text_content": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-02.png",
           "image_file": "assets/img/posts/20260506_development-02.png",
-          "overlay_text": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
-          "subtext": "プログラミングの基礎はAIが自動生成。でも「何を創るか」で悩む学生・保護者が急増中。2026年の受験や就活では、実装スピードこそが評価の分かれ道です。",
-          "alt": "内容1 - 「AIを学ぶ」から「AIを使い倒す」へ。"
+          "overlay_text": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
+          "subtext": "コードを書くのが壁だった時代から、AIに意図を伝え、対話しながらプロトタイプを即座に生み出す時代へ。",
+          "alt": "内容1 - 「やりたい」が形にならない…そんな悩みは"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
-          "sub_title": "最新のGemini Pro APIなら、対話だけでUI設計からデプロイまで完結。if塾が提唱する「2コマ完結型ハッカソン」なら、週末だけで実用的なツールが動きます。",
-          "text_content": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
+          "main_title": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
+          "sub_title": "手書きのラフ図をカメラで見せるだけで、UIデザインからロジック実装までAIが数秒で書き上げる2026年最新の開発フロー。",
+          "text_content": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-03.png",
           "image_file": "assets/img/posts/20260506_development-03.png",
-          "overlay_text": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
-          "subtext": "最新のGemini Pro APIなら、対話だけでUI設計からデプロイまで完結。if塾が提唱する「2コマ完結型ハッカソン」なら、週末だけで実用的なツールが動きます。",
-          "alt": "内容2 - Gemini 2.5×ノーコード連携。5"
+          "overlay_text": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
+          "subtext": "手書きのラフ図をカメラで見せるだけで、UIデザインからロジック実装までAIが数秒で書き上げる2026年最新の開発フロー。",
+          "alt": "内容2 - Gemini 2.5 × Claude "
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
-          "sub_title": "if塾では、AIを道具として使いこなす視点を伝授。5月の連休明けに、自分だけの「AI秘書」や「学習支援ツール」を完成させ、圧倒的な差をつけましょう。",
-          "text_content": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
+          "main_title": "if塾生が証明！技術よりも「対話力」が武器になる",
+          "sub_title": "プログラミング未経験でもOK。AIを使いこなす『言語化能力』を磨けば、アイデアを翌日には公開可能なアプリへ進化させられます。",
+          "text_content": "if塾生が証明！技術よりも「対話力」が武器になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-04.png",
           "image_file": "assets/img/posts/20260506_development-04.png",
-          "overlay_text": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
-          "subtext": "if塾では、AIを道具として使いこなす視点を伝授。5月の連休明けに、自分だけの「AI秘書」や「学習支援ツール」を完成させ、圧倒的な差をつけましょう。",
-          "alt": "内容3 - 単なる「学習」で終わらせない。ポートフォ"
+          "overlay_text": "if塾生が証明！技術よりも「対話力」が武器になる",
+          "subtext": "プログラミング未経験でもOK。AIを使いこなす『言語化能力』を磨けば、アイデアを翌日には公開可能なアプリへ進化させられます。",
+          "alt": "内容3 - if塾生が証明！技術よりも「対話力」が武"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-          "sub_title": "2026年5月・進路を左右するAI実装の新常識",
-          "text_content": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
+          "main_title": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+          "sub_title": "GW明けの自由研究にも最適！5月の最新AI連携術",
+          "text_content": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-01.png",
           "image_file": "assets/img/posts/20260506_development-01.png",
-          "overlay_text": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-          "subtext": "2026年5月・進路を左右するAI実装の新常識",
-          "alt": "表紙 - 実質2コマでAIアプリ完成！2026年最"
+          "overlay_text": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+          "subtext": "GW明けの自由研究にも最適！5月の最新AI連携術",
+          "alt": "表紙 - AI相棒と30分で完成！2026年式『超"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
-          "sub_title": "プログラミングの基礎はAIが自動生成。でも「何を創るか」で悩む学生・保護者が急増中。2026年の受験や就活では、実装スピードこそが評価の分かれ道です。",
-          "text_content": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
+          "main_title": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
+          "sub_title": "コードを書くのが壁だった時代から、AIに意図を伝え、対話しながらプロトタイプを即座に生み出す時代へ。",
+          "text_content": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-02.png",
           "image_file": "assets/img/posts/20260506_development-02.png",
-          "overlay_text": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
-          "subtext": "プログラミングの基礎はAIが自動生成。でも「何を創るか」で悩む学生・保護者が急増中。2026年の受験や就活では、実装スピードこそが評価の分かれ道です。",
-          "alt": "内容1 - 「AIを学ぶ」から「AIを使い倒す」へ。"
+          "overlay_text": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
+          "subtext": "コードを書くのが壁だった時代から、AIに意図を伝え、対話しながらプロトタイプを即座に生み出す時代へ。",
+          "alt": "内容1 - 「やりたい」が形にならない…そんな悩みは"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
-          "sub_title": "最新のGemini Pro APIなら、対話だけでUI設計からデプロイまで完結。if塾が提唱する「2コマ完結型ハッカソン」なら、週末だけで実用的なツールが動きます。",
-          "text_content": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
+          "main_title": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
+          "sub_title": "手書きのラフ図をカメラで見せるだけで、UIデザインからロジック実装までAIが数秒で書き上げる2026年最新の開発フロー。",
+          "text_content": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-03.png",
           "image_file": "assets/img/posts/20260506_development-03.png",
-          "overlay_text": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
-          "subtext": "最新のGemini Pro APIなら、対話だけでUI設計からデプロイまで完結。if塾が提唱する「2コマ完結型ハッカソン」なら、週末だけで実用的なツールが動きます。",
-          "alt": "内容2 - Gemini 2.5×ノーコード連携。5"
+          "overlay_text": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
+          "subtext": "手書きのラフ図をカメラで見せるだけで、UIデザインからロジック実装までAIが数秒で書き上げる2026年最新の開発フロー。",
+          "alt": "内容2 - Gemini 2.5 × Claude "
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
-          "sub_title": "if塾では、AIを道具として使いこなす視点を伝授。5月の連休明けに、自分だけの「AI秘書」や「学習支援ツール」を完成させ、圧倒的な差をつけましょう。",
-          "text_content": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
+          "main_title": "if塾生が証明！技術よりも「対話力」が武器になる",
+          "sub_title": "プログラミング未経験でもOK。AIを使いこなす『言語化能力』を磨けば、アイデアを翌日には公開可能なアプリへ進化させられます。",
+          "text_content": "if塾生が証明！技術よりも「対話力」が武器になる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260506_development-04.png",
           "image_file": "assets/img/posts/20260506_development-04.png",
-          "overlay_text": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
-          "subtext": "if塾では、AIを道具として使いこなす視点を伝授。5月の連休明けに、自分だけの「AI秘書」や「学習支援ツール」を完成させ、圧倒的な差をつけましょう。",
-          "alt": "内容3 - 単なる「学習」で終わらせない。ポートフォ"
+          "overlay_text": "if塾生が証明！技術よりも「対話力」が武器になる",
+          "subtext": "プログラミング未経験でもOK。AIを使いこなす『言語化能力』を磨けば、アイデアを翌日には公開可能なアプリへ進化させられます。",
+          "alt": "内容3 - if塾生が証明！技術よりも「対話力」が武"
         },
         {
           "page_number": 5,
@@ -229,21 +230,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "デザイン"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-06T15:18:49",
+      "research_date": "2026-05-06T21:59:08",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "実質2コマでAIアプリ完成！2026年最",
+        "cover_text": "AI相棒と30分で完成！2026年式『超",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "実質2コマでAIアプリ完成！2026年最新ハッカソン形式が凄すぎる",
-            "subtext": "2026年5月・進路を左右するAI実装の新常識",
+            "headline": "AI相棒と30分で完成！2026年式『超速アプリ開発』の正体",
+            "subtext": "GW明けの自由研究にも最適！5月の最新AI連携術",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを学ぶ」から「AIを使い倒す」へ。時間はもうかけられない",
-            "subtext": "プログラミングの基礎はAIが自動生成。でも「何を創るか」で悩む学生・保護者が急増中。2026年の受験や就活では、実装スピードこそが評価の分かれ道です。",
+            "headline": "「やりたい」が形にならない…そんな悩みは2025年で終わり！",
+            "subtext": "コードを書くのが壁だった時代から、AIに意図を伝え、対話しながらプロトタイプを即座に生み出す時代へ。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Gemini 2.5×ノーコード連携。5月からの超高速開発術",
-            "subtext": "最新のGemini Pro APIなら、対話だけでUI設計からデプロイまで完結。if塾が提唱する「2コマ完結型ハッカソン」なら、週末だけで実用的なツールが動きます。",
+            "headline": "Gemini 2.5 × Claude 4のマルチモーダル連携が凄すぎる",
+            "subtext": "手書きのラフ図をカメラで見せるだけで、UIデザインからロジック実装までAIが数秒で書き上げる2026年最新の開発フロー。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "単なる「学習」で終わらせない。ポートフォリオを1日で更新",
-            "subtext": "if塾では、AIを道具として使いこなす視点を伝授。5月の連休明けに、自分だけの「AI秘書」や「学習支援ツール」を完成させ、圧倒的な差をつけましょう。",
+            "headline": "if塾生が証明！技術よりも「対話力」が武器になる",
+            "subtext": "プログラミング未経験でもOK。AIを使いこなす『言語化能力』を磨けば、アイデアを翌日には公開可能なアプリへ進化させられます。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
