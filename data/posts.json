@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 120,
-    "last_updated": "2026-05-07T11:50:35.580010",
+    "last_updated": "2026-05-07T15:25:28.723983",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260507_ai_column",
       "post_id": "20260507_ai_column",
-      "created_at": "2026-05-07T11:50:35",
+      "created_at": "2026-05-07T15:25:28",
       "datetime": "2026-05-07T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
+      "theme": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
       "target_audience": "Students & Parents",
-      "title": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-      "caption": "【2026年5月】ついにChatGPTのデフォルトが刷新されました！🚀\n\n本日、OpenAIから発表された「GPT-5.5 Instant」。\nこれまで「少し複雑な計算や論理展開になると間違える…」と感じていた方にこそ、ぜひ試してほしいアップデートです。\n\n特にSTEM分野（科学・技術・工学・数学）での精度向上は目覚ましく、受験生や学生の皆さんの「自学自習」のスタイルを根本から変える可能性があります。\n\nif塾では、AIをただの便利ツールではなく、「思考力を高めるためのパートナー」として活用することを推奨しています。\n\n新モデルの使い方や、学習への取り入れ方に迷ったら、ぜひコメントやDMで教えてくださいね！📩\n\n#AI教育 #ChatGPT #GPT5 #STEM教育 #2026年 #if塾 #最新テック #AI学習",
-      "caption_text": "【2026年5月】ついにChatGPTのデフォルトが刷新されました！🚀\n\n本日、OpenAIから発表された「GPT-5.5 Instant」。\nこれまで「少し複雑な計算や論理展開になると間違える…」と感じていた方にこそ、ぜひ試してほしいアップデートです。\n\n特にSTEM分野（科学・技術・工学・数学）での精度向上は目覚ましく、受験生や学生の皆さんの「自学自習」のスタイルを根本から変える可能性があります。\n\nif塾では、AIをただの便利ツールではなく、「思考力を高めるためのパートナー」として活用することを推奨しています。\n\n新モデルの使い方や、学習への取り入れ方に迷ったら、ぜひコメントやDMで教えてくださいね！📩\n\n#AI教育 #ChatGPT #GPT5 #STEM教育 #2026年 #if塾 #最新テック #AI学習",
+      "title": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+      "caption": "【2026年5月】最新AIトレンドを解説！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みは、もう過去のものかもしれません。\n\n2026年現在、AIは単なるツールから「チーム」へと進化しました。\nマルチエージェント・システム（MAS）の普及により、私たちはもはや1つ1つの作業を指示する必要はありません。\n\n目標を一つ投げるだけで、AIたちが勝手に会議し、役割分担し、修正し合いながら結果を出してくれます。\n\nこの変化は、学生の皆さんの学び方や、保護者の皆様の働き方を劇的に変えています。\n\n大切なのは、AIに使われるのではなく、AIチームの「監督」になること。\nif塾では、この最新テクノロジーをどう使いこなし、自分の未来を切り拓くか、その本質を伝えています。\n\n詳しい活用法はプロフィールのリンクから！",
+      "caption_text": "【2026年5月】最新AIトレンドを解説！\n\n「AIに何を頼めばいいかわからない…」\nそんな悩みは、もう過去のものかもしれません。\n\n2026年現在、AIは単なるツールから「チーム」へと進化しました。\nマルチエージェント・システム（MAS）の普及により、私たちはもはや1つ1つの作業を指示する必要はありません。\n\n目標を一つ投げるだけで、AIたちが勝手に会議し、役割分担し、修正し合いながら結果を出してくれます。\n\nこの変化は、学生の皆さんの学び方や、保護者の皆様の働き方を劇的に変えています。\n\n大切なのは、AIに使われるのではなく、AIチームの「監督」になること。\nif塾では、この最新テクノロジーをどう使いこなし、自分の未来を切り拓くか、その本質を伝えています。\n\n詳しい活用法はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#ChatGPT",
-        "#GPT5",
+        "#マルチエージェント",
         "#AI教育",
-        "#STEM",
-        "#最新技術",
-        "#DX教育"
+        "#DX",
+        "#自律型AI",
+        "#最新テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-          "sub_title": "【2026年5月最新】STEM・論理回答の精度が劇的向上",
-          "text_content": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
+          "main_title": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+          "sub_title": "5月最新版：人間の指示待ち時代は終わりました",
+          "text_content": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-01.png",
           "image_file": "assets/img/posts/20260507_ai_column-01.png",
-          "overlay_text": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-          "subtext": "【2026年5月最新】STEM・論理回答の精度が劇的向上",
-          "alt": "表紙 - GPT-5.5 Instant解禁！Ch"
+          "overlay_text": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+          "subtext": "5月最新版：人間の指示待ち時代は終わりました",
+          "alt": "表紙 - AIが勝手に話し合い、タスクを完結。20"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIは理数系に弱い」はもう過去の話？",
-          "sub_title": "これまでChatGPTの弱点とされていた高度な数式解法や、一貫性のある論理的思考。2026年5月、デフォルトモデルが『GPT-5.5 Instant』へ刷新され、その常識が覆されました。",
-          "text_content": "「AIは理数系に弱い」はもう過去の話？",
+          "main_title": "「指示の細かさ」に疲れていませんか？",
+          "sub_title": "これまでのAIは1対1の対話。でも2026年の主流は、専門性を持つ複数のAIがチームを組んで自律的に動く『マルチエージェント・システム（MAS）』です。",
+          "text_content": "「指示の細かさ」に疲れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-02.png",
           "image_file": "assets/img/posts/20260507_ai_column-02.png",
-          "overlay_text": "「AIは理数系に弱い」はもう過去の話？",
-          "subtext": "これまでChatGPTの弱点とされていた高度な数式解法や、一貫性のある論理的思考。2026年5月、デフォルトモデルが『GPT-5.5 Instant』へ刷新され、その常識が覆されました。",
-          "alt": "内容1 - 「AIは理数系に弱い」はもう過去の話？"
+          "overlay_text": "「指示の細かさ」に疲れていませんか？",
+          "subtext": "これまでのAIは1対1の対話。でも2026年の主流は、専門性を持つ複数のAIがチームを組んで自律的に動く『マルチエージェント・システム（MAS）』です。",
+          "alt": "内容1 - 「指示の細かさ」に疲れていませんか？"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "爆速×高精度。学習の「思考パートナー」へ",
-          "sub_title": "5.5 Instantは、従来の推論特化モデルの知能を維持しつつ、リアルタイムでの回答を実現。複雑な物理の問題解法や、プログラミングのデバッグ精度が前モデル比で150%向上しています。",
-          "text_content": "爆速×高精度。学習の「思考パートナー」へ",
+          "main_title": "リサーチから資料作成まで「丸投げ」が可能に",
+          "sub_title": "企画担当、分析担当、デザイン担当のAIが互いにフィードバックし合い、人間が寝ている間に完璧なドラフトを完成させる。これが2026年5月現在の日常です。",
+          "text_content": "リサーチから資料作成まで「丸投げ」が可能に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-03.png",
           "image_file": "assets/img/posts/20260507_ai_column-03.png",
-          "overlay_text": "爆速×高精度。学習の「思考パートナー」へ",
-          "subtext": "5.5 Instantは、従来の推論特化モデルの知能を維持しつつ、リアルタイムでの回答を実現。複雑な物理の問題解法や、プログラミングのデバッグ精度が前モデル比で150%向上しています。",
-          "alt": "内容2 - 爆速×高精度。学習の「思考パートナー」へ"
+          "overlay_text": "リサーチから資料作成まで「丸投げ」が可能に",
+          "subtext": "企画担当、分析担当、デザイン担当のAIが互いにフィードバックし合い、人間が寝ている間に完璧なドラフトを完成させる。これが2026年5月現在の日常です。",
+          "alt": "内容2 - リサーチから資料作成まで「丸投げ」が可能"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「答え合わせ」に使わない",
-          "sub_title": "精度が上がったからこそ、単に答えを出すのではなく『なぜその解法になるのか？』をAIと議論することが重要です。論理の飛躍を指摘できるようになった5.5は、最高の対話型コーチになります。",
-          "text_content": "if塾流：AIを「答え合わせ」に使わない",
+          "main_title": "if塾の視点：求められるのは「指揮者」の能力",
+          "sub_title": "AIに作業をさせるのではなく、AI同士に何を議論させるかを決める『オーケストレーション能力』が、これからの受験やキャリアで最も重要になります。",
+          "text_content": "if塾の視点：求められるのは「指揮者」の能力",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-04.png",
           "image_file": "assets/img/posts/20260507_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「答え合わせ」に使わない",
-          "subtext": "精度が上がったからこそ、単に答えを出すのではなく『なぜその解法になるのか？』をAIと議論することが重要です。論理の飛躍を指摘できるようになった5.5は、最高の対話型コーチになります。",
-          "alt": "内容3 - if塾流：AIを「答え合わせ」に使わない"
+          "overlay_text": "if塾の視点：求められるのは「指揮者」の能力",
+          "subtext": "AIに作業をさせるのではなく、AI同士に何を議論させるかを決める『オーケストレーション能力』が、これからの受験やキャリアで最も重要になります。",
+          "alt": "内容3 - if塾の視点：求められるのは「指揮者」の"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-          "sub_title": "【2026年5月最新】STEM・論理回答の精度が劇的向上",
-          "text_content": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
+          "main_title": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+          "sub_title": "5月最新版：人間の指示待ち時代は終わりました",
+          "text_content": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-01.png",
           "image_file": "assets/img/posts/20260507_ai_column-01.png",
-          "overlay_text": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-          "subtext": "【2026年5月最新】STEM・論理回答の精度が劇的向上",
-          "alt": "表紙 - GPT-5.5 Instant解禁！Ch"
+          "overlay_text": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+          "subtext": "5月最新版：人間の指示待ち時代は終わりました",
+          "alt": "表紙 - AIが勝手に話し合い、タスクを完結。20"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIは理数系に弱い」はもう過去の話？",
-          "sub_title": "これまでChatGPTの弱点とされていた高度な数式解法や、一貫性のある論理的思考。2026年5月、デフォルトモデルが『GPT-5.5 Instant』へ刷新され、その常識が覆されました。",
-          "text_content": "「AIは理数系に弱い」はもう過去の話？",
+          "main_title": "「指示の細かさ」に疲れていませんか？",
+          "sub_title": "これまでのAIは1対1の対話。でも2026年の主流は、専門性を持つ複数のAIがチームを組んで自律的に動く『マルチエージェント・システム（MAS）』です。",
+          "text_content": "「指示の細かさ」に疲れていませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-02.png",
           "image_file": "assets/img/posts/20260507_ai_column-02.png",
-          "overlay_text": "「AIは理数系に弱い」はもう過去の話？",
-          "subtext": "これまでChatGPTの弱点とされていた高度な数式解法や、一貫性のある論理的思考。2026年5月、デフォルトモデルが『GPT-5.5 Instant』へ刷新され、その常識が覆されました。",
-          "alt": "内容1 - 「AIは理数系に弱い」はもう過去の話？"
+          "overlay_text": "「指示の細かさ」に疲れていませんか？",
+          "subtext": "これまでのAIは1対1の対話。でも2026年の主流は、専門性を持つ複数のAIがチームを組んで自律的に動く『マルチエージェント・システム（MAS）』です。",
+          "alt": "内容1 - 「指示の細かさ」に疲れていませんか？"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "爆速×高精度。学習の「思考パートナー」へ",
-          "sub_title": "5.5 Instantは、従来の推論特化モデルの知能を維持しつつ、リアルタイムでの回答を実現。複雑な物理の問題解法や、プログラミングのデバッグ精度が前モデル比で150%向上しています。",
-          "text_content": "爆速×高精度。学習の「思考パートナー」へ",
+          "main_title": "リサーチから資料作成まで「丸投げ」が可能に",
+          "sub_title": "企画担当、分析担当、デザイン担当のAIが互いにフィードバックし合い、人間が寝ている間に完璧なドラフトを完成させる。これが2026年5月現在の日常です。",
+          "text_content": "リサーチから資料作成まで「丸投げ」が可能に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-03.png",
           "image_file": "assets/img/posts/20260507_ai_column-03.png",
-          "overlay_text": "爆速×高精度。学習の「思考パートナー」へ",
-          "subtext": "5.5 Instantは、従来の推論特化モデルの知能を維持しつつ、リアルタイムでの回答を実現。複雑な物理の問題解法や、プログラミングのデバッグ精度が前モデル比で150%向上しています。",
-          "alt": "内容2 - 爆速×高精度。学習の「思考パートナー」へ"
+          "overlay_text": "リサーチから資料作成まで「丸投げ」が可能に",
+          "subtext": "企画担当、分析担当、デザイン担当のAIが互いにフィードバックし合い、人間が寝ている間に完璧なドラフトを完成させる。これが2026年5月現在の日常です。",
+          "alt": "内容2 - リサーチから資料作成まで「丸投げ」が可能"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「答え合わせ」に使わない",
-          "sub_title": "精度が上がったからこそ、単に答えを出すのではなく『なぜその解法になるのか？』をAIと議論することが重要です。論理の飛躍を指摘できるようになった5.5は、最高の対話型コーチになります。",
-          "text_content": "if塾流：AIを「答え合わせ」に使わない",
+          "main_title": "if塾の視点：求められるのは「指揮者」の能力",
+          "sub_title": "AIに作業をさせるのではなく、AI同士に何を議論させるかを決める『オーケストレーション能力』が、これからの受験やキャリアで最も重要になります。",
+          "text_content": "if塾の視点：求められるのは「指揮者」の能力",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260507_ai_column-04.png",
           "image_file": "assets/img/posts/20260507_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「答え合わせ」に使わない",
-          "subtext": "精度が上がったからこそ、単に答えを出すのではなく『なぜその解法になるのか？』をAIと議論することが重要です。論理の飛躍を指摘できるようになった5.5は、最高の対話型コーチになります。",
-          "alt": "内容3 - if塾流：AIを「答え合わせ」に使わない"
+          "overlay_text": "if塾の視点：求められるのは「指揮者」の能力",
+          "subtext": "AIに作業をさせるのではなく、AI同士に何を議論させるかを決める『オーケストレーション能力』が、これからの受験やキャリアで最も重要になります。",
+          "alt": "内容3 - if塾の視点：求められるのは「指揮者」の"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-07T11:49:00",
+      "research_date": "2026-05-07T15:23:54",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "GPT-5.5 Instant解禁！Ch",
+        "cover_text": "AIが勝手に話し合い、タスクを完結。20",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "GPT-5.5 Instant解禁！ChatGPTが別次元に。",
-            "subtext": "【2026年5月最新】STEM・論理回答の精度が劇的向上",
+            "headline": "AIが勝手に話し合い、タスクを完結。2026年「マルチエージェント」の衝撃",
+            "subtext": "5月最新版：人間の指示待ち時代は終わりました",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIは理数系に弱い」はもう過去の話？",
-            "subtext": "これまでChatGPTの弱点とされていた高度な数式解法や、一貫性のある論理的思考。2026年5月、デフォルトモデルが『GPT-5.5 Instant』へ刷新され、その常識が覆されました。",
+            "headline": "「指示の細かさ」に疲れていませんか？",
+            "subtext": "これまでのAIは1対1の対話。でも2026年の主流は、専門性を持つ複数のAIがチームを組んで自律的に動く『マルチエージェント・システム（MAS）』です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "爆速×高精度。学習の「思考パートナー」へ",
-            "subtext": "5.5 Instantは、従来の推論特化モデルの知能を維持しつつ、リアルタイムでの回答を実現。複雑な物理の問題解法や、プログラミングのデバッグ精度が前モデル比で150%向上しています。",
+            "headline": "リサーチから資料作成まで「丸投げ」が可能に",
+            "subtext": "企画担当、分析担当、デザイン担当のAIが互いにフィードバックし合い、人間が寝ている間に完璧なドラフトを完成させる。これが2026年5月現在の日常です。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「答え合わせ」に使わない",
-            "subtext": "精度が上がったからこそ、単に答えを出すのではなく『なぜその解法になるのか？』をAIと議論することが重要です。論理の飛躍を指摘できるようになった5.5は、最高の対話型コーチになります。",
+            "headline": "if塾の視点：求められるのは「指揮者」の能力",
+            "subtext": "AIに作業をさせるのではなく、AI同士に何を議論させるかを決める『オーケストレーション能力』が、これからの受験やキャリアで最も重要になります。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
