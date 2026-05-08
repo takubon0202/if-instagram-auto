@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 120,
-    "last_updated": "2026-05-07T22:01:44.212700",
+    "total_posts": 121,
+    "last_updated": "2026-05-08T11:54:13.040325",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260508_business",
+      "post_id": "20260508_business",
+      "created_at": "2026-05-08T11:54:13",
+      "datetime": "2026-05-08T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生が「AIエージェント」で月収10万を自動化する時代",
+      "target_audience": "Students & Parents",
+      "title": "中高生が「AIエージェント」で月収10万を自動化する時代",
+      "caption": "【2026年5月】最新の教育・ビジネス事情をお届けします。\n\n今、中高生の間で「AIエージェント」による自動収益化が急速に広がっています。\nかつてのポイ活や動画編集とは異なり、2026年の主流は「自律型AI」に複数のタスクを代行させるスタイルです。\n\n保護者の皆様も、お子様がスマホで何をしているのか不安になるかもしれません。\nしかし、これは「自分の力で経済の仕組みを作る」という、究極のアクティブラーニングでもあります。\n\n大事なのはツールの使い方だけではありません。\n「誰の、どんな悩みを解決するためにAIを動かすのか？」\nこの本質的な視点を持つことが、将来のキャリアにおいても最大の武器になります。\n\nif塾では、AI時代を生き抜く「思考の型」を伝えています。\n最新のAI活用事例について詳しく知りたい方は、プロフィールのリンクをチェック！\n\n#AIエージェント #自動収益化 #if塾 #2026年 #中高生起業 #未来の教育 #最新ビジネス #ビジネスコラム",
+      "caption_text": "【2026年5月】最新の教育・ビジネス事情をお届けします。\n\n今、中高生の間で「AIエージェント」による自動収益化が急速に広がっています。\nかつてのポイ活や動画編集とは異なり、2026年の主流は「自律型AI」に複数のタスクを代行させるスタイルです。\n\n保護者の皆様も、お子様がスマホで何をしているのか不安になるかもしれません。\nしかし、これは「自分の力で経済の仕組みを作る」という、究極のアクティブラーニングでもあります。\n\n大事なのはツールの使い方だけではありません。\n「誰の、どんな悩みを解決するためにAIを動かすのか？」\nこの本質的な視点を持つことが、将来のキャリアにおいても最大の武器になります。\n\nif塾では、AI時代を生き抜く「思考の型」を伝えています。\n最新のAI活用事例について詳しく知りたい方は、プロフィールのリンクをチェック！\n\n#AIエージェント #自動収益化 #if塾 #2026年 #中高生起業 #未来の教育 #最新ビジネス #ビジネスコラム",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "AIエージェント",
+        "自動収益化",
+        "中高生ビジネス",
+        "最新テクノロジー",
+        "自律型AI",
+        "未来の教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "sub_title": "2026年5月最新・AI副業のスタンダード",
+          "text_content": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-01.png",
+          "image_file": "assets/img/posts/20260508_business-01.png",
+          "overlay_text": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "subtext": "2026年5月最新・AI副業のスタンダード",
+          "alt": "表紙 - 中高生が「AIエージェント」で月収10万"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "sub_title": "これまでの「労働＝対価」の常識が崩壊。学業と両立できない従来の内職ではなく、仕組みを回す側へ。",
+          "text_content": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-02.png",
+          "image_file": "assets/img/posts/20260508_business-02.png",
+          "overlay_text": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "subtext": "これまでの「労働＝対価」の常識が崩壊。学業と両立できない従来の内職ではなく、仕組みを回す側へ。",
+          "alt": "内容1 - 「バイト禁止」はもう古い？スキマ時間の奪"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "sub_title": "指示なしでSNS運用・在庫管理・顧客対応を完結。2026年春に普及したエージェント機能が収益を自動化。",
+          "text_content": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-03.png",
+          "image_file": "assets/img/posts/20260508_business-03.png",
+          "overlay_text": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "subtext": "指示なしでSNS運用・在庫管理・顧客対応を完結。2026年春に普及したエージェント機能が収益を自動化。",
+          "alt": "内容2 - 自律型AI『Auto-SaaS 2.0』"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "sub_title": "if塾が提唱するのは、AIを部下として扱う経営者視点。技術ではなく、課題解決の設計図を描く力が勝敗を分ける。",
+          "text_content": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-04.png",
+          "image_file": "assets/img/posts/20260508_business-04.png",
+          "overlay_text": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "subtext": "if塾が提唱するのは、AIを部下として扱う経営者視点。技術ではなく、課題解決の設計図を描く力が勝敗を分ける。",
+          "alt": "内容3 - 「ツールを使う」から「AIをマネジメント"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "sub_title": "2026年5月最新・AI副業のスタンダード",
+          "text_content": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-01.png",
+          "image_file": "assets/img/posts/20260508_business-01.png",
+          "overlay_text": "中高生が「AIエージェント」で月収10万を自動化する時代",
+          "subtext": "2026年5月最新・AI副業のスタンダード",
+          "alt": "表紙 - 中高生が「AIエージェント」で月収10万"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "sub_title": "これまでの「労働＝対価」の常識が崩壊。学業と両立できない従来の内職ではなく、仕組みを回す側へ。",
+          "text_content": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-02.png",
+          "image_file": "assets/img/posts/20260508_business-02.png",
+          "overlay_text": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+          "subtext": "これまでの「労働＝対価」の常識が崩壊。学業と両立できない従来の内職ではなく、仕組みを回す側へ。",
+          "alt": "内容1 - 「バイト禁止」はもう古い？スキマ時間の奪"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "sub_title": "指示なしでSNS運用・在庫管理・顧客対応を完結。2026年春に普及したエージェント機能が収益を自動化。",
+          "text_content": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-03.png",
+          "image_file": "assets/img/posts/20260508_business-03.png",
+          "overlay_text": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+          "subtext": "指示なしでSNS運用・在庫管理・顧客対応を完結。2026年春に普及したエージェント機能が収益を自動化。",
+          "alt": "内容2 - 自律型AI『Auto-SaaS 2.0』"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "sub_title": "if塾が提唱するのは、AIを部下として扱う経営者視点。技術ではなく、課題解決の設計図を描く力が勝敗を分ける。",
+          "text_content": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260508_business-04.png",
+          "image_file": "assets/img/posts/20260508_business-04.png",
+          "overlay_text": "「ツールを使う」から「AIをマネジメントする」思考へ",
+          "subtext": "if塾が提唱するのは、AIを部下として扱う経営者視点。技術ではなく、課題解決の設計図を描く力が勝敗を分ける。",
+          "alt": "内容3 - 「ツールを使う」から「AIをマネジメント"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260508_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260508_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260508_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260508_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-08T11:52:38",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が「AIエージェント」で月収10万",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が「AIエージェント」で月収10万を自動化する時代",
+            "subtext": "2026年5月最新・AI副業のスタンダード",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「バイト禁止」はもう古い？スキマ時間の奪い合いからの脱却",
+            "subtext": "これまでの「労働＝対価」の常識が崩壊。学業と両立できない従来の内職ではなく、仕組みを回す側へ。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "自律型AI『Auto-SaaS 2.0』を使いこなすZ・α世代",
+            "subtext": "指示なしでSNS運用・在庫管理・顧客対応を完結。2026年春に普及したエージェント機能が収益を自動化。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「ツールを使う」から「AIをマネジメントする」思考へ",
+            "subtext": "if塾が提唱するのは、AIを部下として扱う経営者視点。技術ではなく、課題解決の設計図を描く力が勝敗を分ける。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260507_ai_column",
       "post_id": "20260507_ai_column",
