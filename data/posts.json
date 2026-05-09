@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 121,
-    "last_updated": "2026-05-08T21:15:10.892755",
+    "total_posts": 122,
+    "last_updated": "2026-05-09T11:48:31.182751",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260509_activity",
+      "post_id": "20260509_activity",
+      "created_at": "2026-05-09T11:48:31",
+      "datetime": "2026-05-09T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+      "target_audience": "Students & Parents",
+      "title": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+      "caption": "【2026年5月】GW明け、いかがお過ごしですか？\n\n「なんだかやる気が出ない…」そんな5月の倦怠感を吹き飛ばすべく、if塾では『2026春・ゲーム開発ハッカソン』を開催しました！🚀\n\n今年のトレンドは、最新AIをフル活用したハイスピード開発。中高生の生徒たちが、自分の想像を超えるクオリティの作品を次々と生み出しています。\n\n「学校の授業よりも集中しちゃった！」という声も。 \n受動的な学習ではなく、自ら作り出す「能動的なワクワク」こそが、この時期の心の特効薬になります。\n\nif塾は、最新技術を通じて、子供たちの『やりたい！』を全力でサポートします。 \n\n詳細はプロフィールのリンクをチェック！🔗\n\n#if塾 #2026年 #五月病対策 #ゲーム開発 #プログラミング教育 #ハッカソン #最新技術 #中高生向け",
+      "caption_text": "【2026年5月】GW明け、いかがお過ごしですか？\n\n「なんだかやる気が出ない…」そんな5月の倦怠感を吹き飛ばすべく、if塾では『2026春・ゲーム開発ハッカソン』を開催しました！🚀\n\n今年のトレンドは、最新AIをフル活用したハイスピード開発。中高生の生徒たちが、自分の想像を超えるクオリティの作品を次々と生み出しています。\n\n「学校の授業よりも集中しちゃった！」という声も。 \n受動的な学習ではなく、自ら作り出す「能動的なワクワク」こそが、この時期の心の特効薬になります。\n\nif塾は、最新技術を通じて、子供たちの『やりたい！』を全力でサポートします。 \n\n詳細はプロフィールのリンクをチェック！🔗\n\n#if塾 #2026年 #五月病対策 #ゲーム開発 #プログラミング教育 #ハッカソン #最新技術 #中高生向け",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#五月病を吹き飛ばせ",
+        "#ゲーム開発ハッカソン",
+        "#プログラミングスクール",
+        "#AI活用",
+        "#クリエイティブ教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "sub_title": "2026.05.09 if塾 最新活動レポート",
+          "text_content": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-01.png",
+          "image_file": "assets/img/posts/20260509_activity-01.png",
+          "overlay_text": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "subtext": "2026.05.09 if塾 最新活動レポート",
+          "alt": "表紙 - 2026年GW明け！五月病を爆速で吹き飛"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「学校が重い…」そんな気分をリセット！",
+          "sub_title": "GWが明けて少し元気がなくなるこの時期。if塾ではあえて『短期集中ハッカソン』を開催しました。受け身の勉強ではなく、自らの創造性を爆発させる時間を。",
+          "text_content": "「学校が重い…」そんな気分をリセット！",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-02.png",
+          "image_file": "assets/img/posts/20260509_activity-02.png",
+          "overlay_text": "「学校が重い…」そんな気分をリセット！",
+          "subtext": "GWが明けて少し元気がなくなるこの時期。if塾ではあえて『短期集中ハッカソン』を開催しました。受け身の勉強ではなく、自らの創造性を爆発させる時間を。",
+          "alt": "内容1 - 「学校が重い…」そんな気分をリセット！"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "sub_title": "2026年最新の生成AIツールを使いこなし、わずか数時間でプロトタイプを完成させる生徒たち。自分のアイデアが瞬時に形になる体験に、五月病なんて忘れて没頭しています。",
+          "text_content": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-03.png",
+          "image_file": "assets/img/posts/20260509_activity-03.png",
+          "overlay_text": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "subtext": "2026年最新の生成AIツールを使いこなし、わずか数時間でプロトタイプを完成させる生徒たち。自分のアイデアが瞬時に形になる体験に、五月病なんて忘れて没頭しています。",
+          "alt": "内容2 - 最新AIエンジン搭載！生徒たちの熱気が凄"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「やらされる」から「やりたい」への転換",
+          "sub_title": "if塾が大切にするのは、最新技術を『遊ぶ』感覚。技術習得以上に、仲間と高め合う環境が心のエンジンを再起動させます。5月の停滞感を突破する鍵は「夢中」になれる場所です。",
+          "text_content": "「やらされる」から「やりたい」への転換",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-04.png",
+          "image_file": "assets/img/posts/20260509_activity-04.png",
+          "overlay_text": "「やらされる」から「やりたい」への転換",
+          "subtext": "if塾が大切にするのは、最新技術を『遊ぶ』感覚。技術習得以上に、仲間と高め合う環境が心のエンジンを再起動させます。5月の停滞感を突破する鍵は「夢中」になれる場所です。",
+          "alt": "内容3 - 「やらされる」から「やりたい」への転換"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "sub_title": "2026.05.09 if塾 最新活動レポート",
+          "text_content": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-01.png",
+          "image_file": "assets/img/posts/20260509_activity-01.png",
+          "overlay_text": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+          "subtext": "2026.05.09 if塾 最新活動レポート",
+          "alt": "表紙 - 2026年GW明け！五月病を爆速で吹き飛"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「学校が重い…」そんな気分をリセット！",
+          "sub_title": "GWが明けて少し元気がなくなるこの時期。if塾ではあえて『短期集中ハッカソン』を開催しました。受け身の勉強ではなく、自らの創造性を爆発させる時間を。",
+          "text_content": "「学校が重い…」そんな気分をリセット！",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-02.png",
+          "image_file": "assets/img/posts/20260509_activity-02.png",
+          "overlay_text": "「学校が重い…」そんな気分をリセット！",
+          "subtext": "GWが明けて少し元気がなくなるこの時期。if塾ではあえて『短期集中ハッカソン』を開催しました。受け身の勉強ではなく、自らの創造性を爆発させる時間を。",
+          "alt": "内容1 - 「学校が重い…」そんな気分をリセット！"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "sub_title": "2026年最新の生成AIツールを使いこなし、わずか数時間でプロトタイプを完成させる生徒たち。自分のアイデアが瞬時に形になる体験に、五月病なんて忘れて没頭しています。",
+          "text_content": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-03.png",
+          "image_file": "assets/img/posts/20260509_activity-03.png",
+          "overlay_text": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+          "subtext": "2026年最新の生成AIツールを使いこなし、わずか数時間でプロトタイプを完成させる生徒たち。自分のアイデアが瞬時に形になる体験に、五月病なんて忘れて没頭しています。",
+          "alt": "内容2 - 最新AIエンジン搭載！生徒たちの熱気が凄"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「やらされる」から「やりたい」への転換",
+          "sub_title": "if塾が大切にするのは、最新技術を『遊ぶ』感覚。技術習得以上に、仲間と高め合う環境が心のエンジンを再起動させます。5月の停滞感を突破する鍵は「夢中」になれる場所です。",
+          "text_content": "「やらされる」から「やりたい」への転換",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260509_activity-04.png",
+          "image_file": "assets/img/posts/20260509_activity-04.png",
+          "overlay_text": "「やらされる」から「やりたい」への転換",
+          "subtext": "if塾が大切にするのは、最新技術を『遊ぶ』感覚。技術習得以上に、仲間と高め合う環境が心のエンジンを再起動させます。5月の停滞感を突破する鍵は「夢中」になれる場所です。",
+          "alt": "内容3 - 「やらされる」から「やりたい」への転換"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260509_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260509_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260509_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260509_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-09T11:47:02",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年GW明け！五月病を爆速で吹き飛",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年GW明け！五月病を爆速で吹き飛ばすゲーム開発祭",
+            "subtext": "2026.05.09 if塾 最新活動レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「学校が重い…」そんな気分をリセット！",
+            "subtext": "GWが明けて少し元気がなくなるこの時期。if塾ではあえて『短期集中ハッカソン』を開催しました。受け身の勉強ではなく、自らの創造性を爆発させる時間を。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新AIエンジン搭載！生徒たちの熱気が凄い",
+            "subtext": "2026年最新の生成AIツールを使いこなし、わずか数時間でプロトタイプを完成させる生徒たち。自分のアイデアが瞬時に形になる体験に、五月病なんて忘れて没頭しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「やらされる」から「やりたい」への転換",
+            "subtext": "if塾が大切にするのは、最新技術を『遊ぶ』感覚。技術習得以上に、仲間と高め合う環境が心のエンジンを再起動させます。5月の停滞感を突破する鍵は「夢中」になれる場所です。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260508_business",
       "post_id": "20260508_business",
