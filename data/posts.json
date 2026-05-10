@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 123,
-    "last_updated": "2026-05-10T11:55:01.154089",
+    "last_updated": "2026-05-10T15:25:51.024184",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,26 @@
     {
       "id": "20260510_activity",
       "post_id": "20260510_activity",
-      "created_at": "2026-05-10T11:55:01",
+      "created_at": "2026-05-10T15:25:51",
       "datetime": "2026-05-10T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
+      "theme": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
       "target_audience": "Students & Parents",
-      "title": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-      "caption": "【2026年5月】最新の教育現場からお届けします。\n\n今や中高生にとって、AIは「調べる道具」ではなく「一緒に作る相棒」になりました。\n本日のif塾ハッカソンでは、GPT-5や最新のGeminiを駆使して、わずか数時間で実用的なプロトタイプを完成させる生徒が続出。\n\n「コードが書けないから諦める」という言葉は、もう過去のものです。\n大事なのは、何を解決したいかという『問いを立てる力』。\n\n2026年の今、求められているのはAIを使いこなして社会に価値を生み出す経験です。\nif塾では、最新技術を当たり前に使いこなす次世代のリーダーを育成しています。\n\n最先端の学びを、ぜひ体験しに来てください！",
-      "caption_text": "【2026年5月】最新の教育現場からお届けします。\n\n今や中高生にとって、AIは「調べる道具」ではなく「一緒に作る相棒」になりました。\n本日のif塾ハッカソンでは、GPT-5や最新のGeminiを駆使して、わずか数時間で実用的なプロトタイプを完成させる生徒が続出。\n\n「コードが書けないから諦める」という言葉は、もう過去のものです。\n大事なのは、何を解決したいかという『問いを立てる力』。\n\n2026年の今、求められているのはAIを使いこなして社会に価値を生み出す経験です。\nif塾では、最新技術を当たり前に使いこなす次世代のリーダーを育成しています。\n\n最先端の学びを、ぜひ体験しに来てください！",
+      "title": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+      "caption": "【2026年5月】最新の活動報告をお届け！\n\n「プログラミングは難しい」という常識は、もう過去のものかもしれません。\n\n今日のif塾では、中高生たちが最新の生成AIを使いこなし、わずか90分でオリジナルゲームを完成させる「超速開発ハッカソン」を開催しました。\n\n驚くべきは、彼らがAIにコードを書かせるだけでなく、複雑なロジックの修正やグラフィック生成まで「AIとの対話」でスムーズに進めている姿です。\n\nもはや「書き方」を覚える時代から、「何を創りたいか」を明確にする時代へ。\nif塾では、AIを使いこなし、最速でアウトプットする力を養うカリキュラムを強化しています。\n\n2026年の学びの形を、ぜひ体験しに来てください！\n\n詳細はプロフィールのリンクから✨",
+      "caption_text": "【2026年5月】最新の活動報告をお届け！\n\n「プログラミングは難しい」という常識は、もう過去のものかもしれません。\n\n今日のif塾では、中高生たちが最新の生成AIを使いこなし、わずか90分でオリジナルゲームを完成させる「超速開発ハッカソン」を開催しました。\n\n驚くべきは、彼らがAIにコードを書かせるだけでなく、複雑なロジックの修正やグラフィック生成まで「AIとの対話」でスムーズに進めている姿です。\n\nもはや「書き方」を覚える時代から、「何を創りたいか」を明確にする時代へ。\nif塾では、AIを使いこなし、最速でアウトプットする力を養うカリキュラムを強化しています。\n\n2026年の学びの形を、ぜひ体験しに来てください！\n\n詳細はプロフィールのリンクから✨",
       "hashtags": [
         "#if塾",
-        "#2026年5月",
-        "#GPT5",
+        "#2026年",
+        "#生成AI",
+        "#ハッカソン",
+        "#中高生プログラミング",
         "#Gemini",
-        "#中高生ハッカソン",
-        "#AI教育",
-        "#次世代リーダー",
-        "#最新テック"
+        "#ChatGPT",
+        "#超速開発",
+        "#STEAM教育",
+        "#最新教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +45,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-          "sub_title": "2026年5月最新・AI教育の最前線",
-          "text_content": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
+          "main_title": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+          "sub_title": "2026.05.10 最新レポート：生成AIが変えたプログラミングの日常",
+          "text_content": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-01.png",
           "image_file": "assets/img/posts/20260510_activity-01.png",
-          "overlay_text": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-          "subtext": "2026年5月最新・AI教育の最前線",
-          "alt": "表紙 - 中高生が3時間でアプリ実装？2026年ハ"
+          "overlay_text": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+          "subtext": "2026.05.10 最新レポート：生成AIが変えたプログラミングの日常",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
         },
         {
           "page_number": 2,
@@ -59,15 +61,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
-          "sub_title": "かつては数ヶ月かかった開発が、今は週末の数時間で。技術の壁がなくなり、中高生の『アイデア格差』が広がっています。",
-          "text_content": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
+          "main_title": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
+          "sub_title": "昔はエラー解決だけで授業が終わることも。でも今は、アイデアを形にするスピードが10倍になりました。",
+          "text_content": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-02.png",
           "image_file": "assets/img/posts/20260510_activity-02.png",
-          "overlay_text": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
-          "subtext": "かつては数ヶ月かかった開発が、今は週末の数時間で。技術の壁がなくなり、中高生の『アイデア格差』が広がっています。",
-          "alt": "内容1 - 「やりたい」がすぐ形になる時代。もうプロ"
+          "overlay_text": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
+          "subtext": "昔はエラー解決だけで授業が終わることも。でも今は、アイデアを形にするスピードが10倍になりました。",
+          "alt": "内容1 - 「やりたいこと」が多すぎて、開発に数ヶ月"
         },
         {
           "page_number": 3,
@@ -75,15 +77,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
-          "sub_title": "最新モデルのマルチモーダル機能を活用。5月のワークショップでは、地域課題を解決するWebアプリがその場で3つ誕生しました。",
-          "text_content": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
+          "main_title": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
+          "sub_title": "最新のマルチモーダルAIを駆使し、企画からデバッグまでを「対話」だけで完結させる生徒たちが急増中です。",
+          "text_content": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-03.png",
           "image_file": "assets/img/posts/20260510_activity-03.png",
-          "overlay_text": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
-          "subtext": "最新モデルのマルチモーダル機能を活用。5月のワークショップでは、地域課題を解決するWebアプリがその場で3つ誕生しました。",
-          "alt": "内容2 - GPT-5とGemini 2.0を使いこ"
+          "overlay_text": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
+          "subtext": "最新のマルチモーダルAIを駆使し、企画からデバッグまでを「対話」だけで完結させる生徒たちが急増中です。",
+          "alt": "内容2 - Gemini 2.5とGPT-5を使いこ"
         },
         {
           "page_number": 4,
@@ -91,15 +93,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
-          "sub_title": "AIは単なるツールではありません。論理的思考とプロンプトエンジニアリングの融合こそが、これからの入試や社会で勝てる武器になります。",
-          "text_content": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
+          "main_title": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
+          "sub_title": "コードを書く力以上に、AIに的確な指示を出す「設計力」と「意図を伝える力」が2026年の必須スキルに。",
+          "text_content": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-04.png",
           "image_file": "assets/img/posts/20260510_activity-04.png",
-          "overlay_text": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
-          "subtext": "AIは単なるツールではありません。論理的思考とプロンプトエンジニアリングの融合こそが、これからの入試や社会で勝てる武器になります。",
-          "alt": "内容3 - AIを「書かせる」から「対話する」へ。i"
+          "overlay_text": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
+          "subtext": "コードを書く力以上に、AIに的確な指示を出す「設計力」と「意図を伝える力」が2026年の必須スキルに。",
+          "alt": "内容3 - if塾の視点：AIは「代行」ではなく、思"
         },
         {
           "page_number": 5,
@@ -125,15 +127,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-          "sub_title": "2026年5月最新・AI教育の最前線",
-          "text_content": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
+          "main_title": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+          "sub_title": "2026.05.10 最新レポート：生成AIが変えたプログラミングの日常",
+          "text_content": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-01.png",
           "image_file": "assets/img/posts/20260510_activity-01.png",
-          "overlay_text": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-          "subtext": "2026年5月最新・AI教育の最前線",
-          "alt": "表紙 - 中高生が3時間でアプリ実装？2026年ハ"
+          "overlay_text": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+          "subtext": "2026.05.10 最新レポート：生成AIが変えたプログラミングの日常",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
         },
         {
           "page_number": 2,
@@ -141,15 +143,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
-          "sub_title": "かつては数ヶ月かかった開発が、今は週末の数時間で。技術の壁がなくなり、中高生の『アイデア格差』が広がっています。",
-          "text_content": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
+          "main_title": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
+          "sub_title": "昔はエラー解決だけで授業が終わることも。でも今は、アイデアを形にするスピードが10倍になりました。",
+          "text_content": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-02.png",
           "image_file": "assets/img/posts/20260510_activity-02.png",
-          "overlay_text": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
-          "subtext": "かつては数ヶ月かかった開発が、今は週末の数時間で。技術の壁がなくなり、中高生の『アイデア格差』が広がっています。",
-          "alt": "内容1 - 「やりたい」がすぐ形になる時代。もうプロ"
+          "overlay_text": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
+          "subtext": "昔はエラー解決だけで授業が終わることも。でも今は、アイデアを形にするスピードが10倍になりました。",
+          "alt": "内容1 - 「やりたいこと」が多すぎて、開発に数ヶ月"
         },
         {
           "page_number": 3,
@@ -157,15 +159,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
-          "sub_title": "最新モデルのマルチモーダル機能を活用。5月のワークショップでは、地域課題を解決するWebアプリがその場で3つ誕生しました。",
-          "text_content": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
+          "main_title": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
+          "sub_title": "最新のマルチモーダルAIを駆使し、企画からデバッグまでを「対話」だけで完結させる生徒たちが急増中です。",
+          "text_content": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-03.png",
           "image_file": "assets/img/posts/20260510_activity-03.png",
-          "overlay_text": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
-          "subtext": "最新モデルのマルチモーダル機能を活用。5月のワークショップでは、地域課題を解決するWebアプリがその場で3つ誕生しました。",
-          "alt": "内容2 - GPT-5とGemini 2.0を使いこ"
+          "overlay_text": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
+          "subtext": "最新のマルチモーダルAIを駆使し、企画からデバッグまでを「対話」だけで完結させる生徒たちが急増中です。",
+          "alt": "内容2 - Gemini 2.5とGPT-5を使いこ"
         },
         {
           "page_number": 4,
@@ -173,15 +175,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
-          "sub_title": "AIは単なるツールではありません。論理的思考とプロンプトエンジニアリングの融合こそが、これからの入試や社会で勝てる武器になります。",
-          "text_content": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
+          "main_title": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
+          "sub_title": "コードを書く力以上に、AIに的確な指示を出す「設計力」と「意図を伝える力」が2026年の必須スキルに。",
+          "text_content": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260510_activity-04.png",
           "image_file": "assets/img/posts/20260510_activity-04.png",
-          "overlay_text": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
-          "subtext": "AIは単なるツールではありません。論理的思考とプロンプトエンジニアリングの融合こそが、これからの入試や社会で勝てる武器になります。",
-          "alt": "内容3 - AIを「書かせる」から「対話する」へ。i"
+          "overlay_text": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
+          "subtext": "コードを書く力以上に、AIに的確な指示を出す「設計力」と「意図を伝える力」が2026年の必須スキルに。",
+          "alt": "内容3 - if塾の視点：AIは「代行」ではなく、思"
         },
         {
           "page_number": 5,
@@ -229,21 +231,22 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "ロボット"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "takasaki_shota",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-10T11:53:38",
+      "research_date": "2026-05-10T15:24:26",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +254,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が3時間でアプリ実装？2026年ハ",
+        "cover_text": "中高生が90分でゲーム開発！？2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が3時間でアプリ実装？2026年ハッカソンの日常",
-            "subtext": "2026年5月最新・AI教育の最前線",
+            "headline": "中高生が90分でゲーム開発！？2026年「超速ハッカソン」の衝撃",
+            "subtext": "2026.05.10 最新レポート：生成AIが変えたプログラミングの日常",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +270,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない",
-            "subtext": "かつては数ヶ月かかった開発が、今は週末の数時間で。技術の壁がなくなり、中高生の『アイデア格差』が広がっています。",
+            "headline": "「やりたいこと」が多すぎて、開発に数ヶ月かかるのが当たり前？",
+            "subtext": "昔はエラー解決だけで授業が終わることも。でも今は、アイデアを形にするスピードが10倍になりました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +279,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "GPT-5とGemini 2.0を使いこなし、実用アプリを爆速構築",
-            "subtext": "最新モデルのマルチモーダル機能を活用。5月のワークショップでは、地域課題を解決するWebアプリがその場で3つ誕生しました。",
+            "headline": "Gemini 2.5とGPT-5を使いこなし、わずか90分で完成！",
+            "subtext": "最新のマルチモーダルAIを駆使し、企画からデバッグまでを「対話」だけで完結させる生徒たちが急増中です。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +288,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "AIを「書かせる」から「対話する」へ。if塾が教える2026年の思考法",
-            "subtext": "AIは単なるツールではありません。論理的思考とプロンプトエンジニアリングの融合こそが、これからの入試や社会で勝てる武器になります。",
+            "headline": "if塾の視点：AIは「代行」ではなく、思考を加速させる「パートナー」",
+            "subtext": "コードを書く力以上に、AIに的確な指示を出す「設計力」と「意図を伝える力」が2026年の必須スキルに。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
