@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 123,
-    "last_updated": "2026-05-10T20:59:40.613047",
+    "total_posts": 124,
+    "last_updated": "2026-05-11T12:30:33.258422",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260511_announcement",
+      "post_id": "20260511_announcement",
+      "created_at": "2026-05-11T12:30:33",
+      "datetime": "2026-05-11T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+      "target_audience": "Students & Parents",
+      "title": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+      "caption": "【2026年5月】最新の教育ニュースをお届けします！\n\nいよいよNEXT GIGA（GIGAスクール第2期）が本格的に始動しました。\n今月、お子様の学校で新しい端末が配布されたというご家庭も多いのではないでしょうか？\n\n2026年のアップデートは「端末が変わる」だけではありません。\n「使いこなせること」が前提の『新・義務教育』レベルのPCスキルが求められています。\n\n特に、今年度から評価の軸になりつつある「AIとの共生」や「高度な情報編集力」は、学校の授業だけではカバーしきれないのが現状です。\n\nif塾では、最新端末を「学びの武器」に変えるためのクリエイティブスキルを強化しています。\n端末一新のこのタイミングで、一生モノのスキルを身につけませんか？\n\n詳細はプロフィールURLよりチェック！",
+      "caption_text": "【2026年5月】最新の教育ニュースをお届けします！\n\nいよいよNEXT GIGA（GIGAスクール第2期）が本格的に始動しました。\n今月、お子様の学校で新しい端末が配布されたというご家庭も多いのではないでしょうか？\n\n2026年のアップデートは「端末が変わる」だけではありません。\n「使いこなせること」が前提の『新・義務教育』レベルのPCスキルが求められています。\n\n特に、今年度から評価の軸になりつつある「AIとの共生」や「高度な情報編集力」は、学校の授業だけではカバーしきれないのが現状です。\n\nif塾では、最新端末を「学びの武器」に変えるためのクリエイティブスキルを強化しています。\n端末一新のこのタイミングで、一生モノのスキルを身につけませんか？\n\n詳細はプロフィールURLよりチェック！",
+      "hashtags": [
+        "if塾",
+        "2026年5月",
+        "NEXTGIGA",
+        "GIGAスクール構想",
+        "ICT教育",
+        "AI教育",
+        "小学生ママ",
+        "中学生ママ",
+        "教育改革"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "sub_title": "【2026年5月最新版】乗り遅れないためのPCスキル新基準",
+          "text_content": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-01.png",
+          "image_file": "assets/img/posts/20260511_announcement-01.png",
+          "overlay_text": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "subtext": "【2026年5月最新版】乗り遅れないためのPCスキル新基準",
+          "alt": "表紙 - NEXT GIGA本格始動！2026年、"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "sub_title": "GIGA第2期でハイスペック端末が配布開始。2026年度、授業のスピード感は想像以上に速くなっています。",
+          "text_content": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-02.png",
+          "image_file": "assets/img/posts/20260511_announcement-02.png",
+          "overlay_text": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "subtext": "GIGA第2期でハイスペック端末が配布開始。2026年度、授業のスピード感は想像以上に速くなっています。",
+          "alt": "内容1 - 「ただの端末」から「必須の文房具」へ。家"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "sub_title": "端末の更新に伴い、生成AIを活用した探究学習が本格化。キーボード入力だけでなく、プロンプトを操る力が求められます。",
+          "text_content": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-03.png",
+          "image_file": "assets/img/posts/20260511_announcement-03.png",
+          "overlay_text": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "subtext": "端末の更新に伴い、生成AIを活用した探究学習が本格化。キーボード入力だけでなく、プロンプトを操る力が求められます。",
+          "alt": "内容2 - 2026年の新常識！『AI活用力』が評価"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "sub_title": "学校での新端末配布後こそ、自宅でのタイピング精度と論理的思考力が重要。if塾では最新端末を使いこなす技術を指導します。",
+          "text_content": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-04.png",
+          "image_file": "assets/img/posts/20260511_announcement-04.png",
+          "overlay_text": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "subtext": "学校での新端末配布後こそ、自宅でのタイピング精度と論理的思考力が重要。if塾では最新端末を使いこなす技術を指導します。",
+          "alt": "内容3 - if塾の視点：学校端末を「遊び」で終わら"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "sub_title": "【2026年5月最新版】乗り遅れないためのPCスキル新基準",
+          "text_content": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-01.png",
+          "image_file": "assets/img/posts/20260511_announcement-01.png",
+          "overlay_text": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+          "subtext": "【2026年5月最新版】乗り遅れないためのPCスキル新基準",
+          "alt": "表紙 - NEXT GIGA本格始動！2026年、"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "sub_title": "GIGA第2期でハイスペック端末が配布開始。2026年度、授業のスピード感は想像以上に速くなっています。",
+          "text_content": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-02.png",
+          "image_file": "assets/img/posts/20260511_announcement-02.png",
+          "overlay_text": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+          "subtext": "GIGA第2期でハイスペック端末が配布開始。2026年度、授業のスピード感は想像以上に速くなっています。",
+          "alt": "内容1 - 「ただの端末」から「必須の文房具」へ。家"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "sub_title": "端末の更新に伴い、生成AIを活用した探究学習が本格化。キーボード入力だけでなく、プロンプトを操る力が求められます。",
+          "text_content": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-03.png",
+          "image_file": "assets/img/posts/20260511_announcement-03.png",
+          "overlay_text": "2026年の新常識！『AI活用力』が評価の分かれ道",
+          "subtext": "端末の更新に伴い、生成AIを活用した探究学習が本格化。キーボード入力だけでなく、プロンプトを操る力が求められます。",
+          "alt": "内容2 - 2026年の新常識！『AI活用力』が評価"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "sub_title": "学校での新端末配布後こそ、自宅でのタイピング精度と論理的思考力が重要。if塾では最新端末を使いこなす技術を指導します。",
+          "text_content": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260511_announcement-04.png",
+          "image_file": "assets/img/posts/20260511_announcement-04.png",
+          "overlay_text": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+          "subtext": "学校での新端末配布後こそ、自宅でのタイピング精度と論理的思考力が重要。if塾では最新端末を使いこなす技術を指導します。",
+          "alt": "内容3 - if塾の視点：学校端末を「遊び」で終わら"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260511_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260511_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260511_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260511_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-11T12:29:09",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "NEXT GIGA本格始動！2026年、",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "NEXT GIGA本格始動！2026年、学校のPCが『最新型』へ一新",
+            "subtext": "【2026年5月最新版】乗り遅れないためのPCスキル新基準",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「ただの端末」から「必須の文房具」へ。家庭での差が広がる？",
+            "subtext": "GIGA第2期でハイスペック端末が配布開始。2026年度、授業のスピード感は想像以上に速くなっています。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年の新常識！『AI活用力』が評価の分かれ道",
+            "subtext": "端末の更新に伴い、生成AIを活用した探究学習が本格化。キーボード入力だけでなく、プロンプトを操る力が求められます。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：学校端末を「遊び」で終わらせない活用術",
+            "subtext": "学校での新端末配布後こそ、自宅でのタイピング精度と論理的思考力が重要。if塾では最新端末を使いこなす技術を指導します。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260510_activity",
       "post_id": "20260510_activity",
