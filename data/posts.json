@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 124,
-    "last_updated": "2026-05-11T15:56:52.351445",
+    "last_updated": "2026-05-11T22:52:19.720340",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260511_announcement",
       "post_id": "20260511_announcement",
-      "created_at": "2026-05-11T15:56:52",
+      "created_at": "2026-05-11T22:52:19",
       "datetime": "2026-05-11T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
+      "theme": "2026年冬期講習、最速受付開始！",
       "target_audience": "Students & Parents",
-      "title": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-      "caption": "【2026年5月】最新の教育トレンドをお届けします！\n\nAIチャットを使うだけのフェーズは終わり、これからは「自分のためのAI」を自分で作る時代です。\n\nif塾では、2026年5月より「AIエージェント活用コース」を本格始動します！🚀\n\n「プログラミングは難しそう…」\nそんな悩みは最新のノーコード技術が解決します。\n論理的な仕組みさえ理解すれば、学生も保護者の方も、自分専用のアシスタントを数クリックで生み出せるようになります。\n\n夏休みを前に、一歩先の「創る力」を身につけませんか？\n詳細はプロフィール欄のリンクからチェックしてください！✨",
-      "caption_text": "【2026年5月】最新の教育トレンドをお届けします！\n\nAIチャットを使うだけのフェーズは終わり、これからは「自分のためのAI」を自分で作る時代です。\n\nif塾では、2026年5月より「AIエージェント活用コース」を本格始動します！🚀\n\n「プログラミングは難しそう…」\nそんな悩みは最新のノーコード技術が解決します。\n論理的な仕組みさえ理解すれば、学生も保護者の方も、自分専用のアシスタントを数クリックで生み出せるようになります。\n\n夏休みを前に、一歩先の「創る力」を身につけませんか？\n詳細はプロフィール欄のリンクからチェックしてください！✨",
+      "title": "2026年冬期講習、最速受付開始！",
+      "caption": "【2026年5月】最新ニュースをお届け！\n\n「えっ、もう冬期講習？」と思うかもしれませんが、2026年度の受験競争はすでに加速しています。\n\n新入試制度が定着し、AI学習ツールをいかに早く使いこなすかが合格の鍵。if塾では、本日5月11日より「2026年冬期講習」の早期募集を開始しました！\n\nこの時期に枠を確保することで、夏から冬にかけての学習ロードマップが明確になります。\n\n「何から始めればいいかわからない」\n「最新の入試傾向を知りたい」\nそんな方は、ぜひ今のうちにif塾へご相談ください。\n\n詳細はプロフィール欄のリンクからチェック！🔗",
+      "caption_text": "【2026年5月】最新ニュースをお届け！\n\n「えっ、もう冬期講習？」と思うかもしれませんが、2026年度の受験競争はすでに加速しています。\n\n新入試制度が定着し、AI学習ツールをいかに早く使いこなすかが合格の鍵。if塾では、本日5月11日より「2026年冬期講習」の早期募集を開始しました！\n\nこの時期に枠を確保することで、夏から冬にかけての学習ロードマップが明確になります。\n\n「何から始めればいいかわからない」\n「最新の入試傾向を知りたい」\nそんな方は、ぜひ今のうちにif塾へご相談ください。\n\n詳細はプロフィール欄のリンクからチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#ノーコード",
-        "#DX教育",
-        "#リスキリング",
-        "#次世代教育",
-        "#AIのある生活"
+        "#冬期講習",
+        "#中学受験2027",
+        "#高校受験2027",
+        "#大学受験2027",
+        "#教育ICT",
+        "#個別指導"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-          "sub_title": "ノーコードで未来を設計する最新コース",
-          "text_content": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
+          "main_title": "2026年冬期講習、最速受付開始！",
+          "sub_title": "5月11日解禁！新入試制度3年目の戦い方",
+          "text_content": "2026年冬期講習、最速受付開始！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-01.png",
           "image_file": "assets/img/posts/20260511_announcement-01.png",
-          "overlay_text": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-          "subtext": "ノーコードで未来を設計する最新コース",
-          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
+          "overlay_text": "2026年冬期講習、最速受付開始！",
+          "subtext": "5月11日解禁！新入試制度3年目の戦い方",
+          "alt": "表紙 - 2026年冬期講習、最速受付開始！"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "もう「プロンプト」だけでは足りない時代？",
-          "sub_title": "2026年、単純なAI利用は当たり前に。今、求められているのは自分の代わりに24時間働く「専用AIエージェント」を自作できるスキルです。",
-          "text_content": "もう「プロンプト」だけでは足りない時代？",
+          "main_title": "「夏以降でいい」は、もう遅い？",
+          "sub_title": "AI学習が進む2026年、周囲は5月から冬の戦略を固めています。",
+          "text_content": "「夏以降でいい」は、もう遅い？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-02.png",
           "image_file": "assets/img/posts/20260511_announcement-02.png",
-          "overlay_text": "もう「プロンプト」だけでは足りない時代？",
-          "subtext": "2026年、単純なAI利用は当たり前に。今、求められているのは自分の代わりに24時間働く「専用AIエージェント」を自作できるスキルです。",
-          "alt": "内容1 - もう「プロンプト」だけでは足りない時代？"
+          "overlay_text": "「夏以降でいい」は、もう遅い？",
+          "subtext": "AI学習が進む2026年、周囲は5月から冬の戦略を固めています。",
+          "alt": "内容1 - 「夏以降でいい」は、もう遅い？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "プログラミング不要。あなたのアイデアが即アプリに。",
-          "sub_title": "最新のローコードツールを活用し、学習・事務・創作を自動化するエージェントを構築。学生でも数時間で高度なシステムを開発可能です。",
-          "text_content": "プログラミング不要。あなたのアイデアが即アプリに。",
+          "main_title": "最新AI診断×完全個別カリキュラム",
+          "sub_title": "冬までに「弱点ゼロ」へ。2026年版の最新分析ツールで合格率を可視化。",
+          "text_content": "最新AI診断×完全個別カリキュラム",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-03.png",
           "image_file": "assets/img/posts/20260511_announcement-03.png",
-          "overlay_text": "プログラミング不要。あなたのアイデアが即アプリに。",
-          "subtext": "最新のローコードツールを活用し、学習・事務・創作を自動化するエージェントを構築。学生でも数時間で高度なシステムを開発可能です。",
-          "alt": "内容2 - プログラミング不要。あなたのアイデアが即"
+          "overlay_text": "最新AI診断×完全個別カリキュラム",
+          "subtext": "冬までに「弱点ゼロ」へ。2026年版の最新分析ツールで合格率を可視化。",
+          "alt": "内容2 - 最新AI診断×完全個別カリキュラム"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型」開発スタイル",
-          "sub_title": "単なる操作説明ではなく、論理的思考を養うカリキュラム。5月開講の本格始動コースでは、個別の課題解決に特化したエージェント制作を支援します。",
-          "text_content": "if塾が提案する「伴走型」開発スタイル",
+          "main_title": "if塾の「冬を先取り」活用術",
+          "sub_title": "5月中の予約で「先行対策講座」を付与。早期定着で冬の爆伸びを約束します。",
+          "text_content": "if塾の「冬を先取り」活用術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-04.png",
           "image_file": "assets/img/posts/20260511_announcement-04.png",
-          "overlay_text": "if塾が提案する「伴走型」開発スタイル",
-          "subtext": "単なる操作説明ではなく、論理的思考を養うカリキュラム。5月開講の本格始動コースでは、個別の課題解決に特化したエージェント制作を支援します。",
-          "alt": "内容3 - if塾が提案する「伴走型」開発スタイル"
+          "overlay_text": "if塾の「冬を先取り」活用術",
+          "subtext": "5月中の予約で「先行対策講座」を付与。早期定着で冬の爆伸びを約束します。",
+          "alt": "内容3 - if塾の「冬を先取り」活用術"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-          "sub_title": "ノーコードで未来を設計する最新コース",
-          "text_content": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
+          "main_title": "2026年冬期講習、最速受付開始！",
+          "sub_title": "5月11日解禁！新入試制度3年目の戦い方",
+          "text_content": "2026年冬期講習、最速受付開始！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-01.png",
           "image_file": "assets/img/posts/20260511_announcement-01.png",
-          "overlay_text": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-          "subtext": "ノーコードで未来を設計する最新コース",
-          "alt": "表紙 - AIは「使う」から「創る」へ。2026年"
+          "overlay_text": "2026年冬期講習、最速受付開始！",
+          "subtext": "5月11日解禁！新入試制度3年目の戦い方",
+          "alt": "表紙 - 2026年冬期講習、最速受付開始！"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "もう「プロンプト」だけでは足りない時代？",
-          "sub_title": "2026年、単純なAI利用は当たり前に。今、求められているのは自分の代わりに24時間働く「専用AIエージェント」を自作できるスキルです。",
-          "text_content": "もう「プロンプト」だけでは足りない時代？",
+          "main_title": "「夏以降でいい」は、もう遅い？",
+          "sub_title": "AI学習が進む2026年、周囲は5月から冬の戦略を固めています。",
+          "text_content": "「夏以降でいい」は、もう遅い？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-02.png",
           "image_file": "assets/img/posts/20260511_announcement-02.png",
-          "overlay_text": "もう「プロンプト」だけでは足りない時代？",
-          "subtext": "2026年、単純なAI利用は当たり前に。今、求められているのは自分の代わりに24時間働く「専用AIエージェント」を自作できるスキルです。",
-          "alt": "内容1 - もう「プロンプト」だけでは足りない時代？"
+          "overlay_text": "「夏以降でいい」は、もう遅い？",
+          "subtext": "AI学習が進む2026年、周囲は5月から冬の戦略を固めています。",
+          "alt": "内容1 - 「夏以降でいい」は、もう遅い？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "プログラミング不要。あなたのアイデアが即アプリに。",
-          "sub_title": "最新のローコードツールを活用し、学習・事務・創作を自動化するエージェントを構築。学生でも数時間で高度なシステムを開発可能です。",
-          "text_content": "プログラミング不要。あなたのアイデアが即アプリに。",
+          "main_title": "最新AI診断×完全個別カリキュラム",
+          "sub_title": "冬までに「弱点ゼロ」へ。2026年版の最新分析ツールで合格率を可視化。",
+          "text_content": "最新AI診断×完全個別カリキュラム",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-03.png",
           "image_file": "assets/img/posts/20260511_announcement-03.png",
-          "overlay_text": "プログラミング不要。あなたのアイデアが即アプリに。",
-          "subtext": "最新のローコードツールを活用し、学習・事務・創作を自動化するエージェントを構築。学生でも数時間で高度なシステムを開発可能です。",
-          "alt": "内容2 - プログラミング不要。あなたのアイデアが即"
+          "overlay_text": "最新AI診断×完全個別カリキュラム",
+          "subtext": "冬までに「弱点ゼロ」へ。2026年版の最新分析ツールで合格率を可視化。",
+          "alt": "内容2 - 最新AI診断×完全個別カリキュラム"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「伴走型」開発スタイル",
-          "sub_title": "単なる操作説明ではなく、論理的思考を養うカリキュラム。5月開講の本格始動コースでは、個別の課題解決に特化したエージェント制作を支援します。",
-          "text_content": "if塾が提案する「伴走型」開発スタイル",
+          "main_title": "if塾の「冬を先取り」活用術",
+          "sub_title": "5月中の予約で「先行対策講座」を付与。早期定着で冬の爆伸びを約束します。",
+          "text_content": "if塾の「冬を先取り」活用術",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260511_announcement-04.png",
           "image_file": "assets/img/posts/20260511_announcement-04.png",
-          "overlay_text": "if塾が提案する「伴走型」開発スタイル",
-          "subtext": "単なる操作説明ではなく、論理的思考を養うカリキュラム。5月開講の本格始動コースでは、個別の課題解決に特化したエージェント制作を支援します。",
-          "alt": "内容3 - if塾が提案する「伴走型」開発スタイル"
+          "overlay_text": "if塾の「冬を先取り」活用術",
+          "subtext": "5月中の予約で「先行対策講座」を付与。早期定着で冬の爆伸びを約束します。",
+          "alt": "内容3 - if塾の「冬を先取り」活用術"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-11T15:55:21",
+      "research_date": "2026-05-11T22:50:34",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「使う」から「創る」へ。2026年",
+        "cover_text": "2026年冬期講習、最速受付開始！",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「使う」から「創る」へ。2026年5月、AIエージェント開発の民主化が始動！",
-            "subtext": "ノーコードで未来を設計する最新コース",
+            "headline": "2026年冬期講習、最速受付開始！",
+            "subtext": "5月11日解禁！新入試制度3年目の戦い方",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "もう「プロンプト」だけでは足りない時代？",
-            "subtext": "2026年、単純なAI利用は当たり前に。今、求められているのは自分の代わりに24時間働く「専用AIエージェント」を自作できるスキルです。",
+            "headline": "「夏以降でいい」は、もう遅い？",
+            "subtext": "AI学習が進む2026年、周囲は5月から冬の戦略を固めています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "プログラミング不要。あなたのアイデアが即アプリに。",
-            "subtext": "最新のローコードツールを活用し、学習・事務・創作を自動化するエージェントを構築。学生でも数時間で高度なシステムを開発可能です。",
+            "headline": "最新AI診断×完全個別カリキュラム",
+            "subtext": "冬までに「弱点ゼロ」へ。2026年版の最新分析ツールで合格率を可視化。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「伴走型」開発スタイル",
-            "subtext": "単なる操作説明ではなく、論理的思考を養うカリキュラム。5月開講の本格始動コースでは、個別の課題解決に特化したエージェント制作を支援します。",
+            "headline": "if塾の「冬を先取り」活用術",
+            "subtext": "5月中の予約で「先行対策講座」を付与。早期定着で冬の爆伸びを約束します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
