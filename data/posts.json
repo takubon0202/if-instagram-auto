@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 126,
-    "last_updated": "2026-05-13T15:41:07.242008",
+    "last_updated": "2026-05-13T22:23:37.340680",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,24 @@
     {
       "id": "20260513_development",
       "post_id": "20260513_development",
-      "created_at": "2026-05-13T15:41:07",
+      "created_at": "2026-05-13T22:23:37",
       "datetime": "2026-05-13T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
+      "theme": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
       "target_audience": "Students & Parents",
-      "title": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-      "caption": "【2026年5月】最新の開発トレンドをお届けします！\n\n今、if塾の生徒たちが作っているのは、単なる「AI搭載アプリ」ではありません。\nAIがアプリの心臓部として最初から組み込まれた「AI-Native」なプロダクトです。\n\n「ボタンを押すとAIが答える」のはもう古い。\nこれからのアプリは、ユーザーの意図を先回りし、自律的にタスクを完了させます。\n\n2026年の今、プログラミング教育の焦点は「書き方」から「AIとの共創」へと完全にシフトしました。\n\n夏休みを前に、あなたも次世代のクリエイターを目指しませんか？\n詳細はプロフィールのリンクから！\n\n#if塾 #AIプログラミング #AIネイティブ #2026年最新 #EdTech #次世代教育 #自由研究2026",
-      "caption_text": "【2026年5月】最新の開発トレンドをお届けします！\n\n今、if塾の生徒たちが作っているのは、単なる「AI搭載アプリ」ではありません。\nAIがアプリの心臓部として最初から組み込まれた「AI-Native」なプロダクトです。\n\n「ボタンを押すとAIが答える」のはもう古い。\nこれからのアプリは、ユーザーの意図を先回りし、自律的にタスクを完了させます。\n\n2026年の今、プログラミング教育の焦点は「書き方」から「AIとの共創」へと完全にシフトしました。\n\n夏休みを前に、あなたも次世代のクリエイターを目指しませんか？\n詳細はプロフィールのリンクから！\n\n#if塾 #AIプログラミング #AIネイティブ #2026年最新 #EdTech #次世代教育 #自由研究2026",
+      "title": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+      "caption": "【2026年5月】最新AIトレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな時代はもう終わりを告げようとしています。\n\n今、私たちが開発しているのは、単なるチャットボットではなく、自ら考えてタスクを完遂する「自律型AIエージェント」です。🤖✨\n\n2026年5月現在、AppleやGoogleの最新OSがAIネイティブになったことで、複数のアプリを横断して作業を代行することが当たり前になりました。\n\nif塾では、この技術を「教育・進路」に特化。 \n✅ 志望校の募集要項の自動更新チェック\n✅ 自分の強みと入試要件の自動マッチング\n✅ 日々の学習記録から最適な推薦入試対策の立案\n\nこれらをAIが自律的に動いてサポートします。\n親御さんの負担も、生徒の不安も、テクノロジーで圧倒的に軽くなる未来へ。\n\n開発の進捗は随時プロフィールのリンクからチェックしてください！🔗\n\n#if塾 #2026年 #AIエージェント #自律型AI #進路指導 #EdTech #最新技術 #教育の未来 #AI開発 #志望校合格",
+      "caption_text": "【2026年5月】最新AIトレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな時代はもう終わりを告げようとしています。\n\n今、私たちが開発しているのは、単なるチャットボットではなく、自ら考えてタスクを完遂する「自律型AIエージェント」です。🤖✨\n\n2026年5月現在、AppleやGoogleの最新OSがAIネイティブになったことで、複数のアプリを横断して作業を代行することが当たり前になりました。\n\nif塾では、この技術を「教育・進路」に特化。 \n✅ 志望校の募集要項の自動更新チェック\n✅ 自分の強みと入試要件の自動マッチング\n✅ 日々の学習記録から最適な推薦入試対策の立案\n\nこれらをAIが自律的に動いてサポートします。\n親御さんの負担も、生徒の不安も、テクノロジーで圧倒的に軽くなる未来へ。\n\n開発の進捗は随時プロフィールのリンクからチェックしてください！🔗\n\n#if塾 #2026年 #AIエージェント #自律型AI #進路指導 #EdTech #最新技術 #教育の未来 #AI開発 #志望校合格",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AINative",
-        "#プログラミング教育",
         "#AIエージェント",
-        "#最新テック"
+        "#自律型AI",
+        "#進路指導",
+        "#EdTech",
+        "#最新技術",
+        "#AI教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-          "sub_title": "【2026.05.13】AI-Native開発の最前線ニュース",
-          "text_content": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
+          "main_title": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+          "sub_title": "2026年5月最新：if塾が開発した「自律型エージェント」の全貌",
+          "text_content": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-01.png",
           "image_file": "assets/img/posts/20260513_development-01.png",
-          "overlay_text": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-          "subtext": "【2026.05.13】AI-Native開発の最前線ニュース",
-          "alt": "表紙 - AIは「使う」から「溶け込む」へ。202"
+          "overlay_text": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+          "subtext": "2026年5月最新：if塾が開発した「自律型エージェント」の全貌",
+          "alt": "表紙 - チャットはもう古い？自律型AIエージェン"
         },
         {
           "page_number": 2,
@@ -57,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIをどこに使うか」で悩む時代は終わりました。",
-          "sub_title": "かつては翻訳や画像生成を『付け足す』だけでしたが、今の学生はAIが動くことを前提とした設計（AI-Native）に挑戦しています。",
-          "text_content": "「AIをどこに使うか」で悩む時代は終わりました。",
+          "main_title": "「指示待ち」の学習に限界を感じていませんか？",
+          "sub_title": "2026年、AIは『対話』から『行動』へ。検索して要約するだけのAIでは、複雑な志望校選びや願書作成のタスク管理までは解決できません。",
+          "text_content": "「指示待ち」の学習に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-02.png",
           "image_file": "assets/img/posts/20260513_development-02.png",
-          "overlay_text": "「AIをどこに使うか」で悩む時代は終わりました。",
-          "subtext": "かつては翻訳や画像生成を『付け足す』だけでしたが、今の学生はAIが動くことを前提とした設計（AI-Native）に挑戦しています。",
-          "alt": "内容1 - 「AIをどこに使うか」で悩む時代は終わり"
+          "overlay_text": "「指示待ち」の学習に限界を感じていませんか？",
+          "subtext": "2026年、AIは『対話』から『行動』へ。検索して要約するだけのAIでは、複雑な志望校選びや願書作成のタスク管理までは解決できません。",
+          "alt": "内容1 - 「指示待ち」の学習に限界を感じていません"
         },
         {
           "page_number": 3,
@@ -73,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型エージェントをコアにした次世代アプリ",
-          "sub_title": "5月の新作では、指示待ちではなくAIが状況を判断して動く作品が急増。GPT-5.5以降の推論モデルをフル活用した設計が標準に。",
-          "text_content": "自律型エージェントをコアにした次世代アプリ",
+          "main_title": "意志を持って動く「Auto-Tasker 2026」の衝撃",
+          "sub_title": "最新のマルチモーダルOS上で、AIが自らスケジュールを組み、大学の最新募集要項の取得から、必要な活動実績の整理までを完結させます。",
+          "text_content": "意志を持って動く「Auto-Tasker 2026」の衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-03.png",
           "image_file": "assets/img/posts/20260513_development-03.png",
-          "overlay_text": "自律型エージェントをコアにした次世代アプリ",
-          "subtext": "5月の新作では、指示待ちではなくAIが状況を判断して動く作品が急増。GPT-5.5以降の推論モデルをフル活用した設計が標準に。",
-          "alt": "内容2 - 自律型エージェントをコアにした次世代アプ"
+          "overlay_text": "意志を持って動く「Auto-Tasker 2026」の衝撃",
+          "subtext": "最新のマルチモーダルOS上で、AIが自らスケジュールを組み、大学の最新募集要項の取得から、必要な活動実績の整理までを完結させます。",
+          "alt": "内容2 - 意志を持って動く「Auto-Tasker"
         },
         {
           "page_number": 4,
@@ -89,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "開発効率は10倍、解決できる課題は無限大に。",
-          "sub_title": "if塾ではAIによるコード生成を前提とし、生徒は『どんな世界を作りたいか』という設計思想に注力。1ヶ月で商用レベルのアプリが完成しています。",
-          "text_content": "開発効率は10倍、解決できる課題は無限大に。",
+          "main_title": "if塾が提案する「伴走型」から「先行型」への変化",
+          "sub_title": "生徒が気づく前に、AIが将来のキャリアパスに必要なコンテストやボランティアを提案・応募予約。主体性を奪わず、可能性を最大化するツールへ。",
+          "text_content": "if塾が提案する「伴走型」から「先行型」への変化",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-04.png",
           "image_file": "assets/img/posts/20260513_development-04.png",
-          "overlay_text": "開発効率は10倍、解決できる課題は無限大に。",
-          "subtext": "if塾ではAIによるコード生成を前提とし、生徒は『どんな世界を作りたいか』という設計思想に注力。1ヶ月で商用レベルのアプリが完成しています。",
-          "alt": "内容3 - 開発効率は10倍、解決できる課題は無限大"
+          "overlay_text": "if塾が提案する「伴走型」から「先行型」への変化",
+          "subtext": "生徒が気づく前に、AIが将来のキャリアパスに必要なコンテストやボランティアを提案・応募予約。主体性を奪わず、可能性を最大化するツールへ。",
+          "alt": "内容3 - if塾が提案する「伴走型」から「先行型」"
         },
         {
           "page_number": 5,
@@ -123,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-          "sub_title": "【2026.05.13】AI-Native開発の最前線ニュース",
-          "text_content": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
+          "main_title": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+          "sub_title": "2026年5月最新：if塾が開発した「自律型エージェント」の全貌",
+          "text_content": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-01.png",
           "image_file": "assets/img/posts/20260513_development-01.png",
-          "overlay_text": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-          "subtext": "【2026.05.13】AI-Native開発の最前線ニュース",
-          "alt": "表紙 - AIは「使う」から「溶け込む」へ。202"
+          "overlay_text": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+          "subtext": "2026年5月最新：if塾が開発した「自律型エージェント」の全貌",
+          "alt": "表紙 - チャットはもう古い？自律型AIエージェン"
         },
         {
           "page_number": 2,
@@ -139,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIをどこに使うか」で悩む時代は終わりました。",
-          "sub_title": "かつては翻訳や画像生成を『付け足す』だけでしたが、今の学生はAIが動くことを前提とした設計（AI-Native）に挑戦しています。",
-          "text_content": "「AIをどこに使うか」で悩む時代は終わりました。",
+          "main_title": "「指示待ち」の学習に限界を感じていませんか？",
+          "sub_title": "2026年、AIは『対話』から『行動』へ。検索して要約するだけのAIでは、複雑な志望校選びや願書作成のタスク管理までは解決できません。",
+          "text_content": "「指示待ち」の学習に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-02.png",
           "image_file": "assets/img/posts/20260513_development-02.png",
-          "overlay_text": "「AIをどこに使うか」で悩む時代は終わりました。",
-          "subtext": "かつては翻訳や画像生成を『付け足す』だけでしたが、今の学生はAIが動くことを前提とした設計（AI-Native）に挑戦しています。",
-          "alt": "内容1 - 「AIをどこに使うか」で悩む時代は終わり"
+          "overlay_text": "「指示待ち」の学習に限界を感じていませんか？",
+          "subtext": "2026年、AIは『対話』から『行動』へ。検索して要約するだけのAIでは、複雑な志望校選びや願書作成のタスク管理までは解決できません。",
+          "alt": "内容1 - 「指示待ち」の学習に限界を感じていません"
         },
         {
           "page_number": 3,
@@ -155,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型エージェントをコアにした次世代アプリ",
-          "sub_title": "5月の新作では、指示待ちではなくAIが状況を判断して動く作品が急増。GPT-5.5以降の推論モデルをフル活用した設計が標準に。",
-          "text_content": "自律型エージェントをコアにした次世代アプリ",
+          "main_title": "意志を持って動く「Auto-Tasker 2026」の衝撃",
+          "sub_title": "最新のマルチモーダルOS上で、AIが自らスケジュールを組み、大学の最新募集要項の取得から、必要な活動実績の整理までを完結させます。",
+          "text_content": "意志を持って動く「Auto-Tasker 2026」の衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-03.png",
           "image_file": "assets/img/posts/20260513_development-03.png",
-          "overlay_text": "自律型エージェントをコアにした次世代アプリ",
-          "subtext": "5月の新作では、指示待ちではなくAIが状況を判断して動く作品が急増。GPT-5.5以降の推論モデルをフル活用した設計が標準に。",
-          "alt": "内容2 - 自律型エージェントをコアにした次世代アプ"
+          "overlay_text": "意志を持って動く「Auto-Tasker 2026」の衝撃",
+          "subtext": "最新のマルチモーダルOS上で、AIが自らスケジュールを組み、大学の最新募集要項の取得から、必要な活動実績の整理までを完結させます。",
+          "alt": "内容2 - 意志を持って動く「Auto-Tasker"
         },
         {
           "page_number": 4,
@@ -171,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "開発効率は10倍、解決できる課題は無限大に。",
-          "sub_title": "if塾ではAIによるコード生成を前提とし、生徒は『どんな世界を作りたいか』という設計思想に注力。1ヶ月で商用レベルのアプリが完成しています。",
-          "text_content": "開発効率は10倍、解決できる課題は無限大に。",
+          "main_title": "if塾が提案する「伴走型」から「先行型」への変化",
+          "sub_title": "生徒が気づく前に、AIが将来のキャリアパスに必要なコンテストやボランティアを提案・応募予約。主体性を奪わず、可能性を最大化するツールへ。",
+          "text_content": "if塾が提案する「伴走型」から「先行型」への変化",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260513_development-04.png",
           "image_file": "assets/img/posts/20260513_development-04.png",
-          "overlay_text": "開発効率は10倍、解決できる課題は無限大に。",
-          "subtext": "if塾ではAIによるコード生成を前提とし、生徒は『どんな世界を作りたいか』という設計思想に注力。1ヶ月で商用レベルのアプリが完成しています。",
-          "alt": "内容3 - 開発効率は10倍、解決できる課題は無限大"
+          "overlay_text": "if塾が提案する「伴走型」から「先行型」への変化",
+          "subtext": "生徒が気づく前に、AIが将来のキャリアパスに必要なコンテストやボランティアを提案・応募予約。主体性を奪わず、可能性を最大化するツールへ。",
+          "alt": "内容3 - if塾が提案する「伴走型」から「先行型」"
         },
         {
           "page_number": 5,
@@ -227,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "アプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "yamazaki_takumi",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-13T15:39:37",
+      "research_date": "2026-05-13T22:21:07",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -249,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「使う」から「溶け込む」へ。202",
+        "cover_text": "チャットはもう古い？自律型AIエージェン",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「使う」から「溶け込む」へ。2026年最新の生徒作品5選",
-            "subtext": "【2026.05.13】AI-Native開発の最前線ニュース",
+            "headline": "チャットはもう古い？自律型AIエージェントが拓く新・進路学習",
+            "subtext": "2026年5月最新：if塾が開発した「自律型エージェント」の全貌",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -265,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIをどこに使うか」で悩む時代は終わりました。",
-            "subtext": "かつては翻訳や画像生成を『付け足す』だけでしたが、今の学生はAIが動くことを前提とした設計（AI-Native）に挑戦しています。",
+            "headline": "「指示待ち」の学習に限界を感じていませんか？",
+            "subtext": "2026年、AIは『対話』から『行動』へ。検索して要約するだけのAIでは、複雑な志望校選びや願書作成のタスク管理までは解決できません。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -274,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型エージェントをコアにした次世代アプリ",
-            "subtext": "5月の新作では、指示待ちではなくAIが状況を判断して動く作品が急増。GPT-5.5以降の推論モデルをフル活用した設計が標準に。",
+            "headline": "意志を持って動く「Auto-Tasker 2026」の衝撃",
+            "subtext": "最新のマルチモーダルOS上で、AIが自らスケジュールを組み、大学の最新募集要項の取得から、必要な活動実績の整理までを完結させます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -283,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "開発効率は10倍、解決できる課題は無限大に。",
-            "subtext": "if塾ではAIによるコード生成を前提とし、生徒は『どんな世界を作りたいか』という設計思想に注力。1ヶ月で商用レベルのアプリが完成しています。",
+            "headline": "if塾が提案する「伴走型」から「先行型」への変化",
+            "subtext": "生徒が気づく前に、AIが将来のキャリアパスに必要なコンテストやボランティアを提案・応募予約。主体性を奪わず、可能性を最大化するツールへ。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
