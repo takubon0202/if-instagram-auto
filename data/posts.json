@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 125,
-    "last_updated": "2026-05-12T22:09:48.571557",
+    "total_posts": 126,
+    "last_updated": "2026-05-13T11:59:55.479396",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260513_development",
+      "post_id": "20260513_development",
+      "created_at": "2026-05-13T11:59:55",
+      "datetime": "2026-05-13T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+      "caption": "【2026年5月】最新の教育トレンドをお届けします！\n\n今、中学生のAI利用率が4割を超えたというニュースが話題です。🚀\n特筆すべきは、単なる検索利用ではなく「開発の相棒」としてAIを使う『バイブコーディング』の広がり。\n\n「作りたい」という熱量（バイブス）を、AIが即座に形にする。\nこのスピード感に慣れた子供たちは、もはやプログラミングを「勉強」ではなく「魔法のツール」として捉えています。\n\nif塾では、最新のAIツールを教育カリキュラムに完全導入。\nコードを書く作業はAIに任せ、人間は「どんな社会課題を解決するか？」という本質的な企画・設計に集中する環境を提供しています。\n\nこれからの時代、AIを制限するのではなく「どう使いこなすか」が、10年後の格差を決めます。\n\nあなたのお子様も、AIを相棒に世界を変えるプロダクトを作ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！🔗",
+      "caption_text": "【2026年5月】最新の教育トレンドをお届けします！\n\n今、中学生のAI利用率が4割を超えたというニュースが話題です。🚀\n特筆すべきは、単なる検索利用ではなく「開発の相棒」としてAIを使う『バイブコーディング』の広がり。\n\n「作りたい」という熱量（バイブス）を、AIが即座に形にする。\nこのスピード感に慣れた子供たちは、もはやプログラミングを「勉強」ではなく「魔法のツール」として捉えています。\n\nif塾では、最新のAIツールを教育カリキュラムに完全導入。\nコードを書く作業はAIに任せ、人間は「どんな社会課題を解決するか？」という本質的な企画・設計に集中する環境を提供しています。\n\nこれからの時代、AIを制限するのではなく「どう使いこなすか」が、10年後の格差を決めます。\n\nあなたのお子様も、AIを相棒に世界を変えるプロダクトを作ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#AI教育",
+        "#中学生プログラミング",
+        "#VibeCoding",
+        "#最新テックニュース",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "sub_title": "2026年5月最新：AIを相棒にする新時代の学習スタイル",
+          "text_content": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-01.png",
+          "image_file": "assets/img/posts/20260513_development-01.png",
+          "overlay_text": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "subtext": "2026年5月最新：AIを相棒にする新時代の学習スタイル",
+          "alt": "表紙 - 中学生の4割がAI開発者？2026年「バ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードが書けない」はもう古い？",
+          "sub_title": "プログラミングは『言語の習得』から『AIへの指示力』へ。文法で挫折する時代は終わりました。",
+          "text_content": "「コードが書けない」はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-02.png",
+          "image_file": "assets/img/posts/20260513_development-02.png",
+          "overlay_text": "「コードが書けない」はもう古い？",
+          "subtext": "プログラミングは『言語の習得』から『AIへの指示力』へ。文法で挫折する時代は終わりました。",
+          "alt": "内容1 - 「コードが書けない」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "対話でアプリを作る「Vibe Coding」",
+          "sub_title": "最新のAIエージェントと会話しながら、数分でプロトタイプを完成させる手法が中学生の間で浸透中。",
+          "text_content": "対話でアプリを作る「Vibe Coding」",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-03.png",
+          "image_file": "assets/img/posts/20260513_development-03.png",
+          "overlay_text": "対話でアプリを作る「Vibe Coding」",
+          "subtext": "最新のAIエージェントと会話しながら、数分でプロトタイプを完成させる手法が中学生の間で浸透中。",
+          "alt": "内容2 - 対話でアプリを作る「Vibe Codin"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する『AIとの共創力』",
+          "sub_title": "AIに丸投げではなく「意図を伝える力」を養う。if塾生はAIを使いこなし、1ヶ月でオリジナルアプリをリリースしています。",
+          "text_content": "if塾が提案する『AIとの共創力』",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-04.png",
+          "image_file": "assets/img/posts/20260513_development-04.png",
+          "overlay_text": "if塾が提案する『AIとの共創力』",
+          "subtext": "AIに丸投げではなく「意図を伝える力」を養う。if塾生はAIを使いこなし、1ヶ月でオリジナルアプリをリリースしています。",
+          "alt": "内容3 - if塾が提案する『AIとの共創力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "sub_title": "2026年5月最新：AIを相棒にする新時代の学習スタイル",
+          "text_content": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-01.png",
+          "image_file": "assets/img/posts/20260513_development-01.png",
+          "overlay_text": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+          "subtext": "2026年5月最新：AIを相棒にする新時代の学習スタイル",
+          "alt": "表紙 - 中学生の4割がAI開発者？2026年「バ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「コードが書けない」はもう古い？",
+          "sub_title": "プログラミングは『言語の習得』から『AIへの指示力』へ。文法で挫折する時代は終わりました。",
+          "text_content": "「コードが書けない」はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-02.png",
+          "image_file": "assets/img/posts/20260513_development-02.png",
+          "overlay_text": "「コードが書けない」はもう古い？",
+          "subtext": "プログラミングは『言語の習得』から『AIへの指示力』へ。文法で挫折する時代は終わりました。",
+          "alt": "内容1 - 「コードが書けない」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "対話でアプリを作る「Vibe Coding」",
+          "sub_title": "最新のAIエージェントと会話しながら、数分でプロトタイプを完成させる手法が中学生の間で浸透中。",
+          "text_content": "対話でアプリを作る「Vibe Coding」",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-03.png",
+          "image_file": "assets/img/posts/20260513_development-03.png",
+          "overlay_text": "対話でアプリを作る「Vibe Coding」",
+          "subtext": "最新のAIエージェントと会話しながら、数分でプロトタイプを完成させる手法が中学生の間で浸透中。",
+          "alt": "内容2 - 対話でアプリを作る「Vibe Codin"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する『AIとの共創力』",
+          "sub_title": "AIに丸投げではなく「意図を伝える力」を養う。if塾生はAIを使いこなし、1ヶ月でオリジナルアプリをリリースしています。",
+          "text_content": "if塾が提案する『AIとの共創力』",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260513_development-04.png",
+          "image_file": "assets/img/posts/20260513_development-04.png",
+          "overlay_text": "if塾が提案する『AIとの共創力』",
+          "subtext": "AIに丸投げではなく「意図を伝える力」を養う。if塾生はAIを使いこなし、1ヶ月でオリジナルアプリをリリースしています。",
+          "alt": "内容3 - if塾が提案する『AIとの共創力』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260513_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260513_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260513_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260513_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-13T11:58:12",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中学生の4割がAI開発者？2026年「バ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中学生の4割がAI開発者？2026年「バイブコーディング」の衝撃",
+            "subtext": "2026年5月最新：AIを相棒にする新時代の学習スタイル",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「コードが書けない」はもう古い？",
+            "subtext": "プログラミングは『言語の習得』から『AIへの指示力』へ。文法で挫折する時代は終わりました。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "対話でアプリを作る「Vibe Coding」",
+            "subtext": "最新のAIエージェントと会話しながら、数分でプロトタイプを完成させる手法が中学生の間で浸透中。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する『AIとの共創力』",
+            "subtext": "AIに丸投げではなく「意図を伝える力」を養う。if塾生はAIを使いこなし、1ヶ月でオリジナルアプリをリリースしています。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260512_education",
       "post_id": "20260512_education",
