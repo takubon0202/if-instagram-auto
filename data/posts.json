@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 126,
-    "last_updated": "2026-05-13T22:23:37.340680",
+    "total_posts": 127,
+    "last_updated": "2026-05-14T12:25:01.787681",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260514_ai_column",
+      "post_id": "20260514_ai_column",
+      "created_at": "2026-05-14T12:25:01",
+      "datetime": "2026-05-14T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+      "target_audience": "Students & Parents",
+      "title": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+      "caption": "【2026年5月】最新AIトレンドをお届け！\n\nみなさん、最近「ChatGPT Tasks」などの自律型エージェントを使っていますか？\n2026年の今、AIは「相談相手」から「実行役」へと進化しました。\n\n「明日の朝までにこれやっておいて」\nそう伝えてスマホを置くだけで、タスクが完結している世界。\n\n特に中間テストや新学期の疲れが出るこの5月、\n保護者の皆さんの事務作業や、学生さんのリサーチ効率を\n劇的に変える可能性を秘めています。\n\nif塾では、こうした最新ツールを「単なる時短」ではなく、\n「思考の深掘り」のためにどう使うかを大切にしています。\n\n皆さんは、AIにどんなタスクを任せてみたいですか？\nぜひコメントで教えてください！\n\n#if塾 #2026年 #AI教育 #自律型AI #ChatGPTTasks #生産性向上 #最新テック",
+      "caption_text": "【2026年5月】最新AIトレンドをお届け！\n\nみなさん、最近「ChatGPT Tasks」などの自律型エージェントを使っていますか？\n2026年の今、AIは「相談相手」から「実行役」へと進化しました。\n\n「明日の朝までにこれやっておいて」\nそう伝えてスマホを置くだけで、タスクが完結している世界。\n\n特に中間テストや新学期の疲れが出るこの5月、\n保護者の皆さんの事務作業や、学生さんのリサーチ効率を\n劇的に変える可能性を秘めています。\n\nif塾では、こうした最新ツールを「単なる時短」ではなく、\n「思考の深掘り」のためにどう使うかを大切にしています。\n\n皆さんは、AIにどんなタスクを任せてみたいですか？\nぜひコメントで教えてください！\n\n#if塾 #2026年 #AI教育 #自律型AI #ChatGPTTasks #生産性向上 #最新テック",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#ChatGPTTasks",
+        "#放置型AI",
+        "#最新AIトレンド",
+        "#教育AI"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "sub_title": "5月最新：ChatGPT Tasksが変える学習と仕事",
+          "text_content": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-01.png",
+          "image_file": "assets/img/posts/20260514_ai_column-01.png",
+          "overlay_text": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "subtext": "5月最新：ChatGPT Tasksが変える学習と仕事",
+          "alt": "表紙 - 指示して寝るだけ。2026年、AIは「放"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIとの対話」さえ、もう古い？",
+          "sub_title": "これまでのように1つずつ質問して回答を待つ必要はありません。2026年、自律型AIエージェントが「勝手に終わらせておく」時代に突入しました。",
+          "text_content": "「AIとの対話」さえ、もう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-02.png",
+          "image_file": "assets/img/posts/20260514_ai_column-02.png",
+          "overlay_text": "「AIとの対話」さえ、もう古い？",
+          "subtext": "これまでのように1つずつ質問して回答を待つ必要はありません。2026年、自律型AIエージェントが「勝手に終わらせておく」時代に突入しました。",
+          "alt": "内容1 - 「AIとの対話」さえ、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ChatGPT Tasksで自動完結",
+          "sub_title": "「5月14日までの課題資料をまとめて、PDFで保存しておいて」と一言。AIがブラウジング、要約、ファイル作成までを裏側で全て完了させます。",
+          "text_content": "ChatGPT Tasksで自動完結",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-03.png",
+          "image_file": "assets/img/posts/20260514_ai_column-03.png",
+          "overlay_text": "ChatGPT Tasksで自動完結",
+          "subtext": "「5月14日までの課題資料をまとめて、PDFで保存しておいて」と一言。AIがブラウジング、要約、ファイル作成までを裏側で全て完了させます。",
+          "alt": "内容2 - ChatGPT Tasksで自動完結"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「部下」にする技術",
+          "sub_title": "大事なのは「丸投げ」ではなく「ゴール設定」。進路調査や試験分析を自動化し、人間はAIが持ってきた選択肢を「判断」することに集中しましょう。",
+          "text_content": "if塾流：AIを「部下」にする技術",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-04.png",
+          "image_file": "assets/img/posts/20260514_ai_column-04.png",
+          "overlay_text": "if塾流：AIを「部下」にする技術",
+          "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。進路調査や試験分析を自動化し、人間はAIが持ってきた選択肢を「判断」することに集中しましょう。",
+          "alt": "内容3 - if塾流：AIを「部下」にする技術"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "sub_title": "5月最新：ChatGPT Tasksが変える学習と仕事",
+          "text_content": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-01.png",
+          "image_file": "assets/img/posts/20260514_ai_column-01.png",
+          "overlay_text": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+          "subtext": "5月最新：ChatGPT Tasksが変える学習と仕事",
+          "alt": "表紙 - 指示して寝るだけ。2026年、AIは「放"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIとの対話」さえ、もう古い？",
+          "sub_title": "これまでのように1つずつ質問して回答を待つ必要はありません。2026年、自律型AIエージェントが「勝手に終わらせておく」時代に突入しました。",
+          "text_content": "「AIとの対話」さえ、もう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-02.png",
+          "image_file": "assets/img/posts/20260514_ai_column-02.png",
+          "overlay_text": "「AIとの対話」さえ、もう古い？",
+          "subtext": "これまでのように1つずつ質問して回答を待つ必要はありません。2026年、自律型AIエージェントが「勝手に終わらせておく」時代に突入しました。",
+          "alt": "内容1 - 「AIとの対話」さえ、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ChatGPT Tasksで自動完結",
+          "sub_title": "「5月14日までの課題資料をまとめて、PDFで保存しておいて」と一言。AIがブラウジング、要約、ファイル作成までを裏側で全て完了させます。",
+          "text_content": "ChatGPT Tasksで自動完結",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-03.png",
+          "image_file": "assets/img/posts/20260514_ai_column-03.png",
+          "overlay_text": "ChatGPT Tasksで自動完結",
+          "subtext": "「5月14日までの課題資料をまとめて、PDFで保存しておいて」と一言。AIがブラウジング、要約、ファイル作成までを裏側で全て完了させます。",
+          "alt": "内容2 - ChatGPT Tasksで自動完結"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「部下」にする技術",
+          "sub_title": "大事なのは「丸投げ」ではなく「ゴール設定」。進路調査や試験分析を自動化し、人間はAIが持ってきた選択肢を「判断」することに集中しましょう。",
+          "text_content": "if塾流：AIを「部下」にする技術",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260514_ai_column-04.png",
+          "image_file": "assets/img/posts/20260514_ai_column-04.png",
+          "overlay_text": "if塾流：AIを「部下」にする技術",
+          "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。進路調査や試験分析を自動化し、人間はAIが持ってきた選択肢を「判断」することに集中しましょう。",
+          "alt": "内容3 - if塾流：AIを「部下」にする技術"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260514_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260514_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260514_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260514_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-14T12:23:27",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示して寝るだけ。2026年、AIは「放",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示して寝るだけ。2026年、AIは「放置型」へ。",
+            "subtext": "5月最新：ChatGPT Tasksが変える学習と仕事",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIとの対話」さえ、もう古い？",
+            "subtext": "これまでのように1つずつ質問して回答を待つ必要はありません。2026年、自律型AIエージェントが「勝手に終わらせておく」時代に突入しました。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "ChatGPT Tasksで自動完結",
+            "subtext": "「5月14日までの課題資料をまとめて、PDFで保存しておいて」と一言。AIがブラウジング、要約、ファイル作成までを裏側で全て完了させます。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「部下」にする技術",
+            "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。進路調査や試験分析を自動化し、人間はAIが持ってきた選択肢を「判断」することに集中しましょう。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260513_development",
       "post_id": "20260513_development",
