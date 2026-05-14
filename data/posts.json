@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 127,
-    "last_updated": "2026-05-14T15:39:08.820327",
+    "last_updated": "2026-05-14T21:58:27.313861",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260514_ai_column",
       "post_id": "20260514_ai_column",
-      "created_at": "2026-05-14T15:39:08",
+      "created_at": "2026-05-14T21:58:27",
       "datetime": "2026-05-14T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "Androidが消える？Gemini Intelligence誕生",
+      "theme": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
       "target_audience": "Students & Parents",
-      "title": "Androidが消える？Gemini Intelligence誕生",
-      "caption": "【2026年5月】最新AIニュースをお届け！\n\n本日、Googleから衝撃の発表がありました。これまでのAndroidは「OS」という枠組みを捨て、新たに『Gemini Intelligence（インテリジェンスシステム）』へと進化を遂げました。\n\nもはやスマホは道具ではなく、あなたの思考を拡張するパートナーへ。\n中間テストを控えた学生の皆さんや、お子様の学習環境を心配される保護者の皆様にとって、この変化は「情報の格差」ではなく「チャンスの拡大」です。\n\n「AIに解答を教えてもらう」のではなく、「AIにどう導いてもらうか」。\nif塾では、この2026年最新システムを使いこなすための『思考の土台』を鍛える指導を行っています。\n\n最新のAI活用術を知りたい方は、プロフィール欄のリンクをチェック！",
-      "caption_text": "【2026年5月】最新AIニュースをお届け！\n\n本日、Googleから衝撃の発表がありました。これまでのAndroidは「OS」という枠組みを捨て、新たに『Gemini Intelligence（インテリジェンスシステム）』へと進化を遂げました。\n\nもはやスマホは道具ではなく、あなたの思考を拡張するパートナーへ。\n中間テストを控えた学生の皆さんや、お子様の学習環境を心配される保護者の皆様にとって、この変化は「情報の格差」ではなく「チャンスの拡大」です。\n\n「AIに解答を教えてもらう」のではなく、「AIにどう導いてもらうか」。\nif塾では、この2026年最新システムを使いこなすための『思考の土台』を鍛える指導を行っています。\n\n最新のAI活用術を知りたい方は、プロフィール欄のリンクをチェック！",
+      "title": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+      "caption": "【2026年5月】最新AIエージェント、あなたは使いこなせていますか？\n\n今月リリースされた「GPT-5.5 Pro」と、進化を遂げた「Gemini 2.5 Pro」。\nもはや、AIは単なる「検索ツール」ではなく、私たちの生活を支える「自律型パートナー」となりました。\n\n特に受験生や保護者の皆様にとって、このエージェントをどう活用するかで、2027年度入試の成否が分かれると言っても過言ではありません。\n\n✅ GPT-5.5 Pro：論理的思考が必要な記述対策・小論文に。\n✅ Gemini 2.5 Pro：学習スケジュールの自動管理・タスク遂行に。\n\nif塾では、これら最新AIをツールとして使いこなし、自律的に学ぶ力を育てる指導を行っています。\n\n「どのAIを使えばいいかわからない」「最新機能を活用したい」という方は、ぜひプロフィールのリンクからお問い合わせください！\n\n#if塾 #2026年 #AI教育 #GPT5 #Gemini #自律型AI #受験生の母 #最新テクノロジー",
+      "caption_text": "【2026年5月】最新AIエージェント、あなたは使いこなせていますか？\n\n今月リリースされた「GPT-5.5 Pro」と、進化を遂げた「Gemini 2.5 Pro」。\nもはや、AIは単なる「検索ツール」ではなく、私たちの生活を支える「自律型パートナー」となりました。\n\n特に受験生や保護者の皆様にとって、このエージェントをどう活用するかで、2027年度入試の成否が分かれると言っても過言ではありません。\n\n✅ GPT-5.5 Pro：論理的思考が必要な記述対策・小論文に。\n✅ Gemini 2.5 Pro：学習スケジュールの自動管理・タスク遂行に。\n\nif塾では、これら最新AIをツールとして使いこなし、自律的に学ぶ力を育てる指導を行っています。\n\n「どのAIを使えばいいかわからない」「最新機能を活用したい」という方は、ぜひプロフィールのリンクからお問い合わせください！\n\n#if塾 #2026年 #AI教育 #GPT5 #Gemini #自律型AI #受験生の母 #最新テクノロジー",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#GeminiIntelligence",
-        "#教育AI",
-        "#Android最新",
-        "#AI教育",
-        "#GIGAスクール",
-        "#最新テック"
+        "#AIエージェント",
+        "#GPT55Pro",
+        "#Gemini25Pro",
+        "#教育DX",
+        "#中学受験2027",
+        "#高校受験2027",
+        "#最新AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Androidが消える？Gemini Intelligence誕生",
-          "sub_title": "2026.05.14 最新アップデート速報",
-          "text_content": "Androidが消える？Gemini Intelligence誕生",
+          "main_title": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+          "sub_title": "2026年5月版｜受験生が選ぶべきAIはどっち？",
+          "text_content": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-01.png",
           "image_file": "assets/img/posts/20260514_ai_column-01.png",
-          "overlay_text": "Androidが消える？Gemini Intelligence誕生",
-          "subtext": "2026.05.14 最新アップデート速報",
-          "alt": "表紙 - Androidが消える？Gemini I"
+          "overlay_text": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+          "subtext": "2026年5月版｜受験生が選ぶべきAIはどっち？",
+          "alt": "表紙 - GPT-5.5 Pro vs Gemin"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "スマホが「OS」から「AI」へ劇変",
-          "sub_title": "従来のAndroid OSが「インテリジェンスシステム」へ再定義。アプリを開く時代は終わり、AIが全ての操作を先回りする時代に突入しました。",
-          "text_content": "スマホが「OS」から「AI」へ劇変",
+          "main_title": "自律型AIが「調べる」から「完結させる」時代へ",
+          "sub_title": "これまでの対話型AIはもう古い？2026年、AIは私たちの指示を待たずにタスクを自動実行する『エージェント』へと進化しました。志望校選定から出願スケジュール作成まで、全てお任せできる時代です。",
+          "text_content": "自律型AIが「調べる」から「完結させる」時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-02.png",
           "image_file": "assets/img/posts/20260514_ai_column-02.png",
-          "overlay_text": "スマホが「OS」から「AI」へ劇変",
-          "subtext": "従来のAndroid OSが「インテリジェンスシステム」へ再定義。アプリを開く時代は終わり、AIが全ての操作を先回りする時代に突入しました。",
-          "alt": "内容1 - スマホが「OS」から「AI」へ劇変"
+          "overlay_text": "自律型AIが「調べる」から「完結させる」時代へ",
+          "subtext": "これまでの対話型AIはもう古い？2026年、AIは私たちの指示を待たずにタスクを自動実行する『エージェント』へと進化しました。志望校選定から出願スケジュール作成まで、全てお任せできる時代です。",
+          "alt": "内容1 - 自律型AIが「調べる」から「完結させる」"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini Intelligenceで勉強はどう変わる？",
-          "sub_title": "画面を見るだけでAIが「今の理解度」を測定。5月のテスト期間中、苦手分野を自動で抽出して専用の問題集をその場で作ってくれます。",
-          "text_content": "Gemini Intelligenceで勉強はどう変わる？",
+          "main_title": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
+          "sub_title": "GPT-5.5 Proは『推論2.0』で複雑な記述問題の添削が完璧に。一方、Gemini 2.5 ProはGoogleカレンダーやGmailと高度に連携し、塾の面談予約から学習計画の自動修正まで24時間体制でサポートしてくれます。",
+          "text_content": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-03.png",
           "image_file": "assets/img/posts/20260514_ai_column-03.png",
-          "overlay_text": "Gemini Intelligenceで勉強はどう変わる？",
-          "subtext": "画面を見るだけでAIが「今の理解度」を測定。5月のテスト期間中、苦手分野を自動で抽出して専用の問題集をその場で作ってくれます。",
-          "alt": "内容2 - Gemini Intelligenceで"
+          "overlay_text": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
+          "subtext": "GPT-5.5 Proは『推論2.0』で複雑な記述問題の添削が完璧に。一方、Gemini 2.5 ProはGoogleカレンダーやGmailと高度に連携し、塾の面談予約から学習計画の自動修正まで24時間体制でサポートしてくれます。",
+          "alt": "内容2 - マルチモーダル対決：論理のGPTか、リア"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIに使われないための「問い」の力",
-          "sub_title": "システムが優秀すぎる今、大切なのは「AIに何をやらせるか」を決める言語化能力。2026年の学習には『AIとの対話力』が必須科目です。",
-          "text_content": "if塾の視点：AIに使われないための「問い」の力",
+          "main_title": "if塾流：AIエージェントに『丸投げ』しない活用術",
+          "sub_title": "便利すぎるからこそ、思考停止は禁物。if塾では、AIが生成した学習計画を『自分軸』で評価する力を養います。AIはあくまで最強の副担任。最後に判断し、行動するのは生徒自身の意志であることを忘れないでください。",
+          "text_content": "if塾流：AIエージェントに『丸投げ』しない活用術",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-04.png",
           "image_file": "assets/img/posts/20260514_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIに使われないための「問い」の力",
-          "subtext": "システムが優秀すぎる今、大切なのは「AIに何をやらせるか」を決める言語化能力。2026年の学習には『AIとの対話力』が必須科目です。",
-          "alt": "内容3 - if塾の視点：AIに使われないための「問"
+          "overlay_text": "if塾流：AIエージェントに『丸投げ』しない活用術",
+          "subtext": "便利すぎるからこそ、思考停止は禁物。if塾では、AIが生成した学習計画を『自分軸』で評価する力を養います。AIはあくまで最強の副担任。最後に判断し、行動するのは生徒自身の意志であることを忘れないでください。",
+          "alt": "内容3 - if塾流：AIエージェントに『丸投げ』し"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Androidが消える？Gemini Intelligence誕生",
-          "sub_title": "2026.05.14 最新アップデート速報",
-          "text_content": "Androidが消える？Gemini Intelligence誕生",
+          "main_title": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+          "sub_title": "2026年5月版｜受験生が選ぶべきAIはどっち？",
+          "text_content": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-01.png",
           "image_file": "assets/img/posts/20260514_ai_column-01.png",
-          "overlay_text": "Androidが消える？Gemini Intelligence誕生",
-          "subtext": "2026.05.14 最新アップデート速報",
-          "alt": "表紙 - Androidが消える？Gemini I"
+          "overlay_text": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+          "subtext": "2026年5月版｜受験生が選ぶべきAIはどっち？",
+          "alt": "表紙 - GPT-5.5 Pro vs Gemin"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "スマホが「OS」から「AI」へ劇変",
-          "sub_title": "従来のAndroid OSが「インテリジェンスシステム」へ再定義。アプリを開く時代は終わり、AIが全ての操作を先回りする時代に突入しました。",
-          "text_content": "スマホが「OS」から「AI」へ劇変",
+          "main_title": "自律型AIが「調べる」から「完結させる」時代へ",
+          "sub_title": "これまでの対話型AIはもう古い？2026年、AIは私たちの指示を待たずにタスクを自動実行する『エージェント』へと進化しました。志望校選定から出願スケジュール作成まで、全てお任せできる時代です。",
+          "text_content": "自律型AIが「調べる」から「完結させる」時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-02.png",
           "image_file": "assets/img/posts/20260514_ai_column-02.png",
-          "overlay_text": "スマホが「OS」から「AI」へ劇変",
-          "subtext": "従来のAndroid OSが「インテリジェンスシステム」へ再定義。アプリを開く時代は終わり、AIが全ての操作を先回りする時代に突入しました。",
-          "alt": "内容1 - スマホが「OS」から「AI」へ劇変"
+          "overlay_text": "自律型AIが「調べる」から「完結させる」時代へ",
+          "subtext": "これまでの対話型AIはもう古い？2026年、AIは私たちの指示を待たずにタスクを自動実行する『エージェント』へと進化しました。志望校選定から出願スケジュール作成まで、全てお任せできる時代です。",
+          "alt": "内容1 - 自律型AIが「調べる」から「完結させる」"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini Intelligenceで勉強はどう変わる？",
-          "sub_title": "画面を見るだけでAIが「今の理解度」を測定。5月のテスト期間中、苦手分野を自動で抽出して専用の問題集をその場で作ってくれます。",
-          "text_content": "Gemini Intelligenceで勉強はどう変わる？",
+          "main_title": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
+          "sub_title": "GPT-5.5 Proは『推論2.0』で複雑な記述問題の添削が完璧に。一方、Gemini 2.5 ProはGoogleカレンダーやGmailと高度に連携し、塾の面談予約から学習計画の自動修正まで24時間体制でサポートしてくれます。",
+          "text_content": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-03.png",
           "image_file": "assets/img/posts/20260514_ai_column-03.png",
-          "overlay_text": "Gemini Intelligenceで勉強はどう変わる？",
-          "subtext": "画面を見るだけでAIが「今の理解度」を測定。5月のテスト期間中、苦手分野を自動で抽出して専用の問題集をその場で作ってくれます。",
-          "alt": "内容2 - Gemini Intelligenceで"
+          "overlay_text": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
+          "subtext": "GPT-5.5 Proは『推論2.0』で複雑な記述問題の添削が完璧に。一方、Gemini 2.5 ProはGoogleカレンダーやGmailと高度に連携し、塾の面談予約から学習計画の自動修正まで24時間体制でサポートしてくれます。",
+          "alt": "内容2 - マルチモーダル対決：論理のGPTか、リア"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIに使われないための「問い」の力",
-          "sub_title": "システムが優秀すぎる今、大切なのは「AIに何をやらせるか」を決める言語化能力。2026年の学習には『AIとの対話力』が必須科目です。",
-          "text_content": "if塾の視点：AIに使われないための「問い」の力",
+          "main_title": "if塾流：AIエージェントに『丸投げ』しない活用術",
+          "sub_title": "便利すぎるからこそ、思考停止は禁物。if塾では、AIが生成した学習計画を『自分軸』で評価する力を養います。AIはあくまで最強の副担任。最後に判断し、行動するのは生徒自身の意志であることを忘れないでください。",
+          "text_content": "if塾流：AIエージェントに『丸投げ』しない活用術",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260514_ai_column-04.png",
           "image_file": "assets/img/posts/20260514_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIに使われないための「問い」の力",
-          "subtext": "システムが優秀すぎる今、大切なのは「AIに何をやらせるか」を決める言語化能力。2026年の学習には『AIとの対話力』が必須科目です。",
-          "alt": "内容3 - if塾の視点：AIに使われないための「問"
+          "overlay_text": "if塾流：AIエージェントに『丸投げ』しない活用術",
+          "subtext": "便利すぎるからこそ、思考停止は禁物。if塾では、AIが生成した学習計画を『自分軸』で評価する力を養います。AIはあくまで最強の副担任。最後に判断し、行動するのは生徒自身の意志であることを忘れないでください。",
+          "alt": "内容3 - if塾流：AIエージェントに『丸投げ』し"
         },
         {
           "page_number": 5,
@@ -244,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-14T15:37:36",
+      "research_date": "2026-05-14T21:56:54",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Androidが消える？Gemini I",
+        "cover_text": "GPT-5.5 Pro vs Gemin",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Androidが消える？Gemini Intelligence誕生",
-            "subtext": "2026.05.14 最新アップデート速報",
+            "headline": "GPT-5.5 Pro vs Gemini 2.5 Pro：2026年最新最強エージェント対決",
+            "subtext": "2026年5月版｜受験生が選ぶべきAIはどっち？",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "スマホが「OS」から「AI」へ劇変",
-            "subtext": "従来のAndroid OSが「インテリジェンスシステム」へ再定義。アプリを開く時代は終わり、AIが全ての操作を先回りする時代に突入しました。",
+            "headline": "自律型AIが「調べる」から「完結させる」時代へ",
+            "subtext": "これまでの対話型AIはもう古い？2026年、AIは私たちの指示を待たずにタスクを自動実行する『エージェント』へと進化しました。志望校選定から出願スケジュール作成まで、全てお任せできる時代です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Gemini Intelligenceで勉強はどう変わる？",
-            "subtext": "画面を見るだけでAIが「今の理解度」を測定。5月のテスト期間中、苦手分野を自動で抽出して専用の問題集をその場で作ってくれます。",
+            "headline": "マルチモーダル対決：論理のGPTか、リアルタイムのGeminiか",
+            "subtext": "GPT-5.5 Proは『推論2.0』で複雑な記述問題の添削が完璧に。一方、Gemini 2.5 ProはGoogleカレンダーやGmailと高度に連携し、塾の面談予約から学習計画の自動修正まで24時間体制でサポートしてくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIに使われないための「問い」の力",
-            "subtext": "システムが優秀すぎる今、大切なのは「AIに何をやらせるか」を決める言語化能力。2026年の学習には『AIとの対話力』が必須科目です。",
+            "headline": "if塾流：AIエージェントに『丸投げ』しない活用術",
+            "subtext": "便利すぎるからこそ、思考停止は禁物。if塾では、AIが生成した学習計画を『自分軸』で評価する力を養います。AIはあくまで最強の副担任。最後に判断し、行動するのは生徒自身の意志であることを忘れないでください。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
