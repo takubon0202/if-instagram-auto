@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 127,
-    "last_updated": "2026-05-14T21:58:27.313861",
+    "total_posts": 128,
+    "last_updated": "2026-05-15T12:28:52.712833",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260515_business",
+      "post_id": "20260515_business",
+      "created_at": "2026-05-15T12:28:52",
+      "datetime": "2026-05-15T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+      "target_audience": "Students & Parents",
+      "title": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+      "caption": "【2026年5月】最新のビジネスコラムをお届けします！\n\n新学期のバタバタが落ち着いた今、中高生の間で「AIを使った小商い」が急速に普及しているのをご存知ですか？\n\nかつての「ポイ活」はもう古い！\n2026年のトレンドは、AIを自分の右腕にして価値を生み出すクリエイティブな副業です。\n\n✅ 画像生成AIによるSNSアイコンのオーダーメイド\n✅ AIライティング支援を活用したKindle出版\n\nこれらは、ただ稼ぐだけでなく「マーケティング」や「顧客対応」を学ぶ最高の教育ツールにもなっています。\n\n「うちの子、スマホばかり見ていて心配…」という保護者の皆様、その時間は「未来の起業家」としての修行中かもしれません。\n\nif塾では、AIを正しく使い、社会に貢献するマインドセットを伝えています。\n最新のAI活用術をもっと知りたい方は、プロフィールから公式サイトをチェック！✨",
+      "caption_text": "【2026年5月】最新のビジネスコラムをお届けします！\n\n新学期のバタバタが落ち着いた今、中高生の間で「AIを使った小商い」が急速に普及しているのをご存知ですか？\n\nかつての「ポイ活」はもう古い！\n2026年のトレンドは、AIを自分の右腕にして価値を生み出すクリエイティブな副業です。\n\n✅ 画像生成AIによるSNSアイコンのオーダーメイド\n✅ AIライティング支援を活用したKindle出版\n\nこれらは、ただ稼ぐだけでなく「マーケティング」や「顧客対応」を学ぶ最高の教育ツールにもなっています。\n\n「うちの子、スマホばかり見ていて心配…」という保護者の皆様、その時間は「未来の起業家」としての修行中かもしれません。\n\nif塾では、AIを正しく使い、社会に貢献するマインドセットを伝えています。\n最新のAI活用術をもっと知りたい方は、プロフィールから公式サイトをチェック！✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#小商い",
+        "#中高生起業",
+        "#AI副業",
+        "#エデュテイク",
+        "#リスキリング"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "sub_title": "5月15日最新ニュース：AIアイコン＆電子書籍の新常識",
+          "text_content": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-01.png",
+          "image_file": "assets/img/posts/20260515_business-01.png",
+          "overlay_text": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "subtext": "5月15日最新ニュース：AIアイコン＆電子書籍の新常識",
+          "alt": "表紙 - 中高生が月3万稼ぐ！2026年版「AI小"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "sub_title": "2026年、学生の悩みは「バイト代の低さ」から「いかに自分らしく稼ぐか」へシフト。特別なスキルがなくてもAIが相棒になります。",
+          "text_content": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-02.png",
+          "image_file": "assets/img/posts/20260515_business-02.png",
+          "overlay_text": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "subtext": "2026年、学生の悩みは「バイト代の低さ」から「いかに自分らしく稼ぐか」へシフト。特別なスキルがなくてもAIが相棒になります。",
+          "alt": "内容1 - 「部活で時間がない…」でもスマホ1つで起"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "sub_title": "画像生成AIでSNSアイコンを15分で納品、文章AIで電子書籍を3日で出版。今の10代は「AIエージェント」を部下のように使いこなしています。",
+          "text_content": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-03.png",
+          "image_file": "assets/img/posts/20260515_business-03.png",
+          "overlay_text": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "subtext": "画像生成AIでSNSアイコンを15分で納品、文章AIで電子書籍を3日で出版。今の10代は「AIエージェント」を部下のように使いこなしています。",
+          "alt": "内容2 - 主流は『Midjourney v8』×『"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "sub_title": "AIはあくまでツール。if塾では、技術以上に『顧客の悩みを解決する視点』を重視。5月は新学期の疲れを癒やす『癒やし系アイコン』が売れ筋です。",
+          "text_content": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-04.png",
+          "image_file": "assets/img/posts/20260515_business-04.png",
+          "overlay_text": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "subtext": "AIはあくまでツール。if塾では、技術以上に『顧客の悩みを解決する視点』を重視。5月は新学期の疲れを癒やす『癒やし系アイコン』が売れ筋です。",
+          "alt": "内容3 - 大切なのは「プロンプト」より「誰を喜ばせ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "sub_title": "5月15日最新ニュース：AIアイコン＆電子書籍の新常識",
+          "text_content": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-01.png",
+          "image_file": "assets/img/posts/20260515_business-01.png",
+          "overlay_text": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+          "subtext": "5月15日最新ニュース：AIアイコン＆電子書籍の新常識",
+          "alt": "表紙 - 中高生が月3万稼ぐ！2026年版「AI小"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "sub_title": "2026年、学生の悩みは「バイト代の低さ」から「いかに自分らしく稼ぐか」へシフト。特別なスキルがなくてもAIが相棒になります。",
+          "text_content": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-02.png",
+          "image_file": "assets/img/posts/20260515_business-02.png",
+          "overlay_text": "「部活で時間がない…」でもスマホ1つで起業できる？",
+          "subtext": "2026年、学生の悩みは「バイト代の低さ」から「いかに自分らしく稼ぐか」へシフト。特別なスキルがなくてもAIが相棒になります。",
+          "alt": "内容1 - 「部活で時間がない…」でもスマホ1つで起"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "sub_title": "画像生成AIでSNSアイコンを15分で納品、文章AIで電子書籍を3日で出版。今の10代は「AIエージェント」を部下のように使いこなしています。",
+          "text_content": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-03.png",
+          "image_file": "assets/img/posts/20260515_business-03.png",
+          "overlay_text": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+          "subtext": "画像生成AIでSNSアイコンを15分で納品、文章AIで電子書籍を3日で出版。今の10代は「AIエージェント」を部下のように使いこなしています。",
+          "alt": "内容2 - 主流は『Midjourney v8』×『"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "sub_title": "AIはあくまでツール。if塾では、技術以上に『顧客の悩みを解決する視点』を重視。5月は新学期の疲れを癒やす『癒やし系アイコン』が売れ筋です。",
+          "text_content": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260515_business-04.png",
+          "image_file": "assets/img/posts/20260515_business-04.png",
+          "overlay_text": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+          "subtext": "AIはあくまでツール。if塾では、技術以上に『顧客の悩みを解決する視点』を重視。5月は新学期の疲れを癒やす『癒やし系アイコン』が売れ筋です。",
+          "alt": "内容3 - 大切なのは「プロンプト」より「誰を喜ばせ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260515_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260515_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260515_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260515_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-15T12:27:20",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が月3万稼ぐ！2026年版「AI小",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が月3万稼ぐ！2026年版「AI小商い」最前線",
+            "subtext": "5月15日最新ニュース：AIアイコン＆電子書籍の新常識",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「部活で時間がない…」でもスマホ1つで起業できる？",
+            "subtext": "2026年、学生の悩みは「バイト代の低さ」から「いかに自分らしく稼ぐか」へシフト。特別なスキルがなくてもAIが相棒になります。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "主流は『Midjourney v8』×『Llama 4』の掛け合わせ",
+            "subtext": "画像生成AIでSNSアイコンを15分で納品、文章AIで電子書籍を3日で出版。今の10代は「AIエージェント」を部下のように使いこなしています。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「プロンプト」より「誰を喜ばせるか」",
+            "subtext": "AIはあくまでツール。if塾では、技術以上に『顧客の悩みを解決する視点』を重視。5月は新学期の疲れを癒やす『癒やし系アイコン』が売れ筋です。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260514_ai_column",
       "post_id": "20260514_ai_column",
