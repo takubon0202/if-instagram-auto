@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 129,
-    "last_updated": "2026-05-16T15:13:25.695011",
+    "last_updated": "2026-05-16T20:57:38.898759",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260516_activity",
       "post_id": "20260516_activity",
-      "created_at": "2026-05-16T15:13:25",
+      "created_at": "2026-05-16T20:57:38",
       "datetime": "2026-05-16T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
+      "theme": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
       "target_audience": "Students & Parents",
-      "title": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-      "caption": "【2026年5月】最新の教育現場をお届けします！\n\n本日、if塾ではAIハッカソンを開催しました。2026年の今、AIはもはや特別な技術ではなく、鉛筆や消しゴムと同じ「道具」へと進化しています。\n\n驚くべきは、中高生たちのスピード感。\n午前中にアイデアを出し、午後には実際に動くプロトタイプを完成させる。\n「プログラミングを学ぶ」段階から、「AIを指揮して価値を生む」段階へと、学びの形が明確にシフトしています。\n\n保護者の皆様、お子様は「AIを使いこなす側」の準備ができていますか？\nif塾では、最新ツールを最短で武器にする環境を整えています。\n\n次世代のスピード感を、ぜひ体験しに来てください！\n\n#if塾 #2026年 #生成AI #AI教育 #ハッカソン #AIネイティブ #未来の教育 #中高生プログラミング",
-      "caption_text": "【2026年5月】最新の教育現場をお届けします！\n\n本日、if塾ではAIハッカソンを開催しました。2026年の今、AIはもはや特別な技術ではなく、鉛筆や消しゴムと同じ「道具」へと進化しています。\n\n驚くべきは、中高生たちのスピード感。\n午前中にアイデアを出し、午後には実際に動くプロトタイプを完成させる。\n「プログラミングを学ぶ」段階から、「AIを指揮して価値を生む」段階へと、学びの形が明確にシフトしています。\n\n保護者の皆様、お子様は「AIを使いこなす側」の準備ができていますか？\nif塾では、最新ツールを最短で武器にする環境を整えています。\n\n次世代のスピード感を、ぜひ体験しに来てください！\n\n#if塾 #2026年 #生成AI #AI教育 #ハッカソン #AIネイティブ #未来の教育 #中高生プログラミング",
+      "title": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+      "caption": "【2026年5月】最新のハッカソン報告です！✨\n\n今月、if塾で開催されたハッカソンでは、驚くべき光景が当たり前になっていました。\n\n最新の「Claude Code」や「Gemini」を使いこなし、生徒たちは自律型エージェントと一緒に開発を進めています。もはやプログラミングは「コードを書く作業」ではなく、「AIと対話して形にする創造的な活動」へと進化しました。\n\n保護者の皆様から「2026年の入試や就職はどうなるの？」という不安も伺いますが、if塾が導き出した答えは明確です。\n\nそれは、AIに代わられるのではなく「AIを使いこなして価値を生む側」になること。この5月、生徒たちの目はかつてないほど輝いています！\n\n詳細は公式HPの活動ブログをチェックしてください🔗",
+      "caption_text": "【2026年5月】最新のハッカソン報告です！✨\n\n今月、if塾で開催されたハッカソンでは、驚くべき光景が当たり前になっていました。\n\n最新の「Claude Code」や「Gemini」を使いこなし、生徒たちは自律型エージェントと一緒に開発を進めています。もはやプログラミングは「コードを書く作業」ではなく、「AIと対話して形にする創造的な活動」へと進化しました。\n\n保護者の皆様から「2026年の入試や就職はどうなるの？」という不安も伺いますが、if塾が導き出した答えは明確です。\n\nそれは、AIに代わられるのではなく「AIを使いこなして価値を生む側」になること。この5月、生徒たちの目はかつてないほど輝いています！\n\n詳細は公式HPの活動ブログをチェックしてください🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#AI教育",
+        "#ClaudeCode",
+        "#Gemini",
+        "#プログラミング教育",
         "#ハッカソン",
-        "#プロトタイピング",
-        "#最新トレンド"
+        "#エージェント時代"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-          "sub_title": "2026.05.16 | AIネイティブ世代のスピード感",
-          "text_content": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
+          "main_title": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+          "sub_title": "【if塾 活動報告】Claude Code × Gemini で爆速開発",
+          "text_content": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-01.png",
           "image_file": "assets/img/posts/20260516_activity-01.png",
-          "overlay_text": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-          "subtext": "2026.05.16 | AIネイティブ世代のスピード感",
-          "alt": "表紙 - AIは「書く」から「創る」へ。2026年"
+          "overlay_text": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+          "subtext": "【if塾 活動報告】Claude Code × Gemini で爆速開発",
+          "alt": "表紙 - AI開発は「書く」から「指示する」へ。2"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が数時間で形になる時代",
-          "sub_title": "かつては数ヶ月かかったアプリ開発。2026年の今、子供たちはアイデアを即座にプロトタイプ化しています。この速度差が、将来の格差に繋がるかもしれません。",
-          "text_content": "「やりたい」が数時間で形になる時代",
+          "main_title": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
+          "sub_title": "これまでのプログラミング教育で壁だった『文法エラーでの挫折』が、2026年の今、完全に過去のものになりました。",
+          "text_content": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-02.png",
           "image_file": "assets/img/posts/20260516_activity-02.png",
-          "overlay_text": "「やりたい」が数時間で形になる時代",
-          "subtext": "かつては数ヶ月かかったアプリ開発。2026年の今、子供たちはアイデアを即座にプロトタイプ化しています。この速度差が、将来の格差に繋がるかもしれません。",
-          "alt": "内容1 - 「やりたい」が数時間で形になる時代"
+          "overlay_text": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
+          "subtext": "これまでのプログラミング教育で壁だった『文法エラーでの挫折』が、2026年の今、完全に過去のものになりました。",
+          "alt": "内容1 - 「やりたい」に技術が追いついた。5月の連"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIを『手足』にする生徒たち",
-          "sub_title": "最新の自律型AIエージェントを使いこなし、設計図からコード実装、デバッグまでを数時間で完結。ツールに使われるのではなく、主体的に「指示」を出す力が輝いています。",
-          "text_content": "マルチモーダルAIを『手足』にする生徒たち",
+          "main_title": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
+          "sub_title": "Gemini 1.5 Proとのマルチモーダル連携により、手描きのラフ画から数分でフロントエンドが完成する光景が日常に。",
+          "text_content": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-03.png",
           "image_file": "assets/img/posts/20260516_activity-03.png",
-          "overlay_text": "マルチモーダルAIを『手足』にする生徒たち",
-          "subtext": "最新の自律型AIエージェントを使いこなし、設計図からコード実装、デバッグまでを数時間で完結。ツールに使われるのではなく、主体的に「指示」を出す力が輝いています。",
-          "alt": "内容2 - マルチモーダルAIを『手足』にする生徒た"
+          "overlay_text": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
+          "subtext": "Gemini 1.5 Proとのマルチモーダル連携により、手描きのラフ画から数分でフロントエンドが完成する光景が日常に。",
+          "alt": "内容2 - Claude Codeが自律的にデバッグ"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「問いを立てる力」",
-          "sub_title": "AIが答えを出す時代だからこそ、重要視すべきは『何を解決したいか？』という視点。技術の習得以上に、社会を良くする思考プロセスを指導しています。",
-          "text_content": "if塾が教えるのは「問いを立てる力」",
+          "main_title": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
+          "sub_title": "if塾ではコードの書き方以上に、AIへの指示（プロンプト）の精度と、社会課題を解くための『思考の枠組み』を重視しています。",
+          "text_content": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-04.png",
           "image_file": "assets/img/posts/20260516_activity-04.png",
-          "overlay_text": "if塾が教えるのは「問いを立てる力」",
-          "subtext": "AIが答えを出す時代だからこそ、重要視すべきは『何を解決したいか？』という視点。技術の習得以上に、社会を良くする思考プロセスを指導しています。",
-          "alt": "内容3 - if塾が教えるのは「問いを立てる力」"
+          "overlay_text": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
+          "subtext": "if塾ではコードの書き方以上に、AIへの指示（プロンプト）の精度と、社会課題を解くための『思考の枠組み』を重視しています。",
+          "alt": "内容3 - 「何を教えるか」ではなく「どう問いかける"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-          "sub_title": "2026.05.16 | AIネイティブ世代のスピード感",
-          "text_content": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
+          "main_title": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+          "sub_title": "【if塾 活動報告】Claude Code × Gemini で爆速開発",
+          "text_content": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-01.png",
           "image_file": "assets/img/posts/20260516_activity-01.png",
-          "overlay_text": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-          "subtext": "2026.05.16 | AIネイティブ世代のスピード感",
-          "alt": "表紙 - AIは「書く」から「創る」へ。2026年"
+          "overlay_text": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+          "subtext": "【if塾 活動報告】Claude Code × Gemini で爆速開発",
+          "alt": "表紙 - AI開発は「書く」から「指示する」へ。2"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が数時間で形になる時代",
-          "sub_title": "かつては数ヶ月かかったアプリ開発。2026年の今、子供たちはアイデアを即座にプロトタイプ化しています。この速度差が、将来の格差に繋がるかもしれません。",
-          "text_content": "「やりたい」が数時間で形になる時代",
+          "main_title": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
+          "sub_title": "これまでのプログラミング教育で壁だった『文法エラーでの挫折』が、2026年の今、完全に過去のものになりました。",
+          "text_content": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-02.png",
           "image_file": "assets/img/posts/20260516_activity-02.png",
-          "overlay_text": "「やりたい」が数時間で形になる時代",
-          "subtext": "かつては数ヶ月かかったアプリ開発。2026年の今、子供たちはアイデアを即座にプロトタイプ化しています。この速度差が、将来の格差に繋がるかもしれません。",
-          "alt": "内容1 - 「やりたい」が数時間で形になる時代"
+          "overlay_text": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
+          "subtext": "これまでのプログラミング教育で壁だった『文法エラーでの挫折』が、2026年の今、完全に過去のものになりました。",
+          "alt": "内容1 - 「やりたい」に技術が追いついた。5月の連"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIを『手足』にする生徒たち",
-          "sub_title": "最新の自律型AIエージェントを使いこなし、設計図からコード実装、デバッグまでを数時間で完結。ツールに使われるのではなく、主体的に「指示」を出す力が輝いています。",
-          "text_content": "マルチモーダルAIを『手足』にする生徒たち",
+          "main_title": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
+          "sub_title": "Gemini 1.5 Proとのマルチモーダル連携により、手描きのラフ画から数分でフロントエンドが完成する光景が日常に。",
+          "text_content": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-03.png",
           "image_file": "assets/img/posts/20260516_activity-03.png",
-          "overlay_text": "マルチモーダルAIを『手足』にする生徒たち",
-          "subtext": "最新の自律型AIエージェントを使いこなし、設計図からコード実装、デバッグまでを数時間で完結。ツールに使われるのではなく、主体的に「指示」を出す力が輝いています。",
-          "alt": "内容2 - マルチモーダルAIを『手足』にする生徒た"
+          "overlay_text": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
+          "subtext": "Gemini 1.5 Proとのマルチモーダル連携により、手描きのラフ画から数分でフロントエンドが完成する光景が日常に。",
+          "alt": "内容2 - Claude Codeが自律的にデバッグ"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「問いを立てる力」",
-          "sub_title": "AIが答えを出す時代だからこそ、重要視すべきは『何を解決したいか？』という視点。技術の習得以上に、社会を良くする思考プロセスを指導しています。",
-          "text_content": "if塾が教えるのは「問いを立てる力」",
+          "main_title": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
+          "sub_title": "if塾ではコードの書き方以上に、AIへの指示（プロンプト）の精度と、社会課題を解くための『思考の枠組み』を重視しています。",
+          "text_content": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260516_activity-04.png",
           "image_file": "assets/img/posts/20260516_activity-04.png",
-          "overlay_text": "if塾が教えるのは「問いを立てる力」",
-          "subtext": "AIが答えを出す時代だからこそ、重要視すべきは『何を解決したいか？』という視点。技術の習得以上に、社会を良くする思考プロセスを指導しています。",
-          "alt": "内容3 - if塾が教えるのは「問いを立てる力」"
+          "overlay_text": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
+          "subtext": "if塾ではコードの書き方以上に、AIへの指示（プロンプト）の精度と、社会課題を解くための『思考の枠組み』を重視しています。",
+          "alt": "内容3 - 「何を教えるか」ではなく「どう問いかける"
         },
         {
           "page_number": 5,
@@ -228,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "デザイン"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "kagaya_yuma",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-16T15:11:59",
+      "research_date": "2026-05-16T20:56:10",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「書く」から「創る」へ。2026年",
+        "cover_text": "AI開発は「書く」から「指示する」へ。2",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「書く」から「創る」へ。2026年最新ハッカソン報告",
-            "subtext": "2026.05.16 | AIネイティブ世代のスピード感",
+            "headline": "AI開発は「書く」から「指示する」へ。2026年5月のハッカソン最前線",
+            "subtext": "【if塾 活動報告】Claude Code × Gemini で爆速開発",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -266,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」が数時間で形になる時代",
-            "subtext": "かつては数ヶ月かかったアプリ開発。2026年の今、子供たちはアイデアを即座にプロトタイプ化しています。この速度差が、将来の格差に繋がるかもしれません。",
+            "headline": "「やりたい」に技術が追いついた。5月の連休明け、生徒たちの変化",
+            "subtext": "これまでのプログラミング教育で壁だった『文法エラーでの挫折』が、2026年の今、完全に過去のものになりました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -275,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAIを『手足』にする生徒たち",
-            "subtext": "最新の自律型AIエージェントを使いこなし、設計図からコード実装、デバッグまでを数時間で完結。ツールに使われるのではなく、主体的に「指示」を出す力が輝いています。",
+            "headline": "Claude Codeが自律的にデバッグ。中学生が1日でWebアプリを完遂",
+            "subtext": "Gemini 1.5 Proとのマルチモーダル連携により、手描きのラフ画から数分でフロントエンドが完成する光景が日常に。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -284,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教えるのは「問いを立てる力」",
-            "subtext": "AIが答えを出す時代だからこそ、重要視すべきは『何を解決したいか？』という視点。技術の習得以上に、社会を良くする思考プロセスを指導しています。",
+            "headline": "「何を教えるか」ではなく「どう問いかけるか」が塾の価値",
+            "subtext": "if塾ではコードの書き方以上に、AIへの指示（プロンプト）の精度と、社会課題を解くための『思考の枠組み』を重視しています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
