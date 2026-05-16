@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 128,
-    "last_updated": "2026-05-15T22:00:13.503874",
+    "total_posts": 129,
+    "last_updated": "2026-05-16T11:52:08.782912",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260516_activity",
+      "post_id": "20260516_activity",
+      "created_at": "2026-05-16T11:52:08",
+      "datetime": "2026-05-16T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「教わる」から「共創する」時代へ",
+      "target_audience": "Students & Parents",
+      "title": "AIは「教わる」から「共創する」時代へ",
+      "caption": "【2026年5月】if塾の教室からお届けします。\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\nかつては「文法を覚えること」がスタートでしたが、2026年の今、生徒たちはAIコパイロットを使いこなし、初月から独自のアプリ開発に挑んでいます。\n\n「AIがやってくれるなら、人間は何を学ぶの？」\nそんな保護者様の疑問にお答えします。\n\n今、求められているのはコードを打つ速さではなく、AIに的確な指示を出し、論理的なエラーを見抜く「ディレクション能力」です。\nif塾では、最新のAIツールを「カンニングペーパー」ではなく「最強の家庭教師」に変えるメソッドを実践中。\n\n5月の無料体験会では、最新のAI共創プログラミングを体験いただけます！\n詳細はプロフィール欄のリンクからチェックしてください✨",
+      "caption_text": "【2026年5月】if塾の教室からお届けします。\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\nかつては「文法を覚えること」がスタートでしたが、2026年の今、生徒たちはAIコパイロットを使いこなし、初月から独自のアプリ開発に挑んでいます。\n\n「AIがやってくれるなら、人間は何を学ぶの？」\nそんな保護者様の疑問にお答えします。\n\n今、求められているのはコードを打つ速さではなく、AIに的確な指示を出し、論理的なエラーを見抜く「ディレクション能力」です。\nif塾では、最新のAIツールを「カンニングペーパー」ではなく「最強の家庭教師」に変えるメソッドを実践中。\n\n5月の無料体験会では、最新のAI共創プログラミングを体験いただけます！\n詳細はプロフィール欄のリンクからチェックしてください✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年5月",
+        "#プログラミング教育",
+        "#生成AI",
+        "#AIコパイロット",
+        "#ステム教育",
+        "#EdTech",
+        "#次世代の学び"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「教わる」から「共創する」時代へ",
+          "sub_title": "2026年5月最新：if塾のプログラミング日常",
+          "text_content": "AIは「教わる」から「共創する」時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-01.png",
+          "image_file": "assets/img/posts/20260516_activity-01.png",
+          "overlay_text": "AIは「教わる」から「共創する」時代へ",
+          "subtext": "2026年5月最新：if塾のプログラミング日常",
+          "alt": "表紙 - AIは「教わる」から「共創する」時代へ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「エラーで止まる」はもう過去の話？",
+          "sub_title": "5月、新しい言語に挑戦する生徒が増える中、かつての『構文エラーで1時間悩む』という挫折の壁が、今まさに消えようとしています。",
+          "text_content": "「エラーで止まる」はもう過去の話？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-02.png",
+          "image_file": "assets/img/posts/20260516_activity-02.png",
+          "overlay_text": "「エラーで止まる」はもう過去の話？",
+          "subtext": "5月、新しい言語に挑戦する生徒が増える中、かつての『構文エラーで1時間悩む』という挫折の壁が、今まさに消えようとしています。",
+          "alt": "内容1 - 「エラーで止まる」はもう過去の話？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIコパイロットが横にいる教室",
+          "sub_title": "GPT-5.5ベースの学習特化型AIが、生徒のコードをリアルタイムで解説。2026年の教室では、AIは答えを教えるのではなく、ヒントを出す『副操縦士』として定着しています。",
+          "text_content": "最新AIコパイロットが横にいる教室",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-03.png",
+          "image_file": "assets/img/posts/20260516_activity-03.png",
+          "overlay_text": "最新AIコパイロットが横にいる教室",
+          "subtext": "GPT-5.5ベースの学習特化型AIが、生徒のコードをリアルタイムで解説。2026年の教室では、AIは答えを教えるのではなく、ヒントを出す『副操縦士』として定着しています。",
+          "alt": "内容2 - 最新AIコパイロットが横にいる教室"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が大切にする「問う力」の育成",
+          "sub_title": "AIが書けてしまう時代だからこそ、私たちは『どんな課題を解決したいか』を言語化する設計力と、AIの提案を検証する批判的思考の指導に注力しています。",
+          "text_content": "if塾が大切にする「問う力」の育成",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-04.png",
+          "image_file": "assets/img/posts/20260516_activity-04.png",
+          "overlay_text": "if塾が大切にする「問う力」の育成",
+          "subtext": "AIが書けてしまう時代だからこそ、私たちは『どんな課題を解決したいか』を言語化する設計力と、AIの提案を検証する批判的思考の指導に注力しています。",
+          "alt": "内容3 - if塾が大切にする「問う力」の育成"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「教わる」から「共創する」時代へ",
+          "sub_title": "2026年5月最新：if塾のプログラミング日常",
+          "text_content": "AIは「教わる」から「共創する」時代へ",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-01.png",
+          "image_file": "assets/img/posts/20260516_activity-01.png",
+          "overlay_text": "AIは「教わる」から「共創する」時代へ",
+          "subtext": "2026年5月最新：if塾のプログラミング日常",
+          "alt": "表紙 - AIは「教わる」から「共創する」時代へ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「エラーで止まる」はもう過去の話？",
+          "sub_title": "5月、新しい言語に挑戦する生徒が増える中、かつての『構文エラーで1時間悩む』という挫折の壁が、今まさに消えようとしています。",
+          "text_content": "「エラーで止まる」はもう過去の話？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-02.png",
+          "image_file": "assets/img/posts/20260516_activity-02.png",
+          "overlay_text": "「エラーで止まる」はもう過去の話？",
+          "subtext": "5月、新しい言語に挑戦する生徒が増える中、かつての『構文エラーで1時間悩む』という挫折の壁が、今まさに消えようとしています。",
+          "alt": "内容1 - 「エラーで止まる」はもう過去の話？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新AIコパイロットが横にいる教室",
+          "sub_title": "GPT-5.5ベースの学習特化型AIが、生徒のコードをリアルタイムで解説。2026年の教室では、AIは答えを教えるのではなく、ヒントを出す『副操縦士』として定着しています。",
+          "text_content": "最新AIコパイロットが横にいる教室",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-03.png",
+          "image_file": "assets/img/posts/20260516_activity-03.png",
+          "overlay_text": "最新AIコパイロットが横にいる教室",
+          "subtext": "GPT-5.5ベースの学習特化型AIが、生徒のコードをリアルタイムで解説。2026年の教室では、AIは答えを教えるのではなく、ヒントを出す『副操縦士』として定着しています。",
+          "alt": "内容2 - 最新AIコパイロットが横にいる教室"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が大切にする「問う力」の育成",
+          "sub_title": "AIが書けてしまう時代だからこそ、私たちは『どんな課題を解決したいか』を言語化する設計力と、AIの提案を検証する批判的思考の指導に注力しています。",
+          "text_content": "if塾が大切にする「問う力」の育成",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260516_activity-04.png",
+          "image_file": "assets/img/posts/20260516_activity-04.png",
+          "overlay_text": "if塾が大切にする「問う力」の育成",
+          "subtext": "AIが書けてしまう時代だからこそ、私たちは『どんな課題を解決したいか』を言語化する設計力と、AIの提案を検証する批判的思考の指導に注力しています。",
+          "alt": "内容3 - if塾が大切にする「問う力」の育成"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260516_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260516_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260516_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260516_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-16T11:50:44",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「教わる」から「共創する」時代へ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「教わる」から「共創する」時代へ",
+            "subtext": "2026年5月最新：if塾のプログラミング日常",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「エラーで止まる」はもう過去の話？",
+            "subtext": "5月、新しい言語に挑戦する生徒が増える中、かつての『構文エラーで1時間悩む』という挫折の壁が、今まさに消えようとしています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新AIコパイロットが横にいる教室",
+            "subtext": "GPT-5.5ベースの学習特化型AIが、生徒のコードをリアルタイムで解説。2026年の教室では、AIは答えを教えるのではなく、ヒントを出す『副操縦士』として定着しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が大切にする「問う力」の育成",
+            "subtext": "AIが書けてしまう時代だからこそ、私たちは『どんな課題を解決したいか』を言語化する設計力と、AIの提案を検証する批判的思考の指導に注力しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260515_business",
       "post_id": "20260515_business",
