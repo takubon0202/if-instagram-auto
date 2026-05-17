@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 130,
-    "last_updated": "2026-05-17T12:24:50.389269",
+    "last_updated": "2026-05-17T15:37:42.762260",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260517_activity",
       "post_id": "20260517_activity",
-      "created_at": "2026-05-17T12:24:50",
+      "created_at": "2026-05-17T15:37:42",
       "datetime": "2026-05-17T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「答え」より「問い」で差がつく時代",
+      "theme": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
       "target_audience": "Students & Parents",
-      "title": "AIは「答え」より「問い」で差がつく時代",
-      "caption": "【2026年5月】最新の教育現場からお届けします！\n\n「AIに聞けば答えが出る」のは当たり前の時代。\n今、if塾が最も力を入れているのは、AIからより良い回答を引き出すための『問いを作る力』の育成です。\n\n5月の定期テスト対策でも、生徒たちは自分の弱点をAIに分析させ、自分専用の類題を作成させるなど、「AIを使いこなす側」へと進化しています。\n\n「技術に使われるのではなく、技術を道具として使いこなす」\nこの視点があるだけで、学習効率も将来の可能性も大きく変わります。\n\n最先端の学習環境を、ぜひ体験してください！\n\n#if塾 #2026年 #生成AI #教育DX #プロンプト思考 #5月の学習 #中学生 #高校生 #個別指導 #問いを立てる力",
-      "caption_text": "【2026年5月】最新の教育現場からお届けします！\n\n「AIに聞けば答えが出る」のは当たり前の時代。\n今、if塾が最も力を入れているのは、AIからより良い回答を引き出すための『問いを作る力』の育成です。\n\n5月の定期テスト対策でも、生徒たちは自分の弱点をAIに分析させ、自分専用の類題を作成させるなど、「AIを使いこなす側」へと進化しています。\n\n「技術に使われるのではなく、技術を道具として使いこなす」\nこの視点があるだけで、学習効率も将来の可能性も大きく変わります。\n\n最先端の学習環境を、ぜひ体験してください！\n\n#if塾 #2026年 #生成AI #教育DX #プロンプト思考 #5月の学習 #中学生 #高校生 #個別指導 #問いを立てる力",
+      "title": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+      "caption": "【2026年5月】最新の活動報告をお届けします！\n\n本日開催された「生成AIハッカソン」では、中高生たちが驚くべき進化を見せてくれました。\n\nかつては何週間もかかっていたゲーム開発が、最新の生成AIツールを駆使することで、わずか90分で完成。作品ギャラリーには、個性が光る独創的なゲームが並んでいます。\n\n2026年現在、AIを使うことはもはや特別なスキルではなく「標準的なリテラシー」となりました。\n\nif塾では、単なるツールの使い方ではなく、AIをパートナーとしてどう新しい価値を生み出すかという「構想力」を重視して指導しています。\n\n生徒たちの自由な発想を、AIが即座にカタチにする。そんなワクワクする教育の現場をこれからも作っていきます！\n\n作品ギャラリーはプロフィールのリンクからチェックしてください！",
+      "caption_text": "【2026年5月】最新の活動報告をお届けします！\n\n本日開催された「生成AIハッカソン」では、中高生たちが驚くべき進化を見せてくれました。\n\nかつては何週間もかかっていたゲーム開発が、最新の生成AIツールを駆使することで、わずか90分で完成。作品ギャラリーには、個性が光る独創的なゲームが並んでいます。\n\n2026年現在、AIを使うことはもはや特別なスキルではなく「標準的なリテラシー」となりました。\n\nif塾では、単なるツールの使い方ではなく、AIをパートナーとしてどう新しい価値を生み出すかという「構想力」を重視して指導しています。\n\n生徒たちの自由な発想を、AIが即座にカタチにする。そんなワクワクする教育の現場をこれからも作っていきます！\n\n作品ギャラリーはプロフィールのリンクからチェックしてください！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#教育DX",
-        "#プロンプト思考",
         "#AI教育",
-        "#個別指導",
-        "#5月の学習",
-        "#スキルアップ"
+        "#ハッカソン",
+        "#中高生プログラミング",
+        "#AIネイティブ",
+        "#最新教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「答え」より「問い」で差がつく時代",
-          "sub_title": "2026.05.17 if塾・最新授業レポート",
-          "text_content": "AIは「答え」より「問い」で差がつく時代",
+          "main_title": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+          "sub_title": "【2026.05.17】AI活用が「当たり前」になった教育の最前線",
+          "text_content": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-01.png",
           "image_file": "assets/img/posts/20260517_activity-01.png",
-          "overlay_text": "AIは「答え」より「問い」で差がつく時代",
-          "subtext": "2026.05.17 if塾・最新授業レポート",
-          "alt": "表紙 - AIは「答え」より「問い」で差がつく時代"
+          "overlay_text": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+          "subtext": "【2026.05.17】AI活用が「当たり前」になった教育の最前線",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI任せ」で考える力が止まってない？",
-          "sub_title": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
-          "text_content": "「AI任せ」で考える力が止まってない？",
+          "main_title": "「AIは使うもの」から「AIで創るもの」へ",
+          "sub_title": "これまでのプログラミング教育は時間がかかりすぎる...そんな悩みを最新の生成AIツールが完全に解消しました。",
+          "text_content": "「AIは使うもの」から「AIで創るもの」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-02.png",
           "image_file": "assets/img/posts/20260517_activity-02.png",
-          "overlay_text": "「AI任せ」で考える力が止まってない？",
-          "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
-          "alt": "内容1 - 「AI任せ」で考える力が止まってない？"
+          "overlay_text": "「AIは使うもの」から「AIで創るもの」へ",
+          "subtext": "これまでのプログラミング教育は時間がかかりすぎる...そんな悩みを最新の生成AIツールが完全に解消しました。",
+          "alt": "内容1 - 「AIは使うもの」から「AIで創るもの」"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIと対話する生徒たち",
-          "sub_title": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
-          "text_content": "マルチモーダルAIと対話する生徒たち",
+          "main_title": "わずか90分でオリジナルゲームが完成",
+          "sub_title": "マルチモーダルAIを使いこなし、企画から実装・デバッグまでを一人で完結。生徒たちの想像力が技術の壁を越えた瞬間です。",
+          "text_content": "わずか90分でオリジナルゲームが完成",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-03.png",
           "image_file": "assets/img/posts/20260517_activity-03.png",
-          "overlay_text": "マルチモーダルAIと対話する生徒たち",
-          "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
-          "alt": "内容2 - マルチモーダルAIと対話する生徒たち"
+          "overlay_text": "わずか90分でオリジナルゲームが完成",
+          "subtext": "マルチモーダルAIを使いこなし、企画から実装・デバッグまでを一人で完結。生徒たちの想像力が技術の壁を越えた瞬間です。",
+          "alt": "内容2 - わずか90分でオリジナルゲームが完成"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "AIを最強の「思考の壁打ち相手」に",
-          "sub_title": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
-          "text_content": "AIを最強の「思考の壁打ち相手」に",
+          "main_title": "if塾が考える「AIネイティブ」の力",
+          "sub_title": "2026年、重要なのはコードを書く力ではなく「AIに正しく意図を伝える言語化力」と「クリエイティブな構想力」です。",
+          "text_content": "if塾が考える「AIネイティブ」の力",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-04.png",
           "image_file": "assets/img/posts/20260517_activity-04.png",
-          "overlay_text": "AIを最強の「思考の壁打ち相手」に",
-          "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
-          "alt": "内容3 - AIを最強の「思考の壁打ち相手」に"
+          "overlay_text": "if塾が考える「AIネイティブ」の力",
+          "subtext": "2026年、重要なのはコードを書く力ではなく「AIに正しく意図を伝える言語化力」と「クリエイティブな構想力」です。",
+          "alt": "内容3 - if塾が考える「AIネイティブ」の力"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「答え」より「問い」で差がつく時代",
-          "sub_title": "2026.05.17 if塾・最新授業レポート",
-          "text_content": "AIは「答え」より「問い」で差がつく時代",
+          "main_title": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+          "sub_title": "【2026.05.17】AI活用が「当たり前」になった教育の最前線",
+          "text_content": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-01.png",
           "image_file": "assets/img/posts/20260517_activity-01.png",
-          "overlay_text": "AIは「答え」より「問い」で差がつく時代",
-          "subtext": "2026.05.17 if塾・最新授業レポート",
-          "alt": "表紙 - AIは「答え」より「問い」で差がつく時代"
+          "overlay_text": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+          "subtext": "【2026.05.17】AI活用が「当たり前」になった教育の最前線",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI任せ」で考える力が止まってない？",
-          "sub_title": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
-          "text_content": "「AI任せ」で考える力が止まってない？",
+          "main_title": "「AIは使うもの」から「AIで創るもの」へ",
+          "sub_title": "これまでのプログラミング教育は時間がかかりすぎる...そんな悩みを最新の生成AIツールが完全に解消しました。",
+          "text_content": "「AIは使うもの」から「AIで創るもの」へ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-02.png",
           "image_file": "assets/img/posts/20260517_activity-02.png",
-          "overlay_text": "「AI任せ」で考える力が止まってない？",
-          "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
-          "alt": "内容1 - 「AI任せ」で考える力が止まってない？"
+          "overlay_text": "「AIは使うもの」から「AIで創るもの」へ",
+          "subtext": "これまでのプログラミング教育は時間がかかりすぎる...そんな悩みを最新の生成AIツールが完全に解消しました。",
+          "alt": "内容1 - 「AIは使うもの」から「AIで創るもの」"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAIと対話する生徒たち",
-          "sub_title": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
-          "text_content": "マルチモーダルAIと対話する生徒たち",
+          "main_title": "わずか90分でオリジナルゲームが完成",
+          "sub_title": "マルチモーダルAIを使いこなし、企画から実装・デバッグまでを一人で完結。生徒たちの想像力が技術の壁を越えた瞬間です。",
+          "text_content": "わずか90分でオリジナルゲームが完成",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-03.png",
           "image_file": "assets/img/posts/20260517_activity-03.png",
-          "overlay_text": "マルチモーダルAIと対話する生徒たち",
-          "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
-          "alt": "内容2 - マルチモーダルAIと対話する生徒たち"
+          "overlay_text": "わずか90分でオリジナルゲームが完成",
+          "subtext": "マルチモーダルAIを使いこなし、企画から実装・デバッグまでを一人で完結。生徒たちの想像力が技術の壁を越えた瞬間です。",
+          "alt": "内容2 - わずか90分でオリジナルゲームが完成"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "AIを最強の「思考の壁打ち相手」に",
-          "sub_title": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
-          "text_content": "AIを最強の「思考の壁打ち相手」に",
+          "main_title": "if塾が考える「AIネイティブ」の力",
+          "sub_title": "2026年、重要なのはコードを書く力ではなく「AIに正しく意図を伝える言語化力」と「クリエイティブな構想力」です。",
+          "text_content": "if塾が考える「AIネイティブ」の力",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260517_activity-04.png",
           "image_file": "assets/img/posts/20260517_activity-04.png",
-          "overlay_text": "AIを最強の「思考の壁打ち相手」に",
-          "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
-          "alt": "内容3 - AIを最強の「思考の壁打ち相手」に"
+          "overlay_text": "if塾が考える「AIネイティブ」の力",
+          "subtext": "2026年、重要なのはコードを書く力ではなく「AIに正しく意図を伝える言語化力」と「クリエイティブな構想力」です。",
+          "alt": "内容3 - if塾が考える「AIネイティブ」の力"
         },
         {
           "page_number": 5,
@@ -230,22 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "藤本陽向",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "ロボット"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "fujimoto_hinata",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-17T12:23:25",
+      "research_date": "2026-05-17T15:36:14",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「答え」より「問い」で差がつく時代",
+        "cover_text": "中高生が90分でゲーム開発！？2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「答え」より「問い」で差がつく時代",
-            "subtext": "2026.05.17 if塾・最新授業レポート",
+            "headline": "中高生が90分でゲーム開発！？2026年最新AIハッカソン報告",
+            "subtext": "【2026.05.17】AI活用が「当たり前」になった教育の最前線",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -269,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AI任せ」で考える力が止まってない？",
-            "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+            "headline": "「AIは使うもの」から「AIで創るもの」へ",
+            "subtext": "これまでのプログラミング教育は時間がかかりすぎる...そんな悩みを最新の生成AIツールが完全に解消しました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -278,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAIと対話する生徒たち",
-            "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+            "headline": "わずか90分でオリジナルゲームが完成",
+            "subtext": "マルチモーダルAIを使いこなし、企画から実装・デバッグまでを一人で完結。生徒たちの想像力が技術の壁を越えた瞬間です。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -287,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "AIを最強の「思考の壁打ち相手」に",
-            "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+            "headline": "if塾が考える「AIネイティブ」の力",
+            "subtext": "2026年、重要なのはコードを書く力ではなく「AIに正しく意図を伝える言語化力」と「クリエイティブな構想力」です。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
