@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 129,
-    "last_updated": "2026-05-16T20:57:38.898759",
+    "total_posts": 130,
+    "last_updated": "2026-05-17T12:24:50.389269",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260517_activity",
+      "post_id": "20260517_activity",
+      "created_at": "2026-05-17T12:24:50",
+      "datetime": "2026-05-17T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「答え」より「問い」で差がつく時代",
+      "target_audience": "Students & Parents",
+      "title": "AIは「答え」より「問い」で差がつく時代",
+      "caption": "【2026年5月】最新の教育現場からお届けします！\n\n「AIに聞けば答えが出る」のは当たり前の時代。\n今、if塾が最も力を入れているのは、AIからより良い回答を引き出すための『問いを作る力』の育成です。\n\n5月の定期テスト対策でも、生徒たちは自分の弱点をAIに分析させ、自分専用の類題を作成させるなど、「AIを使いこなす側」へと進化しています。\n\n「技術に使われるのではなく、技術を道具として使いこなす」\nこの視点があるだけで、学習効率も将来の可能性も大きく変わります。\n\n最先端の学習環境を、ぜひ体験してください！\n\n#if塾 #2026年 #生成AI #教育DX #プロンプト思考 #5月の学習 #中学生 #高校生 #個別指導 #問いを立てる力",
+      "caption_text": "【2026年5月】最新の教育現場からお届けします！\n\n「AIに聞けば答えが出る」のは当たり前の時代。\n今、if塾が最も力を入れているのは、AIからより良い回答を引き出すための『問いを作る力』の育成です。\n\n5月の定期テスト対策でも、生徒たちは自分の弱点をAIに分析させ、自分専用の類題を作成させるなど、「AIを使いこなす側」へと進化しています。\n\n「技術に使われるのではなく、技術を道具として使いこなす」\nこの視点があるだけで、学習効率も将来の可能性も大きく変わります。\n\n最先端の学習環境を、ぜひ体験してください！\n\n#if塾 #2026年 #生成AI #教育DX #プロンプト思考 #5月の学習 #中学生 #高校生 #個別指導 #問いを立てる力",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#教育DX",
+        "#プロンプト思考",
+        "#AI教育",
+        "#個別指導",
+        "#5月の学習",
+        "#スキルアップ"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「答え」より「問い」で差がつく時代",
+          "sub_title": "2026.05.17 if塾・最新授業レポート",
+          "text_content": "AIは「答え」より「問い」で差がつく時代",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-01.png",
+          "image_file": "assets/img/posts/20260517_activity-01.png",
+          "overlay_text": "AIは「答え」より「問い」で差がつく時代",
+          "subtext": "2026.05.17 if塾・最新授業レポート",
+          "alt": "表紙 - AIは「答え」より「問い」で差がつく時代"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AI任せ」で考える力が止まってない？",
+          "sub_title": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+          "text_content": "「AI任せ」で考える力が止まってない？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-02.png",
+          "image_file": "assets/img/posts/20260517_activity-02.png",
+          "overlay_text": "「AI任せ」で考える力が止まってない？",
+          "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+          "alt": "内容1 - 「AI任せ」で考える力が止まってない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIと対話する生徒たち",
+          "sub_title": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+          "text_content": "マルチモーダルAIと対話する生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-03.png",
+          "image_file": "assets/img/posts/20260517_activity-03.png",
+          "overlay_text": "マルチモーダルAIと対話する生徒たち",
+          "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+          "alt": "内容2 - マルチモーダルAIと対話する生徒たち"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを最強の「思考の壁打ち相手」に",
+          "sub_title": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+          "text_content": "AIを最強の「思考の壁打ち相手」に",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-04.png",
+          "image_file": "assets/img/posts/20260517_activity-04.png",
+          "overlay_text": "AIを最強の「思考の壁打ち相手」に",
+          "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+          "alt": "内容3 - AIを最強の「思考の壁打ち相手」に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「答え」より「問い」で差がつく時代",
+          "sub_title": "2026.05.17 if塾・最新授業レポート",
+          "text_content": "AIは「答え」より「問い」で差がつく時代",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-01.png",
+          "image_file": "assets/img/posts/20260517_activity-01.png",
+          "overlay_text": "AIは「答え」より「問い」で差がつく時代",
+          "subtext": "2026.05.17 if塾・最新授業レポート",
+          "alt": "表紙 - AIは「答え」より「問い」で差がつく時代"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AI任せ」で考える力が止まってない？",
+          "sub_title": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+          "text_content": "「AI任せ」で考える力が止まってない？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-02.png",
+          "image_file": "assets/img/posts/20260517_activity-02.png",
+          "overlay_text": "「AI任せ」で考える力が止まってない？",
+          "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+          "alt": "内容1 - 「AI任せ」で考える力が止まってない？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAIと対話する生徒たち",
+          "sub_title": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+          "text_content": "マルチモーダルAIと対話する生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-03.png",
+          "image_file": "assets/img/posts/20260517_activity-03.png",
+          "overlay_text": "マルチモーダルAIと対話する生徒たち",
+          "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+          "alt": "内容2 - マルチモーダルAIと対話する生徒たち"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを最強の「思考の壁打ち相手」に",
+          "sub_title": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+          "text_content": "AIを最強の「思考の壁打ち相手」に",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260517_activity-04.png",
+          "image_file": "assets/img/posts/20260517_activity-04.png",
+          "overlay_text": "AIを最強の「思考の壁打ち相手」に",
+          "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+          "alt": "内容3 - AIを最強の「思考の壁打ち相手」に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260517_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260517_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260517_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260517_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-17T12:23:25",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「答え」より「問い」で差がつく時代",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「答え」より「問い」で差がつく時代",
+            "subtext": "2026.05.17 if塾・最新授業レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AI任せ」で考える力が止まってない？",
+            "subtext": "便利なパーソナルAIが普及した2026年。宿題やレポートをAIに丸投げするのではなく、どう使いこなすかが進路の分岐点になっています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAIと対話する生徒たち",
+            "subtext": "今日の授業では、最新AIに「なぜ？」と深掘りする『プロンプト・エンジニアリング演習』を実施。思考の言語化スキルが飛躍的に向上しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "AIを最強の「思考の壁打ち相手」に",
+            "subtext": "if塾では、AIを単なる検索機ではなく、自分の考えを整理する『道具』として指導。問いを立てる力こそが、2020年代後半の学力の核心です。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260516_activity",
       "post_id": "20260516_activity",
