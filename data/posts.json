@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 131,
-    "last_updated": "2026-05-18T16:12:19.709390",
+    "last_updated": "2026-05-18T23:35:31.413388",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,22 @@
     {
       "id": "20260518_announcement",
       "post_id": "20260518_announcement",
-      "created_at": "2026-05-18T16:12:19",
+      "created_at": "2026-05-18T23:35:31",
       "datetime": "2026-05-18T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、AIを『使う』から『操る』時代へ",
+      "theme": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
       "target_audience": "Students & Parents",
-      "title": "2026年、AIを『使う』から『操る』時代へ",
-      "caption": "【2026年5月】最新の教育トレンドをお届けします！\n\n今月、教育業界で最も話題なのが「AIエージェント活用」と「プロンプトエンジニアリング」の必修化です。✨\n\nかつての「パソコンが使える」と同じように、2026年の今、AIを自由自在に操る力は、学生にとっての必須スキルとなりました。\n\n「AIに何をさせればいいの？」\n「プロンプトってどう書くのが正解？」\n\nそんな悩みを持つ保護者様・学生の皆さんのために、if塾では最新のAIツールを活用した特別カリキュラムをスタートしています。🚀\n\nこれからの時代、AIは「調べる道具」ではなく、あなたの能力を10倍にする「パートナー」です。\n最新の技術に触れ、一歩先を行く準備を始めませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
-      "caption_text": "【2026年5月】最新の教育トレンドをお届けします！\n\n今月、教育業界で最も話題なのが「AIエージェント活用」と「プロンプトエンジニアリング」の必修化です。✨\n\nかつての「パソコンが使える」と同じように、2026年の今、AIを自由自在に操る力は、学生にとっての必須スキルとなりました。\n\n「AIに何をさせればいいの？」\n「プロンプトってどう書くのが正解？」\n\nそんな悩みを持つ保護者様・学生の皆さんのために、if塾では最新のAIツールを活用した特別カリキュラムをスタートしています。🚀\n\nこれからの時代、AIは「調べる道具」ではなく、あなたの能力を10倍にする「パートナー」です。\n最新の技術に触れ、一歩先を行く準備を始めませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
+      "title": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+      "caption": "【2026年5月】最新AIニュースをお届け！\n\nAIネイティブ世代の皆さん、そして保護者の皆様。\nもはやAIは「便利な道具」ではなく、共に何かを作り上げる「パートナー」のフェーズに突入しました。\n\n今月、教育界で話題の「Nano Banana」をはじめとする最新AIは、個人のクリエイティビティを最大化させるツールへと進化しています。\n\n「AIに答えを教えてもらう」だけの学習から、\n「AIと一緒に新しい答えを作る」学習へ。\n\nif塾では、2026年の最先端を行くAI活用術を個別にレクチャー中！\n周りと差がつく「共創スキル」を今すぐ手に入れよう。\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #NanoBanana #AIネイティブ #未来の教育 #最新テクノロジー #中高生ママ #学習塾",
+      "caption_text": "【2026年5月】最新AIニュースをお届け！\n\nAIネイティブ世代の皆さん、そして保護者の皆様。\nもはやAIは「便利な道具」ではなく、共に何かを作り上げる「パートナー」のフェーズに突入しました。\n\n今月、教育界で話題の「Nano Banana」をはじめとする最新AIは、個人のクリエイティビティを最大化させるツールへと進化しています。\n\n「AIに答えを教えてもらう」だけの学習から、\n「AIと一緒に新しい答えを作る」学習へ。\n\nif塾では、2026年の最先端を行くAI活用術を個別にレクチャー中！\n周りと差がつく「共創スキル」を今すぐ手に入れよう。\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #2026年 #生成AI #NanoBanana #AIネイティブ #未来の教育 #最新テクノロジー #中高生ママ #学習塾",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "AIエージェント",
-        "プロンプトエンジニアリング",
-        "生成AI",
-        "最新教育",
-        "AI必修化",
-        "5月のニュース"
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#NanoBanana",
+        "#AI教育",
+        "#未来の学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIを『使う』から『操る』時代へ",
-          "sub_title": "5月最新ニュース：AIエージェントとプロンプト技術が必修化",
-          "text_content": "2026年、AIを『使う』から『操る』時代へ",
+          "main_title": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+          "sub_title": "Nano Banana登場で変わる学習スタイル",
+          "text_content": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-01.png",
           "image_file": "assets/img/posts/20260518_announcement-01.png",
-          "overlay_text": "2026年、AIを『使う』から『操る』時代へ",
-          "subtext": "5月最新ニュース：AIエージェントとプロンプト技術が必修化",
-          "alt": "表紙 - 2026年、AIを『使う』から『操る』時"
+          "overlay_text": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+          "subtext": "Nano Banana登場で変わる学習スタイル",
+          "alt": "表紙 - AIは「使う」から「共創」へ。2026年"
         },
         {
           "page_number": 2,
@@ -59,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ただの検索」ではもう太刀打ちできない？",
-          "sub_title": "2026年、大学入試や就活の選考基準に「AI活用能力」が本格導入。生成AIを使いこなせないことが、学力以前の大きな格差になっています。",
-          "text_content": "「ただの検索」ではもう太刀打ちできない？",
+          "main_title": "「AIに聞くだけ」の時代は終わりました。",
+          "sub_title": "2026年、宿題代行ツールとしてのAI利用はもはや過去。今、学生に求められているのはAIをパートナーとして「新しい価値」を生み出す力です。周囲に置いていかれる不安を感じていませんか？",
+          "text_content": "「AIに聞くだけ」の時代は終わりました。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-02.png",
           "image_file": "assets/img/posts/20260518_announcement-02.png",
-          "overlay_text": "「ただの検索」ではもう太刀打ちできない？",
-          "subtext": "2026年、大学入試や就活の選考基準に「AI活用能力」が本格導入。生成AIを使いこなせないことが、学力以前の大きな格差になっています。",
-          "alt": "内容1 - 「ただの検索」ではもう太刀打ちできない？"
+          "overlay_text": "「AIに聞くだけ」の時代は終わりました。",
+          "subtext": "2026年、宿題代行ツールとしてのAI利用はもはや過去。今、学生に求められているのはAIをパートナーとして「新しい価値」を生み出す力です。周囲に置いていかれる不安を感じていませんか？",
+          "alt": "内容1 - 「AIに聞くだけ」の時代は終わりました。"
         },
         {
           "page_number": 3,
@@ -75,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型『AIエージェント』を部下にするスキル",
-          "sub_title": "指示待ちではなく、AIに目的を伝え、自走させる技術。最新ツール「GPT-6」世代や自律型エージェントの操作が、現代の『読み書き算盤』になりました。",
-          "text_content": "自律型『AIエージェント』を部下にするスキル",
+          "main_title": "最新AI「Nano Banana」が教育現場を席巻！",
+          "sub_title": "超軽量・高精度のエッジAIが普及し、5月は全国で共創型AIセミナーが急増中。ただの検索ツールではなく、あなたの思考を拡張する「第二の脳」としての活用がスタンダードになりました。",
+          "text_content": "最新AI「Nano Banana」が教育現場を席巻！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-03.png",
           "image_file": "assets/img/posts/20260518_announcement-03.png",
-          "overlay_text": "自律型『AIエージェント』を部下にするスキル",
-          "subtext": "指示待ちではなく、AIに目的を伝え、自走させる技術。最新ツール「GPT-6」世代や自律型エージェントの操作が、現代の『読み書き算盤』になりました。",
-          "alt": "内容2 - 自律型『AIエージェント』を部下にするス"
+          "overlay_text": "最新AI「Nano Banana」が教育現場を席巻！",
+          "subtext": "超軽量・高精度のエッジAIが普及し、5月は全国で共創型AIセミナーが急増中。ただの検索ツールではなく、あなたの思考を拡張する「第二の脳」としての活用がスタンダードになりました。",
+          "alt": "内容2 - 最新AI「Nano Banana」が教育"
         },
         {
           "page_number": 4,
@@ -91,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「未来のプロンプト」活用術",
-          "sub_title": "単なる質問術ではなく、論理的思考を形にするエンジニアリングを伝授。夏休みを前に、今からAIを『相棒』にする習慣を身につけましょう。",
-          "text_content": "if塾で学ぶ「未来のプロンプト」活用術",
+          "main_title": "if塾なら「AIとの対話」で創造性を磨ける",
+          "sub_title": "if塾では最新ツールを使いこなし、プロンプトを超える「概念設計力」を指導。この夏に向けて、AIを使いこなして自分のプロジェクトを形にする体験をスタートしましょう。",
+          "text_content": "if塾なら「AIとの対話」で創造性を磨ける",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-04.png",
           "image_file": "assets/img/posts/20260518_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「未来のプロンプト」活用術",
-          "subtext": "単なる質問術ではなく、論理的思考を形にするエンジニアリングを伝授。夏休みを前に、今からAIを『相棒』にする習慣を身につけましょう。",
-          "alt": "内容3 - if塾で学ぶ「未来のプロンプト」活用術"
+          "overlay_text": "if塾なら「AIとの対話」で創造性を磨ける",
+          "subtext": "if塾では最新ツールを使いこなし、プロンプトを超える「概念設計力」を指導。この夏に向けて、AIを使いこなして自分のプロジェクトを形にする体験をスタートしましょう。",
+          "alt": "内容3 - if塾なら「AIとの対話」で創造性を磨け"
         },
         {
           "page_number": 5,
@@ -125,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、AIを『使う』から『操る』時代へ",
-          "sub_title": "5月最新ニュース：AIエージェントとプロンプト技術が必修化",
-          "text_content": "2026年、AIを『使う』から『操る』時代へ",
+          "main_title": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+          "sub_title": "Nano Banana登場で変わる学習スタイル",
+          "text_content": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-01.png",
           "image_file": "assets/img/posts/20260518_announcement-01.png",
-          "overlay_text": "2026年、AIを『使う』から『操る』時代へ",
-          "subtext": "5月最新ニュース：AIエージェントとプロンプト技術が必修化",
-          "alt": "表紙 - 2026年、AIを『使う』から『操る』時"
+          "overlay_text": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+          "subtext": "Nano Banana登場で変わる学習スタイル",
+          "alt": "表紙 - AIは「使う」から「共創」へ。2026年"
         },
         {
           "page_number": 2,
@@ -141,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ただの検索」ではもう太刀打ちできない？",
-          "sub_title": "2026年、大学入試や就活の選考基準に「AI活用能力」が本格導入。生成AIを使いこなせないことが、学力以前の大きな格差になっています。",
-          "text_content": "「ただの検索」ではもう太刀打ちできない？",
+          "main_title": "「AIに聞くだけ」の時代は終わりました。",
+          "sub_title": "2026年、宿題代行ツールとしてのAI利用はもはや過去。今、学生に求められているのはAIをパートナーとして「新しい価値」を生み出す力です。周囲に置いていかれる不安を感じていませんか？",
+          "text_content": "「AIに聞くだけ」の時代は終わりました。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-02.png",
           "image_file": "assets/img/posts/20260518_announcement-02.png",
-          "overlay_text": "「ただの検索」ではもう太刀打ちできない？",
-          "subtext": "2026年、大学入試や就活の選考基準に「AI活用能力」が本格導入。生成AIを使いこなせないことが、学力以前の大きな格差になっています。",
-          "alt": "内容1 - 「ただの検索」ではもう太刀打ちできない？"
+          "overlay_text": "「AIに聞くだけ」の時代は終わりました。",
+          "subtext": "2026年、宿題代行ツールとしてのAI利用はもはや過去。今、学生に求められているのはAIをパートナーとして「新しい価値」を生み出す力です。周囲に置いていかれる不安を感じていませんか？",
+          "alt": "内容1 - 「AIに聞くだけ」の時代は終わりました。"
         },
         {
           "page_number": 3,
@@ -157,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型『AIエージェント』を部下にするスキル",
-          "sub_title": "指示待ちではなく、AIに目的を伝え、自走させる技術。最新ツール「GPT-6」世代や自律型エージェントの操作が、現代の『読み書き算盤』になりました。",
-          "text_content": "自律型『AIエージェント』を部下にするスキル",
+          "main_title": "最新AI「Nano Banana」が教育現場を席巻！",
+          "sub_title": "超軽量・高精度のエッジAIが普及し、5月は全国で共創型AIセミナーが急増中。ただの検索ツールではなく、あなたの思考を拡張する「第二の脳」としての活用がスタンダードになりました。",
+          "text_content": "最新AI「Nano Banana」が教育現場を席巻！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-03.png",
           "image_file": "assets/img/posts/20260518_announcement-03.png",
-          "overlay_text": "自律型『AIエージェント』を部下にするスキル",
-          "subtext": "指示待ちではなく、AIに目的を伝え、自走させる技術。最新ツール「GPT-6」世代や自律型エージェントの操作が、現代の『読み書き算盤』になりました。",
-          "alt": "内容2 - 自律型『AIエージェント』を部下にするス"
+          "overlay_text": "最新AI「Nano Banana」が教育現場を席巻！",
+          "subtext": "超軽量・高精度のエッジAIが普及し、5月は全国で共創型AIセミナーが急増中。ただの検索ツールではなく、あなたの思考を拡張する「第二の脳」としての活用がスタンダードになりました。",
+          "alt": "内容2 - 最新AI「Nano Banana」が教育"
         },
         {
           "page_number": 4,
@@ -173,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「未来のプロンプト」活用術",
-          "sub_title": "単なる質問術ではなく、論理的思考を形にするエンジニアリングを伝授。夏休みを前に、今からAIを『相棒』にする習慣を身につけましょう。",
-          "text_content": "if塾で学ぶ「未来のプロンプト」活用術",
+          "main_title": "if塾なら「AIとの対話」で創造性を磨ける",
+          "sub_title": "if塾では最新ツールを使いこなし、プロンプトを超える「概念設計力」を指導。この夏に向けて、AIを使いこなして自分のプロジェクトを形にする体験をスタートしましょう。",
+          "text_content": "if塾なら「AIとの対話」で創造性を磨ける",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260518_announcement-04.png",
           "image_file": "assets/img/posts/20260518_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「未来のプロンプト」活用術",
-          "subtext": "単なる質問術ではなく、論理的思考を形にするエンジニアリングを伝授。夏休みを前に、今からAIを『相棒』にする習慣を身につけましょう。",
-          "alt": "内容3 - if塾で学ぶ「未来のプロンプト」活用術"
+          "overlay_text": "if塾なら「AIとの対話」で創造性を磨ける",
+          "subtext": "if塾では最新ツールを使いこなし、プロンプトを超える「概念設計力」を指導。この夏に向けて、AIを使いこなして自分のプロジェクトを形にする体験をスタートしましょう。",
+          "alt": "内容3 - if塾なら「AIとの対話」で創造性を磨け"
         },
         {
           "page_number": 5,
@@ -244,7 +242,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-18T16:10:47",
+      "research_date": "2026-05-18T23:33:59",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、AIを『使う』から『操る』時",
+        "cover_text": "AIは「使う」から「共創」へ。2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、AIを『使う』から『操る』時代へ",
-            "subtext": "5月最新ニュース：AIエージェントとプロンプト技術が必修化",
+            "headline": "AIは「使う」から「共創」へ。2026年5月の最新教育トレンド",
+            "subtext": "Nano Banana登場で変わる学習スタイル",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「ただの検索」ではもう太刀打ちできない？",
-            "subtext": "2026年、大学入試や就活の選考基準に「AI活用能力」が本格導入。生成AIを使いこなせないことが、学力以前の大きな格差になっています。",
+            "headline": "「AIに聞くだけ」の時代は終わりました。",
+            "subtext": "2026年、宿題代行ツールとしてのAI利用はもはや過去。今、学生に求められているのはAIをパートナーとして「新しい価値」を生み出す力です。周囲に置いていかれる不安を感じていませんか？",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型『AIエージェント』を部下にするスキル",
-            "subtext": "指示待ちではなく、AIに目的を伝え、自走させる技術。最新ツール「GPT-6」世代や自律型エージェントの操作が、現代の『読み書き算盤』になりました。",
+            "headline": "最新AI「Nano Banana」が教育現場を席巻！",
+            "subtext": "超軽量・高精度のエッジAIが普及し、5月は全国で共創型AIセミナーが急増中。ただの検索ツールではなく、あなたの思考を拡張する「第二の脳」としての活用がスタンダードになりました。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾で学ぶ「未来のプロンプト」活用術",
-            "subtext": "単なる質問術ではなく、論理的思考を形にするエンジニアリングを伝授。夏休みを前に、今からAIを『相棒』にする習慣を身につけましょう。",
+            "headline": "if塾なら「AIとの対話」で創造性を磨ける",
+            "subtext": "if塾では最新ツールを使いこなし、プロンプトを超える「概念設計力」を指導。この夏に向けて、AIを使いこなして自分のプロジェクトを形にする体験をスタートしましょう。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
