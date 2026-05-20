@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 133,
-    "last_updated": "2026-05-20T12:33:01.035010",
+    "last_updated": "2026-05-20T16:03:09.373855",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260520_development",
       "post_id": "20260520_development",
-      "created_at": "2026-05-20T12:33:01",
+      "created_at": "2026-05-20T16:03:09",
       "datetime": "2026-05-20T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "コード不要の『バイブコーディング』が教育を変える",
+      "theme": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
       "target_audience": "Students & Parents",
-      "title": "コード不要の『バイブコーディング』が教育を変える",
-      "caption": "【2026年5月】最新の開発スタイル「バイブコーディング」を知っていますか？\n\nかつては数ヶ月かかったアプリ開発が、今やAIとの『会話』だけで完結する時代になりました。✨\n\nこれからの時代、大切なのは「コードを覚えること」ではなく、「何を、なぜ作りたいか」という想像力と、AIに意図を伝える論理的な対話力です。\n\n2026年のプログラミング教育は、技術習得から『価値創造』へとシフトしています。if塾では、この最新ツールを使いこなし、自分だけのアイデアを即座に形にする体験を提供しています。\n\n夏休みを前に、親子で「バイブコーディング」に触れてみませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
-      "caption_text": "【2026年5月】最新の開発スタイル「バイブコーディング」を知っていますか？\n\nかつては数ヶ月かかったアプリ開発が、今やAIとの『会話』だけで完結する時代になりました。✨\n\nこれからの時代、大切なのは「コードを覚えること」ではなく、「何を、なぜ作りたいか」という想像力と、AIに意図を伝える論理的な対話力です。\n\n2026年のプログラミング教育は、技術習得から『価値創造』へとシフトしています。if塾では、この最新ツールを使いこなし、自分だけのアイデアを即座に形にする体験を提供しています。\n\n夏休みを前に、親子で「バイブコーディング」に触れてみませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "title": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+      "caption": "【2026年5月】最新AI技術が、教育のカタチをアップデートします✨\n\n新学期のバタバタが落ち着いた今、次にくるのは「これからの学習計画」への不安。if塾では、GPT-5.5や最新GeminiをAPI連携させた『自立型AIエージェント型アプリ』を開発しました！\n\nこれまでのチャットAIとの大きな違いは、AIが自らタスクを判断して動くこと。入試情報の収集から日々の学習ログの解析まで、あなたの代わりに「秘書」として機能します。\n\n「AIに触れる」フェーズは終わり、「AIを使いこなして時間を作る」2026年の新常識を体験してみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #GPT5 #Gemini #AIエージェント #自由研究 #プログラミング教育 #最新テクノロジー #DX教育",
+      "caption_text": "【2026年5月】最新AI技術が、教育のカタチをアップデートします✨\n\n新学期のバタバタが落ち着いた今、次にくるのは「これからの学習計画」への不安。if塾では、GPT-5.5や最新GeminiをAPI連携させた『自立型AIエージェント型アプリ』を開発しました！\n\nこれまでのチャットAIとの大きな違いは、AIが自らタスクを判断して動くこと。入試情報の収集から日々の学習ログの解析まで、あなたの代わりに「秘書」として機能します。\n\n「AIに触れる」フェーズは終わり、「AIを使いこなして時間を作る」2026年の新常識を体験してみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #GPT5 #Gemini #AIエージェント #自由研究 #プログラミング教育 #最新テクノロジー #DX教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#バイブコーディング",
-        "#VibeCoding",
-        "#次世代教育",
-        "#AI活用",
+        "#生成AI",
+        "#GPT5",
+        "#AIエージェント",
         "#プログラミング学習",
-        "#最新技術"
+        "#DX"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の『バイブコーディング』が教育を変える",
-          "sub_title": "2026年5月最新：会話だけでアプリが完成する時代へ",
-          "text_content": "コード不要の『バイブコーディング』が教育を変える",
+          "main_title": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+          "sub_title": "5月の進路・学習不安をゼロにする、if塾発の次世代ツール",
+          "text_content": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-01.png",
           "image_file": "assets/img/posts/20260520_development-01.png",
-          "overlay_text": "コード不要の『バイブコーディング』が教育を変える",
-          "subtext": "2026年5月最新：会話だけでアプリが完成する時代へ",
-          "alt": "表紙 - コード不要の『バイブコーディング』が教育"
+          "overlay_text": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+          "subtext": "5月の進路・学習不安をゼロにする、if塾発の次世代ツール",
+          "alt": "表紙 - GPT-5.5×Gemini連携！202"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が形にならないもどかしさ",
-          "sub_title": "プログラミング学習の壁は文法。やりたいことはあるのに、エラー解決に数時間を費やす日々を終わりにしましょう。",
-          "text_content": "「やりたい」が形にならないもどかしさ",
+          "main_title": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
+          "sub_title": "2026年度の最新入試情報や膨大な学習データ。手動で整理する限界を超えて、親子の時間が奪われているのが現状です。",
+          "text_content": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-02.png",
           "image_file": "assets/img/posts/20260520_development-02.png",
-          "overlay_text": "「やりたい」が形にならないもどかしさ",
-          "subtext": "プログラミング学習の壁は文法。やりたいことはあるのに、エラー解決に数時間を費やす日々を終わりにしましょう。",
-          "alt": "内容1 - 「やりたい」が形にならないもどかしさ"
+          "overlay_text": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
+          "subtext": "2026年度の最新入試情報や膨大な学習データ。手動で整理する限界を超えて、親子の時間が奪われているのが現状です。",
+          "alt": "内容1 - 「情報が多すぎて選べない…」5月の焦りを"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の新常識「Vibe Coding」とは？",
-          "sub_title": "AIと自然言語で対話し、その場の『ノリ（Vibe）』で即座にアプリを生成。複雑な構文知識ゼロで、5月の自由研究テーマも一瞬で形に。",
-          "text_content": "2026年の新常識「Vibe Coding」とは？",
+          "main_title": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
+          "sub_title": "最新のマルチモーダルAPIを活用。ただ答えるだけでなく、目標から逆算してスケジュールを自動修正し、必要な資料を自ら集める『エージェント機能』を実装しました。",
+          "text_content": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-03.png",
           "image_file": "assets/img/posts/20260520_development-03.png",
-          "overlay_text": "2026年の新常識「Vibe Coding」とは？",
-          "subtext": "AIと自然言語で対話し、その場の『ノリ（Vibe）』で即座にアプリを生成。複雑な構文知識ゼロで、5月の自由研究テーマも一瞬で形に。",
-          "alt": "内容2 - 2026年の新常識「Vibe Codin"
+          "overlay_text": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
+          "subtext": "最新のマルチモーダルAPIを活用。ただ答えるだけでなく、目標から逆算してスケジュールを自動修正し、必要な資料を自ら集める『エージェント機能』を実装しました。",
+          "alt": "内容2 - GPT-5.5の推論力 × API連携で"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：思考力を磨くためのAI活用",
-          "sub_title": "単なる自動化ではなく「どう指示を出すか」という論理的思考を重視。完成したプロトタイプをベースに、さらなる独自性を加える力を養います。",
-          "text_content": "if塾流：思考力を磨くためのAI活用",
+          "main_title": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
+          "sub_title": "アプリがルーチンを完結させるから、学生はクリエイティブな学びに集中。保護者は正確なデータに基づいた対話が可能になり、親子の信頼関係が深まりました。",
+          "text_content": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-04.png",
           "image_file": "assets/img/posts/20260520_development-04.png",
-          "overlay_text": "if塾流：思考力を磨くためのAI活用",
-          "subtext": "単なる自動化ではなく「どう指示を出すか」という論理的思考を重視。完成したプロトタイプをベースに、さらなる独自性を加える力を養います。",
-          "alt": "内容3 - if塾流：思考力を磨くためのAI活用"
+          "overlay_text": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
+          "subtext": "アプリがルーチンを完結させるから、学生はクリエイティブな学びに集中。保護者は正確なデータに基づいた対話が可能になり、親子の信頼関係が深まりました。",
+          "alt": "内容3 - 「調べる時間」を「考える時間」へ。if塾"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の『バイブコーディング』が教育を変える",
-          "sub_title": "2026年5月最新：会話だけでアプリが完成する時代へ",
-          "text_content": "コード不要の『バイブコーディング』が教育を変える",
+          "main_title": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+          "sub_title": "5月の進路・学習不安をゼロにする、if塾発の次世代ツール",
+          "text_content": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-01.png",
           "image_file": "assets/img/posts/20260520_development-01.png",
-          "overlay_text": "コード不要の『バイブコーディング』が教育を変える",
-          "subtext": "2026年5月最新：会話だけでアプリが完成する時代へ",
-          "alt": "表紙 - コード不要の『バイブコーディング』が教育"
+          "overlay_text": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+          "subtext": "5月の進路・学習不安をゼロにする、if塾発の次世代ツール",
+          "alt": "表紙 - GPT-5.5×Gemini連携！202"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が形にならないもどかしさ",
-          "sub_title": "プログラミング学習の壁は文法。やりたいことはあるのに、エラー解決に数時間を費やす日々を終わりにしましょう。",
-          "text_content": "「やりたい」が形にならないもどかしさ",
+          "main_title": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
+          "sub_title": "2026年度の最新入試情報や膨大な学習データ。手動で整理する限界を超えて、親子の時間が奪われているのが現状です。",
+          "text_content": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-02.png",
           "image_file": "assets/img/posts/20260520_development-02.png",
-          "overlay_text": "「やりたい」が形にならないもどかしさ",
-          "subtext": "プログラミング学習の壁は文法。やりたいことはあるのに、エラー解決に数時間を費やす日々を終わりにしましょう。",
-          "alt": "内容1 - 「やりたい」が形にならないもどかしさ"
+          "overlay_text": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
+          "subtext": "2026年度の最新入試情報や膨大な学習データ。手動で整理する限界を超えて、親子の時間が奪われているのが現状です。",
+          "alt": "内容1 - 「情報が多すぎて選べない…」5月の焦りを"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の新常識「Vibe Coding」とは？",
-          "sub_title": "AIと自然言語で対話し、その場の『ノリ（Vibe）』で即座にアプリを生成。複雑な構文知識ゼロで、5月の自由研究テーマも一瞬で形に。",
-          "text_content": "2026年の新常識「Vibe Coding」とは？",
+          "main_title": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
+          "sub_title": "最新のマルチモーダルAPIを活用。ただ答えるだけでなく、目標から逆算してスケジュールを自動修正し、必要な資料を自ら集める『エージェント機能』を実装しました。",
+          "text_content": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-03.png",
           "image_file": "assets/img/posts/20260520_development-03.png",
-          "overlay_text": "2026年の新常識「Vibe Coding」とは？",
-          "subtext": "AIと自然言語で対話し、その場の『ノリ（Vibe）』で即座にアプリを生成。複雑な構文知識ゼロで、5月の自由研究テーマも一瞬で形に。",
-          "alt": "内容2 - 2026年の新常識「Vibe Codin"
+          "overlay_text": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
+          "subtext": "最新のマルチモーダルAPIを活用。ただ答えるだけでなく、目標から逆算してスケジュールを自動修正し、必要な資料を自ら集める『エージェント機能』を実装しました。",
+          "alt": "内容2 - GPT-5.5の推論力 × API連携で"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：思考力を磨くためのAI活用",
-          "sub_title": "単なる自動化ではなく「どう指示を出すか」という論理的思考を重視。完成したプロトタイプをベースに、さらなる独自性を加える力を養います。",
-          "text_content": "if塾流：思考力を磨くためのAI活用",
+          "main_title": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
+          "sub_title": "アプリがルーチンを完結させるから、学生はクリエイティブな学びに集中。保護者は正確なデータに基づいた対話が可能になり、親子の信頼関係が深まりました。",
+          "text_content": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260520_development-04.png",
           "image_file": "assets/img/posts/20260520_development-04.png",
-          "overlay_text": "if塾流：思考力を磨くためのAI活用",
-          "subtext": "単なる自動化ではなく「どう指示を出すか」という論理的思考を重視。完成したプロトタイプをベースに、さらなる独自性を加える力を養います。",
-          "alt": "内容3 - if塾流：思考力を磨くためのAI活用"
+          "overlay_text": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
+          "subtext": "アプリがルーチンを完結させるから、学生はクリエイティブな学びに集中。保護者は正確なデータに基づいた対話が可能になり、親子の信頼関係が深まりました。",
+          "alt": "内容3 - 「調べる時間」を「考える時間」へ。if塾"
         },
         {
           "page_number": 5,
@@ -229,21 +228,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-20T12:31:35",
+      "research_date": "2026-05-20T16:01:42",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コード不要の『バイブコーディング』が教育",
+        "cover_text": "GPT-5.5×Gemini連携！202",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コード不要の『バイブコーディング』が教育を変える",
-            "subtext": "2026年5月最新：会話だけでアプリが完成する時代へ",
+            "headline": "GPT-5.5×Gemini連携！2026年最新『自立型AIエージェント』が完成",
+            "subtext": "5月の進路・学習不安をゼロにする、if塾発の次世代ツール",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」が形にならないもどかしさ",
-            "subtext": "プログラミング学習の壁は文法。やりたいことはあるのに、エラー解決に数時間を費やす日々を終わりにしましょう。",
+            "headline": "「情報が多すぎて選べない…」5月の焦りを放置していませんか？",
+            "subtext": "2026年度の最新入試情報や膨大な学習データ。手動で整理する限界を超えて、親子の時間が奪われているのが現状です。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の新常識「Vibe Coding」とは？",
-            "subtext": "AIと自然言語で対話し、その場の『ノリ（Vibe）』で即座にアプリを生成。複雑な構文知識ゼロで、5月の自由研究テーマも一瞬で形に。",
+            "headline": "GPT-5.5の推論力 × API連携で、あなた専用の「動く秘書」を構築",
+            "subtext": "最新のマルチモーダルAPIを活用。ただ答えるだけでなく、目標から逆算してスケジュールを自動修正し、必要な資料を自ら集める『エージェント機能』を実装しました。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：思考力を磨くためのAI活用",
-            "subtext": "単なる自動化ではなく「どう指示を出すか」という論理的思考を重視。完成したプロトタイプをベースに、さらなる独自性を加える力を養います。",
+            "headline": "「調べる時間」を「考える時間」へ。if塾が提案するAIとの共生",
+            "subtext": "アプリがルーチンを完結させるから、学生はクリエイティブな学びに集中。保護者は正確なデータに基づいた対話が可能になり、親子の信頼関係が深まりました。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
