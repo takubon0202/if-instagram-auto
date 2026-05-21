@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 134,
-    "last_updated": "2026-05-21T16:08:13.841304",
+    "last_updated": "2026-05-21T23:17:34.851589",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,26 @@
     {
       "id": "20260521_ai_column",
       "post_id": "20260521_ai_column",
-      "created_at": "2026-05-21T16:08:13",
+      "created_at": "2026-05-21T23:17:34",
       "datetime": "2026-05-21T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
+      "theme": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
       "target_audience": "Students & Parents",
-      "title": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-      "caption": "【2026年5月】最新AIニュースをお届け！\n\nGoogle I/O 2026で発表された内容が、教育現場にも革命を起こしそうです。\n\n今回注目すべきは、新AIエージェント『Gemini Spark』。\nこれまでのAIは「質問に答える」だけでしたが、これからは「宿題の計画を立ててリマインダーを設定し、分からない箇所を動画で解説する」といった一連の流れを自律的にこなします。\n\nさらに、超高速モデル『Gemini 3.5 Flash』の登場で、スマホでの学習体験はさらにシームレスに。\n\nif塾では、こうした最新AIを単なる「効率化ツール」ではなく、子供たちの「論理的思考」を伸ばすためのブースターとして活用する方法を提案しています。\n\n2026年の受験シーズンに向けて、最新技術を味方につけましょう！\n\n詳しく知りたい方は「AI」とコメントしてください！\n\n#GoogleIO2026 #GeminiSpark #Gemini3 #AI教育 #if塾 #最新AI #2026年教育 #AIエージェント",
-      "caption_text": "【2026年5月】最新AIニュースをお届け！\n\nGoogle I/O 2026で発表された内容が、教育現場にも革命を起こしそうです。\n\n今回注目すべきは、新AIエージェント『Gemini Spark』。\nこれまでのAIは「質問に答える」だけでしたが、これからは「宿題の計画を立ててリマインダーを設定し、分からない箇所を動画で解説する」といった一連の流れを自律的にこなします。\n\nさらに、超高速モデル『Gemini 3.5 Flash』の登場で、スマホでの学習体験はさらにシームレスに。\n\nif塾では、こうした最新AIを単なる「効率化ツール」ではなく、子供たちの「論理的思考」を伸ばすためのブースターとして活用する方法を提案しています。\n\n2026年の受験シーズンに向けて、最新技術を味方につけましょう！\n\n詳しく知りたい方は「AI」とコメントしてください！\n\n#GoogleIO2026 #GeminiSpark #Gemini3 #AI教育 #if塾 #最新AI #2026年教育 #AIエージェント",
+      "title": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+      "caption": "【2026年5月】最新AIニュースをお届けします！\n\n先日開催されたGoogle I/O 2026で発表された『Gemini 3.5 Flash』と『Gemini Spark』、もうチェックしましたか？✨\n\n今回のアップデートの衝撃は、AIが「あなたの専属マネージャー」になったこと。特にパーソナルエージェントのSparkは、学生の皆さんの学習習慣を根本から変えるポテンシャルを秘めています。\n\n「宿題をやって」ではなく「志望校合格のために、今週の空き時間で何をすべきか計画して実行をサポートして」と頼む時代です。\n\nif塾では、こうした最先端のAIツールを「正しく、賢く」使いこなし、人間の可能性を最大化するスキルを伝えています。技術の進化に置いていかれないよう、今から準備を始めましょう！\n\n詳しく知りたい方はDMまたはプロフィールのリンクをチェック🔗",
+      "caption_text": "【2026年5月】最新AIニュースをお届けします！\n\n先日開催されたGoogle I/O 2026で発表された『Gemini 3.5 Flash』と『Gemini Spark』、もうチェックしましたか？✨\n\n今回のアップデートの衝撃は、AIが「あなたの専属マネージャー」になったこと。特にパーソナルエージェントのSparkは、学生の皆さんの学習習慣を根本から変えるポテンシャルを秘めています。\n\n「宿題をやって」ではなく「志望校合格のために、今週の空き時間で何をすべきか計画して実行をサポートして」と頼む時代です。\n\nif塾では、こうした最先端のAIツールを「正しく、賢く」使いこなし、人間の可能性を最大化するスキルを伝えています。技術の進化に置いていかれないよう、今から準備を始めましょう！\n\n詳しく知りたい方はDMまたはプロフィールのリンクをチェック🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#Gemini35Flash",
         "#GeminiSpark",
         "#GoogleIO2026",
+        "#最新AI",
+        "#エデュテュック",
+        "#自律型AI",
         "#AI教育",
-        "#Gemini35Flash"
+        "#GIGAスクール"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +45,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-          "sub_title": "2026年5月最新・Google I/O速報",
-          "text_content": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
+          "main_title": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+          "sub_title": "2026年5月最新！Google I/Oが変える学習と生活の未来",
+          "text_content": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-01.png",
           "image_file": "assets/img/posts/20260521_ai_column-01.png",
-          "overlay_text": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-          "subtext": "2026年5月最新・Google I/O速報",
-          "alt": "表紙 - Gemini 3.5 Flash登場！生"
+          "overlay_text": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+          "subtext": "2026年5月最新！Google I/Oが変える学習と生活の未来",
+          "alt": "表紙 - Gemini 3.5 Flash & S"
         },
         {
           "page_number": 2,
@@ -57,15 +61,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
-          "sub_title": "従来のチャット型を超え、スマホ操作やタスク実行を自律的に行う新AIエージェントが誕生。受験生のスケジュール管理も自動化される時代に。",
-          "text_content": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
+          "main_title": "「AIに何を聞くか」で悩む時間はもう終わり？",
+          "sub_title": "最新のGemini 3.5 Flashは、人間の思考速度を超えました。これまでのチャット形式では追いつかないほどの進化に、多くの保護者や学生が「どう使いこなせばいいの？」と戸惑っています。",
+          "text_content": "「AIに何を聞くか」で悩む時間はもう終わり？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-02.png",
           "image_file": "assets/img/posts/20260521_ai_column-02.png",
-          "overlay_text": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
-          "subtext": "従来のチャット型を超え、スマホ操作やタスク実行を自律的に行う新AIエージェントが誕生。受験生のスケジュール管理も自動化される時代に。",
-          "alt": "内容1 - AIは「聞く」から「動く」時代へ。Gem"
+          "overlay_text": "「AIに何を聞くか」で悩む時間はもう終わり？",
+          "subtext": "最新のGemini 3.5 Flashは、人間の思考速度を超えました。これまでのチャット形式では追いつかないほどの進化に、多くの保護者や学生が「どう使いこなせばいいの？」と戸惑っています。",
+          "alt": "内容1 - 「AIに何を聞くか」で悩む時間はもう終わ"
         },
         {
           "page_number": 3,
@@ -73,15 +77,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 3.5 Flashで学習効率が爆上がり！",
-          "sub_title": "超低遅延・高精度の新モデル。カメラを教科書にかざすだけで、AI家庭教師がリアルタイムに理解度を分析し、個別カリキュラムを即座に生成します。",
-          "text_content": "Gemini 3.5 Flashで学習効率が爆上がり！",
+          "main_title": "自律型エージェント『Gemini Spark』があなたの分身に",
+          "sub_title": "単なる回答ツールではありません。Sparkはあなたのカレンダーや学習計画を把握し、自ら最適なタスクを実行。2026年の受験生は、AIと二人三脚でスケジュール管理と弱点克服を自動化する時代です。",
+          "text_content": "自律型エージェント『Gemini Spark』があなたの分身に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-03.png",
           "image_file": "assets/img/posts/20260521_ai_column-03.png",
-          "overlay_text": "Gemini 3.5 Flashで学習効率が爆上がり！",
-          "subtext": "超低遅延・高精度の新モデル。カメラを教科書にかざすだけで、AI家庭教師がリアルタイムに理解度を分析し、個別カリキュラムを即座に生成します。",
-          "alt": "内容2 - Gemini 3.5 Flashで学習効"
+          "overlay_text": "自律型エージェント『Gemini Spark』があなたの分身に",
+          "subtext": "単なる回答ツールではありません。Sparkはあなたのカレンダーや学習計画を把握し、自ら最適なタスクを実行。2026年の受験生は、AIと二人三脚でスケジュール管理と弱点克服を自動化する時代です。",
+          "alt": "内容2 - 自律型エージェント『Gemini Spa"
         },
         {
           "page_number": 4,
@@ -89,15 +93,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：2026年、AIを『使いこなす』力とは？",
-          "sub_title": "Sparkのような自律型AIに「何を任せ、自分は何を考えるか」の判断が重要です。AIに頼り切るのではなく、思考のパートナーとして活用する対話力を磨きましょう。",
-          "text_content": "if塾の視点：2026年、AIを『使いこなす』力とは？",
+          "main_title": "if塾の視点：AIに「任せる力」と「判断する力」",
+          "sub_title": "Gemini Sparkを使いこなすコツは、明確な『目標設定』です。丸投げするのではなく、AIが提案する戦略の良し悪しを判断する「メタ認知能力」を磨くことが、2026年以降の学習の鍵となります。",
+          "text_content": "if塾の視点：AIに「任せる力」と「判断する力」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-04.png",
           "image_file": "assets/img/posts/20260521_ai_column-04.png",
-          "overlay_text": "if塾の視点：2026年、AIを『使いこなす』力とは？",
-          "subtext": "Sparkのような自律型AIに「何を任せ、自分は何を考えるか」の判断が重要です。AIに頼り切るのではなく、思考のパートナーとして活用する対話力を磨きましょう。",
-          "alt": "内容3 - if塾の視点：2026年、AIを『使いこ"
+          "overlay_text": "if塾の視点：AIに「任せる力」と「判断する力」",
+          "subtext": "Gemini Sparkを使いこなすコツは、明確な『目標設定』です。丸投げするのではなく、AIが提案する戦略の良し悪しを判断する「メタ認知能力」を磨くことが、2026年以降の学習の鍵となります。",
+          "alt": "内容3 - if塾の視点：AIに「任せる力」と「判断"
         },
         {
           "page_number": 5,
@@ -123,15 +127,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-          "sub_title": "2026年5月最新・Google I/O速報",
-          "text_content": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
+          "main_title": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+          "sub_title": "2026年5月最新！Google I/Oが変える学習と生活の未来",
+          "text_content": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-01.png",
           "image_file": "assets/img/posts/20260521_ai_column-01.png",
-          "overlay_text": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-          "subtext": "2026年5月最新・Google I/O速報",
-          "alt": "表紙 - Gemini 3.5 Flash登場！生"
+          "overlay_text": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+          "subtext": "2026年5月最新！Google I/Oが変える学習と生活の未来",
+          "alt": "表紙 - Gemini 3.5 Flash & S"
         },
         {
           "page_number": 2,
@@ -139,15 +143,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
-          "sub_title": "従来のチャット型を超え、スマホ操作やタスク実行を自律的に行う新AIエージェントが誕生。受験生のスケジュール管理も自動化される時代に。",
-          "text_content": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
+          "main_title": "「AIに何を聞くか」で悩む時間はもう終わり？",
+          "sub_title": "最新のGemini 3.5 Flashは、人間の思考速度を超えました。これまでのチャット形式では追いつかないほどの進化に、多くの保護者や学生が「どう使いこなせばいいの？」と戸惑っています。",
+          "text_content": "「AIに何を聞くか」で悩む時間はもう終わり？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-02.png",
           "image_file": "assets/img/posts/20260521_ai_column-02.png",
-          "overlay_text": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
-          "subtext": "従来のチャット型を超え、スマホ操作やタスク実行を自律的に行う新AIエージェントが誕生。受験生のスケジュール管理も自動化される時代に。",
-          "alt": "内容1 - AIは「聞く」から「動く」時代へ。Gem"
+          "overlay_text": "「AIに何を聞くか」で悩む時間はもう終わり？",
+          "subtext": "最新のGemini 3.5 Flashは、人間の思考速度を超えました。これまでのチャット形式では追いつかないほどの進化に、多くの保護者や学生が「どう使いこなせばいいの？」と戸惑っています。",
+          "alt": "内容1 - 「AIに何を聞くか」で悩む時間はもう終わ"
         },
         {
           "page_number": 3,
@@ -155,15 +159,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 3.5 Flashで学習効率が爆上がり！",
-          "sub_title": "超低遅延・高精度の新モデル。カメラを教科書にかざすだけで、AI家庭教師がリアルタイムに理解度を分析し、個別カリキュラムを即座に生成します。",
-          "text_content": "Gemini 3.5 Flashで学習効率が爆上がり！",
+          "main_title": "自律型エージェント『Gemini Spark』があなたの分身に",
+          "sub_title": "単なる回答ツールではありません。Sparkはあなたのカレンダーや学習計画を把握し、自ら最適なタスクを実行。2026年の受験生は、AIと二人三脚でスケジュール管理と弱点克服を自動化する時代です。",
+          "text_content": "自律型エージェント『Gemini Spark』があなたの分身に",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-03.png",
           "image_file": "assets/img/posts/20260521_ai_column-03.png",
-          "overlay_text": "Gemini 3.5 Flashで学習効率が爆上がり！",
-          "subtext": "超低遅延・高精度の新モデル。カメラを教科書にかざすだけで、AI家庭教師がリアルタイムに理解度を分析し、個別カリキュラムを即座に生成します。",
-          "alt": "内容2 - Gemini 3.5 Flashで学習効"
+          "overlay_text": "自律型エージェント『Gemini Spark』があなたの分身に",
+          "subtext": "単なる回答ツールではありません。Sparkはあなたのカレンダーや学習計画を把握し、自ら最適なタスクを実行。2026年の受験生は、AIと二人三脚でスケジュール管理と弱点克服を自動化する時代です。",
+          "alt": "内容2 - 自律型エージェント『Gemini Spa"
         },
         {
           "page_number": 4,
@@ -171,15 +175,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：2026年、AIを『使いこなす』力とは？",
-          "sub_title": "Sparkのような自律型AIに「何を任せ、自分は何を考えるか」の判断が重要です。AIに頼り切るのではなく、思考のパートナーとして活用する対話力を磨きましょう。",
-          "text_content": "if塾の視点：2026年、AIを『使いこなす』力とは？",
+          "main_title": "if塾の視点：AIに「任せる力」と「判断する力」",
+          "sub_title": "Gemini Sparkを使いこなすコツは、明確な『目標設定』です。丸投げするのではなく、AIが提案する戦略の良し悪しを判断する「メタ認知能力」を磨くことが、2026年以降の学習の鍵となります。",
+          "text_content": "if塾の視点：AIに「任せる力」と「判断する力」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260521_ai_column-04.png",
           "image_file": "assets/img/posts/20260521_ai_column-04.png",
-          "overlay_text": "if塾の視点：2026年、AIを『使いこなす』力とは？",
-          "subtext": "Sparkのような自律型AIに「何を任せ、自分は何を考えるか」の判断が重要です。AIに頼り切るのではなく、思考のパートナーとして活用する対話力を磨きましょう。",
-          "alt": "内容3 - if塾の視点：2026年、AIを『使いこ"
+          "overlay_text": "if塾の視点：AIに「任せる力」と「判断する力」",
+          "subtext": "Gemini Sparkを使いこなすコツは、明確な『目標設定』です。丸投げするのではなく、AIが提案する戦略の良し悪しを判断する「メタ認知能力」を磨くことが、2026年以降の学習の鍵となります。",
+          "alt": "内容3 - if塾の視点：AIに「任せる力」と「判断"
         },
         {
           "page_number": 5,
@@ -242,7 +246,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-21T16:06:29",
+      "research_date": "2026-05-21T23:16:00",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +254,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Gemini 3.5 Flash登場！生",
+        "cover_text": "Gemini 3.5 Flash & S",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Gemini 3.5 Flash登場！生活を変える『Gemini Spark』の衝撃",
-            "subtext": "2026年5月最新・Google I/O速報",
+            "headline": "Gemini 3.5 Flash & Spark 降臨。AIは「調べる」から「代行」へ",
+            "subtext": "2026年5月最新！Google I/Oが変える学習と生活の未来",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -266,8 +270,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "AIは「聞く」から「動く」時代へ。Gemini Sparkとは？",
-            "subtext": "従来のチャット型を超え、スマホ操作やタスク実行を自律的に行う新AIエージェントが誕生。受験生のスケジュール管理も自動化される時代に。",
+            "headline": "「AIに何を聞くか」で悩む時間はもう終わり？",
+            "subtext": "最新のGemini 3.5 Flashは、人間の思考速度を超えました。これまでのチャット形式では追いつかないほどの進化に、多くの保護者や学生が「どう使いこなせばいいの？」と戸惑っています。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -275,8 +279,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Gemini 3.5 Flashで学習効率が爆上がり！",
-            "subtext": "超低遅延・高精度の新モデル。カメラを教科書にかざすだけで、AI家庭教師がリアルタイムに理解度を分析し、個別カリキュラムを即座に生成します。",
+            "headline": "自律型エージェント『Gemini Spark』があなたの分身に",
+            "subtext": "単なる回答ツールではありません。Sparkはあなたのカレンダーや学習計画を把握し、自ら最適なタスクを実行。2026年の受験生は、AIと二人三脚でスケジュール管理と弱点克服を自動化する時代です。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -284,8 +288,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：2026年、AIを『使いこなす』力とは？",
-            "subtext": "Sparkのような自律型AIに「何を任せ、自分は何を考えるか」の判断が重要です。AIに頼り切るのではなく、思考のパートナーとして活用する対話力を磨きましょう。",
+            "headline": "if塾の視点：AIに「任せる力」と「判断する力」",
+            "subtext": "Gemini Sparkを使いこなすコツは、明確な『目標設定』です。丸投げするのではなく、AIが提案する戦略の良し悪しを判断する「メタ認知能力」を磨くことが、2026年以降の学習の鍵となります。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
