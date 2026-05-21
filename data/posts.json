@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 133,
-    "last_updated": "2026-05-20T22:45:17.672794",
+    "total_posts": 134,
+    "last_updated": "2026-05-21T12:39:16.608312",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260521_ai_column",
+      "post_id": "20260521_ai_column",
+      "created_at": "2026-05-21T12:39:16",
+      "datetime": "2026-05-21T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+      "target_audience": "Students & Parents",
+      "title": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+      "caption": "【2026年5月】最新AIニュースをお届け！\n\n今年のGoogle I/Oで発表された新技術に、世界中が驚いています。\n特筆すべきは、自律型AIエージェント『Gemini Spark』の登場です。\n\n「宿題の計画を立てておいて」「志望校の最新情報をまとめて出願日をリマインドして」\nそんな言葉一つで、AIが裏側で全てを完結させる時代が来ました。\n\n受験生や保護者の皆さまにとって、情報の取捨選択がますます重要になります。\nif塾では、こうした最新テクノロジーを「ただ使う」のではなく、「どう自分たちの武器にするか」を大切にしています。\n\n最新のAIを味方につけて、効率的な学習体験をスタートしませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年5月】最新AIニュースをお届け！\n\n今年のGoogle I/Oで発表された新技術に、世界中が驚いています。\n特筆すべきは、自律型AIエージェント『Gemini Spark』の登場です。\n\n「宿題の計画を立てておいて」「志望校の最新情報をまとめて出願日をリマインドして」\nそんな言葉一つで、AIが裏側で全てを完結させる時代が来ました。\n\n受験生や保護者の皆さまにとって、情報の取捨選択がますます重要になります。\nif塾では、こうした最新テクノロジーを「ただ使う」のではなく、「どう自分たちの武器にするか」を大切にしています。\n\n最新のAIを味方につけて、効率的な学習体験をスタートしませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#GoogleIO2026",
+        "#Gemini3",
+        "#GeminiSpark",
+        "#自律型AI",
+        "#最新テクノロジー",
+        "#教育ICT",
+        "#AI活用"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "sub_title": "2026年5月、AIは「指示待ち」から「自律」の時代へ",
+          "text_content": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-01.png",
+          "image_file": "assets/img/posts/20260521_ai_column-01.png",
+          "overlay_text": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "subtext": "2026年5月、AIは「指示待ち」から「自律」の時代へ",
+          "alt": "表紙 - Google I/O 2026速報！新モ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使いこなす」はもう古い？",
+          "sub_title": "これまではプロンプトの工夫が必要でしたが、2026年最新のAIは、私たちが寝ている間に勝手にタスクを完了させる『自律型』へ進化しました。",
+          "text_content": "「AIを使いこなす」はもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-02.png",
+          "image_file": "assets/img/posts/20260521_ai_column-02.png",
+          "overlay_text": "「AIを使いこなす」はもう古い？",
+          "subtext": "これまではプロンプトの工夫が必要でしたが、2026年最新のAIは、私たちが寝ている間に勝手にタスクを完了させる『自律型』へ進化しました。",
+          "alt": "内容1 - 「AIを使いこなす」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "爆速の3.5 Flashと、動くAI『Spark』",
+          "sub_title": "スマホで一瞬で動く3.5 Flashに加え、Gemini Sparkはカレンダー、メール、学習進度を分析し、最適なスケジュールを勝手に組んで実行まで行います。",
+          "text_content": "爆速の3.5 Flashと、動くAI『Spark』",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-03.png",
+          "image_file": "assets/img/posts/20260521_ai_column-03.png",
+          "overlay_text": "爆速の3.5 Flashと、動くAI『Spark』",
+          "subtext": "スマホで一瞬で動く3.5 Flashに加え、Gemini Sparkはカレンダー、メール、学習進度を分析し、最適なスケジュールを勝手に組んで実行まで行います。",
+          "alt": "内容2 - 爆速の3.5 Flashと、動くAI『S"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える「AIとの共生術」",
+          "sub_title": "自律型AI時代に重要なのは「AIに何を任せ、自分は何を決定するか」という判断力。技術に振り回されず、目的を自分で決める『0→1の思考力』を養いましょう。",
+          "text_content": "if塾が教える「AIとの共生術」",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-04.png",
+          "image_file": "assets/img/posts/20260521_ai_column-04.png",
+          "overlay_text": "if塾が教える「AIとの共生術」",
+          "subtext": "自律型AI時代に重要なのは「AIに何を任せ、自分は何を決定するか」という判断力。技術に振り回されず、目的を自分で決める『0→1の思考力』を養いましょう。",
+          "alt": "内容3 - if塾が教える「AIとの共生術」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "sub_title": "2026年5月、AIは「指示待ち」から「自律」の時代へ",
+          "text_content": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-01.png",
+          "image_file": "assets/img/posts/20260521_ai_column-01.png",
+          "overlay_text": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+          "subtext": "2026年5月、AIは「指示待ち」から「自律」の時代へ",
+          "alt": "表紙 - Google I/O 2026速報！新モ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使いこなす」はもう古い？",
+          "sub_title": "これまではプロンプトの工夫が必要でしたが、2026年最新のAIは、私たちが寝ている間に勝手にタスクを完了させる『自律型』へ進化しました。",
+          "text_content": "「AIを使いこなす」はもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-02.png",
+          "image_file": "assets/img/posts/20260521_ai_column-02.png",
+          "overlay_text": "「AIを使いこなす」はもう古い？",
+          "subtext": "これまではプロンプトの工夫が必要でしたが、2026年最新のAIは、私たちが寝ている間に勝手にタスクを完了させる『自律型』へ進化しました。",
+          "alt": "内容1 - 「AIを使いこなす」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "爆速の3.5 Flashと、動くAI『Spark』",
+          "sub_title": "スマホで一瞬で動く3.5 Flashに加え、Gemini Sparkはカレンダー、メール、学習進度を分析し、最適なスケジュールを勝手に組んで実行まで行います。",
+          "text_content": "爆速の3.5 Flashと、動くAI『Spark』",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-03.png",
+          "image_file": "assets/img/posts/20260521_ai_column-03.png",
+          "overlay_text": "爆速の3.5 Flashと、動くAI『Spark』",
+          "subtext": "スマホで一瞬で動く3.5 Flashに加え、Gemini Sparkはカレンダー、メール、学習進度を分析し、最適なスケジュールを勝手に組んで実行まで行います。",
+          "alt": "内容2 - 爆速の3.5 Flashと、動くAI『S"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える「AIとの共生術」",
+          "sub_title": "自律型AI時代に重要なのは「AIに何を任せ、自分は何を決定するか」という判断力。技術に振り回されず、目的を自分で決める『0→1の思考力』を養いましょう。",
+          "text_content": "if塾が教える「AIとの共生術」",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260521_ai_column-04.png",
+          "image_file": "assets/img/posts/20260521_ai_column-04.png",
+          "overlay_text": "if塾が教える「AIとの共生術」",
+          "subtext": "自律型AI時代に重要なのは「AIに何を任せ、自分は何を決定するか」という判断力。技術に振り回されず、目的を自分で決める『0→1の思考力』を養いましょう。",
+          "alt": "内容3 - if塾が教える「AIとの共生術」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260521_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260521_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260521_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260521_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-21T12:37:48",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "Google I/O 2026速報！新モ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "Google I/O 2026速報！新モデルGemini 3.5 Flash & 自律型AI『Spark』誕生",
+            "subtext": "2026年5月、AIは「指示待ち」から「自律」の時代へ",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使いこなす」はもう古い？",
+            "subtext": "これまではプロンプトの工夫が必要でしたが、2026年最新のAIは、私たちが寝ている間に勝手にタスクを完了させる『自律型』へ進化しました。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "爆速の3.5 Flashと、動くAI『Spark』",
+            "subtext": "スマホで一瞬で動く3.5 Flashに加え、Gemini Sparkはカレンダー、メール、学習進度を分析し、最適なスケジュールを勝手に組んで実行まで行います。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える「AIとの共生術」",
+            "subtext": "自律型AI時代に重要なのは「AIに何を任せ、自分は何を決定するか」という判断力。技術に振り回されず、目的を自分で決める『0→1の思考力』を養いましょう。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260520_development",
       "post_id": "20260520_development",
