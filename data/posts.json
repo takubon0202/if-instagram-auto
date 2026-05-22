@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 134,
-    "last_updated": "2026-05-21T23:17:34.851589",
+    "total_posts": 135,
+    "last_updated": "2026-05-22T12:37:59.893042",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260522_business",
+      "post_id": "20260522_business",
+      "created_at": "2026-05-22T12:37:59",
+      "datetime": "2026-05-22T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+      "target_audience": "Students & Parents",
+      "title": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+      "caption": "【2026年5月】最新の副業トレンドを解説！\n\n「AIを使えば誰でも稼げる」という時代は終わりました。\n2026年の今、LINEスタンプ市場はAIによる大量生産品で溢れかえっています。\n\n今、保護者や学生の皆さんが意識すべきなのは\n「量」ではなく「質の高い感情設計」です。\n\n最新の動画生成AIを駆使しつつ、\nif塾が得意とする「ターゲットの悩み解決」という\n本質的なマーケティング視点を持つことが、\nこのレッドオーシャンを勝ち抜く唯一の方法です。\n\n最新ツールをどう使いこなすか？\n詳細はスワイプしてチェック！",
+      "caption_text": "【2026年5月】最新の副業トレンドを解説！\n\n「AIを使えば誰でも稼げる」という時代は終わりました。\n2026年の今、LINEスタンプ市場はAIによる大量生産品で溢れかえっています。\n\n今、保護者や学生の皆さんが意識すべきなのは\n「量」ではなく「質の高い感情設計」です。\n\n最新の動画生成AIを駆使しつつ、\nif塾が得意とする「ターゲットの悩み解決」という\n本質的なマーケティング視点を持つことが、\nこのレッドオーシャンを勝ち抜く唯一の方法です。\n\n最新ツールをどう使いこなすか？\n詳細はスワイプしてチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#LINEスタンプ",
+        "#AI副業",
+        "#動画生成AI",
+        "#差別化戦略",
+        "#キャリア教育",
+        "#最新トレンド"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "sub_title": "5月版：飽和した市場で生き残る差別化戦略",
+          "text_content": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-01.png",
+          "image_file": "assets/img/posts/20260522_business-01.png",
+          "overlay_text": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "subtext": "5月版：飽和した市場で生き残る差別化戦略",
+          "alt": "表紙 - AIスタンプ副業はもう稼げない？2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIで量産」はもう古い？",
+          "sub_title": "2026年現在、生成AIの普及でLINEスタンプ市場は超レッドオーシャン化。ただ作るだけでは、学生の小遣い稼ぎにもならない厳しい現実に直面しています。",
+          "text_content": "「AIで量産」はもう古い？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-02.png",
+          "image_file": "assets/img/posts/20260522_business-02.png",
+          "overlay_text": "「AIで量産」はもう古い？",
+          "subtext": "2026年現在、生成AIの普及でLINEスタンプ市場は超レッドオーシャン化。ただ作るだけでは、学生の小遣い稼ぎにもならない厳しい現実に直面しています。",
+          "alt": "内容1 - 「AIで量産」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『動画生成AI』をフル活用せよ",
+          "sub_title": "静止画スタンプは供給過多。最新の「Luma Dream Machine 3.0」等の技術で、感情表現豊かなアニメーションスタンプを生成することが2026年5月のトレンドです。",
+          "text_content": "『動画生成AI』をフル活用せよ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-03.png",
+          "image_file": "assets/img/posts/20260522_business-03.png",
+          "overlay_text": "『動画生成AI』をフル活用せよ",
+          "subtext": "静止画スタンプは供給過多。最新の「Luma Dream Machine 3.0」等の技術で、感情表現豊かなアニメーションスタンプを生成することが2026年5月のトレンドです。",
+          "alt": "内容2 - 『動画生成AI』をフル活用せよ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「誰が使うか」を徹底的に絞り込む",
+          "sub_title": "if塾が教える成功の秘訣は『コンテクスト設計』。汎用的な「おはよう」ではなく、特定の部活動や受験生の悩みなど、ニッチな感情に寄り添う設計が必須です。",
+          "text_content": "「誰が使うか」を徹底的に絞り込む",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-04.png",
+          "image_file": "assets/img/posts/20260522_business-04.png",
+          "overlay_text": "「誰が使うか」を徹底的に絞り込む",
+          "subtext": "if塾が教える成功の秘訣は『コンテクスト設計』。汎用的な「おはよう」ではなく、特定の部活動や受験生の悩みなど、ニッチな感情に寄り添う設計が必須です。",
+          "alt": "内容3 - 「誰が使うか」を徹底的に絞り込む"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "sub_title": "5月版：飽和した市場で生き残る差別化戦略",
+          "text_content": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-01.png",
+          "image_file": "assets/img/posts/20260522_business-01.png",
+          "overlay_text": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+          "subtext": "5月版：飽和した市場で生き残る差別化戦略",
+          "alt": "表紙 - AIスタンプ副業はもう稼げない？2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIで量産」はもう古い？",
+          "sub_title": "2026年現在、生成AIの普及でLINEスタンプ市場は超レッドオーシャン化。ただ作るだけでは、学生の小遣い稼ぎにもならない厳しい現実に直面しています。",
+          "text_content": "「AIで量産」はもう古い？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-02.png",
+          "image_file": "assets/img/posts/20260522_business-02.png",
+          "overlay_text": "「AIで量産」はもう古い？",
+          "subtext": "2026年現在、生成AIの普及でLINEスタンプ市場は超レッドオーシャン化。ただ作るだけでは、学生の小遣い稼ぎにもならない厳しい現実に直面しています。",
+          "alt": "内容1 - 「AIで量産」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『動画生成AI』をフル活用せよ",
+          "sub_title": "静止画スタンプは供給過多。最新の「Luma Dream Machine 3.0」等の技術で、感情表現豊かなアニメーションスタンプを生成することが2026年5月のトレンドです。",
+          "text_content": "『動画生成AI』をフル活用せよ",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-03.png",
+          "image_file": "assets/img/posts/20260522_business-03.png",
+          "overlay_text": "『動画生成AI』をフル活用せよ",
+          "subtext": "静止画スタンプは供給過多。最新の「Luma Dream Machine 3.0」等の技術で、感情表現豊かなアニメーションスタンプを生成することが2026年5月のトレンドです。",
+          "alt": "内容2 - 『動画生成AI』をフル活用せよ"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「誰が使うか」を徹底的に絞り込む",
+          "sub_title": "if塾が教える成功の秘訣は『コンテクスト設計』。汎用的な「おはよう」ではなく、特定の部活動や受験生の悩みなど、ニッチな感情に寄り添う設計が必須です。",
+          "text_content": "「誰が使うか」を徹底的に絞り込む",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260522_business-04.png",
+          "image_file": "assets/img/posts/20260522_business-04.png",
+          "overlay_text": "「誰が使うか」を徹底的に絞り込む",
+          "subtext": "if塾が教える成功の秘訣は『コンテクスト設計』。汎用的な「おはよう」ではなく、特定の部活動や受験生の悩みなど、ニッチな感情に寄り添う設計が必須です。",
+          "alt": "内容3 - 「誰が使うか」を徹底的に絞り込む"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260522_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260522_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260522_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260522_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-22T12:36:30",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIスタンプ副業はもう稼げない？2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIスタンプ副業はもう稼げない？2026年最新の勝ち筋",
+            "subtext": "5月版：飽和した市場で生き残る差別化戦略",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIで量産」はもう古い？",
+            "subtext": "2026年現在、生成AIの普及でLINEスタンプ市場は超レッドオーシャン化。ただ作るだけでは、学生の小遣い稼ぎにもならない厳しい現実に直面しています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "『動画生成AI』をフル活用せよ",
+            "subtext": "静止画スタンプは供給過多。最新の「Luma Dream Machine 3.0」等の技術で、感情表現豊かなアニメーションスタンプを生成することが2026年5月のトレンドです。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「誰が使うか」を徹底的に絞り込む",
+            "subtext": "if塾が教える成功の秘訣は『コンテクスト設計』。汎用的な「おはよう」ではなく、特定の部活動や受験生の悩みなど、ニッチな感情に寄り添う設計が必須です。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260521_ai_column",
       "post_id": "20260521_ai_column",
