@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 135,
-    "last_updated": "2026-05-22T22:35:30.096862",
+    "total_posts": 136,
+    "last_updated": "2026-05-23T11:55:09.733493",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260523_activity",
+      "post_id": "20260523_activity",
+      "created_at": "2026-05-23T11:55:09",
+      "datetime": "2026-05-23T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+      "target_audience": "Students & Parents",
+      "title": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+      "caption": "【2026年5月】最新の教育現場をお届けします！\n\n今、中高生のクリエイティブは異次元のスピードに突入しています。\n本日開催したif塾のハッカソンでは、参加者全員が90分以内にオリジナルゲームを完成させました。\n\n活用したのは、Geminiなどの最新API。\n数年前なら「構文エラー」で止まっていた時間が、今は「より面白いアイデアを形にする」クリエイティブな対話の時間に変わっています。\n\nもはや、AIを使えるのは当たり前。\nその先の「自分にしか作れない価値」をどう生み出すか？\nif塾は、2026年の最先端を行く学びの場をこれからも提供し続けます。\n\nあなたの「作りたい」を、今すぐ形にしてみませんか？\n\n詳細・体験会のお申し込みはプロフィールリンクから！",
+      "caption_text": "【2026年5月】最新の教育現場をお届けします！\n\n今、中高生のクリエイティブは異次元のスピードに突入しています。\n本日開催したif塾のハッカソンでは、参加者全員が90分以内にオリジナルゲームを完成させました。\n\n活用したのは、Geminiなどの最新API。\n数年前なら「構文エラー」で止まっていた時間が、今は「より面白いアイデアを形にする」クリエイティブな対話の時間に変わっています。\n\nもはや、AIを使えるのは当たり前。\nその先の「自分にしか作れない価値」をどう生み出すか？\nif塾は、2026年の最先端を行く学びの場をこれからも提供し続けます。\n\nあなたの「作りたい」を、今すぐ形にしてみませんか？\n\n詳細・体験会のお申し込みはプロフィールリンクから！",
+      "hashtags": [
+        "if塾",
+        "2026年5月",
+        "生成AIハッカソン",
+        "Gemini",
+        "中高生プログラミング",
+        "教育の未来",
+        "AI共創",
+        "探究学習"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "sub_title": "2026年5月最新｜if塾・活動報告",
+          "text_content": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-01.png",
+          "image_file": "assets/img/posts/20260523_activity-01.png",
+          "overlay_text": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "subtext": "2026年5月最新｜if塾・活動報告",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "sub_title": "かつては数ヶ月かかったゲーム制作。今の10代はGemini 1.5 ProのAPIを使いこなし、週末の90分で「遊べるクオリティ」まで作り上げます。",
+          "text_content": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-02.png",
+          "image_file": "assets/img/posts/20260523_activity-02.png",
+          "overlay_text": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "subtext": "かつては数ヶ月かかったゲーム制作。今の10代はGemini 1.5 ProのAPIを使いこなし、週末の90分で「遊べるクオリティ」まで作り上げます。",
+          "alt": "内容1 - 「やりたい」がすぐ形になる時代。もうプロ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "sub_title": "最新のマルチモーダルAIにより、手描きのラフ画からコードを生成。生徒たちはエラーに悩む時間ではなく、面白いギミックを考える時間に没頭しています。",
+          "text_content": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-03.png",
+          "image_file": "assets/img/posts/20260523_activity-03.png",
+          "overlay_text": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "subtext": "最新のマルチモーダルAIにより、手描きのラフ画からコードを生成。生徒たちはエラーに悩む時間ではなく、面白いギミックを考える時間に没頭しています。",
+          "alt": "内容2 - AIは「調べる道具」から「共創する相棒」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "sub_title": "if塾ではAIを単なる効率化ツールではなく、思考の拡張として捉えています。技術がコモディティ化した2026年こそ、個人の『創造的意図』が価値を持ちます。",
+          "text_content": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-04.png",
+          "image_file": "assets/img/posts/20260523_activity-04.png",
+          "overlay_text": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "subtext": "if塾ではAIを単なる効率化ツールではなく、思考の拡張として捉えています。技術がコモディティ化した2026年こそ、個人の『創造的意図』が価値を持ちます。",
+          "alt": "内容3 - 大切なのは「プロンプト」より「何を解決し"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "sub_title": "2026年5月最新｜if塾・活動報告",
+          "text_content": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-01.png",
+          "image_file": "assets/img/posts/20260523_activity-01.png",
+          "overlay_text": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+          "subtext": "2026年5月最新｜if塾・活動報告",
+          "alt": "表紙 - 中高生が90分でゲーム開発！？2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "sub_title": "かつては数ヶ月かかったゲーム制作。今の10代はGemini 1.5 ProのAPIを使いこなし、週末の90分で「遊べるクオリティ」まで作り上げます。",
+          "text_content": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-02.png",
+          "image_file": "assets/img/posts/20260523_activity-02.png",
+          "overlay_text": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+          "subtext": "かつては数ヶ月かかったゲーム制作。今の10代はGemini 1.5 ProのAPIを使いこなし、週末の90分で「遊べるクオリティ」まで作り上げます。",
+          "alt": "内容1 - 「やりたい」がすぐ形になる時代。もうプロ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "sub_title": "最新のマルチモーダルAIにより、手描きのラフ画からコードを生成。生徒たちはエラーに悩む時間ではなく、面白いギミックを考える時間に没頭しています。",
+          "text_content": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-03.png",
+          "image_file": "assets/img/posts/20260523_activity-03.png",
+          "overlay_text": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+          "subtext": "最新のマルチモーダルAIにより、手描きのラフ画からコードを生成。生徒たちはエラーに悩む時間ではなく、面白いギミックを考える時間に没頭しています。",
+          "alt": "内容2 - AIは「調べる道具」から「共創する相棒」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "sub_title": "if塾ではAIを単なる効率化ツールではなく、思考の拡張として捉えています。技術がコモディティ化した2026年こそ、個人の『創造的意図』が価値を持ちます。",
+          "text_content": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260523_activity-04.png",
+          "image_file": "assets/img/posts/20260523_activity-04.png",
+          "overlay_text": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+          "subtext": "if塾ではAIを単なる効率化ツールではなく、思考の拡張として捉えています。技術がコモディティ化した2026年こそ、個人の『創造的意図』が価値を持ちます。",
+          "alt": "内容3 - 大切なのは「プロンプト」より「何を解決し"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260523_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260523_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260523_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260523_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-23T11:53:45",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が90分でゲーム開発！？2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が90分でゲーム開発！？2026年、生成AIハッカソンの日常。",
+            "subtext": "2026年5月最新｜if塾・活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」がすぐ形になる時代。もうプログラミングで挫折しない。",
+            "subtext": "かつては数ヶ月かかったゲーム制作。今の10代はGemini 1.5 ProのAPIを使いこなし、週末の90分で「遊べるクオリティ」まで作り上げます。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIは「調べる道具」から「共創する相棒」へ進化した。",
+            "subtext": "最新のマルチモーダルAIにより、手描きのラフ画からコードを生成。生徒たちはエラーに悩む時間ではなく、面白いギミックを考える時間に没頭しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「プロンプト」より「何を解決したいか」という問い。",
+            "subtext": "if塾ではAIを単なる効率化ツールではなく、思考の拡張として捉えています。技術がコモディティ化した2026年こそ、個人の『創造的意図』が価値を持ちます。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260522_business",
       "post_id": "20260522_business",
