@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 136,
-    "last_updated": "2026-05-23T21:03:58.951648",
+    "total_posts": 137,
+    "last_updated": "2026-05-24T12:34:33.749602",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260524_activity",
+      "post_id": "20260524_activity",
+      "created_at": "2026-05-24T12:34:33",
+      "datetime": "2026-05-24T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "コードを書かないプログラミング授業？",
+      "target_audience": "Students & Parents",
+      "title": "コードを書かないプログラミング授業？",
+      "caption": "【2026年5月】最新の活動報告です！\n\nプログラミング教育の常識が、今まさに塗り替えられています。\n\n2026年現在、AIによるコード生成は当たり前。if塾の生徒たちが今取り組んでいるのは、単なる記述スキルの習得ではありません。\n\n「いかにAIに意図を伝え、導き出された答えの真偽を見極めるか」\n\nこの『プロンプト設計力』と『論理的検証力』こそが、これからの時代を生き抜く武器になります。今日の授業でも、生徒たちの鋭い検証の視点に驚かされる場面がたくさんありました！\n\nAIを魔法の杖にするのは、あなた自身の思考力です。if塾で、未来のスタンダードを一緒に学びませんか？\n\n詳細はプロフィール欄のリンクから。質問はDMでも受付中です！",
+      "caption_text": "【2026年5月】最新の活動報告です！\n\nプログラミング教育の常識が、今まさに塗り替えられています。\n\n2026年現在、AIによるコード生成は当たり前。if塾の生徒たちが今取り組んでいるのは、単なる記述スキルの習得ではありません。\n\n「いかにAIに意図を伝え、導き出された答えの真偽を見極めるか」\n\nこの『プロンプト設計力』と『論理的検証力』こそが、これからの時代を生き抜く武器になります。今日の授業でも、生徒たちの鋭い検証の視点に驚かされる場面がたくさんありました！\n\nAIを魔法の杖にするのは、あなた自身の思考力です。if塾で、未来のスタンダードを一緒に学びませんか？\n\n詳細はプロフィール欄のリンクから。質問はDMでも受付中です！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#プログラミング教育",
+        "#生成AI",
+        "#プロンプトエンジニアリング",
+        "#論理的思考",
+        "#中高生プログラミング",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かないプログラミング授業？",
+          "sub_title": "2026年5月最新：AI共創時代の学び方",
+          "text_content": "コードを書かないプログラミング授業？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-01.png",
+          "image_file": "assets/img/posts/20260524_activity-01.png",
+          "overlay_text": "コードを書かないプログラミング授業？",
+          "subtext": "2026年5月最新：AI共創時代の学び方",
+          "alt": "表紙 - コードを書かないプログラミング授業？"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「正解」が数秒で出る時代、何を目指す？",
+          "sub_title": "2026年、AIの精度は極まり、単なるコード記述のスキルはもはや『前提』となりました。今、生徒たちが直面しているのは「AIが出した答えが本当に正しいか？」という壁です。",
+          "text_content": "「正解」が数秒で出る時代、何を目指す？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-02.png",
+          "image_file": "assets/img/posts/20260524_activity-02.png",
+          "overlay_text": "「正解」が数秒で出る時代、何を目指す？",
+          "subtext": "2026年、AIの精度は極まり、単なるコード記述のスキルはもはや『前提』となりました。今、生徒たちが直面しているのは「AIが出した答えが本当に正しいか？」という壁です。",
+          "alt": "内容1 - 「正解」が数秒で出る時代、何を目指す？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "プロンプトは「対話」。多角的な検証力が武器に",
+          "sub_title": "今日の授業では、マルチモーダルAIを活用したアプリ開発を実施。生徒たちはコードを書く手ではなく、AIへの指示を言語化し、出力されたロジックの脆弱性を検証する眼を養っています。",
+          "text_content": "プロンプトは「対話」。多角的な検証力が武器に",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-03.png",
+          "image_file": "assets/img/posts/20260524_activity-03.png",
+          "overlay_text": "プロンプトは「対話」。多角的な検証力が武器に",
+          "subtext": "今日の授業では、マルチモーダルAIを活用したアプリ開発を実施。生徒たちはコードを書く手ではなく、AIへの指示を言語化し、出力されたロジックの脆弱性を検証する眼を養っています。",
+          "alt": "内容2 - プロンプトは「対話」。多角的な検証力が武"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『道具』から『相棒』へ",
+          "sub_title": "私たちは「指示（プロンプト）の精度」と「結果の検証力」を最重視したカリキュラムへシフトしました。AIに使われるのではなく、AIを使いこなし価値を創造する力を5月のこの時期に徹底して伝えています。",
+          "text_content": "if塾の視点：AIを『道具』から『相棒』へ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-04.png",
+          "image_file": "assets/img/posts/20260524_activity-04.png",
+          "overlay_text": "if塾の視点：AIを『道具』から『相棒』へ",
+          "subtext": "私たちは「指示（プロンプト）の精度」と「結果の検証力」を最重視したカリキュラムへシフトしました。AIに使われるのではなく、AIを使いこなし価値を創造する力を5月のこの時期に徹底して伝えています。",
+          "alt": "内容3 - if塾の視点：AIを『道具』から『相棒』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かないプログラミング授業？",
+          "sub_title": "2026年5月最新：AI共創時代の学び方",
+          "text_content": "コードを書かないプログラミング授業？",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-01.png",
+          "image_file": "assets/img/posts/20260524_activity-01.png",
+          "overlay_text": "コードを書かないプログラミング授業？",
+          "subtext": "2026年5月最新：AI共創時代の学び方",
+          "alt": "表紙 - コードを書かないプログラミング授業？"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「正解」が数秒で出る時代、何を目指す？",
+          "sub_title": "2026年、AIの精度は極まり、単なるコード記述のスキルはもはや『前提』となりました。今、生徒たちが直面しているのは「AIが出した答えが本当に正しいか？」という壁です。",
+          "text_content": "「正解」が数秒で出る時代、何を目指す？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-02.png",
+          "image_file": "assets/img/posts/20260524_activity-02.png",
+          "overlay_text": "「正解」が数秒で出る時代、何を目指す？",
+          "subtext": "2026年、AIの精度は極まり、単なるコード記述のスキルはもはや『前提』となりました。今、生徒たちが直面しているのは「AIが出した答えが本当に正しいか？」という壁です。",
+          "alt": "内容1 - 「正解」が数秒で出る時代、何を目指す？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "プロンプトは「対話」。多角的な検証力が武器に",
+          "sub_title": "今日の授業では、マルチモーダルAIを活用したアプリ開発を実施。生徒たちはコードを書く手ではなく、AIへの指示を言語化し、出力されたロジックの脆弱性を検証する眼を養っています。",
+          "text_content": "プロンプトは「対話」。多角的な検証力が武器に",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-03.png",
+          "image_file": "assets/img/posts/20260524_activity-03.png",
+          "overlay_text": "プロンプトは「対話」。多角的な検証力が武器に",
+          "subtext": "今日の授業では、マルチモーダルAIを活用したアプリ開発を実施。生徒たちはコードを書く手ではなく、AIへの指示を言語化し、出力されたロジックの脆弱性を検証する眼を養っています。",
+          "alt": "内容2 - プロンプトは「対話」。多角的な検証力が武"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを『道具』から『相棒』へ",
+          "sub_title": "私たちは「指示（プロンプト）の精度」と「結果の検証力」を最重視したカリキュラムへシフトしました。AIに使われるのではなく、AIを使いこなし価値を創造する力を5月のこの時期に徹底して伝えています。",
+          "text_content": "if塾の視点：AIを『道具』から『相棒』へ",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260524_activity-04.png",
+          "image_file": "assets/img/posts/20260524_activity-04.png",
+          "overlay_text": "if塾の視点：AIを『道具』から『相棒』へ",
+          "subtext": "私たちは「指示（プロンプト）の精度」と「結果の検証力」を最重視したカリキュラムへシフトしました。AIに使われるのではなく、AIを使いこなし価値を創造する力を5月のこの時期に徹底して伝えています。",
+          "alt": "内容3 - if塾の視点：AIを『道具』から『相棒』"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260524_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260524_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260524_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260524_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-24T12:33:06",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コードを書かないプログラミング授業？",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コードを書かないプログラミング授業？",
+            "subtext": "2026年5月最新：AI共創時代の学び方",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「正解」が数秒で出る時代、何を目指す？",
+            "subtext": "2026年、AIの精度は極まり、単なるコード記述のスキルはもはや『前提』となりました。今、生徒たちが直面しているのは「AIが出した答えが本当に正しいか？」という壁です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "プロンプトは「対話」。多角的な検証力が武器に",
+            "subtext": "今日の授業では、マルチモーダルAIを活用したアプリ開発を実施。生徒たちはコードを書く手ではなく、AIへの指示を言語化し、出力されたロジックの脆弱性を検証する眼を養っています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIを『道具』から『相棒』へ",
+            "subtext": "私たちは「指示（プロンプト）の精度」と「結果の検証力」を最重視したカリキュラムへシフトしました。AIに使われるのではなく、AIを使いこなし価値を創造する力を5月のこの時期に徹底して伝えています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260523_activity",
       "post_id": "20260523_activity",
