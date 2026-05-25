@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 137,
-    "last_updated": "2026-05-24T21:05:50.644951",
+    "total_posts": 138,
+    "last_updated": "2026-05-25T12:45:32.705036",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260525_announcement",
+      "post_id": "20260525_announcement",
+      "created_at": "2026-05-25T12:45:32",
+      "datetime": "2026-05-25T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+      "target_audience": "Students & Parents",
+      "title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+      "caption": "【2026年5月】最新の教育トレンドをお届けします！\n\n「AIを使ったらズルになる」という時代は完全に終わりました。\n2026年の今、求められているのはAIを「カンニングツール」ではなく「思考を深める相棒」として使いこなす力です。\n\n今月、多くの学校でAIとの協働を前提とした新しい評価基準が発表されました。\nif塾では、この変化をいち早く捉え、AIを使いこなしながら自分の頭で考える力を育むカリキュラムを強化しています。\n\n最新のAI学習メソッドについて詳しく知りたい方は、プロフィールのリンクから詳細をチェック！\n\n#if塾 #2026年 #生成AI #教育改革 #ChatGPT #Claude #Gemini #デジタル教育 #AI教育 #個別指導",
+      "caption_text": "【2026年5月】最新の教育トレンドをお届けします！\n\n「AIを使ったらズルになる」という時代は完全に終わりました。\n2026年の今、求められているのはAIを「カンニングツール」ではなく「思考を深める相棒」として使いこなす力です。\n\n今月、多くの学校でAIとの協働を前提とした新しい評価基準が発表されました。\nif塾では、この変化をいち早く捉え、AIを使いこなしながら自分の頭で考える力を育むカリキュラムを強化しています。\n\n最新のAI学習メソッドについて詳しく知りたい方は、プロフィールのリンクから詳細をチェック！\n\n#if塾 #2026年 #生成AI #教育改革 #ChatGPT #Claude #Gemini #デジタル教育 #AI教育 #個別指導",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#教育トレンド",
+        "#AI協働",
+        "#リスキリング"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "sub_title": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+          "text_content": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-01.png",
+          "image_file": "assets/img/posts/20260525_announcement-01.png",
+          "overlay_text": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+          "alt": "表紙 - AIと「共創」が当たり前！2026年、教"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AI禁止」から「AI前提」の時代へ",
+          "sub_title": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+          "text_content": "「AI禁止」から「AI前提」の時代へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-02.png",
+          "image_file": "assets/img/posts/20260525_announcement-02.png",
+          "overlay_text": "「AI禁止」から「AI前提」の時代へ",
+          "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+          "alt": "内容1 - 「AI禁止」から「AI前提」の時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "新カリキュラム「AI協働学習」の一般化",
+          "sub_title": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+          "text_content": "新カリキュラム「AI協働学習」の一般化",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-03.png",
+          "image_file": "assets/img/posts/20260525_announcement-03.png",
+          "overlay_text": "新カリキュラム「AI協働学習」の一般化",
+          "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+          "alt": "内容2 - 新カリキュラム「AI協働学習」の一般化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AI時代の思考力」",
+          "sub_title": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+          "text_content": "if塾が提案する「AI時代の思考力」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-04.png",
+          "image_file": "assets/img/posts/20260525_announcement-04.png",
+          "overlay_text": "if塾が提案する「AI時代の思考力」",
+          "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+          "alt": "内容3 - if塾が提案する「AI時代の思考力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "sub_title": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+          "text_content": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-01.png",
+          "image_file": "assets/img/posts/20260525_announcement-01.png",
+          "overlay_text": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+          "alt": "表紙 - AIと「共創」が当たり前！2026年、教"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AI禁止」から「AI前提」の時代へ",
+          "sub_title": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+          "text_content": "「AI禁止」から「AI前提」の時代へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-02.png",
+          "image_file": "assets/img/posts/20260525_announcement-02.png",
+          "overlay_text": "「AI禁止」から「AI前提」の時代へ",
+          "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+          "alt": "内容1 - 「AI禁止」から「AI前提」の時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "新カリキュラム「AI協働学習」の一般化",
+          "sub_title": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+          "text_content": "新カリキュラム「AI協働学習」の一般化",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-03.png",
+          "image_file": "assets/img/posts/20260525_announcement-03.png",
+          "overlay_text": "新カリキュラム「AI協働学習」の一般化",
+          "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+          "alt": "内容2 - 新カリキュラム「AI協働学習」の一般化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AI時代の思考力」",
+          "sub_title": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+          "text_content": "if塾が提案する「AI時代の思考力」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260525_announcement-04.png",
+          "image_file": "assets/img/posts/20260525_announcement-04.png",
+          "overlay_text": "if塾が提案する「AI時代の思考力」",
+          "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+          "alt": "内容3 - if塾が提案する「AI時代の思考力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260525_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260525_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260525_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260525_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-25T12:44:08",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIと「共創」が当たり前！2026年、教",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+            "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AI禁止」から「AI前提」の時代へ",
+            "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "新カリキュラム「AI協働学習」の一般化",
+            "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する「AI時代の思考力」",
+            "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260524_activity",
       "post_id": "20260524_activity",
