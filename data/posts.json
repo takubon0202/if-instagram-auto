@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 138,
-    "last_updated": "2026-05-25T12:45:32.705036",
+    "last_updated": "2026-05-25T17:07:21.229598",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,23 @@
     {
       "id": "20260525_announcement",
       "post_id": "20260525_announcement",
-      "created_at": "2026-05-25T12:45:32",
+      "created_at": "2026-05-25T17:07:21",
       "datetime": "2026-05-25T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+      "theme": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
       "target_audience": "Students & Parents",
-      "title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-      "caption": "【2026年5月】最新の教育トレンドをお届けします！\n\n「AIを使ったらズルになる」という時代は完全に終わりました。\n2026年の今、求められているのはAIを「カンニングツール」ではなく「思考を深める相棒」として使いこなす力です。\n\n今月、多くの学校でAIとの協働を前提とした新しい評価基準が発表されました。\nif塾では、この変化をいち早く捉え、AIを使いこなしながら自分の頭で考える力を育むカリキュラムを強化しています。\n\n最新のAI学習メソッドについて詳しく知りたい方は、プロフィールのリンクから詳細をチェック！\n\n#if塾 #2026年 #生成AI #教育改革 #ChatGPT #Claude #Gemini #デジタル教育 #AI教育 #個別指導",
-      "caption_text": "【2026年5月】最新の教育トレンドをお届けします！\n\n「AIを使ったらズルになる」という時代は完全に終わりました。\n2026年の今、求められているのはAIを「カンニングツール」ではなく「思考を深める相棒」として使いこなす力です。\n\n今月、多くの学校でAIとの協働を前提とした新しい評価基準が発表されました。\nif塾では、この変化をいち早く捉え、AIを使いこなしながら自分の頭で考える力を育むカリキュラムを強化しています。\n\n最新のAI学習メソッドについて詳しく知りたい方は、プロフィールのリンクから詳細をチェック！\n\n#if塾 #2026年 #生成AI #教育改革 #ChatGPT #Claude #Gemini #デジタル教育 #AI教育 #個別指導",
+      "title": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+      "caption": "【2026年5月】最新エデュケーション・レポート\n\n「プログラミング＝コードを書くこと」という定義は、2026年の今、過去のものになりつつあります。\n\n生成AIの進化により、私たちの役割は「作業者」から「ディレクター」へと完全にシフトしました。今、子供たちに必要なのは、AIに正確な意図を伝える『プロンプト（指示）』の技術と、AIが出した答えを正しく評価できる審美眼です。\n\nif塾では、この初夏から『AI共創カリキュラム』を完全導入。\n「コードが書けないから作れない」という壁を壊し、誰もがアイデアを形にできる未来を一緒に創りませんか？\n\n詳細はプロフィールのリンクからご確認ください！✨\n\n#if塾 #2026年 #生成AI #プロンプトエンジニアリング #教育の未来 #リスキリング #DX教育 #夏期講習2026",
+      "caption_text": "【2026年5月】最新エデュケーション・レポート\n\n「プログラミング＝コードを書くこと」という定義は、2026年の今、過去のものになりつつあります。\n\n生成AIの進化により、私たちの役割は「作業者」から「ディレクター」へと完全にシフトしました。今、子供たちに必要なのは、AIに正確な意図を伝える『プロンプト（指示）』の技術と、AIが出した答えを正しく評価できる審美眼です。\n\nif塾では、この初夏から『AI共創カリキュラム』を完全導入。\n「コードが書けないから作れない」という壁を壊し、誰もがアイデアを形にできる未来を一緒に創りませんか？\n\n詳細はプロフィールのリンクからご確認ください！✨\n\n#if塾 #2026年 #生成AI #プロンプトエンジニアリング #教育の未来 #リスキリング #DX教育 #夏期講習2026",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#教育トレンド",
-        "#AI協働",
-        "#リスキリング"
+        "#プロンプトエンジニアリング",
+        "#プログラミング教育",
+        "#AI共創",
+        "#DX"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-          "sub_title": "【2026.5.25 最新号】今の学び、遅れていませんか？",
-          "text_content": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "main_title": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+          "sub_title": "2026年5月最新：if塾が提唱するAI共創の未来",
+          "text_content": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-01.png",
           "image_file": "assets/img/posts/20260525_announcement-01.png",
-          "overlay_text": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-          "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
-          "alt": "表紙 - AIと「共創」が当たり前！2026年、教"
+          "overlay_text": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+          "subtext": "2026年5月最新：if塾が提唱するAI共創の未来",
+          "alt": "表紙 - コード不要の時代へ。プロンプトが『主言語"
         },
         {
           "page_number": 2,
@@ -57,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI禁止」から「AI前提」の時代へ",
-          "sub_title": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
-          "text_content": "「AI禁止」から「AI前提」の時代へ",
+          "main_title": "「書く」スキルだけでは、もう通用しない？",
+          "sub_title": "AIが瞬時にコードを生成する今、構文の暗記よりも「何を創りたいか」を言語化する力が必要とされています。6月からの夏期講習を前に、今こそ教育の常識をアップデートしましょう。",
+          "text_content": "「書く」スキルだけでは、もう通用しない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-02.png",
           "image_file": "assets/img/posts/20260525_announcement-02.png",
-          "overlay_text": "「AI禁止」から「AI前提」の時代へ",
-          "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
-          "alt": "内容1 - 「AI禁止」から「AI前提」の時代へ"
+          "overlay_text": "「書く」スキルだけでは、もう通用しない？",
+          "subtext": "AIが瞬時にコードを生成する今、構文の暗記よりも「何を創りたいか」を言語化する力が必要とされています。6月からの夏期講習を前に、今こそ教育の常識をアップデートしましょう。",
+          "alt": "内容1 - 「書く」スキルだけでは、もう通用しない？"
         },
         {
           "page_number": 3,
@@ -73,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "新カリキュラム「AI協働学習」の一般化",
-          "sub_title": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
-          "text_content": "新カリキュラム「AI協働学習」の一般化",
+          "main_title": "プロンプトエンジニアリングを標準カリキュラムへ",
+          "sub_title": "2026年モデルのマルチモーダルAIを駆使し、論理的思考力と意図を伝える『指示力』を養います。AIを道具として使いこなし、わずか数分でプロトタイプを完成させる体験を提供します。",
+          "text_content": "プロンプトエンジニアリングを標準カリキュラムへ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-03.png",
           "image_file": "assets/img/posts/20260525_announcement-03.png",
-          "overlay_text": "新カリキュラム「AI協働学習」の一般化",
-          "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
-          "alt": "内容2 - 新カリキュラム「AI協働学習」の一般化"
+          "overlay_text": "プロンプトエンジニアリングを標準カリキュラムへ",
+          "subtext": "2026年モデルのマルチモーダルAIを駆使し、論理的思考力と意図を伝える『指示力』を養います。AIを道具として使いこなし、わずか数分でプロトタイプを完成させる体験を提供します。",
+          "alt": "内容2 - プロンプトエンジニアリングを標準カリキュ"
         },
         {
           "page_number": 4,
@@ -89,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI時代の思考力」",
-          "sub_title": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
-          "text_content": "if塾が提案する「AI時代の思考力」",
+          "main_title": "if塾の視点：AIと共創する『創造的対話』の習得",
+          "sub_title": "当塾では単なる操作法ではなく、AIの回答を批判的に吟味し、より良い成果へ導くための対話スキルを重視。全国どこからでも参加可能なオンラインワークショップを6月より随時開催します。",
+          "text_content": "if塾の視点：AIと共創する『創造的対話』の習得",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-04.png",
           "image_file": "assets/img/posts/20260525_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI時代の思考力」",
-          "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
-          "alt": "内容3 - if塾が提案する「AI時代の思考力」"
+          "overlay_text": "if塾の視点：AIと共創する『創造的対話』の習得",
+          "subtext": "当塾では単なる操作法ではなく、AIの回答を批判的に吟味し、より良い成果へ導くための対話スキルを重視。全国どこからでも参加可能なオンラインワークショップを6月より随時開催します。",
+          "alt": "内容3 - if塾の視点：AIと共創する『創造的対話"
         },
         {
           "page_number": 5,
@@ -123,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-          "sub_title": "【2026.5.25 最新号】今の学び、遅れていませんか？",
-          "text_content": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
+          "main_title": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+          "sub_title": "2026年5月最新：if塾が提唱するAI共創の未来",
+          "text_content": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-01.png",
           "image_file": "assets/img/posts/20260525_announcement-01.png",
-          "overlay_text": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-          "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
-          "alt": "表紙 - AIと「共創」が当たり前！2026年、教"
+          "overlay_text": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+          "subtext": "2026年5月最新：if塾が提唱するAI共創の未来",
+          "alt": "表紙 - コード不要の時代へ。プロンプトが『主言語"
         },
         {
           "page_number": 2,
@@ -139,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AI禁止」から「AI前提」の時代へ",
-          "sub_title": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
-          "text_content": "「AI禁止」から「AI前提」の時代へ",
+          "main_title": "「書く」スキルだけでは、もう通用しない？",
+          "sub_title": "AIが瞬時にコードを生成する今、構文の暗記よりも「何を創りたいか」を言語化する力が必要とされています。6月からの夏期講習を前に、今こそ教育の常識をアップデートしましょう。",
+          "text_content": "「書く」スキルだけでは、もう通用しない？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-02.png",
           "image_file": "assets/img/posts/20260525_announcement-02.png",
-          "overlay_text": "「AI禁止」から「AI前提」の時代へ",
-          "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
-          "alt": "内容1 - 「AI禁止」から「AI前提」の時代へ"
+          "overlay_text": "「書く」スキルだけでは、もう通用しない？",
+          "subtext": "AIが瞬時にコードを生成する今、構文の暗記よりも「何を創りたいか」を言語化する力が必要とされています。6月からの夏期講習を前に、今こそ教育の常識をアップデートしましょう。",
+          "alt": "内容1 - 「書く」スキルだけでは、もう通用しない？"
         },
         {
           "page_number": 3,
@@ -155,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "新カリキュラム「AI協働学習」の一般化",
-          "sub_title": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
-          "text_content": "新カリキュラム「AI協働学習」の一般化",
+          "main_title": "プロンプトエンジニアリングを標準カリキュラムへ",
+          "sub_title": "2026年モデルのマルチモーダルAIを駆使し、論理的思考力と意図を伝える『指示力』を養います。AIを道具として使いこなし、わずか数分でプロトタイプを完成させる体験を提供します。",
+          "text_content": "プロンプトエンジニアリングを標準カリキュラムへ",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-03.png",
           "image_file": "assets/img/posts/20260525_announcement-03.png",
-          "overlay_text": "新カリキュラム「AI協働学習」の一般化",
-          "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
-          "alt": "内容2 - 新カリキュラム「AI協働学習」の一般化"
+          "overlay_text": "プロンプトエンジニアリングを標準カリキュラムへ",
+          "subtext": "2026年モデルのマルチモーダルAIを駆使し、論理的思考力と意図を伝える『指示力』を養います。AIを道具として使いこなし、わずか数分でプロトタイプを完成させる体験を提供します。",
+          "alt": "内容2 - プロンプトエンジニアリングを標準カリキュ"
         },
         {
           "page_number": 4,
@@ -171,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI時代の思考力」",
-          "sub_title": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
-          "text_content": "if塾が提案する「AI時代の思考力」",
+          "main_title": "if塾の視点：AIと共創する『創造的対話』の習得",
+          "sub_title": "当塾では単なる操作法ではなく、AIの回答を批判的に吟味し、より良い成果へ導くための対話スキルを重視。全国どこからでも参加可能なオンラインワークショップを6月より随時開催します。",
+          "text_content": "if塾の視点：AIと共創する『創造的対話』の習得",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260525_announcement-04.png",
           "image_file": "assets/img/posts/20260525_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI時代の思考力」",
-          "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
-          "alt": "内容3 - if塾が提案する「AI時代の思考力」"
+          "overlay_text": "if塾の視点：AIと共創する『創造的対話』の習得",
+          "subtext": "当塾では単なる操作法ではなく、AIの回答を批判的に吟味し、より良い成果へ導くための対話スキルを重視。全国どこからでも参加可能なオンラインワークショップを6月より随時開催します。",
+          "alt": "内容3 - if塾の視点：AIと共創する『創造的対話"
         },
         {
           "page_number": 5,
@@ -242,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-25T12:44:08",
+      "research_date": "2026-05-25T17:05:44",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIと「共創」が当たり前！2026年、教",
+        "cover_text": "コード不要の時代へ。プロンプトが『主言語",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIと「共創」が当たり前！2026年、教育の常識が激変中",
-            "subtext": "【2026.5.25 最新号】今の学び、遅れていませんか？",
+            "headline": "コード不要の時代へ。プロンプトが『主言語』になる教育の転換点",
+            "subtext": "2026年5月最新：if塾が提唱するAI共創の未来",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -266,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AI禁止」から「AI前提」の時代へ",
-            "subtext": "もはやChatGPTやClaudeは「使うか」ではなく「どう使いこなすか」が評価の基準。学校の宿題もAIとの対話プロセスが重視されています。",
+            "headline": "「書く」スキルだけでは、もう通用しない？",
+            "subtext": "AIが瞬時にコードを生成する今、構文の暗記よりも「何を創りたいか」を言語化する力が必要とされています。6月からの夏期講習を前に、今こそ教育の常識をアップデートしましょう。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -275,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "新カリキュラム「AI協働学習」の一般化",
-            "subtext": "2026年度、多くの学校でAIをパートナーとした課題解決型学習がスタート。Geminiを活用したリアルタイム添削が家庭学習の標準になりました。",
+            "headline": "プロンプトエンジニアリングを標準カリキュラムへ",
+            "subtext": "2026年モデルのマルチモーダルAIを駆使し、論理的思考力と意図を伝える『指示力』を養います。AIを道具として使いこなし、わずか数分でプロトタイプを完成させる体験を提供します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -284,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「AI時代の思考力」",
-            "subtext": "AIが出した答えを鵜呑みにせず、クリティカルに検証する力を養成。if塾では独自のプロンプトエンジニアリング講座を全コースに導入しています。",
+            "headline": "if塾の視点：AIと共創する『創造的対話』の習得",
+            "subtext": "当塾では単なる操作法ではなく、AIの回答を批判的に吟味し、より良い成果へ導くための対話スキルを重視。全国どこからでも参加可能なオンラインワークショップを6月より随時開催します。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
