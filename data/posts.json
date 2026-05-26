@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 138,
-    "last_updated": "2026-05-25T23:14:20.348818",
+    "total_posts": 139,
+    "last_updated": "2026-05-26T12:31:09.807978",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260526_education",
+      "post_id": "20260526_education",
+      "created_at": "2026-05-26T12:31:09",
+      "datetime": "2026-05-26T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+      "target_audience": "Students & Parents",
+      "title": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+      "caption": "【2026年5月】最新の教育ニュースをお届けします！\n\n新課程「情報I」が導入されて2年目。\n昨年度の第1回共通テストを終え、傾向が少しずつ見えてきました。\n\nしかし、油断は禁物です！\n2026年度（2027年1月）の試験では、さらに「論理的思考力」を問う深い問題が増えると予想されています。\n\n「教科書は一通り読んだ」\n「でも模試で点数が伸びない」\n\nそんな受験生の皆さんは、5月の今のうちに「論理のプロセス」を言語化する練習を始めましょう。\n\nif塾では、AI時代を生き抜くための本質的な情報リテラシーを指導しています。\n最新の対策資料はプロフィールのリンクからチェック！\n\n#共通テスト #情報I #2026年度入試 #if塾 #大学受験 #プログラミング教育 #論理的思考力",
+      "caption_text": "【2026年5月】最新の教育ニュースをお届けします！\n\n新課程「情報I」が導入されて2年目。\n昨年度の第1回共通テストを終え、傾向が少しずつ見えてきました。\n\nしかし、油断は禁物です！\n2026年度（2027年1月）の試験では、さらに「論理的思考力」を問う深い問題が増えると予想されています。\n\n「教科書は一通り読んだ」\n「でも模試で点数が伸びない」\n\nそんな受験生の皆さんは、5月の今のうちに「論理のプロセス」を言語化する練習を始めましょう。\n\nif塾では、AI時代を生き抜くための本質的な情報リテラシーを指導しています。\n最新の対策資料はプロフィールのリンクからチェック！\n\n#共通テスト #情報I #2026年度入試 #if塾 #大学受験 #プログラミング教育 #論理的思考力",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#共通テスト",
+        "#情報I",
+        "#大学受験",
+        "#高校生ママ",
+        "#教育コラム"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "sub_title": "2026年5月最新：第2回共通テストへの戦略",
+          "text_content": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-01.png",
+          "image_file": "assets/img/posts/20260526_education-01.png",
+          "overlay_text": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "subtext": "2026年5月最新：第2回共通テストへの戦略",
+          "alt": "表紙 - 共通テスト「情報I」2年目の罠。知識だけ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "sub_title": "浪人生も含めたハイレベルな戦いが予想される2027年1月試験。暗記に頼る勉強法では、新傾向の「応用問題」で足元をすくわれます。",
+          "text_content": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-02.png",
+          "image_file": "assets/img/posts/20260526_education-02.png",
+          "overlay_text": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "subtext": "浪人生も含めたハイレベルな戦いが予想される2027年1月試験。暗記に頼る勉強法では、新傾向の「応用問題」で足元をすくわれます。",
+          "alt": "内容1 - 「過去問が1年分しかない」不安。2年目の"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "sub_title": "2026年度は生成AIツールを前提とした問題の予兆も。プログラムの挙動を脳内でシミュレーションできる「論理の体力」が合否を分けます。",
+          "text_content": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-03.png",
+          "image_file": "assets/img/posts/20260526_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "subtext": "2026年度は生成AIツールを前提とした問題の予兆も。プログラムの挙動を脳内でシミュレーションできる「論理の体力」が合否を分けます。",
+          "alt": "内容2 - if塾の視点：AI時代に求められるのは「"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "sub_title": "夏休み前にプログラミングとデータの活用を完璧に。単なるコードの暗記ではなく「なぜこの処理が必要か」を説明できるまで深掘りしましょう。",
+          "text_content": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-04.png",
+          "image_file": "assets/img/posts/20260526_education-04.png",
+          "overlay_text": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "subtext": "夏休み前にプログラミングとデータの活用を完璧に。単なるコードの暗記ではなく「なぜこの処理が必要か」を説明できるまで深掘りしましょう。",
+          "alt": "内容3 - 5月から始める「未既習範囲」の潰し込みと"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "sub_title": "2026年5月最新：第2回共通テストへの戦略",
+          "text_content": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-01.png",
+          "image_file": "assets/img/posts/20260526_education-01.png",
+          "overlay_text": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+          "subtext": "2026年5月最新：第2回共通テストへの戦略",
+          "alt": "表紙 - 共通テスト「情報I」2年目の罠。知識だけ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "sub_title": "浪人生も含めたハイレベルな戦いが予想される2027年1月試験。暗記に頼る勉強法では、新傾向の「応用問題」で足元をすくわれます。",
+          "text_content": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-02.png",
+          "image_file": "assets/img/posts/20260526_education-02.png",
+          "overlay_text": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+          "subtext": "浪人生も含めたハイレベルな戦いが予想される2027年1月試験。暗記に頼る勉強法では、新傾向の「応用問題」で足元をすくわれます。",
+          "alt": "内容1 - 「過去問が1年分しかない」不安。2年目の"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "sub_title": "2026年度は生成AIツールを前提とした問題の予兆も。プログラムの挙動を脳内でシミュレーションできる「論理の体力」が合否を分けます。",
+          "text_content": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-03.png",
+          "image_file": "assets/img/posts/20260526_education-03.png",
+          "overlay_text": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+          "subtext": "2026年度は生成AIツールを前提とした問題の予兆も。プログラムの挙動を脳内でシミュレーションできる「論理の体力」が合否を分けます。",
+          "alt": "内容2 - if塾の視点：AI時代に求められるのは「"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "sub_title": "夏休み前にプログラミングとデータの活用を完璧に。単なるコードの暗記ではなく「なぜこの処理が必要か」を説明できるまで深掘りしましょう。",
+          "text_content": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260526_education-04.png",
+          "image_file": "assets/img/posts/20260526_education-04.png",
+          "overlay_text": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+          "subtext": "夏休み前にプログラミングとデータの活用を完璧に。単なるコードの暗記ではなく「なぜこの処理が必要か」を説明できるまで深掘りしましょう。",
+          "alt": "内容3 - 5月から始める「未既習範囲」の潰し込みと"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260526_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260526_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260526_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260526_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-26T12:29:44",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "共通テスト「情報I」2年目の罠。知識だけ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "共通テスト「情報I」2年目の罠。知識だけではもう通じない？",
+            "subtext": "2026年5月最新：第2回共通テストへの戦略",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「過去問が1年分しかない」不安。2年目の難化傾向をどう乗り切る？",
+            "subtext": "浪人生も含めたハイレベルな戦いが予想される2027年1月試験。暗記に頼る勉強法では、新傾向の「応用問題」で足元をすくわれます。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾の視点：AI時代に求められるのは「論理的思考（アルゴリズム）」の言語化",
+            "subtext": "2026年度は生成AIツールを前提とした問題の予兆も。プログラムの挙動を脳内でシミュレーションできる「論理の体力」が合否を分けます。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "5月から始める「未既習範囲」の潰し込みと、Python的思考の定着",
+            "subtext": "夏休み前にプログラミングとデータの活用を完璧に。単なるコードの暗記ではなく「なぜこの処理が必要か」を説明できるまで深掘りしましょう。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260525_announcement",
       "post_id": "20260525_announcement",
