@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 141,
-    "last_updated": "2026-05-28T16:10:05.330476",
+    "last_updated": "2026-05-28T23:42:14.418970",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,25 @@
     {
       "id": "20260528_ai_column",
       "post_id": "20260528_ai_column",
-      "created_at": "2026-05-28T16:10:05",
+      "created_at": "2026-05-28T23:42:14",
       "datetime": "2026-05-28T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "GPT-5.5が変えた「勉強しない」勉強法",
+      "theme": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
       "target_audience": "Students & Parents",
-      "title": "GPT-5.5が変えた「勉強しない」勉強法",
-      "caption": "【2026年5月】最新AIトレンドを解説！\n\nついにGPT-5.5が普及し、学習の常識が塗り替えられています。\nこれまでは「AIに聞く」ことが主流でしたが、これからは「AIが勝手に進めてくれる」時代です。\n\n2026年の今、学生に求められているのは、\n知識を覚えることではなく、AIエージェントに的確な指示を出し、\n自律的に学びをマネジメントする能力です。\n\n「AIに丸投げ」で終わらせない、\nif塾流の「AI共生型学習」について詳しく解説します。\n\n詳細は投稿をチェック！\n最新のAI教育情報を見逃したくない方はフォローをお願いします✨\n\n#if塾 #2026年 #AI教育 #GPT5 #AIエージェント #自律的学習 #最新技術",
-      "caption_text": "【2026年5月】最新AIトレンドを解説！\n\nついにGPT-5.5が普及し、学習の常識が塗り替えられています。\nこれまでは「AIに聞く」ことが主流でしたが、これからは「AIが勝手に進めてくれる」時代です。\n\n2026年の今、学生に求められているのは、\n知識を覚えることではなく、AIエージェントに的確な指示を出し、\n自律的に学びをマネジメントする能力です。\n\n「AIに丸投げ」で終わらせない、\nif塾流の「AI共生型学習」について詳しく解説します。\n\n詳細は投稿をチェック！\n最新のAI教育情報を見逃したくない方はフォローをお願いします✨\n\n#if塾 #2026年 #AI教育 #GPT5 #AIエージェント #自律的学習 #最新技術",
+      "title": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+      "caption": "【2026年5月】AIの進化が止まりません！✨\n\n今月リリースされたChatGPT 5.4やGemini 3.5 Flashにより、私たちの生活は劇的に変わろうとしています。🤖\n\nこれまでは人間が「プロンプト」を細かく入力していましたが、これからは「目標」を伝えるだけ。\nAIエージェントが自ら考え、アプリを操作し、タスクを完遂してくれます。\n\n「進路調査票の準備」も「1ヶ月の学習進捗の可視化」も、AIが裏側で自動でやってくれる時代。\n\nif塾では、この「自律型AI」を学習の味方につける方法を伝授しています。🚀\n\nあなたはAIに、まず何を任せたいですか？\nコメントで教えてください！👇",
+      "caption_text": "【2026年5月】AIの進化が止まりません！✨\n\n今月リリースされたChatGPT 5.4やGemini 3.5 Flashにより、私たちの生活は劇的に変わろうとしています。🤖\n\nこれまでは人間が「プロンプト」を細かく入力していましたが、これからは「目標」を伝えるだけ。\nAIエージェントが自ら考え、アプリを操作し、タスクを完遂してくれます。\n\n「進路調査票の準備」も「1ヶ月の学習進捗の可視化」も、AIが裏側で自動でやってくれる時代。\n\nif塾では、この「自律型AI」を学習の味方につける方法を伝授しています。🚀\n\nあなたはAIに、まず何を任せたいですか？\nコメントで教えてください！👇",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI教育",
-        "#GPT5",
         "#AIエージェント",
-        "#自律的学習",
-        "#最新技術",
-        "#教育DX",
-        "#AIコラム"
+        "#ChatGPT5",
+        "#Gemini35",
+        "#教育AI",
+        "#最新テクノロジー",
+        "#時短術",
+        "#自律型AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.5が変えた「勉強しない」勉強法",
-          "sub_title": "2026年5月最新：AIエージェントによる自律学習の衝撃",
-          "text_content": "GPT-5.5が変えた「勉強しない」勉強法",
+          "main_title": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+          "sub_title": "5月最新：Gemini 3.5 Flashと競う自律型エージェントの衝撃",
+          "text_content": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-01.png",
           "image_file": "assets/img/posts/20260528_ai_column-01.png",
-          "overlay_text": "GPT-5.5が変えた「勉強しない」勉強法",
-          "subtext": "2026年5月最新：AIエージェントによる自律学習の衝撃",
-          "alt": "表紙 - GPT-5.5が変えた「勉強しない」勉強"
+          "overlay_text": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+          "subtext": "5月最新：Gemini 3.5 Flashと競う自律型エージェントの衝撃",
+          "alt": "表紙 - 2026年、AIは「相談」から「自動完遂"
         },
         {
           "page_number": 2,
@@ -60,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「先生、これやっておいて」が当たり前に？",
-          "sub_title": "単なるチャットの時代は終わり、GPT-5.5を搭載したAIエージェントが、あなたの代わりに『学習計画の実行』まで担うフェーズに突入しました。",
-          "text_content": "「先生、これやっておいて」が当たり前に？",
+          "main_title": "「指示待ちAI」はもう古い？",
+          "sub_title": "これまで1つずつ指示していた宿題のスケジュール管理や資料作成。2026年5月現在、AIは一つの目標を伝えるだけで、複数のアプリを跨いで勝手にタスクを終わらせる時代になりました。",
+          "text_content": "「指示待ちAI」はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-02.png",
           "image_file": "assets/img/posts/20260528_ai_column-02.png",
-          "overlay_text": "「先生、これやっておいて」が当たり前に？",
-          "subtext": "単なるチャットの時代は終わり、GPT-5.5を搭載したAIエージェントが、あなたの代わりに『学習計画の実行』まで担うフェーズに突入しました。",
-          "alt": "内容1 - 「先生、これやっておいて」が当たり前に？"
+          "overlay_text": "「指示待ちAI」はもう古い？",
+          "subtext": "これまで1つずつ指示していた宿題のスケジュール管理や資料作成。2026年5月現在、AIは一つの目標を伝えるだけで、複数のアプリを跨いで勝手にタスクを終わらせる時代になりました。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い？"
         },
         {
           "page_number": 3,
@@ -76,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントの凄まじい実力",
-          "sub_title": "2026年現在のAIは、目標を伝えるだけで最適な教材をネットから収集し、弱点を分析して、スケジュール調整まで自動で完結させます。",
-          "text_content": "自律型AIエージェントの凄まじい実力",
+          "main_title": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
+          "sub_title": "最新モデルでは「自律実行モード」が標準搭載。例えば「来月の志望校模試の対策プランを作って、カレンダーに登録し、必要な参考書をリストアップして」という一言で、全タスクが数秒で完了します。",
+          "text_content": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-03.png",
           "image_file": "assets/img/posts/20260528_ai_column-03.png",
-          "overlay_text": "自律型AIエージェントの凄まじい実力",
-          "subtext": "2026年現在のAIは、目標を伝えるだけで最適な教材をネットから収集し、弱点を分析して、スケジュール調整まで自動で完結させます。",
-          "alt": "内容2 - 自律型AIエージェントの凄まじい実力"
+          "overlay_text": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
+          "subtext": "最新モデルでは「自律実行モード」が標準搭載。例えば「来月の志望校模試の対策プランを作って、カレンダーに登録し、必要な参考書をリストアップして」という一言で、全タスクが数秒で完了します。",
+          "alt": "内容2 - ChatGPT 5.4 × Gemini"
         },
         {
           "page_number": 4,
@@ -92,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：人間に残される『問い』の力",
-          "sub_title": "AIが全てをこなす今だからこそ、重要になるのは「何を知りたいか」という好奇心。AIを使いこなす側になるための、論理的思考力が不可欠です。",
-          "text_content": "if塾の視点：人間に残される『問い』の力",
+          "main_title": "if塾の視点：AIを『秘書』として使いこなす",
+          "sub_title": "大事なのは「何をさせるか」の設計図を描く力。2026年の受験生・保護者にとって、AIは単なる検索ツールではなく、24時間稼働する優秀な教育コンシェルジュです。依存ではなく、活用する思考を養いましょう。",
+          "text_content": "if塾の視点：AIを『秘書』として使いこなす",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-04.png",
           "image_file": "assets/img/posts/20260528_ai_column-04.png",
-          "overlay_text": "if塾の視点：人間に残される『問い』の力",
-          "subtext": "AIが全てをこなす今だからこそ、重要になるのは「何を知りたいか」という好奇心。AIを使いこなす側になるための、論理的思考力が不可欠です。",
-          "alt": "内容3 - if塾の視点：人間に残される『問い』の力"
+          "overlay_text": "if塾の視点：AIを『秘書』として使いこなす",
+          "subtext": "大事なのは「何をさせるか」の設計図を描く力。2026年の受験生・保護者にとって、AIは単なる検索ツールではなく、24時間稼働する優秀な教育コンシェルジュです。依存ではなく、活用する思考を養いましょう。",
+          "alt": "内容3 - if塾の視点：AIを『秘書』として使いこ"
         },
         {
           "page_number": 5,
@@ -126,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "GPT-5.5が変えた「勉強しない」勉強法",
-          "sub_title": "2026年5月最新：AIエージェントによる自律学習の衝撃",
-          "text_content": "GPT-5.5が変えた「勉強しない」勉強法",
+          "main_title": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+          "sub_title": "5月最新：Gemini 3.5 Flashと競う自律型エージェントの衝撃",
+          "text_content": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-01.png",
           "image_file": "assets/img/posts/20260528_ai_column-01.png",
-          "overlay_text": "GPT-5.5が変えた「勉強しない」勉強法",
-          "subtext": "2026年5月最新：AIエージェントによる自律学習の衝撃",
-          "alt": "表紙 - GPT-5.5が変えた「勉強しない」勉強"
+          "overlay_text": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+          "subtext": "5月最新：Gemini 3.5 Flashと競う自律型エージェントの衝撃",
+          "alt": "表紙 - 2026年、AIは「相談」から「自動完遂"
         },
         {
           "page_number": 2,
@@ -142,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「先生、これやっておいて」が当たり前に？",
-          "sub_title": "単なるチャットの時代は終わり、GPT-5.5を搭載したAIエージェントが、あなたの代わりに『学習計画の実行』まで担うフェーズに突入しました。",
-          "text_content": "「先生、これやっておいて」が当たり前に？",
+          "main_title": "「指示待ちAI」はもう古い？",
+          "sub_title": "これまで1つずつ指示していた宿題のスケジュール管理や資料作成。2026年5月現在、AIは一つの目標を伝えるだけで、複数のアプリを跨いで勝手にタスクを終わらせる時代になりました。",
+          "text_content": "「指示待ちAI」はもう古い？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-02.png",
           "image_file": "assets/img/posts/20260528_ai_column-02.png",
-          "overlay_text": "「先生、これやっておいて」が当たり前に？",
-          "subtext": "単なるチャットの時代は終わり、GPT-5.5を搭載したAIエージェントが、あなたの代わりに『学習計画の実行』まで担うフェーズに突入しました。",
-          "alt": "内容1 - 「先生、これやっておいて」が当たり前に？"
+          "overlay_text": "「指示待ちAI」はもう古い？",
+          "subtext": "これまで1つずつ指示していた宿題のスケジュール管理や資料作成。2026年5月現在、AIは一つの目標を伝えるだけで、複数のアプリを跨いで勝手にタスクを終わらせる時代になりました。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い？"
         },
         {
           "page_number": 3,
@@ -158,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントの凄まじい実力",
-          "sub_title": "2026年現在のAIは、目標を伝えるだけで最適な教材をネットから収集し、弱点を分析して、スケジュール調整まで自動で完結させます。",
-          "text_content": "自律型AIエージェントの凄まじい実力",
+          "main_title": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
+          "sub_title": "最新モデルでは「自律実行モード」が標準搭載。例えば「来月の志望校模試の対策プランを作って、カレンダーに登録し、必要な参考書をリストアップして」という一言で、全タスクが数秒で完了します。",
+          "text_content": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-03.png",
           "image_file": "assets/img/posts/20260528_ai_column-03.png",
-          "overlay_text": "自律型AIエージェントの凄まじい実力",
-          "subtext": "2026年現在のAIは、目標を伝えるだけで最適な教材をネットから収集し、弱点を分析して、スケジュール調整まで自動で完結させます。",
-          "alt": "内容2 - 自律型AIエージェントの凄まじい実力"
+          "overlay_text": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
+          "subtext": "最新モデルでは「自律実行モード」が標準搭載。例えば「来月の志望校模試の対策プランを作って、カレンダーに登録し、必要な参考書をリストアップして」という一言で、全タスクが数秒で完了します。",
+          "alt": "内容2 - ChatGPT 5.4 × Gemini"
         },
         {
           "page_number": 4,
@@ -174,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：人間に残される『問い』の力",
-          "sub_title": "AIが全てをこなす今だからこそ、重要になるのは「何を知りたいか」という好奇心。AIを使いこなす側になるための、論理的思考力が不可欠です。",
-          "text_content": "if塾の視点：人間に残される『問い』の力",
+          "main_title": "if塾の視点：AIを『秘書』として使いこなす",
+          "sub_title": "大事なのは「何をさせるか」の設計図を描く力。2026年の受験生・保護者にとって、AIは単なる検索ツールではなく、24時間稼働する優秀な教育コンシェルジュです。依存ではなく、活用する思考を養いましょう。",
+          "text_content": "if塾の視点：AIを『秘書』として使いこなす",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260528_ai_column-04.png",
           "image_file": "assets/img/posts/20260528_ai_column-04.png",
-          "overlay_text": "if塾の視点：人間に残される『問い』の力",
-          "subtext": "AIが全てをこなす今だからこそ、重要になるのは「何を知りたいか」という好奇心。AIを使いこなす側になるための、論理的思考力が不可欠です。",
-          "alt": "内容3 - if塾の視点：人間に残される『問い』の力"
+          "overlay_text": "if塾の視点：AIを『秘書』として使いこなす",
+          "subtext": "大事なのは「何をさせるか」の設計図を描く力。2026年の受験生・保護者にとって、AIは単なる検索ツールではなく、24時間稼働する優秀な教育コンシェルジュです。依存ではなく、活用する思考を養いましょう。",
+          "alt": "内容3 - if塾の視点：AIを『秘書』として使いこ"
         },
         {
           "page_number": 5,
@@ -245,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-28T16:08:27",
+      "research_date": "2026-05-28T23:40:34",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "GPT-5.5が変えた「勉強しない」勉強",
+        "cover_text": "2026年、AIは「相談」から「自動完遂",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "GPT-5.5が変えた「勉強しない」勉強法",
-            "subtext": "2026年5月最新：AIエージェントによる自律学習の衝撃",
+            "headline": "2026年、AIは「相談」から「自動完遂」へ。ChatGPT 5.4の実力",
+            "subtext": "5月最新：Gemini 3.5 Flashと競う自律型エージェントの衝撃",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -269,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「先生、これやっておいて」が当たり前に？",
-            "subtext": "単なるチャットの時代は終わり、GPT-5.5を搭載したAIエージェントが、あなたの代わりに『学習計画の実行』まで担うフェーズに突入しました。",
+            "headline": "「指示待ちAI」はもう古い？",
+            "subtext": "これまで1つずつ指示していた宿題のスケジュール管理や資料作成。2026年5月現在、AIは一つの目標を伝えるだけで、複数のアプリを跨いで勝手にタスクを終わらせる時代になりました。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -278,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントの凄まじい実力",
-            "subtext": "2026年現在のAIは、目標を伝えるだけで最適な教材をネットから収集し、弱点を分析して、スケジュール調整まで自動で完結させます。",
+            "headline": "ChatGPT 5.4 × Gemini 3.5 Flashの進化",
+            "subtext": "最新モデルでは「自律実行モード」が標準搭載。例えば「来月の志望校模試の対策プランを作って、カレンダーに登録し、必要な参考書をリストアップして」という一言で、全タスクが数秒で完了します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -287,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：人間に残される『問い』の力",
-            "subtext": "AIが全てをこなす今だからこそ、重要になるのは「何を知りたいか」という好奇心。AIを使いこなす側になるための、論理的思考力が不可欠です。",
+            "headline": "if塾の視点：AIを『秘書』として使いこなす",
+            "subtext": "大事なのは「何をさせるか」の設計図を描く力。2026年の受験生・保護者にとって、AIは単なる検索ツールではなく、24時間稼働する優秀な教育コンシェルジュです。依存ではなく、活用する思考を養いましょう。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
