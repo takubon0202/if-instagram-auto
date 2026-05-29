@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 141,
-    "last_updated": "2026-05-28T23:42:14.418970",
+    "total_posts": 142,
+    "last_updated": "2026-05-29T12:34:43.683489",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260529_business",
+      "post_id": "20260529_business",
+      "created_at": "2026-05-29T12:34:43",
+      "datetime": "2026-05-29T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+      "target_audience": "Students & Parents",
+      "title": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+      "caption": "【2026年5月】最新のビジネス動向をお届けします。\n\n今、教育現場やSNSで何が起きているかご存知ですか？\n2026年に入り、生成AIを活用した1分動画制作のハードルが劇的に下がりました。\n\n驚くべきは、その「担い手」の若年齢化です。\nかつての「動画クリエイター」は専門スキルが必要な職種でしたが、今はAIを操作する「AIディレクター」として、中高生が大人顔負けの収益を上げています。\n\n「うちの子、スマホばかり見て…」\nその時間は、もしかすると新しい時代のビジネススキルを磨いている時間かもしれません。\n\n大切なのは、最新ツールを知ること、そしてそれを「正しく使うための思考力」を養うこと。\nif塾では、技術の先にある「生き抜く力」を提案します。\n\n詳細はプロフィールのリンクをチェック！\n\n#if塾 #2026年 #生成AI #ショート動画 #スキル販売 #中学生起業家 #リスキリング #最新トレンド",
+      "caption_text": "【2026年5月】最新のビジネス動向をお届けします。\n\n今、教育現場やSNSで何が起きているかご存知ですか？\n2026年に入り、生成AIを活用した1分動画制作のハードルが劇的に下がりました。\n\n驚くべきは、その「担い手」の若年齢化です。\nかつての「動画クリエイター」は専門スキルが必要な職種でしたが、今はAIを操作する「AIディレクター」として、中高生が大人顔負けの収益を上げています。\n\n「うちの子、スマホばかり見て…」\nその時間は、もしかすると新しい時代のビジネススキルを磨いている時間かもしれません。\n\n大切なのは、最新ツールを知ること、そしてそれを「正しく使うための思考力」を養うこと。\nif塾では、技術の先にある「生き抜く力」を提案します。\n\n詳細はプロフィールのリンクをチェック！\n\n#if塾 #2026年 #生成AI #ショート動画 #スキル販売 #中学生起業家 #リスキリング #最新トレンド",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#副業",
+        "#動画制作",
+        "#キャリア教育",
+        "#AIディレクター"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "sub_title": "2026年5月：スキル販売の低年齢化が加速中",
+          "text_content": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-01.png",
+          "image_file": "assets/img/posts/20260529_business-01.png",
+          "overlay_text": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "subtext": "2026年5月：スキル販売の低年齢化が加速中",
+          "alt": "表紙 - 中学生が月収30万？2026年最新「AI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "sub_title": "編集スキルが不要になった2026年、学生たちの参入障壁はゼロに。親が知らない間に子供が『AIディレクター』として活躍する時代です。",
+          "text_content": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-02.png",
+          "image_file": "assets/img/posts/20260529_business-02.png",
+          "overlay_text": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "subtext": "編集スキルが不要になった2026年、学生たちの参入障壁はゼロに。親が知らない間に子供が『AIディレクター』として活躍する時代です。",
+          "alt": "内容1 - 「動画編集は難しい」は過去の話。まだ人力"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "sub_title": "2026年5月の主流は、テキストから一瞬で物語を生成するマルチモーダルAI。これらを組み合わせて「特化型1分動画」を量産するのが今の定石。",
+          "text_content": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-03.png",
+          "image_file": "assets/img/posts/20260529_business-03.png",
+          "overlay_text": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "subtext": "2026年5月の主流は、テキストから一瞬で物語を生成するマルチモーダルAI。これらを組み合わせて「特化型1分動画」を量産するのが今の定石。",
+          "alt": "内容2 - 『Sora 2.0』と『Luma API"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "sub_title": "AI時代こそ、人間にしかできない『共感設計』と『市場の読み』が重要。技術に踊らされず、AIを使いこなす側になるマインドセットを磨こう。",
+          "text_content": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-04.png",
+          "image_file": "assets/img/posts/20260529_business-04.png",
+          "overlay_text": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "subtext": "AI時代こそ、人間にしかできない『共感設計』と『市場の読み』が重要。技術に踊らされず、AIを使いこなす側になるマインドセットを磨こう。",
+          "alt": "内容3 - 「ツールを使える」だけでは稼げない。if"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "sub_title": "2026年5月：スキル販売の低年齢化が加速中",
+          "text_content": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-01.png",
+          "image_file": "assets/img/posts/20260529_business-01.png",
+          "overlay_text": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+          "subtext": "2026年5月：スキル販売の低年齢化が加速中",
+          "alt": "表紙 - 中学生が月収30万？2026年最新「AI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "sub_title": "編集スキルが不要になった2026年、学生たちの参入障壁はゼロに。親が知らない間に子供が『AIディレクター』として活躍する時代です。",
+          "text_content": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-02.png",
+          "image_file": "assets/img/posts/20260529_business-02.png",
+          "overlay_text": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+          "subtext": "編集スキルが不要になった2026年、学生たちの参入障壁はゼロに。親が知らない間に子供が『AIディレクター』として活躍する時代です。",
+          "alt": "内容1 - 「動画編集は難しい」は過去の話。まだ人力"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "sub_title": "2026年5月の主流は、テキストから一瞬で物語を生成するマルチモーダルAI。これらを組み合わせて「特化型1分動画」を量産するのが今の定石。",
+          "text_content": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-03.png",
+          "image_file": "assets/img/posts/20260529_business-03.png",
+          "overlay_text": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+          "subtext": "2026年5月の主流は、テキストから一瞬で物語を生成するマルチモーダルAI。これらを組み合わせて「特化型1分動画」を量産するのが今の定石。",
+          "alt": "内容2 - 『Sora 2.0』と『Luma API"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "sub_title": "AI時代こそ、人間にしかできない『共感設計』と『市場の読み』が重要。技術に踊らされず、AIを使いこなす側になるマインドセットを磨こう。",
+          "text_content": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260529_business-04.png",
+          "image_file": "assets/img/posts/20260529_business-04.png",
+          "overlay_text": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+          "subtext": "AI時代こそ、人間にしかできない『共感設計』と『市場の読み』が重要。技術に踊らされず、AIを使いこなす側になるマインドセットを磨こう。",
+          "alt": "内容3 - 「ツールを使える」だけでは稼げない。if"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260529_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260529_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260529_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260529_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-29T12:33:14",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中学生が月収30万？2026年最新「AI",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中学生が月収30万？2026年最新「AIショート動画」の稼ぎ方",
+            "subtext": "2026年5月：スキル販売の低年齢化が加速中",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「動画編集は難しい」は過去の話。まだ人力で消耗してる？",
+            "subtext": "編集スキルが不要になった2026年、学生たちの参入障壁はゼロに。親が知らない間に子供が『AIディレクター』として活躍する時代です。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "『Sora 2.0』と『Luma API』の連携。スマホ1台、1分でプロ級",
+            "subtext": "2026年5月の主流は、テキストから一瞬で物語を生成するマルチモーダルAI。これらを組み合わせて「特化型1分動画」を量産するのが今の定石。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「ツールを使える」だけでは稼げない。if塾が教える生存戦略",
+            "subtext": "AI時代こそ、人間にしかできない『共感設計』と『市場の読み』が重要。技術に踊らされず、AIを使いこなす側になるマインドセットを磨こう。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260528_ai_column",
       "post_id": "20260528_ai_column",
