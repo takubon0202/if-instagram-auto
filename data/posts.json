@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 143,
-    "last_updated": "2026-05-30T15:38:20.792239",
+    "last_updated": "2026-05-30T21:08:32.729857",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260530_activity",
       "post_id": "20260530_activity",
-      "created_at": "2026-05-30T15:38:20",
+      "created_at": "2026-05-30T21:08:32",
       "datetime": "2026-05-30T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+      "theme": "コードを書かないプログラミング？2026年の新常識",
       "target_audience": "Students & Parents",
-      "title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-      "caption": "【2026年5月】最新の教育現場からお届けします。\n\n今月、if塾の学習プログラムが「AIキャンプ」として全面リニューアルしました！✨\n\n「AIに仕事を奪われる」という議論はもう過去のもの。2026年の今、求められているのはAIをパートナーとして「共創」する力です。\n\n今回のリニューアルでは、最新のマルチモーダルAIをフル活用。プログラミングの文法を覚える時間よりも、アイデアを形にする「創造の時間」を大幅に増やしました。\n\n生徒たちの目が、かつてないほど輝いています。AIを魔法の杖にするか、ただの道具にするかは、私たち指導者の導き方次第。\n\n次世代のスタンダードを、ぜひif塾で体験してください。\n\n詳細はプロフィールのリンクからご覧いただけます！🔗",
-      "caption_text": "【2026年5月】最新の教育現場からお届けします。\n\n今月、if塾の学習プログラムが「AIキャンプ」として全面リニューアルしました！✨\n\n「AIに仕事を奪われる」という議論はもう過去のもの。2026年の今、求められているのはAIをパートナーとして「共創」する力です。\n\n今回のリニューアルでは、最新のマルチモーダルAIをフル活用。プログラミングの文法を覚える時間よりも、アイデアを形にする「創造の時間」を大幅に増やしました。\n\n生徒たちの目が、かつてないほど輝いています。AIを魔法の杖にするか、ただの道具にするかは、私たち指導者の導き方次第。\n\n次世代のスタンダードを、ぜひif塾で体験してください。\n\n詳細はプロフィールのリンクからご覧いただけます！🔗",
+      "title": "コードを書かないプログラミング？2026年の新常識",
+      "caption": "【2026年5月】最新の授業レポートをお届けします！\n\nプログラミング学習の風景は、この1年で劇的に変わりました。\n2026年の今、求められているのは「コードを自力で書く力」よりも「AIと対話し、意図通りのアウトプットを導き出す力」です。\n\n今日のif塾では、AIが生成したプログラムのバグを生徒が見つけ出し、より効率的な指示へ改善する「逆引き検証」を実施。\n\n「AIが言ったから正解」ではなく「ここが違うからこう直して」と言える生徒たちの姿に、確かな成長を感じました。\n\nこれからの時代、AIは単なる道具ではなく、共に創造するパートナーです。\n皆さんは、AIにどんな指示を出してみたいですか？\nコメントで教えてください！✨",
+      "caption_text": "【2026年5月】最新の授業レポートをお届けします！\n\nプログラミング学習の風景は、この1年で劇的に変わりました。\n2026年の今、求められているのは「コードを自力で書く力」よりも「AIと対話し、意図通りのアウトプットを導き出す力」です。\n\n今日のif塾では、AIが生成したプログラムのバグを生徒が見つけ出し、より効率的な指示へ改善する「逆引き検証」を実施。\n\n「AIが言ったから正解」ではなく「ここが違うからこう直して」と言える生徒たちの姿に、確かな成長を感じました。\n\nこれからの時代、AIは単なる道具ではなく、共に創造するパートナーです。\n皆さんは、AIにどんな指示を出してみたいですか？\nコメントで教えてください！✨",
       "hashtags": [
         "#if塾",
-        "#2026年教育",
-        "#AIキャンプ",
+        "#2026年",
         "#生成AI",
-        "#ライフイズテック",
-        "#EdTech",
-        "#次世代教育",
-        "#プログラミング学習",
-        "#AIと共創"
+        "#プロンプトエンジニアリング",
+        "#中高生プログラミング",
+        "#対話型学習",
+        "#STEAM教育",
+        "#AI教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-          "sub_title": "2026年5月・教育の最前線レポート",
-          "text_content": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "main_title": "コードを書かないプログラミング？2026年の新常識",
+          "sub_title": "5月活動報告：AI共創カリキュラムの現場から",
+          "text_content": "コードを書かないプログラミング？2026年の新常識",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-01.png",
           "image_file": "assets/img/posts/20260530_activity-01.png",
-          "overlay_text": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-          "subtext": "2026年5月・教育の最前線レポート",
-          "alt": "表紙 - AIと「共創」する時代へ。AIキャンプ全"
+          "overlay_text": "コードを書かないプログラミング？2026年の新常識",
+          "subtext": "5月活動報告：AI共創カリキュラムの現場から",
+          "alt": "表紙 - コードを書かないプログラミング？2026"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに頼る」から「AIを使いこなす」への転換点",
-          "sub_title": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
-          "text_content": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "main_title": "「AI任せ」で成績が止まる？",
+          "sub_title": "ただ答えを聞くだけではスキルにならない。2026年の今、学生たちが直面している『指示力（プロンプト）』の壁。",
+          "text_content": "「AI任せ」で成績が止まる？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-02.png",
           "image_file": "assets/img/posts/20260530_activity-02.png",
-          "overlay_text": "「AIに頼る」から「AIを使いこなす」への転換点",
-          "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
-          "alt": "内容1 - 「AIに頼る」から「AIを使いこなす」へ"
+          "overlay_text": "「AI任せ」で成績が止まる？",
+          "subtext": "ただ答えを聞くだけではスキルにならない。2026年の今、学生たちが直面している『指示力（プロンプト）』の壁。",
+          "alt": "内容1 - 「AI任せ」で成績が止まる？"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
-          "sub_title": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
-          "text_content": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "main_title": "検証までが1セットの対話型学習",
+          "sub_title": "最新AIエージェントを使い、出力されたコードの論理的ミスを生徒が指摘。「AIを使いこなす側」への挑戦です。",
+          "text_content": "検証までが1セットの対話型学習",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-03.png",
           "image_file": "assets/img/posts/20260530_activity-03.png",
-          "overlay_text": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
-          "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
-          "alt": "内容2 - マルチモーダルAI「LIT-GPT4」で"
+          "overlay_text": "検証までが1セットの対話型学習",
+          "subtext": "最新AIエージェントを使い、出力されたコードの論理的ミスを生徒が指摘。「AIを使いこなす側」への挑戦です。",
+          "alt": "内容2 - 検証までが1セットの対話型学習"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が重視するのは「問いを立てる力」",
-          "sub_title": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
-          "text_content": "if塾が重視するのは「問いを立てる力」",
+          "main_title": "if塾が教える『問いの立て方』",
+          "sub_title": "重要なのは構文の暗記ではなく、課題をどう分解してAIに伝えるか。批判的思考こそが最強の武器になります。",
+          "text_content": "if塾が教える『問いの立て方』",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-04.png",
           "image_file": "assets/img/posts/20260530_activity-04.png",
-          "overlay_text": "if塾が重視するのは「問いを立てる力」",
-          "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
-          "alt": "内容3 - if塾が重視するのは「問いを立てる力」"
+          "overlay_text": "if塾が教える『問いの立て方』",
+          "subtext": "重要なのは構文の暗記ではなく、課題をどう分解してAIに伝えるか。批判的思考こそが最強の武器になります。",
+          "alt": "内容3 - if塾が教える『問いの立て方』"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-          "sub_title": "2026年5月・教育の最前線レポート",
-          "text_content": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "main_title": "コードを書かないプログラミング？2026年の新常識",
+          "sub_title": "5月活動報告：AI共創カリキュラムの現場から",
+          "text_content": "コードを書かないプログラミング？2026年の新常識",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-01.png",
           "image_file": "assets/img/posts/20260530_activity-01.png",
-          "overlay_text": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-          "subtext": "2026年5月・教育の最前線レポート",
-          "alt": "表紙 - AIと「共創」する時代へ。AIキャンプ全"
+          "overlay_text": "コードを書かないプログラミング？2026年の新常識",
+          "subtext": "5月活動報告：AI共創カリキュラムの現場から",
+          "alt": "表紙 - コードを書かないプログラミング？2026"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに頼る」から「AIを使いこなす」への転換点",
-          "sub_title": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
-          "text_content": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "main_title": "「AI任せ」で成績が止まる？",
+          "sub_title": "ただ答えを聞くだけではスキルにならない。2026年の今、学生たちが直面している『指示力（プロンプト）』の壁。",
+          "text_content": "「AI任せ」で成績が止まる？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-02.png",
           "image_file": "assets/img/posts/20260530_activity-02.png",
-          "overlay_text": "「AIに頼る」から「AIを使いこなす」への転換点",
-          "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
-          "alt": "内容1 - 「AIに頼る」から「AIを使いこなす」へ"
+          "overlay_text": "「AI任せ」で成績が止まる？",
+          "subtext": "ただ答えを聞くだけではスキルにならない。2026年の今、学生たちが直面している『指示力（プロンプト）』の壁。",
+          "alt": "内容1 - 「AI任せ」で成績が止まる？"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
-          "sub_title": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
-          "text_content": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "main_title": "検証までが1セットの対話型学習",
+          "sub_title": "最新AIエージェントを使い、出力されたコードの論理的ミスを生徒が指摘。「AIを使いこなす側」への挑戦です。",
+          "text_content": "検証までが1セットの対話型学習",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-03.png",
           "image_file": "assets/img/posts/20260530_activity-03.png",
-          "overlay_text": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
-          "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
-          "alt": "内容2 - マルチモーダルAI「LIT-GPT4」で"
+          "overlay_text": "検証までが1セットの対話型学習",
+          "subtext": "最新AIエージェントを使い、出力されたコードの論理的ミスを生徒が指摘。「AIを使いこなす側」への挑戦です。",
+          "alt": "内容2 - 検証までが1セットの対話型学習"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が重視するのは「問いを立てる力」",
-          "sub_title": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
-          "text_content": "if塾が重視するのは「問いを立てる力」",
+          "main_title": "if塾が教える『問いの立て方』",
+          "sub_title": "重要なのは構文の暗記ではなく、課題をどう分解してAIに伝えるか。批判的思考こそが最強の武器になります。",
+          "text_content": "if塾が教える『問いの立て方』",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260530_activity-04.png",
           "image_file": "assets/img/posts/20260530_activity-04.png",
-          "overlay_text": "if塾が重視するのは「問いを立てる力」",
-          "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
-          "alt": "内容3 - if塾が重視するのは「問いを立てる力」"
+          "overlay_text": "if塾が教える『問いの立て方』",
+          "subtext": "重要なのは構文の暗記ではなく、課題をどう分解してAIに伝えるか。批判的思考こそが最強の武器になります。",
+          "alt": "内容3 - if塾が教える『問いの立て方』"
         },
         {
           "page_number": 5,
@@ -230,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "井上陽斗",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "アプリ開発"
+          "ゲーム開発"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "井上陽斗（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "inoue_haruto",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-05-30T15:36:57",
+      "research_date": "2026-05-30T21:07:07",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIと「共創」する時代へ。AIキャンプ全",
+        "cover_text": "コードを書かないプログラミング？2026",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
-            "subtext": "2026年5月・教育の最前線レポート",
+            "headline": "コードを書かないプログラミング？2026年の新常識",
+            "subtext": "5月活動報告：AI共創カリキュラムの現場から",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIに頼る」から「AIを使いこなす」への転換点",
-            "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+            "headline": "「AI任せ」で成績が止まる？",
+            "subtext": "ただ答えを聞くだけではスキルにならない。2026年の今、学生たちが直面している『指示力（プロンプト）』の壁。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
-            "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+            "headline": "検証までが1セットの対話型学習",
+            "subtext": "最新AIエージェントを使い、出力されたコードの論理的ミスを生徒が指摘。「AIを使いこなす側」への挑戦です。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が重視するのは「問いを立てる力」",
-            "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+            "headline": "if塾が教える『問いの立て方』",
+            "subtext": "重要なのは構文の暗記ではなく、課題をどう分解してAIに伝えるか。批判的思考こそが最強の武器になります。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
