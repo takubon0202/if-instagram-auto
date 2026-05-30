@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 142,
-    "last_updated": "2026-05-29T23:13:13.701873",
+    "total_posts": 143,
+    "last_updated": "2026-05-30T15:38:20.792239",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260530_activity",
+      "post_id": "20260530_activity",
+      "created_at": "2026-05-30T15:38:20",
+      "datetime": "2026-05-30T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+      "target_audience": "Students & Parents",
+      "title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+      "caption": "【2026年5月】最新の教育現場からお届けします。\n\n今月、if塾の学習プログラムが「AIキャンプ」として全面リニューアルしました！✨\n\n「AIに仕事を奪われる」という議論はもう過去のもの。2026年の今、求められているのはAIをパートナーとして「共創」する力です。\n\n今回のリニューアルでは、最新のマルチモーダルAIをフル活用。プログラミングの文法を覚える時間よりも、アイデアを形にする「創造の時間」を大幅に増やしました。\n\n生徒たちの目が、かつてないほど輝いています。AIを魔法の杖にするか、ただの道具にするかは、私たち指導者の導き方次第。\n\n次世代のスタンダードを、ぜひif塾で体験してください。\n\n詳細はプロフィールのリンクからご覧いただけます！🔗",
+      "caption_text": "【2026年5月】最新の教育現場からお届けします。\n\n今月、if塾の学習プログラムが「AIキャンプ」として全面リニューアルしました！✨\n\n「AIに仕事を奪われる」という議論はもう過去のもの。2026年の今、求められているのはAIをパートナーとして「共創」する力です。\n\n今回のリニューアルでは、最新のマルチモーダルAIをフル活用。プログラミングの文法を覚える時間よりも、アイデアを形にする「創造の時間」を大幅に増やしました。\n\n生徒たちの目が、かつてないほど輝いています。AIを魔法の杖にするか、ただの道具にするかは、私たち指導者の導き方次第。\n\n次世代のスタンダードを、ぜひif塾で体験してください。\n\n詳細はプロフィールのリンクからご覧いただけます！🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年教育",
+        "#AIキャンプ",
+        "#生成AI",
+        "#ライフイズテック",
+        "#EdTech",
+        "#次世代教育",
+        "#プログラミング学習",
+        "#AIと共創"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "sub_title": "2026年5月・教育の最前線レポート",
+          "text_content": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-01.png",
+          "image_file": "assets/img/posts/20260530_activity-01.png",
+          "overlay_text": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "subtext": "2026年5月・教育の最前線レポート",
+          "alt": "表紙 - AIと「共創」する時代へ。AIキャンプ全"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "sub_title": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+          "text_content": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-02.png",
+          "image_file": "assets/img/posts/20260530_activity-02.png",
+          "overlay_text": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+          "alt": "内容1 - 「AIに頼る」から「AIを使いこなす」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "sub_title": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+          "text_content": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-03.png",
+          "image_file": "assets/img/posts/20260530_activity-03.png",
+          "overlay_text": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+          "alt": "内容2 - マルチモーダルAI「LIT-GPT4」で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視するのは「問いを立てる力」",
+          "sub_title": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+          "text_content": "if塾が重視するのは「問いを立てる力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-04.png",
+          "image_file": "assets/img/posts/20260530_activity-04.png",
+          "overlay_text": "if塾が重視するのは「問いを立てる力」",
+          "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+          "alt": "内容3 - if塾が重視するのは「問いを立てる力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "sub_title": "2026年5月・教育の最前線レポート",
+          "text_content": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-01.png",
+          "image_file": "assets/img/posts/20260530_activity-01.png",
+          "overlay_text": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+          "subtext": "2026年5月・教育の最前線レポート",
+          "alt": "表紙 - AIと「共創」する時代へ。AIキャンプ全"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "sub_title": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+          "text_content": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-02.png",
+          "image_file": "assets/img/posts/20260530_activity-02.png",
+          "overlay_text": "「AIに頼る」から「AIを使いこなす」への転換点",
+          "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+          "alt": "内容1 - 「AIに頼る」から「AIを使いこなす」へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "sub_title": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+          "text_content": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-03.png",
+          "image_file": "assets/img/posts/20260530_activity-03.png",
+          "overlay_text": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+          "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+          "alt": "内容2 - マルチモーダルAI「LIT-GPT4」で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が重視するのは「問いを立てる力」",
+          "sub_title": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+          "text_content": "if塾が重視するのは「問いを立てる力」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260530_activity-04.png",
+          "image_file": "assets/img/posts/20260530_activity-04.png",
+          "overlay_text": "if塾が重視するのは「問いを立てる力」",
+          "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+          "alt": "内容3 - if塾が重視するのは「問いを立てる力」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260530_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260530_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260530_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260530_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-05-30T15:36:57",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIと「共創」する時代へ。AIキャンプ全",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIと「共創」する時代へ。AIキャンプ全面リニューアル！",
+            "subtext": "2026年5月・教育の最前線レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIに頼る」から「AIを使いこなす」への転換点",
+            "subtext": "宿題代行ツールとしてのAI利用を超え、自らの思考を拡張させる武器としてどう向き合うべきか。保護者の皆様の不安を解消します。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "マルチモーダルAI「LIT-GPT4」でプログラミングが劇変",
+            "subtext": "音声と視線だけでコードを生成し、生徒は「論理設計」に集中。ライフイズテック等の先進事例を導入し、創造性は前年比150%へ。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が重視するのは「問いを立てる力」",
+            "subtext": "答えを出すのはAIの仕事。私たちは、AIに対して『どんな未来を作りたいか』を問いかける、人間ならではの視点を育みます。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260529_business",
       "post_id": "20260529_business",
