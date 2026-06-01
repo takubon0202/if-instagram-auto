@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 145,
-    "last_updated": "2026-06-01T13:01:44.892033",
+    "last_updated": "2026-06-01T18:03:15.373132",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260601_announcement",
       "post_id": "20260601_announcement",
-      "created_at": "2026-06-01T13:01:44",
+      "created_at": "2026-06-01T18:03:15",
       "datetime": "2026-06-01T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年、コーディング教育は「終了」しました。",
+      "theme": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
       "target_audience": "Students & Parents",
-      "title": "2026年、コーディング教育は「終了」しました。",
-      "caption": "【2026年6月】プログラミング教育の常識が塗り替わります。\n\n「コードが書ける」ことが市場価値だった時代は終わり、現在は「AIをいかに使いこなし、短時間で価値を生み出すか」が問われる時代になりました。\n\nif塾では、2026年6月よりカリキュラムを大幅にアップデート！\n単なる文法の暗記ではなく、最新の生成AIをパートナーとして「プロダクトを完成させる」実践型スタイルへ移行します。\n\n受験や就職、そして社会で生き抜くために必要なのは、AIに代替されるスキルではなく、AIを使いこなす『知性』です。\n\nこれからの時代に必須となる「AI活用能力」を、if塾で一緒に身につけませんか？\n\n詳細はプロフィールのリンクからご確認ください！",
-      "caption_text": "【2026年6月】プログラミング教育の常識が塗り替わります。\n\n「コードが書ける」ことが市場価値だった時代は終わり、現在は「AIをいかに使いこなし、短時間で価値を生み出すか」が問われる時代になりました。\n\nif塾では、2026年6月よりカリキュラムを大幅にアップデート！\n単なる文法の暗記ではなく、最新の生成AIをパートナーとして「プロダクトを完成させる」実践型スタイルへ移行します。\n\n受験や就職、そして社会で生き抜くために必要なのは、AIに代替されるスキルではなく、AIを使いこなす『知性』です。\n\nこれからの時代に必須となる「AI活用能力」を、if塾で一緒に身につけませんか？\n\n詳細はプロフィールのリンクからご確認ください！",
+      "title": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+      "caption": "【2026年6月】ついに教育の常識が変わります。\n\n「プログラミングを学ぶ＝コードを書く」という時代は終わりを迎えました。2026年の今、求められているのはAIを使いこなし、自分のアイデアを形にする『指示力（プロンプト力）』です。\n\nif塾では、今月から「生成AI共創カリキュラム」を標準化。最新のAIエージェントと協力しながら課題を解決する、より実践的なスキルを習得できます。\n\nお子様の将来を見据えた、最先端の学びを体験しませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #プログラミング教育 #2026年 #生成AI #プロンプトエンジニアリング #教育DX #夏期講習",
+      "caption_text": "【2026年6月】ついに教育の常識が変わります。\n\n「プログラミングを学ぶ＝コードを書く」という時代は終わりを迎えました。2026年の今、求められているのはAIを使いこなし、自分のアイデアを形にする『指示力（プロンプト力）』です。\n\nif塾では、今月から「生成AI共創カリキュラム」を標準化。最新のAIエージェントと協力しながら課題を解決する、より実践的なスキルを習得できます。\n\nお子様の将来を見据えた、最先端の学びを体験しませんか？\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #プログラミング教育 #2026年 #生成AI #プロンプトエンジニアリング #教育DX #夏期講習",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#プログラミング教育",
-        "#最新教育",
-        "#AIネイティブ",
         "#プロンプトエンジニアリング",
-        "#エージェントAI"
+        "#プログラミング教育",
+        "#教育改革",
+        "#AI共創"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、コーディング教育は「終了」しました。",
-          "sub_title": "【6月最新】AIを使いこなす新カリキュラム始動",
-          "text_content": "2026年、コーディング教育は「終了」しました。",
+          "main_title": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+          "sub_title": "2026年最新版：生成AIカリキュラムの衝撃",
+          "text_content": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-01.png",
           "image_file": "assets/img/posts/20260601_announcement-01.png",
-          "overlay_text": "2026年、コーディング教育は「終了」しました。",
-          "subtext": "【6月最新】AIを使いこなす新カリキュラム始動",
-          "alt": "表紙 - 2026年、コーディング教育は「終了」し"
+          "overlay_text": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+          "subtext": "2026年最新版：生成AIカリキュラムの衝撃",
+          "alt": "表紙 - コードを書かないプログラミング教育？20"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「書ける」だけでは通用しない時代へ",
-          "sub_title": "2026年、AIの進化により単なるコード記述の価値が激減。今の学習方法で、お子様の将来は本当に大丈夫ですか？",
-          "text_content": "「書ける」だけでは通用しない時代へ",
+          "main_title": "「コーディングができる」だけでは、もう足りない時代へ。",
+          "sub_title": "2026年、AIの進化により「書く力」より「AIに意図を伝える力」が受験や就職の評価軸に。お子様の今のスキル、AIに代替されませんか？",
+          "text_content": "「コーディングができる」だけでは、もう足りない時代へ。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-02.png",
           "image_file": "assets/img/posts/20260601_announcement-02.png",
-          "overlay_text": "「書ける」だけでは通用しない時代へ",
-          "subtext": "2026年、AIの進化により単なるコード記述の価値が激減。今の学習方法で、お子様の将来は本当に大丈夫ですか？",
-          "alt": "内容1 - 「書ける」だけでは通用しない時代へ"
+          "overlay_text": "「コーディングができる」だけでは、もう足りない時代へ。",
+          "subtext": "2026年、AIの進化により「書く力」より「AIに意図を伝える力」が受験や就職の評価軸に。お子様の今のスキル、AIに代替されませんか？",
+          "alt": "内容1 - 「コーディングができる」だけでは、もう足"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生成AIを『指揮する』実践スキルを習得",
-          "sub_title": "プロンプトエンジニアリングを超えた「AIオーケストレーション」を導入。最新のAIエージェントを使いこなし、数分でアプリを形にする力を養います。",
-          "text_content": "生成AIを『指揮する』実践スキルを習得",
+          "main_title": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
+          "sub_title": "if塾では、マルチモーダルAIを使いこなし、複雑なシステムを設計・対話で構築する「AI共創コース」を全生徒に標準提供開始します。",
+          "text_content": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-03.png",
           "image_file": "assets/img/posts/20260601_announcement-03.png",
-          "overlay_text": "生成AIを『指揮する』実践スキルを習得",
-          "subtext": "プロンプトエンジニアリングを超えた「AIオーケストレーション」を導入。最新のAIエージェントを使いこなし、数分でアプリを形にする力を養います。",
-          "alt": "内容2 - 生成AIを『指揮する』実践スキルを習得"
+          "overlay_text": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
+          "subtext": "if塾では、マルチモーダルAIを使いこなし、複雑なシステムを設計・対話で構築する「AI共創コース」を全生徒に標準提供開始します。",
+          "alt": "内容2 - 最新「プロンプト・エンジニアリング」を標"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI共生型」学習",
-          "sub_title": "「AIに何を作らせるか」という企画力と、出力されたコードの「監査・修正力」に特化。夏期講習に向け、本日より新カリキュラムへ完全移行します。",
-          "text_content": "if塾が提案する「AI共生型」学習",
+          "main_title": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
+          "sub_title": "単なるツール利用ではなく、AIの回答精度を劇的に変える「論理的思考力」を育成。夏期講習から新コースの全国展開がスタートします。",
+          "text_content": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-04.png",
           "image_file": "assets/img/posts/20260601_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI共生型」学習",
-          "subtext": "「AIに何を作らせるか」という企画力と、出力されたコードの「監査・修正力」に特化。夏期講習に向け、本日より新カリキュラムへ完全移行します。",
-          "alt": "内容3 - if塾が提案する「AI共生型」学習"
+          "overlay_text": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
+          "subtext": "単なるツール利用ではなく、AIの回答精度を劇的に変える「論理的思考力」を育成。夏期講習から新コースの全国展開がスタートします。",
+          "alt": "内容3 - この夏、if塾で学ぶ「AIを指揮する」と"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年、コーディング教育は「終了」しました。",
-          "sub_title": "【6月最新】AIを使いこなす新カリキュラム始動",
-          "text_content": "2026年、コーディング教育は「終了」しました。",
+          "main_title": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+          "sub_title": "2026年最新版：生成AIカリキュラムの衝撃",
+          "text_content": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-01.png",
           "image_file": "assets/img/posts/20260601_announcement-01.png",
-          "overlay_text": "2026年、コーディング教育は「終了」しました。",
-          "subtext": "【6月最新】AIを使いこなす新カリキュラム始動",
-          "alt": "表紙 - 2026年、コーディング教育は「終了」し"
+          "overlay_text": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+          "subtext": "2026年最新版：生成AIカリキュラムの衝撃",
+          "alt": "表紙 - コードを書かないプログラミング教育？20"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「書ける」だけでは通用しない時代へ",
-          "sub_title": "2026年、AIの進化により単なるコード記述の価値が激減。今の学習方法で、お子様の将来は本当に大丈夫ですか？",
-          "text_content": "「書ける」だけでは通用しない時代へ",
+          "main_title": "「コーディングができる」だけでは、もう足りない時代へ。",
+          "sub_title": "2026年、AIの進化により「書く力」より「AIに意図を伝える力」が受験や就職の評価軸に。お子様の今のスキル、AIに代替されませんか？",
+          "text_content": "「コーディングができる」だけでは、もう足りない時代へ。",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-02.png",
           "image_file": "assets/img/posts/20260601_announcement-02.png",
-          "overlay_text": "「書ける」だけでは通用しない時代へ",
-          "subtext": "2026年、AIの進化により単なるコード記述の価値が激減。今の学習方法で、お子様の将来は本当に大丈夫ですか？",
-          "alt": "内容1 - 「書ける」だけでは通用しない時代へ"
+          "overlay_text": "「コーディングができる」だけでは、もう足りない時代へ。",
+          "subtext": "2026年、AIの進化により「書く力」より「AIに意図を伝える力」が受験や就職の評価軸に。お子様の今のスキル、AIに代替されませんか？",
+          "alt": "内容1 - 「コーディングができる」だけでは、もう足"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生成AIを『指揮する』実践スキルを習得",
-          "sub_title": "プロンプトエンジニアリングを超えた「AIオーケストレーション」を導入。最新のAIエージェントを使いこなし、数分でアプリを形にする力を養います。",
-          "text_content": "生成AIを『指揮する』実践スキルを習得",
+          "main_title": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
+          "sub_title": "if塾では、マルチモーダルAIを使いこなし、複雑なシステムを設計・対話で構築する「AI共創コース」を全生徒に標準提供開始します。",
+          "text_content": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-03.png",
           "image_file": "assets/img/posts/20260601_announcement-03.png",
-          "overlay_text": "生成AIを『指揮する』実践スキルを習得",
-          "subtext": "プロンプトエンジニアリングを超えた「AIオーケストレーション」を導入。最新のAIエージェントを使いこなし、数分でアプリを形にする力を養います。",
-          "alt": "内容2 - 生成AIを『指揮する』実践スキルを習得"
+          "overlay_text": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
+          "subtext": "if塾では、マルチモーダルAIを使いこなし、複雑なシステムを設計・対話で構築する「AI共創コース」を全生徒に標準提供開始します。",
+          "alt": "内容2 - 最新「プロンプト・エンジニアリング」を標"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が提案する「AI共生型」学習",
-          "sub_title": "「AIに何を作らせるか」という企画力と、出力されたコードの「監査・修正力」に特化。夏期講習に向け、本日より新カリキュラムへ完全移行します。",
-          "text_content": "if塾が提案する「AI共生型」学習",
+          "main_title": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
+          "sub_title": "単なるツール利用ではなく、AIの回答精度を劇的に変える「論理的思考力」を育成。夏期講習から新コースの全国展開がスタートします。",
+          "text_content": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260601_announcement-04.png",
           "image_file": "assets/img/posts/20260601_announcement-04.png",
-          "overlay_text": "if塾が提案する「AI共生型」学習",
-          "subtext": "「AIに何を作らせるか」という企画力と、出力されたコードの「監査・修正力」に特化。夏期講習に向け、本日より新カリキュラムへ完全移行します。",
-          "alt": "内容3 - if塾が提案する「AI共生型」学習"
+          "overlay_text": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
+          "subtext": "単なるツール利用ではなく、AIの回答精度を劇的に変える「論理的思考力」を育成。夏期講習から新コースの全国展開がスタートします。",
+          "alt": "内容3 - この夏、if塾で学ぶ「AIを指揮する」と"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-01T13:00:19",
+      "research_date": "2026-06-01T18:01:45",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年、コーディング教育は「終了」し",
+        "cover_text": "コードを書かないプログラミング教育？20",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年、コーディング教育は「終了」しました。",
-            "subtext": "【6月最新】AIを使いこなす新カリキュラム始動",
+            "headline": "コードを書かないプログラミング教育？2026年6月、AI共創が「標準」へ",
+            "subtext": "2026年最新版：生成AIカリキュラムの衝撃",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「書ける」だけでは通用しない時代へ",
-            "subtext": "2026年、AIの進化により単なるコード記述の価値が激減。今の学習方法で、お子様の将来は本当に大丈夫ですか？",
+            "headline": "「コーディングができる」だけでは、もう足りない時代へ。",
+            "subtext": "2026年、AIの進化により「書く力」より「AIに意図を伝える力」が受験や就職の評価軸に。お子様の今のスキル、AIに代替されませんか？",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "生成AIを『指揮する』実践スキルを習得",
-            "subtext": "プロンプトエンジニアリングを超えた「AIオーケストレーション」を導入。最新のAIエージェントを使いこなし、数分でアプリを形にする力を養います。",
+            "headline": "最新「プロンプト・エンジニアリング」を標準カリキュラム化！",
+            "subtext": "if塾では、マルチモーダルAIを使いこなし、複雑なシステムを設計・対話で構築する「AI共創コース」を全生徒に標準提供開始します。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が提案する「AI共生型」学習",
-            "subtext": "「AIに何を作らせるか」という企画力と、出力されたコードの「監査・修正力」に特化。夏期講習に向け、本日より新カリキュラムへ完全移行します。",
+            "headline": "この夏、if塾で学ぶ「AIを指揮する」という視点。",
+            "subtext": "単なるツール利用ではなく、AIの回答精度を劇的に変える「論理的思考力」を育成。夏期講習から新コースの全国展開がスタートします。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
