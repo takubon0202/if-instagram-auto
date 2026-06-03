@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 146,
-    "last_updated": "2026-06-03T00:00:16.888689",
+    "total_posts": 147,
+    "last_updated": "2026-06-03T13:03:46.764808",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260603_development",
+      "post_id": "20260603_development",
+      "created_at": "2026-06-03T13:03:46",
+      "datetime": "2026-06-03T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+      "target_audience": "Students & Parents",
+      "title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+      "caption": "【2026年6月】AIは「クラウド」から「オンデバイス」へ！\n\nこんにちは、if塾です！✨\n2026年の今、AI開発のトレンドは劇的な変化を迎えています。\n\nこれまではネット接続が当たり前だったAIですが、最新のPython技術とデバイスの進化により、通信なしで動く「エッジAI」が主流に。🚀\n\n✅ 通信費ゼロ！\n✅ プライバシーも安心！\n✅ ネットがなくても爆速反応！\n\n今月のif塾では、この「オンデバイスAI」をテーマにしたワークショップを開催中。学生が自分で作ったAIを自分のスマホに入れて持ち歩く、そんなワクワクする夏を準備しませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
+      "caption_text": "【2026年6月】AIは「クラウド」から「オンデバイス」へ！\n\nこんにちは、if塾です！✨\n2026年の今、AI開発のトレンドは劇的な変化を迎えています。\n\nこれまではネット接続が当たり前だったAIですが、最新のPython技術とデバイスの進化により、通信なしで動く「エッジAI」が主流に。🚀\n\n✅ 通信費ゼロ！\n✅ プライバシーも安心！\n✅ ネットがなくても爆速反応！\n\n今月のif塾では、この「オンデバイスAI」をテーマにしたワークショップを開催中。学生が自分で作ったAIを自分のスマホに入れて持ち歩く、そんなワクワクする夏を準備しませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#エッジAI",
+        "#Python学習",
+        "#オンデバイスAI",
+        "#中高生プログラミング",
+        "#最新テック",
+        "#自由研究"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "sub_title": "2026年6月版：オンデバイスAI開発の衝撃",
+          "text_content": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-01.png",
+          "image_file": "assets/img/posts/20260603_development-01.png",
+          "overlay_text": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
+          "alt": "表紙 - 2026年最新：Python×エッジAI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ネットがないと賢くない」は、もう古い？",
+          "sub_title": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+          "text_content": "「ネットがないと賢くない」は、もう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-02.png",
+          "image_file": "assets/img/posts/20260603_development-02.png",
+          "overlay_text": "「ネットがないと賢くない」は、もう古い？",
+          "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+          "alt": "内容1 - 「ネットがないと賢くない」は、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "sub_title": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+          "text_content": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-03.png",
+          "image_file": "assets/img/posts/20260603_development-03.png",
+          "overlay_text": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+          "alt": "内容2 - Python×最新NPUで爆速。デバイス"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "sub_title": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+          "text_content": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-04.png",
+          "image_file": "assets/img/posts/20260603_development-04.png",
+          "overlay_text": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+          "alt": "内容3 - 夏休みの自由研究に！「見守りAIカメラ」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "sub_title": "2026年6月版：オンデバイスAI開発の衝撃",
+          "text_content": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-01.png",
+          "image_file": "assets/img/posts/20260603_development-01.png",
+          "overlay_text": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
+          "alt": "表紙 - 2026年最新：Python×エッジAI"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「ネットがないと賢くない」は、もう古い？",
+          "sub_title": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+          "text_content": "「ネットがないと賢くない」は、もう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-02.png",
+          "image_file": "assets/img/posts/20260603_development-02.png",
+          "overlay_text": "「ネットがないと賢くない」は、もう古い？",
+          "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+          "alt": "内容1 - 「ネットがないと賢くない」は、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "sub_title": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+          "text_content": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-03.png",
+          "image_file": "assets/img/posts/20260603_development-03.png",
+          "overlay_text": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+          "alt": "内容2 - Python×最新NPUで爆速。デバイス"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "sub_title": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+          "text_content": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260603_development-04.png",
+          "image_file": "assets/img/posts/20260603_development-04.png",
+          "overlay_text": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+          "alt": "内容3 - 夏休みの自由研究に！「見守りAIカメラ」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260603_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260603_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260603_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260603_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-03T13:02:22",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年最新：Python×エッジAI",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+            "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「ネットがないと賢くない」は、もう古い？",
+            "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+            "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+            "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260602_education",
       "post_id": "20260602_education",
