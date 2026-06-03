@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 147,
-    "last_updated": "2026-06-03T13:03:46.764808",
+    "last_updated": "2026-06-03T17:36:05.607016",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260603_development",
       "post_id": "20260603_development",
-      "created_at": "2026-06-03T13:03:46",
+      "created_at": "2026-06-03T17:36:05",
       "datetime": "2026-06-03T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+      "theme": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
       "target_audience": "Students & Parents",
-      "title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-      "caption": "【2026年6月】AIは「クラウド」から「オンデバイス」へ！\n\nこんにちは、if塾です！✨\n2026年の今、AI開発のトレンドは劇的な変化を迎えています。\n\nこれまではネット接続が当たり前だったAIですが、最新のPython技術とデバイスの進化により、通信なしで動く「エッジAI」が主流に。🚀\n\n✅ 通信費ゼロ！\n✅ プライバシーも安心！\n✅ ネットがなくても爆速反応！\n\n今月のif塾では、この「オンデバイスAI」をテーマにしたワークショップを開催中。学生が自分で作ったAIを自分のスマホに入れて持ち歩く、そんなワクワクする夏を準備しませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
-      "caption_text": "【2026年6月】AIは「クラウド」から「オンデバイス」へ！\n\nこんにちは、if塾です！✨\n2026年の今、AI開発のトレンドは劇的な変化を迎えています。\n\nこれまではネット接続が当たり前だったAIですが、最新のPython技術とデバイスの進化により、通信なしで動く「エッジAI」が主流に。🚀\n\n✅ 通信費ゼロ！\n✅ プライバシーも安心！\n✅ ネットがなくても爆速反応！\n\n今月のif塾では、この「オンデバイスAI」をテーマにしたワークショップを開催中。学生が自分で作ったAIを自分のスマホに入れて持ち歩く、そんなワクワクする夏を準備しませんか？\n\n詳細はプロフィールのリンクからチェック！🔍",
+      "title": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+      "caption": "【2026年6月】最新のAI開発事情をお届け！\n\n「プログラミングは難しい」という常識は、もう過去のものです。2026年の今、大切なのは「何を作るか」という構想力と、AIをいかに使いこなすかという「共創スキル」です。\n\n今月、if塾では最新のマルチモーダルAIを活用したアプリ開発ワークショップを開催中。Pythonと最新モデルを組み合わせれば、昨日まで頭の中にあったアイデアが、今日には動くアプリになります。\n\n夏休みを前に、周りと一歩差をつける「AIネイティブ」なスキルを身につけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "caption_text": "【2026年6月】最新のAI開発事情をお届け！\n\n「プログラミングは難しい」という常識は、もう過去のものです。2026年の今、大切なのは「何を作るか」という構想力と、AIをいかに使いこなすかという「共創スキル」です。\n\n今月、if塾では最新のマルチモーダルAIを活用したアプリ開発ワークショップを開催中。Pythonと最新モデルを組み合わせれば、昨日まで頭の中にあったアイデアが、今日には動くアプリになります。\n\n夏休みを前に、周りと一歩差をつける「AIネイティブ」なスキルを身につけませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#エッジAI",
-        "#Python学習",
-        "#オンデバイスAI",
-        "#中高生プログラミング",
-        "#最新テック",
-        "#自由研究"
+        "#AIネイティブ",
+        "#Pythonプログラミング",
+        "#GPT5",
+        "#Gemini3",
+        "#自由研究2026",
+        "#エンジニア志望",
+        "#プログラミング教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-          "sub_title": "2026年6月版：オンデバイスAI開発の衝撃",
-          "text_content": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "main_title": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+          "sub_title": "2026年6月最新：Python×マルチモーダルAI連携",
+          "text_content": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-01.png",
           "image_file": "assets/img/posts/20260603_development-01.png",
-          "overlay_text": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-          "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
-          "alt": "表紙 - 2026年最新：Python×エッジAI"
+          "overlay_text": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+          "subtext": "2026年6月最新：Python×マルチモーダルAI連携",
+          "alt": "表紙 - AIと作るのが当たり前。2026年式「A"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ネットがないと賢くない」は、もう古い？",
-          "sub_title": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
-          "text_content": "「ネットがないと賢くない」は、もう古い？",
+          "main_title": "「コードを書く」から「対話して形にする」時代へ",
+          "sub_title": "夏休みの自由研究や推薦入試の準備が始まる6月。プログラミングの壁でアイデアを諦めていませんか？2026年、開発の悩みはAIと解決するのが正解です。",
+          "text_content": "「コードを書く」から「対話して形にする」時代へ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-02.png",
           "image_file": "assets/img/posts/20260603_development-02.png",
-          "overlay_text": "「ネットがないと賢くない」は、もう古い？",
-          "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
-          "alt": "内容1 - 「ネットがないと賢くない」は、もう古い？"
+          "overlay_text": "「コードを書く」から「対話して形にする」時代へ",
+          "subtext": "夏休みの自由研究や推薦入試の準備が始まる6月。プログラミングの壁でアイデアを諦めていませんか？2026年、開発の悩みはAIと解決するのが正解です。",
+          "alt": "内容1 - 「コードを書く」から「対話して形にする」"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
-          "sub_title": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
-          "text_content": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "main_title": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
+          "sub_title": "最新のAPI連携で、画像・音声・感情を理解するアプリが数時間で完成。if塾ではエージェント型AIを組み込み、自動でバグを修正しながら開発を進めます。",
+          "text_content": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-03.png",
           "image_file": "assets/img/posts/20260603_development-03.png",
-          "overlay_text": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
-          "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
-          "alt": "内容2 - Python×最新NPUで爆速。デバイス"
+          "overlay_text": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
+          "subtext": "最新のAPI連携で、画像・音声・感情を理解するアプリが数時間で完成。if塾ではエージェント型AIを組み込み、自動でバグを修正しながら開発を進めます。",
+          "alt": "内容2 - Gemini 3.0 × GPT-5oを"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
-          "sub_title": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
-          "text_content": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "main_title": "「作る力」が「考える力」を加速させる",
+          "sub_title": "AIを使いこなす生徒は、単なる実装者ではなく『ディレクター』へ。if塾のカリキュラムなら、最新AIを相棒に、社会課題を解決する自分だけのポートフォリオが完成します。",
+          "text_content": "「作る力」が「考える力」を加速させる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-04.png",
           "image_file": "assets/img/posts/20260603_development-04.png",
-          "overlay_text": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
-          "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
-          "alt": "内容3 - 夏休みの自由研究に！「見守りAIカメラ」"
+          "overlay_text": "「作る力」が「考える力」を加速させる",
+          "subtext": "AIを使いこなす生徒は、単なる実装者ではなく『ディレクター』へ。if塾のカリキュラムなら、最新AIを相棒に、社会課題を解決する自分だけのポートフォリオが完成します。",
+          "alt": "内容3 - 「作る力」が「考える力」を加速させる"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-          "sub_title": "2026年6月版：オンデバイスAI開発の衝撃",
-          "text_content": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
+          "main_title": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+          "sub_title": "2026年6月最新：Python×マルチモーダルAI連携",
+          "text_content": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-01.png",
           "image_file": "assets/img/posts/20260603_development-01.png",
-          "overlay_text": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-          "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
-          "alt": "表紙 - 2026年最新：Python×エッジAI"
+          "overlay_text": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+          "subtext": "2026年6月最新：Python×マルチモーダルAI連携",
+          "alt": "表紙 - AIと作るのが当たり前。2026年式「A"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ネットがないと賢くない」は、もう古い？",
-          "sub_title": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
-          "text_content": "「ネットがないと賢くない」は、もう古い？",
+          "main_title": "「コードを書く」から「対話して形にする」時代へ",
+          "sub_title": "夏休みの自由研究や推薦入試の準備が始まる6月。プログラミングの壁でアイデアを諦めていませんか？2026年、開発の悩みはAIと解決するのが正解です。",
+          "text_content": "「コードを書く」から「対話して形にする」時代へ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-02.png",
           "image_file": "assets/img/posts/20260603_development-02.png",
-          "overlay_text": "「ネットがないと賢くない」は、もう古い？",
-          "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
-          "alt": "内容1 - 「ネットがないと賢くない」は、もう古い？"
+          "overlay_text": "「コードを書く」から「対話して形にする」時代へ",
+          "subtext": "夏休みの自由研究や推薦入試の準備が始まる6月。プログラミングの壁でアイデアを諦めていませんか？2026年、開発の悩みはAIと解決するのが正解です。",
+          "alt": "内容1 - 「コードを書く」から「対話して形にする」"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
-          "sub_title": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
-          "text_content": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
+          "main_title": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
+          "sub_title": "最新のAPI連携で、画像・音声・感情を理解するアプリが数時間で完成。if塾ではエージェント型AIを組み込み、自動でバグを修正しながら開発を進めます。",
+          "text_content": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-03.png",
           "image_file": "assets/img/posts/20260603_development-03.png",
-          "overlay_text": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
-          "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
-          "alt": "内容2 - Python×最新NPUで爆速。デバイス"
+          "overlay_text": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
+          "subtext": "最新のAPI連携で、画像・音声・感情を理解するアプリが数時間で完成。if塾ではエージェント型AIを組み込み、自動でバグを修正しながら開発を進めます。",
+          "alt": "内容2 - Gemini 3.0 × GPT-5oを"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
-          "sub_title": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
-          "text_content": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
+          "main_title": "「作る力」が「考える力」を加速させる",
+          "sub_title": "AIを使いこなす生徒は、単なる実装者ではなく『ディレクター』へ。if塾のカリキュラムなら、最新AIを相棒に、社会課題を解決する自分だけのポートフォリオが完成します。",
+          "text_content": "「作る力」が「考える力」を加速させる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260603_development-04.png",
           "image_file": "assets/img/posts/20260603_development-04.png",
-          "overlay_text": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
-          "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
-          "alt": "内容3 - 夏休みの自由研究に！「見守りAIカメラ」"
+          "overlay_text": "「作る力」が「考える力」を加速させる",
+          "subtext": "AIを使いこなす生徒は、単なる実装者ではなく『ディレクター』へ。if塾のカリキュラムなら、最新AIを相棒に、社会課題を解決する自分だけのポートフォリオが完成します。",
+          "alt": "内容3 - 「作る力」が「考える力」を加速させる"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-03T13:02:22",
+      "research_date": "2026-06-03T17:34:35",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新：Python×エッジAI",
+        "cover_text": "AIと作るのが当たり前。2026年式「A",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新：Python×エッジAIで変わる。ネット不要の自分専用アプリ",
-            "subtext": "2026年6月版：オンデバイスAI開発の衝撃",
+            "headline": "AIと作るのが当たり前。2026年式「AIネイティブ」開発術",
+            "subtext": "2026年6月最新：Python×マルチモーダルAI連携",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「ネットがないと賢くない」は、もう古い？",
-            "subtext": "従来のAIはクラウド接続が必須。通信遅延や、お子様のプライバシー漏洩が心配な保護者の方も多いはず。2026年、AIは『端末の中』だけで完結する時代へ。",
+            "headline": "「コードを書く」から「対話して形にする」時代へ",
+            "subtext": "夏休みの自由研究や推薦入試の準備が始まる6月。プログラミングの壁でアイデアを諦めていませんか？2026年、開発の悩みはAIと解決するのが正解です。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Python×最新NPUで爆速。デバイス単体で動く驚愕のAI",
-            "subtext": "2026年最新の超軽量モデルなら、オフラインで高度な画像認識や翻訳が可能に。Pythonライブラリの進化で、学生でも自分のスマホや自作デバイスに『脳』を組み込めます。",
+            "headline": "Gemini 3.0 × GPT-5oをPythonで使い分ける",
+            "subtext": "最新のAPI連携で、画像・音声・感情を理解するアプリが数時間で完成。if塾ではエージェント型AIを組み込み、自動でバグを修正しながら開発を進めます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "夏休みの自由研究に！「見守りAIカメラ」を自作する未来",
-            "subtext": "if塾では、個人情報を送信しない『安全なAI開発』を推奨。自分の部屋だけで動く自分専用AIアプリは、これからの受験やポートフォリオで最大の強みになります。",
+            "headline": "「作る力」が「考える力」を加速させる",
+            "subtext": "AIを使いこなす生徒は、単なる実装者ではなく『ディレクター』へ。if塾のカリキュラムなら、最新AIを相棒に、社会課題を解決する自分だけのポートフォリオが完成します。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
