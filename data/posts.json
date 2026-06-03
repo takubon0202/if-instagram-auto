@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 147,
-    "last_updated": "2026-06-03T17:36:05.607016",
+    "total_posts": 148,
+    "last_updated": "2026-06-04T00:51:19.663557",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260604_ai_column",
+      "post_id": "20260604_ai_column",
+      "created_at": "2026-06-04T00:51:19",
+      "datetime": "2026-06-04T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+      "target_audience": "Students & Parents",
+      "title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+      "caption": "【2026年6月】ついにAIは「使うもの」から「勝手にやってくれるもの」へ進化しました。\n\n今月発表された『Gemini Spark』は、従来の対話型AIとは一線を画す「自律型エージェント」です。特に部活や塾で忙しい学生にとって、スケジュール管理や資料作成を自動で最適化してくれるこの技術は、救世主になるかもしれません。\n\nしかし、if塾が懸念するのは「自分で考える楽しさ」までAIに譲ってしまうこと。便利なツールを使いこなしつつ、最終的な『決断』は自分でする。そんな2026年スタイルの学習法を一緒に身につけていきましょう！\n\n詳細は公式LINEで配布中の「2026年最新AI活用ガイド」をチェック！",
+      "caption_text": "【2026年6月】ついにAIは「使うもの」から「勝手にやってくれるもの」へ進化しました。\n\n今月発表された『Gemini Spark』は、従来の対話型AIとは一線を画す「自律型エージェント」です。特に部活や塾で忙しい学生にとって、スケジュール管理や資料作成を自動で最適化してくれるこの技術は、救世主になるかもしれません。\n\nしかし、if塾が懸念するのは「自分で考える楽しさ」までAIに譲ってしまうこと。便利なツールを使いこなしつつ、最終的な『決断』は自分でする。そんな2026年スタイルの学習法を一緒に身につけていきましょう！\n\n詳細は公式LINEで配布中の「2026年最新AI活用ガイド」をチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#GeminiSpark",
+        "#AI教育",
+        "#自律型AI",
+        "#最新ガジェット",
+        "#学習自動化",
+        "#教育ICT"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "sub_title": "2026年6月最新：指示不要のAIエージェントがついに実装",
+          "text_content": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-01.png",
+          "image_file": "assets/img/posts/20260604_ai_column-01.png",
+          "overlay_text": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
+          "alt": "表紙 - Gemini Sparkが変える！202"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」の時代は終わりました。",
+          "sub_title": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+          "text_content": "「指示待ちAI」の時代は終わりました。",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-02.png",
+          "image_file": "assets/img/posts/20260604_ai_column-02.png",
+          "overlay_text": "「指示待ちAI」の時代は終わりました。",
+          "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+          "alt": "内容1 - 「指示待ちAI」の時代は終わりました。"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "期末テスト対策も、AIが勝手に進める？",
+          "sub_title": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+          "text_content": "期末テスト対策も、AIが勝手に進める？",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-03.png",
+          "image_file": "assets/img/posts/20260604_ai_column-03.png",
+          "overlay_text": "期末テスト対策も、AIが勝手に進める？",
+          "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+          "alt": "内容2 - 期末テスト対策も、AIが勝手に進める？"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIに「任せる」と「決める」の境界線",
+          "sub_title": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+          "text_content": "if塾流：AIに「任せる」と「決める」の境界線",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-04.png",
+          "image_file": "assets/img/posts/20260604_ai_column-04.png",
+          "overlay_text": "if塾流：AIに「任せる」と「決める」の境界線",
+          "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+          "alt": "内容3 - if塾流：AIに「任せる」と「決める」の"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "sub_title": "2026年6月最新：指示不要のAIエージェントがついに実装",
+          "text_content": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-01.png",
+          "image_file": "assets/img/posts/20260604_ai_column-01.png",
+          "overlay_text": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
+          "alt": "表紙 - Gemini Sparkが変える！202"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「指示待ちAI」の時代は終わりました。",
+          "sub_title": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+          "text_content": "「指示待ちAI」の時代は終わりました。",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-02.png",
+          "image_file": "assets/img/posts/20260604_ai_column-02.png",
+          "overlay_text": "「指示待ちAI」の時代は終わりました。",
+          "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+          "alt": "内容1 - 「指示待ちAI」の時代は終わりました。"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "期末テスト対策も、AIが勝手に進める？",
+          "sub_title": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+          "text_content": "期末テスト対策も、AIが勝手に進める？",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-03.png",
+          "image_file": "assets/img/posts/20260604_ai_column-03.png",
+          "overlay_text": "期末テスト対策も、AIが勝手に進める？",
+          "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+          "alt": "内容2 - 期末テスト対策も、AIが勝手に進める？"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIに「任せる」と「決める」の境界線",
+          "sub_title": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+          "text_content": "if塾流：AIに「任せる」と「決める」の境界線",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260604_ai_column-04.png",
+          "image_file": "assets/img/posts/20260604_ai_column-04.png",
+          "overlay_text": "if塾流：AIに「任せる」と「決める」の境界線",
+          "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+          "alt": "内容3 - if塾流：AIに「任せる」と「決める」の"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260604_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260604_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260604_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260604_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-04T00:49:46",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "Gemini Sparkが変える！202",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+            "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「指示待ちAI」の時代は終わりました。",
+            "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "期末テスト対策も、AIが勝手に進める？",
+            "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIに「任せる」と「決める」の境界線",
+            "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260603_development",
       "post_id": "20260603_development",
