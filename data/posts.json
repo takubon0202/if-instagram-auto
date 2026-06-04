@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 148,
-    "last_updated": "2026-06-04T00:51:19.663557",
+    "last_updated": "2026-06-04T12:58:51.740001",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260604_ai_column",
       "post_id": "20260604_ai_column",
-      "created_at": "2026-06-04T00:51:19",
+      "created_at": "2026-06-04T12:58:51",
       "datetime": "2026-06-04T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+      "theme": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
       "target_audience": "Students & Parents",
-      "title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-      "caption": "【2026年6月】ついにAIは「使うもの」から「勝手にやってくれるもの」へ進化しました。\n\n今月発表された『Gemini Spark』は、従来の対話型AIとは一線を画す「自律型エージェント」です。特に部活や塾で忙しい学生にとって、スケジュール管理や資料作成を自動で最適化してくれるこの技術は、救世主になるかもしれません。\n\nしかし、if塾が懸念するのは「自分で考える楽しさ」までAIに譲ってしまうこと。便利なツールを使いこなしつつ、最終的な『決断』は自分でする。そんな2026年スタイルの学習法を一緒に身につけていきましょう！\n\n詳細は公式LINEで配布中の「2026年最新AI活用ガイド」をチェック！",
-      "caption_text": "【2026年6月】ついにAIは「使うもの」から「勝手にやってくれるもの」へ進化しました。\n\n今月発表された『Gemini Spark』は、従来の対話型AIとは一線を画す「自律型エージェント」です。特に部活や塾で忙しい学生にとって、スケジュール管理や資料作成を自動で最適化してくれるこの技術は、救世主になるかもしれません。\n\nしかし、if塾が懸念するのは「自分で考える楽しさ」までAIに譲ってしまうこと。便利なツールを使いこなしつつ、最終的な『決断』は自分でする。そんな2026年スタイルの学習法を一緒に身につけていきましょう！\n\n詳細は公式LINEで配布中の「2026年最新AI活用ガイド」をチェック！",
+      "title": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+      "caption": "【2026年6月】ついにChatGPT 5.5が完全に浸透してきましたね！\n\n今月の大きなトピックは、進化した『学習モード』の活用法です。\nこれまでのAIは「答えを教えてくれる便利な道具」でしたが、今のAIは「あなたの思考の弱点を見抜く家庭教師」へと進化しました。\n\n特に定期テストや模試が続くこの時期、GPT-5.5の論理的推論機能をどう使いこなすかで、夏休み以降の伸びが劇的に変わります。\n\nif塾では、AIを単なる効率化ツールではなく、自分の頭で考える力を伸ばす『思考の増幅器』として活用することを推奨しています。\n\n「AIに使われる」のではなく「AIを使いこなす」次世代の学習スタイルを、今すぐ始めましょう！\n\n詳細はプロフィール欄のリンクからチェック👀\n\n#AIコラム #ChatGPT5 #2026年教育 #if塾 #個別指導 #最新テクノロジー #DX教育",
+      "caption_text": "【2026年6月】ついにChatGPT 5.5が完全に浸透してきましたね！\n\n今月の大きなトピックは、進化した『学習モード』の活用法です。\nこれまでのAIは「答えを教えてくれる便利な道具」でしたが、今のAIは「あなたの思考の弱点を見抜く家庭教師」へと進化しました。\n\n特に定期テストや模試が続くこの時期、GPT-5.5の論理的推論機能をどう使いこなすかで、夏休み以降の伸びが劇的に変わります。\n\nif塾では、AIを単なる効率化ツールではなく、自分の頭で考える力を伸ばす『思考の増幅器』として活用することを推奨しています。\n\n「AIに使われる」のではなく「AIを使いこなす」次世代の学習スタイルを、今すぐ始めましょう！\n\n詳細はプロフィール欄のリンクからチェック👀\n\n#AIコラム #ChatGPT5 #2026年教育 #if塾 #個別指導 #最新テクノロジー #DX教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#GeminiSpark",
+        "#ChatGPT5",
         "#AI教育",
-        "#自律型AI",
-        "#最新ガジェット",
-        "#学習自動化",
-        "#教育ICT"
+        "#論理的思考",
+        "#学習ハック",
+        "#最新AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-          "sub_title": "2026年6月最新：指示不要のAIエージェントがついに実装",
-          "text_content": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "main_title": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+          "sub_title": "【2026年6月最新】AIは「答え」から「伴走者」へ",
+          "text_content": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-01.png",
           "image_file": "assets/img/posts/20260604_ai_column-01.png",
-          "overlay_text": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-          "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
-          "alt": "表紙 - Gemini Sparkが変える！202"
+          "overlay_text": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+          "subtext": "【2026年6月最新】AIは「答え」から「伴走者」へ",
+          "alt": "表紙 - ChatGPT 5.5 解禁！驚異の『学"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」の時代は終わりました。",
-          "sub_title": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
-          "text_content": "「指示待ちAI」の時代は終わりました。",
+          "main_title": "ただの検索はもう古い。AIが『思考』する時代へ",
+          "sub_title": "「公式を暗記しても解けない」「応用問題で詰まる」そんな悩み、2026年の最新AI『GPT-5.5』が根本から解決します。",
+          "text_content": "ただの検索はもう古い。AIが『思考』する時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-02.png",
           "image_file": "assets/img/posts/20260604_ai_column-02.png",
-          "overlay_text": "「指示待ちAI」の時代は終わりました。",
-          "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
-          "alt": "内容1 - 「指示待ちAI」の時代は終わりました。"
+          "overlay_text": "ただの検索はもう古い。AIが『思考』する時代へ",
+          "subtext": "「公式を暗記しても解けない」「応用問題で詰まる」そんな悩み、2026年の最新AI『GPT-5.5』が根本から解決します。",
+          "alt": "内容1 - ただの検索はもう古い。AIが『思考』する"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "期末テスト対策も、AIが勝手に進める？",
-          "sub_title": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
-          "text_content": "期末テスト対策も、AIが勝手に進める？",
+          "main_title": "新機能『高度な学習モード』の破壊力",
+          "sub_title": "間違えた箇所を分析し、あなたの思考の癖を特定。24時間365日、個別指導塾レベルの論理的推論で解法を導き出します。",
+          "text_content": "新機能『高度な学習モード』の破壊力",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-03.png",
           "image_file": "assets/img/posts/20260604_ai_column-03.png",
-          "overlay_text": "期末テスト対策も、AIが勝手に進める？",
-          "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
-          "alt": "内容2 - 期末テスト対策も、AIが勝手に進める？"
+          "overlay_text": "新機能『高度な学習モード』の破壊力",
+          "subtext": "間違えた箇所を分析し、あなたの思考の癖を特定。24時間365日、個別指導塾レベルの論理的推論で解法を導き出します。",
+          "alt": "内容2 - 新機能『高度な学習モード』の破壊力"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIに「任せる」と「決める」の境界線",
-          "sub_title": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
-          "text_content": "if塾流：AIに「任せる」と「決める」の境界線",
+          "main_title": "if塾流：AIを『カンニング』に使わない極意",
+          "sub_title": "答えを聞くのではなく「ヒントの出し方を指示」しましょう。メタ認知能力を鍛えることが、2027年入試の勝敗を分けます。",
+          "text_content": "if塾流：AIを『カンニング』に使わない極意",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-04.png",
           "image_file": "assets/img/posts/20260604_ai_column-04.png",
-          "overlay_text": "if塾流：AIに「任せる」と「決める」の境界線",
-          "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
-          "alt": "内容3 - if塾流：AIに「任せる」と「決める」の"
+          "overlay_text": "if塾流：AIを『カンニング』に使わない極意",
+          "subtext": "答えを聞くのではなく「ヒントの出し方を指示」しましょう。メタ認知能力を鍛えることが、2027年入試の勝敗を分けます。",
+          "alt": "内容3 - if塾流：AIを『カンニング』に使わない"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-          "sub_title": "2026年6月最新：指示不要のAIエージェントがついに実装",
-          "text_content": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
+          "main_title": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+          "sub_title": "【2026年6月最新】AIは「答え」から「伴走者」へ",
+          "text_content": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-01.png",
           "image_file": "assets/img/posts/20260604_ai_column-01.png",
-          "overlay_text": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-          "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
-          "alt": "表紙 - Gemini Sparkが変える！202"
+          "overlay_text": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+          "subtext": "【2026年6月最新】AIは「答え」から「伴走者」へ",
+          "alt": "表紙 - ChatGPT 5.5 解禁！驚異の『学"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」の時代は終わりました。",
-          "sub_title": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
-          "text_content": "「指示待ちAI」の時代は終わりました。",
+          "main_title": "ただの検索はもう古い。AIが『思考』する時代へ",
+          "sub_title": "「公式を暗記しても解けない」「応用問題で詰まる」そんな悩み、2026年の最新AI『GPT-5.5』が根本から解決します。",
+          "text_content": "ただの検索はもう古い。AIが『思考』する時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-02.png",
           "image_file": "assets/img/posts/20260604_ai_column-02.png",
-          "overlay_text": "「指示待ちAI」の時代は終わりました。",
-          "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
-          "alt": "内容1 - 「指示待ちAI」の時代は終わりました。"
+          "overlay_text": "ただの検索はもう古い。AIが『思考』する時代へ",
+          "subtext": "「公式を暗記しても解けない」「応用問題で詰まる」そんな悩み、2026年の最新AI『GPT-5.5』が根本から解決します。",
+          "alt": "内容1 - ただの検索はもう古い。AIが『思考』する"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "期末テスト対策も、AIが勝手に進める？",
-          "sub_title": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
-          "text_content": "期末テスト対策も、AIが勝手に進める？",
+          "main_title": "新機能『高度な学習モード』の破壊力",
+          "sub_title": "間違えた箇所を分析し、あなたの思考の癖を特定。24時間365日、個別指導塾レベルの論理的推論で解法を導き出します。",
+          "text_content": "新機能『高度な学習モード』の破壊力",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-03.png",
           "image_file": "assets/img/posts/20260604_ai_column-03.png",
-          "overlay_text": "期末テスト対策も、AIが勝手に進める？",
-          "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
-          "alt": "内容2 - 期末テスト対策も、AIが勝手に進める？"
+          "overlay_text": "新機能『高度な学習モード』の破壊力",
+          "subtext": "間違えた箇所を分析し、あなたの思考の癖を特定。24時間365日、個別指導塾レベルの論理的推論で解法を導き出します。",
+          "alt": "内容2 - 新機能『高度な学習モード』の破壊力"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIに「任せる」と「決める」の境界線",
-          "sub_title": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
-          "text_content": "if塾流：AIに「任せる」と「決める」の境界線",
+          "main_title": "if塾流：AIを『カンニング』に使わない極意",
+          "sub_title": "答えを聞くのではなく「ヒントの出し方を指示」しましょう。メタ認知能力を鍛えることが、2027年入試の勝敗を分けます。",
+          "text_content": "if塾流：AIを『カンニング』に使わない極意",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260604_ai_column-04.png",
           "image_file": "assets/img/posts/20260604_ai_column-04.png",
-          "overlay_text": "if塾流：AIに「任せる」と「決める」の境界線",
-          "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
-          "alt": "内容3 - if塾流：AIに「任せる」と「決める」の"
+          "overlay_text": "if塾流：AIを『カンニング』に使わない極意",
+          "subtext": "答えを聞くのではなく「ヒントの出し方を指示」しましょう。メタ認知能力を鍛えることが、2027年入試の勝敗を分けます。",
+          "alt": "内容3 - if塾流：AIを『カンニング』に使わない"
         },
         {
           "page_number": 5,
@@ -244,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-04T00:49:46",
+      "research_date": "2026-06-04T12:57:25",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Gemini Sparkが変える！202",
+        "cover_text": "ChatGPT 5.5 解禁！驚異の『学",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Gemini Sparkが変える！2026年夏の「全自動」学習革命",
-            "subtext": "2026年6月最新：指示不要のAIエージェントがついに実装",
+            "headline": "ChatGPT 5.5 解禁！驚異の『学習モード』で成績が激変する夏",
+            "subtext": "【2026年6月最新】AIは「答え」から「伴走者」へ",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ちAI」の時代は終わりました。",
-            "subtext": "2026年6月、Googleが放つ『Gemini Spark』は、あなたのスケジュール、学習進度、体調を読み取り、自律的にToDoを完結させるAIエージェントです。",
+            "headline": "ただの検索はもう古い。AIが『思考』する時代へ",
+            "subtext": "「公式を暗記しても解けない」「応用問題で詰まる」そんな悩み、2026年の最新AI『GPT-5.5』が根本から解決します。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "期末テスト対策も、AIが勝手に進める？",
-            "subtext": "「来週の試験勉強しなきゃ」と悩む必要はありません。Sparkが教科書データを解析し、苦手分野の克服メニューを生成。深夜の無理な学習を検知して、睡眠時間の確保まで自動調整します。",
+            "headline": "新機能『高度な学習モード』の破壊力",
+            "subtext": "間違えた箇所を分析し、あなたの思考の癖を特定。24時間365日、個別指導塾レベルの論理的推論で解法を導き出します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIに「任せる」と「決める」の境界線",
-            "subtext": "便利すぎて『思考停止』に陥るのが2026年の落とし穴。if塾では、AIが提示した複数の『最適解』から、あえて困難な道を選び抜く『意志の力』を育てる活用法を推奨しています。",
+            "headline": "if塾流：AIを『カンニング』に使わない極意",
+            "subtext": "答えを聞くのではなく「ヒントの出し方を指示」しましょう。メタ認知能力を鍛えることが、2027年入試の勝敗を分けます。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
