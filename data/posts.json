@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 148,
-    "last_updated": "2026-06-04T23:08:35.890562",
+    "total_posts": 149,
+    "last_updated": "2026-06-05T12:42:42.076364",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260605_business",
+      "post_id": "20260605_business",
+      "created_at": "2026-06-05T12:42:42",
+      "datetime": "2026-06-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+      "target_audience": "Students & Parents",
+      "title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+      "caption": "【2026年6月】中高生の新たな進路の形が見えてきました。\n\n今、全国の商店街で「AI地域サポーター」として活躍する10代が急増しています！\n\n「AIを使いこなせる」ことは、もはや特別なことではありません。\n大事なのは、その力を「誰のために使うか」です。\n\n最新の動画生成AIや多言語SNS運用ツールを武器に、\nシャッター街を活性化させる中高生たちは、\n自治体からも大きな注目を集めています。\n\n「ただ学ぶ」から「社会で使う」へ。\nif塾では、そんな次世代のAI活用法を提案しています。\n\n詳細は公式LINEからチェック！",
+      "caption_text": "【2026年6月】中高生の新たな進路の形が見えてきました。\n\n今、全国の商店街で「AI地域サポーター」として活躍する10代が急増しています！\n\n「AIを使いこなせる」ことは、もはや特別なことではありません。\n大事なのは、その力を「誰のために使うか」です。\n\n最新の動画生成AIや多言語SNS運用ツールを武器に、\nシャッター街を活性化させる中高生たちは、\n自治体からも大きな注目を集めています。\n\n「ただ学ぶ」から「社会で使う」へ。\nif塾では、そんな次世代のAI活用法を提案しています。\n\n詳細は公式LINEからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI地域サポーター",
+        "#中高生",
+        "#生成AI",
+        "#地方創生",
+        "#キャリア教育",
+        "#SNS運用",
+        "#商店街活性化"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "sub_title": "2026年6月5日：最新トレンドニュース",
+          "text_content": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-01.png",
+          "image_file": "assets/img/posts/20260605_business-01.png",
+          "overlay_text": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "subtext": "2026年6月5日：最新トレンドニュース",
+          "alt": "表紙 - 2026年最新版！中高生が「AI」で地元"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「地元のために何かしたい」けど、どう動けばいい？",
+          "sub_title": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+          "text_content": "「地元のために何かしたい」けど、どう動けばいい？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-02.png",
+          "image_file": "assets/img/posts/20260605_business-02.png",
+          "overlay_text": "「地元のために何かしたい」けど、どう動けばいい？",
+          "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+          "alt": "内容1 - 「地元のために何かしたい」けど、どう動け"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "sub_title": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+          "text_content": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-03.png",
+          "image_file": "assets/img/posts/20260605_business-03.png",
+          "overlay_text": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+          "alt": "内容2 - 「動画AI」×「多言語AI」が商店街をア"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "sub_title": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+          "text_content": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-04.png",
+          "image_file": "assets/img/posts/20260605_business-04.png",
+          "overlay_text": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+          "alt": "内容3 - 【if塾の視点】スキルを「お金」と「感謝"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "sub_title": "2026年6月5日：最新トレンドニュース",
+          "text_content": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-01.png",
+          "image_file": "assets/img/posts/20260605_business-01.png",
+          "overlay_text": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "subtext": "2026年6月5日：最新トレンドニュース",
+          "alt": "表紙 - 2026年最新版！中高生が「AI」で地元"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「地元のために何かしたい」けど、どう動けばいい？",
+          "sub_title": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+          "text_content": "「地元のために何かしたい」けど、どう動けばいい？",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-02.png",
+          "image_file": "assets/img/posts/20260605_business-02.png",
+          "overlay_text": "「地元のために何かしたい」けど、どう動けばいい？",
+          "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+          "alt": "内容1 - 「地元のために何かしたい」けど、どう動け"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "sub_title": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+          "text_content": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-03.png",
+          "image_file": "assets/img/posts/20260605_business-03.png",
+          "overlay_text": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+          "alt": "内容2 - 「動画AI」×「多言語AI」が商店街をア"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "sub_title": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+          "text_content": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260605_business-04.png",
+          "image_file": "assets/img/posts/20260605_business-04.png",
+          "overlay_text": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+          "alt": "内容3 - 【if塾の視点】スキルを「お金」と「感謝"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260605_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260605_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260605_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260605_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-05T12:41:13",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年最新版！中高生が「AI」で地元",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+            "subtext": "2026年6月5日：最新トレンドニュース",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「地元のために何かしたい」けど、どう動けばいい？",
+            "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「動画AI」×「多言語AI」が商店街をアップデート！",
+            "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+            "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260604_ai_column",
       "post_id": "20260604_ai_column",
