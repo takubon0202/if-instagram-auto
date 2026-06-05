@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 149,
-    "last_updated": "2026-06-05T12:42:42.076364",
+    "last_updated": "2026-06-05T16:54:19.978142",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260605_business",
       "post_id": "20260605_business",
-      "created_at": "2026-06-05T12:42:42",
+      "created_at": "2026-06-05T16:54:19",
       "datetime": "2026-06-05T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+      "theme": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-      "caption": "【2026年6月】中高生の新たな進路の形が見えてきました。\n\n今、全国の商店街で「AI地域サポーター」として活躍する10代が急増しています！\n\n「AIを使いこなせる」ことは、もはや特別なことではありません。\n大事なのは、その力を「誰のために使うか」です。\n\n最新の動画生成AIや多言語SNS運用ツールを武器に、\nシャッター街を活性化させる中高生たちは、\n自治体からも大きな注目を集めています。\n\n「ただ学ぶ」から「社会で使う」へ。\nif塾では、そんな次世代のAI活用法を提案しています。\n\n詳細は公式LINEからチェック！",
-      "caption_text": "【2026年6月】中高生の新たな進路の形が見えてきました。\n\n今、全国の商店街で「AI地域サポーター」として活躍する10代が急増しています！\n\n「AIを使いこなせる」ことは、もはや特別なことではありません。\n大事なのは、その力を「誰のために使うか」です。\n\n最新の動画生成AIや多言語SNS運用ツールを武器に、\nシャッター街を活性化させる中高生たちは、\n自治体からも大きな注目を集めています。\n\n「ただ学ぶ」から「社会で使う」へ。\nif塾では、そんな次世代のAI活用法を提案しています。\n\n詳細は公式LINEからチェック！",
+      "title": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+      "caption": "【2026年6月】最新の教育・ビジネスコラムをお届けします！\n\n今、全国で「AIローカルサポーター」という新しい役割が中高生の間で広がっているのをご存知ですか？\n\nかつてのSNS代行は「動画編集スキル」を競うものでしたが、2026年の現在は「AIをいかに地域課題にアジャストさせるか」が重要視されています。\n\n夏休みを前に、地域の店舗や自治体の広報をAIで支援し、対価を得る学生が急増中。これは単なるお小遣い稼ぎではなく、最新のAIリテラシーと社会貢献を掛け合わせた究極の「探究学習」です。\n\nif塾では、AIをツールとして使いこなし、社会とつながる「次世代のリーダー」を育成しています。\n\n今のうちに最新のAIスキルを武器に、地元に貢献する一歩を踏み出してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #生成AI #探究学習 #AIローカルサポーター #中高生 #地域貢献 #キャリア教育 #最新ニュース",
+      "caption_text": "【2026年6月】最新の教育・ビジネスコラムをお届けします！\n\n今、全国で「AIローカルサポーター」という新しい役割が中高生の間で広がっているのをご存知ですか？\n\nかつてのSNS代行は「動画編集スキル」を競うものでしたが、2026年の現在は「AIをいかに地域課題にアジャストさせるか」が重要視されています。\n\n夏休みを前に、地域の店舗や自治体の広報をAIで支援し、対価を得る学生が急増中。これは単なるお小遣い稼ぎではなく、最新のAIリテラシーと社会貢献を掛け合わせた究極の「探究学習」です。\n\nif塾では、AIをツールとして使いこなし、社会とつながる「次世代のリーダー」を育成しています。\n\n今のうちに最新のAIスキルを武器に、地元に貢献する一歩を踏み出してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #生成AI #探究学習 #AIローカルサポーター #中高生 #地域貢献 #キャリア教育 #最新ニュース",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI地域サポーター",
-        "#中高生",
         "#生成AI",
-        "#地方創生",
-        "#キャリア教育",
-        "#SNS運用",
-        "#商店街活性化"
+        "#地域貢献",
+        "#中高生起業",
+        "#SNS代行",
+        "#AIリテラシー",
+        "#地方創生"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-          "sub_title": "2026年6月5日：最新トレンドニュース",
-          "text_content": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "main_title": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+          "sub_title": "【2026年6月5日】AIローカルサポーターの台頭",
+          "text_content": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-01.png",
           "image_file": "assets/img/posts/20260605_business-01.png",
-          "overlay_text": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-          "subtext": "2026年6月5日：最新トレンドニュース",
-          "alt": "表紙 - 2026年最新版！中高生が「AI」で地元"
+          "overlay_text": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+          "subtext": "【2026年6月5日】AIローカルサポーターの台頭",
+          "alt": "表紙 - 中高生がAIで月5万稼ぐ！2026年最新"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「地元のために何かしたい」けど、どう動けばいい？",
-          "sub_title": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
-          "text_content": "「地元のために何かしたい」けど、どう動けばいい？",
+          "main_title": "「動画編集はもう古い？」飽和するSNS代行の悩み",
+          "sub_title": "スキルを身につけても案件が取れない…。そんな中高生が増える中、今注目は『超・地域密着型』のAI活用です。",
+          "text_content": "「動画編集はもう古い？」飽和するSNS代行の悩み",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-02.png",
           "image_file": "assets/img/posts/20260605_business-02.png",
-          "overlay_text": "「地元のために何かしたい」けど、どう動けばいい？",
-          "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
-          "alt": "内容1 - 「地元のために何かしたい」けど、どう動け"
+          "overlay_text": "「動画編集はもう古い？」飽和するSNS代行の悩み",
+          "subtext": "スキルを身につけても案件が取れない…。そんな中高生が増える中、今注目は『超・地域密着型』のAI活用です。",
+          "alt": "内容1 - 「動画編集はもう古い？」飽和するSNS代"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「動画AI」×「多言語AI」が商店街をアップデート！",
-          "sub_title": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
-          "text_content": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "main_title": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
+          "sub_title": "自治体公認の『AIローカルサポーター』が急増。最新の生成AIで、地元の商店街のPR記事やインスタ投稿を5分で作成・代行する時代へ。",
+          "text_content": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-03.png",
           "image_file": "assets/img/posts/20260605_business-03.png",
-          "overlay_text": "「動画AI」×「多言語AI」が商店街をアップデート！",
-          "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
-          "alt": "内容2 - 「動画AI」×「多言語AI」が商店街をア"
+          "overlay_text": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
+          "subtext": "自治体公認の『AIローカルサポーター』が急増。最新の生成AIで、地元の商店街のPR記事やインスタ投稿を5分で作成・代行する時代へ。",
+          "alt": "内容2 - 爆速広報を実現する「GPT-5.5」と「"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
-          "sub_title": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
-          "text_content": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "main_title": "技術より大事なのは「地元の大人との対話力」",
+          "sub_title": "if塾が教える成功の鍵は、AIを『魔法の杖』にせず、地域の課題を言語化する『通訳者』になるマインドセットです。",
+          "text_content": "技術より大事なのは「地元の大人との対話力」",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-04.png",
           "image_file": "assets/img/posts/20260605_business-04.png",
-          "overlay_text": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
-          "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
-          "alt": "内容3 - 【if塾の視点】スキルを「お金」と「感謝"
+          "overlay_text": "技術より大事なのは「地元の大人との対話力」",
+          "subtext": "if塾が教える成功の鍵は、AIを『魔法の杖』にせず、地域の課題を言語化する『通訳者』になるマインドセットです。",
+          "alt": "内容3 - 技術より大事なのは「地元の大人との対話力"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-          "sub_title": "2026年6月5日：最新トレンドニュース",
-          "text_content": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
+          "main_title": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+          "sub_title": "【2026年6月5日】AIローカルサポーターの台頭",
+          "text_content": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-01.png",
           "image_file": "assets/img/posts/20260605_business-01.png",
-          "overlay_text": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-          "subtext": "2026年6月5日：最新トレンドニュース",
-          "alt": "表紙 - 2026年最新版！中高生が「AI」で地元"
+          "overlay_text": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+          "subtext": "【2026年6月5日】AIローカルサポーターの台頭",
+          "alt": "表紙 - 中高生がAIで月5万稼ぐ！2026年最新"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「地元のために何かしたい」けど、どう動けばいい？",
-          "sub_title": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
-          "text_content": "「地元のために何かしたい」けど、どう動けばいい？",
+          "main_title": "「動画編集はもう古い？」飽和するSNS代行の悩み",
+          "sub_title": "スキルを身につけても案件が取れない…。そんな中高生が増える中、今注目は『超・地域密着型』のAI活用です。",
+          "text_content": "「動画編集はもう古い？」飽和するSNS代行の悩み",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-02.png",
           "image_file": "assets/img/posts/20260605_business-02.png",
-          "overlay_text": "「地元のために何かしたい」けど、どう動けばいい？",
-          "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
-          "alt": "内容1 - 「地元のために何かしたい」けど、どう動け"
+          "overlay_text": "「動画編集はもう古い？」飽和するSNS代行の悩み",
+          "subtext": "スキルを身につけても案件が取れない…。そんな中高生が増える中、今注目は『超・地域密着型』のAI活用です。",
+          "alt": "内容1 - 「動画編集はもう古い？」飽和するSNS代"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「動画AI」×「多言語AI」が商店街をアップデート！",
-          "sub_title": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
-          "text_content": "「動画AI」×「多言語AI」が商店街をアップデート！",
+          "main_title": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
+          "sub_title": "自治体公認の『AIローカルサポーター』が急増。最新の生成AIで、地元の商店街のPR記事やインスタ投稿を5分で作成・代行する時代へ。",
+          "text_content": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-03.png",
           "image_file": "assets/img/posts/20260605_business-03.png",
-          "overlay_text": "「動画AI」×「多言語AI」が商店街をアップデート！",
-          "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
-          "alt": "内容2 - 「動画AI」×「多言語AI」が商店街をア"
+          "overlay_text": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
+          "subtext": "自治体公認の『AIローカルサポーター』が急増。最新の生成AIで、地元の商店街のPR記事やインスタ投稿を5分で作成・代行する時代へ。",
+          "alt": "内容2 - 爆速広報を実現する「GPT-5.5」と「"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
-          "sub_title": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
-          "text_content": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
+          "main_title": "技術より大事なのは「地元の大人との対話力」",
+          "sub_title": "if塾が教える成功の鍵は、AIを『魔法の杖』にせず、地域の課題を言語化する『通訳者』になるマインドセットです。",
+          "text_content": "技術より大事なのは「地元の大人との対話力」",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260605_business-04.png",
           "image_file": "assets/img/posts/20260605_business-04.png",
-          "overlay_text": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
-          "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
-          "alt": "内容3 - 【if塾の視点】スキルを「お金」と「感謝"
+          "overlay_text": "技術より大事なのは「地元の大人との対話力」",
+          "subtext": "if塾が教える成功の鍵は、AIを『魔法の杖』にせず、地域の課題を言語化する『通訳者』になるマインドセットです。",
+          "alt": "内容3 - 技術より大事なのは「地元の大人との対話力"
         },
         {
           "page_number": 5,
@@ -245,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-05T12:41:13",
+      "research_date": "2026-06-05T16:52:47",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！中高生が「AI」で地元",
+        "cover_text": "中高生がAIで月5万稼ぐ！2026年最新",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！中高生が「AI」で地元を救う？月5万稼ぐAI地域サポーターが急増中",
-            "subtext": "2026年6月5日：最新トレンドニュース",
+            "headline": "中高生がAIで月5万稼ぐ！2026年最新の「地域貢献」副業術",
+            "subtext": "【2026年6月5日】AIローカルサポーターの台頭",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「地元のために何かしたい」けど、どう動けばいい？",
-            "subtext": "商店街の衰退、SNS更新の停滞。学生の意欲はあるけれど、具体的な『スキル』と『貢献方法』が見つからない。そんな悩みが2026年の今、解消されています。",
+            "headline": "「動画編集はもう古い？」飽和するSNS代行の悩み",
+            "subtext": "スキルを身につけても案件が取れない…。そんな中高生が増える中、今注目は『超・地域密着型』のAI活用です。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "「動画AI」×「多言語AI」が商店街をアップデート！",
-            "subtext": "Sora2やMidjourney v7を駆使した魅力的なSNS広告制作、リアルタイム翻訳AIによる訪日客対応。中高生が「AIクリエイティブ」で店主を支える時代です。",
+            "headline": "爆速広報を実現する「GPT-5.5」と「Local-AI」の連携",
+            "subtext": "自治体公認の『AIローカルサポーター』が急増。最新の生成AIで、地元の商店街のPR記事やインスタ投稿を5分で作成・代行する時代へ。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "【if塾の視点】スキルを「お金」と「感謝」に変える方法",
-            "subtext": "単なる操作法ではなく、店主の想いを汲み取る『対話力』こそがAI時代の鍵。地域通貨や奨学金枠での報酬も増えており、AI活用が立派なキャリア実績に繋がります。",
+            "headline": "技術より大事なのは「地元の大人との対話力」",
+            "subtext": "if塾が教える成功の鍵は、AIを『魔法の杖』にせず、地域の課題を言語化する『通訳者』になるマインドセットです。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
