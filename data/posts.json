@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 149,
-    "last_updated": "2026-06-05T22:56:32.341754",
+    "total_posts": 150,
+    "last_updated": "2026-06-06T12:27:07.695202",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260606_activity",
+      "post_id": "20260606_activity",
+      "created_at": "2026-06-06T12:27:07",
+      "datetime": "2026-06-06T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+      "target_audience": "Students & Parents",
+      "title": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+      "caption": "【2026年6月】最新の開発現場からお届けします✨\n\n「プログラミング＝難しいコードを覚えること」\nそんな常識が、今まさに塗り替えられています。\n\n本日のif塾では、2026年のトレンドである『Vibe Coding』をテーマにした開発ワークショップを開催しました。💻🎨\n\nAIに自分の感性（Vibe）を伝え、対話しながらアプリを作り上げていく生徒たちの表情は、真剣そのもの。エラーに時間を奪われるのではなく、「もっとこうしたい！」という創造的な試行錯誤に時間を割けるようになっています。\n\n技術の進歩は、子供たちの「想像力」を直接形にする魔法になります。if塾は、最新のテクノロジーを味方につけ、未来を切り拓く力を全力でサポートします！\n\n詳細はプロフィールのリンクをチェック🔗\n\n#if塾 #2026年 #VibeCoding #次世代教育 #生成AI #プログラミング教育 #最新テクノロジー #中高生向けAI塾",
+      "caption_text": "【2026年6月】最新の開発現場からお届けします✨\n\n「プログラミング＝難しいコードを覚えること」\nそんな常識が、今まさに塗り替えられています。\n\n本日のif塾では、2026年のトレンドである『Vibe Coding』をテーマにした開発ワークショップを開催しました。💻🎨\n\nAIに自分の感性（Vibe）を伝え、対話しながらアプリを作り上げていく生徒たちの表情は、真剣そのもの。エラーに時間を奪われるのではなく、「もっとこうしたい！」という創造的な試行錯誤に時間を割けるようになっています。\n\n技術の進歩は、子供たちの「想像力」を直接形にする魔法になります。if塾は、最新のテクノロジーを味方につけ、未来を切り拓く力を全力でサポートします！\n\n詳細はプロフィールのリンクをチェック🔗\n\n#if塾 #2026年 #VibeCoding #次世代教育 #生成AI #プログラミング教育 #最新テクノロジー #中高生向けAI塾",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#VibeCoding",
+        "#生成AI",
+        "#プログラミング教育",
+        "#AI共創",
+        "#教育の未来"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "sub_title": "2026.06.06 if塾・活動報告",
+          "text_content": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-01.png",
+          "image_file": "assets/img/posts/20260606_activity-01.png",
+          "overlay_text": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "subtext": "2026.06.06 if塾・活動報告",
+          "alt": "表紙 - コードを書かない開発？2026年最新「V"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "sub_title": "夏休みを前に、自由研究や個人アプリ開発のアイデアが溢れる6月。しかし「構文エラー」や「環境構築」で挫折する生徒が多いのが現実でした。",
+          "text_content": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-02.png",
+          "image_file": "assets/img/posts/20260606_activity-02.png",
+          "overlay_text": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "subtext": "夏休みを前に、自由研究や個人アプリ開発のアイデアが溢れる6月。しかし「構文エラー」や「環境構築」で挫折する生徒が多いのが現実でした。",
+          "alt": "内容1 - 「やりたい」が形にならない…そんな壁、も"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIと感性で会話する。それが最新の開発スタイル。",
+          "sub_title": "今日の授業では、自然言語で指示し、AIと対話しながらアプリを組み上げる「Vibe Coding」を導入。生徒たちはエラーに悩むことなく、デザインや機能の「手触り」に集中していました。",
+          "text_content": "AIと感性で会話する。それが最新の開発スタイル。",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-03.png",
+          "image_file": "assets/img/posts/20260606_activity-03.png",
+          "overlay_text": "AIと感性で会話する。それが最新の開発スタイル。",
+          "subtext": "今日の授業では、自然言語で指示し、AIと対話しながらアプリを組み上げる「Vibe Coding」を導入。生徒たちはエラーに悩むことなく、デザインや機能の「手触り」に集中していました。",
+          "alt": "内容2 - AIと感性で会話する。それが最新の開発ス"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "sub_title": "if塾では、AIを単なる代行ツールではなく、思考を拡張するパートナーとして指導。ロジック以上に、何を形にしたいかという「意志」を育てることを最優先しています。",
+          "text_content": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-04.png",
+          "image_file": "assets/img/posts/20260606_activity-04.png",
+          "overlay_text": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "subtext": "if塾では、AIを単なる代行ツールではなく、思考を拡張するパートナーとして指導。ロジック以上に、何を形にしたいかという「意志」を育てることを最優先しています。",
+          "alt": "内容3 - 技術力以上に「言語化力」と「感性」が武器"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "sub_title": "2026.06.06 if塾・活動報告",
+          "text_content": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-01.png",
+          "image_file": "assets/img/posts/20260606_activity-01.png",
+          "overlay_text": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+          "subtext": "2026.06.06 if塾・活動報告",
+          "alt": "表紙 - コードを書かない開発？2026年最新「V"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "sub_title": "夏休みを前に、自由研究や個人アプリ開発のアイデアが溢れる6月。しかし「構文エラー」や「環境構築」で挫折する生徒が多いのが現実でした。",
+          "text_content": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-02.png",
+          "image_file": "assets/img/posts/20260606_activity-02.png",
+          "overlay_text": "「やりたい」が形にならない…そんな壁、もうありません。",
+          "subtext": "夏休みを前に、自由研究や個人アプリ開発のアイデアが溢れる6月。しかし「構文エラー」や「環境構築」で挫折する生徒が多いのが現実でした。",
+          "alt": "内容1 - 「やりたい」が形にならない…そんな壁、も"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIと感性で会話する。それが最新の開発スタイル。",
+          "sub_title": "今日の授業では、自然言語で指示し、AIと対話しながらアプリを組み上げる「Vibe Coding」を導入。生徒たちはエラーに悩むことなく、デザインや機能の「手触り」に集中していました。",
+          "text_content": "AIと感性で会話する。それが最新の開発スタイル。",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-03.png",
+          "image_file": "assets/img/posts/20260606_activity-03.png",
+          "overlay_text": "AIと感性で会話する。それが最新の開発スタイル。",
+          "subtext": "今日の授業では、自然言語で指示し、AIと対話しながらアプリを組み上げる「Vibe Coding」を導入。生徒たちはエラーに悩むことなく、デザインや機能の「手触り」に集中していました。",
+          "alt": "内容2 - AIと感性で会話する。それが最新の開発ス"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "sub_title": "if塾では、AIを単なる代行ツールではなく、思考を拡張するパートナーとして指導。ロジック以上に、何を形にしたいかという「意志」を育てることを最優先しています。",
+          "text_content": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260606_activity-04.png",
+          "image_file": "assets/img/posts/20260606_activity-04.png",
+          "overlay_text": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+          "subtext": "if塾では、AIを単なる代行ツールではなく、思考を拡張するパートナーとして指導。ロジック以上に、何を形にしたいかという「意志」を育てることを最優先しています。",
+          "alt": "内容3 - 技術力以上に「言語化力」と「感性」が武器"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260606_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260606_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260606_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260606_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-06T12:25:44",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "コードを書かない開発？2026年最新「V",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "コードを書かない開発？2026年最新「Vibe Coding」体験記",
+            "subtext": "2026.06.06 if塾・活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」が形にならない…そんな壁、もうありません。",
+            "subtext": "夏休みを前に、自由研究や個人アプリ開発のアイデアが溢れる6月。しかし「構文エラー」や「環境構築」で挫折する生徒が多いのが現実でした。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIと感性で会話する。それが最新の開発スタイル。",
+            "subtext": "今日の授業では、自然言語で指示し、AIと対話しながらアプリを組み上げる「Vibe Coding」を導入。生徒たちはエラーに悩むことなく、デザインや機能の「手触り」に集中していました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "技術力以上に「言語化力」と「感性」が武器になる時代へ。",
+            "subtext": "if塾では、AIを単なる代行ツールではなく、思考を拡張するパートナーとして指導。ロジック以上に、何を形にしたいかという「意志」を育てることを最優先しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260605_business",
       "post_id": "20260605_business",
