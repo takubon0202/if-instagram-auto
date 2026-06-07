@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 151,
-    "last_updated": "2026-06-07T12:54:03.250239",
+    "last_updated": "2026-06-07T16:44:08.226431",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260607_activity",
       "post_id": "20260607_activity",
-      "created_at": "2026-06-07T12:54:03",
+      "created_at": "2026-06-07T16:44:08",
       "datetime": "2026-06-07T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
+      "theme": "LearnLMで開発！自分専用AIアプリ完成",
       "target_audience": "Students & Parents",
-      "title": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-      "caption": "【2026年6月】最新のプログラミング学習の現場をお届けします！\n\n今、if塾の教室では大きな変化が起きています。\nかつてのように一文字ずつコードを打ち込む時間は減り、AIエージェントと「対話」しながらシステムを構築するスタイルが当たり前になりました。\n\n「こんな機能を作って」と伝えるだけで、GeminiやClaudeが自ら考えてコードを生成し、テストまで実行してくれる2026年の世界。\n\n保護者の皆様から「AIに任せて力はつくの？」というお声もいただきますが、ご安心ください。\nこれからの時代に求められるのは、AIが出した答えが正しいか判断し、目的を達成するための「論理的な設計能力」です。\n\nif塾では、最新ツールを相棒に、より高度なクリエイティビティを発揮できる次世代のエンジニアを育成しています。\n\n夏休みの自由制作、今年は驚くような作品が誕生しそうです！",
-      "caption_text": "【2026年6月】最新のプログラミング学習の現場をお届けします！\n\n今、if塾の教室では大きな変化が起きています。\nかつてのように一文字ずつコードを打ち込む時間は減り、AIエージェントと「対話」しながらシステムを構築するスタイルが当たり前になりました。\n\n「こんな機能を作って」と伝えるだけで、GeminiやClaudeが自ら考えてコードを生成し、テストまで実行してくれる2026年の世界。\n\n保護者の皆様から「AIに任せて力はつくの？」というお声もいただきますが、ご安心ください。\nこれからの時代に求められるのは、AIが出した答えが正しいか判断し、目的を達成するための「論理的な設計能力」です。\n\nif塾では、最新ツールを相棒に、より高度なクリエイティビティを発揮できる次世代のエンジニアを育成しています。\n\n夏休みの自由制作、今年は驚くような作品が誕生しそうです！",
+      "title": "LearnLMで開発！自分専用AIアプリ完成",
+      "caption": "【2026年6月】最新の学びの形をお届けします！\n\n本日の活動報告は、Googleの最新教育AI「LearnLM」を活用したオリジナルアプリ開発。 \n\n「自分の苦手を克服する計算ドリルアプリ」や\n「暗記を効率化するカスタムクイズ」など、\n生徒たちがたった数時間で自分専用のツールを作り上げました。\n\n2026年、プログラミングは「書く」ものから「AIと共創する」ものへ劇的に変化しています。\n\n大切なのは、何を作るか。そして、そのツールで誰を幸せにするか。\nif塾では最先端のツールを使いこなし、未来を切り拓く力を養っています。\n\n「自分も何か作ってみたい！」と思った方は、ぜひ体験授業へお越しください！\n\n#if塾 #生成AI #LearnLM #Gemini #2026年 #未来の教育 #アプリ開発 #自由研究先取り",
+      "caption_text": "【2026年6月】最新の学びの形をお届けします！\n\n本日の活動報告は、Googleの最新教育AI「LearnLM」を活用したオリジナルアプリ開発。 \n\n「自分の苦手を克服する計算ドリルアプリ」や\n「暗記を効率化するカスタムクイズ」など、\n生徒たちがたった数時間で自分専用のツールを作り上げました。\n\n2026年、プログラミングは「書く」ものから「AIと共創する」ものへ劇的に変化しています。\n\n大切なのは、何を作るか。そして、そのツールで誰を幸せにするか。\nif塾では最先端のツールを使いこなし、未来を切り拓く力を養っています。\n\n「自分も何か作ってみたい！」と思った方は、ぜひ体験授業へお越しください！\n\n#if塾 #生成AI #LearnLM #Gemini #2026年 #未来の教育 #アプリ開発 #自由研究先取り",
       "hashtags": [
-        "#if塾",
-        "#2026年",
-        "#プログラミング教育",
-        "#エージェント型コーディング",
-        "#Gemini",
-        "#Claude",
-        "#AI教育",
-        "#最新テック"
+        "if塾",
+        "2026年",
+        "LearnLM",
+        "Gemini",
+        "EdTech",
+        "プログラミング教育",
+        "中高生アプリ開発"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-          "sub_title": "2026.06.07 if塾 活動レポート",
-          "text_content": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
+          "main_title": "LearnLMで開発！自分専用AIアプリ完成",
+          "sub_title": "2026年6月・最新教育レポート",
+          "text_content": "LearnLMで開発！自分専用AIアプリ完成",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-01.png",
           "image_file": "assets/img/posts/20260607_activity-01.png",
-          "overlay_text": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-          "subtext": "2026.06.07 if塾 活動レポート",
-          "alt": "表紙 - コードは「書く」から「指示する」へ。20"
+          "overlay_text": "LearnLMで開発！自分専用AIアプリ完成",
+          "subtext": "2026年6月・最新教育レポート",
+          "alt": "表紙 - LearnLMで開発！自分専用AIアプリ"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
-          "sub_title": "夏休み前の自由制作シーズン。学生たちは構想はあっても、構文の壁にぶつかっていました。",
-          "text_content": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
+          "main_title": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "sub_title": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
+          "text_content": "「やりたい」が形にならない…その悩み、今日で終わり。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-02.png",
           "image_file": "assets/img/posts/20260607_activity-02.png",
-          "overlay_text": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
-          "subtext": "夏休み前の自由制作シーズン。学生たちは構想はあっても、構文の壁にぶつかっていました。",
-          "alt": "内容1 - 「やりたいことはあるけど、書き方がわから"
+          "overlay_text": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
+          "alt": "内容1 - 「やりたい」が形にならない…その悩み、今"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
-          "sub_title": "最新の『エージェント型コーディング』なら、対話するだけでAIがバグ修正から実装まで完結させます。",
-          "text_content": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
+          "main_title": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "sub_title": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
+          "text_content": "Gemini 1.5 Pro × LearnLM で爆速開発！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-03.png",
           "image_file": "assets/img/posts/20260607_activity-03.png",
-          "overlay_text": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
-          "subtext": "最新の『エージェント型コーディング』なら、対話するだけでAIがバグ修正から実装まで完結させます。",
-          "alt": "内容2 - GeminiやClaudeが「自律」して"
+          "overlay_text": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
+          "alt": "内容2 - Gemini 1.5 Pro × Lea"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
-          "sub_title": "if塾では、AIを使いこなすための『設計図の描き方』と『検証力』を重視した指導にシフトしています。",
-          "text_content": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
+          "main_title": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "sub_title": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
+          "text_content": "指導者の視点：AIは「答え」ではなく「思考」を促す",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-04.png",
           "image_file": "assets/img/posts/20260607_activity-04.png",
-          "overlay_text": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
-          "subtext": "if塾では、AIを使いこなすための『設計図の描き方』と『検証力』を重視した指導にシフトしています。",
-          "alt": "内容3 - 大切なのは「プログラミング言語」より「論"
+          "overlay_text": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
+          "alt": "内容3 - 指導者の視点：AIは「答え」ではなく「思"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-          "sub_title": "2026.06.07 if塾 活動レポート",
-          "text_content": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
+          "main_title": "LearnLMで開発！自分専用AIアプリ完成",
+          "sub_title": "2026年6月・最新教育レポート",
+          "text_content": "LearnLMで開発！自分専用AIアプリ完成",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-01.png",
           "image_file": "assets/img/posts/20260607_activity-01.png",
-          "overlay_text": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-          "subtext": "2026.06.07 if塾 活動レポート",
-          "alt": "表紙 - コードは「書く」から「指示する」へ。20"
+          "overlay_text": "LearnLMで開発！自分専用AIアプリ完成",
+          "subtext": "2026年6月・最新教育レポート",
+          "alt": "表紙 - LearnLMで開発！自分専用AIアプリ"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
-          "sub_title": "夏休み前の自由制作シーズン。学生たちは構想はあっても、構文の壁にぶつかっていました。",
-          "text_content": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
+          "main_title": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "sub_title": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
+          "text_content": "「やりたい」が形にならない…その悩み、今日で終わり。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-02.png",
           "image_file": "assets/img/posts/20260607_activity-02.png",
-          "overlay_text": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
-          "subtext": "夏休み前の自由制作シーズン。学生たちは構想はあっても、構文の壁にぶつかっていました。",
-          "alt": "内容1 - 「やりたいことはあるけど、書き方がわから"
+          "overlay_text": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
+          "alt": "内容1 - 「やりたい」が形にならない…その悩み、今"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
-          "sub_title": "最新の『エージェント型コーディング』なら、対話するだけでAIがバグ修正から実装まで完結させます。",
-          "text_content": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
+          "main_title": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "sub_title": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
+          "text_content": "Gemini 1.5 Pro × LearnLM で爆速開発！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-03.png",
           "image_file": "assets/img/posts/20260607_activity-03.png",
-          "overlay_text": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
-          "subtext": "最新の『エージェント型コーディング』なら、対話するだけでAIがバグ修正から実装まで完結させます。",
-          "alt": "内容2 - GeminiやClaudeが「自律」して"
+          "overlay_text": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
+          "alt": "内容2 - Gemini 1.5 Pro × Lea"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
-          "sub_title": "if塾では、AIを使いこなすための『設計図の描き方』と『検証力』を重視した指導にシフトしています。",
-          "text_content": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
+          "main_title": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "sub_title": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
+          "text_content": "指導者の視点：AIは「答え」ではなく「思考」を促す",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-04.png",
           "image_file": "assets/img/posts/20260607_activity-04.png",
-          "overlay_text": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
-          "subtext": "if塾では、AIを使いこなすための『設計図の描き方』と『検証力』を重視した指導にシフトしています。",
-          "alt": "内容3 - 大切なのは「プログラミング言語」より「論"
+          "overlay_text": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
+          "alt": "内容3 - 指導者の視点：AIは「答え」ではなく「思"
         },
         {
           "page_number": 5,
@@ -243,7 +242,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-07T12:52:41",
+      "research_date": "2026-06-07T16:42:44",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コードは「書く」から「指示する」へ。20",
+        "cover_text": "LearnLMで開発！自分専用AIアプリ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コードは「書く」から「指示する」へ。2026年最新のエージェント型開発とは？",
-            "subtext": "2026.06.07 if塾 活動レポート",
+            "headline": "LearnLMで開発！自分専用AIアプリ完成",
+            "subtext": "2026年6月・最新教育レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたいことはあるけど、書き方がわからない」その悩み、過去のものです。",
-            "subtext": "夏休み前の自由制作シーズン。学生たちは構想はあっても、構文の壁にぶつかっていました。",
+            "headline": "「やりたい」が形にならない…その悩み、今日で終わり。",
+            "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "GeminiやClaudeが「自律」して開発を代行。驚きの制作スピードへ。",
-            "subtext": "最新の『エージェント型コーディング』なら、対話するだけでAIがバグ修正から実装まで完結させます。",
+            "headline": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+            "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "大切なのは「プログラミング言語」より「論理的思考力」と「意図を伝える力」",
-            "subtext": "if塾では、AIを使いこなすための『設計図の描き方』と『検証力』を重視した指導にシフトしています。",
+            "headline": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+            "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
