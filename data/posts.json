@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 151,
-    "last_updated": "2026-06-07T16:44:08.226431",
+    "last_updated": "2026-06-07T21:25:49.628719",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,25 @@
     {
       "id": "20260607_activity",
       "post_id": "20260607_activity",
-      "created_at": "2026-06-07T16:44:08",
+      "created_at": "2026-06-07T21:25:49",
       "datetime": "2026-06-07T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "LearnLMで開発！自分専用AIアプリ完成",
+      "theme": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
       "target_audience": "Students & Parents",
-      "title": "LearnLMで開発！自分専用AIアプリ完成",
-      "caption": "【2026年6月】最新の学びの形をお届けします！\n\n本日の活動報告は、Googleの最新教育AI「LearnLM」を活用したオリジナルアプリ開発。 \n\n「自分の苦手を克服する計算ドリルアプリ」や\n「暗記を効率化するカスタムクイズ」など、\n生徒たちがたった数時間で自分専用のツールを作り上げました。\n\n2026年、プログラミングは「書く」ものから「AIと共創する」ものへ劇的に変化しています。\n\n大切なのは、何を作るか。そして、そのツールで誰を幸せにするか。\nif塾では最先端のツールを使いこなし、未来を切り拓く力を養っています。\n\n「自分も何か作ってみたい！」と思った方は、ぜひ体験授業へお越しください！\n\n#if塾 #生成AI #LearnLM #Gemini #2026年 #未来の教育 #アプリ開発 #自由研究先取り",
-      "caption_text": "【2026年6月】最新の学びの形をお届けします！\n\n本日の活動報告は、Googleの最新教育AI「LearnLM」を活用したオリジナルアプリ開発。 \n\n「自分の苦手を克服する計算ドリルアプリ」や\n「暗記を効率化するカスタムクイズ」など、\n生徒たちがたった数時間で自分専用のツールを作り上げました。\n\n2026年、プログラミングは「書く」ものから「AIと共創する」ものへ劇的に変化しています。\n\n大切なのは、何を作るか。そして、そのツールで誰を幸せにするか。\nif塾では最先端のツールを使いこなし、未来を切り拓く力を養っています。\n\n「自分も何か作ってみたい！」と思った方は、ぜひ体験授業へお越しください！\n\n#if塾 #生成AI #LearnLM #Gemini #2026年 #未来の教育 #アプリ開発 #自由研究先取り",
+      "title": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+      "caption": "【2026年6月】いよいよ夏の足音が聞こえてきました。\n\nif塾では本日より、Googleの教育特化型モデル「LearnLM」を本格導入した個別最適化カリキュラムを開始しました！✨\n\n「どこがわからないのか、自分でもわからない…」\nそんな6月特有の悩みを、AIの精密な分析と講師の温かい伴走で解決します。\n\n2026年の最新テクノロジーは、単なる自動化ではありません。\n生徒が「自分で考える楽しさ」に気づくための強力なサポーターです。\n\n「自分だけの学習プラン」で、この夏の自信を手にいれませんか？\n詳細はプロフィール欄のリンクからチェック！🚀",
+      "caption_text": "【2026年6月】いよいよ夏の足音が聞こえてきました。\n\nif塾では本日より、Googleの教育特化型モデル「LearnLM」を本格導入した個別最適化カリキュラムを開始しました！✨\n\n「どこがわからないのか、自分でもわからない…」\nそんな6月特有の悩みを、AIの精密な分析と講師の温かい伴走で解決します。\n\n2026年の最新テクノロジーは、単なる自動化ではありません。\n生徒が「自分で考える楽しさ」に気づくための強力なサポーターです。\n\n「自分だけの学習プラン」で、この夏の自信を手にいれませんか？\n詳細はプロフィール欄のリンクからチェック！🚀",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "LearnLM",
-        "Gemini",
-        "EdTech",
-        "プログラミング教育",
-        "中高生アプリ開発"
+        "#if塾",
+        "#2026年",
+        "#LearnLM",
+        "#Gemini",
+        "#個別最適化",
+        "#最新教育",
+        "#AI教育",
+        "#定期テスト対策",
+        "#EdTech"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "LearnLMで開発！自分専用AIアプリ完成",
-          "sub_title": "2026年6月・最新教育レポート",
-          "text_content": "LearnLMで開発！自分専用AIアプリ完成",
+          "main_title": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+          "sub_title": "【2026年6月7日】if塾・最新活動報告",
+          "text_content": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-01.png",
           "image_file": "assets/img/posts/20260607_activity-01.png",
-          "overlay_text": "LearnLMで開発！自分専用AIアプリ完成",
-          "subtext": "2026年6月・最新教育レポート",
-          "alt": "表紙 - LearnLMで開発！自分専用AIアプリ"
+          "overlay_text": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+          "subtext": "【2026年6月7日】if塾・最新活動報告",
+          "alt": "表紙 - Gemini×LearnLMで変わる！2"
         },
         {
           "page_number": 2,
@@ -58,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が形にならない…その悩み、今日で終わり。",
-          "sub_title": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
-          "text_content": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "main_title": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
+          "sub_title": "新学年の疲れが出始める6月。膨大な試験範囲を前に、立ち止まってしまう生徒が急増しています。",
+          "text_content": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-02.png",
           "image_file": "assets/img/posts/20260607_activity-02.png",
-          "overlay_text": "「やりたい」が形にならない…その悩み、今日で終わり。",
-          "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
-          "alt": "内容1 - 「やりたい」が形にならない…その悩み、今"
+          "overlay_text": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
+          "subtext": "新学年の疲れが出始める6月。膨大な試験範囲を前に、立ち止まってしまう生徒が急増しています。",
+          "alt": "内容1 - 「定期テスト対策、何から始めれば？」6月"
         },
         {
           "page_number": 3,
@@ -74,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 1.5 Pro × LearnLM で爆速開発！",
-          "sub_title": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
-          "text_content": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "main_title": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
+          "sub_title": "最新の教育特化AIが、生徒一人ひとりの理解度をリアルタイム解析。迷いのない学習がスタートしました。",
+          "text_content": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-03.png",
           "image_file": "assets/img/posts/20260607_activity-03.png",
-          "overlay_text": "Gemini 1.5 Pro × LearnLM で爆速開発！",
-          "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
-          "alt": "内容2 - Gemini 1.5 Pro × Lea"
+          "overlay_text": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
+          "subtext": "最新の教育特化AIが、生徒一人ひとりの理解度をリアルタイム解析。迷いのない学習がスタートしました。",
+          "alt": "内容2 - LearnLMが「君専用」のカリキュラム"
         },
         {
           "page_number": 4,
@@ -90,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは「答え」ではなく「思考」を促す",
-          "sub_title": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
-          "text_content": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "main_title": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
+          "sub_title": "if塾では、AIが提示した解法を講師と共に深掘り。2026年の学びは、AIとの対話で思考力を鍛える時代です。",
+          "text_content": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-04.png",
           "image_file": "assets/img/posts/20260607_activity-04.png",
-          "overlay_text": "指導者の視点：AIは「答え」ではなく「思考」を促す",
-          "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
-          "alt": "内容3 - 指導者の視点：AIは「答え」ではなく「思"
+          "overlay_text": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
+          "subtext": "if塾では、AIが提示した解法を講師と共に深掘り。2026年の学びは、AIとの対話で思考力を鍛える時代です。",
+          "alt": "内容3 - AIは「教える」ためではなく「考える」き"
         },
         {
           "page_number": 5,
@@ -124,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "LearnLMで開発！自分専用AIアプリ完成",
-          "sub_title": "2026年6月・最新教育レポート",
-          "text_content": "LearnLMで開発！自分専用AIアプリ完成",
+          "main_title": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+          "sub_title": "【2026年6月7日】if塾・最新活動報告",
+          "text_content": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-01.png",
           "image_file": "assets/img/posts/20260607_activity-01.png",
-          "overlay_text": "LearnLMで開発！自分専用AIアプリ完成",
-          "subtext": "2026年6月・最新教育レポート",
-          "alt": "表紙 - LearnLMで開発！自分専用AIアプリ"
+          "overlay_text": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+          "subtext": "【2026年6月7日】if塾・最新活動報告",
+          "alt": "表紙 - Gemini×LearnLMで変わる！2"
         },
         {
           "page_number": 2,
@@ -140,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」が形にならない…その悩み、今日で終わり。",
-          "sub_title": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
-          "text_content": "「やりたい」が形にならない…その悩み、今日で終わり。",
+          "main_title": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
+          "sub_title": "新学年の疲れが出始める6月。膨大な試験範囲を前に、立ち止まってしまう生徒が急増しています。",
+          "text_content": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-02.png",
           "image_file": "assets/img/posts/20260607_activity-02.png",
-          "overlay_text": "「やりたい」が形にならない…その悩み、今日で終わり。",
-          "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
-          "alt": "内容1 - 「やりたい」が形にならない…その悩み、今"
+          "overlay_text": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
+          "subtext": "新学年の疲れが出始める6月。膨大な試験範囲を前に、立ち止まってしまう生徒が急増しています。",
+          "alt": "内容1 - 「定期テスト対策、何から始めれば？」6月"
         },
         {
           "page_number": 3,
@@ -156,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Gemini 1.5 Pro × LearnLM で爆速開発！",
-          "sub_title": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
-          "text_content": "Gemini 1.5 Pro × LearnLM で爆速開発！",
+          "main_title": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
+          "sub_title": "最新の教育特化AIが、生徒一人ひとりの理解度をリアルタイム解析。迷いのない学習がスタートしました。",
+          "text_content": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-03.png",
           "image_file": "assets/img/posts/20260607_activity-03.png",
-          "overlay_text": "Gemini 1.5 Pro × LearnLM で爆速開発！",
-          "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
-          "alt": "内容2 - Gemini 1.5 Pro × Lea"
+          "overlay_text": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
+          "subtext": "最新の教育特化AIが、生徒一人ひとりの理解度をリアルタイム解析。迷いのない学習がスタートしました。",
+          "alt": "内容2 - LearnLMが「君専用」のカリキュラム"
         },
         {
           "page_number": 4,
@@ -172,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIは「答え」ではなく「思考」を促す",
-          "sub_title": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
-          "text_content": "指導者の視点：AIは「答え」ではなく「思考」を促す",
+          "main_title": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
+          "sub_title": "if塾では、AIが提示した解法を講師と共に深掘り。2026年の学びは、AIとの対話で思考力を鍛える時代です。",
+          "text_content": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260607_activity-04.png",
           "image_file": "assets/img/posts/20260607_activity-04.png",
-          "overlay_text": "指導者の視点：AIは「答え」ではなく「思考」を促す",
-          "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
-          "alt": "内容3 - 指導者の視点：AIは「答え」ではなく「思"
+          "overlay_text": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
+          "subtext": "if塾では、AIが提示した解法を講師と共に深掘り。2026年の学びは、AIとの対話で思考力を鍛える時代です。",
+          "alt": "内容3 - AIは「教える」ためではなく「考える」き"
         },
         {
           "page_number": 5,
@@ -228,21 +230,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "ロボット"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "kagaya_yuma",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-07T16:42:44",
+      "research_date": "2026-06-07T21:24:23",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "LearnLMで開発！自分専用AIアプリ",
+        "cover_text": "Gemini×LearnLMで変わる！2",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "LearnLMで開発！自分専用AIアプリ完成",
-            "subtext": "2026年6月・最新教育レポート",
+            "headline": "Gemini×LearnLMで変わる！2026年夏の個別指導最前線",
+            "subtext": "【2026年6月7日】if塾・最新活動報告",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -266,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」が形にならない…その悩み、今日で終わり。",
-            "subtext": "テスト前の6月、自分に最適な学習ツールが欲しい。でもプログラミングは難しそう…そんな学生の壁を最新AIが壊しました。",
+            "headline": "「定期テスト対策、何から始めれば？」6月の焦りをゼロに。",
+            "subtext": "新学年の疲れが出始める6月。膨大な試験範囲を前に、立ち止まってしまう生徒が急増しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -275,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Gemini 1.5 Pro × LearnLM で爆速開発！",
-            "subtext": "教育特化型AI「LearnLM」を搭載したアプリを生徒自ら構築。対話するだけでコードが生成され、数時間で実用的なツールが誕生しました。",
+            "headline": "LearnLMが「君専用」のカリキュラムを数秒で自動生成！",
+            "subtext": "最新の教育特化AIが、生徒一人ひとりの理解度をリアルタイム解析。迷いのない学習がスタートしました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -284,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者の視点：AIは「答え」ではなく「思考」を促す",
-            "subtext": "2026年の学びは、AIを使いこなす創造性へ。if塾では、技術の裏側にある論理的思考と、社会課題を解決する視点を大切にしています。",
+            "headline": "AIは「教える」ためではなく「考える」きっかけを作るもの。",
+            "subtext": "if塾では、AIが提示した解法を講師と共に深掘り。2026年の学びは、AIとの対話で思考力を鍛える時代です。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
