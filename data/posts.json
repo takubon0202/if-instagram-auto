@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 152,
-    "last_updated": "2026-06-08T23:53:38.036343",
+    "total_posts": 153,
+    "last_updated": "2026-06-09T12:29:11.018550",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260609_education",
+      "post_id": "20260609_education",
+      "created_at": "2026-06-09T12:29:11",
+      "datetime": "2026-06-09T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報Iが「数学」より難化？",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報Iが「数学」より難化？",
+      "caption": "【2026年6月】最新の教育ニュースをお届けします。\n\n共通テストに「情報I」が導入されてから数年、出題傾向は明らかに「読解力・思考力重視」へとシフトしました。2026年6月現在、高2・高1生の保護者様から「従来の対策では太刀打ちできない」という相談が急増しています。\n\n2027年度入試を見据えると、単なるプログラミング言語の暗記は無意味です。大切なのは、問題の本質を捉える「アルゴリズム的思考」を身につけること。\n\nif塾では、最新の学習ツールを駆使して、一歩先を行く情報対策をサポートします。この夏、苦手を「武器」に変えませんか？\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年6月】最新の教育ニュースをお届けします。\n\n共通テストに「情報I」が導入されてから数年、出題傾向は明らかに「読解力・思考力重視」へとシフトしました。2026年6月現在、高2・高1生の保護者様から「従来の対策では太刀打ちできない」という相談が急増しています。\n\n2027年度入試を見据えると、単なるプログラミング言語の暗記は無意味です。大切なのは、問題の本質を捉える「アルゴリズム的思考」を身につけること。\n\nif塾では、最新の学習ツールを駆使して、一歩先を行く情報対策をサポートします。この夏、苦手を「武器」に変えませんか？\n\n詳細はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#大学受験",
+        "#共通テスト情報",
+        "#情報I",
+        "#2027年度入試",
+        "#教育コラム",
+        "#思考力"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iが「数学」より難化？",
+          "sub_title": "2027年度入試は\"暗記\"が一切通用しない世界へ",
+          "text_content": "【2026最新】情報Iが「数学」より難化？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-01.png",
+          "image_file": "assets/img/posts/20260609_education-01.png",
+          "overlay_text": "【2026最新】情報Iが「数学」より難化？",
+          "subtext": "2027年度入試は\"暗記\"が一切通用しない世界へ",
+          "alt": "表紙 - 【2026最新】情報Iが「数学」より難化"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "知識だけでは解けない「新・情報」の壁",
+          "sub_title": "昨日の模試結果で焦っていませんか？2026年現在、共通テストの情報Iは単なる用語確認から『初見のデータ構造を読み解く思考力』を問うフェーズへ完全に移行しました。",
+          "text_content": "知識だけでは解けない「新・情報」の壁",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-02.png",
+          "image_file": "assets/img/posts/20260609_education-02.png",
+          "overlay_text": "知識だけでは解けない「新・情報」の壁",
+          "subtext": "昨日の模試結果で焦っていませんか？2026年現在、共通テストの情報Iは単なる用語確認から『初見のデータ構造を読み解く思考力』を問うフェーズへ完全に移行しました。",
+          "alt": "内容1 - 知識だけでは解けない「新・情報」の壁"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI活用が前提の「if塾式」攻略法",
+          "sub_title": "if塾では2026年最新の生成AIシミュレーターを導入。複雑なアルゴリズムを可視化し、プログラミングコードの『行間』にある論理構造を直感的に理解するトレーニングを提供します。",
+          "text_content": "AI活用が前提の「if塾式」攻略法",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-03.png",
+          "image_file": "assets/img/posts/20260609_education-03.png",
+          "overlay_text": "AI活用が前提の「if塾式」攻略法",
+          "subtext": "if塾では2026年最新の生成AIシミュレーターを導入。複雑なアルゴリズムを可視化し、プログラミングコードの『行間』にある論理構造を直感的に理解するトレーニングを提供します。",
+          "alt": "内容2 - AI活用が前提の「if塾式」攻略法"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「夏前の思考整理」",
+          "sub_title": "まずは『なぜそのコードが動くのか』を言語化する練習を。2027年度の合格のカギは、膨大な未既習問題に対処するための「論理的モデル化能力」です。今月中に基礎の再定義を終えましょう。",
+          "text_content": "今すぐやるべき「夏前の思考整理」",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-04.png",
+          "image_file": "assets/img/posts/20260609_education-04.png",
+          "overlay_text": "今すぐやるべき「夏前の思考整理」",
+          "subtext": "まずは『なぜそのコードが動くのか』を言語化する練習を。2027年度の合格のカギは、膨大な未既習問題に対処するための「論理的モデル化能力」です。今月中に基礎の再定義を終えましょう。",
+          "alt": "内容3 - 今すぐやるべき「夏前の思考整理」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iが「数学」より難化？",
+          "sub_title": "2027年度入試は\"暗記\"が一切通用しない世界へ",
+          "text_content": "【2026最新】情報Iが「数学」より難化？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-01.png",
+          "image_file": "assets/img/posts/20260609_education-01.png",
+          "overlay_text": "【2026最新】情報Iが「数学」より難化？",
+          "subtext": "2027年度入試は\"暗記\"が一切通用しない世界へ",
+          "alt": "表紙 - 【2026最新】情報Iが「数学」より難化"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "知識だけでは解けない「新・情報」の壁",
+          "sub_title": "昨日の模試結果で焦っていませんか？2026年現在、共通テストの情報Iは単なる用語確認から『初見のデータ構造を読み解く思考力』を問うフェーズへ完全に移行しました。",
+          "text_content": "知識だけでは解けない「新・情報」の壁",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-02.png",
+          "image_file": "assets/img/posts/20260609_education-02.png",
+          "overlay_text": "知識だけでは解けない「新・情報」の壁",
+          "subtext": "昨日の模試結果で焦っていませんか？2026年現在、共通テストの情報Iは単なる用語確認から『初見のデータ構造を読み解く思考力』を問うフェーズへ完全に移行しました。",
+          "alt": "内容1 - 知識だけでは解けない「新・情報」の壁"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI活用が前提の「if塾式」攻略法",
+          "sub_title": "if塾では2026年最新の生成AIシミュレーターを導入。複雑なアルゴリズムを可視化し、プログラミングコードの『行間』にある論理構造を直感的に理解するトレーニングを提供します。",
+          "text_content": "AI活用が前提の「if塾式」攻略法",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-03.png",
+          "image_file": "assets/img/posts/20260609_education-03.png",
+          "overlay_text": "AI活用が前提の「if塾式」攻略法",
+          "subtext": "if塾では2026年最新の生成AIシミュレーターを導入。複雑なアルゴリズムを可視化し、プログラミングコードの『行間』にある論理構造を直感的に理解するトレーニングを提供します。",
+          "alt": "内容2 - AI活用が前提の「if塾式」攻略法"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「夏前の思考整理」",
+          "sub_title": "まずは『なぜそのコードが動くのか』を言語化する練習を。2027年度の合格のカギは、膨大な未既習問題に対処するための「論理的モデル化能力」です。今月中に基礎の再定義を終えましょう。",
+          "text_content": "今すぐやるべき「夏前の思考整理」",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260609_education-04.png",
+          "image_file": "assets/img/posts/20260609_education-04.png",
+          "overlay_text": "今すぐやるべき「夏前の思考整理」",
+          "subtext": "まずは『なぜそのコードが動くのか』を言語化する練習を。2027年度の合格のカギは、膨大な未既習問題に対処するための「論理的モデル化能力」です。今月中に基礎の再定義を終えましょう。",
+          "alt": "内容3 - 今すぐやるべき「夏前の思考整理」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260609_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260609_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260609_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260609_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-09T12:27:42",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報Iが「数学」より難化",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報Iが「数学」より難化？",
+            "subtext": "2027年度入試は\"暗記\"が一切通用しない世界へ",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "知識だけでは解けない「新・情報」の壁",
+            "subtext": "昨日の模試結果で焦っていませんか？2026年現在、共通テストの情報Iは単なる用語確認から『初見のデータ構造を読み解く思考力』を問うフェーズへ完全に移行しました。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AI活用が前提の「if塾式」攻略法",
+            "subtext": "if塾では2026年最新の生成AIシミュレーターを導入。複雑なアルゴリズムを可視化し、プログラミングコードの『行間』にある論理構造を直感的に理解するトレーニングを提供します。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐやるべき「夏前の思考整理」",
+            "subtext": "まずは『なぜそのコードが動くのか』を言語化する練習を。2027年度の合格のカギは、膨大な未既習問題に対処するための「論理的モデル化能力」です。今月中に基礎の再定義を終えましょう。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260608_announcement",
       "post_id": "20260608_announcement",
