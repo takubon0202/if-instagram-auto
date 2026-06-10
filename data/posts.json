@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 154,
-    "last_updated": "2026-06-10T16:54:38.202744",
+    "last_updated": "2026-06-10T23:28:05.030366",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20260610_development",
       "post_id": "20260610_development",
-      "created_at": "2026-06-10T16:54:38",
+      "created_at": "2026-06-10T23:28:05",
       "datetime": "2026-06-10T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
+      "theme": "電波なしでもAIが動く！オンデバイスAIの衝撃",
       "target_audience": "Students & Parents",
-      "title": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-      "caption": "【2026年6月】最新の開発トレンドをお届けします！\n\n「プログラミングは難しい」という常識は、2026年の今、過去のものになりつつあります。\n\n今、学生たちの間で主流なのは、AIと自然言語で対話しながらアプリを作り上げる「バイブコーディング（Vibe Coding）」。\n\n構文を覚えることよりも、自分の「作りたい！」という熱量（バイブス）をAIに正確に伝え、形にしていく能力が求められています。\n\n6月の定期テストが終わり、夏休みのプロジェクトを考え始めるこの時期。if塾では、AIを相棒にして、あなたのアイデアを爆速で形にする方法を伝授しています。\n\n開発のハードルが下がった今こそ、自分だけのオリジナルアプリを作ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n@if_juku",
-      "caption_text": "【2026年6月】最新の開発トレンドをお届けします！\n\n「プログラミングは難しい」という常識は、2026年の今、過去のものになりつつあります。\n\n今、学生たちの間で主流なのは、AIと自然言語で対話しながらアプリを作り上げる「バイブコーディング（Vibe Coding）」。\n\n構文を覚えることよりも、自分の「作りたい！」という熱量（バイブス）をAIに正確に伝え、形にしていく能力が求められています。\n\n6月の定期テストが終わり、夏休みのプロジェクトを考え始めるこの時期。if塾では、AIを相棒にして、あなたのアイデアを爆速で形にする方法を伝授しています。\n\n開発のハードルが下がった今こそ、自分だけのオリジナルアプリを作ってみませんか？\n\n詳細はプロフィール欄のリンクからチェック！\n@if_juku",
+      "title": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+      "caption": "【2026年6月】最新のAIトレンドは「クラウドから手元へ」！\n\n今月、if塾では最新のGemini Nanoを搭載した「オンデバイスAI学習アプリ」のプロトタイプを公開しました。\n\n「AIは便利だけど、子供にネットを繋ぎっぱなしにさせるのは心配…」\n「地下鉄や電波の悪い場所だとAIが止まってしまう」\n\nそんな2026年現在の悩みを、端末内完結型のAI実装が全て解決します。✨\n\n外部サーバーを通さないため、個人情報の漏洩リスクはゼロ。しかも、通信待ち時間がないので思考を止めずに学習に没頭できます。\n\nこれからの教育ITは「安全」と「爆速」が当たり前の時代へ。\nif塾で、次世代のエンジニアリングを体験しませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #オンデバイスAI #GeminiNano #AI教育 #プログラミング学習 #自由研究 #最新テクノロジー",
+      "caption_text": "【2026年6月】最新のAIトレンドは「クラウドから手元へ」！\n\n今月、if塾では最新のGemini Nanoを搭載した「オンデバイスAI学習アプリ」のプロトタイプを公開しました。\n\n「AIは便利だけど、子供にネットを繋ぎっぱなしにさせるのは心配…」\n「地下鉄や電波の悪い場所だとAIが止まってしまう」\n\nそんな2026年現在の悩みを、端末内完結型のAI実装が全て解決します。✨\n\n外部サーバーを通さないため、個人情報の漏洩リスクはゼロ。しかも、通信待ち時間がないので思考を止めずに学習に没頭できます。\n\nこれからの教育ITは「安全」と「爆速」が当たり前の時代へ。\nif塾で、次世代のエンジニアリングを体験しませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #オンデバイスAI #GeminiNano #AI教育 #プログラミング学習 #自由研究 #最新テクノロジー",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "バイブコーディング",
-        "VibeCoding",
-        "AI教育",
-        "次世代スキル",
-        "プログラミング学習",
-        "中高生エンジニア",
-        "AI開発"
+        "#if塾",
+        "#2026年",
+        "#オンデバイスAI",
+        "#GeminiNano",
+        "#AI教育",
+        "#プログラミング学習",
+        "#エッジAI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-          "sub_title": "2026年6月最新版・学生の常識が変わる",
-          "text_content": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
+          "main_title": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+          "sub_title": "2026年6月最新：Gemini Nano実装の学習アプリ完成",
+          "text_content": "電波なしでもAIが動く！オンデバイスAIの衝撃",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-01.png",
           "image_file": "assets/img/posts/20260610_development-01.png",
-          "overlay_text": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-          "subtext": "2026年6月最新版・学生の常識が変わる",
-          "alt": "表紙 - 会話だけでアプリが完成？2026年主流「"
+          "overlay_text": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+          "subtext": "2026年6月最新：Gemini Nano実装の学習アプリ完成",
+          "alt": "表紙 - 電波なしでもAIが動く！オンデバイスAI"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードが書けない」はもう挫折の理由じゃない",
-          "sub_title": "夏休みの自由研究や課題を前に、プログラミング言語の壁で立ち止まっていませんか？今、開発の形が劇的に変わっています。",
-          "text_content": "「コードが書けない」はもう挫折の理由じゃない",
+          "main_title": "「機内モードで勉強できない」はもう古い？",
+          "sub_title": "通信費の負担や、学校・塾でのネット制限によるAI利用の壁。保護者の「セキュリティ不安」も解決したい課題です。",
+          "text_content": "「機内モードで勉強できない」はもう古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-02.png",
           "image_file": "assets/img/posts/20260610_development-02.png",
-          "overlay_text": "「コードが書けない」はもう挫折の理由じゃない",
-          "subtext": "夏休みの自由研究や課題を前に、プログラミング言語の壁で立ち止まっていませんか？今、開発の形が劇的に変わっています。",
-          "alt": "内容1 - 「コードが書けない」はもう挫折の理由じゃ"
+          "overlay_text": "「機内モードで勉強できない」はもう古い？",
+          "subtext": "通信費の負担や、学校・塾でのネット制限によるAI利用の壁。保護者の「セキュリティ不安」も解決したい課題です。",
+          "alt": "内容1 - 「機内モードで勉強できない」はもう古い？"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIと「対話」するだけで実装。CursorやReplitが進化",
-          "sub_title": "2026年、学生の間では自然言語で意図を伝えるだけの「Vibe Coding」が主流に。キーボードを叩くより、AIと壁打ちする時間が開発の本質です。",
-          "text_content": "AIと「対話」するだけで実装。CursorやReplitが進化",
+          "main_title": "端末完結型！Gemini Nanoで超高速レスポンス",
+          "sub_title": "2026年モデルのスマホ・タブレットに最適化。外部サーバーにデータを送らないから、プライバシーも速度も完璧です。",
+          "text_content": "端末完結型！Gemini Nanoで超高速レスポンス",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-03.png",
           "image_file": "assets/img/posts/20260610_development-03.png",
-          "overlay_text": "AIと「対話」するだけで実装。CursorやReplitが進化",
-          "subtext": "2026年、学生の間では自然言語で意図を伝えるだけの「Vibe Coding」が主流に。キーボードを叩くより、AIと壁打ちする時間が開発の本質です。",
-          "alt": "内容2 - AIと「対話」するだけで実装。Curso"
+          "overlay_text": "端末完結型！Gemini Nanoで超高速レスポンス",
+          "subtext": "2026年モデルのスマホ・タブレットに最適化。外部サーバーにデータを送らないから、プライバシーも速度も完璧です。",
+          "alt": "内容2 - 端末完結型！Gemini Nanoで超高"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "大事なのは「何をどう作りたいか」という思考力",
-          "sub_title": "if塾では、AIを使いこなすための『問いを立てる力』を重視。技術はAIが補い、人間はアイデアと体験設計に集中する時代です。",
-          "text_content": "大事なのは「何をどう作りたいか」という思考力",
+          "main_title": "if塾流：集中力を削がない「究極の自習室」",
+          "sub_title": "オフライン環境でAIチャットボットが伴走。通知を遮断したまま、数秒の遅延もなく疑問をその場で解決できるようになりました。",
+          "text_content": "if塾流：集中力を削がない「究極の自習室」",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-04.png",
           "image_file": "assets/img/posts/20260610_development-04.png",
-          "overlay_text": "大事なのは「何をどう作りたいか」という思考力",
-          "subtext": "if塾では、AIを使いこなすための『問いを立てる力』を重視。技術はAIが補い、人間はアイデアと体験設計に集中する時代です。",
-          "alt": "内容3 - 大事なのは「何をどう作りたいか」という思"
+          "overlay_text": "if塾流：集中力を削がない「究極の自習室」",
+          "subtext": "オフライン環境でAIチャットボットが伴走。通知を遮断したまま、数秒の遅延もなく疑問をその場で解決できるようになりました。",
+          "alt": "内容3 - if塾流：集中力を削がない「究極の自習室"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-          "sub_title": "2026年6月最新版・学生の常識が変わる",
-          "text_content": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
+          "main_title": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+          "sub_title": "2026年6月最新：Gemini Nano実装の学習アプリ完成",
+          "text_content": "電波なしでもAIが動く！オンデバイスAIの衝撃",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-01.png",
           "image_file": "assets/img/posts/20260610_development-01.png",
-          "overlay_text": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-          "subtext": "2026年6月最新版・学生の常識が変わる",
-          "alt": "表紙 - 会話だけでアプリが完成？2026年主流「"
+          "overlay_text": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+          "subtext": "2026年6月最新：Gemini Nano実装の学習アプリ完成",
+          "alt": "表紙 - 電波なしでもAIが動く！オンデバイスAI"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「コードが書けない」はもう挫折の理由じゃない",
-          "sub_title": "夏休みの自由研究や課題を前に、プログラミング言語の壁で立ち止まっていませんか？今、開発の形が劇的に変わっています。",
-          "text_content": "「コードが書けない」はもう挫折の理由じゃない",
+          "main_title": "「機内モードで勉強できない」はもう古い？",
+          "sub_title": "通信費の負担や、学校・塾でのネット制限によるAI利用の壁。保護者の「セキュリティ不安」も解決したい課題です。",
+          "text_content": "「機内モードで勉強できない」はもう古い？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-02.png",
           "image_file": "assets/img/posts/20260610_development-02.png",
-          "overlay_text": "「コードが書けない」はもう挫折の理由じゃない",
-          "subtext": "夏休みの自由研究や課題を前に、プログラミング言語の壁で立ち止まっていませんか？今、開発の形が劇的に変わっています。",
-          "alt": "内容1 - 「コードが書けない」はもう挫折の理由じゃ"
+          "overlay_text": "「機内モードで勉強できない」はもう古い？",
+          "subtext": "通信費の負担や、学校・塾でのネット制限によるAI利用の壁。保護者の「セキュリティ不安」も解決したい課題です。",
+          "alt": "内容1 - 「機内モードで勉強できない」はもう古い？"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AIと「対話」するだけで実装。CursorやReplitが進化",
-          "sub_title": "2026年、学生の間では自然言語で意図を伝えるだけの「Vibe Coding」が主流に。キーボードを叩くより、AIと壁打ちする時間が開発の本質です。",
-          "text_content": "AIと「対話」するだけで実装。CursorやReplitが進化",
+          "main_title": "端末完結型！Gemini Nanoで超高速レスポンス",
+          "sub_title": "2026年モデルのスマホ・タブレットに最適化。外部サーバーにデータを送らないから、プライバシーも速度も完璧です。",
+          "text_content": "端末完結型！Gemini Nanoで超高速レスポンス",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-03.png",
           "image_file": "assets/img/posts/20260610_development-03.png",
-          "overlay_text": "AIと「対話」するだけで実装。CursorやReplitが進化",
-          "subtext": "2026年、学生の間では自然言語で意図を伝えるだけの「Vibe Coding」が主流に。キーボードを叩くより、AIと壁打ちする時間が開発の本質です。",
-          "alt": "内容2 - AIと「対話」するだけで実装。Curso"
+          "overlay_text": "端末完結型！Gemini Nanoで超高速レスポンス",
+          "subtext": "2026年モデルのスマホ・タブレットに最適化。外部サーバーにデータを送らないから、プライバシーも速度も完璧です。",
+          "alt": "内容2 - 端末完結型！Gemini Nanoで超高"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "大事なのは「何をどう作りたいか」という思考力",
-          "sub_title": "if塾では、AIを使いこなすための『問いを立てる力』を重視。技術はAIが補い、人間はアイデアと体験設計に集中する時代です。",
-          "text_content": "大事なのは「何をどう作りたいか」という思考力",
+          "main_title": "if塾流：集中力を削がない「究極の自習室」",
+          "sub_title": "オフライン環境でAIチャットボットが伴走。通知を遮断したまま、数秒の遅延もなく疑問をその場で解決できるようになりました。",
+          "text_content": "if塾流：集中力を削がない「究極の自習室」",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260610_development-04.png",
           "image_file": "assets/img/posts/20260610_development-04.png",
-          "overlay_text": "大事なのは「何をどう作りたいか」という思考力",
-          "subtext": "if塾では、AIを使いこなすための『問いを立てる力』を重視。技術はAIが補い、人間はアイデアと体験設計に集中する時代です。",
-          "alt": "内容3 - 大事なのは「何をどう作りたいか」という思"
+          "overlay_text": "if塾流：集中力を削がない「究極の自習室」",
+          "subtext": "オフライン環境でAIチャットボットが伴走。通知を遮断したまま、数秒の遅延もなく疑問をその場で解決できるようになりました。",
+          "alt": "内容3 - if塾流：集中力を削がない「究極の自習室"
         },
         {
           "page_number": 5,
@@ -230,21 +228,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "井上陽斗",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "ゲーム開発"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-10T16:53:09",
+      "research_date": "2026-06-10T23:26:27",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "会話だけでアプリが完成？2026年主流「",
+        "cover_text": "電波なしでもAIが動く！オンデバイスAI",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "会話だけでアプリが完成？2026年主流「バイブコーディング」の衝撃",
-            "subtext": "2026年6月最新版・学生の常識が変わる",
+            "headline": "電波なしでもAIが動く！オンデバイスAIの衝撃",
+            "subtext": "2026年6月最新：Gemini Nano実装の学習アプリ完成",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -268,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「コードが書けない」はもう挫折の理由じゃない",
-            "subtext": "夏休みの自由研究や課題を前に、プログラミング言語の壁で立ち止まっていませんか？今、開発の形が劇的に変わっています。",
+            "headline": "「機内モードで勉強できない」はもう古い？",
+            "subtext": "通信費の負担や、学校・塾でのネット制限によるAI利用の壁。保護者の「セキュリティ不安」も解決したい課題です。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -277,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AIと「対話」するだけで実装。CursorやReplitが進化",
-            "subtext": "2026年、学生の間では自然言語で意図を伝えるだけの「Vibe Coding」が主流に。キーボードを叩くより、AIと壁打ちする時間が開発の本質です。",
+            "headline": "端末完結型！Gemini Nanoで超高速レスポンス",
+            "subtext": "2026年モデルのスマホ・タブレットに最適化。外部サーバーにデータを送らないから、プライバシーも速度も完璧です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -286,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "大事なのは「何をどう作りたいか」という思考力",
-            "subtext": "if塾では、AIを使いこなすための『問いを立てる力』を重視。技術はAIが補い、人間はアイデアと体験設計に集中する時代です。",
+            "headline": "if塾流：集中力を削がない「究極の自習室」",
+            "subtext": "オフライン環境でAIチャットボットが伴走。通知を遮断したまま、数秒の遅延もなく疑問をその場で解決できるようになりました。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
