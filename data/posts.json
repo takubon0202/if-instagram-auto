@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 153,
-    "last_updated": "2026-06-09T22:47:42.412880",
+    "total_posts": 154,
+    "last_updated": "2026-06-10T12:40:03.213307",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260610_development",
+      "post_id": "20260610_development",
+      "created_at": "2026-06-10T12:40:03",
+      "datetime": "2026-06-10T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+      "caption": "【2026年6月】最新の開発スタイル「バイブコーディング」を知っていますか？\n\nかつてプログラミングは「構文を覚えること」がスタートでしたが、2026年の今、最も重要なのは「AIとどう対話して、形にするか」というスキルです。\n\n「こんなアプリが欲しい」という熱量（バイブス）を、最新AIと対話しながら数分で形にする。このスピード感がこれからのスタンダードになります。\n\nこの夏、if塾で自分だけのプロダクトを爆速で作り上げてみませんか？\n技術の進化は止まりません。波に乗るなら、今です！\n\n詳細はプロフィールURLからチェック✅",
+      "caption_text": "【2026年6月】最新の開発スタイル「バイブコーディング」を知っていますか？\n\nかつてプログラミングは「構文を覚えること」がスタートでしたが、2026年の今、最も重要なのは「AIとどう対話して、形にするか」というスキルです。\n\n「こんなアプリが欲しい」という熱量（バイブス）を、最新AIと対話しながら数分で形にする。このスピード感がこれからのスタンダードになります。\n\nこの夏、if塾で自分だけのプロダクトを爆速で作り上げてみませんか？\n技術の進化は止まりません。波に乗るなら、今です！\n\n詳細はプロフィールURLからチェック✅",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#AI開発",
+        "#プログラミング教育",
+        "#自由研究",
+        "#最新テック",
+        "#次世代スキル"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "sub_title": "6月の進路選びに必須！AIと共創する新時代の開発術",
+          "text_content": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-01.png",
+          "image_file": "assets/img/posts/20260610_development-01.png",
+          "overlay_text": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "subtext": "6月の進路選びに必須！AIと共創する新時代の開発術",
+          "alt": "表紙 - 【2026年最新】会話だけでアプリ完成？"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "sub_title": "夏休みの自由研究やポートフォリオ制作を前に、コードの壁にぶつかって挫折する学生が急増中。従来型の学習ではもう間に合わない？",
+          "text_content": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-02.png",
+          "image_file": "assets/img/posts/20260610_development-02.png",
+          "overlay_text": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "subtext": "夏休みの自由研究やポートフォリオ制作を前に、コードの壁にぶつかって挫折する学生が急増中。従来型の学習ではもう間に合わない？",
+          "alt": "内容1 - 「やりたい」が形にならないもどかしさ、感"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の主流「バイブコーディング」で思考を即実装",
+          "sub_title": "最新AIエージェントと対話するだけで、数分でプロトタイプが完成。キーボードを叩く時間は減り、アイデアを練る時間に集中できる時代へ。",
+          "text_content": "2026年の主流「バイブコーディング」で思考を即実装",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-03.png",
+          "image_file": "assets/img/posts/20260610_development-03.png",
+          "overlay_text": "2026年の主流「バイブコーディング」で思考を即実装",
+          "subtext": "最新AIエージェントと対話するだけで、数分でプロトタイプが完成。キーボードを叩く時間は減り、アイデアを練る時間に集中できる時代へ。",
+          "alt": "内容2 - 2026年の主流「バイブコーディング」で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "sub_title": "単なる自動生成ではなく、AIの意図を読み解き、自分の理想へ導く力を。バイブコーディングを使いこなせば、高校生でも数日でWebサービスをリリース可能です。",
+          "text_content": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-04.png",
+          "image_file": "assets/img/posts/20260610_development-04.png",
+          "overlay_text": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "subtext": "単なる自動生成ではなく、AIの意図を読み解き、自分の理想へ導く力を。バイブコーディングを使いこなせば、高校生でも数日でWebサービスをリリース可能です。",
+          "alt": "内容3 - if塾が提案する「AIを相棒にする」武器"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "sub_title": "6月の進路選びに必須！AIと共創する新時代の開発術",
+          "text_content": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-01.png",
+          "image_file": "assets/img/posts/20260610_development-01.png",
+          "overlay_text": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+          "subtext": "6月の進路選びに必須！AIと共創する新時代の開発術",
+          "alt": "表紙 - 【2026年最新】会話だけでアプリ完成？"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "sub_title": "夏休みの自由研究やポートフォリオ制作を前に、コードの壁にぶつかって挫折する学生が急増中。従来型の学習ではもう間に合わない？",
+          "text_content": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-02.png",
+          "image_file": "assets/img/posts/20260610_development-02.png",
+          "overlay_text": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+          "subtext": "夏休みの自由研究やポートフォリオ制作を前に、コードの壁にぶつかって挫折する学生が急増中。従来型の学習ではもう間に合わない？",
+          "alt": "内容1 - 「やりたい」が形にならないもどかしさ、感"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の主流「バイブコーディング」で思考を即実装",
+          "sub_title": "最新AIエージェントと対話するだけで、数分でプロトタイプが完成。キーボードを叩く時間は減り、アイデアを練る時間に集中できる時代へ。",
+          "text_content": "2026年の主流「バイブコーディング」で思考を即実装",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-03.png",
+          "image_file": "assets/img/posts/20260610_development-03.png",
+          "overlay_text": "2026年の主流「バイブコーディング」で思考を即実装",
+          "subtext": "最新AIエージェントと対話するだけで、数分でプロトタイプが完成。キーボードを叩く時間は減り、アイデアを練る時間に集中できる時代へ。",
+          "alt": "内容2 - 2026年の主流「バイブコーディング」で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "sub_title": "単なる自動生成ではなく、AIの意図を読み解き、自分の理想へ導く力を。バイブコーディングを使いこなせば、高校生でも数日でWebサービスをリリース可能です。",
+          "text_content": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260610_development-04.png",
+          "image_file": "assets/img/posts/20260610_development-04.png",
+          "overlay_text": "if塾が提案する「AIを相棒にする」武器の磨き方",
+          "subtext": "単なる自動生成ではなく、AIの意図を読み解き、自分の理想へ導く力を。バイブコーディングを使いこなせば、高校生でも数日でWebサービスをリリース可能です。",
+          "alt": "内容3 - if塾が提案する「AIを相棒にする」武器"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260610_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260610_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260610_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260610_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-10T12:38:35",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026年最新】会話だけでアプリ完成？",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026年最新】会話だけでアプリ完成？バイブコーディングの衝撃",
+            "subtext": "6月の進路選びに必須！AIと共創する新時代の開発術",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「やりたい」が形にならないもどかしさ、感じていませんか？",
+            "subtext": "夏休みの自由研究やポートフォリオ制作を前に、コードの壁にぶつかって挫折する学生が急増中。従来型の学習ではもう間に合わない？",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年の主流「バイブコーディング」で思考を即実装",
+            "subtext": "最新AIエージェントと対話するだけで、数分でプロトタイプが完成。キーボードを叩く時間は減り、アイデアを練る時間に集中できる時代へ。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する「AIを相棒にする」武器の磨き方",
+            "subtext": "単なる自動生成ではなく、AIの意図を読み解き、自分の理想へ導く力を。バイブコーディングを使いこなせば、高校生でも数日でWebサービスをリリース可能です。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260609_education",
       "post_id": "20260609_education",
