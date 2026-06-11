@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 155,
-    "last_updated": "2026-06-11T17:23:14.370547",
+    "last_updated": "2026-06-11T23:45:22.820380",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260611_ai_column",
       "post_id": "20260611_ai_column",
-      "created_at": "2026-06-11T17:23:14",
+      "created_at": "2026-06-11T23:45:22",
       "datetime": "2026-06-11T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+      "theme": "ChatGPT 6.0が勝手に宿題を管理する時代？",
       "target_audience": "Students & Parents",
-      "title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-      "caption": "【2026年6月】最新AIエージェント活用術✨\n\nテスト前の皆さん、進化した「Gemini Spark」と「Magica」はもうチェックしましたか？\n\nもはや、AIは質問に答えるだけの存在ではありません。\n「エージェント（自律型）」へと進化し、私たちが寝ている間に最適な復習スケジュールを組み、苦手な単元の解説資料を自動で作ってくれるようになりました。\n\n「何をすればいいかわからない」という悩みは、もう過去のものです。\n\nでも、注意してください！⚠️\nAIにすべてを任せきりにすると、「考える力」が育ちません。\n\nif塾では、この最新ツールを「最強の武器」として使いこなしつつ、自分の頭で考える本質的な力を養う指導を行っています。\n\n最新のAI学習について詳しく知りたい方は、プロフィールのリンクからお問い合わせください！🚀\n\n#if塾 #2026年 #GeminiSpark #Magica #AIエージェント #AI学習 #最新教育 #期末テスト対策",
-      "caption_text": "【2026年6月】最新AIエージェント活用術✨\n\nテスト前の皆さん、進化した「Gemini Spark」と「Magica」はもうチェックしましたか？\n\nもはや、AIは質問に答えるだけの存在ではありません。\n「エージェント（自律型）」へと進化し、私たちが寝ている間に最適な復習スケジュールを組み、苦手な単元の解説資料を自動で作ってくれるようになりました。\n\n「何をすればいいかわからない」という悩みは、もう過去のものです。\n\nでも、注意してください！⚠️\nAIにすべてを任せきりにすると、「考える力」が育ちません。\n\nif塾では、この最新ツールを「最強の武器」として使いこなしつつ、自分の頭で考える本質的な力を養う指導を行っています。\n\n最新のAI学習について詳しく知りたい方は、プロフィールのリンクからお問い合わせください！🚀\n\n#if塾 #2026年 #GeminiSpark #Magica #AIエージェント #AI学習 #最新教育 #期末テスト対策",
+      "title": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+      "caption": "【2026年6月】最新のAIニュースをお届けします！\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものになりました。\n\n今月リリースされたChatGPT 6.0やGemini Sparkの実装により、AIは「自律的なエージェント」へと進化。私たちが寝ている間に、塾の小テスト対策メニューを作り、苦手な英単語をリストアップしてくれる時代です。\n\n保護者の皆さま、お子様のデバイスは正しく「自律」していますか？\n便利な反面、思考を放棄させない「if塾式・AI共生術」が今、最も求められています。\n\n最新のAI活用法を詳しく知りたい方は、プロフィールからLINE登録を！✨",
+      "caption_text": "【2026年6月】最新のAIニュースをお届けします！\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものになりました。\n\n今月リリースされたChatGPT 6.0やGemini Sparkの実装により、AIは「自律的なエージェント」へと進化。私たちが寝ている間に、塾の小テスト対策メニューを作り、苦手な英単語をリストアップしてくれる時代です。\n\n保護者の皆さま、お子様のデバイスは正しく「自律」していますか？\n便利な反面、思考を放棄させない「if塾式・AI共生術」が今、最も求められています。\n\n最新のAI活用法を詳しく知りたい方は、プロフィールからLINE登録を！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#ChatGPT6",
         "#GeminiSpark",
-        "#Magica",
         "#AIエージェント",
-        "#最新教育",
-        "#学習自動化"
+        "#教育DX",
+        "#最新テック",
+        "#自律型AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-          "sub_title": "2026年6月最新版｜期末テスト対策の革命",
-          "text_content": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "main_title": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+          "sub_title": "2026年6月最新：AIエージェントの衝撃",
+          "text_content": "ChatGPT 6.0が勝手に宿題を管理する時代？",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-01.png",
           "image_file": "assets/img/posts/20260611_ai_column-01.png",
-          "overlay_text": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-          "subtext": "2026年6月最新版｜期末テスト対策の革命",
-          "alt": "表紙 - Gemini Spark & Magic"
+          "overlay_text": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+          "subtext": "2026年6月最新：AIエージェントの衝撃",
+          "alt": "表紙 - ChatGPT 6.0が勝手に宿題を管理"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
-          "sub_title": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
-          "text_content": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "main_title": "「指示待ちAI」はもう古い。",
+          "sub_title": "これまでは人間が命令していましたが、今はGemini SparkやChatGPT 6.0が自ら考え、スケジュールを組んで実行する「自律型」が当たり前になりました。",
+          "text_content": "「指示待ちAI」はもう古い。",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-02.png",
           "image_file": "assets/img/posts/20260611_ai_column-02.png",
-          "overlay_text": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
-          "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
-          "alt": "内容1 - 「何を勉強すべきか」に悩む時間は、もう0"
+          "overlay_text": "「指示待ちAI」はもう古い。",
+          "subtext": "これまでは人間が命令していましたが、今はGemini SparkやChatGPT 6.0が自ら考え、スケジュールを組んで実行する「自律型」が当たり前になりました。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い。"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
-          "sub_title": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
-          "text_content": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "main_title": "進路相談も願書準備も、AIが完結。",
+          "sub_title": "6月の三者面談に向けて、AIエージェントが志望校の最新倍率を解析し、最適な併願パターンを自動作成。必要な書類のドラフトまで勝手に用意してくれます。",
+          "text_content": "進路相談も願書準備も、AIが完結。",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-03.png",
           "image_file": "assets/img/posts/20260611_ai_column-03.png",
-          "overlay_text": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
-          "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
-          "alt": "内容2 - Magicaが「復習」を勝手に予約。放置"
+          "overlay_text": "進路相談も願書準備も、AIが完結。",
+          "subtext": "6月の三者面談に向けて、AIエージェントが志望校の最新倍率を解析し、最適な併願パターンを自動作成。必要な書類のドラフトまで勝手に用意してくれます。",
+          "alt": "内容2 - 進路相談も願書準備も、AIが完結。"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
-          "sub_title": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
-          "text_content": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "main_title": "if塾流：AIを「秘書」にする2つのコツ",
+          "sub_title": "1.丸投げせず「最終決定権」を子供に持たせること。2.AIの推論プロセスを確認する癖をつけること。思考力を奪わず、加速させる使い方が2026年の正解です。",
+          "text_content": "if塾流：AIを「秘書」にする2つのコツ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-04.png",
           "image_file": "assets/img/posts/20260611_ai_column-04.png",
-          "overlay_text": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
-          "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
-          "alt": "内容3 - プロの視点：AIを「丸投げ」にせず、「秘"
+          "overlay_text": "if塾流：AIを「秘書」にする2つのコツ",
+          "subtext": "1.丸投げせず「最終決定権」を子供に持たせること。2.AIの推論プロセスを確認する癖をつけること。思考力を奪わず、加速させる使い方が2026年の正解です。",
+          "alt": "内容3 - if塾流：AIを「秘書」にする2つのコツ"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-          "sub_title": "2026年6月最新版｜期末テスト対策の革命",
-          "text_content": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "main_title": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+          "sub_title": "2026年6月最新：AIエージェントの衝撃",
+          "text_content": "ChatGPT 6.0が勝手に宿題を管理する時代？",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-01.png",
           "image_file": "assets/img/posts/20260611_ai_column-01.png",
-          "overlay_text": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-          "subtext": "2026年6月最新版｜期末テスト対策の革命",
-          "alt": "表紙 - Gemini Spark & Magic"
+          "overlay_text": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+          "subtext": "2026年6月最新：AIエージェントの衝撃",
+          "alt": "表紙 - ChatGPT 6.0が勝手に宿題を管理"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
-          "sub_title": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
-          "text_content": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "main_title": "「指示待ちAI」はもう古い。",
+          "sub_title": "これまでは人間が命令していましたが、今はGemini SparkやChatGPT 6.0が自ら考え、スケジュールを組んで実行する「自律型」が当たり前になりました。",
+          "text_content": "「指示待ちAI」はもう古い。",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-02.png",
           "image_file": "assets/img/posts/20260611_ai_column-02.png",
-          "overlay_text": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
-          "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
-          "alt": "内容1 - 「何を勉強すべきか」に悩む時間は、もう0"
+          "overlay_text": "「指示待ちAI」はもう古い。",
+          "subtext": "これまでは人間が命令していましたが、今はGemini SparkやChatGPT 6.0が自ら考え、スケジュールを組んで実行する「自律型」が当たり前になりました。",
+          "alt": "内容1 - 「指示待ちAI」はもう古い。"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
-          "sub_title": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
-          "text_content": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "main_title": "進路相談も願書準備も、AIが完結。",
+          "sub_title": "6月の三者面談に向けて、AIエージェントが志望校の最新倍率を解析し、最適な併願パターンを自動作成。必要な書類のドラフトまで勝手に用意してくれます。",
+          "text_content": "進路相談も願書準備も、AIが完結。",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-03.png",
           "image_file": "assets/img/posts/20260611_ai_column-03.png",
-          "overlay_text": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
-          "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
-          "alt": "内容2 - Magicaが「復習」を勝手に予約。放置"
+          "overlay_text": "進路相談も願書準備も、AIが完結。",
+          "subtext": "6月の三者面談に向けて、AIエージェントが志望校の最新倍率を解析し、最適な併願パターンを自動作成。必要な書類のドラフトまで勝手に用意してくれます。",
+          "alt": "内容2 - 進路相談も願書準備も、AIが完結。"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
-          "sub_title": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
-          "text_content": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "main_title": "if塾流：AIを「秘書」にする2つのコツ",
+          "sub_title": "1.丸投げせず「最終決定権」を子供に持たせること。2.AIの推論プロセスを確認する癖をつけること。思考力を奪わず、加速させる使い方が2026年の正解です。",
+          "text_content": "if塾流：AIを「秘書」にする2つのコツ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-04.png",
           "image_file": "assets/img/posts/20260611_ai_column-04.png",
-          "overlay_text": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
-          "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
-          "alt": "内容3 - プロの視点：AIを「丸投げ」にせず、「秘"
+          "overlay_text": "if塾流：AIを「秘書」にする2つのコツ",
+          "subtext": "1.丸投げせず「最終決定権」を子供に持たせること。2.AIの推論プロセスを確認する癖をつけること。思考力を奪わず、加速させる使い方が2026年の正解です。",
+          "alt": "内容3 - if塾流：AIを「秘書」にする2つのコツ"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-11T17:21:39",
+      "research_date": "2026-06-11T23:43:49",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Gemini Spark & Magic",
+        "cover_text": "ChatGPT 6.0が勝手に宿題を管理",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
-            "subtext": "2026年6月最新版｜期末テスト対策の革命",
+            "headline": "ChatGPT 6.0が勝手に宿題を管理する時代？",
+            "subtext": "2026年6月最新：AIエージェントの衝撃",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
-            "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
+            "headline": "「指示待ちAI」はもう古い。",
+            "subtext": "これまでは人間が命令していましたが、今はGemini SparkやChatGPT 6.0が自ら考え、スケジュールを組んで実行する「自律型」が当たり前になりました。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
-            "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
+            "headline": "進路相談も願書準備も、AIが完結。",
+            "subtext": "6月の三者面談に向けて、AIエージェントが志望校の最新倍率を解析し、最適な併願パターンを自動作成。必要な書類のドラフトまで勝手に用意してくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
-            "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
+            "headline": "if塾流：AIを「秘書」にする2つのコツ",
+            "subtext": "1.丸投げせず「最終決定権」を子供に持たせること。2.AIの推論プロセスを確認する癖をつけること。思考力を奪わず、加速させる使い方が2026年の正解です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
