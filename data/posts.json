@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 155,
-    "last_updated": "2026-06-11T12:56:51.322245",
+    "last_updated": "2026-06-11T17:23:14.370547",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20260611_ai_column",
       "post_id": "20260611_ai_column",
-      "created_at": "2026-06-11T12:56:51",
+      "created_at": "2026-06-11T17:23:14",
       "datetime": "2026-06-11T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
+      "theme": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
       "target_audience": "Students & Parents",
-      "title": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-      "caption": "【2026年6月】定期テスト直前、もう「答え丸写し」の時代は終わりました。\n\nGoogleが発表した教育特化型AIモデル『LearnLM』がGeminiに完全統合され、2026年の学習環境は劇的に変化しています。\n\n今のAIは、ただ答えを教えるのではなく「なぜそうなるのか？」を生徒に問いかけ、思考力を引き出すチューターへと進化しました。\n\n「AIがあるから勉強しなくていい」ではなく、「AIがあるから、より深い学びができる」\n\nif塾では、最新のAIツールを使いこなし、自分自身の力に変えていく『次世代の学習法』を提案しています。\n\nこの夏、最新AIを味方につけて、自己ベストを更新しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
-      "caption_text": "【2026年6月】定期テスト直前、もう「答え丸写し」の時代は終わりました。\n\nGoogleが発表した教育特化型AIモデル『LearnLM』がGeminiに完全統合され、2026年の学習環境は劇的に変化しています。\n\n今のAIは、ただ答えを教えるのではなく「なぜそうなるのか？」を生徒に問いかけ、思考力を引き出すチューターへと進化しました。\n\n「AIがあるから勉強しなくていい」ではなく、「AIがあるから、より深い学びができる」\n\nif塾では、最新のAIツールを使いこなし、自分自身の力に変えていく『次世代の学習法』を提案しています。\n\nこの夏、最新AIを味方につけて、自己ベストを更新しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+      "caption": "【2026年6月】最新AIエージェント活用術✨\n\nテスト前の皆さん、進化した「Gemini Spark」と「Magica」はもうチェックしましたか？\n\nもはや、AIは質問に答えるだけの存在ではありません。\n「エージェント（自律型）」へと進化し、私たちが寝ている間に最適な復習スケジュールを組み、苦手な単元の解説資料を自動で作ってくれるようになりました。\n\n「何をすればいいかわからない」という悩みは、もう過去のものです。\n\nでも、注意してください！⚠️\nAIにすべてを任せきりにすると、「考える力」が育ちません。\n\nif塾では、この最新ツールを「最強の武器」として使いこなしつつ、自分の頭で考える本質的な力を養う指導を行っています。\n\n最新のAI学習について詳しく知りたい方は、プロフィールのリンクからお問い合わせください！🚀\n\n#if塾 #2026年 #GeminiSpark #Magica #AIエージェント #AI学習 #最新教育 #期末テスト対策",
+      "caption_text": "【2026年6月】最新AIエージェント活用術✨\n\nテスト前の皆さん、進化した「Gemini Spark」と「Magica」はもうチェックしましたか？\n\nもはや、AIは質問に答えるだけの存在ではありません。\n「エージェント（自律型）」へと進化し、私たちが寝ている間に最適な復習スケジュールを組み、苦手な単元の解説資料を自動で作ってくれるようになりました。\n\n「何をすればいいかわからない」という悩みは、もう過去のものです。\n\nでも、注意してください！⚠️\nAIにすべてを任せきりにすると、「考える力」が育ちません。\n\nif塾では、この最新ツールを「最強の武器」として使いこなしつつ、自分の頭で考える本質的な力を養う指導を行っています。\n\n最新のAI学習について詳しく知りたい方は、プロフィールのリンクからお問い合わせください！🚀\n\n#if塾 #2026年 #GeminiSpark #Magica #AIエージェント #AI学習 #最新教育 #期末テスト対策",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#教育AI",
-        "#LearnLM",
-        "#Gemini",
-        "#Google教育",
-        "#期末テスト対策",
-        "#パーソナライズ学習",
-        "#最新エドテック"
+        "#GeminiSpark",
+        "#Magica",
+        "#AIエージェント",
+        "#最新教育",
+        "#学習自動化"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-          "sub_title": "2026年6月11日 最新アップデート版",
-          "text_content": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
+          "main_title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "sub_title": "2026年6月最新版｜期末テスト対策の革命",
+          "text_content": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-01.png",
           "image_file": "assets/img/posts/20260611_ai_column-01.png",
-          "overlay_text": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-          "subtext": "2026年6月11日 最新アップデート版",
-          "alt": "表紙 - 学校でもLearnLM解禁！Google"
+          "overlay_text": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "subtext": "2026年6月最新版｜期末テスト対策の革命",
+          "alt": "表紙 - Gemini Spark & Magic"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
-          "sub_title": "従来のAIは答えを教えるだけ。しかし、Googleの教育特化型AI『LearnLM』は、解き方のプロセスを導く家庭教師へと進化しました。",
-          "text_content": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
+          "main_title": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "sub_title": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
+          "text_content": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-02.png",
           "image_file": "assets/img/posts/20260611_ai_column-02.png",
-          "overlay_text": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
-          "subtext": "従来のAIは答えを教えるだけ。しかし、Googleの教育特化型AI『LearnLM』は、解き方のプロセスを導く家庭教師へと進化しました。",
-          "alt": "内容1 - 「うちの子だけ置いていかれる？」期末テス"
+          "overlay_text": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
+          "alt": "内容1 - 「何を勉強すべきか」に悩む時間は、もう0"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
-          "sub_title": "2026年現在のGeminiは、授業動画を読み込ませるだけで苦手箇所を特定し、対話しながら理解を深めるパーソナライズ学習が主流です。",
-          "text_content": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
+          "main_title": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "sub_title": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
+          "text_content": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-03.png",
           "image_file": "assets/img/posts/20260611_ai_column-03.png",
-          "overlay_text": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
-          "subtext": "2026年現在のGeminiは、授業動画を読み込ませるだけで苦手箇所を特定し、対話しながら理解を深めるパーソナライズ学習が主流です。",
-          "alt": "内容2 - Geminiに組み込まれたLearnLM"
+          "overlay_text": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
+          "alt": "内容2 - Magicaが「復習」を勝手に予約。放置"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
-          "sub_title": "プロンプト（指示）よりも、AIからの問いかけにどう答えるかが鍵。if塾ではAIを活用した『自学自習の型』を指導しています。",
-          "text_content": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
+          "main_title": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "sub_title": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
+          "text_content": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-04.png",
           "image_file": "assets/img/posts/20260611_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
-          "subtext": "プロンプト（指示）よりも、AIからの問いかけにどう答えるかが鍵。if塾ではAIを活用した『自学自習の型』を指導しています。",
-          "alt": "内容3 - if塾の視点：AIを「正解ツール」ではな"
+          "overlay_text": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
+          "alt": "内容3 - プロの視点：AIを「丸投げ」にせず、「秘"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-          "sub_title": "2026年6月11日 最新アップデート版",
-          "text_content": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
+          "main_title": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "sub_title": "2026年6月最新版｜期末テスト対策の革命",
+          "text_content": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-01.png",
           "image_file": "assets/img/posts/20260611_ai_column-01.png",
-          "overlay_text": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-          "subtext": "2026年6月11日 最新アップデート版",
-          "alt": "表紙 - 学校でもLearnLM解禁！Google"
+          "overlay_text": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+          "subtext": "2026年6月最新版｜期末テスト対策の革命",
+          "alt": "表紙 - Gemini Spark & Magic"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
-          "sub_title": "従来のAIは答えを教えるだけ。しかし、Googleの教育特化型AI『LearnLM』は、解き方のプロセスを導く家庭教師へと進化しました。",
-          "text_content": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
+          "main_title": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "sub_title": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
+          "text_content": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-02.png",
           "image_file": "assets/img/posts/20260611_ai_column-02.png",
-          "overlay_text": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
-          "subtext": "従来のAIは答えを教えるだけ。しかし、Googleの教育特化型AI『LearnLM』は、解き方のプロセスを導く家庭教師へと進化しました。",
-          "alt": "内容1 - 「うちの子だけ置いていかれる？」期末テス"
+          "overlay_text": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+          "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
+          "alt": "内容1 - 「何を勉強すべきか」に悩む時間は、もう0"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
-          "sub_title": "2026年現在のGeminiは、授業動画を読み込ませるだけで苦手箇所を特定し、対話しながら理解を深めるパーソナライズ学習が主流です。",
-          "text_content": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
+          "main_title": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "sub_title": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
+          "text_content": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-03.png",
           "image_file": "assets/img/posts/20260611_ai_column-03.png",
-          "overlay_text": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
-          "subtext": "2026年現在のGeminiは、授業動画を読み込ませるだけで苦手箇所を特定し、対話しながら理解を深めるパーソナライズ学習が主流です。",
-          "alt": "内容2 - Geminiに組み込まれたLearnLM"
+          "overlay_text": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+          "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
+          "alt": "内容2 - Magicaが「復習」を勝手に予約。放置"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
-          "sub_title": "プロンプト（指示）よりも、AIからの問いかけにどう答えるかが鍵。if塾ではAIを活用した『自学自習の型』を指導しています。",
-          "text_content": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
+          "main_title": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "sub_title": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
+          "text_content": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260611_ai_column-04.png",
           "image_file": "assets/img/posts/20260611_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
-          "subtext": "プロンプト（指示）よりも、AIからの問いかけにどう答えるかが鍵。if塾ではAIを活用した『自学自習の型』を指導しています。",
-          "alt": "内容3 - if塾の視点：AIを「正解ツール」ではな"
+          "overlay_text": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+          "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
+          "alt": "内容3 - プロの視点：AIを「丸投げ」にせず、「秘"
         },
         {
           "page_number": 5,
@@ -245,7 +243,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-11T12:55:19",
+      "research_date": "2026-06-11T17:21:39",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "学校でもLearnLM解禁！Google",
+        "cover_text": "Gemini Spark & Magic",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "学校でもLearnLM解禁！Google×教育AIが変える2026年の期末対策",
-            "subtext": "2026年6月11日 最新アップデート版",
+            "headline": "Gemini Spark & Magica：ついに「学習の完全自動化」が始まった",
+            "subtext": "2026年6月最新版｜期末テスト対策の革命",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -269,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「うちの子だけ置いていかれる？」期末テスト前の焦りとAIの壁",
-            "subtext": "従来のAIは答えを教えるだけ。しかし、Googleの教育特化型AI『LearnLM』は、解き方のプロセスを導く家庭教師へと進化しました。",
+            "headline": "「何を勉強すべきか」に悩む時間は、もう0秒です。",
+            "subtext": "2026年のAIエージェントは、ただのチャットではありません。Gemini Sparkが君の理解度をリアルタイムで分析し、最適なカリキュラムを自動生成する時代です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -278,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Geminiに組み込まれたLearnLM。動画や教科書から「自分専用ドリル」を自動生成",
-            "subtext": "2026年現在のGeminiは、授業動画を読み込ませるだけで苦手箇所を特定し、対話しながら理解を深めるパーソナライズ学習が主流です。",
+            "headline": "Magicaが「復習」を勝手に予約。放置で成績が上がる？",
+            "subtext": "忘却曲線に基づき、Magicaが深夜に自動で「明日解くべき一問」を生成。朝起きたらスマホに最適な演習が届いている、魔法のような自動化が主流に。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -287,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIを「正解ツール」ではなく「思考の伴走者」にするコツ",
-            "subtext": "プロンプト（指示）よりも、AIからの問いかけにどう答えるかが鍵。if塾ではAIを活用した『自学自習の型』を指導しています。",
+            "headline": "プロの視点：AIを「丸投げ」にせず、「秘書」として使いこなせ",
+            "subtext": "if塾ではAIの答えを写すのではなく、AIが提案した「学習ルート」をどう実行するか、そのコーチングを重視。エージェントを使いこなす側が勝つ時代です。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
