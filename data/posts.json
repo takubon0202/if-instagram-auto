@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 156,
-    "last_updated": "2026-06-12T17:11:10.317905",
+    "last_updated": "2026-06-12T23:13:18.994878",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260612_business",
       "post_id": "20260612_business",
-      "created_at": "2026-06-12T17:11:10",
+      "created_at": "2026-06-12T23:13:18",
       "datetime": "2026-06-12T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
+      "theme": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-      "caption": "【2026年6月】中高生の皆さんは、夏休みの計画を立て始めていますか？\n\n今、地方で大きな変化が起きています。それは「生成AIを使いこなすZ・α世代が、地元の老舗企業をプロモートする」という新しいビジネスモデルの確立です。\n\n「GPT-5」の高度な推論能力と、進化した「Sora」などの動画生成AIがあれば、かつて数百万かかっていたPRコンテンツが、中高生の感性でよりスピーディーに、より魅力的に作れる時代です。\n\n地方の企業は「発信したいけど方法がわからない」という悩みを抱えています。皆さんが持つ「AIスキル」は、もはや単なる趣味ではなく、地域経済を回す立派なビジネススキルです。\n\nこの夏、if塾で学んだスキルを活かして、自分の街の魅力を世界に届けるプロジェクトを始めてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #地域創生 #中高生起業 #SNS代行 #GPT5 #キャリア教育 #地方創生AI",
-      "caption_text": "【2026年6月】中高生の皆さんは、夏休みの計画を立て始めていますか？\n\n今、地方で大きな変化が起きています。それは「生成AIを使いこなすZ・α世代が、地元の老舗企業をプロモートする」という新しいビジネスモデルの確立です。\n\n「GPT-5」の高度な推論能力と、進化した「Sora」などの動画生成AIがあれば、かつて数百万かかっていたPRコンテンツが、中高生の感性でよりスピーディーに、より魅力的に作れる時代です。\n\n地方の企業は「発信したいけど方法がわからない」という悩みを抱えています。皆さんが持つ「AIスキル」は、もはや単なる趣味ではなく、地域経済を回す立派なビジネススキルです。\n\nこの夏、if塾で学んだスキルを活かして、自分の街の魅力を世界に届けるプロジェクトを始めてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #地域創生 #中高生起業 #SNS代行 #GPT5 #キャリア教育 #地方創生AI",
+      "title": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+      "caption": "【2026年6月】SNS運用のカタチが激変しています！\n\n「副業をしたいけど時間がない…」\nそんな悩みは、最新のAIエージェントが解決する時代になりました。\n\n今、Z世代の学生たちが企業のSNS運用を『AIエージェント』を使って代行し、\n月収30万円を超えるケースが続出しています。\n\nポイントは「自分で作る」のではなく「AIに指示を出す」スキル。\n2026年最新のAIツールを使いこなすことで、\n就活でも圧倒的に有利な「実戦的なITリテラシー」が身に付きます。\n\nif塾では、この夏から本気でAI副業を始めたい学生や、\nお子様に最新のIT教育を受けさせたい保護者の方をサポート中！\n\n詳細はプロフィールのリンクをチェック！✨",
+      "caption_text": "【2026年6月】SNS運用のカタチが激変しています！\n\n「副業をしたいけど時間がない…」\nそんな悩みは、最新のAIエージェントが解決する時代になりました。\n\n今、Z世代の学生たちが企業のSNS運用を『AIエージェント』を使って代行し、\n月収30万円を超えるケースが続出しています。\n\nポイントは「自分で作る」のではなく「AIに指示を出す」スキル。\n2026年最新のAIツールを使いこなすことで、\n就活でも圧倒的に有利な「実戦的なITリテラシー」が身に付きます。\n\nif塾では、この夏から本気でAI副業を始めたい学生や、\nお子様に最新のIT教育を受けさせたい保護者の方をサポート中！\n\n詳細はプロフィールのリンクをチェック！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#生成AI",
-        "#中高生",
-        "#地域創生",
-        "#ビジネススキル",
-        "#SNS運用代行"
+        "#AIエージェント",
+        "#SNS運用代行",
+        "#Z世代副業",
+        "#最新AI",
+        "#教育改革",
+        "#デジタルネイティブ"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-          "sub_title": "6月の最新トレンド：地域産業×生成AIモデルが急増中",
-          "text_content": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
+          "main_title": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+          "sub_title": "2026年6月最新：企業が欲しがる「AI使い」の学生たち",
+          "text_content": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-01.png",
           "image_file": "assets/img/posts/20260612_business-01.png",
-          "overlay_text": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-          "subtext": "6月の最新トレンド：地域産業×生成AIモデルが急増中",
-          "alt": "表紙 - 2026年最新版！中高生がAIで地方を救"
+          "overlay_text": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+          "subtext": "2026年6月最新：企業が欲しがる「AI使い」の学生たち",
+          "alt": "表紙 - 月30万稼ぐZ世代の新常識：AIエージェ"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
-          "sub_title": "2026年、地方企業のSNS運用は『若者の感性×最新AI』の組み合わせがスタンダードに。でも「何をどう使えばいいか」で止まっていませんか？",
-          "text_content": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
+          "main_title": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
+          "sub_title": "これまでのSNS副業は『自分の時間』を削る労働でした。しかし2026年現在、企業は『効率』と『最新AIの知見』を求めています。就活を控えた学生が、AIツールを駆使して企業の広報部長になる事例が急増中。",
+          "text_content": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-02.png",
           "image_file": "assets/img/posts/20260612_business-02.png",
-          "overlay_text": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
-          "subtext": "2026年、地方企業のSNS運用は『若者の感性×最新AI』の組み合わせがスタンダードに。でも「何をどう使えばいいか」で止まっていませんか？",
-          "alt": "内容1 - 「地元には何もない」はもう古い。人手不足"
+          "overlay_text": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
+          "subtext": "これまでのSNS副業は『自分の時間』を削る労働でした。しかし2026年現在、企業は『効率』と『最新AIの知見』を求めています。就活を控えた学生が、AIツールを駆使して企業の広報部長になる事例が急増中。",
+          "alt": "内容1 - 「動画が作れない」はもう古い。投稿はAI"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
-          "sub_title": "2026年6月現在、マルチモーダルAIによるリアルタイム動画生成が主流。地域の伝統工芸や観光資源を、最先端のビジュアルで世界へ即座に発信できます。",
-          "text_content": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
+          "main_title": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
+          "sub_title": "2026年の主流は、1つの指示でリサーチ・台本・動画生成・投稿予約まで完結するAIエージェント。特に最新の『GPT-5.5系』をベースにした特化型ツールを使えば、1人で10社以上の運用を並行することが可能です。",
+          "text_content": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-03.png",
           "image_file": "assets/img/posts/20260612_business-03.png",
-          "overlay_text": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
-          "subtext": "2026年6月現在、マルチモーダルAIによるリアルタイム動画生成が主流。地域の伝統工芸や観光資源を、最先端のビジュアルで世界へ即座に発信できます。",
-          "alt": "内容2 - 「GPT-5」と「Sora 2.0」をフ"
+          "overlay_text": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
+          "subtext": "2026年の主流は、1つの指示でリサーチ・台本・動画生成・投稿予約まで完結するAIエージェント。特に最新の『GPT-5.5系』をベースにした特化型ツールを使えば、1人で10社以上の運用を並行することが可能です。",
+          "alt": "内容2 - 自律型AI『Auto-Post 2026"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
-          "sub_title": "AIはあくまでツール。大事なのは、地元の店主や職人の「想い」をどう言語化し、AIに学習させるか。if塾では技術だけでなく、対話から本質を引き出すマインドを学びます。",
-          "text_content": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
+          "main_title": "【if塾の視点】AIを『使う側』から『教育する側』へ",
+          "sub_title": "単にツールを使うだけでは差別化できません。if塾が教えるのは、企業のブランド色をAIに学習させる『プロンプト・エンジニアリング』。AIに魂を込めるのは、あなたの感性とディレクション能力です。",
+          "text_content": "【if塾の視点】AIを『使う側』から『教育する側』へ",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-04.png",
           "image_file": "assets/img/posts/20260612_business-04.png",
-          "overlay_text": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
-          "subtext": "AIはあくまでツール。大事なのは、地元の店主や職人の「想い」をどう言語化し、AIに学習させるか。if塾では技術だけでなく、対話から本質を引き出すマインドを学びます。",
-          "alt": "内容3 - if塾流：単なる『作業代行』ではなく『価"
+          "overlay_text": "【if塾の視点】AIを『使う側』から『教育する側』へ",
+          "subtext": "単にツールを使うだけでは差別化できません。if塾が教えるのは、企業のブランド色をAIに学習させる『プロンプト・エンジニアリング』。AIに魂を込めるのは、あなたの感性とディレクション能力です。",
+          "alt": "内容3 - 【if塾の視点】AIを『使う側』から『教"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-          "sub_title": "6月の最新トレンド：地域産業×生成AIモデルが急増中",
-          "text_content": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
+          "main_title": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+          "sub_title": "2026年6月最新：企業が欲しがる「AI使い」の学生たち",
+          "text_content": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-01.png",
           "image_file": "assets/img/posts/20260612_business-01.png",
-          "overlay_text": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-          "subtext": "6月の最新トレンド：地域産業×生成AIモデルが急増中",
-          "alt": "表紙 - 2026年最新版！中高生がAIで地方を救"
+          "overlay_text": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+          "subtext": "2026年6月最新：企業が欲しがる「AI使い」の学生たち",
+          "alt": "表紙 - 月30万稼ぐZ世代の新常識：AIエージェ"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
-          "sub_title": "2026年、地方企業のSNS運用は『若者の感性×最新AI』の組み合わせがスタンダードに。でも「何をどう使えばいいか」で止まっていませんか？",
-          "text_content": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
+          "main_title": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
+          "sub_title": "これまでのSNS副業は『自分の時間』を削る労働でした。しかし2026年現在、企業は『効率』と『最新AIの知見』を求めています。就活を控えた学生が、AIツールを駆使して企業の広報部長になる事例が急増中。",
+          "text_content": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-02.png",
           "image_file": "assets/img/posts/20260612_business-02.png",
-          "overlay_text": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
-          "subtext": "2026年、地方企業のSNS運用は『若者の感性×最新AI』の組み合わせがスタンダードに。でも「何をどう使えばいいか」で止まっていませんか？",
-          "alt": "内容1 - 「地元には何もない」はもう古い。人手不足"
+          "overlay_text": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
+          "subtext": "これまでのSNS副業は『自分の時間』を削る労働でした。しかし2026年現在、企業は『効率』と『最新AIの知見』を求めています。就活を控えた学生が、AIツールを駆使して企業の広報部長になる事例が急増中。",
+          "alt": "内容1 - 「動画が作れない」はもう古い。投稿はAI"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
-          "sub_title": "2026年6月現在、マルチモーダルAIによるリアルタイム動画生成が主流。地域の伝統工芸や観光資源を、最先端のビジュアルで世界へ即座に発信できます。",
-          "text_content": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
+          "main_title": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
+          "sub_title": "2026年の主流は、1つの指示でリサーチ・台本・動画生成・投稿予約まで完結するAIエージェント。特に最新の『GPT-5.5系』をベースにした特化型ツールを使えば、1人で10社以上の運用を並行することが可能です。",
+          "text_content": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-03.png",
           "image_file": "assets/img/posts/20260612_business-03.png",
-          "overlay_text": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
-          "subtext": "2026年6月現在、マルチモーダルAIによるリアルタイム動画生成が主流。地域の伝統工芸や観光資源を、最先端のビジュアルで世界へ即座に発信できます。",
-          "alt": "内容2 - 「GPT-5」と「Sora 2.0」をフ"
+          "overlay_text": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
+          "subtext": "2026年の主流は、1つの指示でリサーチ・台本・動画生成・投稿予約まで完結するAIエージェント。特に最新の『GPT-5.5系』をベースにした特化型ツールを使えば、1人で10社以上の運用を並行することが可能です。",
+          "alt": "内容2 - 自律型AI『Auto-Post 2026"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
-          "sub_title": "AIはあくまでツール。大事なのは、地元の店主や職人の「想い」をどう言語化し、AIに学習させるか。if塾では技術だけでなく、対話から本質を引き出すマインドを学びます。",
-          "text_content": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
+          "main_title": "【if塾の視点】AIを『使う側』から『教育する側』へ",
+          "sub_title": "単にツールを使うだけでは差別化できません。if塾が教えるのは、企業のブランド色をAIに学習させる『プロンプト・エンジニアリング』。AIに魂を込めるのは、あなたの感性とディレクション能力です。",
+          "text_content": "【if塾の視点】AIを『使う側』から『教育する側』へ",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260612_business-04.png",
           "image_file": "assets/img/posts/20260612_business-04.png",
-          "overlay_text": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
-          "subtext": "AIはあくまでツール。大事なのは、地元の店主や職人の「想い」をどう言語化し、AIに学習させるか。if塾では技術だけでなく、対話から本質を引き出すマインドを学びます。",
-          "alt": "内容3 - if塾流：単なる『作業代行』ではなく『価"
+          "overlay_text": "【if塾の視点】AIを『使う側』から『教育する側』へ",
+          "subtext": "単にツールを使うだけでは差別化できません。if塾が教えるのは、企業のブランド色をAIに学習させる『プロンプト・エンジニアリング』。AIに魂を込めるのは、あなたの感性とディレクション能力です。",
+          "alt": "内容3 - 【if塾の視点】AIを『使う側』から『教"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-12T17:09:18",
+      "research_date": "2026-06-12T23:11:51",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！中高生がAIで地方を救",
+        "cover_text": "月30万稼ぐZ世代の新常識：AIエージェ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！中高生がAIで地方を救う「SNS代行」の稼ぎ方",
-            "subtext": "6月の最新トレンド：地域産業×生成AIモデルが急増中",
+            "headline": "月30万稼ぐZ世代の新常識：AIエージェントSNS運用代行",
+            "subtext": "2026年6月最新：企業が欲しがる「AI使い」の学生たち",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「地元には何もない」はもう古い。人手不足の地方企業を君のAIスキルが救う",
-            "subtext": "2026年、地方企業のSNS運用は『若者の感性×最新AI』の組み合わせがスタンダードに。でも「何をどう使えばいいか」で止まっていませんか？",
+            "headline": "「動画が作れない」はもう古い。投稿はAIが自動で走らせる時代",
+            "subtext": "これまでのSNS副業は『自分の時間』を削る労働でした。しかし2026年現在、企業は『効率』と『最新AIの知見』を求めています。就活を控えた学生が、AIツールを駆使して企業の広報部長になる事例が急増中。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "「GPT-5」と「Sora 2.0」をフル活用。スマホ1つでプロ級のPR動画を量産",
-            "subtext": "2026年6月現在、マルチモーダルAIによるリアルタイム動画生成が主流。地域の伝統工芸や観光資源を、最先端のビジュアルで世界へ即座に発信できます。",
+            "headline": "自律型AI『Auto-Post 2026』と『Multi-Modal Agent』の活用",
+            "subtext": "2026年の主流は、1つの指示でリサーチ・台本・動画生成・投稿予約まで完結するAIエージェント。特に最新の『GPT-5.5系』をベースにした特化型ツールを使えば、1人で10社以上の運用を並行することが可能です。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：単なる『作業代行』ではなく『価値共創』のパートナーへ",
-            "subtext": "AIはあくまでツール。大事なのは、地元の店主や職人の「想い」をどう言語化し、AIに学習させるか。if塾では技術だけでなく、対話から本質を引き出すマインドを学びます。",
+            "headline": "【if塾の視点】AIを『使う側』から『教育する側』へ",
+            "subtext": "単にツールを使うだけでは差別化できません。if塾が教えるのは、企業のブランド色をAIに学習させる『プロンプト・エンジニアリング』。AIに魂を込めるのは、あなたの感性とディレクション能力です。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
