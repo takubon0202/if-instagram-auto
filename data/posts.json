@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 156,
-    "last_updated": "2026-06-12T23:13:18.994878",
+    "total_posts": 157,
+    "last_updated": "2026-06-13T12:40:18.599380",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260613_activity",
+      "post_id": "20260613_activity",
+      "created_at": "2026-06-13T12:40:18",
+      "datetime": "2026-06-13T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+      "target_audience": "Students & Parents",
+      "title": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+      "caption": "【2026年6月】最新のAI開発現場からお届けします！\n\n今、中高生の間では「AIを操作する」だけでなく、自分で考えて動く「AIエージェント」を自作することが当たり前になりつつあります。\n\n今回のハッカソンでは、わずか3日間で日常の課題を解決する自律型AIが続々と誕生しました。2026年現在、開発スピードはかつての数倍に加速しています。\n\n「技術がすごすぎてついていけない…」と不安な保護者の皆様、ご安心ください。if塾では、技術の裏側にある「論理的思考」を大切にしています。\n\nこの夏、お子様も「AIを作る側」の一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年6月】最新のAI開発現場からお届けします！\n\n今、中高生の間では「AIを操作する」だけでなく、自分で考えて動く「AIエージェント」を自作することが当たり前になりつつあります。\n\n今回のハッカソンでは、わずか3日間で日常の課題を解決する自律型AIが続々と誕生しました。2026年現在、開発スピードはかつての数倍に加速しています。\n\n「技術がすごすぎてついていけない…」と不安な保護者の皆様、ご安心ください。if塾では、技術の裏側にある「論理的思考」を大切にしています。\n\nこの夏、お子様も「AIを作る側」の一歩を踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIエージェント",
+        "#ハッカソン",
+        "#中高生エンジニア",
+        "#次世代教育",
+        "#自律型AI",
+        "#プログラミング学習"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "sub_title": "2026年6月最新リポート：AIエージェント開発の衝撃",
+          "text_content": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-01.png",
+          "image_file": "assets/img/posts/20260613_activity-01.png",
+          "overlay_text": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "subtext": "2026年6月最新リポート：AIエージェント開発の衝撃",
+          "alt": "表紙 - 中高生が「自律型AI」を3日で完成？最新"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIを自律させる」時代へ",
+          "sub_title": "夏休みを前に、自由研究のテーマや進路に悩む時期。単なるプログラミングではなく、AIに意志を持たせる開発が中高生のトレンドになっています。",
+          "text_content": "「AIを使う」から「AIを自律させる」時代へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-02.png",
+          "image_file": "assets/img/posts/20260613_activity-02.png",
+          "overlay_text": "「AIを使う」から「AIを自律させる」時代へ",
+          "subtext": "夏休みを前に、自由研究のテーマや進路に悩む時期。単なるプログラミングではなく、AIに意志を持たせる開発が中高生のトレンドになっています。",
+          "alt": "内容1 - 「AIを使う」から「AIを自律させる」時"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ノーコードで「動く脳」を設計する生徒たち",
+          "sub_title": "2026年最新のAuto-Agentツールを使い、わずか数日でタスクを自己完結するAIを構築。中高生の柔軟な発想で、家庭教師AIや自動家計簿AIが次々誕生しています。",
+          "text_content": "ノーコードで「動く脳」を設計する生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-03.png",
+          "image_file": "assets/img/posts/20260613_activity-03.png",
+          "overlay_text": "ノーコードで「動く脳」を設計する生徒たち",
+          "subtext": "2026年最新のAuto-Agentツールを使い、わずか数日でタスクを自己完結するAIを構築。中高生の柔軟な発想で、家庭教師AIや自動家計簿AIが次々誕生しています。",
+          "alt": "内容2 - ノーコードで「動く脳」を設計する生徒たち"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：技術より「指示の解像度」が鍵",
+          "sub_title": "これからの学びはコーディング量ではありません。AIに何を、なぜ任せるのか？という論理的思考力と、自律型AIを制御する倫理観の育成に重点を置いています。",
+          "text_content": "if塾の視点：技術より「指示の解像度」が鍵",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-04.png",
+          "image_file": "assets/img/posts/20260613_activity-04.png",
+          "overlay_text": "if塾の視点：技術より「指示の解像度」が鍵",
+          "subtext": "これからの学びはコーディング量ではありません。AIに何を、なぜ任せるのか？という論理的思考力と、自律型AIを制御する倫理観の育成に重点を置いています。",
+          "alt": "内容3 - if塾の視点：技術より「指示の解像度」が"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "sub_title": "2026年6月最新リポート：AIエージェント開発の衝撃",
+          "text_content": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-01.png",
+          "image_file": "assets/img/posts/20260613_activity-01.png",
+          "overlay_text": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+          "subtext": "2026年6月最新リポート：AIエージェント開発の衝撃",
+          "alt": "表紙 - 中高生が「自律型AI」を3日で完成？最新"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIを自律させる」時代へ",
+          "sub_title": "夏休みを前に、自由研究のテーマや進路に悩む時期。単なるプログラミングではなく、AIに意志を持たせる開発が中高生のトレンドになっています。",
+          "text_content": "「AIを使う」から「AIを自律させる」時代へ",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-02.png",
+          "image_file": "assets/img/posts/20260613_activity-02.png",
+          "overlay_text": "「AIを使う」から「AIを自律させる」時代へ",
+          "subtext": "夏休みを前に、自由研究のテーマや進路に悩む時期。単なるプログラミングではなく、AIに意志を持たせる開発が中高生のトレンドになっています。",
+          "alt": "内容1 - 「AIを使う」から「AIを自律させる」時"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ノーコードで「動く脳」を設計する生徒たち",
+          "sub_title": "2026年最新のAuto-Agentツールを使い、わずか数日でタスクを自己完結するAIを構築。中高生の柔軟な発想で、家庭教師AIや自動家計簿AIが次々誕生しています。",
+          "text_content": "ノーコードで「動く脳」を設計する生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-03.png",
+          "image_file": "assets/img/posts/20260613_activity-03.png",
+          "overlay_text": "ノーコードで「動く脳」を設計する生徒たち",
+          "subtext": "2026年最新のAuto-Agentツールを使い、わずか数日でタスクを自己完結するAIを構築。中高生の柔軟な発想で、家庭教師AIや自動家計簿AIが次々誕生しています。",
+          "alt": "内容2 - ノーコードで「動く脳」を設計する生徒たち"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：技術より「指示の解像度」が鍵",
+          "sub_title": "これからの学びはコーディング量ではありません。AIに何を、なぜ任せるのか？という論理的思考力と、自律型AIを制御する倫理観の育成に重点を置いています。",
+          "text_content": "if塾の視点：技術より「指示の解像度」が鍵",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260613_activity-04.png",
+          "image_file": "assets/img/posts/20260613_activity-04.png",
+          "overlay_text": "if塾の視点：技術より「指示の解像度」が鍵",
+          "subtext": "これからの学びはコーディング量ではありません。AIに何を、なぜ任せるのか？という論理的思考力と、自律型AIを制御する倫理観の育成に重点を置いています。",
+          "alt": "内容3 - if塾の視点：技術より「指示の解像度」が"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260613_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260613_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260613_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260613_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-13T12:38:55",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が「自律型AI」を3日で完成？最新",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が「自律型AI」を3日で完成？最新ハッカソン密着",
+            "subtext": "2026年6月最新リポート：AIエージェント開発の衝撃",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使う」から「AIを自律させる」時代へ",
+            "subtext": "夏休みを前に、自由研究のテーマや進路に悩む時期。単なるプログラミングではなく、AIに意志を持たせる開発が中高生のトレンドになっています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "ノーコードで「動く脳」を設計する生徒たち",
+            "subtext": "2026年最新のAuto-Agentツールを使い、わずか数日でタスクを自己完結するAIを構築。中高生の柔軟な発想で、家庭教師AIや自動家計簿AIが次々誕生しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：技術より「指示の解像度」が鍵",
+            "subtext": "これからの学びはコーディング量ではありません。AIに何を、なぜ任せるのか？という論理的思考力と、自律型AIを制御する倫理観の育成に重点を置いています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260612_business",
       "post_id": "20260612_business",
