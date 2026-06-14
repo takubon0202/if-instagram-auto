@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 157,
-    "last_updated": "2026-06-13T21:55:06.575929",
+    "total_posts": 158,
+    "last_updated": "2026-06-14T13:01:40.190435",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260614_activity",
+      "post_id": "20260614_activity",
+      "created_at": "2026-06-14T13:01:40",
+      "datetime": "2026-06-14T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+      "caption": "【2026年6月】AI教育は新次元へ突入しました。✨\n\n今月、いよいよ本格始動した「都立学校AI Lab」。\nもはや生成AIは、単なる便利なツールではなく、\n社会課題を解決するための「素材」へと変わっています。\n\n「AIでレポートを書く」段階は終わり、\n「AIを組み込んだプロダクトで誰を救うか」を議論する生徒たち。\nその熱量は、大人たちの想像を遥かに超えています。🚀\n\nif塾では、この最新トレンドをいち早くキャッチアップ。\n「AIを使いこなす」のその先にある、\n0から1を創り出す力を育むプログラムを強化中です。\n\n進路に悩む中高生や保護者の皆様、\n2026年の最新教育現場をぜひ体感してください！\n\n詳細はプロフィールのリンクから。🔗",
+      "caption_text": "【2026年6月】AI教育は新次元へ突入しました。✨\n\n今月、いよいよ本格始動した「都立学校AI Lab」。\nもはや生成AIは、単なる便利なツールではなく、\n社会課題を解決するための「素材」へと変わっています。\n\n「AIでレポートを書く」段階は終わり、\n「AIを組み込んだプロダクトで誰を救うか」を議論する生徒たち。\nその熱量は、大人たちの想像を遥かに超えています。🚀\n\nif塾では、この最新トレンドをいち早くキャッチアップ。\n「AIを使いこなす」のその先にある、\n0から1を創り出す力を育むプログラムを強化中です。\n\n進路に悩む中高生や保護者の皆様、\n2026年の最新教育現場をぜひ体感してください！\n\n詳細はプロフィールのリンクから。🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#都立学校AILab",
+        "#探究学習",
+        "#教育の未来",
+        "#社会課題解決",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "sub_title": "2026年6月最新：教育現場の劇的変化",
+          "text_content": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-01.png",
+          "image_file": "assets/img/posts/20260614_activity-01.png",
+          "overlay_text": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "subtext": "2026年6月最新：教育現場の劇的変化",
+          "alt": "表紙 - AIは「使う」から「創る」へ。都立AI "
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIはもう当たり前」その先、何をしますか？",
+          "sub_title": "宿題や調べ学習でAIを使うのは2025年まで。今、生徒たちは『AIを使って何を解決するか』という壁に直面しています。",
+          "text_content": "「AIはもう当たり前」その先、何をしますか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-02.png",
+          "image_file": "assets/img/posts/20260614_activity-02.png",
+          "overlay_text": "「AIはもう当たり前」その先、何をしますか？",
+          "subtext": "宿題や調べ学習でAIを使うのは2025年まで。今、生徒たちは『AIを使って何を解決するか』という壁に直面しています。",
+          "alt": "内容1 - 「AIはもう当たり前」その先、何をします"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "都立高生が挑む！社会課題解決プロダクト開発",
+          "sub_title": "都立学校AI Labでは、地域課題をマルチモーダルAIで解決する実証実験がスタート。高校生がアプリをノーコードでデプロイする時代です。",
+          "text_content": "都立高生が挑む！社会課題解決プロダクト開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-03.png",
+          "image_file": "assets/img/posts/20260614_activity-03.png",
+          "overlay_text": "都立高生が挑む！社会課題解決プロダクト開発",
+          "subtext": "都立学校AI Labでは、地域課題をマルチモーダルAIで解決する実証実験がスタート。高校生がアプリをノーコードでデプロイする時代です。",
+          "alt": "内容2 - 都立高生が挑む！社会課題解決プロダクト開"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：技術より「問い」を立てる力を",
+          "sub_title": "2026年の学びは、プロンプトの習得ではなく、社会の痛みを見つける『共感力』と、AIを統合する『設計力』にシフトしています。",
+          "text_content": "if塾の視点：技術より「問い」を立てる力を",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-04.png",
+          "image_file": "assets/img/posts/20260614_activity-04.png",
+          "overlay_text": "if塾の視点：技術より「問い」を立てる力を",
+          "subtext": "2026年の学びは、プロンプトの習得ではなく、社会の痛みを見つける『共感力』と、AIを統合する『設計力』にシフトしています。",
+          "alt": "内容3 - if塾の視点：技術より「問い」を立てる力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "sub_title": "2026年6月最新：教育現場の劇的変化",
+          "text_content": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-01.png",
+          "image_file": "assets/img/posts/20260614_activity-01.png",
+          "overlay_text": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+          "subtext": "2026年6月最新：教育現場の劇的変化",
+          "alt": "表紙 - AIは「使う」から「創る」へ。都立AI "
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIはもう当たり前」その先、何をしますか？",
+          "sub_title": "宿題や調べ学習でAIを使うのは2025年まで。今、生徒たちは『AIを使って何を解決するか』という壁に直面しています。",
+          "text_content": "「AIはもう当たり前」その先、何をしますか？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-02.png",
+          "image_file": "assets/img/posts/20260614_activity-02.png",
+          "overlay_text": "「AIはもう当たり前」その先、何をしますか？",
+          "subtext": "宿題や調べ学習でAIを使うのは2025年まで。今、生徒たちは『AIを使って何を解決するか』という壁に直面しています。",
+          "alt": "内容1 - 「AIはもう当たり前」その先、何をします"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "都立高生が挑む！社会課題解決プロダクト開発",
+          "sub_title": "都立学校AI Labでは、地域課題をマルチモーダルAIで解決する実証実験がスタート。高校生がアプリをノーコードでデプロイする時代です。",
+          "text_content": "都立高生が挑む！社会課題解決プロダクト開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-03.png",
+          "image_file": "assets/img/posts/20260614_activity-03.png",
+          "overlay_text": "都立高生が挑む！社会課題解決プロダクト開発",
+          "subtext": "都立学校AI Labでは、地域課題をマルチモーダルAIで解決する実証実験がスタート。高校生がアプリをノーコードでデプロイする時代です。",
+          "alt": "内容2 - 都立高生が挑む！社会課題解決プロダクト開"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：技術より「問い」を立てる力を",
+          "sub_title": "2026年の学びは、プロンプトの習得ではなく、社会の痛みを見つける『共感力』と、AIを統合する『設計力』にシフトしています。",
+          "text_content": "if塾の視点：技術より「問い」を立てる力を",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260614_activity-04.png",
+          "image_file": "assets/img/posts/20260614_activity-04.png",
+          "overlay_text": "if塾の視点：技術より「問い」を立てる力を",
+          "subtext": "2026年の学びは、プロンプトの習得ではなく、社会の痛みを見つける『共感力』と、AIを統合する『設計力』にシフトしています。",
+          "alt": "内容3 - if塾の視点：技術より「問い」を立てる力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260614_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260614_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260614_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260614_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-14T13:00:16",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「創る」へ。都立AI ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「創る」へ。都立AI Lab始動！",
+            "subtext": "2026年6月最新：教育現場の劇的変化",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIはもう当たり前」その先、何をしますか？",
+            "subtext": "宿題や調べ学習でAIを使うのは2025年まで。今、生徒たちは『AIを使って何を解決するか』という壁に直面しています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "都立高生が挑む！社会課題解決プロダクト開発",
+            "subtext": "都立学校AI Labでは、地域課題をマルチモーダルAIで解決する実証実験がスタート。高校生がアプリをノーコードでデプロイする時代です。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：技術より「問い」を立てる力を",
+            "subtext": "2026年の学びは、プロンプトの習得ではなく、社会の痛みを見つける『共感力』と、AIを統合する『設計力』にシフトしています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260613_activity",
       "post_id": "20260613_activity",
