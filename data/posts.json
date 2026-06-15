@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 159,
-    "last_updated": "2026-06-15T18:46:17.778512",
+    "total_posts": 160,
+    "last_updated": "2026-06-16T01:20:59.829024",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260616_education",
+      "post_id": "20260616_education",
+      "created_at": "2026-06-16T01:20:59",
+      "datetime": "2026-06-16T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+      "target_audience": "Students & Parents",
+      "title": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+      "caption": "【2026年6月】最新の教育ニュースをお届けします！\n\n先月発表されたGPT-5.2が、東大・京大入試において「首席合格レベル」のスコアを叩き出しました。\nこのニュースを受けて、多くの保護者様から「これからの受験勉強はどうなるのか？」という切実なご相談をいただいています。\n\n結論、2026年からの「学び」は大きく再定義されます。\n\nもはや知識の量でAIに勝つことは不可能です。\nこれからの受験生に求められるのは、AIを使いこなし、複雑な社会課題に対して「自分なりの問い」を立てる力です。\n\nif塾では、最新のAIツールを学習プランに統合し、単なる正解の追求ではない「思考のプロセス」を重視した指導を行っています。\n\n夏の講習を前に、これからの「新しい勉強法」について一緒に考えてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #GPT5 #東大入試 #教育改革 #リスキリング #中学受験 #高校受験 #学びの再定義",
+      "caption_text": "【2026年6月】最新の教育ニュースをお届けします！\n\n先月発表されたGPT-5.2が、東大・京大入試において「首席合格レベル」のスコアを叩き出しました。\nこのニュースを受けて、多くの保護者様から「これからの受験勉強はどうなるのか？」という切実なご相談をいただいています。\n\n結論、2026年からの「学び」は大きく再定義されます。\n\nもはや知識の量でAIに勝つことは不可能です。\nこれからの受験生に求められるのは、AIを使いこなし、複雑な社会課題に対して「自分なりの問い」を立てる力です。\n\nif塾では、最新のAIツールを学習プランに統合し、単なる正解の追求ではない「思考のプロセス」を重視した指導を行っています。\n\n夏の講習を前に、これからの「新しい勉強法」について一緒に考えてみませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #GPT5 #東大入試 #教育改革 #リスキリング #中学受験 #高校受験 #学びの再定義",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#GPT5",
+        "#東大入試",
+        "#教育改革",
+        "#教育コラム"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "sub_title": "2026年6月最新：教育の常識が崩壊する日",
+          "text_content": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-01.png",
+          "image_file": "assets/img/posts/20260616_education-01.png",
+          "overlay_text": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "subtext": "2026年6月最新：教育の常識が崩壊する日",
+          "alt": "表紙 - GPT-5.2が東大首席レベルに。もう「"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "sub_title": "先月のGPT-5.2発表以来、「AIに勝てないなら勉強しても無駄」という不安が受験生や保護者の間で急増しています。",
+          "text_content": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-02.png",
+          "image_file": "assets/img/posts/20260616_education-02.png",
+          "overlay_text": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "subtext": "先月のGPT-5.2発表以来、「AIに勝てないなら勉強しても無駄」という不安が受験生や保護者の間で急増しています。",
+          "alt": "内容1 - AIが偏差値100超え。受験勉強のゴール"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "sub_title": "if塾では、AIを『解答機』ではなく『伴走者』として定義。正解を出す力より、AIに最適な指示を出す『論理的思考力』が合否を分ける時代です。",
+          "text_content": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-03.png",
+          "image_file": "assets/img/posts/20260616_education-03.png",
+          "overlay_text": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "subtext": "if塾では、AIを『解答機』ではなく『伴走者』として定義。正解を出す力より、AIに最適な指示を出す『論理的思考力』が合否を分ける時代です。",
+          "alt": "内容2 - 知識の「記憶」はAIへ、人間は「問い」の"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「対話型学習」へのシフト",
+          "sub_title": "単なる暗記を捨て、AIとディベートして理解を深めましょう。2027年度入試からは『AI活用前提の記述問題』が標準化されます。",
+          "text_content": "今すぐやるべき「対話型学習」へのシフト",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-04.png",
+          "image_file": "assets/img/posts/20260616_education-04.png",
+          "overlay_text": "今すぐやるべき「対話型学習」へのシフト",
+          "subtext": "単なる暗記を捨て、AIとディベートして理解を深めましょう。2027年度入試からは『AI活用前提の記述問題』が標準化されます。",
+          "alt": "内容3 - 今すぐやるべき「対話型学習」へのシフト"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "sub_title": "2026年6月最新：教育の常識が崩壊する日",
+          "text_content": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-01.png",
+          "image_file": "assets/img/posts/20260616_education-01.png",
+          "overlay_text": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+          "subtext": "2026年6月最新：教育の常識が崩壊する日",
+          "alt": "表紙 - GPT-5.2が東大首席レベルに。もう「"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "sub_title": "先月のGPT-5.2発表以来、「AIに勝てないなら勉強しても無駄」という不安が受験生や保護者の間で急増しています。",
+          "text_content": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-02.png",
+          "image_file": "assets/img/posts/20260616_education-02.png",
+          "overlay_text": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+          "subtext": "先月のGPT-5.2発表以来、「AIに勝てないなら勉強しても無駄」という不安が受験生や保護者の間で急増しています。",
+          "alt": "内容1 - AIが偏差値100超え。受験勉強のゴール"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "sub_title": "if塾では、AIを『解答機』ではなく『伴走者』として定義。正解を出す力より、AIに最適な指示を出す『論理的思考力』が合否を分ける時代です。",
+          "text_content": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-03.png",
+          "image_file": "assets/img/posts/20260616_education-03.png",
+          "overlay_text": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+          "subtext": "if塾では、AIを『解答機』ではなく『伴走者』として定義。正解を出す力より、AIに最適な指示を出す『論理的思考力』が合否を分ける時代です。",
+          "alt": "内容2 - 知識の「記憶」はAIへ、人間は「問い」の"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐやるべき「対話型学習」へのシフト",
+          "sub_title": "単なる暗記を捨て、AIとディベートして理解を深めましょう。2027年度入試からは『AI活用前提の記述問題』が標準化されます。",
+          "text_content": "今すぐやるべき「対話型学習」へのシフト",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260616_education-04.png",
+          "image_file": "assets/img/posts/20260616_education-04.png",
+          "overlay_text": "今すぐやるべき「対話型学習」へのシフト",
+          "subtext": "単なる暗記を捨て、AIとディベートして理解を深めましょう。2027年度入試からは『AI活用前提の記述問題』が標準化されます。",
+          "alt": "内容3 - 今すぐやるべき「対話型学習」へのシフト"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260616_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260616_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260616_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260616_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-16T01:19:34",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "GPT-5.2が東大首席レベルに。もう「",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "GPT-5.2が東大首席レベルに。もう「勉強」は不要なの？",
+            "subtext": "2026年6月最新：教育の常識が崩壊する日",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "AIが偏差値100超え。受験勉強のゴールが消えた？",
+            "subtext": "先月のGPT-5.2発表以来、「AIに勝てないなら勉強しても無駄」という不安が受験生や保護者の間で急増しています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "知識の「記憶」はAIへ、人間は「問い」の設計者へ",
+            "subtext": "if塾では、AIを『解答機』ではなく『伴走者』として定義。正解を出す力より、AIに最適な指示を出す『論理的思考力』が合否を分ける時代です。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐやるべき「対話型学習」へのシフト",
+            "subtext": "単なる暗記を捨て、AIとディベートして理解を深めましょう。2027年度入試からは『AI活用前提の記述問題』が標準化されます。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260615_announcement",
       "post_id": "20260615_announcement",
