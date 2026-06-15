@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 158,
-    "last_updated": "2026-06-14T22:02:37.097184",
+    "total_posts": 159,
+    "last_updated": "2026-06-15T13:14:41.016940",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260615_announcement",
+      "post_id": "20260615_announcement",
+      "created_at": "2026-06-15T13:14:41",
+      "datetime": "2026-06-15T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+      "caption": "【2026年6月】ついに本日、夏季「AIキャンプ」の募集を開始しました！\n\n2026年現在、AIは「使うもの」から「作るもの」へと完全にシフトしています。入試や就職活動においても、単なるAI利用ではなく「AIをどう構築し、社会課題を解決したか」という実績が求められる時代になりました。\n\n今年のif塾サマースクールは、全面リニューアル！\n最新の自律型AIエージェントやマルチモーダル技術を駆使し、参加者全員が「自分専用のAI」を開発します。\n\n「乗り遅れたくない」「この夏で一気にスキルアップしたい」という中高生の皆さん、if塾で未来を創る5日間を過ごしませんか？\n\n詳細はプロフィールのリンクからチェック！\n定員に達し次第終了となりますので、お早めにどうぞ。\n\n#if塾 #AI教育 #2026年夏 #サマースクール #AIキャンプ #中高生向け #未来の教育 #最新技術",
+      "caption_text": "【2026年6月】ついに本日、夏季「AIキャンプ」の募集を開始しました！\n\n2026年現在、AIは「使うもの」から「作るもの」へと完全にシフトしています。入試や就職活動においても、単なるAI利用ではなく「AIをどう構築し、社会課題を解決したか」という実績が求められる時代になりました。\n\n今年のif塾サマースクールは、全面リニューアル！\n最新の自律型AIエージェントやマルチモーダル技術を駆使し、参加者全員が「自分専用のAI」を開発します。\n\n「乗り遅れたくない」「この夏で一気にスキルアップしたい」という中高生の皆さん、if塾で未来を創る5日間を過ごしませんか？\n\n詳細はプロフィールのリンクからチェック！\n定員に達し次第終了となりますので、お早めにどうぞ。\n\n#if塾 #AI教育 #2026年夏 #サマースクール #AIキャンプ #中高生向け #未来の教育 #最新技術",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI教育",
+        "#サマースクール",
+        "#中高生",
+        "#プログラミング教室",
+        "#AIキャンプ"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "sub_title": "2026年6月15日解禁：if塾の次世代サマースクール",
+          "text_content": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-01.png",
+          "image_file": "assets/img/posts/20260615_announcement-01.png",
+          "overlay_text": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "subtext": "2026年6月15日解禁：if塾の次世代サマースクール",
+          "alt": "表紙 - 【2026最新】AI完全習得サマーキャン"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "sub_title": "ただの生成AI利用ではなく「独自AIモデルの構築経験」が評価の分かれ目に。今夏、差がつきます。",
+          "text_content": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-02.png",
+          "image_file": "assets/img/posts/20260615_announcement-02.png",
+          "overlay_text": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "subtext": "ただの生成AI利用ではなく「独自AIモデルの構築経験」が評価の分かれ目に。今夏、差がつきます。",
+          "alt": "内容1 - 2027年入試の「AI入試」枠拡大。準備"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "sub_title": "最新の自律型AIエージェントを使い、自分だけの解決ツールを構築。2026年型AIスキルを最短で習得。",
+          "text_content": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-03.png",
+          "image_file": "assets/img/posts/20260615_announcement-03.png",
+          "overlay_text": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "subtext": "最新の自律型AIエージェントを使い、自分だけの解決ツールを構築。2026年型AIスキルを最短で習得。",
+          "alt": "内容2 - 中高生が「AI開発者」へ。マルチモーダル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "sub_title": "if塾独自の「AI伴走システム」で、初心者でも5日間で高度なプロトタイプを完成させます。",
+          "text_content": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-04.png",
+          "image_file": "assets/img/posts/20260615_announcement-04.png",
+          "overlay_text": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "subtext": "if塾独自の「AI伴走システム」で、初心者でも5日間で高度なプロトタイプを完成させます。",
+          "alt": "内容3 - 【7・8月開催】全国5都市＆メタバース校"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "sub_title": "2026年6月15日解禁：if塾の次世代サマースクール",
+          "text_content": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-01.png",
+          "image_file": "assets/img/posts/20260615_announcement-01.png",
+          "overlay_text": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+          "subtext": "2026年6月15日解禁：if塾の次世代サマースクール",
+          "alt": "表紙 - 【2026最新】AI完全習得サマーキャン"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "sub_title": "ただの生成AI利用ではなく「独自AIモデルの構築経験」が評価の分かれ目に。今夏、差がつきます。",
+          "text_content": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-02.png",
+          "image_file": "assets/img/posts/20260615_announcement-02.png",
+          "overlay_text": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+          "subtext": "ただの生成AI利用ではなく「独自AIモデルの構築経験」が評価の分かれ目に。今夏、差がつきます。",
+          "alt": "内容1 - 2027年入試の「AI入試」枠拡大。準備"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "sub_title": "最新の自律型AIエージェントを使い、自分だけの解決ツールを構築。2026年型AIスキルを最短で習得。",
+          "text_content": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-03.png",
+          "image_file": "assets/img/posts/20260615_announcement-03.png",
+          "overlay_text": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+          "subtext": "最新の自律型AIエージェントを使い、自分だけの解決ツールを構築。2026年型AIスキルを最短で習得。",
+          "alt": "内容2 - 中高生が「AI開発者」へ。マルチモーダル"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "sub_title": "if塾独自の「AI伴走システム」で、初心者でも5日間で高度なプロトタイプを完成させます。",
+          "text_content": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260615_announcement-04.png",
+          "image_file": "assets/img/posts/20260615_announcement-04.png",
+          "overlay_text": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+          "subtext": "if塾独自の「AI伴走システム」で、初心者でも5日間で高度なプロトタイプを完成させます。",
+          "alt": "内容3 - 【7・8月開催】全国5都市＆メタバース校"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260615_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260615_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260615_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260615_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-15T13:13:17",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】AI完全習得サマーキャン",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】AI完全習得サマーキャンプ。もう「使うだけ」は卒業！",
+            "subtext": "2026年6月15日解禁：if塾の次世代サマースクール",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "2027年入試の「AI入試」枠拡大。準備、間に合いますか？",
+            "subtext": "ただの生成AI利用ではなく「独自AIモデルの構築経験」が評価の分かれ目に。今夏、差がつきます。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "中高生が「AI開発者」へ。マルチモーダルAIをフル活用！",
+            "subtext": "最新の自律型AIエージェントを使い、自分だけの解決ツールを構築。2026年型AIスキルを最短で習得。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "【7・8月開催】全国5都市＆メタバース校で同時募集",
+            "subtext": "if塾独自の「AI伴走システム」で、初心者でも5日間で高度なプロトタイプを完成させます。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260614_activity",
       "post_id": "20260614_activity",
