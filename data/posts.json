@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 161,
-    "last_updated": "2026-06-17T01:02:44.417339",
+    "last_updated": "2026-06-17T13:05:45.480543",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,25 @@
     {
       "id": "20260617_development",
       "post_id": "20260617_development",
-      "created_at": "2026-06-17T01:02:44",
+      "created_at": "2026-06-17T13:05:45",
       "datetime": "2026-06-17T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
+      "theme": "都立校発！生成AIアプリで地域を救う",
       "target_audience": "Students & Parents",
-      "title": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-      "caption": "【2026年6月】最新のAI技術はここまで来ました！\n\n今、学生の間で「自律型AIエージェント」の開発がブームになっているのをご存知ですか？\n\nかつてはプログラミングの補助だったAIも、2026年現在はClaude CodeやGitHub Copilotの進化により、私たちの指示一つで「自ら考え、タスクを実行する」レベルに到達しています。\n\n「自分専用のスケジュール管理アプリが欲しい」\nそう思ったら、その場でPythonを叩いてAIエージェントを立ち上げる。\nそんな光景が、if塾の生徒たちの間では日常になりつつあります。\n\n大切なのは、AIに丸投げすることではなく、どう指示を出し、どう仕組みを構築するかという「設計力」です。\n\nこの夏、あなたも自分だけのAIパートナーを作ってみませんか？\n\n詳細はプロフィールリンクをチェック！✨\n\n#if塾 #2026年 #AIエージェント #Pythonプログラミング #ClaudeCode #GitHubCopilot #自由研究 #最新技術 #DX教育",
-      "caption_text": "【2026年6月】最新のAI技術はここまで来ました！\n\n今、学生の間で「自律型AIエージェント」の開発がブームになっているのをご存知ですか？\n\nかつてはプログラミングの補助だったAIも、2026年現在はClaude CodeやGitHub Copilotの進化により、私たちの指示一つで「自ら考え、タスクを実行する」レベルに到達しています。\n\n「自分専用のスケジュール管理アプリが欲しい」\nそう思ったら、その場でPythonを叩いてAIエージェントを立ち上げる。\nそんな光景が、if塾の生徒たちの間では日常になりつつあります。\n\n大切なのは、AIに丸投げすることではなく、どう指示を出し、どう仕組みを構築するかという「設計力」です。\n\nこの夏、あなたも自分だけのAIパートナーを作ってみませんか？\n\n詳細はプロフィールリンクをチェック！✨\n\n#if塾 #2026年 #AIエージェント #Pythonプログラミング #ClaudeCode #GitHubCopilot #自由研究 #最新技術 #DX教育",
+      "title": "都立校発！生成AIアプリで地域を救う",
+      "caption": "【2026年6月】最新の教育トレンドをお届け！\n\n本日、ついに「都立学校AI Lab」による社会課題解決型アプリが公開されました。✨\n\n2026年の今、求められているのは「AIを使いこなして社会をどう変えるか」という実践力です。\n\n「学校の探究学習で何をすればいいかわからない」\n「志望理由書に書くための特別な経験がほしい」\n\nそんな悩みを持つ学生の皆さんへ。\nif塾では、このAI Labの成果をいち早く分析し、個別指導のプロジェクトに取り入れています。\n\nテクノロジーを武器に、自分だけの「解決策」を作ってみませんか？\n気になる方は、プロフィールのリンクから最新の夏期講習情報をチェック！🔗",
+      "caption_text": "【2026年6月】最新の教育トレンドをお届け！\n\n本日、ついに「都立学校AI Lab」による社会課題解決型アプリが公開されました。✨\n\n2026年の今、求められているのは「AIを使いこなして社会をどう変えるか」という実践力です。\n\n「学校の探究学習で何をすればいいかわからない」\n「志望理由書に書くための特別な経験がほしい」\n\nそんな悩みを持つ学生の皆さんへ。\nif塾では、このAI Labの成果をいち早く分析し、個別指導のプロジェクトに取り入れています。\n\nテクノロジーを武器に、自分だけの「解決策」を作ってみませんか？\n気になる方は、プロフィールのリンクから最新の夏期講習情報をチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#Python",
-        "#ClaudeCode",
-        "#プログラミング学習",
-        "#最新テクノロジー"
+        "#生成AI",
+        "#都立学校AILab",
+        "#探究学習",
+        "#社会課題解決",
+        "#高校生起業",
+        "#大学入試対策",
+        "#最新エドテック"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-          "sub_title": "Claude Code × GitHub Copilot で変わる驚きの学習スタイル",
-          "text_content": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
+          "main_title": "都立校発！生成AIアプリで地域を救う",
+          "sub_title": "【2026年6月】都立学校AI Labがついに本格始動！",
+          "text_content": "都立校発！生成AIアプリで地域を救う",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-01.png",
           "image_file": "assets/img/posts/20260617_development-01.png",
-          "overlay_text": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-          "subtext": "Claude Code × GitHub Copilot で変わる驚きの学習スタイル",
-          "alt": "表紙 - 【2026年6月版】学生が自作！AIエー"
+          "overlay_text": "都立校発！生成AIアプリで地域を救う",
+          "subtext": "【2026年6月】都立学校AI Labがついに本格始動！",
+          "alt": "表紙 - 都立校発！生成AIアプリで地域を救う"
         },
         {
           "page_number": 2,
@@ -58,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
-          "sub_title": "期末試験前の6月、部活や塾のスケジュール調整に追われる学生が急増中。手動の管理には限界があります。",
-          "text_content": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
+          "main_title": "「探究学習」が形にならない…",
+          "sub_title": "2026年の受験でも重視される「社会課題への取組」。でも具体的に何をすればいいか悩む学生や保護者が増えています。",
+          "text_content": "「探究学習」が形にならない…",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-02.png",
           "image_file": "assets/img/posts/20260617_development-02.png",
-          "overlay_text": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
-          "subtext": "期末試験前の6月、部活や塾のスケジュール調整に追われる学生が急増中。手動の管理には限界があります。",
-          "alt": "内容1 - 「タスクが多すぎて手が回らない」そんな悩"
+          "overlay_text": "「探究学習」が形にならない…",
+          "subtext": "2026年の受験でも重視される「社会課題への取組」。でも具体的に何をすればいいか悩む学生や保護者が増えています。",
+          "alt": "内容1 - 「探究学習」が形にならない…"
         },
         {
           "page_number": 3,
@@ -74,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
-          "sub_title": "2026年最新のAIエージェントは、プロンプト一つでコード生成からデバッグ、カレンダー連携まで自動完結します。",
-          "text_content": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
+          "main_title": "AI Lab発「地域共生アシストAI」",
+          "sub_title": "最新のマルチモーダルAIを搭載。自治体のリアルタイムデータと連携し、ゴミ問題や独居高齢者の見守りを即座に解決するアプリが完成。",
+          "text_content": "AI Lab発「地域共生アシストAI」",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-03.png",
           "image_file": "assets/img/posts/20260617_development-03.png",
-          "overlay_text": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
-          "subtext": "2026年最新のAIエージェントは、プロンプト一つでコード生成からデバッグ、カレンダー連携まで自動完結します。",
-          "alt": "内容2 - 自律型Pythonアプリが解決！「Cla"
+          "overlay_text": "AI Lab発「地域共生アシストAI」",
+          "subtext": "最新のマルチモーダルAIを搭載。自治体のリアルタイムデータと連携し、ゴミ問題や独居高齢者の見守りを即座に解決するアプリが完成。",
+          "alt": "内容2 - AI Lab発「地域共生アシストAI」"
         },
         {
           "page_number": 4,
@@ -90,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「代行」ではなく「共創パートナー」に",
-          "sub_title": "単に作らせるだけでなく、ロジックを理解してカスタマイズ。AIを使いこなす技術が、将来の差に繋がります。",
-          "text_content": "if塾流：AIを「代行」ではなく「共創パートナー」に",
+          "main_title": "AO・推薦入試の最強の実績に",
+          "sub_title": "if塾ではこのツールを活用。単なるプログラミングを超え「社会を動かした経験」としてポートフォリオを強化します。",
+          "text_content": "AO・推薦入試の最強の実績に",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-04.png",
           "image_file": "assets/img/posts/20260617_development-04.png",
-          "overlay_text": "if塾流：AIを「代行」ではなく「共創パートナー」に",
-          "subtext": "単に作らせるだけでなく、ロジックを理解してカスタマイズ。AIを使いこなす技術が、将来の差に繋がります。",
-          "alt": "内容3 - if塾流：AIを「代行」ではなく「共創パ"
+          "overlay_text": "AO・推薦入試の最強の実績に",
+          "subtext": "if塾ではこのツールを活用。単なるプログラミングを超え「社会を動かした経験」としてポートフォリオを強化します。",
+          "alt": "内容3 - AO・推薦入試の最強の実績に"
         },
         {
           "page_number": 5,
@@ -124,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-          "sub_title": "Claude Code × GitHub Copilot で変わる驚きの学習スタイル",
-          "text_content": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
+          "main_title": "都立校発！生成AIアプリで地域を救う",
+          "sub_title": "【2026年6月】都立学校AI Labがついに本格始動！",
+          "text_content": "都立校発！生成AIアプリで地域を救う",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-01.png",
           "image_file": "assets/img/posts/20260617_development-01.png",
-          "overlay_text": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-          "subtext": "Claude Code × GitHub Copilot で変わる驚きの学習スタイル",
-          "alt": "表紙 - 【2026年6月版】学生が自作！AIエー"
+          "overlay_text": "都立校発！生成AIアプリで地域を救う",
+          "subtext": "【2026年6月】都立学校AI Labがついに本格始動！",
+          "alt": "表紙 - 都立校発！生成AIアプリで地域を救う"
         },
         {
           "page_number": 2,
@@ -140,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
-          "sub_title": "期末試験前の6月、部活や塾のスケジュール調整に追われる学生が急増中。手動の管理には限界があります。",
-          "text_content": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
+          "main_title": "「探究学習」が形にならない…",
+          "sub_title": "2026年の受験でも重視される「社会課題への取組」。でも具体的に何をすればいいか悩む学生や保護者が増えています。",
+          "text_content": "「探究学習」が形にならない…",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-02.png",
           "image_file": "assets/img/posts/20260617_development-02.png",
-          "overlay_text": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
-          "subtext": "期末試験前の6月、部活や塾のスケジュール調整に追われる学生が急増中。手動の管理には限界があります。",
-          "alt": "内容1 - 「タスクが多すぎて手が回らない」そんな悩"
+          "overlay_text": "「探究学習」が形にならない…",
+          "subtext": "2026年の受験でも重視される「社会課題への取組」。でも具体的に何をすればいいか悩む学生や保護者が増えています。",
+          "alt": "内容1 - 「探究学習」が形にならない…"
         },
         {
           "page_number": 3,
@@ -156,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
-          "sub_title": "2026年最新のAIエージェントは、プロンプト一つでコード生成からデバッグ、カレンダー連携まで自動完結します。",
-          "text_content": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
+          "main_title": "AI Lab発「地域共生アシストAI」",
+          "sub_title": "最新のマルチモーダルAIを搭載。自治体のリアルタイムデータと連携し、ゴミ問題や独居高齢者の見守りを即座に解決するアプリが完成。",
+          "text_content": "AI Lab発「地域共生アシストAI」",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-03.png",
           "image_file": "assets/img/posts/20260617_development-03.png",
-          "overlay_text": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
-          "subtext": "2026年最新のAIエージェントは、プロンプト一つでコード生成からデバッグ、カレンダー連携まで自動完結します。",
-          "alt": "内容2 - 自律型Pythonアプリが解決！「Cla"
+          "overlay_text": "AI Lab発「地域共生アシストAI」",
+          "subtext": "最新のマルチモーダルAIを搭載。自治体のリアルタイムデータと連携し、ゴミ問題や独居高齢者の見守りを即座に解決するアプリが完成。",
+          "alt": "内容2 - AI Lab発「地域共生アシストAI」"
         },
         {
           "page_number": 4,
@@ -172,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「代行」ではなく「共創パートナー」に",
-          "sub_title": "単に作らせるだけでなく、ロジックを理解してカスタマイズ。AIを使いこなす技術が、将来の差に繋がります。",
-          "text_content": "if塾流：AIを「代行」ではなく「共創パートナー」に",
+          "main_title": "AO・推薦入試の最強の実績に",
+          "sub_title": "if塾ではこのツールを活用。単なるプログラミングを超え「社会を動かした経験」としてポートフォリオを強化します。",
+          "text_content": "AO・推薦入試の最強の実績に",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260617_development-04.png",
           "image_file": "assets/img/posts/20260617_development-04.png",
-          "overlay_text": "if塾流：AIを「代行」ではなく「共創パートナー」に",
-          "subtext": "単に作らせるだけでなく、ロジックを理解してカスタマイズ。AIを使いこなす技術が、将来の差に繋がります。",
-          "alt": "内容3 - if塾流：AIを「代行」ではなく「共創パ"
+          "overlay_text": "AO・推薦入試の最強の実績に",
+          "subtext": "if塾ではこのツールを活用。単なるプログラミングを超え「社会を動かした経験」としてポートフォリオを強化します。",
+          "alt": "内容3 - AO・推薦入試の最強の実績に"
         },
         {
           "page_number": 5,
@@ -228,22 +230,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "藤本陽向",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "ロボット"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-17T10:00:00",
+      "research_date": "2026-06-17T13:04:15",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年6月版】学生が自作！AIエー",
+        "cover_text": "都立校発！生成AIアプリで地域を救う",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年6月版】学生が自作！AIエージェントが宿題を管理する時代",
-            "subtext": "Claude Code × GitHub Copilot で変わる驚きの学習スタイル",
+            "headline": "都立校発！生成AIアプリで地域を救う",
+            "subtext": "【2026年6月】都立学校AI Labがついに本格始動！",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「タスクが多すぎて手が回らない」そんな悩みを抱えていませんか？",
-            "subtext": "期末試験前の6月、部活や塾のスケジュール調整に追われる学生が急増中。手動の管理には限界があります。",
+            "headline": "「探究学習」が形にならない…",
+            "subtext": "2026年の受験でも重視される「社会課題への取組」。でも具体的に何をすればいいか悩む学生や保護者が増えています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型Pythonアプリが解決！「Claude Code」を高度活用",
-            "subtext": "2026年最新のAIエージェントは、プロンプト一つでコード生成からデバッグ、カレンダー連携まで自動完結します。",
+            "headline": "AI Lab発「地域共生アシストAI」",
+            "subtext": "最新のマルチモーダルAIを搭載。自治体のリアルタイムデータと連携し、ゴミ問題や独居高齢者の見守りを即座に解決するアプリが完成。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「代行」ではなく「共創パートナー」に",
-            "subtext": "単に作らせるだけでなく、ロジックを理解してカスタマイズ。AIを使いこなす技術が、将来の差に繋がります。",
+            "headline": "AO・推薦入試の最強の実績に",
+            "subtext": "if塾ではこのツールを活用。単なるプログラミングを超え「社会を動かした経験」としてポートフォリオを強化します。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
