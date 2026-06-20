@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 164,
-    "last_updated": "2026-06-20T16:37:50.878247",
+    "last_updated": "2026-06-20T21:55:31.403366",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260620_activity",
       "post_id": "20260620_activity",
-      "created_at": "2026-06-20T16:37:50",
+      "created_at": "2026-06-20T21:55:31",
       "datetime": "2026-06-20T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
+      "theme": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
       "target_audience": "Students & Parents",
-      "title": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-      "caption": "【2026年6月】最新の活動報告です✨\n\n今月、if塾では「AIエージェント開発ハッカソン」を開催しました！\n\n2026年現在、生成AIは単に質問に答えるツールから、自律的にタスクをこなす『エージェント』へと進化しています。今回のイベントでは、中高生が自分専用の「最強の学習アシスタント」を構築。\n\n「AIに何を聞くか」ではなく「AIにどう動いてもらうか」を設計する生徒たちの姿は、まさに次世代のリーダーそのものでした。\n\n夏休みを前に、自分だけのAIパートナーを手に入れた生徒たちの表情は自信に満ち溢れています。これからの学習は、AIと二人三脚で挑む時代です。\n\n詳細はプロフィールのリンクからチェックしてください🔗",
-      "caption_text": "【2026年6月】最新の活動報告です✨\n\n今月、if塾では「AIエージェント開発ハッカソン」を開催しました！\n\n2026年現在、生成AIは単に質問に答えるツールから、自律的にタスクをこなす『エージェント』へと進化しています。今回のイベントでは、中高生が自分専用の「最強の学習アシスタント」を構築。\n\n「AIに何を聞くか」ではなく「AIにどう動いてもらうか」を設計する生徒たちの姿は、まさに次世代のリーダーそのものでした。\n\n夏休みを前に、自分だけのAIパートナーを手に入れた生徒たちの表情は自信に満ち溢れています。これからの学習は、AIと二人三脚で挑む時代です。\n\n詳細はプロフィールのリンクからチェックしてください🔗",
+      "title": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+      "caption": "【2026年6月】最新の教育現場レポートをお届けします！\n\n本日、都立学校AI Labを中心とした「社会課題解決型ハッカソン」の現場を視察してきました。\n\n2026年現在、高校生にとって生成AIはもはや特別なものではありません。今の焦点は「AIを使って、いかに身近な困りごとを解決するか」に移っています。\n\n「受験勉強だけで手一杯…」という保護者の皆様、実はこうした活動で培われる「課題発見能力」こそが、最新の総合型選抜や、将来のキャリア形成において最強の武器になります。\n\nif塾では、こうした最新のAI活用トレンドを学習カリキュラムに積極的に取り入れ、時代に翻弄されない「本物の力」を育んでいます。\n\nお子様の将来について、新しい時代の学びを一緒に考えてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年6月】最新の教育現場レポートをお届けします！\n\n本日、都立学校AI Labを中心とした「社会課題解決型ハッカソン」の現場を視察してきました。\n\n2026年現在、高校生にとって生成AIはもはや特別なものではありません。今の焦点は「AIを使って、いかに身近な困りごとを解決するか」に移っています。\n\n「受験勉強だけで手一杯…」という保護者の皆様、実はこうした活動で培われる「課題発見能力」こそが、最新の総合型選抜や、将来のキャリア形成において最強の武器になります。\n\nif塾では、こうした最新のAI活用トレンドを学習カリキュラムに積極的に取り入れ、時代に翻弄されない「本物の力」を育んでいます。\n\nお子様の将来について、新しい時代の学びを一緒に考えてみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
       "hashtags": [
         "#if塾",
-        "#2026年",
-        "#AIエージェント",
-        "#生成AI",
+        "#2026年6月",
+        "#生成AI教育",
+        "#都立学校AILab",
         "#ハッカソン",
-        "#最新教育",
-        "#DX教育",
-        "#自律型AI"
+        "#探究学習",
+        "#社会課題解決",
+        "#高校生起業家",
+        "#最新教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-          "sub_title": "2026年6月最新トピック：自分専用の最強アシスタントを作る",
-          "text_content": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
+          "main_title": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+          "sub_title": "社会課題をAIで解決する高校生たちの1日",
+          "text_content": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-01.png",
           "image_file": "assets/img/posts/20260620_activity-01.png",
-          "overlay_text": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-          "subtext": "2026年6月最新トピック：自分専用の最強アシスタントを作る",
-          "alt": "表紙 - AIは「使う」から「育てる」へ。AIエー"
+          "overlay_text": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+          "subtext": "社会課題をAIで解決する高校生たちの1日",
+          "alt": "表紙 - 都立高×AIハッカソンが激熱！2026年"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使いこなせない」はもう古い？",
-          "sub_title": "単なるチャット利用に留まらず、自分の分身として動く『AIエージェント』の構築が、2026年の受験・学習の新常識になっています。",
-          "text_content": "「AIを使いこなせない」はもう古い？",
+          "main_title": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
+          "sub_title": "2026年、生成AIは単なるツールから「社会を変える武器」へ。都立学校AI Labでの活動も、より具体的な課題解決へと進化しています。",
+          "text_content": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-02.png",
           "image_file": "assets/img/posts/20260620_activity-02.png",
-          "overlay_text": "「AIを使いこなせない」はもう古い？",
-          "subtext": "単なるチャット利用に留まらず、自分の分身として動く『AIエージェント』の構築が、2026年の受験・学習の新常識になっています。",
-          "alt": "内容1 - 「AIを使いこなせない」はもう古い？"
+          "overlay_text": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
+          "subtext": "2026年、生成AIは単なるツールから「社会を変える武器」へ。都立学校AI Labでの活動も、より具体的な課題解決へと進化しています。",
+          "alt": "内容1 - 「AIは使えて当たり前」の時代。何を作る"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIが学習を自動管理する時代",
-          "sub_title": "生徒たちは最新のMulti-Agent技術を使い、苦手分析からスケジュール調整まで行う『パーソナル担任AI』を自らコードなしで開発しました。",
-          "text_content": "自律型AIが学習を自動管理する時代",
+          "main_title": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
+          "sub_title": "生徒たちはリアルタイム音声翻訳や自動コーディングAIを使いこなし、大人が驚くスピードで「動くアプリ」を完成させました。",
+          "text_content": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-03.png",
           "image_file": "assets/img/posts/20260620_activity-03.png",
-          "overlay_text": "自律型AIが学習を自動管理する時代",
-          "subtext": "生徒たちは最新のMulti-Agent技術を使い、苦手分析からスケジュール調整まで行う『パーソナル担任AI』を自らコードなしで開発しました。",
-          "alt": "内容2 - 自律型AIが学習を自動管理する時代"
+          "overlay_text": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
+          "subtext": "生徒たちはリアルタイム音声翻訳や自動コーディングAIを使いこなし、大人が驚くスピードで「動くアプリ」を完成させました。",
+          "alt": "内容2 - 最新のマルチモーダルAIを駆使！地域の空"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者が感じた「思考の質の変化」",
-          "sub_title": "AIに指示を出す過程で、生徒の論理的思考力が飛躍的に向上。if塾ではAIを『答えを教える道具』ではなく『思考を拡張する相棒』として定義しています。",
-          "text_content": "指導者が感じた「思考の質の変化」",
+          "main_title": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
+          "sub_title": "技術はAIが補ってくれます。しかし「何を解決したいか」という強い志こそが、2027年以降の大学入試や社会で最も評価されるポイントです。",
+          "text_content": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-04.png",
           "image_file": "assets/img/posts/20260620_activity-04.png",
-          "overlay_text": "指導者が感じた「思考の質の変化」",
-          "subtext": "AIに指示を出す過程で、生徒の論理的思考力が飛躍的に向上。if塾ではAIを『答えを教える道具』ではなく『思考を拡張する相棒』として定義しています。",
-          "alt": "内容3 - 指導者が感じた「思考の質の変化」"
+          "overlay_text": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
+          "subtext": "技術はAIが補ってくれます。しかし「何を解決したいか」という強い志こそが、2027年以降の大学入試や社会で最も評価されるポイントです。",
+          "alt": "内容3 - if塾の視点：AI時代にこそ「問いを立て"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-          "sub_title": "2026年6月最新トピック：自分専用の最強アシスタントを作る",
-          "text_content": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
+          "main_title": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+          "sub_title": "社会課題をAIで解決する高校生たちの1日",
+          "text_content": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-01.png",
           "image_file": "assets/img/posts/20260620_activity-01.png",
-          "overlay_text": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-          "subtext": "2026年6月最新トピック：自分専用の最強アシスタントを作る",
-          "alt": "表紙 - AIは「使う」から「育てる」へ。AIエー"
+          "overlay_text": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+          "subtext": "社会課題をAIで解決する高校生たちの1日",
+          "alt": "表紙 - 都立高×AIハッカソンが激熱！2026年"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIを使いこなせない」はもう古い？",
-          "sub_title": "単なるチャット利用に留まらず、自分の分身として動く『AIエージェント』の構築が、2026年の受験・学習の新常識になっています。",
-          "text_content": "「AIを使いこなせない」はもう古い？",
+          "main_title": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
+          "sub_title": "2026年、生成AIは単なるツールから「社会を変える武器」へ。都立学校AI Labでの活動も、より具体的な課題解決へと進化しています。",
+          "text_content": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-02.png",
           "image_file": "assets/img/posts/20260620_activity-02.png",
-          "overlay_text": "「AIを使いこなせない」はもう古い？",
-          "subtext": "単なるチャット利用に留まらず、自分の分身として動く『AIエージェント』の構築が、2026年の受験・学習の新常識になっています。",
-          "alt": "内容1 - 「AIを使いこなせない」はもう古い？"
+          "overlay_text": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
+          "subtext": "2026年、生成AIは単なるツールから「社会を変える武器」へ。都立学校AI Labでの活動も、より具体的な課題解決へと進化しています。",
+          "alt": "内容1 - 「AIは使えて当たり前」の時代。何を作る"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIが学習を自動管理する時代",
-          "sub_title": "生徒たちは最新のMulti-Agent技術を使い、苦手分析からスケジュール調整まで行う『パーソナル担任AI』を自らコードなしで開発しました。",
-          "text_content": "自律型AIが学習を自動管理する時代",
+          "main_title": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
+          "sub_title": "生徒たちはリアルタイム音声翻訳や自動コーディングAIを使いこなし、大人が驚くスピードで「動くアプリ」を完成させました。",
+          "text_content": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-03.png",
           "image_file": "assets/img/posts/20260620_activity-03.png",
-          "overlay_text": "自律型AIが学習を自動管理する時代",
-          "subtext": "生徒たちは最新のMulti-Agent技術を使い、苦手分析からスケジュール調整まで行う『パーソナル担任AI』を自らコードなしで開発しました。",
-          "alt": "内容2 - 自律型AIが学習を自動管理する時代"
+          "overlay_text": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
+          "subtext": "生徒たちはリアルタイム音声翻訳や自動コーディングAIを使いこなし、大人が驚くスピードで「動くアプリ」を完成させました。",
+          "alt": "内容2 - 最新のマルチモーダルAIを駆使！地域の空"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者が感じた「思考の質の変化」",
-          "sub_title": "AIに指示を出す過程で、生徒の論理的思考力が飛躍的に向上。if塾ではAIを『答えを教える道具』ではなく『思考を拡張する相棒』として定義しています。",
-          "text_content": "指導者が感じた「思考の質の変化」",
+          "main_title": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
+          "sub_title": "技術はAIが補ってくれます。しかし「何を解決したいか」という強い志こそが、2027年以降の大学入試や社会で最も評価されるポイントです。",
+          "text_content": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260620_activity-04.png",
           "image_file": "assets/img/posts/20260620_activity-04.png",
-          "overlay_text": "指導者が感じた「思考の質の変化」",
-          "subtext": "AIに指示を出す過程で、生徒の論理的思考力が飛躍的に向上。if塾ではAIを『答えを教える道具』ではなく『思考を拡張する相棒』として定義しています。",
-          "alt": "内容3 - 指導者が感じた「思考の質の変化」"
+          "overlay_text": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
+          "subtext": "技術はAIが補ってくれます。しかし「何を解決したいか」という強い志こそが、2027年以降の大学入試や社会で最も評価されるポイントです。",
+          "alt": "内容3 - if塾の視点：AI時代にこそ「問いを立て"
         },
         {
           "page_number": 5,
@@ -229,21 +230,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "アプリ開発"
+          "デザイン"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-20T16:36:24",
+      "research_date": "2026-06-20T21:54:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIは「使う」から「育てる」へ。AIエー",
+        "cover_text": "都立高×AIハッカソンが激熱！2026年",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIは「使う」から「育てる」へ。AIエージェント開発ハッカソン開催！",
-            "subtext": "2026年6月最新トピック：自分専用の最強アシスタントを作る",
+            "headline": "都立高×AIハッカソンが激熱！2026年6月の教育最前線",
+            "subtext": "社会課題をAIで解決する高校生たちの1日",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIを使いこなせない」はもう古い？",
-            "subtext": "単なるチャット利用に留まらず、自分の分身として動く『AIエージェント』の構築が、2026年の受験・学習の新常識になっています。",
+            "headline": "「AIは使えて当たり前」の時代。何を作るかで迷っていませんか？",
+            "subtext": "2026年、生成AIは単なるツールから「社会を変える武器」へ。都立学校AI Labでの活動も、より具体的な課題解決へと進化しています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIが学習を自動管理する時代",
-            "subtext": "生徒たちは最新のMulti-Agent技術を使い、苦手分析からスケジュール調整まで行う『パーソナル担任AI』を自らコードなしで開発しました。",
+            "headline": "最新のマルチモーダルAIを駆使！地域の空き家問題を5時間でプロトタイプ化",
+            "subtext": "生徒たちはリアルタイム音声翻訳や自動コーディングAIを使いこなし、大人が驚くスピードで「動くアプリ」を完成させました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者が感じた「思考の質の変化」",
-            "subtext": "AIに指示を出す過程で、生徒の論理的思考力が飛躍的に向上。if塾ではAIを『答えを教える道具』ではなく『思考を拡張する相棒』として定義しています。",
+            "headline": "if塾の視点：AI時代にこそ「問いを立てる力」が受験とキャリアの鍵になる",
+            "subtext": "技術はAIが補ってくれます。しかし「何を解決したいか」という強い志こそが、2027年以降の大学入試や社会で最も評価されるポイントです。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
