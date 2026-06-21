@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 164,
-    "last_updated": "2026-06-20T21:55:31.403366",
+    "total_posts": 165,
+    "last_updated": "2026-06-21T13:10:24.042205",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260621_activity",
+      "post_id": "20260621_activity",
+      "created_at": "2026-06-21T13:10:24",
+      "datetime": "2026-06-21T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+      "target_audience": "Students & Parents",
+      "title": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+      "caption": "【2026年6月】最新の教育現場からの報告です！\n\n今月開催された学生ハッカソンでは、驚くべき光景が広がっていました。\nかつては数ヶ月かかったアプリ開発も、今の小中高生は「Claude Code」や最新のAIエージェントを自律駆動させ、わずか数時間でプロトタイプを完成させてしまいます。\n\nもはやプログラミング言語の構文を暗記する時代は終わりました。\nこれからのAIネイティブ世代に求められるのは、「社会のどこに課題があるか？」を見つけ出し、AIをオーケストレーションして解決策を形にする力です。\n\nif塾では、こうした最新ツールを「ズル」ではなく「思考を加速させる武器」として正しく使いこなす次世代のリーダーを育成しています。\n\nあなたの周りでは、AIをどう活用していますか？\nぜひコメントで教えてください！\n\n#if塾 #2026年 #AIネイティブ #ClaudeCode #ハッカソン #次世代教育 #AIエージェント #自由研究",
+      "caption_text": "【2026年6月】最新の教育現場からの報告です！\n\n今月開催された学生ハッカソンでは、驚くべき光景が広がっていました。\nかつては数ヶ月かかったアプリ開発も、今の小中高生は「Claude Code」や最新のAIエージェントを自律駆動させ、わずか数時間でプロトタイプを完成させてしまいます。\n\nもはやプログラミング言語の構文を暗記する時代は終わりました。\nこれからのAIネイティブ世代に求められるのは、「社会のどこに課題があるか？」を見つけ出し、AIをオーケストレーションして解決策を形にする力です。\n\nif塾では、こうした最新ツールを「ズル」ではなく「思考を加速させる武器」として正しく使いこなす次世代のリーダーを育成しています。\n\nあなたの周りでは、AIをどう活用していますか？\nぜひコメントで教えてください！\n\n#if塾 #2026年 #AIネイティブ #ClaudeCode #ハッカソン #次世代教育 #AIエージェント #自由研究",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AIネイティブ",
+        "#ClaudeCode",
+        "#ハッカソン",
+        "#プログラミング教育",
+        "#AIエージェント",
+        "#社会課題解決"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "sub_title": "【2026年6月最新】ハッカソン活動報告",
+          "text_content": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-01.png",
+          "image_file": "assets/img/posts/20260621_activity-01.png",
+          "overlay_text": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "subtext": "【2026年6月最新】ハッカソン活動報告",
+          "alt": "表紙 - AIエージェントを使いこなす。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "sub_title": "プログラミングの壁が消えた今、子供たちが直面するのは「解決すべき課題を見つける」難しさです。",
+          "text_content": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-02.png",
+          "image_file": "assets/img/posts/20260621_activity-02.png",
+          "overlay_text": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "subtext": "プログラミングの壁が消えた今、子供たちが直面するのは「解決すべき課題を見つける」難しさです。",
+          "alt": "内容1 - 「AIを使う」のは当たり前。でも、何を解"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "sub_title": "最新のAIエージェントを指示役（監督）として使いこなし、社会課題解決ツールを数時間で形にする生徒が続出しています。",
+          "text_content": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-03.png",
+          "image_file": "assets/img/posts/20260621_activity-03.png",
+          "overlay_text": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "subtext": "最新のAIエージェントを指示役（監督）として使いこなし、社会課題解決ツールを数時間で形にする生徒が続出しています。",
+          "alt": "内容2 - Claude Code等のエージェントを"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "sub_title": "AIネイティブ世代には、ツールの操作法以上に「問いを立てる力」と「社会への実装力」を育む指導が不可欠です。",
+          "text_content": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-04.png",
+          "image_file": "assets/img/posts/20260621_activity-04.png",
+          "overlay_text": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "subtext": "AIネイティブ世代には、ツールの操作法以上に「問いを立てる力」と「社会への実装力」を育む指導が不可欠です。",
+          "alt": "内容3 - 「スキル習得」から「価値創造」へ。if塾"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "sub_title": "【2026年6月最新】ハッカソン活動報告",
+          "text_content": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-01.png",
+          "image_file": "assets/img/posts/20260621_activity-01.png",
+          "overlay_text": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+          "subtext": "【2026年6月最新】ハッカソン活動報告",
+          "alt": "表紙 - AIエージェントを使いこなす。2026年"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "sub_title": "プログラミングの壁が消えた今、子供たちが直面するのは「解決すべき課題を見つける」難しさです。",
+          "text_content": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-02.png",
+          "image_file": "assets/img/posts/20260621_activity-02.png",
+          "overlay_text": "「AIを使う」のは当たり前。でも、何を解決する？",
+          "subtext": "プログラミングの壁が消えた今、子供たちが直面するのは「解決すべき課題を見つける」難しさです。",
+          "alt": "内容1 - 「AIを使う」のは当たり前。でも、何を解"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "sub_title": "最新のAIエージェントを指示役（監督）として使いこなし、社会課題解決ツールを数時間で形にする生徒が続出しています。",
+          "text_content": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-03.png",
+          "image_file": "assets/img/posts/20260621_activity-03.png",
+          "overlay_text": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+          "subtext": "最新のAIエージェントを指示役（監督）として使いこなし、社会課題解決ツールを数時間で形にする生徒が続出しています。",
+          "alt": "内容2 - Claude Code等のエージェントを"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "sub_title": "AIネイティブ世代には、ツールの操作法以上に「問いを立てる力」と「社会への実装力」を育む指導が不可欠です。",
+          "text_content": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260621_activity-04.png",
+          "image_file": "assets/img/posts/20260621_activity-04.png",
+          "overlay_text": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+          "subtext": "AIネイティブ世代には、ツールの操作法以上に「問いを立てる力」と「社会への実装力」を育む指導が不可欠です。",
+          "alt": "内容3 - 「スキル習得」から「価値創造」へ。if塾"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260621_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260621_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260621_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260621_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-21T13:08:57",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIエージェントを使いこなす。2026年",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIエージェントを使いこなす。2026年、小中高生の開発力が異次元に！",
+            "subtext": "【2026年6月最新】ハッカソン活動報告",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使う」のは当たり前。でも、何を解決する？",
+            "subtext": "プログラミングの壁が消えた今、子供たちが直面するのは「解決すべき課題を見つける」難しさです。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Claude Code等のエージェントを自律駆動させ、アプリを爆速開発",
+            "subtext": "最新のAIエージェントを指示役（監督）として使いこなし、社会課題解決ツールを数時間で形にする生徒が続出しています。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「スキル習得」から「価値創造」へ。if塾が導く未来の学び",
+            "subtext": "AIネイティブ世代には、ツールの操作法以上に「問いを立てる力」と「社会への実装力」を育む指導が不可欠です。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260620_activity",
       "post_id": "20260620_activity",
