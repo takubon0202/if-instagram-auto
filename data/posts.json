@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 167,
-    "last_updated": "2026-06-23T22:46:13.322903",
+    "total_posts": 168,
+    "last_updated": "2026-06-24T12:33:44.761648",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260624_development",
+      "post_id": "20260624_development",
+      "created_at": "2026-06-24T12:33:44",
+      "datetime": "2026-06-24T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+      "caption": "【2026年6月】最新のAI開発トレンドをお届け！\n\n皆さん、最近「AIを使いこなす」ことに疲れていませんか？\n2026年の今、時代は「チャットAI」から「AIエージェント」へと完全に移行しました。\n\n今回if塾で開発したエージェントアプリは、\n一度指示を出せば、AIが自分で考え、調べ、形にしてくれます。\n\n「夏休みの自由研究の計画から実施まで」\n「志望校合格に向けた2ヶ月のタスク管理」\nこれらはすべてAIにお任せする時代です。\n\n保護者の皆さまにとっても、お子様の学習進捗を\nAIが客観的に分析・サポートしてくれる心強い味方になります。\n\n最新のテクノロジーを、確かな学びの力に。\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #次世代アプリ #自律型AI #教育テック #夏休み準備 #AI開発",
+      "caption_text": "【2026年6月】最新のAI開発トレンドをお届け！\n\n皆さん、最近「AIを使いこなす」ことに疲れていませんか？\n2026年の今、時代は「チャットAI」から「AIエージェント」へと完全に移行しました。\n\n今回if塾で開発したエージェントアプリは、\n一度指示を出せば、AIが自分で考え、調べ、形にしてくれます。\n\n「夏休みの自由研究の計画から実施まで」\n「志望校合格に向けた2ヶ月のタスク管理」\nこれらはすべてAIにお任せする時代です。\n\n保護者の皆さまにとっても、お子様の学習進捗を\nAIが客観的に分析・サポートしてくれる心強い味方になります。\n\n最新のテクノロジーを、確かな学びの力に。\n詳細はプロフィール欄のリンクからチェック！\n\n#if塾 #2026年 #AIエージェント #次世代アプリ #自律型AI #教育テック #夏休み準備 #AI開発",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "AIエージェント",
+        "自律型AI",
+        "最新テクノロジー",
+        "教育の未来",
+        "AI開発",
+        "DX"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "sub_title": "2026年6月最新：夏休み前に知っておきたい次世代アプリ",
+          "text_content": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-01.png",
+          "image_file": "assets/img/posts/20260624_development-01.png",
+          "overlay_text": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "subtext": "2026年6月最新：夏休み前に知っておきたい次世代アプリ",
+          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "プロンプトを打つのも、もう古い？",
+          "sub_title": "「AIに何を聞けばいいかわからない」「指示が細かくて結局自分が疲れる」…そんな2025年までの悩みは、自律型エージェントが解決します。",
+          "text_content": "プロンプトを打つのも、もう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-02.png",
+          "image_file": "assets/img/posts/20260624_development-02.png",
+          "overlay_text": "プロンプトを打つのも、もう古い？",
+          "subtext": "「AIに何を聞けばいいかわからない」「指示が細かくて結局自分が疲れる」…そんな2025年までの悩みは、自律型エージェントが解決します。",
+          "alt": "内容1 - プロンプトを打つのも、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "sub_title": "最新のGPT-5.5系/Claude 4基盤のエージェントは、タスクを分解し、Web検索から資料作成まで自ら判断して完了させます。",
+          "text_content": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-03.png",
+          "image_file": "assets/img/posts/20260624_development-03.png",
+          "overlay_text": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "subtext": "最新のGPT-5.5系/Claude 4基盤のエージェントは、タスクを分解し、Web検索から資料作成まで自ら判断して完了させます。",
+          "alt": "内容2 - ゴールを決めるだけ。AIが「思考」して「"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "sub_title": "志望校を入力するだけで、日々の学習進捗を監視し、最適なカリキュラムを毎朝提案。学生は「実行」にのみ集中できる環境が手に入ります。",
+          "text_content": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-04.png",
+          "image_file": "assets/img/posts/20260624_development-04.png",
+          "overlay_text": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "subtext": "志望校を入力するだけで、日々の学習進捗を監視し、最適なカリキュラムを毎朝提案。学生は「実行」にのみ集中できる環境が手に入ります。",
+          "alt": "内容3 - if塾流：受験・学習戦略もAIが自動アッ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "sub_title": "2026年6月最新：夏休み前に知っておきたい次世代アプリ",
+          "text_content": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-01.png",
+          "image_file": "assets/img/posts/20260624_development-01.png",
+          "overlay_text": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+          "subtext": "2026年6月最新：夏休み前に知っておきたい次世代アプリ",
+          "alt": "表紙 - AIは「使う」から「任せる」へ。2026"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "プロンプトを打つのも、もう古い？",
+          "sub_title": "「AIに何を聞けばいいかわからない」「指示が細かくて結局自分が疲れる」…そんな2025年までの悩みは、自律型エージェントが解決します。",
+          "text_content": "プロンプトを打つのも、もう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-02.png",
+          "image_file": "assets/img/posts/20260624_development-02.png",
+          "overlay_text": "プロンプトを打つのも、もう古い？",
+          "subtext": "「AIに何を聞けばいいかわからない」「指示が細かくて結局自分が疲れる」…そんな2025年までの悩みは、自律型エージェントが解決します。",
+          "alt": "内容1 - プロンプトを打つのも、もう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "sub_title": "最新のGPT-5.5系/Claude 4基盤のエージェントは、タスクを分解し、Web検索から資料作成まで自ら判断して完了させます。",
+          "text_content": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-03.png",
+          "image_file": "assets/img/posts/20260624_development-03.png",
+          "overlay_text": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+          "subtext": "最新のGPT-5.5系/Claude 4基盤のエージェントは、タスクを分解し、Web検索から資料作成まで自ら判断して完了させます。",
+          "alt": "内容2 - ゴールを決めるだけ。AIが「思考」して「"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "sub_title": "志望校を入力するだけで、日々の学習進捗を監視し、最適なカリキュラムを毎朝提案。学生は「実行」にのみ集中できる環境が手に入ります。",
+          "text_content": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260624_development-04.png",
+          "image_file": "assets/img/posts/20260624_development-04.png",
+          "overlay_text": "if塾流：受験・学習戦略もAIが自動アップデート",
+          "subtext": "志望校を入力するだけで、日々の学習進捗を監視し、最適なカリキュラムを毎朝提案。学生は「実行」にのみ集中できる環境が手に入ります。",
+          "alt": "内容3 - if塾流：受験・学習戦略もAIが自動アッ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260624_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260624_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260624_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260624_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-24T12:32:22",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「任せる」へ。2026",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「任せる」へ。2026年式・自律型エージェント開発",
+            "subtext": "2026年6月最新：夏休み前に知っておきたい次世代アプリ",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "プロンプトを打つのも、もう古い？",
+            "subtext": "「AIに何を聞けばいいかわからない」「指示が細かくて結局自分が疲れる」…そんな2025年までの悩みは、自律型エージェントが解決します。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "ゴールを決めるだけ。AIが「思考」して「実行」する",
+            "subtext": "最新のGPT-5.5系/Claude 4基盤のエージェントは、タスクを分解し、Web検索から資料作成まで自ら判断して完了させます。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：受験・学習戦略もAIが自動アップデート",
+            "subtext": "志望校を入力するだけで、日々の学習進捗を監視し、最適なカリキュラムを毎朝提案。学生は「実行」にのみ集中できる環境が手に入ります。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260623_education",
       "post_id": "20260623_education",
