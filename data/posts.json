@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 170,
-    "last_updated": "2026-06-26T16:10:28.845845",
+    "last_updated": "2026-06-26T22:16:58.049606",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20260626_business",
       "post_id": "20260626_business",
-      "created_at": "2026-06-26T16:10:28",
+      "created_at": "2026-06-26T22:16:58",
       "datetime": "2026-06-26T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
+      "theme": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
       "target_audience": "Students & Parents",
-      "title": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-      "caption": "【2026年6月】最新の教育・ビジネスコラム\n\nもう「AIは未来の話」ではありません。\n今月、多くの学校で期末テストが始まっていますが、その裏で「AI副業」を一般化させている中高生が急増しています。\n\n2026年現在、Claude 4による高度な推論と、Soraによるリアルな動画生成を組み合わせれば、個人が企業レベルのコンテンツを数分で生み出せる時代です。\n\n「うちの子にはまだ早い」ではなく、「どう使いこなさせるか」。\nif塾では、単なるツールの使い方ではなく、AIをパートナーとして社会価値を生み出す「問いの力」を重視しています。\n\n夏休みを前に、親子で「稼ぐ力」と「生成AI」について話してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
-      "caption_text": "【2026年6月】最新の教育・ビジネスコラム\n\nもう「AIは未来の話」ではありません。\n今月、多くの学校で期末テストが始まっていますが、その裏で「AI副業」を一般化させている中高生が急増しています。\n\n2026年現在、Claude 4による高度な推論と、Soraによるリアルな動画生成を組み合わせれば、個人が企業レベルのコンテンツを数分で生み出せる時代です。\n\n「うちの子にはまだ早い」ではなく、「どう使いこなさせるか」。\nif塾では、単なるツールの使い方ではなく、AIをパートナーとして社会価値を生み出す「問いの力」を重視しています。\n\n夏休みを前に、親子で「稼ぐ力」と「生成AI」について話してみませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "title": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+      "caption": "【2026年6月】夏休み目前！今、中高生の間で「地方創生×AI」という新しい副業の形が広がっています。\n\n「AIに仕事が奪われる」と言われていた時代は終わり、今は「AIを使いこなす若者が地域を救う」時代です。\n\n6月に入り、地方自治体や中小企業からはSNS運用の相談が急増中。しかし、大人たちはAIの使い分けに苦戦しています。\n\nそこで中高生の出番です！\n使い慣れたスマホと最新の生成AIを組み合わせれば、地元の魅力を世界へ発信するのは難しいことではありません。\n\nこの夏、ただ遊ぶだけでなく「地域に貢献しながら稼ぐ」経験をしてみませんか？\n\nif塾では、2026年最新のAIツール活用術を公開中。\n詳細はプロフィールをチェック！\n\n#if塾 #2026年 #生成AI #地方創生 #中高生副業 #SNS運用代行 #夏休みの過ごし方 #最新テクノロジー #キャリア教育",
+      "caption_text": "【2026年6月】夏休み目前！今、中高生の間で「地方創生×AI」という新しい副業の形が広がっています。\n\n「AIに仕事が奪われる」と言われていた時代は終わり、今は「AIを使いこなす若者が地域を救う」時代です。\n\n6月に入り、地方自治体や中小企業からはSNS運用の相談が急増中。しかし、大人たちはAIの使い分けに苦戦しています。\n\nそこで中高生の出番です！\n使い慣れたスマホと最新の生成AIを組み合わせれば、地元の魅力を世界へ発信するのは難しいことではありません。\n\nこの夏、ただ遊ぶだけでなく「地域に貢献しながら稼ぐ」経験をしてみませんか？\n\nif塾では、2026年最新のAIツール活用術を公開中。\n詳細はプロフィールをチェック！\n\n#if塾 #2026年 #生成AI #地方創生 #中高生副業 #SNS運用代行 #夏休みの過ごし方 #最新テクノロジー #キャリア教育",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#AI副業",
-        "#Claude4",
-        "#Sora",
-        "#中高生起業",
-        "#リスキリング",
-        "#最新テクノロジー"
+        "#地方創生",
+        "#中高生副業",
+        "#SNS運用代行",
+        "#最新ツール",
+        "#教育改革"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-          "sub_title": "2026年6月最新版：Claude 4 & Sora活用術",
-          "text_content": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
+          "main_title": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+          "sub_title": "【2026年6月最新】夏休みの「稼ぐ自由研究」はこれだ！",
+          "text_content": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-01.png",
           "image_file": "assets/img/posts/20260626_business-01.png",
-          "overlay_text": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-          "subtext": "2026年6月最新版：Claude 4 & Sora活用術",
-          "alt": "表紙 - 中高生が月5万稼ぐ「AI副業」が当たり前"
+          "overlay_text": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+          "subtext": "【2026年6月最新】夏休みの「稼ぐ自由研究」はこれだ！",
+          "alt": "表紙 - 中高生が地方を救う？生成AI×地域SNS"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「部活と勉強で忙しい」は言い訳にならない？",
-          "sub_title": "スマホ1台でクリエイティブを収益化する同世代が急増。まだ「消費」だけで終わりますか？",
-          "text_content": "「部活と勉強で忙しい」は言い訳にならない？",
+          "main_title": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
+          "sub_title": "2026年、都心の情報はAIで飽和。今、価値があるのは『現場のリアル』ですが、地方企業は人手不足でSNSまで手が回りません。",
+          "text_content": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-02.png",
           "image_file": "assets/img/posts/20260626_business-02.png",
-          "overlay_text": "「部活と勉強で忙しい」は言い訳にならない？",
-          "subtext": "スマホ1台でクリエイティブを収益化する同世代が急増。まだ「消費」だけで終わりますか？",
-          "alt": "内容1 - 「部活と勉強で忙しい」は言い訳にならない"
+          "overlay_text": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
+          "subtext": "2026年、都心の情報はAIで飽和。今、価値があるのは『現場のリアル』ですが、地方企業は人手不足でSNSまで手が回りません。",
+          "alt": "内容1 - 「地方には魅力があるのに、発信者がいない"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude 4 × Sora で『映像制作』を自動化",
-          "sub_title": "論理構成はClaude 4、映像生成はSora。プロ級の広告動画が数分で完成する2026年の常識。",
-          "text_content": "Claude 4 × Sora で『映像制作』を自動化",
+          "main_title": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
+          "sub_title": "最新の『Local-LLM』ならオフラインでも高画質編集が可能。地元の老舗旅館や商店街の素材を、AIがバズるショート動画へ自動変換します。",
+          "text_content": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-03.png",
           "image_file": "assets/img/posts/20260626_business-03.png",
-          "overlay_text": "Claude 4 × Sora で『映像制作』を自動化",
-          "subtext": "論理構成はClaude 4、映像生成はSora。プロ級の広告動画が数分で完成する2026年の常識。",
-          "alt": "内容2 - Claude 4 × Sora で『映像"
+          "overlay_text": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
+          "subtext": "最新の『Local-LLM』ならオフラインでも高画質編集が可能。地元の老舗旅館や商店街の素材を、AIがバズるショート動画へ自動変換します。",
+          "alt": "内容2 - 超小型マルチモーダルAIをスマホで操り、"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「AIを使いこなす」は、もはや「読み書き」と同じ",
-          "sub_title": "if塾の視点：技術ではなく『何を解決したいか』の問いを立てる力が、格差を生む鍵になります。",
-          "text_content": "「AIを使いこなす」は、もはや「読み書き」と同じ",
+          "main_title": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
+          "sub_title": "if塾が教えるのはツール操作ではなく「AIに何を食わせるか」。地域の人と話し、スマホを向ける。その行動力が2026年の最強スキルです。",
+          "text_content": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-04.png",
           "image_file": "assets/img/posts/20260626_business-04.png",
-          "overlay_text": "「AIを使いこなす」は、もはや「読み書き」と同じ",
-          "subtext": "if塾の視点：技術ではなく『何を解決したいか』の問いを立てる力が、格差を生む鍵になります。",
-          "alt": "内容3 - 「AIを使いこなす」は、もはや「読み書き"
+          "overlay_text": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
+          "subtext": "if塾が教えるのはツール操作ではなく「AIに何を食わせるか」。地域の人と話し、スマホを向ける。その行動力が2026年の最強スキルです。",
+          "alt": "内容3 - 技術より「歩くこと」。現場の温度感をAI"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-          "sub_title": "2026年6月最新版：Claude 4 & Sora活用術",
-          "text_content": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
+          "main_title": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+          "sub_title": "【2026年6月最新】夏休みの「稼ぐ自由研究」はこれだ！",
+          "text_content": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-01.png",
           "image_file": "assets/img/posts/20260626_business-01.png",
-          "overlay_text": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-          "subtext": "2026年6月最新版：Claude 4 & Sora活用術",
-          "alt": "表紙 - 中高生が月5万稼ぐ「AI副業」が当たり前"
+          "overlay_text": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+          "subtext": "【2026年6月最新】夏休みの「稼ぐ自由研究」はこれだ！",
+          "alt": "表紙 - 中高生が地方を救う？生成AI×地域SNS"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「部活と勉強で忙しい」は言い訳にならない？",
-          "sub_title": "スマホ1台でクリエイティブを収益化する同世代が急増。まだ「消費」だけで終わりますか？",
-          "text_content": "「部活と勉強で忙しい」は言い訳にならない？",
+          "main_title": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
+          "sub_title": "2026年、都心の情報はAIで飽和。今、価値があるのは『現場のリアル』ですが、地方企業は人手不足でSNSまで手が回りません。",
+          "text_content": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-02.png",
           "image_file": "assets/img/posts/20260626_business-02.png",
-          "overlay_text": "「部活と勉強で忙しい」は言い訳にならない？",
-          "subtext": "スマホ1台でクリエイティブを収益化する同世代が急増。まだ「消費」だけで終わりますか？",
-          "alt": "内容1 - 「部活と勉強で忙しい」は言い訳にならない"
+          "overlay_text": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
+          "subtext": "2026年、都心の情報はAIで飽和。今、価値があるのは『現場のリアル』ですが、地方企業は人手不足でSNSまで手が回りません。",
+          "alt": "内容1 - 「地方には魅力があるのに、発信者がいない"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude 4 × Sora で『映像制作』を自動化",
-          "sub_title": "論理構成はClaude 4、映像生成はSora。プロ級の広告動画が数分で完成する2026年の常識。",
-          "text_content": "Claude 4 × Sora で『映像制作』を自動化",
+          "main_title": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
+          "sub_title": "最新の『Local-LLM』ならオフラインでも高画質編集が可能。地元の老舗旅館や商店街の素材を、AIがバズるショート動画へ自動変換します。",
+          "text_content": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-03.png",
           "image_file": "assets/img/posts/20260626_business-03.png",
-          "overlay_text": "Claude 4 × Sora で『映像制作』を自動化",
-          "subtext": "論理構成はClaude 4、映像生成はSora。プロ級の広告動画が数分で完成する2026年の常識。",
-          "alt": "内容2 - Claude 4 × Sora で『映像"
+          "overlay_text": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
+          "subtext": "最新の『Local-LLM』ならオフラインでも高画質編集が可能。地元の老舗旅館や商店街の素材を、AIがバズるショート動画へ自動変換します。",
+          "alt": "内容2 - 超小型マルチモーダルAIをスマホで操り、"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「AIを使いこなす」は、もはや「読み書き」と同じ",
-          "sub_title": "if塾の視点：技術ではなく『何を解決したいか』の問いを立てる力が、格差を生む鍵になります。",
-          "text_content": "「AIを使いこなす」は、もはや「読み書き」と同じ",
+          "main_title": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
+          "sub_title": "if塾が教えるのはツール操作ではなく「AIに何を食わせるか」。地域の人と話し、スマホを向ける。その行動力が2026年の最強スキルです。",
+          "text_content": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260626_business-04.png",
           "image_file": "assets/img/posts/20260626_business-04.png",
-          "overlay_text": "「AIを使いこなす」は、もはや「読み書き」と同じ",
-          "subtext": "if塾の視点：技術ではなく『何を解決したいか』の問いを立てる力が、格差を生む鍵になります。",
-          "alt": "内容3 - 「AIを使いこなす」は、もはや「読み書き"
+          "overlay_text": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
+          "subtext": "if塾が教えるのはツール操作ではなく「AIに何を食わせるか」。地域の人と話し、スマホを向ける。その行動力が2026年の最強スキルです。",
+          "alt": "内容3 - 技術より「歩くこと」。現場の温度感をAI"
         },
         {
           "page_number": 5,
@@ -245,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-26T16:08:59",
+      "research_date": "2026-06-26T22:15:30",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が月5万稼ぐ「AI副業」が当たり前",
+        "cover_text": "中高生が地方を救う？生成AI×地域SNS",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が月5万稼ぐ「AI副業」が当たり前の時代に",
-            "subtext": "2026年6月最新版：Claude 4 & Sora活用術",
+            "headline": "中高生が地方を救う？生成AI×地域SNSで月5万稼ぐ先行者利益の正体",
+            "subtext": "【2026年6月最新】夏休みの「稼ぐ自由研究」はこれだ！",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「部活と勉強で忙しい」は言い訳にならない？",
-            "subtext": "スマホ1台でクリエイティブを収益化する同世代が急増。まだ「消費」だけで終わりますか？",
+            "headline": "「地方には魅力があるのに、発信者がいない」という致命的な欠落",
+            "subtext": "2026年、都心の情報はAIで飽和。今、価値があるのは『現場のリアル』ですが、地方企業は人手不足でSNSまで手が回りません。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Claude 4 × Sora で『映像制作』を自動化",
-            "subtext": "論理構成はClaude 4、映像生成はSora。プロ級の広告動画が数分で完成する2026年の常識。",
+            "headline": "超小型マルチモーダルAIをスマホで操り、一瞬でPR動画を量産",
+            "subtext": "最新の『Local-LLM』ならオフラインでも高画質編集が可能。地元の老舗旅館や商店街の素材を、AIがバズるショート動画へ自動変換します。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「AIを使いこなす」は、もはや「読み書き」と同じ",
-            "subtext": "if塾の視点：技術ではなく『何を解決したいか』の問いを立てる力が、格差を生む鍵になります。",
+            "headline": "技術より「歩くこと」。現場の温度感をAIに注入する『人間力』が武器",
+            "subtext": "if塾が教えるのはツール操作ではなく「AIに何を食わせるか」。地域の人と話し、スマホを向ける。その行動力が2026年の最強スキルです。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
