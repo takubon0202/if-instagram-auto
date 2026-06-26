@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 169,
-    "last_updated": "2026-06-25T22:24:23.208345",
+    "total_posts": 170,
+    "last_updated": "2026-06-26T12:39:29.727009",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260626_business",
+      "post_id": "20260626_business",
+      "created_at": "2026-06-26T12:39:29",
+      "datetime": "2026-06-26T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+      "target_audience": "Students & Parents",
+      "title": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+      "caption": "【2026年6月】中高生の夏休みの過ごし方が激変しています！\n\n今、地方の中小企業を救っているのは、最新の生成AIを使いこなす10代のクリエイターたちです。\n\n「地元の商店街を盛り上げたい」「学校で学んだAIスキルを試したい」\nそんな動機で始まった支援が、今や立派な「地域貢献副業」として確立されました。\n\n2026年現在、AIツールはより直感的に進化し、専門知識がなくても「センスと対話」でプロ級のアウトプットが可能です。\n\nこの夏、if塾で「稼ぐ」以上の価値があるAI体験を始めませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生副業 #リスキリング #地方創生 #AI教育",
+      "caption_text": "【2026年6月】中高生の夏休みの過ごし方が激変しています！\n\n今、地方の中小企業を救っているのは、最新の生成AIを使いこなす10代のクリエイターたちです。\n\n「地元の商店街を盛り上げたい」「学校で学んだAIスキルを試したい」\nそんな動機で始まった支援が、今や立派な「地域貢献副業」として確立されました。\n\n2026年現在、AIツールはより直感的に進化し、専門知識がなくても「センスと対話」でプロ級のアウトプットが可能です。\n\nこの夏、if塾で「稼ぐ」以上の価値があるAI体験を始めませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生副業 #リスキリング #地方創生 #AI教育",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#地方創生",
+        "#中高生副業",
+        "#キャリア教育",
+        "#SNSマーケティング"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "sub_title": "2026年6月：部活感覚で地方中小企業のSNSを支援する新潮流",
+          "text_content": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-01.png",
+          "image_file": "assets/img/posts/20260626_business-01.png",
+          "overlay_text": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "subtext": "2026年6月：部活感覚で地方中小企業のSNSを支援する新潮流",
+          "alt": "表紙 - 中高生がAIで地方を救う？月収10万超の"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "sub_title": "地方の中小企業は深刻なリソース不足。でも高額な代理店には頼めない…そんな中、AIを使いこなすZ・α世代が「格安・高品質」な外注先として注目されています。",
+          "text_content": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-02.png",
+          "image_file": "assets/img/posts/20260626_business-02.png",
+          "overlay_text": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "subtext": "地方の中小企業は深刻なリソース不足。でも高額な代理店には頼めない…そんな中、AIを使いこなすZ・α世代が「格安・高品質」な外注先として注目されています。",
+          "alt": "内容1 - 「地元には仕事がない」は古い。スマホ1台"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "sub_title": "2026年標準のマルチモーダルAIを駆使。現場の動画から一瞬で魅せるSNS投稿を作成し、地方企業の「言語化できない魅力」を世界へ発信します。",
+          "text_content": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-03.png",
+          "image_file": "assets/img/posts/20260626_business-03.png",
+          "overlay_text": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "subtext": "2026年標準のマルチモーダルAIを駆使。現場の動画から一瞬で魅せるSNS投稿を作成し、地方企業の「言語化できない魅力」を世界へ発信します。",
+          "alt": "内容2 - Llama 4 × リアルタイム画像生成"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "sub_title": "if塾が教えるのは、AIを『魔法の杖』にしないこと。地域の歴史を学び、AIでその文脈を強化する。この「温かいテクノロジー」の使い方が高単価への近道です。",
+          "text_content": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-04.png",
+          "image_file": "assets/img/posts/20260626_business-04.png",
+          "overlay_text": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "subtext": "if塾が教えるのは、AIを『魔法の杖』にしないこと。地域の歴史を学び、AIでその文脈を強化する。この「温かいテクノロジー」の使い方が高単価への近道です。",
+          "alt": "内容3 - 単なる作業代行で終わらない。「AI×若者"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "sub_title": "2026年6月：部活感覚で地方中小企業のSNSを支援する新潮流",
+          "text_content": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-01.png",
+          "image_file": "assets/img/posts/20260626_business-01.png",
+          "overlay_text": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+          "subtext": "2026年6月：部活感覚で地方中小企業のSNSを支援する新潮流",
+          "alt": "表紙 - 中高生がAIで地方を救う？月収10万超の"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "sub_title": "地方の中小企業は深刻なリソース不足。でも高額な代理店には頼めない…そんな中、AIを使いこなすZ・α世代が「格安・高品質」な外注先として注目されています。",
+          "text_content": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-02.png",
+          "image_file": "assets/img/posts/20260626_business-02.png",
+          "overlay_text": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+          "subtext": "地方の中小企業は深刻なリソース不足。でも高額な代理店には頼めない…そんな中、AIを使いこなすZ・α世代が「格安・高品質」な外注先として注目されています。",
+          "alt": "内容1 - 「地元には仕事がない」は古い。スマホ1台"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "sub_title": "2026年標準のマルチモーダルAIを駆使。現場の動画から一瞬で魅せるSNS投稿を作成し、地方企業の「言語化できない魅力」を世界へ発信します。",
+          "text_content": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-03.png",
+          "image_file": "assets/img/posts/20260626_business-03.png",
+          "overlay_text": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+          "subtext": "2026年標準のマルチモーダルAIを駆使。現場の動画から一瞬で魅せるSNS投稿を作成し、地方企業の「言語化できない魅力」を世界へ発信します。",
+          "alt": "内容2 - Llama 4 × リアルタイム画像生成"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "sub_title": "if塾が教えるのは、AIを『魔法の杖』にしないこと。地域の歴史を学び、AIでその文脈を強化する。この「温かいテクノロジー」の使い方が高単価への近道です。",
+          "text_content": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260626_business-04.png",
+          "image_file": "assets/img/posts/20260626_business-04.png",
+          "overlay_text": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+          "subtext": "if塾が教えるのは、AIを『魔法の杖』にしないこと。地域の歴史を学び、AIでその文脈を強化する。この「温かいテクノロジー」の使い方が高単価への近道です。",
+          "alt": "内容3 - 単なる作業代行で終わらない。「AI×若者"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260626_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260626_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260626_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260626_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-26T12:38:01",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生がAIで地方を救う？月収10万超の",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生がAIで地方を救う？月収10万超の「生成AI副業」2026年最新事例",
+            "subtext": "2026年6月：部活感覚で地方中小企業のSNSを支援する新潮流",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「地元には仕事がない」は古い。スマホ1台で全国の企業の右腕に",
+            "subtext": "地方の中小企業は深刻なリソース不足。でも高額な代理店には頼めない…そんな中、AIを使いこなすZ・α世代が「格安・高品質」な外注先として注目されています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "Llama 4 × リアルタイム画像生成で「職人技」を可視化する",
+            "subtext": "2026年標準のマルチモーダルAIを駆使。現場の動画から一瞬で魅せるSNS投稿を作成し、地方企業の「言語化できない魅力」を世界へ発信します。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "単なる作業代行で終わらない。「AI×若者視点」という付加価値",
+            "subtext": "if塾が教えるのは、AIを『魔法の杖』にしないこと。地域の歴史を学び、AIでその文脈を強化する。この「温かいテクノロジー」の使い方が高単価への近道です。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260625_ai_column",
       "post_id": "20260625_ai_column",
