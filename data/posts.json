@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 170,
-    "last_updated": "2026-06-26T22:16:58.049606",
+    "total_posts": 171,
+    "last_updated": "2026-06-27T12:24:37.349179",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260627_activity",
+      "post_id": "20260627_activity",
+      "created_at": "2026-06-27T12:24:37",
+      "datetime": "2026-06-27T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+      "caption": "【2026年6月】教育界に大きな激震が走りました。\n\n文部科学省から発表された次期学習指導要領の骨子案。\nそこには「2040年代を見据えたAI学習の全員必修化」が明記されています。\n\n今の中高生が社会の中核を担う2040年代、AIは「使えたら便利なツール」ではなく、読み書きと同じレベルの「必須技能」になります。\n\n「そんな時代に、子供に何を学ばせればいいの？」\nその答えは、AIに頼り切ることではなく、AIを「乗りこなす」ための思考力を育てることにあります。\n\nif塾では、2026年現在の最新テクノロジーを授業に組み込みながら、生徒一人ひとりの「考える力」を最大化させています。\n\n未来は不安なものではなく、準備をすれば楽しみなものに変わります。\n最新の教育動向や、if塾での取り組みについて詳しく知りたい方は、ぜひプロフィールのリンクをチェックしてください！\n\n#if塾 #2026年 #学習指導要領 #AI教育 #2040年代 #次世代教育 #最新ニュース #塾選び #AI必修化",
+      "caption_text": "【2026年6月】教育界に大きな激震が走りました。\n\n文部科学省から発表された次期学習指導要領の骨子案。\nそこには「2040年代を見据えたAI学習の全員必修化」が明記されています。\n\n今の中高生が社会の中核を担う2040年代、AIは「使えたら便利なツール」ではなく、読み書きと同じレベルの「必須技能」になります。\n\n「そんな時代に、子供に何を学ばせればいいの？」\nその答えは、AIに頼り切ることではなく、AIを「乗りこなす」ための思考力を育てることにあります。\n\nif塾では、2026年現在の最新テクノロジーを授業に組み込みながら、生徒一人ひとりの「考える力」を最大化させています。\n\n未来は不安なものではなく、準備をすれば楽しみなものに変わります。\n最新の教育動向や、if塾での取り組みについて詳しく知りたい方は、ぜひプロフィールのリンクをチェックしてください！\n\n#if塾 #2026年 #学習指導要領 #AI教育 #2040年代 #次世代教育 #最新ニュース #塾選び #AI必修化",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#学習指導要領",
+        "#AI教育",
+        "#2040年代",
+        "#未来の教育",
+        "#最新教育ニュース"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "sub_title": "2026年6月最新：AI学習の全員必修化が決定へ",
+          "text_content": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-01.png",
+          "image_file": "assets/img/posts/20260627_activity-01.png",
+          "overlay_text": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "subtext": "2026年6月最新：AI学習の全員必修化が決定へ",
+          "alt": "表紙 - 2040年代、AIは「読み書き」と同じに"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「うちの子のスキル、通用しなくなる？」",
+          "sub_title": "本日、2040年代を見据えた次期学習指導要領の骨子案が発表されました。単なるツールの活用を超え『AIを使いこなす能力』が全生徒の必修科目となる方針です。親世代からは「何を準備すべきか分からない」という不安の声が届いています。",
+          "text_content": "「うちの子のスキル、通用しなくなる？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-02.png",
+          "image_file": "assets/img/posts/20260627_activity-02.png",
+          "overlay_text": "「うちの子のスキル、通用しなくなる？」",
+          "subtext": "本日、2040年代を見据えた次期学習指導要領の骨子案が発表されました。単なるツールの活用を超え『AIを使いこなす能力』が全生徒の必修科目となる方針です。親世代からは「何を準備すべきか分からない」という不安の声が届いています。",
+          "alt": "内容1 - 「うちの子のスキル、通用しなくなる？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒たちは既に「AIパートナー」と並走中",
+          "sub_title": "if塾の教室では、最新の対話型AIを活用した個別最適化カリキュラムを実施。生徒たちはAIを「カンニング道具」ではなく、自分の思考を広げる「壁打ち相手」として捉えています。この柔軟さこそが、2040年を生き抜く力です。",
+          "text_content": "生徒たちは既に「AIパートナー」と並走中",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-03.png",
+          "image_file": "assets/img/posts/20260627_activity-03.png",
+          "overlay_text": "生徒たちは既に「AIパートナー」と並走中",
+          "subtext": "if塾の教室では、最新の対話型AIを活用した個別最適化カリキュラムを実施。生徒たちはAIを「カンニング道具」ではなく、自分の思考を広げる「壁打ち相手」として捉えています。この柔軟さこそが、2040年を生き抜く力です。",
+          "alt": "内容2 - 生徒たちは既に「AIパートナー」と並走中"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "sub_title": "AIが答えを出す時代、最も重要なのは『何を問うか』というクリティカルシンキングです。if塾では、技術習得だけでなく、AIが出した回答の真偽を見極め、自分の意志で判断する「人間にしかできない力」を磨く指導を強化しています。",
+          "text_content": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-04.png",
+          "image_file": "assets/img/posts/20260627_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "subtext": "AIが答えを出す時代、最も重要なのは『何を問うか』というクリティカルシンキングです。if塾では、技術習得だけでなく、AIが出した回答の真偽を見極め、自分の意志で判断する「人間にしかできない力」を磨く指導を強化しています。",
+          "alt": "内容3 - if塾の視点：AI時代こそ「問い」の質で"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "sub_title": "2026年6月最新：AI学習の全員必修化が決定へ",
+          "text_content": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-01.png",
+          "image_file": "assets/img/posts/20260627_activity-01.png",
+          "overlay_text": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+          "subtext": "2026年6月最新：AI学習の全員必修化が決定へ",
+          "alt": "表紙 - 2040年代、AIは「読み書き」と同じに"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「うちの子のスキル、通用しなくなる？」",
+          "sub_title": "本日、2040年代を見据えた次期学習指導要領の骨子案が発表されました。単なるツールの活用を超え『AIを使いこなす能力』が全生徒の必修科目となる方針です。親世代からは「何を準備すべきか分からない」という不安の声が届いています。",
+          "text_content": "「うちの子のスキル、通用しなくなる？」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-02.png",
+          "image_file": "assets/img/posts/20260627_activity-02.png",
+          "overlay_text": "「うちの子のスキル、通用しなくなる？」",
+          "subtext": "本日、2040年代を見据えた次期学習指導要領の骨子案が発表されました。単なるツールの活用を超え『AIを使いこなす能力』が全生徒の必修科目となる方針です。親世代からは「何を準備すべきか分からない」という不安の声が届いています。",
+          "alt": "内容1 - 「うちの子のスキル、通用しなくなる？」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒たちは既に「AIパートナー」と並走中",
+          "sub_title": "if塾の教室では、最新の対話型AIを活用した個別最適化カリキュラムを実施。生徒たちはAIを「カンニング道具」ではなく、自分の思考を広げる「壁打ち相手」として捉えています。この柔軟さこそが、2040年を生き抜く力です。",
+          "text_content": "生徒たちは既に「AIパートナー」と並走中",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-03.png",
+          "image_file": "assets/img/posts/20260627_activity-03.png",
+          "overlay_text": "生徒たちは既に「AIパートナー」と並走中",
+          "subtext": "if塾の教室では、最新の対話型AIを活用した個別最適化カリキュラムを実施。生徒たちはAIを「カンニング道具」ではなく、自分の思考を広げる「壁打ち相手」として捉えています。この柔軟さこそが、2040年を生き抜く力です。",
+          "alt": "内容2 - 生徒たちは既に「AIパートナー」と並走中"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "sub_title": "AIが答えを出す時代、最も重要なのは『何を問うか』というクリティカルシンキングです。if塾では、技術習得だけでなく、AIが出した回答の真偽を見極め、自分の意志で判断する「人間にしかできない力」を磨く指導を強化しています。",
+          "text_content": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260627_activity-04.png",
+          "image_file": "assets/img/posts/20260627_activity-04.png",
+          "overlay_text": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+          "subtext": "AIが答えを出す時代、最も重要なのは『何を問うか』というクリティカルシンキングです。if塾では、技術習得だけでなく、AIが出した回答の真偽を見極め、自分の意志で判断する「人間にしかできない力」を磨く指導を強化しています。",
+          "alt": "内容3 - if塾の視点：AI時代こそ「問い」の質で"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260627_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260627_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260627_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260627_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "渡辺柚気",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "デザイン"
+        ],
+        "caption_text": "渡辺柚気（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "watanabe_yuzuki",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-27T12:23:10",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2040年代、AIは「読み書き」と同じに",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2040年代、AIは「読み書き」と同じに。次期指導要領の衝撃",
+            "subtext": "2026年6月最新：AI学習の全員必修化が決定へ",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「うちの子のスキル、通用しなくなる？」",
+            "subtext": "本日、2040年代を見据えた次期学習指導要領の骨子案が発表されました。単なるツールの活用を超え『AIを使いこなす能力』が全生徒の必修科目となる方針です。親世代からは「何を準備すべきか分からない」という不安の声が届いています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "生徒たちは既に「AIパートナー」と並走中",
+            "subtext": "if塾の教室では、最新の対話型AIを活用した個別最適化カリキュラムを実施。生徒たちはAIを「カンニング道具」ではなく、自分の思考を広げる「壁打ち相手」として捉えています。この柔軟さこそが、2040年を生き抜く力です。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AI時代こそ「問い」の質で差がつく",
+            "subtext": "AIが答えを出す時代、最も重要なのは『何を問うか』というクリティカルシンキングです。if塾では、技術習得だけでなく、AIが出した回答の真偽を見極め、自分の意志で判断する「人間にしかできない力」を磨く指導を強化しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260626_business",
       "post_id": "20260626_business",
