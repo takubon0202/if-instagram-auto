@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 172,
-    "last_updated": "2026-06-28T16:39:38.124732",
+    "last_updated": "2026-06-28T21:20:32.197578",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260628_activity",
       "post_id": "20260628_activity",
-      "created_at": "2026-06-28T16:39:38",
+      "created_at": "2026-06-28T21:20:32",
       "datetime": "2026-06-28T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIエージェントで作る！中高生の次世代開発",
+      "theme": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
       "target_audience": "Students & Parents",
-      "title": "AIエージェントで作る！中高生の次世代開発",
-      "caption": "【2026年6月】最新の教育現場をお届けします！\n\n今、if塾の教室では驚くべき光景が広がっています。\nかつては数ヶ月かかったアプリ開発が、Manus等のAIエージェントを活用することで、わずか数時間でプロトタイプまで完成するようになりました。\n\n「コードが書けないから」と諦めていた中高生たちが、今やAIを部下のように使いこなし、社会課題を解決するプロダクトを次々と生み出しています。\n\n2026年の今、求められるのは「記述力」ではなく「対話力」と「構想力」。\nif塾では、最新のAIツールをいち早く導入し、未来を創る視点を育てています。\n\n夏休みの自由研究に向けて、君もAIエージェントと一緒に世界を驚かせてみませんか？\n\n詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年6月】最新の教育現場をお届けします！\n\n今、if塾の教室では驚くべき光景が広がっています。\nかつては数ヶ月かかったアプリ開発が、Manus等のAIエージェントを活用することで、わずか数時間でプロトタイプまで完成するようになりました。\n\n「コードが書けないから」と諦めていた中高生たちが、今やAIを部下のように使いこなし、社会課題を解決するプロダクトを次々と生み出しています。\n\n2026年の今、求められるのは「記述力」ではなく「対話力」と「構想力」。\nif塾では、最新のAIツールをいち早く導入し、未来を創る視点を育てています。\n\n夏休みの自由研究に向けて、君もAIエージェントと一緒に世界を驚かせてみませんか？\n\n詳細はプロフィールのリンクから！",
+      "title": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+      "caption": "【2026年6月】中高生の創造力が、AIでさらに加速しています！\n\n本日開催された「生成AIハッカソン」の熱気は想像以上でした。以前は『プログラミング未経験だから…』と躊躇していた生徒たちが、最新のAI Agentをパートナーに、わずか90分で独自のWebアプリを形にしています。\n\n2026年現在、AIは単なる「補助ツール」ではなく、思考を具現化する「拡張知能」となりました。if塾では、コードの書き方以上に『AIにどう指示し、どんな未来を創るか』というプロンプトエンジニアリングを超えた、課題解決の本質を教えています。\n\n夏休みを前に、キミも「消費する側」から「創る側」へ。一歩踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年6月】中高生の創造力が、AIでさらに加速しています！\n\n本日開催された「生成AIハッカソン」の熱気は想像以上でした。以前は『プログラミング未経験だから…』と躊躇していた生徒たちが、最新のAI Agentをパートナーに、わずか90分で独自のWebアプリを形にしています。\n\n2026年現在、AIは単なる「補助ツール」ではなく、思考を具現化する「拡張知能」となりました。if塾では、コードの書き方以上に『AIにどう指示し、どんな未来を創るか』というプロンプトエンジニアリングを超えた、課題解決の本質を教えています。\n\n夏休みを前に、キミも「消費する側」から「創る側」へ。一歩踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#Manus",
-        "#次世代教育",
-        "#中高生エンジニア",
-        "#プログラミング学習",
-        "#探究学習"
+        "#生成AIハッカソン",
+        "#中高生プログラミング",
+        "#自由研究2026",
+        "#教育改革",
+        "#AI学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントで作る！中高生の次世代開発",
-          "sub_title": "2026年6月・Manusを活用した最新授業レポ",
-          "text_content": "AIエージェントで作る！中高生の次世代開発",
+          "main_title": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+          "sub_title": "2026年6月：生成AIハッカソン潜入レポート",
+          "text_content": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-01.png",
           "image_file": "assets/img/posts/20260628_activity-01.png",
-          "overlay_text": "AIエージェントで作る！中高生の次世代開発",
-          "subtext": "2026年6月・Manusを活用した最新授業レポ",
-          "alt": "表紙 - AIエージェントで作る！中高生の次世代開"
+          "overlay_text": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+          "subtext": "2026年6月：生成AIハッカソン潜入レポート",
+          "alt": "表紙 - 未経験の壁は消えた。中高生が90分でアプ"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」に技術が追いつかない？",
-          "sub_title": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
-          "text_content": "「やりたい」に技術が追いつかない？",
+          "main_title": "「やりたい」が「できる」に変わらないもどかしさ",
+          "sub_title": "2026年、プログラミングへの関心は過去最高。でも、コードを覚えるだけで数ヶ月かかるのはもう古い？",
+          "text_content": "「やりたい」が「できる」に変わらないもどかしさ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-02.png",
           "image_file": "assets/img/posts/20260628_activity-02.png",
-          "overlay_text": "「やりたい」に技術が追いつかない？",
-          "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
-          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
+          "overlay_text": "「やりたい」が「できる」に変わらないもどかしさ",
+          "subtext": "2026年、プログラミングへの関心は過去最高。でも、コードを覚えるだけで数ヶ月かかるのはもう古い？",
+          "alt": "内容1 - 「やりたい」が「できる」に変わらないもど"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AI「Manus」が開発の相棒に",
-          "sub_title": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
-          "text_content": "自律型AI「Manus」が開発の相棒に",
+          "main_title": "最新AI Agentが思考を即座に形にする驚愕の90分",
+          "sub_title": "GPT-5o以降のマルチモーダルAIと連携したノーコードツールで、論理構成さえあれば即座にアプリが完成。",
+          "text_content": "最新AI Agentが思考を即座に形にする驚愕の90分",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-03.png",
           "image_file": "assets/img/posts/20260628_activity-03.png",
-          "overlay_text": "自律型AI「Manus」が開発の相棒に",
-          "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
-          "alt": "内容2 - 自律型AI「Manus」が開発の相棒に"
+          "overlay_text": "最新AI Agentが思考を即座に形にする驚愕の90分",
+          "subtext": "GPT-5o以降のマルチモーダルAIと連携したノーコードツールで、論理構成さえあれば即座にアプリが完成。",
+          "alt": "内容2 - 最新AI Agentが思考を即座に形にす"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「考える力」こそが最強のスキル",
-          "sub_title": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
-          "text_content": "「考える力」こそが最強のスキル",
+          "main_title": "if塾が考える「2026年以降の学び方」の本質",
+          "sub_title": "技術習得より「何を解決したいか」という問いが価値を生む。AIを使いこなす創造的思考こそが真のスキル。",
+          "text_content": "if塾が考える「2026年以降の学び方」の本質",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-04.png",
           "image_file": "assets/img/posts/20260628_activity-04.png",
-          "overlay_text": "「考える力」こそが最強のスキル",
-          "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
-          "alt": "内容3 - 「考える力」こそが最強のスキル"
+          "overlay_text": "if塾が考える「2026年以降の学び方」の本質",
+          "subtext": "技術習得より「何を解決したいか」という問いが価値を生む。AIを使いこなす創造的思考こそが真のスキル。",
+          "alt": "内容3 - if塾が考える「2026年以降の学び方」"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントで作る！中高生の次世代開発",
-          "sub_title": "2026年6月・Manusを活用した最新授業レポ",
-          "text_content": "AIエージェントで作る！中高生の次世代開発",
+          "main_title": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+          "sub_title": "2026年6月：生成AIハッカソン潜入レポート",
+          "text_content": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-01.png",
           "image_file": "assets/img/posts/20260628_activity-01.png",
-          "overlay_text": "AIエージェントで作る！中高生の次世代開発",
-          "subtext": "2026年6月・Manusを活用した最新授業レポ",
-          "alt": "表紙 - AIエージェントで作る！中高生の次世代開"
+          "overlay_text": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+          "subtext": "2026年6月：生成AIハッカソン潜入レポート",
+          "alt": "表紙 - 未経験の壁は消えた。中高生が90分でアプ"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたい」に技術が追いつかない？",
-          "sub_title": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
-          "text_content": "「やりたい」に技術が追いつかない？",
+          "main_title": "「やりたい」が「できる」に変わらないもどかしさ",
+          "sub_title": "2026年、プログラミングへの関心は過去最高。でも、コードを覚えるだけで数ヶ月かかるのはもう古い？",
+          "text_content": "「やりたい」が「できる」に変わらないもどかしさ",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-02.png",
           "image_file": "assets/img/posts/20260628_activity-02.png",
-          "overlay_text": "「やりたい」に技術が追いつかない？",
-          "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
-          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
+          "overlay_text": "「やりたい」が「できる」に変わらないもどかしさ",
+          "subtext": "2026年、プログラミングへの関心は過去最高。でも、コードを覚えるだけで数ヶ月かかるのはもう古い？",
+          "alt": "内容1 - 「やりたい」が「できる」に変わらないもど"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AI「Manus」が開発の相棒に",
-          "sub_title": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
-          "text_content": "自律型AI「Manus」が開発の相棒に",
+          "main_title": "最新AI Agentが思考を即座に形にする驚愕の90分",
+          "sub_title": "GPT-5o以降のマルチモーダルAIと連携したノーコードツールで、論理構成さえあれば即座にアプリが完成。",
+          "text_content": "最新AI Agentが思考を即座に形にする驚愕の90分",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-03.png",
           "image_file": "assets/img/posts/20260628_activity-03.png",
-          "overlay_text": "自律型AI「Manus」が開発の相棒に",
-          "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
-          "alt": "内容2 - 自律型AI「Manus」が開発の相棒に"
+          "overlay_text": "最新AI Agentが思考を即座に形にする驚愕の90分",
+          "subtext": "GPT-5o以降のマルチモーダルAIと連携したノーコードツールで、論理構成さえあれば即座にアプリが完成。",
+          "alt": "内容2 - 最新AI Agentが思考を即座に形にす"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「考える力」こそが最強のスキル",
-          "sub_title": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
-          "text_content": "「考える力」こそが最強のスキル",
+          "main_title": "if塾が考える「2026年以降の学び方」の本質",
+          "sub_title": "技術習得より「何を解決したいか」という問いが価値を生む。AIを使いこなす創造的思考こそが真のスキル。",
+          "text_content": "if塾が考える「2026年以降の学び方」の本質",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-04.png",
           "image_file": "assets/img/posts/20260628_activity-04.png",
-          "overlay_text": "「考える力」こそが最強のスキル",
-          "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
-          "alt": "内容3 - 「考える力」こそが最強のスキル"
+          "overlay_text": "if塾が考える「2026年以降の学び方」の本質",
+          "subtext": "技術習得より「何を解決したいか」という問いが価値を生む。AIを使いこなす創造的思考こそが真のスキル。",
+          "alt": "内容3 - if塾が考える「2026年以降の学び方」"
         },
         {
           "page_number": 5,
@@ -243,7 +242,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-28T16:38:12",
+      "research_date": "2026-06-28T21:19:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIエージェントで作る！中高生の次世代開",
+        "cover_text": "未経験の壁は消えた。中高生が90分でアプ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIエージェントで作る！中高生の次世代開発",
-            "subtext": "2026年6月・Manusを活用した最新授業レポ",
+            "headline": "未経験の壁は消えた。中高生が90分でアプリを創る時代へ",
+            "subtext": "2026年6月：生成AIハッカソン潜入レポート",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたい」に技術が追いつかない？",
-            "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
+            "headline": "「やりたい」が「できる」に変わらないもどかしさ",
+            "subtext": "2026年、プログラミングへの関心は過去最高。でも、コードを覚えるだけで数ヶ月かかるのはもう古い？",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AI「Manus」が開発の相棒に",
-            "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
+            "headline": "最新AI Agentが思考を即座に形にする驚愕の90分",
+            "subtext": "GPT-5o以降のマルチモーダルAIと連携したノーコードツールで、論理構成さえあれば即座にアプリが完成。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「考える力」こそが最強のスキル",
-            "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
+            "headline": "if塾が考える「2026年以降の学び方」の本質",
+            "subtext": "技術習得より「何を解決したいか」という問いが価値を生む。AIを使いこなす創造的思考こそが真のスキル。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
