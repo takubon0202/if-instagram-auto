@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 171,
-    "last_updated": "2026-06-27T21:13:10.397277",
+    "total_posts": 172,
+    "last_updated": "2026-06-28T12:44:53.935120",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260628_activity",
+      "post_id": "20260628_activity",
+      "created_at": "2026-06-28T12:44:53",
+      "datetime": "2026-06-28T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+      "target_audience": "Students & Parents",
+      "title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+      "caption": "【2026年6月】ついに歴史が動きました。\n\n本日、次期指導要領の骨子案が公表され、AIリテラシーの習得が国民的な関心事となっています。2026年度から「情報教育」は単なる科目ではなく、すべての学習の基盤となることが決定しました。\n\nif塾でも、生徒たちが最新のAIツールを使いこなし、自らのアイデアを形にする姿が日常になりつつあります。大切なのは「使わされる」のではなく「使いこなす」力。\n\n6月も終盤。夏休みを前に、これからの時代に必要なスキルをif塾で一緒に先取りしませんか？\n\n詳細はプロフィールURLから！",
+      "caption_text": "【2026年6月】ついに歴史が動きました。\n\n本日、次期指導要領の骨子案が公表され、AIリテラシーの習得が国民的な関心事となっています。2026年度から「情報教育」は単なる科目ではなく、すべての学習の基盤となることが決定しました。\n\nif塾でも、生徒たちが最新のAIツールを使いこなし、自らのアイデアを形にする姿が日常になりつつあります。大切なのは「使わされる」のではなく「使いこなす」力。\n\n6月も終盤。夏休みを前に、これからの時代に必要なスキルをif塾で一緒に先取りしませんか？\n\n詳細はプロフィールURLから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#情報教育",
+        "#AIリテラシー",
+        "#指導要領",
+        "#プログラミング教育",
+        "#教育改革",
+        "#最新教育ニュース"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "sub_title": "【2026.06.28】次期指導要領の衝撃",
+          "text_content": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-01.png",
+          "image_file": "assets/img/posts/20260628_activity-01.png",
+          "overlay_text": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "subtext": "【2026.06.28】次期指導要領の衝撃",
+          "alt": "表紙 - AIリテラシーが「義務」へ。2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "sub_title": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+          "text_content": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-02.png",
+          "image_file": "assets/img/posts/20260628_activity-02.png",
+          "overlay_text": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+          "alt": "内容1 - 「うちの子、AIについていける？」保護者"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "sub_title": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+          "text_content": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-03.png",
+          "image_file": "assets/img/posts/20260628_activity-03.png",
+          "overlay_text": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+          "alt": "内容2 - 生徒たちは「AIプロンプト」の試行錯誤に"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "sub_title": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+          "text_content": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-04.png",
+          "image_file": "assets/img/posts/20260628_activity-04.png",
+          "overlay_text": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+          "alt": "内容3 - if塾の視点：AIは「答え」ではなく「思"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "sub_title": "【2026.06.28】次期指導要領の衝撃",
+          "text_content": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-01.png",
+          "image_file": "assets/img/posts/20260628_activity-01.png",
+          "overlay_text": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "subtext": "【2026.06.28】次期指導要領の衝撃",
+          "alt": "表紙 - AIリテラシーが「義務」へ。2026年最"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "sub_title": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+          "text_content": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-02.png",
+          "image_file": "assets/img/posts/20260628_activity-02.png",
+          "overlay_text": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+          "alt": "内容1 - 「うちの子、AIについていける？」保護者"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "sub_title": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+          "text_content": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-03.png",
+          "image_file": "assets/img/posts/20260628_activity-03.png",
+          "overlay_text": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+          "alt": "内容2 - 生徒たちは「AIプロンプト」の試行錯誤に"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "sub_title": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+          "text_content": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260628_activity-04.png",
+          "image_file": "assets/img/posts/20260628_activity-04.png",
+          "overlay_text": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+          "alt": "内容3 - if塾の視点：AIは「答え」ではなく「思"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260628_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260628_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260628_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260628_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "山﨑琢己",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "アプリ開発"
+        ],
+        "caption_text": "山﨑琢己（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "yamazaki_takumi",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-28T12:43:30",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIリテラシーが「義務」へ。2026年最",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+            "subtext": "【2026.06.28】次期指導要領の衝撃",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「うちの子、AIについていける？」保護者の不安が急増中",
+            "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+            "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+            "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260627_activity",
       "post_id": "20260627_activity",
