@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 172,
-    "last_updated": "2026-06-28T12:44:53.935120",
+    "last_updated": "2026-06-28T16:39:38.124732",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260628_activity",
       "post_id": "20260628_activity",
-      "created_at": "2026-06-28T12:44:53",
+      "created_at": "2026-06-28T16:39:38",
       "datetime": "2026-06-28T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+      "theme": "AIエージェントで作る！中高生の次世代開発",
       "target_audience": "Students & Parents",
-      "title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-      "caption": "【2026年6月】ついに歴史が動きました。\n\n本日、次期指導要領の骨子案が公表され、AIリテラシーの習得が国民的な関心事となっています。2026年度から「情報教育」は単なる科目ではなく、すべての学習の基盤となることが決定しました。\n\nif塾でも、生徒たちが最新のAIツールを使いこなし、自らのアイデアを形にする姿が日常になりつつあります。大切なのは「使わされる」のではなく「使いこなす」力。\n\n6月も終盤。夏休みを前に、これからの時代に必要なスキルをif塾で一緒に先取りしませんか？\n\n詳細はプロフィールURLから！",
-      "caption_text": "【2026年6月】ついに歴史が動きました。\n\n本日、次期指導要領の骨子案が公表され、AIリテラシーの習得が国民的な関心事となっています。2026年度から「情報教育」は単なる科目ではなく、すべての学習の基盤となることが決定しました。\n\nif塾でも、生徒たちが最新のAIツールを使いこなし、自らのアイデアを形にする姿が日常になりつつあります。大切なのは「使わされる」のではなく「使いこなす」力。\n\n6月も終盤。夏休みを前に、これからの時代に必要なスキルをif塾で一緒に先取りしませんか？\n\n詳細はプロフィールURLから！",
+      "title": "AIエージェントで作る！中高生の次世代開発",
+      "caption": "【2026年6月】最新の教育現場をお届けします！\n\n今、if塾の教室では驚くべき光景が広がっています。\nかつては数ヶ月かかったアプリ開発が、Manus等のAIエージェントを活用することで、わずか数時間でプロトタイプまで完成するようになりました。\n\n「コードが書けないから」と諦めていた中高生たちが、今やAIを部下のように使いこなし、社会課題を解決するプロダクトを次々と生み出しています。\n\n2026年の今、求められるのは「記述力」ではなく「対話力」と「構想力」。\nif塾では、最新のAIツールをいち早く導入し、未来を創る視点を育てています。\n\n夏休みの自由研究に向けて、君もAIエージェントと一緒に世界を驚かせてみませんか？\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年6月】最新の教育現場をお届けします！\n\n今、if塾の教室では驚くべき光景が広がっています。\nかつては数ヶ月かかったアプリ開発が、Manus等のAIエージェントを活用することで、わずか数時間でプロトタイプまで完成するようになりました。\n\n「コードが書けないから」と諦めていた中高生たちが、今やAIを部下のように使いこなし、社会課題を解決するプロダクトを次々と生み出しています。\n\n2026年の今、求められるのは「記述力」ではなく「対話力」と「構想力」。\nif塾では、最新のAIツールをいち早く導入し、未来を創る視点を育てています。\n\n夏休みの自由研究に向けて、君もAIエージェントと一緒に世界を驚かせてみませんか？\n\n詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#情報教育",
-        "#AIリテラシー",
-        "#指導要領",
-        "#プログラミング教育",
-        "#教育改革",
-        "#最新教育ニュース"
+        "#AIエージェント",
+        "#Manus",
+        "#次世代教育",
+        "#中高生エンジニア",
+        "#プログラミング学習",
+        "#探究学習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-          "sub_title": "【2026.06.28】次期指導要領の衝撃",
-          "text_content": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "main_title": "AIエージェントで作る！中高生の次世代開発",
+          "sub_title": "2026年6月・Manusを活用した最新授業レポ",
+          "text_content": "AIエージェントで作る！中高生の次世代開発",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-01.png",
           "image_file": "assets/img/posts/20260628_activity-01.png",
-          "overlay_text": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-          "subtext": "【2026.06.28】次期指導要領の衝撃",
-          "alt": "表紙 - AIリテラシーが「義務」へ。2026年最"
+          "overlay_text": "AIエージェントで作る！中高生の次世代開発",
+          "subtext": "2026年6月・Manusを活用した最新授業レポ",
+          "alt": "表紙 - AIエージェントで作る！中高生の次世代開"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子、AIについていける？」保護者の不安が急増中",
-          "sub_title": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
-          "text_content": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "main_title": "「やりたい」に技術が追いつかない？",
+          "sub_title": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
+          "text_content": "「やりたい」に技術が追いつかない？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-02.png",
           "image_file": "assets/img/posts/20260628_activity-02.png",
-          "overlay_text": "「うちの子、AIについていける？」保護者の不安が急増中",
-          "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
-          "alt": "内容1 - 「うちの子、AIについていける？」保護者"
+          "overlay_text": "「やりたい」に技術が追いつかない？",
+          "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
+          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
-          "sub_title": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
-          "text_content": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "main_title": "自律型AI「Manus」が開発の相棒に",
+          "sub_title": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
+          "text_content": "自律型AI「Manus」が開発の相棒に",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-03.png",
           "image_file": "assets/img/posts/20260628_activity-03.png",
-          "overlay_text": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
-          "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
-          "alt": "内容2 - 生徒たちは「AIプロンプト」の試行錯誤に"
+          "overlay_text": "自律型AI「Manus」が開発の相棒に",
+          "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
+          "alt": "内容2 - 自律型AI「Manus」が開発の相棒に"
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
-          "sub_title": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
-          "text_content": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "main_title": "「考える力」こそが最強のスキル",
+          "sub_title": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
+          "text_content": "「考える力」こそが最強のスキル",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-04.png",
           "image_file": "assets/img/posts/20260628_activity-04.png",
-          "overlay_text": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
-          "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
-          "alt": "内容3 - if塾の視点：AIは「答え」ではなく「思"
+          "overlay_text": "「考える力」こそが最強のスキル",
+          "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
+          "alt": "内容3 - 「考える力」こそが最強のスキル"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-          "sub_title": "【2026.06.28】次期指導要領の衝撃",
-          "text_content": "AIリテラシーが「義務」へ。2026年最新ニュース！",
+          "main_title": "AIエージェントで作る！中高生の次世代開発",
+          "sub_title": "2026年6月・Manusを活用した最新授業レポ",
+          "text_content": "AIエージェントで作る！中高生の次世代開発",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-01.png",
           "image_file": "assets/img/posts/20260628_activity-01.png",
-          "overlay_text": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-          "subtext": "【2026.06.28】次期指導要領の衝撃",
-          "alt": "表紙 - AIリテラシーが「義務」へ。2026年最"
+          "overlay_text": "AIエージェントで作る！中高生の次世代開発",
+          "subtext": "2026年6月・Manusを活用した最新授業レポ",
+          "alt": "表紙 - AIエージェントで作る！中高生の次世代開"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「うちの子、AIについていける？」保護者の不安が急増中",
-          "sub_title": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
-          "text_content": "「うちの子、AIについていける？」保護者の不安が急増中",
+          "main_title": "「やりたい」に技術が追いつかない？",
+          "sub_title": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
+          "text_content": "「やりたい」に技術が追いつかない？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-02.png",
           "image_file": "assets/img/posts/20260628_activity-02.png",
-          "overlay_text": "「うちの子、AIについていける？」保護者の不安が急増中",
-          "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
-          "alt": "内容1 - 「うちの子、AIについていける？」保護者"
+          "overlay_text": "「やりたい」に技術が追いつかない？",
+          "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
+          "alt": "内容1 - 「やりたい」に技術が追いつかない？"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
-          "sub_title": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
-          "text_content": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
+          "main_title": "自律型AI「Manus」が開発の相棒に",
+          "sub_title": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
+          "text_content": "自律型AI「Manus」が開発の相棒に",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-03.png",
           "image_file": "assets/img/posts/20260628_activity-03.png",
-          "overlay_text": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
-          "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
-          "alt": "内容2 - 生徒たちは「AIプロンプト」の試行錯誤に"
+          "overlay_text": "自律型AI「Manus」が開発の相棒に",
+          "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
+          "alt": "内容2 - 自律型AI「Manus」が開発の相棒に"
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
-          "sub_title": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
-          "text_content": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
+          "main_title": "「考える力」こそが最強のスキル",
+          "sub_title": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
+          "text_content": "「考える力」こそが最強のスキル",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260628_activity-04.png",
           "image_file": "assets/img/posts/20260628_activity-04.png",
-          "overlay_text": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
-          "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
-          "alt": "内容3 - if塾の視点：AIは「答え」ではなく「思"
+          "overlay_text": "「考える力」こそが最強のスキル",
+          "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
+          "alt": "内容3 - 「考える力」こそが最強のスキル"
         },
         {
           "page_number": 5,
@@ -243,7 +243,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-28T12:43:30",
+      "research_date": "2026-06-28T16:38:12",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIリテラシーが「義務」へ。2026年最",
+        "cover_text": "AIエージェントで作る！中高生の次世代開",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIリテラシーが「義務」へ。2026年最新ニュース！",
-            "subtext": "【2026.06.28】次期指導要領の衝撃",
+            "headline": "AIエージェントで作る！中高生の次世代開発",
+            "subtext": "2026年6月・Manusを活用した最新授業レポ",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「うちの子、AIについていける？」保護者の不安が急増中",
-            "subtext": "本日公表された次期指導要領骨子案により、2026年度から情報教育が完全義務化。単なる操作ではなく『AIを使いこなす力』が必須スキルになりました。",
+            "headline": "「やりたい」に技術が追いつかない？",
+            "subtext": "2026年、プログラミングは書く時代から「対話して自律実行させる」時代へ。従来の学習法では間に合わない今の焦り。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "生徒たちは「AIプロンプト」の試行錯誤に夢中！",
-            "subtext": "本日の授業では最新のAIエージェントツールを使用。正解を求めるのではなく「どうAIに指示を出すか」を競う姿に、時代の変化を確信しました。",
+            "headline": "自律型AI「Manus」が開発の相棒に",
+            "subtext": "指示一つで市場調査からコード実装まで完結。生徒たちはAIをマネジメントする「プロダクトオーナー」へと進化しています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIは「答え」ではなく「思考の鏡」",
-            "subtext": "技術の習得以上に大切なのは、AIの出力を批判的に吟味する力。if塾では独自の対話型カリキュラムで、AI時代を勝ち抜く『地頭』を鍛えます。",
+            "headline": "「考える力」こそが最強のスキル",
+            "subtext": "ツールが進化する今、if塾が教えるのは操作法ではなく「何を解決したいか」という問い。AIを使いこなす倫理観と設計力を養います。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
