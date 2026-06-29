@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 172,
-    "last_updated": "2026-06-28T21:20:32.197578",
+    "total_posts": 173,
+    "last_updated": "2026-06-29T12:53:16.282910",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260629_announcement",
+      "post_id": "20260629_announcement",
+      "created_at": "2026-06-29T12:53:16",
+      "datetime": "2026-06-29T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "【2026最新】AI教育が「義務」に。2040年への大転換",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】AI教育が「義務」に。2040年への大転換",
+      "caption": "【2026年6月】教育界に激震が走っています。\n\n本日発表された「次期学習指導要領」の骨子案。\nついにAI教育が「義務化」される方針が固まりました。\n\n2040年、今の子供たちが社会の主役となる頃、\nAIは空気のような存在になっています。\n\n「AIに仕事を奪われる」と恐れるのではなく、\n「AIをパートナーとして何を創造するか」が問われる時代。\n\nif塾では、この最新動向をいち早く取り入れ、\n単なる受験対策に留まらない「未来への対応力」を育みます。\n\n今、親として子どものためにできることは何か？\n一緒に考えていきましょう。\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年6月】教育界に激震が走っています。\n\n本日発表された「次期学習指導要領」の骨子案。\nついにAI教育が「義務化」される方針が固まりました。\n\n2040年、今の子供たちが社会の主役となる頃、\nAIは空気のような存在になっています。\n\n「AIに仕事を奪われる」と恐れるのではなく、\n「AIをパートナーとして何を創造するか」が問われる時代。\n\nif塾では、この最新動向をいち早く取り入れ、\n単なる受験対策に留まらない「未来への対応力」を育みます。\n\n今、親として子どものためにできることは何か？\n一緒に考えていきましょう。\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#教育改革",
+        "#学習指導要領",
+        "#AI教育",
+        "#2040年",
+        "#最新教育ニュース",
+        "#子育てママ",
+        "#塾選び"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "sub_title": "6月発表！次期学習指導要領の衝撃",
+          "text_content": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-01.png",
+          "image_file": "assets/img/posts/20260629_announcement-01.png",
+          "overlay_text": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "subtext": "6月発表！次期学習指導要領の衝撃",
+          "alt": "表紙 - 【2026最新】AI教育が「義務」に。2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "もう「使いこなす」だけでは足りない時代へ",
+          "sub_title": "本日、2040年を見据えた指導要領の骨子案が判明。AIの活用が『推奨』から『義務』へと格上げされ、親世代の常識が通用しなくなります。",
+          "text_content": "もう「使いこなす」だけでは足りない時代へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-02.png",
+          "image_file": "assets/img/posts/20260629_announcement-02.png",
+          "overlay_text": "もう「使いこなす」だけでは足りない時代へ",
+          "subtext": "本日、2040年を見据えた指導要領の骨子案が判明。AIの活用が『推奨』から『義務』へと格上げされ、親世代の常識が通用しなくなります。",
+          "alt": "内容1 - もう「使いこなす」だけでは足りない時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年、教育の形が根本から変わる",
+          "sub_title": "AIネイティブ世代に求められるのは「問いを立てる力」。単なる検索能力ではなく、AIと協働して解を導き出す能力が評価の基準になります。",
+          "text_content": "2026年、教育の形が根本から変わる",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-03.png",
+          "image_file": "assets/img/posts/20260629_announcement-03.png",
+          "overlay_text": "2026年、教育の形が根本から変わる",
+          "subtext": "AIネイティブ世代に求められるのは「問いを立てる力」。単なる検索能力ではなく、AIと協働して解を導き出す能力が評価の基準になります。",
+          "alt": "内容2 - 2026年、教育の形が根本から変わる"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾は「AI共生型カリキュラム」を先行導入",
+          "sub_title": "今夏より、最新の対話型AIを活用した個別最適化学習をスタート。ツールに溺れず、思考力を伸ばすif塾独自のメソッドで2040年を生き抜く力を育てます。",
+          "text_content": "if塾は「AI共生型カリキュラム」を先行導入",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-04.png",
+          "image_file": "assets/img/posts/20260629_announcement-04.png",
+          "overlay_text": "if塾は「AI共生型カリキュラム」を先行導入",
+          "subtext": "今夏より、最新の対話型AIを活用した個別最適化学習をスタート。ツールに溺れず、思考力を伸ばすif塾独自のメソッドで2040年を生き抜く力を育てます。",
+          "alt": "内容3 - if塾は「AI共生型カリキュラム」を先行"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "sub_title": "6月発表！次期学習指導要領の衝撃",
+          "text_content": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-01.png",
+          "image_file": "assets/img/posts/20260629_announcement-01.png",
+          "overlay_text": "【2026最新】AI教育が「義務」に。2040年への大転換",
+          "subtext": "6月発表！次期学習指導要領の衝撃",
+          "alt": "表紙 - 【2026最新】AI教育が「義務」に。2"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "もう「使いこなす」だけでは足りない時代へ",
+          "sub_title": "本日、2040年を見据えた指導要領の骨子案が判明。AIの活用が『推奨』から『義務』へと格上げされ、親世代の常識が通用しなくなります。",
+          "text_content": "もう「使いこなす」だけでは足りない時代へ",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-02.png",
+          "image_file": "assets/img/posts/20260629_announcement-02.png",
+          "overlay_text": "もう「使いこなす」だけでは足りない時代へ",
+          "subtext": "本日、2040年を見据えた指導要領の骨子案が判明。AIの活用が『推奨』から『義務』へと格上げされ、親世代の常識が通用しなくなります。",
+          "alt": "内容1 - もう「使いこなす」だけでは足りない時代へ"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年、教育の形が根本から変わる",
+          "sub_title": "AIネイティブ世代に求められるのは「問いを立てる力」。単なる検索能力ではなく、AIと協働して解を導き出す能力が評価の基準になります。",
+          "text_content": "2026年、教育の形が根本から変わる",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-03.png",
+          "image_file": "assets/img/posts/20260629_announcement-03.png",
+          "overlay_text": "2026年、教育の形が根本から変わる",
+          "subtext": "AIネイティブ世代に求められるのは「問いを立てる力」。単なる検索能力ではなく、AIと協働して解を導き出す能力が評価の基準になります。",
+          "alt": "内容2 - 2026年、教育の形が根本から変わる"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾は「AI共生型カリキュラム」を先行導入",
+          "sub_title": "今夏より、最新の対話型AIを活用した個別最適化学習をスタート。ツールに溺れず、思考力を伸ばすif塾独自のメソッドで2040年を生き抜く力を育てます。",
+          "text_content": "if塾は「AI共生型カリキュラム」を先行導入",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260629_announcement-04.png",
+          "image_file": "assets/img/posts/20260629_announcement-04.png",
+          "overlay_text": "if塾は「AI共生型カリキュラム」を先行導入",
+          "subtext": "今夏より、最新の対話型AIを活用した個別最適化学習をスタート。ツールに溺れず、思考力を伸ばすif塾独自のメソッドで2040年を生き抜く力を育てます。",
+          "alt": "内容3 - if塾は「AI共生型カリキュラム」を先行"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260629_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260629_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260629_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260629_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-29T12:51:48",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】AI教育が「義務」に。2",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】AI教育が「義務」に。2040年への大転換",
+            "subtext": "6月発表！次期学習指導要領の衝撃",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "もう「使いこなす」だけでは足りない時代へ",
+            "subtext": "本日、2040年を見据えた指導要領の骨子案が判明。AIの活用が『推奨』から『義務』へと格上げされ、親世代の常識が通用しなくなります。",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年、教育の形が根本から変わる",
+            "subtext": "AIネイティブ世代に求められるのは「問いを立てる力」。単なる検索能力ではなく、AIと協働して解を導き出す能力が評価の基準になります。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾は「AI共生型カリキュラム」を先行導入",
+            "subtext": "今夏より、最新の対話型AIを活用した個別最適化学習をスタート。ツールに溺れず、思考力を伸ばすif塾独自のメソッドで2040年を生き抜く力を育てます。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260628_activity",
       "post_id": "20260628_activity",
