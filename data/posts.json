@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 173,
-    "last_updated": "2026-06-29T17:35:04.542095",
+    "last_updated": "2026-06-29T23:51:50.300854",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,24 @@
     {
       "id": "20260629_announcement",
       "post_id": "20260629_announcement",
-      "created_at": "2026-06-29T17:35:04",
+      "created_at": "2026-06-29T23:51:50",
       "datetime": "2026-06-29T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
+      "theme": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
       "target_audience": "Students & Parents",
-      "title": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-      "caption": "【2026年6月】最新ニュース！\n\nお待たせいたしました！\n2026年夏季プログラミングキャンプの募集が本日スタートしました。\n\n「AIがコードを書く時代に、何を学ぶべき？」\nそんな疑問に、if塾は明確な答えを用意しています。\n\n今年のテーマは「創造的エンジニアリング」。\nAIをツールとして使いこなし、自分のアイデアを形にする力を養います。\n\n毎年、早期に満席となる人気講座です。\nお子様の可能性を広げる、特別な夏にしませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
-      "caption_text": "【2026年6月】最新ニュース！\n\nお待たせいたしました！\n2026年夏季プログラミングキャンプの募集が本日スタートしました。\n\n「AIがコードを書く時代に、何を学ぶべき？」\nそんな疑問に、if塾は明確な答えを用意しています。\n\n今年のテーマは「創造的エンジニアリング」。\nAIをツールとして使いこなし、自分のアイデアを形にする力を養います。\n\n毎年、早期に満席となる人気講座です。\nお子様の可能性を広げる、特別な夏にしませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
+      "title": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+      "caption": "【2026年6月】最新の教育トレンドをお届けします。\n\n今、教育現場では「自律型AIエージェント」の開発コースが爆発的に増えています。かつてのプログラミング教育が、今や「AIエージェント構築」へとシフトしているのをご存知ですか？\n\n最新のClaude 4.5やGemini 3 Proを活用すれば、受験勉強のスケジュール管理から、個別のリサーチ業務まで、あなたの代わりに「考えて動く」味方を作ることができます。\n\nこれからの時代に求められるのは、AIを道具として使うだけでなく、AIをマネジメントする力です。\n\nif塾では、この夏、最先端のエージェント開発を体験できるワークショップを開催予定！詳細はプロフィール欄のリンクをチェックしてくださいね。✨\n\n#if塾 #2026年 #生成AI #Claude4.5 #Gemini3Pro #AIエージェント #自律型AI #自由研究 #最新教育 #DX教育",
+      "caption_text": "【2026年6月】最新の教育トレンドをお届けします。\n\n今、教育現場では「自律型AIエージェント」の開発コースが爆発的に増えています。かつてのプログラミング教育が、今や「AIエージェント構築」へとシフトしているのをご存知ですか？\n\n最新のClaude 4.5やGemini 3 Proを活用すれば、受験勉強のスケジュール管理から、個別のリサーチ業務まで、あなたの代わりに「考えて動く」味方を作ることができます。\n\nこれからの時代に求められるのは、AIを道具として使うだけでなく、AIをマネジメントする力です。\n\nif塾では、この夏、最先端のエージェント開発を体験できるワークショップを開催予定！詳細はプロフィール欄のリンクをチェックしてくださいね。✨\n\n#if塾 #2026年 #生成AI #Claude4.5 #Gemini3Pro #AIエージェント #自律型AI #自由研究 #最新教育 #DX教育",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#プログラミングキャンプ",
-        "#夏休み宿題",
-        "#プログラミング教育",
-        "#AI教育",
-        "#自由研究",
-        "#IT教育"
+        "#生成AI",
+        "#AIエージェント",
+        "#Claude4",
+        "#Gemini3",
+        "#未来の教育",
+        "#夏休み講習"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-          "sub_title": "【6/29更新】AI時代の波に乗る最新カリキュラム",
-          "text_content": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
+          "main_title": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+          "sub_title": "【6月最新】Claude 4.5 & Gemini 3 Pro時代の学び方",
+          "text_content": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-01.png",
           "image_file": "assets/img/posts/20260629_announcement-01.png",
-          "overlay_text": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-          "subtext": "【6/29更新】AI時代の波に乗る最新カリキュラム",
-          "alt": "表紙 - 2026年最新版！夏休みプログラミング合"
+          "overlay_text": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+          "subtext": "【6月最新】Claude 4.5 & Gemini 3 Pro時代の学び方",
+          "alt": "表紙 - 2026年夏、教育が激変。自律型AIエー"
         },
         {
           "page_number": 2,
@@ -59,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ただ遊ぶだけの夏」で終わらせていませんか？",
-          "sub_title": "2026年、中学・高校の共通テストでも情報科目が激変。周りと差がつく分岐点は、この夏に「自分で作る経験」があるかどうかです。",
-          "text_content": "「ただ遊ぶだけの夏」で終わらせていませんか？",
+          "main_title": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
+          "sub_title": "プロンプトを打つだけはもう古い。2026年、学生たちは自分専用の「自律型エージェント」を構築し始めています。",
+          "text_content": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-02.png",
           "image_file": "assets/img/posts/20260629_announcement-02.png",
-          "overlay_text": "「ただ遊ぶだけの夏」で終わらせていませんか？",
-          "subtext": "2026年、中学・高校の共通テストでも情報科目が激変。周りと差がつく分岐点は、この夏に「自分で作る経験」があるかどうかです。",
-          "alt": "内容1 - 「ただ遊ぶだけの夏」で終わらせていません"
+          "overlay_text": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
+          "subtext": "プロンプトを打つだけはもう古い。2026年、学生たちは自分専用の「自律型エージェント」を構築し始めています。",
+          "alt": "内容1 - 「AIを使う」から「AIを作る」へ。夏休"
         },
         {
           "page_number": 3,
@@ -75,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
-          "sub_title": "if塾では2026年最先端の生成AIコーディング技術を導入。コードを書くだけでなく「設計・検証」ができる一生モノのスキルを身につけます。",
-          "text_content": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
+          "main_title": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
+          "sub_title": "最新モデルの推論能力向上により、複雑なタスクを自己判断で完遂するエージェント開発が中高生でも可能になりました。",
+          "text_content": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-03.png",
           "image_file": "assets/img/posts/20260629_announcement-03.png",
-          "overlay_text": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
-          "subtext": "if塾では2026年最先端の生成AIコーディング技術を導入。コードを書くだけでなく「設計・検証」ができる一生モノのスキルを身につけます。",
-          "alt": "内容2 - 最新AIツールを使いこなし、自分だけのア"
+          "overlay_text": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
+          "subtext": "最新モデルの推論能力向上により、複雑なタスクを自己判断で完遂するエージェント開発が中高生でも可能になりました。",
+          "alt": "内容2 - Claude 4.5/Gemini 3 "
         },
         {
           "page_number": 4,
@@ -91,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【8月開催】3日間でプロの思考法をマスター",
-          "sub_title": "全国4拠点＆オンラインで開催。if塾独自のメンタリングで、初心者からコンテスト入賞レベルまで一気に引き上げます。",
-          "text_content": "【8月開催】3日間でプロの思考法をマスター",
+          "main_title": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
+          "sub_title": "単なる操作スキルではなく、AIを組織化し、自分の分身を設計する「エージェント・アーキテクト」の視点を養います。",
+          "text_content": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-04.png",
           "image_file": "assets/img/posts/20260629_announcement-04.png",
-          "overlay_text": "【8月開催】3日間でプロの思考法をマスター",
-          "subtext": "全国4拠点＆オンラインで開催。if塾独自のメンタリングで、初心者からコンテスト入賞レベルまで一気に引き上げます。",
-          "alt": "内容3 - 【8月開催】3日間でプロの思考法をマスタ"
+          "overlay_text": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
+          "subtext": "単なる操作スキルではなく、AIを組織化し、自分の分身を設計する「エージェント・アーキテクト」の視点を養います。",
+          "alt": "内容3 - if塾では「AIと共創するキャリア」を先"
         },
         {
           "page_number": 5,
@@ -125,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-          "sub_title": "【6/29更新】AI時代の波に乗る最新カリキュラム",
-          "text_content": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
+          "main_title": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+          "sub_title": "【6月最新】Claude 4.5 & Gemini 3 Pro時代の学び方",
+          "text_content": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-01.png",
           "image_file": "assets/img/posts/20260629_announcement-01.png",
-          "overlay_text": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-          "subtext": "【6/29更新】AI時代の波に乗る最新カリキュラム",
-          "alt": "表紙 - 2026年最新版！夏休みプログラミング合"
+          "overlay_text": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+          "subtext": "【6月最新】Claude 4.5 & Gemini 3 Pro時代の学び方",
+          "alt": "表紙 - 2026年夏、教育が激変。自律型AIエー"
         },
         {
           "page_number": 2,
@@ -141,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「ただ遊ぶだけの夏」で終わらせていませんか？",
-          "sub_title": "2026年、中学・高校の共通テストでも情報科目が激変。周りと差がつく分岐点は、この夏に「自分で作る経験」があるかどうかです。",
-          "text_content": "「ただ遊ぶだけの夏」で終わらせていませんか？",
+          "main_title": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
+          "sub_title": "プロンプトを打つだけはもう古い。2026年、学生たちは自分専用の「自律型エージェント」を構築し始めています。",
+          "text_content": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-02.png",
           "image_file": "assets/img/posts/20260629_announcement-02.png",
-          "overlay_text": "「ただ遊ぶだけの夏」で終わらせていませんか？",
-          "subtext": "2026年、中学・高校の共通テストでも情報科目が激変。周りと差がつく分岐点は、この夏に「自分で作る経験」があるかどうかです。",
-          "alt": "内容1 - 「ただ遊ぶだけの夏」で終わらせていません"
+          "overlay_text": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
+          "subtext": "プロンプトを打つだけはもう古い。2026年、学生たちは自分専用の「自律型エージェント」を構築し始めています。",
+          "alt": "内容1 - 「AIを使う」から「AIを作る」へ。夏休"
         },
         {
           "page_number": 3,
@@ -157,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
-          "sub_title": "if塾では2026年最先端の生成AIコーディング技術を導入。コードを書くだけでなく「設計・検証」ができる一生モノのスキルを身につけます。",
-          "text_content": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
+          "main_title": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
+          "sub_title": "最新モデルの推論能力向上により、複雑なタスクを自己判断で完遂するエージェント開発が中高生でも可能になりました。",
+          "text_content": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-03.png",
           "image_file": "assets/img/posts/20260629_announcement-03.png",
-          "overlay_text": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
-          "subtext": "if塾では2026年最先端の生成AIコーディング技術を導入。コードを書くだけでなく「設計・検証」ができる一生モノのスキルを身につけます。",
-          "alt": "内容2 - 最新AIツールを使いこなし、自分だけのア"
+          "overlay_text": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
+          "subtext": "最新モデルの推論能力向上により、複雑なタスクを自己判断で完遂するエージェント開発が中高生でも可能になりました。",
+          "alt": "内容2 - Claude 4.5/Gemini 3 "
         },
         {
           "page_number": 4,
@@ -173,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "【8月開催】3日間でプロの思考法をマスター",
-          "sub_title": "全国4拠点＆オンラインで開催。if塾独自のメンタリングで、初心者からコンテスト入賞レベルまで一気に引き上げます。",
-          "text_content": "【8月開催】3日間でプロの思考法をマスター",
+          "main_title": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
+          "sub_title": "単なる操作スキルではなく、AIを組織化し、自分の分身を設計する「エージェント・アーキテクト」の視点を養います。",
+          "text_content": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260629_announcement-04.png",
           "image_file": "assets/img/posts/20260629_announcement-04.png",
-          "overlay_text": "【8月開催】3日間でプロの思考法をマスター",
-          "subtext": "全国4拠点＆オンラインで開催。if塾独自のメンタリングで、初心者からコンテスト入賞レベルまで一気に引き上げます。",
-          "alt": "内容3 - 【8月開催】3日間でプロの思考法をマスタ"
+          "overlay_text": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
+          "subtext": "単なる操作スキルではなく、AIを組織化し、自分の分身を設計する「エージェント・アーキテクト」の視点を養います。",
+          "alt": "内容3 - if塾では「AIと共創するキャリア」を先"
         },
         {
           "page_number": 5,
@@ -244,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-06-29T17:33:34",
+      "research_date": "2026-06-29T23:50:21",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年最新版！夏休みプログラミング合",
+        "cover_text": "2026年夏、教育が激変。自律型AIエー",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年最新版！夏休みプログラミング合宿、遂に募集開始！",
-            "subtext": "【6/29更新】AI時代の波に乗る最新カリキュラム",
+            "headline": "2026年夏、教育が激変。自律型AIエージェント開発コースが急増中！",
+            "subtext": "【6月最新】Claude 4.5 & Gemini 3 Pro時代の学び方",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「ただ遊ぶだけの夏」で終わらせていませんか？",
-            "subtext": "2026年、中学・高校の共通テストでも情報科目が激変。周りと差がつく分岐点は、この夏に「自分で作る経験」があるかどうかです。",
+            "headline": "「AIを使う」から「AIを作る」へ。夏休みの自由研究が高度化？",
+            "subtext": "プロンプトを打つだけはもう古い。2026年、学生たちは自分専用の「自律型エージェント」を構築し始めています。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "最新AIツールを使いこなし、自分だけのアプリを爆速開発！",
-            "subtext": "if塾では2026年最先端の生成AIコーディング技術を導入。コードを書くだけでなく「設計・検証」ができる一生モノのスキルを身につけます。",
+            "headline": "Claude 4.5/Gemini 3 Pro実装で『勝手に動くAI』が身近に。",
+            "subtext": "最新モデルの推論能力向上により、複雑なタスクを自己判断で完遂するエージェント開発が中高生でも可能になりました。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "【8月開催】3日間でプロの思考法をマスター",
-            "subtext": "全国4拠点＆オンラインで開催。if塾独自のメンタリングで、初心者からコンテスト入賞レベルまで一気に引き上げます。",
+            "headline": "if塾では「AIと共創するキャリア」を先取り。この夏、差がつく。",
+            "subtext": "単なる操作スキルではなく、AIを組織化し、自分の分身を設計する「エージェント・アーキテクト」の視点を養います。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
