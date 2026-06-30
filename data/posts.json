@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 173,
-    "last_updated": "2026-06-29T23:51:50.300854",
+    "total_posts": 174,
+    "last_updated": "2026-06-30T12:37:28.329146",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260630_education",
+      "post_id": "20260630_education",
+      "created_at": "2026-06-30T12:37:28",
+      "datetime": "2026-06-30T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+      "caption": "【2026年6月】共通テスト『情報I』の最新トレンドを解説！\n\n昨年の第1回実施から1年が経過し、出題傾向は明らかに「読解・計算重視」へとシフトしています。\n特に今月の模試の結果を見て「時間が足りない」「計算でミスをした」と焦っている受験生も多いのではないでしょうか？\n\n2年目となる2026年度入試は、知識の量ではなく「いかに速く論理を組み立てるか」の勝負です。\n\nif塾では、最新のAI解析ツールを活用したプログラミング学習と、数理的なアプローチを組み合わせた対策を提供しています。\n\n「情報の対策、何から手をつければいい？」\n「プログラミング問題がどうしても苦手…」\n\nそんな不安がある方は、ぜひ一度if塾の個別相談へ！\n夏休みに入る前の今が、逆転のチャンスです。\n\n#if塾 #2026年 #共通テスト #情報I #大学受験 #プログラミング教育 #高校生 #2026年度入試",
+      "caption_text": "【2026年6月】共通テスト『情報I』の最新トレンドを解説！\n\n昨年の第1回実施から1年が経過し、出題傾向は明らかに「読解・計算重視」へとシフトしています。\n特に今月の模試の結果を見て「時間が足りない」「計算でミスをした」と焦っている受験生も多いのではないでしょうか？\n\n2年目となる2026年度入試は、知識の量ではなく「いかに速く論理を組み立てるか」の勝負です。\n\nif塾では、最新のAI解析ツールを活用したプログラミング学習と、数理的なアプローチを組み合わせた対策を提供しています。\n\n「情報の対策、何から手をつければいい？」\n「プログラミング問題がどうしても苦手…」\n\nそんな不安がある方は、ぜひ一度if塾の個別相談へ！\n夏休みに入る前の今が、逆転のチャンスです。\n\n#if塾 #2026年 #共通テスト #情報I #大学受験 #プログラミング教育 #高校生 #2026年度入試",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#共通テスト",
+        "#情報I",
+        "#大学受験",
+        "#教育コラム",
+        "#最新入試情報"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "sub_title": "2026年6月30日更新：最新の共通テスト模試傾向から分析",
+          "text_content": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-01.png",
+          "image_file": "assets/img/posts/20260630_education-01.png",
+          "overlay_text": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "subtext": "2026年6月30日更新：最新の共通テスト模試傾向から分析",
+          "alt": "表紙 - 【2026最新】情報Iはもはや「知識」で"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「用語暗記」で安心していませんか？",
+          "sub_title": "昨年(2025年)の初回実施を経て、2年目の今年はさらに「計算量」と「アルゴリズムの複雑化」が加速。今の模試で時間が足りない受験生が続出しています。",
+          "text_content": "「用語暗記」で安心していませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-02.png",
+          "image_file": "assets/img/posts/20260630_education-02.png",
+          "overlay_text": "「用語暗記」で安心していませんか？",
+          "subtext": "昨年(2025年)の初回実施を経て、2年目の今年はさらに「計算量」と「アルゴリズムの複雑化」が加速。今の模試で時間が足りない受験生が続出しています。",
+          "alt": "内容1 - 「用語暗記」で安心していませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "sub_title": "共通テストは2年目に難化するジンクス通り、今年はプログラミングのトレース能力と統計データの解析力が問われます。ただのIT用語集はもう通用しません。",
+          "text_content": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-03.png",
+          "image_file": "assets/img/posts/20260630_education-03.png",
+          "overlay_text": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "subtext": "共通テストは2年目に難化するジンクス通り、今年はプログラミングのトレース能力と統計データの解析力が問われます。ただのIT用語集はもう通用しません。",
+          "alt": "内容2 - if塾の視点：2026年は「数理的思考」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "夏休み前にすべき「計算・論理」特化対策",
+          "sub_title": "if塾では、Pythonのコード構造を視覚化し、論理的思考を養う専用メソッドを推奨。配点が高い「アルゴリズム」の得点源化を最優先しましょう。",
+          "text_content": "夏休み前にすべき「計算・論理」特化対策",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-04.png",
+          "image_file": "assets/img/posts/20260630_education-04.png",
+          "overlay_text": "夏休み前にすべき「計算・論理」特化対策",
+          "subtext": "if塾では、Pythonのコード構造を視覚化し、論理的思考を養う専用メソッドを推奨。配点が高い「アルゴリズム」の得点源化を最優先しましょう。",
+          "alt": "内容3 - 夏休み前にすべき「計算・論理」特化対策"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "sub_title": "2026年6月30日更新：最新の共通テスト模試傾向から分析",
+          "text_content": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-01.png",
+          "image_file": "assets/img/posts/20260630_education-01.png",
+          "overlay_text": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+          "subtext": "2026年6月30日更新：最新の共通テスト模試傾向から分析",
+          "alt": "表紙 - 【2026最新】情報Iはもはや「知識」で"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「用語暗記」で安心していませんか？",
+          "sub_title": "昨年(2025年)の初回実施を経て、2年目の今年はさらに「計算量」と「アルゴリズムの複雑化」が加速。今の模試で時間が足りない受験生が続出しています。",
+          "text_content": "「用語暗記」で安心していませんか？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-02.png",
+          "image_file": "assets/img/posts/20260630_education-02.png",
+          "overlay_text": "「用語暗記」で安心していませんか？",
+          "subtext": "昨年(2025年)の初回実施を経て、2年目の今年はさらに「計算量」と「アルゴリズムの複雑化」が加速。今の模試で時間が足りない受験生が続出しています。",
+          "alt": "内容1 - 「用語暗記」で安心していませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "sub_title": "共通テストは2年目に難化するジンクス通り、今年はプログラミングのトレース能力と統計データの解析力が問われます。ただのIT用語集はもう通用しません。",
+          "text_content": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-03.png",
+          "image_file": "assets/img/posts/20260630_education-03.png",
+          "overlay_text": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+          "subtext": "共通テストは2年目に難化するジンクス通り、今年はプログラミングのトレース能力と統計データの解析力が問われます。ただのIT用語集はもう通用しません。",
+          "alt": "内容2 - if塾の視点：2026年は「数理的思考」"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "夏休み前にすべき「計算・論理」特化対策",
+          "sub_title": "if塾では、Pythonのコード構造を視覚化し、論理的思考を養う専用メソッドを推奨。配点が高い「アルゴリズム」の得点源化を最優先しましょう。",
+          "text_content": "夏休み前にすべき「計算・論理」特化対策",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260630_education-04.png",
+          "image_file": "assets/img/posts/20260630_education-04.png",
+          "overlay_text": "夏休み前にすべき「計算・論理」特化対策",
+          "subtext": "if塾では、Pythonのコード構造を視覚化し、論理的思考を養う専用メソッドを推奨。配点が高い「アルゴリズム」の得点源化を最優先しましょう。",
+          "alt": "内容3 - 夏休み前にすべき「計算・論理」特化対策"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260630_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260630_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260630_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260630_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-06-30T12:36:02",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】情報Iはもはや「知識」で",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】情報Iはもはや「知識」では解けない。2年目の激変と対策",
+            "subtext": "2026年6月30日更新：最新の共通テスト模試傾向から分析",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「用語暗記」で安心していませんか？",
+            "subtext": "昨年(2025年)の初回実施を経て、2年目の今年はさらに「計算量」と「アルゴリズムの複雑化」が加速。今の模試で時間が足りない受験生が続出しています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "if塾の視点：2026年は「数理的思考」が合否を分ける",
+            "subtext": "共通テストは2年目に難化するジンクス通り、今年はプログラミングのトレース能力と統計データの解析力が問われます。ただのIT用語集はもう通用しません。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "夏休み前にすべき「計算・論理」特化対策",
+            "subtext": "if塾では、Pythonのコード構造を視覚化し、論理的思考を養う専用メソッドを推奨。配点が高い「アルゴリズム」の得点源化を最優先しましょう。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260629_announcement",
       "post_id": "20260629_announcement",
