@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 175,
-    "last_updated": "2026-07-01T16:57:38.291553",
+    "last_updated": "2026-07-01T22:37:19.127466",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260701_development",
       "post_id": "20260701_development",
-      "created_at": "2026-07-01T16:57:38",
+      "created_at": "2026-07-01T22:37:19",
       "datetime": "2026-07-01T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+      "theme": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
       "target_audience": "Students & Parents",
-      "title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-      "caption": "【2026年7月】最新のAIトレンドをアップデート！\n\n「AIに何を頼めばいいかわからない」「指示を出すのが面倒」\nそんな悩みは、2026年現在の「自律型AIエージェント」が解決します。\n\nこれまでのAIは、一問一答形式の「ツール」でした。\nしかし今、AIは自ら考え、判断し、実行する「パートナー」へと進化しています。\n\n例えば「夏休みの自由研究のスケジュールを立てて、必要な資料を集めて、下書きまでやっておいて」という指示だけで、AIが勝手に作業を完了させてくれる世界です。\n\nif塾では、この最新テクノロジーを「使う」だけでなく、自らの手で「開発する」カリキュラムを展開中。\n\nこの夏、AIに使われるのではなく、AIを乗りこなすスキルを手に取りませんか？\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #AIエージェント #2026年 #最新技術 #自律型AI #プログラミング教育 #自由研究 #DX",
-      "caption_text": "【2026年7月】最新のAIトレンドをアップデート！\n\n「AIに何を頼めばいいかわからない」「指示を出すのが面倒」\nそんな悩みは、2026年現在の「自律型AIエージェント」が解決します。\n\nこれまでのAIは、一問一答形式の「ツール」でした。\nしかし今、AIは自ら考え、判断し、実行する「パートナー」へと進化しています。\n\n例えば「夏休みの自由研究のスケジュールを立てて、必要な資料を集めて、下書きまでやっておいて」という指示だけで、AIが勝手に作業を完了させてくれる世界です。\n\nif塾では、この最新テクノロジーを「使う」だけでなく、自らの手で「開発する」カリキュラムを展開中。\n\nこの夏、AIに使われるのではなく、AIを乗りこなすスキルを手に取りませんか？\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #AIエージェント #2026年 #最新技術 #自律型AI #プログラミング教育 #自由研究 #DX",
+      "title": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+      "caption": "【2026年7月】最新アップデートのお知らせ✨\n\nいよいよ夏休みが始まりますが、今年の「自律型AIエージェント」は一味違います。\n\nこれまでのAIは「問いかけ」に答えるだけでしたが、2026年の最新技術では、AIが自ら目的を理解し、逆算して行動する『自走モード』が標準になりました。\n\n「宿題どうなってるの？」と聞く前に、AIが子供の進捗に合わせて最適なステップを提案し、時には必要な資料をネットから自動でリサーチして整理してくれます。\n\nif塾では、この最新ツールを使って『指示待ち人間』から脱却する夏期ワークショップを開催中！\n\n「AIを使いこなす側」になるための第一歩を、この夏に踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！🔍",
+      "caption_text": "【2026年7月】最新アップデートのお知らせ✨\n\nいよいよ夏休みが始まりますが、今年の「自律型AIエージェント」は一味違います。\n\nこれまでのAIは「問いかけ」に答えるだけでしたが、2026年の最新技術では、AIが自ら目的を理解し、逆算して行動する『自走モード』が標準になりました。\n\n「宿題どうなってるの？」と聞く前に、AIが子供の進捗に合わせて最適なステップを提案し、時には必要な資料をネットから自動でリサーチして整理してくれます。\n\nif塾では、この最新ツールを使って『指示待ち人間』から脱却する夏期ワークショップを開催中！\n\n「AIを使いこなす側」になるための第一歩を、この夏に踏み出しませんか？\n\n詳細はプロフィールのリンクをチェック！🔍",
       "hashtags": [
-        "if塾",
-        "2026年",
-        "AIエージェント",
-        "最新テクノロジー",
-        "自律型AI",
-        "プログラミング学習",
-        "夏休み"
+        "#if塾",
+        "#2026年",
+        "#自律型AIエージェント",
+        "#自走型学習",
+        "#AI教育",
+        "#最新テック",
+        "#夏休みの宿題",
+        "#指示待ち脱却"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-          "sub_title": "7月の最新開発ニュース：自分で考えて完遂するAI",
-          "text_content": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "main_title": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+          "sub_title": "2026年7月最新｜if塾が開発した自律学習支援システム",
+          "text_content": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-01.png",
           "image_file": "assets/img/posts/20260701_development-01.png",
-          "overlay_text": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-          "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
-          "alt": "表紙 - 指示はもう不要？2026年、AIは「自律"
+          "overlay_text": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+          "subtext": "2026年7月最新｜if塾が開発した自律学習支援システム",
+          "alt": "表紙 - 指示待ちはもう古い。2026年、自律型A"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」に限界を感じていませんか？",
-          "sub_title": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
-          "text_content": "「指示待ちAI」に限界を感じていませんか？",
+          "main_title": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
+          "sub_title": "夏休みの宿題や自由研究、進まない原因は『手順をAIに聞かないと動けない』依存状態にありました。",
+          "text_content": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-02.png",
           "image_file": "assets/img/posts/20260701_development-02.png",
-          "overlay_text": "「指示待ちAI」に限界を感じていませんか？",
-          "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
-          "alt": "内容1 - 「指示待ちAI」に限界を感じていませんか"
+          "overlay_text": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
+          "subtext": "夏休みの宿題や自由研究、進まない原因は『手順をAIに聞かないと動けない』依存状態にありました。",
+          "alt": "内容1 - 「次は何をすればいい？」その質問、もう終"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ゴールを伝えるだけ。自律型エージェントの衝撃",
-          "sub_title": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
-          "text_content": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "main_title": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
+          "sub_title": "最新のAuto-Orchestration技術を搭載。2026年夏の最新モデルは、状況判断から実行まで自走します。",
+          "text_content": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-03.png",
           "image_file": "assets/img/posts/20260701_development-03.png",
-          "overlay_text": "ゴールを伝えるだけ。自律型エージェントの衝撃",
-          "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
-          "alt": "内容2 - ゴールを伝えるだけ。自律型エージェントの"
+          "overlay_text": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
+          "subtext": "最新のAuto-Orchestration技術を搭載。2026年夏の最新モデルは、状況判断から実行まで自走します。",
+          "alt": "内容2 - 目標を伝えるだけで、AIが自らタスクを生"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「if塾」なら、AIを動かす側になれる",
-          "sub_title": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
-          "text_content": "「if塾」なら、AIを動かす側になれる",
+          "main_title": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
+          "sub_title": "if塾のAIエージェントを使えば、学習計画の修正もAIが自律判断。親の負担を減らし、子の『やり抜く力』を育てます。",
+          "text_content": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-04.png",
           "image_file": "assets/img/posts/20260701_development-04.png",
-          "overlay_text": "「if塾」なら、AIを動かす側になれる",
-          "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
-          "alt": "内容3 - 「if塾」なら、AIを動かす側になれる"
+          "overlay_text": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
+          "subtext": "if塾のAIエージェントを使えば、学習計画の修正もAIが自律判断。親の負担を減らし、子の『やり抜く力』を育てます。",
+          "alt": "内容3 - 保護者は見守るだけ。子供は「主体性」を手"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-          "sub_title": "7月の最新開発ニュース：自分で考えて完遂するAI",
-          "text_content": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "main_title": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+          "sub_title": "2026年7月最新｜if塾が開発した自律学習支援システム",
+          "text_content": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-01.png",
           "image_file": "assets/img/posts/20260701_development-01.png",
-          "overlay_text": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-          "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
-          "alt": "表紙 - 指示はもう不要？2026年、AIは「自律"
+          "overlay_text": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+          "subtext": "2026年7月最新｜if塾が開発した自律学習支援システム",
+          "alt": "表紙 - 指示待ちはもう古い。2026年、自律型A"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「指示待ちAI」に限界を感じていませんか？",
-          "sub_title": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
-          "text_content": "「指示待ちAI」に限界を感じていませんか？",
+          "main_title": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
+          "sub_title": "夏休みの宿題や自由研究、進まない原因は『手順をAIに聞かないと動けない』依存状態にありました。",
+          "text_content": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-02.png",
           "image_file": "assets/img/posts/20260701_development-02.png",
-          "overlay_text": "「指示待ちAI」に限界を感じていませんか？",
-          "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
-          "alt": "内容1 - 「指示待ちAI」に限界を感じていませんか"
+          "overlay_text": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
+          "subtext": "夏休みの宿題や自由研究、進まない原因は『手順をAIに聞かないと動けない』依存状態にありました。",
+          "alt": "内容1 - 「次は何をすればいい？」その質問、もう終"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "ゴールを伝えるだけ。自律型エージェントの衝撃",
-          "sub_title": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
-          "text_content": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "main_title": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
+          "sub_title": "最新のAuto-Orchestration技術を搭載。2026年夏の最新モデルは、状況判断から実行まで自走します。",
+          "text_content": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-03.png",
           "image_file": "assets/img/posts/20260701_development-03.png",
-          "overlay_text": "ゴールを伝えるだけ。自律型エージェントの衝撃",
-          "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
-          "alt": "内容2 - ゴールを伝えるだけ。自律型エージェントの"
+          "overlay_text": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
+          "subtext": "最新のAuto-Orchestration技術を搭載。2026年夏の最新モデルは、状況判断から実行まで自走します。",
+          "alt": "内容2 - 目標を伝えるだけで、AIが自らタスクを生"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「if塾」なら、AIを動かす側になれる",
-          "sub_title": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
-          "text_content": "「if塾」なら、AIを動かす側になれる",
+          "main_title": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
+          "sub_title": "if塾のAIエージェントを使えば、学習計画の修正もAIが自律判断。親の負担を減らし、子の『やり抜く力』を育てます。",
+          "text_content": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-04.png",
           "image_file": "assets/img/posts/20260701_development-04.png",
-          "overlay_text": "「if塾」なら、AIを動かす側になれる",
-          "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
-          "alt": "内容3 - 「if塾」なら、AIを動かす側になれる"
+          "overlay_text": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
+          "subtext": "if塾のAIエージェントを使えば、学習計画の修正もAIが自律判断。親の負担を減らし、子の『やり抜く力』を育てます。",
+          "alt": "内容3 - 保護者は見守るだけ。子供は「主体性」を手"
         },
         {
           "page_number": 5,
@@ -228,21 +229,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
           "AI",
-          "Webアプリ開発"
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-01T16:56:12",
+      "research_date": "2026-07-01T22:35:50",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "指示はもう不要？2026年、AIは「自律",
+        "cover_text": "指示待ちはもう古い。2026年、自律型A",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "指示はもう不要？2026年、AIは「自律エージェント」へ",
-            "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
+            "headline": "指示待ちはもう古い。2026年、自律型AIエージェントが「思考」する夏へ。",
+            "subtext": "2026年7月最新｜if塾が開発した自律学習支援システム",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -266,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「指示待ちAI」に限界を感じていませんか？",
-            "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
+            "headline": "「次は何をすればいい？」その質問、もう終わりにしませんか？",
+            "subtext": "夏休みの宿題や自由研究、進まない原因は『手順をAIに聞かないと動けない』依存状態にありました。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -275,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "ゴールを伝えるだけ。自律型エージェントの衝撃",
-            "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
+            "headline": "目標を伝えるだけで、AIが自らタスクを生成・実行する。",
+            "subtext": "最新のAuto-Orchestration技術を搭載。2026年夏の最新モデルは、状況判断から実行まで自走します。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -284,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「if塾」なら、AIを動かす側になれる",
-            "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
+            "headline": "保護者は見守るだけ。子供は「主体性」を手に入れる。",
+            "subtext": "if塾のAIエージェントを使えば、学習計画の修正もAIが自律判断。親の負担を減らし、子の『やり抜く力』を育てます。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
