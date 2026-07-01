@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 175,
-    "last_updated": "2026-07-01T12:47:22.410913",
+    "last_updated": "2026-07-01T16:57:38.291553",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260701_development",
       "post_id": "20260701_development",
-      "created_at": "2026-07-01T12:47:22",
+      "created_at": "2026-07-01T16:57:38",
       "datetime": "2026-07-01T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "Pythonで創る！自律型AIマルチエージェントの衝撃",
+      "theme": "指示はもう不要？2026年、AIは「自律エージェント」へ",
       "target_audience": "Students & Parents",
-      "title": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-      "caption": "【2026年7月】最新の開発トレンドをお届け！\n\n皆さん、こんにちは！if塾です。☀️\n2026年の夏、エンジニア界隈で最も熱いトピックは「自律型AIエージェント（Multi-Agent Systems）」です。\n\nこれまでは人間が1つずつプロンプトを打っていましたが、今はPythonを使って「AIのチーム」を作る時代。\n\n✅ 役割を与えられた複数のAIが勝手に会議\n✅ 複雑なバグ修正もAI同士で解決\n✅ 24時間止まらない開発パイプライン\n\nif塾では、この最新技術を中高生でも扱えるカリキュラムに落とし込んでいます。この夏、AIに使われるのではなく、AIを指揮する側に回ってみませんか？\n\n詳細はプロフィールのリンクからチェック！📩",
-      "caption_text": "【2026年7月】最新の開発トレンドをお届け！\n\n皆さん、こんにちは！if塾です。☀️\n2026年の夏、エンジニア界隈で最も熱いトピックは「自律型AIエージェント（Multi-Agent Systems）」です。\n\nこれまでは人間が1つずつプロンプトを打っていましたが、今はPythonを使って「AIのチーム」を作る時代。\n\n✅ 役割を与えられた複数のAIが勝手に会議\n✅ 複雑なバグ修正もAI同士で解決\n✅ 24時間止まらない開発パイプライン\n\nif塾では、この最新技術を中高生でも扱えるカリキュラムに落とし込んでいます。この夏、AIに使われるのではなく、AIを指揮する側に回ってみませんか？\n\n詳細はプロフィールのリンクからチェック！📩",
+      "title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+      "caption": "【2026年7月】最新のAIトレンドをアップデート！\n\n「AIに何を頼めばいいかわからない」「指示を出すのが面倒」\nそんな悩みは、2026年現在の「自律型AIエージェント」が解決します。\n\nこれまでのAIは、一問一答形式の「ツール」でした。\nしかし今、AIは自ら考え、判断し、実行する「パートナー」へと進化しています。\n\n例えば「夏休みの自由研究のスケジュールを立てて、必要な資料を集めて、下書きまでやっておいて」という指示だけで、AIが勝手に作業を完了させてくれる世界です。\n\nif塾では、この最新テクノロジーを「使う」だけでなく、自らの手で「開発する」カリキュラムを展開中。\n\nこの夏、AIに使われるのではなく、AIを乗りこなすスキルを手に取りませんか？\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #AIエージェント #2026年 #最新技術 #自律型AI #プログラミング教育 #自由研究 #DX",
+      "caption_text": "【2026年7月】最新のAIトレンドをアップデート！\n\n「AIに何を頼めばいいかわからない」「指示を出すのが面倒」\nそんな悩みは、2026年現在の「自律型AIエージェント」が解決します。\n\nこれまでのAIは、一問一答形式の「ツール」でした。\nしかし今、AIは自ら考え、判断し、実行する「パートナー」へと進化しています。\n\n例えば「夏休みの自由研究のスケジュールを立てて、必要な資料を集めて、下書きまでやっておいて」という指示だけで、AIが勝手に作業を完了させてくれる世界です。\n\nif塾では、この最新テクノロジーを「使う」だけでなく、自らの手で「開発する」カリキュラムを展開中。\n\nこの夏、AIに使われるのではなく、AIを乗りこなすスキルを手に取りませんか？\n\n詳細はプロフィールのリンクからチェック！🔗\n\n#if塾 #AIエージェント #2026年 #最新技術 #自律型AI #プログラミング教育 #自由研究 #DX",
       "hashtags": [
-        "#if塾",
-        "#2026年",
-        "#Python",
-        "#自律型AIエージェント",
-        "#AI開発",
-        "#自由研究2026",
-        "#マルチエージェントシステム",
-        "#最新テック"
+        "if塾",
+        "2026年",
+        "AIエージェント",
+        "最新テクノロジー",
+        "自律型AI",
+        "プログラミング学習",
+        "夏休み"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-          "sub_title": "2026年7月最新：もうAIは『指示待ち』を卒業した",
-          "text_content": "Pythonで創る！自律型AIマルチエージェントの衝撃",
+          "main_title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "sub_title": "7月の最新開発ニュース：自分で考えて完遂するAI",
+          "text_content": "指示はもう不要？2026年、AIは「自律エージェント」へ",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-01.png",
           "image_file": "assets/img/posts/20260701_development-01.png",
-          "overlay_text": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-          "subtext": "2026年7月最新：もうAIは『指示待ち』を卒業した",
-          "alt": "表紙 - Pythonで創る！自律型AIマルチエー"
+          "overlay_text": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
+          "alt": "表紙 - 指示はもう不要？2026年、AIは「自律"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
-          "sub_title": "1つずつ指示を出す時代は終わりました。2026年のトレンドは、AI同士に議論させて全自動でタスクを完結させることです。",
-          "text_content": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
+          "main_title": "「指示待ちAI」に限界を感じていませんか？",
+          "sub_title": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
+          "text_content": "「指示待ちAI」に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-02.png",
           "image_file": "assets/img/posts/20260701_development-02.png",
-          "overlay_text": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
-          "subtext": "1つずつ指示を出す時代は終わりました。2026年のトレンドは、AI同士に議論させて全自動でタスクを完結させることです。",
-          "alt": "内容1 - 夏休みの自由研究、まだ『プロンプト入力』"
+          "overlay_text": "「指示待ちAI」に限界を感じていませんか？",
+          "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
+          "alt": "内容1 - 「指示待ちAI」に限界を感じていませんか"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Python×最新Frameworkで「自律型チーム」を開発",
-          "sub_title": "LangChain 5.0や最新の自律型ライブラリを駆使。リサーチ担当、執筆担当、デバッグ担当のAIが同期し、寝ている間にアプリが完成します。",
-          "text_content": "Python×最新Frameworkで「自律型チーム」を開発",
+          "main_title": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "sub_title": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
+          "text_content": "ゴールを伝えるだけ。自律型エージェントの衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-03.png",
           "image_file": "assets/img/posts/20260701_development-03.png",
-          "overlay_text": "Python×最新Frameworkで「自律型チーム」を開発",
-          "subtext": "LangChain 5.0や最新の自律型ライブラリを駆使。リサーチ担当、執筆担当、デバッグ担当のAIが同期し、寝ている間にアプリが完成します。",
-          "alt": "内容2 - Python×最新Frameworkで「"
+          "overlay_text": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
+          "alt": "内容2 - ゴールを伝えるだけ。自律型エージェントの"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾なら「AIを使いこなす側」の視点が身につく",
-          "sub_title": "単なるコーディングではなく、複数のAIを指揮する『オーケストレーション能力』を習得。2026年の入試や就職で最も求められるスキルです。",
-          "text_content": "if塾なら「AIを使いこなす側」の視点が身につく",
+          "main_title": "「if塾」なら、AIを動かす側になれる",
+          "sub_title": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
+          "text_content": "「if塾」なら、AIを動かす側になれる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-04.png",
           "image_file": "assets/img/posts/20260701_development-04.png",
-          "overlay_text": "if塾なら「AIを使いこなす側」の視点が身につく",
-          "subtext": "単なるコーディングではなく、複数のAIを指揮する『オーケストレーション能力』を習得。2026年の入試や就職で最も求められるスキルです。",
-          "alt": "内容3 - if塾なら「AIを使いこなす側」の視点が"
+          "overlay_text": "「if塾」なら、AIを動かす側になれる",
+          "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
+          "alt": "内容3 - 「if塾」なら、AIを動かす側になれる"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-          "sub_title": "2026年7月最新：もうAIは『指示待ち』を卒業した",
-          "text_content": "Pythonで創る！自律型AIマルチエージェントの衝撃",
+          "main_title": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "sub_title": "7月の最新開発ニュース：自分で考えて完遂するAI",
+          "text_content": "指示はもう不要？2026年、AIは「自律エージェント」へ",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-01.png",
           "image_file": "assets/img/posts/20260701_development-01.png",
-          "overlay_text": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-          "subtext": "2026年7月最新：もうAIは『指示待ち』を卒業した",
-          "alt": "表紙 - Pythonで創る！自律型AIマルチエー"
+          "overlay_text": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+          "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
+          "alt": "表紙 - 指示はもう不要？2026年、AIは「自律"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
-          "sub_title": "1つずつ指示を出す時代は終わりました。2026年のトレンドは、AI同士に議論させて全自動でタスクを完結させることです。",
-          "text_content": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
+          "main_title": "「指示待ちAI」に限界を感じていませんか？",
+          "sub_title": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
+          "text_content": "「指示待ちAI」に限界を感じていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-02.png",
           "image_file": "assets/img/posts/20260701_development-02.png",
-          "overlay_text": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
-          "subtext": "1つずつ指示を出す時代は終わりました。2026年のトレンドは、AI同士に議論させて全自動でタスクを完結させることです。",
-          "alt": "内容1 - 夏休みの自由研究、まだ『プロンプト入力』"
+          "overlay_text": "「指示待ちAI」に限界を感じていませんか？",
+          "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
+          "alt": "内容1 - 「指示待ちAI」に限界を感じていませんか"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Python×最新Frameworkで「自律型チーム」を開発",
-          "sub_title": "LangChain 5.0や最新の自律型ライブラリを駆使。リサーチ担当、執筆担当、デバッグ担当のAIが同期し、寝ている間にアプリが完成します。",
-          "text_content": "Python×最新Frameworkで「自律型チーム」を開発",
+          "main_title": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "sub_title": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
+          "text_content": "ゴールを伝えるだけ。自律型エージェントの衝撃",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-03.png",
           "image_file": "assets/img/posts/20260701_development-03.png",
-          "overlay_text": "Python×最新Frameworkで「自律型チーム」を開発",
-          "subtext": "LangChain 5.0や最新の自律型ライブラリを駆使。リサーチ担当、執筆担当、デバッグ担当のAIが同期し、寝ている間にアプリが完成します。",
-          "alt": "内容2 - Python×最新Frameworkで「"
+          "overlay_text": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+          "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
+          "alt": "内容2 - ゴールを伝えるだけ。自律型エージェントの"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾なら「AIを使いこなす側」の視点が身につく",
-          "sub_title": "単なるコーディングではなく、複数のAIを指揮する『オーケストレーション能力』を習得。2026年の入試や就職で最も求められるスキルです。",
-          "text_content": "if塾なら「AIを使いこなす側」の視点が身につく",
+          "main_title": "「if塾」なら、AIを動かす側になれる",
+          "sub_title": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
+          "text_content": "「if塾」なら、AIを動かす側になれる",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260701_development-04.png",
           "image_file": "assets/img/posts/20260701_development-04.png",
-          "overlay_text": "if塾なら「AIを使いこなす側」の視点が身につく",
-          "subtext": "単なるコーディングではなく、複数のAIを指揮する『オーケストレーション能力』を習得。2026年の入試や就職で最も求められるスキルです。",
-          "alt": "内容3 - if塾なら「AIを使いこなす側」の視点が"
+          "overlay_text": "「if塾」なら、AIを動かす側になれる",
+          "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
+          "alt": "内容3 - 「if塾」なら、AIを動かす側になれる"
         },
         {
           "page_number": 5,
@@ -243,7 +242,7 @@
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-01T12:45:58",
+      "research_date": "2026-07-01T16:56:12",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Pythonで創る！自律型AIマルチエー",
+        "cover_text": "指示はもう不要？2026年、AIは「自律",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Pythonで創る！自律型AIマルチエージェントの衝撃",
-            "subtext": "2026年7月最新：もうAIは『指示待ち』を卒業した",
+            "headline": "指示はもう不要？2026年、AIは「自律エージェント」へ",
+            "subtext": "7月の最新開発ニュース：自分で考えて完遂するAI",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "夏休みの自由研究、まだ『プロンプト入力』で消耗してる？",
-            "subtext": "1つずつ指示を出す時代は終わりました。2026年のトレンドは、AI同士に議論させて全自動でタスクを完結させることです。",
+            "headline": "「指示待ちAI」に限界を感じていませんか？",
+            "subtext": "プロンプトを細かく書く手間、ステップごとの確認…夏休み前の忙しい時期に、AIの操作だけで疲弊するのはもう終わりです。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Python×最新Frameworkで「自律型チーム」を開発",
-            "subtext": "LangChain 5.0や最新の自律型ライブラリを駆使。リサーチ担当、執筆担当、デバッグ担当のAIが同期し、寝ている間にアプリが完成します。",
+            "headline": "ゴールを伝えるだけ。自律型エージェントの衝撃",
+            "subtext": "2026年夏の最新モデルは、目的を伝えるとAIが自分でタスクを分解。ブラウジング、コード実行、外部アプリ連携を自動でループし、完遂まで進めます。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾なら「AIを使いこなす側」の視点が身につく",
-            "subtext": "単なるコーディングではなく、複数のAIを指揮する『オーケストレーション能力』を習得。2026年の入試や就職で最も求められるスキルです。",
+            "headline": "「if塾」なら、AIを動かす側になれる",
+            "subtext": "自由研究や学習計画も、AIエージェントに『伴走』させる時代。ツールを使うだけでなく、この仕組みを自分で構築するスキルを身につけよう。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
