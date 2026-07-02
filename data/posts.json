@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 175,
-    "last_updated": "2026-07-01T22:37:19.127466",
+    "total_posts": 176,
+    "last_updated": "2026-07-02T12:32:53.681680",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260702_ai_column",
+      "post_id": "20260702_ai_column",
+      "created_at": "2026-07-02T12:32:53",
+      "datetime": "2026-07-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+      "target_audience": "Students & Parents",
+      "title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+      "caption": "【2026年7月】\n期末試験の真っ只中、あるいは夏休みの計画を立てている時期ですね。\n\n2026年、教育業界を揺るがしているのがGeminiの最新機能『Study Notebooks』です。これまでの「検索するAI」から、個人の教材を理解して教える「伴走型AI」へと進化しました。\n\n「塾に通わせる時間がない」「家で一人だと集中できない」\nそんな悩みを持つ保護者の皆様、このツールは最強の味方になります。\n\nしかし、大切なのはツールの性能ではなく「どう使うか」です。if塾では、AI時代だからこそ必要な『本質的な思考力』を重視しています。\n\nこの夏、最新AIを味方につけて一歩先へ進みませんか？\n\n詳細は公式LINEにて配信中！\nプロフィール(@if_juku)のリンクからチェックしてくださいね。✨",
+      "caption_text": "【2026年7月】\n期末試験の真っ只中、あるいは夏休みの計画を立てている時期ですね。\n\n2026年、教育業界を揺るがしているのがGeminiの最新機能『Study Notebooks』です。これまでの「検索するAI」から、個人の教材を理解して教える「伴走型AI」へと進化しました。\n\n「塾に通わせる時間がない」「家で一人だと集中できない」\nそんな悩みを持つ保護者の皆様、このツールは最強の味方になります。\n\nしかし、大切なのはツールの性能ではなく「どう使うか」です。if塾では、AI時代だからこそ必要な『本質的な思考力』を重視しています。\n\nこの夏、最新AIを味方につけて一歩先へ進みませんか？\n\n詳細は公式LINEにて配信中！\nプロフィール(@if_juku)のリンクからチェックしてくださいね。✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#Gemini",
+        "#StudyNotebooks",
+        "#AI家庭教師",
+        "#教育ICT",
+        "#中学受験2027",
+        "#高校受験2027",
+        "#DX教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "sub_title": "7月の期末試験・夏休み対策はこれで変わる",
+          "text_content": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-01.png",
+          "image_file": "assets/img/posts/20260702_ai_column-01.png",
+          "overlay_text": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "subtext": "7月の期末試験・夏休み対策はこれで変わる",
+          "alt": "表紙 - 【2026最新】Geminiの「Stud"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "sub_title": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+          "text_content": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-02.png",
+          "image_file": "assets/img/posts/20260702_ai_column-02.png",
+          "overlay_text": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+          "alt": "内容1 - まだ問題集を解くだけ？2026年の勉強は"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "sub_title": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+          "text_content": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-03.png",
+          "image_file": "assets/img/posts/20260702_ai_column-03.png",
+          "overlay_text": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+          "alt": "内容2 - 教科書を取り込むだけ。自分専用の「超・解"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "sub_title": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+          "text_content": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-04.png",
+          "image_file": "assets/img/posts/20260702_ai_column-04.png",
+          "overlay_text": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+          "alt": "内容3 - if塾が教える！AIを「思考の杖」にする"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "sub_title": "7月の期末試験・夏休み対策はこれで変わる",
+          "text_content": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-01.png",
+          "image_file": "assets/img/posts/20260702_ai_column-01.png",
+          "overlay_text": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "subtext": "7月の期末試験・夏休み対策はこれで変わる",
+          "alt": "表紙 - 【2026最新】Geminiの「Stud"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "sub_title": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+          "text_content": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-02.png",
+          "image_file": "assets/img/posts/20260702_ai_column-02.png",
+          "overlay_text": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+          "alt": "内容1 - まだ問題集を解くだけ？2026年の勉強は"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "sub_title": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+          "text_content": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-03.png",
+          "image_file": "assets/img/posts/20260702_ai_column-03.png",
+          "overlay_text": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+          "alt": "内容2 - 教科書を取り込むだけ。自分専用の「超・解"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "sub_title": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+          "text_content": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260702_ai_column-04.png",
+          "image_file": "assets/img/posts/20260702_ai_column-04.png",
+          "overlay_text": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+          "alt": "内容3 - if塾が教える！AIを「思考の杖」にする"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260702_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260702_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260702_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260702_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-07-02T12:31:30",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "【2026最新】Geminiの「Stud",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+            "subtext": "7月の期末試験・夏休み対策はこれで変わる",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+            "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+            "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+            "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260701_development",
       "post_id": "20260701_development",
