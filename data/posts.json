@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 176,
-    "last_updated": "2026-07-02T12:32:53.681680",
+    "last_updated": "2026-07-02T15:57:17.452573",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,22 @@
     {
       "id": "20260702_ai_column",
       "post_id": "20260702_ai_column",
-      "created_at": "2026-07-02T12:32:53",
+      "created_at": "2026-07-02T15:57:17",
       "datetime": "2026-07-02T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+      "theme": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
       "target_audience": "Students & Parents",
-      "title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-      "caption": "【2026年7月】\n期末試験の真っ只中、あるいは夏休みの計画を立てている時期ですね。\n\n2026年、教育業界を揺るがしているのがGeminiの最新機能『Study Notebooks』です。これまでの「検索するAI」から、個人の教材を理解して教える「伴走型AI」へと進化しました。\n\n「塾に通わせる時間がない」「家で一人だと集中できない」\nそんな悩みを持つ保護者の皆様、このツールは最強の味方になります。\n\nしかし、大切なのはツールの性能ではなく「どう使うか」です。if塾では、AI時代だからこそ必要な『本質的な思考力』を重視しています。\n\nこの夏、最新AIを味方につけて一歩先へ進みませんか？\n\n詳細は公式LINEにて配信中！\nプロフィール(@if_juku)のリンクからチェックしてくださいね。✨",
-      "caption_text": "【2026年7月】\n期末試験の真っ只中、あるいは夏休みの計画を立てている時期ですね。\n\n2026年、教育業界を揺るがしているのがGeminiの最新機能『Study Notebooks』です。これまでの「検索するAI」から、個人の教材を理解して教える「伴走型AI」へと進化しました。\n\n「塾に通わせる時間がない」「家で一人だと集中できない」\nそんな悩みを持つ保護者の皆様、このツールは最強の味方になります。\n\nしかし、大切なのはツールの性能ではなく「どう使うか」です。if塾では、AI時代だからこそ必要な『本質的な思考力』を重視しています。\n\nこの夏、最新AIを味方につけて一歩先へ進みませんか？\n\n詳細は公式LINEにて配信中！\nプロフィール(@if_juku)のリンクからチェックしてくださいね。✨",
+      "title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+      "caption": "【2026年7月】夏期講習の準備で忙しい教育関係者・保護者の皆様へ。\n\nAIは今「チャットで聞くもの」から「勝手に動いてくれるもの」へと進化しました。\n今回ご紹介した『Agentic RAG』は、膨大な塾内データから必要な情報を自ら探し出し、次のアクションまで実行する最新技術です。\n\n例えば、生徒の苦手分析から、その子専用の夏期カリキュラムをAIが自律的に作成する。そんなことが2026年の今、当たり前になりつつあります。\n\nテクノロジーに事務を任せ、私たちはもっと「対話」を大切にしませんか？\n\nif塾では、最新AIを活用した新しい教育の形を提案しています。\n詳細はプロフィールからチェック！\n\n#if塾 #2026年 #AgenticRAG #AI教育 #業務自動化 #自律型AIエージェント #夏期講習 #DX",
+      "caption_text": "【2026年7月】夏期講習の準備で忙しい教育関係者・保護者の皆様へ。\n\nAIは今「チャットで聞くもの」から「勝手に動いてくれるもの」へと進化しました。\n今回ご紹介した『Agentic RAG』は、膨大な塾内データから必要な情報を自ら探し出し、次のアクションまで実行する最新技術です。\n\n例えば、生徒の苦手分析から、その子専用の夏期カリキュラムをAIが自律的に作成する。そんなことが2026年の今、当たり前になりつつあります。\n\nテクノロジーに事務を任せ、私たちはもっと「対話」を大切にしませんか？\n\nif塾では、最新AIを活用した新しい教育の形を提案しています。\n詳細はプロフィールからチェック！\n\n#if塾 #2026年 #AgenticRAG #AI教育 #業務自動化 #自律型AIエージェント #夏期講習 #DX",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#Gemini",
-        "#StudyNotebooks",
-        "#AI家庭教師",
-        "#教育ICT",
-        "#中学受験2027",
-        "#高校受験2027",
-        "#DX教育"
+        "#AgenticRAG",
+        "#AIエージェント",
+        "#業務効率化",
+        "#エデュテック"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-          "sub_title": "7月の期末試験・夏休み対策はこれで変わる",
-          "text_content": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "main_title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "sub_title": "7月の最新情報：業務自動化の常識が変わる",
+          "text_content": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-01.png",
           "image_file": "assets/img/posts/20260702_ai_column-01.png",
-          "overlay_text": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-          "subtext": "7月の期末試験・夏休み対策はこれで変わる",
-          "alt": "表紙 - 【2026最新】Geminiの「Stud"
+          "overlay_text": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "subtext": "7月の最新情報：業務自動化の常識が変わる",
+          "alt": "表紙 - 自習室はAIが回す時代？2026年夏のA"
         },
         {
           "page_number": 2,
@@ -60,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
-          "sub_title": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
-          "text_content": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "main_title": "「検索」すらAIが自分で判断する時代へ",
+          "sub_title": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
+          "text_content": "「検索」すらAIが自分で判断する時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-02.png",
           "image_file": "assets/img/posts/20260702_ai_column-02.png",
-          "overlay_text": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
-          "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
-          "alt": "内容1 - まだ問題集を解くだけ？2026年の勉強は"
+          "overlay_text": "「検索」すらAIが自分で判断する時代へ",
+          "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
+          "alt": "内容1 - 「検索」すらAIが自分で判断する時代へ"
         },
         {
           "page_number": 3,
@@ -76,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
-          "sub_title": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
-          "text_content": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "main_title": "夏期講習の事務作業、ほぼゼロにできます",
+          "sub_title": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
+          "text_content": "夏期講習の事務作業、ほぼゼロにできます",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-03.png",
           "image_file": "assets/img/posts/20260702_ai_column-03.png",
-          "overlay_text": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
-          "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
-          "alt": "内容2 - 教科書を取り込むだけ。自分専用の「超・解"
+          "overlay_text": "夏期講習の事務作業、ほぼゼロにできます",
+          "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
+          "alt": "内容2 - 夏期講習の事務作業、ほぼゼロにできます"
         },
         {
           "page_number": 4,
@@ -92,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える！AIを「思考の杖」にする3つのコツ",
-          "sub_title": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
-          "text_content": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "main_title": "if塾流：AIを「部下」として使いこなすコツ",
+          "sub_title": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
+          "text_content": "if塾流：AIを「部下」として使いこなすコツ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-04.png",
           "image_file": "assets/img/posts/20260702_ai_column-04.png",
-          "overlay_text": "if塾が教える！AIを「思考の杖」にする3つのコツ",
-          "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
-          "alt": "内容3 - if塾が教える！AIを「思考の杖」にする"
+          "overlay_text": "if塾流：AIを「部下」として使いこなすコツ",
+          "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
+          "alt": "内容3 - if塾流：AIを「部下」として使いこなす"
         },
         {
           "page_number": 5,
@@ -126,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-          "sub_title": "7月の期末試験・夏休み対策はこれで変わる",
-          "text_content": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
+          "main_title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "sub_title": "7月の最新情報：業務自動化の常識が変わる",
+          "text_content": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-01.png",
           "image_file": "assets/img/posts/20260702_ai_column-01.png",
-          "overlay_text": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-          "subtext": "7月の期末試験・夏休み対策はこれで変わる",
-          "alt": "表紙 - 【2026最新】Geminiの「Stud"
+          "overlay_text": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "subtext": "7月の最新情報：業務自動化の常識が変わる",
+          "alt": "表紙 - 自習室はAIが回す時代？2026年夏のA"
         },
         {
           "page_number": 2,
@@ -142,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
-          "sub_title": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
-          "text_content": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
+          "main_title": "「検索」すらAIが自分で判断する時代へ",
+          "sub_title": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
+          "text_content": "「検索」すらAIが自分で判断する時代へ",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-02.png",
           "image_file": "assets/img/posts/20260702_ai_column-02.png",
-          "overlay_text": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
-          "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
-          "alt": "内容1 - まだ問題集を解くだけ？2026年の勉強は"
+          "overlay_text": "「検索」すらAIが自分で判断する時代へ",
+          "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
+          "alt": "内容1 - 「検索」すらAIが自分で判断する時代へ"
         },
         {
           "page_number": 3,
@@ -158,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
-          "sub_title": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
-          "text_content": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
+          "main_title": "夏期講習の事務作業、ほぼゼロにできます",
+          "sub_title": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
+          "text_content": "夏期講習の事務作業、ほぼゼロにできます",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-03.png",
           "image_file": "assets/img/posts/20260702_ai_column-03.png",
-          "overlay_text": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
-          "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
-          "alt": "内容2 - 教科書を取り込むだけ。自分専用の「超・解"
+          "overlay_text": "夏期講習の事務作業、ほぼゼロにできます",
+          "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
+          "alt": "内容2 - 夏期講習の事務作業、ほぼゼロにできます"
         },
         {
           "page_number": 4,
@@ -174,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える！AIを「思考の杖」にする3つのコツ",
-          "sub_title": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
-          "text_content": "if塾が教える！AIを「思考の杖」にする3つのコツ",
+          "main_title": "if塾流：AIを「部下」として使いこなすコツ",
+          "sub_title": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
+          "text_content": "if塾流：AIを「部下」として使いこなすコツ",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-04.png",
           "image_file": "assets/img/posts/20260702_ai_column-04.png",
-          "overlay_text": "if塾が教える！AIを「思考の杖」にする3つのコツ",
-          "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
-          "alt": "内容3 - if塾が教える！AIを「思考の杖」にする"
+          "overlay_text": "if塾流：AIを「部下」として使いこなすコツ",
+          "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
+          "alt": "内容3 - if塾流：AIを「部下」として使いこなす"
         },
         {
           "page_number": 5,
@@ -245,7 +242,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-02T12:31:30",
+      "research_date": "2026-07-02T15:55:49",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026最新】Geminiの「Stud",
+        "cover_text": "自習室はAIが回す時代？2026年夏のA",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026最新】Geminiの「Study Notebooks」が全学生の個人専属教師に！",
-            "subtext": "7月の期末試験・夏休み対策はこれで変わる",
+            "headline": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+            "subtext": "7月の最新情報：業務自動化の常識が変わる",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -269,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "まだ問題集を解くだけ？2026年の勉強は「対話」が主流",
-            "subtext": "「どこがわからないか言語化できない」という悩みを、Geminiの新機能『Study Notebooks』が瞬時に分析し、理解度に合わせて学習メニューを自動生成します。",
+            "headline": "「検索」すらAIが自分で判断する時代へ",
+            "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -278,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "教科書を取り込むだけ。自分専用の「超・解説bot」が完成",
-            "subtext": "PDFやノートを読み込ませれば、24時間いつでも質問可能なAI家庭教師に。2026年夏の最新アップデートで、手書きの計算ミスも即座に指摘してくれるようになりました。",
+            "headline": "夏期講習の事務作業、ほぼゼロにできます",
+            "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -287,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える！AIを「思考の杖」にする3つのコツ",
-            "subtext": "1. 答えを聞かず「ヒントを出して」と言う 2. 定着度を確認するクイズを作らせる 3. AIの誤答を見抜く批判的思考を養う。AIに使われるのではなく、使いこなす力が合格を左右します。",
+            "headline": "if塾流：AIを「部下」として使いこなすコツ",
+            "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
