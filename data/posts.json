@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 176,
-    "last_updated": "2026-07-02T15:57:17.452573",
+    "last_updated": "2026-07-02T22:02:55.421894",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,25 @@
     {
       "id": "20260702_ai_column",
       "post_id": "20260702_ai_column",
-      "created_at": "2026-07-02T15:57:17",
+      "created_at": "2026-07-02T22:02:55",
       "datetime": "2026-07-02T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+      "theme": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
       "target_audience": "Students & Parents",
-      "title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-      "caption": "【2026年7月】夏期講習の準備で忙しい教育関係者・保護者の皆様へ。\n\nAIは今「チャットで聞くもの」から「勝手に動いてくれるもの」へと進化しました。\n今回ご紹介した『Agentic RAG』は、膨大な塾内データから必要な情報を自ら探し出し、次のアクションまで実行する最新技術です。\n\n例えば、生徒の苦手分析から、その子専用の夏期カリキュラムをAIが自律的に作成する。そんなことが2026年の今、当たり前になりつつあります。\n\nテクノロジーに事務を任せ、私たちはもっと「対話」を大切にしませんか？\n\nif塾では、最新AIを活用した新しい教育の形を提案しています。\n詳細はプロフィールからチェック！\n\n#if塾 #2026年 #AgenticRAG #AI教育 #業務自動化 #自律型AIエージェント #夏期講習 #DX",
-      "caption_text": "【2026年7月】夏期講習の準備で忙しい教育関係者・保護者の皆様へ。\n\nAIは今「チャットで聞くもの」から「勝手に動いてくれるもの」へと進化しました。\n今回ご紹介した『Agentic RAG』は、膨大な塾内データから必要な情報を自ら探し出し、次のアクションまで実行する最新技術です。\n\n例えば、生徒の苦手分析から、その子専用の夏期カリキュラムをAIが自律的に作成する。そんなことが2026年の今、当たり前になりつつあります。\n\nテクノロジーに事務を任せ、私たちはもっと「対話」を大切にしませんか？\n\nif塾では、最新AIを活用した新しい教育の形を提案しています。\n詳細はプロフィールからチェック！\n\n#if塾 #2026年 #AgenticRAG #AI教育 #業務自動化 #自律型AIエージェント #夏期講習 #DX",
+      "title": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+      "caption": "【2026年7月】AIはついに「道具」から「代理人」へ進化しました。\n\n今月注目なのは、Gemini 3.5 Flashの'Computer Use'機能。これ、何が凄いかというと「AIがあなたの代わりにマウスを動かし、キーボードを叩いて業務を完遂する」レベルに達していることです。\n\n例えば、夏休みの旅行計画から航空券の予約、さらには自由研究のデータ収集と分析まで、AIエージェントにお願いするだけで完了します。\n\nしかし、if塾が伝えたいのは「効率化の先にある価値」です。\n作業がゼロになる時代だからこそ、浮いた時間で「何を感じ、何を考えるか」。\nこの夏、最新AIを使いこなしながら、人間にしかできない深い学びを体験しませんか？\n\n最新のAI活用法について詳しく知りたい方は、プロフィールのリンクをチェック！✨",
+      "caption_text": "【2026年7月】AIはついに「道具」から「代理人」へ進化しました。\n\n今月注目なのは、Gemini 3.5 Flashの'Computer Use'機能。これ、何が凄いかというと「AIがあなたの代わりにマウスを動かし、キーボードを叩いて業務を完遂する」レベルに達していることです。\n\n例えば、夏休みの旅行計画から航空券の予約、さらには自由研究のデータ収集と分析まで、AIエージェントにお願いするだけで完了します。\n\nしかし、if塾が伝えたいのは「効率化の先にある価値」です。\n作業がゼロになる時代だからこそ、浮いた時間で「何を感じ、何を考えるか」。\nこの夏、最新AIを使いこなしながら、人間にしかできない深い学びを体験しませんか？\n\n最新のAI活用法について詳しく知りたい方は、プロフィールのリンクをチェック！✨",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AgenticRAG",
         "#AIエージェント",
-        "#業務効率化",
-        "#エデュテック"
+        "#Gemini",
+        "#Genspark",
+        "#DX教育",
+        "#リスキリング",
+        "#夏休みの宿題",
+        "#実行型AI"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-          "sub_title": "7月の最新情報：業務自動化の常識が変わる",
-          "text_content": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "main_title": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+          "sub_title": "【2026年7月最新】Genspark & Gemini 3.5 Flash活用術",
+          "text_content": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-01.png",
           "image_file": "assets/img/posts/20260702_ai_column-01.png",
-          "overlay_text": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-          "subtext": "7月の最新情報：業務自動化の常識が変わる",
-          "alt": "表紙 - 自習室はAIが回す時代？2026年夏のA"
+          "overlay_text": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+          "subtext": "【2026年7月最新】Genspark & Gemini 3.5 Flash活用術",
+          "alt": "表紙 - AIは「聞く」から「任せる」へ。2026"
         },
         {
           "page_number": 2,
@@ -57,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」すらAIが自分で判断する時代へ",
-          "sub_title": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
-          "text_content": "「検索」すらAIが自分で判断する時代へ",
+          "main_title": "「検索してまとめる」作業、まだ自分でやってる？",
+          "sub_title": "これまではAIに指示して「回答」をもらうだけでした。でも、2026年の今は違います。調べ物から資料作成、予約までAIが勝手に終わらせる『実行型AI（エージェント）』の時代です。",
+          "text_content": "「検索してまとめる」作業、まだ自分でやってる？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-02.png",
           "image_file": "assets/img/posts/20260702_ai_column-02.png",
-          "overlay_text": "「検索」すらAIが自分で判断する時代へ",
-          "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
-          "alt": "内容1 - 「検索」すらAIが自分で判断する時代へ"
+          "overlay_text": "「検索してまとめる」作業、まだ自分でやってる？",
+          "subtext": "これまではAIに指示して「回答」をもらうだけでした。でも、2026年の今は違います。調べ物から資料作成、予約までAIが勝手に終わらせる『実行型AI（エージェント）』の時代です。",
+          "alt": "内容1 - 「検索してまとめる」作業、まだ自分でやっ"
         },
         {
           "page_number": 3,
@@ -73,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "夏期講習の事務作業、ほぼゼロにできます",
-          "sub_title": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
-          "text_content": "夏期講習の事務作業、ほぼゼロにできます",
+          "main_title": "GensparkとGemini 3.5で業務・学習を自動完遂！",
+          "sub_title": "最新のGemini 3.5 Flash 'Computer Use'機能なら、PC画面をAIが認識してブラウザ操作やアプリ入力を代行。Gensparkは、複数の情報源から最適な解決策を「実行」して提示してくれます。",
+          "text_content": "GensparkとGemini 3.5で業務・学習を自動完遂！",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-03.png",
           "image_file": "assets/img/posts/20260702_ai_column-03.png",
-          "overlay_text": "夏期講習の事務作業、ほぼゼロにできます",
-          "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
-          "alt": "内容2 - 夏期講習の事務作業、ほぼゼロにできます"
+          "overlay_text": "GensparkとGemini 3.5で業務・学習を自動完遂！",
+          "subtext": "最新のGemini 3.5 Flash 'Computer Use'機能なら、PC画面をAIが認識してブラウザ操作やアプリ入力を代行。Gensparkは、複数の情報源から最適な解決策を「実行」して提示してくれます。",
+          "alt": "内容2 - GensparkとGemini 3.5で"
         },
         {
           "page_number": 4,
@@ -89,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」として使いこなすコツ",
-          "sub_title": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
-          "text_content": "if塾流：AIを「部下」として使いこなすコツ",
+          "main_title": "if塾流：AIエージェントと共存する「思考の守り方」",
+          "sub_title": "作業はAIに任せても、その結果を「どう評価し、どう判断するか」という人間特有の力（クリティカルシンキング）が、受験やキャリアにおいてかつてないほど重要になっています。",
+          "text_content": "if塾流：AIエージェントと共存する「思考の守り方」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-04.png",
           "image_file": "assets/img/posts/20260702_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「部下」として使いこなすコツ",
-          "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
-          "alt": "内容3 - if塾流：AIを「部下」として使いこなす"
+          "overlay_text": "if塾流：AIエージェントと共存する「思考の守り方」",
+          "subtext": "作業はAIに任せても、その結果を「どう評価し、どう判断するか」という人間特有の力（クリティカルシンキング）が、受験やキャリアにおいてかつてないほど重要になっています。",
+          "alt": "内容3 - if塾流：AIエージェントと共存する「思"
         },
         {
           "page_number": 5,
@@ -123,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-          "sub_title": "7月の最新情報：業務自動化の常識が変わる",
-          "text_content": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
+          "main_title": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+          "sub_title": "【2026年7月最新】Genspark & Gemini 3.5 Flash活用術",
+          "text_content": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-01.png",
           "image_file": "assets/img/posts/20260702_ai_column-01.png",
-          "overlay_text": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-          "subtext": "7月の最新情報：業務自動化の常識が変わる",
-          "alt": "表紙 - 自習室はAIが回す時代？2026年夏のA"
+          "overlay_text": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+          "subtext": "【2026年7月最新】Genspark & Gemini 3.5 Flash活用術",
+          "alt": "表紙 - AIは「聞く」から「任せる」へ。2026"
         },
         {
           "page_number": 2,
@@ -139,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「検索」すらAIが自分で判断する時代へ",
-          "sub_title": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
-          "text_content": "「検索」すらAIが自分で判断する時代へ",
+          "main_title": "「検索してまとめる」作業、まだ自分でやってる？",
+          "sub_title": "これまではAIに指示して「回答」をもらうだけでした。でも、2026年の今は違います。調べ物から資料作成、予約までAIが勝手に終わらせる『実行型AI（エージェント）』の時代です。",
+          "text_content": "「検索してまとめる」作業、まだ自分でやってる？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-02.png",
           "image_file": "assets/img/posts/20260702_ai_column-02.png",
-          "overlay_text": "「検索」すらAIが自分で判断する時代へ",
-          "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
-          "alt": "内容1 - 「検索」すらAIが自分で判断する時代へ"
+          "overlay_text": "「検索してまとめる」作業、まだ自分でやってる？",
+          "subtext": "これまではAIに指示して「回答」をもらうだけでした。でも、2026年の今は違います。調べ物から資料作成、予約までAIが勝手に終わらせる『実行型AI（エージェント）』の時代です。",
+          "alt": "内容1 - 「検索してまとめる」作業、まだ自分でやっ"
         },
         {
           "page_number": 3,
@@ -155,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "夏期講習の事務作業、ほぼゼロにできます",
-          "sub_title": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
-          "text_content": "夏期講習の事務作業、ほぼゼロにできます",
+          "main_title": "GensparkとGemini 3.5で業務・学習を自動完遂！",
+          "sub_title": "最新のGemini 3.5 Flash 'Computer Use'機能なら、PC画面をAIが認識してブラウザ操作やアプリ入力を代行。Gensparkは、複数の情報源から最適な解決策を「実行」して提示してくれます。",
+          "text_content": "GensparkとGemini 3.5で業務・学習を自動完遂！",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-03.png",
           "image_file": "assets/img/posts/20260702_ai_column-03.png",
-          "overlay_text": "夏期講習の事務作業、ほぼゼロにできます",
-          "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
-          "alt": "内容2 - 夏期講習の事務作業、ほぼゼロにできます"
+          "overlay_text": "GensparkとGemini 3.5で業務・学習を自動完遂！",
+          "subtext": "最新のGemini 3.5 Flash 'Computer Use'機能なら、PC画面をAIが認識してブラウザ操作やアプリ入力を代行。Gensparkは、複数の情報源から最適な解決策を「実行」して提示してくれます。",
+          "alt": "内容2 - GensparkとGemini 3.5で"
         },
         {
           "page_number": 4,
@@ -171,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：AIを「部下」として使いこなすコツ",
-          "sub_title": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
-          "text_content": "if塾流：AIを「部下」として使いこなすコツ",
+          "main_title": "if塾流：AIエージェントと共存する「思考の守り方」",
+          "sub_title": "作業はAIに任せても、その結果を「どう評価し、どう判断するか」という人間特有の力（クリティカルシンキング）が、受験やキャリアにおいてかつてないほど重要になっています。",
+          "text_content": "if塾流：AIエージェントと共存する「思考の守り方」",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260702_ai_column-04.png",
           "image_file": "assets/img/posts/20260702_ai_column-04.png",
-          "overlay_text": "if塾流：AIを「部下」として使いこなすコツ",
-          "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
-          "alt": "内容3 - if塾流：AIを「部下」として使いこなす"
+          "overlay_text": "if塾流：AIエージェントと共存する「思考の守り方」",
+          "subtext": "作業はAIに任せても、その結果を「どう評価し、どう判断するか」という人間特有の力（クリティカルシンキング）が、受験やキャリアにおいてかつてないほど重要になっています。",
+          "alt": "内容3 - if塾流：AIエージェントと共存する「思"
         },
         {
           "page_number": 5,
@@ -242,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-02T15:55:49",
+      "research_date": "2026-07-02T22:01:29",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "自習室はAIが回す時代？2026年夏のA",
+        "cover_text": "AIは「聞く」から「任せる」へ。2026",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "自習室はAIが回す時代？2026年夏のAgentic RAG革命",
-            "subtext": "7月の最新情報：業務自動化の常識が変わる",
+            "headline": "AIは「聞く」から「任せる」へ。2026年夏、実行型AIが変える勉強と仕事",
+            "subtext": "【2026年7月最新】Genspark & Gemini 3.5 Flash活用術",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -266,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「検索」すらAIが自分で判断する時代へ",
-            "subtext": "ただ答えるだけのAIはもう古い。2026年現在、Agentic RAG（自律型検索）が、保護者面談の準備や生徒の志望校データの精査を、人間より正確に自律的に完結させています。",
+            "headline": "「検索してまとめる」作業、まだ自分でやってる？",
+            "subtext": "これまではAIに指示して「回答」をもらうだけでした。でも、2026年の今は違います。調べ物から資料作成、予約までAIが勝手に終わらせる『実行型AI（エージェント）』の時代です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -275,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "夏期講習の事務作業、ほぼゼロにできます",
-            "subtext": "最新の『Skills型エージェント』なら、欠席連絡から補講スケジュールの自動生成、さらには教材の最適化まで、複数のツールを横断してAIが勝手に実行してくれます。",
+            "headline": "GensparkとGemini 3.5で業務・学習を自動完遂！",
+            "subtext": "最新のGemini 3.5 Flash 'Computer Use'機能なら、PC画面をAIが認識してブラウザ操作やアプリ入力を代行。Gensparkは、複数の情報源から最適な解決策を「実行」して提示してくれます。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -284,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：AIを「部下」として使いこなすコツ",
-            "subtext": "大事なのは丸投げではなく、AIに『権限』と『手順（Skills）』を正しく与えること。2026年の学びの場では、AIが事務を担い、人は生徒の心に寄り添う時間に集中すべきです。",
+            "headline": "if塾流：AIエージェントと共存する「思考の守り方」",
+            "subtext": "作業はAIに任せても、その結果を「どう評価し、どう判断するか」という人間特有の力（クリティカルシンキング）が、受験やキャリアにおいてかつてないほど重要になっています。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
