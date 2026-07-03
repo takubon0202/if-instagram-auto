@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 176,
-    "last_updated": "2026-07-02T22:02:55.421894",
+    "total_posts": 177,
+    "last_updated": "2026-07-03T11:55:30.646739",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260703_business",
+      "post_id": "20260703_business",
+      "created_at": "2026-07-03T11:55:30",
+      "datetime": "2026-07-03T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+      "target_audience": "Students & Parents",
+      "title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+      "caption": "【2026年7月】夏休み目前、中高生の「新しい学びと稼ぎ方」が激変しています。\n\n今、地方で急増しているのが『AI地域サポーター』という存在。\n単なるバイトではなく、生成AIを駆使して地元の老舗や中小企業の情報発信を劇的にアップデートする役割です。\n\n「AIをどう使うか」だけでなく「誰のために使うか」。\nこの視点を持つことで、学生のうちから社会に貢献し、対価を得る経験が積めます。\n\n2026年の今、求められているのはAIを使いこなす「優しさ」と「行動力」です。\n\n詳細は公式LINEで無料公開中の『2026年度版・AI活用キャリアガイド』をチェック！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生 #キャリア教育 #AI地域サポーター #リスキリング",
+      "caption_text": "【2026年7月】夏休み目前、中高生の「新しい学びと稼ぎ方」が激変しています。\n\n今、地方で急増しているのが『AI地域サポーター』という存在。\n単なるバイトではなく、生成AIを駆使して地元の老舗や中小企業の情報発信を劇的にアップデートする役割です。\n\n「AIをどう使うか」だけでなく「誰のために使うか」。\nこの視点を持つことで、学生のうちから社会に貢献し、対価を得る経験が積めます。\n\n2026年の今、求められているのはAIを使いこなす「優しさ」と「行動力」です。\n\n詳細は公式LINEで無料公開中の『2026年度版・AI活用キャリアガイド』をチェック！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生 #キャリア教育 #AI地域サポーター #リスキリング",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI",
+        "#地域活性化",
+        "#探究学習",
+        "#副業の始め方",
+        "#中高生起業家"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "sub_title": "2026年7月最新：地方企業の救世主になる方法",
+          "text_content": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-01.png",
+          "image_file": "assets/img/posts/20260703_business-01.png",
+          "overlay_text": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "subtext": "2026年7月最新：地方企業の救世主になる方法",
+          "alt": "表紙 - 中高生が「AI地域サポーター」で月5万稼"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "地方企業の「発信力不足」が深刻な課題に",
+          "sub_title": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+          "text_content": "地方企業の「発信力不足」が深刻な課題に",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-02.png",
+          "image_file": "assets/img/posts/20260703_business-02.png",
+          "overlay_text": "地方企業の「発信力不足」が深刻な課題に",
+          "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+          "alt": "内容1 - 地方企業の「発信力不足」が深刻な課題に"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "sub_title": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+          "text_content": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-03.png",
+          "image_file": "assets/img/posts/20260703_business-03.png",
+          "overlay_text": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+          "alt": "内容2 - AI動画生成×自動翻訳で「世界へ」届ける"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「技術」より「対話」を。if塾流のAI貢献術",
+          "sub_title": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+          "text_content": "「技術」より「対話」を。if塾流のAI貢献術",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-04.png",
+          "image_file": "assets/img/posts/20260703_business-04.png",
+          "overlay_text": "「技術」より「対話」を。if塾流のAI貢献術",
+          "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+          "alt": "内容3 - 「技術」より「対話」を。if塾流のAI貢"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "sub_title": "2026年7月最新：地方企業の救世主になる方法",
+          "text_content": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-01.png",
+          "image_file": "assets/img/posts/20260703_business-01.png",
+          "overlay_text": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "subtext": "2026年7月最新：地方企業の救世主になる方法",
+          "alt": "表紙 - 中高生が「AI地域サポーター」で月5万稼"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "地方企業の「発信力不足」が深刻な課題に",
+          "sub_title": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+          "text_content": "地方企業の「発信力不足」が深刻な課題に",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-02.png",
+          "image_file": "assets/img/posts/20260703_business-02.png",
+          "overlay_text": "地方企業の「発信力不足」が深刻な課題に",
+          "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+          "alt": "内容1 - 地方企業の「発信力不足」が深刻な課題に"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "sub_title": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+          "text_content": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-03.png",
+          "image_file": "assets/img/posts/20260703_business-03.png",
+          "overlay_text": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+          "alt": "内容2 - AI動画生成×自動翻訳で「世界へ」届ける"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "「技術」より「対話」を。if塾流のAI貢献術",
+          "sub_title": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+          "text_content": "「技術」より「対話」を。if塾流のAI貢献術",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260703_business-04.png",
+          "image_file": "assets/img/posts/20260703_business-04.png",
+          "overlay_text": "「技術」より「対話」を。if塾流のAI貢献術",
+          "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+          "alt": "内容3 - 「技術」より「対話」を。if塾流のAI貢"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260703_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260703_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260703_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260703_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-07-03T11:54:03",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "中高生が「AI地域サポーター」で月5万稼",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+            "subtext": "2026年7月最新：地方企業の救世主になる方法",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "地方企業の「発信力不足」が深刻な課題に",
+            "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AI動画生成×自動翻訳で「世界へ」届ける",
+            "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "「技術」より「対話」を。if塾流のAI貢献術",
+            "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260702_ai_column",
       "post_id": "20260702_ai_column",
