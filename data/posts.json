@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 177,
-    "last_updated": "2026-07-03T11:55:30.646739",
+    "last_updated": "2026-07-03T15:50:24.383213",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,23 @@
     {
       "id": "20260703_business",
       "post_id": "20260703_business",
-      "created_at": "2026-07-03T11:55:30",
+      "created_at": "2026-07-03T15:50:24",
       "datetime": "2026-07-03T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+      "theme": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
       "target_audience": "Students & Parents",
-      "title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-      "caption": "【2026年7月】夏休み目前、中高生の「新しい学びと稼ぎ方」が激変しています。\n\n今、地方で急増しているのが『AI地域サポーター』という存在。\n単なるバイトではなく、生成AIを駆使して地元の老舗や中小企業の情報発信を劇的にアップデートする役割です。\n\n「AIをどう使うか」だけでなく「誰のために使うか」。\nこの視点を持つことで、学生のうちから社会に貢献し、対価を得る経験が積めます。\n\n2026年の今、求められているのはAIを使いこなす「優しさ」と「行動力」です。\n\n詳細は公式LINEで無料公開中の『2026年度版・AI活用キャリアガイド』をチェック！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生 #キャリア教育 #AI地域サポーター #リスキリング",
-      "caption_text": "【2026年7月】夏休み目前、中高生の「新しい学びと稼ぎ方」が激変しています。\n\n今、地方で急増しているのが『AI地域サポーター』という存在。\n単なるバイトではなく、生成AIを駆使して地元の老舗や中小企業の情報発信を劇的にアップデートする役割です。\n\n「AIをどう使うか」だけでなく「誰のために使うか」。\nこの視点を持つことで、学生のうちから社会に貢献し、対価を得る経験が積めます。\n\n2026年の今、求められているのはAIを使いこなす「優しさ」と「行動力」です。\n\n詳細は公式LINEで無料公開中の『2026年度版・AI活用キャリアガイド』をチェック！\n\n#if塾 #2026年 #生成AI #地域貢献 #中高生 #キャリア教育 #AI地域サポーター #リスキリング",
+      "title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+      "caption": "【2026年7月】地域経済の形が劇的に変わっています。\n\n夏休みを目前に控え、全国の自治体や教育機関が「選ばれるためのAI施策」を急いでいます。かつての動画制作のような単なる発信ではなく、今はAIを活用した「双方向の体験型コンテンツ」が最大の成長市場です。\n\n特に2026年後半に向けた予算編成が始まるこの時期、Local-Gen 4.0などの最新ツールを使いこなせる人材への需要は過去最高に。if塾では、単なるオペレーターではなく、地域の魅力を再定義できる「AIプロデューサー」を育成しています。\n\nあなたも、この夏のチャンスを掴みませんか？\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年7月】地域経済の形が劇的に変わっています。\n\n夏休みを目前に控え、全国の自治体や教育機関が「選ばれるためのAI施策」を急いでいます。かつての動画制作のような単なる発信ではなく、今はAIを活用した「双方向の体験型コンテンツ」が最大の成長市場です。\n\n特に2026年後半に向けた予算編成が始まるこの時期、Local-Gen 4.0などの最新ツールを使いこなせる人材への需要は過去最高に。if塾では、単なるオペレーターではなく、地域の魅力を再定義できる「AIプロデューサー」を育成しています。\n\nあなたも、この夏のチャンスを掴みませんか？\n詳細はプロフィールのリンクから！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#地域活性化",
-        "#探究学習",
-        "#副業の始め方",
-        "#中高生起業家"
+        "#地域創生",
+        "#副業",
+        "#自治体ビジネス",
+        "#最新ツール"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-          "sub_title": "2026年7月最新：地方企業の救世主になる方法",
-          "text_content": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "main_title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "sub_title": "2026年7月最新：補助金活用の勝ちパターン",
+          "text_content": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-01.png",
           "image_file": "assets/img/posts/20260703_business-01.png",
-          "overlay_text": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-          "subtext": "2026年7月最新：地方企業の救世主になる方法",
-          "alt": "表紙 - 中高生が「AI地域サポーター」で月5万稼"
+          "overlay_text": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "subtext": "2026年7月最新：補助金活用の勝ちパターン",
+          "alt": "表紙 - 地域AIバブル到来！月50万を狙う「自治"
         },
         {
           "page_number": 2,
@@ -58,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "地方企業の「発信力不足」が深刻な課題に",
-          "sub_title": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
-          "text_content": "地方企業の「発信力不足」が深刻な課題に",
+          "main_title": "「動画の時代」から「AI地域体験」の時代へ",
+          "sub_title": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
+          "text_content": "「動画の時代」から「AI地域体験」の時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-02.png",
           "image_file": "assets/img/posts/20260703_business-02.png",
-          "overlay_text": "地方企業の「発信力不足」が深刻な課題に",
-          "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
-          "alt": "内容1 - 地方企業の「発信力不足」が深刻な課題に"
+          "overlay_text": "「動画の時代」から「AI地域体験」の時代へ",
+          "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
+          "alt": "内容1 - 「動画の時代」から「AI地域体験」の時代"
         },
         {
           "page_number": 3,
@@ -74,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AI動画生成×自動翻訳で「世界へ」届ける",
-          "sub_title": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
-          "text_content": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "main_title": "2026年最強ツール「Local-Gen 4.0」",
+          "sub_title": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
+          "text_content": "2026年最強ツール「Local-Gen 4.0」",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-03.png",
           "image_file": "assets/img/posts/20260703_business-03.png",
-          "overlay_text": "AI動画生成×自動翻訳で「世界へ」届ける",
-          "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
-          "alt": "内容2 - AI動画生成×自動翻訳で「世界へ」届ける"
+          "overlay_text": "2026年最強ツール「Local-Gen 4.0」",
+          "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
+          "alt": "内容2 - 2026年最強ツール「Local-Gen"
         },
         {
           "page_number": 4,
@@ -90,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「技術」より「対話」を。if塾流のAI貢献術",
-          "sub_title": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
-          "text_content": "「技術」より「対話」を。if塾流のAI貢献術",
+          "main_title": "「便利さ」ではなく「情緒」にAIを使う",
+          "sub_title": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
+          "text_content": "「便利さ」ではなく「情緒」にAIを使う",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-04.png",
           "image_file": "assets/img/posts/20260703_business-04.png",
-          "overlay_text": "「技術」より「対話」を。if塾流のAI貢献術",
-          "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
-          "alt": "内容3 - 「技術」より「対話」を。if塾流のAI貢"
+          "overlay_text": "「便利さ」ではなく「情緒」にAIを使う",
+          "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
+          "alt": "内容3 - 「便利さ」ではなく「情緒」にAIを使う"
         },
         {
           "page_number": 5,
@@ -124,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-          "sub_title": "2026年7月最新：地方企業の救世主になる方法",
-          "text_content": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
+          "main_title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "sub_title": "2026年7月最新：補助金活用の勝ちパターン",
+          "text_content": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-01.png",
           "image_file": "assets/img/posts/20260703_business-01.png",
-          "overlay_text": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-          "subtext": "2026年7月最新：地方企業の救世主になる方法",
-          "alt": "表紙 - 中高生が「AI地域サポーター」で月5万稼"
+          "overlay_text": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "subtext": "2026年7月最新：補助金活用の勝ちパターン",
+          "alt": "表紙 - 地域AIバブル到来！月50万を狙う「自治"
         },
         {
           "page_number": 2,
@@ -140,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "地方企業の「発信力不足」が深刻な課題に",
-          "sub_title": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
-          "text_content": "地方企業の「発信力不足」が深刻な課題に",
+          "main_title": "「動画の時代」から「AI地域体験」の時代へ",
+          "sub_title": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
+          "text_content": "「動画の時代」から「AI地域体験」の時代へ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-02.png",
           "image_file": "assets/img/posts/20260703_business-02.png",
-          "overlay_text": "地方企業の「発信力不足」が深刻な課題に",
-          "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
-          "alt": "内容1 - 地方企業の「発信力不足」が深刻な課題に"
+          "overlay_text": "「動画の時代」から「AI地域体験」の時代へ",
+          "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
+          "alt": "内容1 - 「動画の時代」から「AI地域体験」の時代"
         },
         {
           "page_number": 3,
@@ -156,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "AI動画生成×自動翻訳で「世界へ」届ける",
-          "sub_title": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
-          "text_content": "AI動画生成×自動翻訳で「世界へ」届ける",
+          "main_title": "2026年最強ツール「Local-Gen 4.0」",
+          "sub_title": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
+          "text_content": "2026年最強ツール「Local-Gen 4.0」",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-03.png",
           "image_file": "assets/img/posts/20260703_business-03.png",
-          "overlay_text": "AI動画生成×自動翻訳で「世界へ」届ける",
-          "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
-          "alt": "内容2 - AI動画生成×自動翻訳で「世界へ」届ける"
+          "overlay_text": "2026年最強ツール「Local-Gen 4.0」",
+          "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
+          "alt": "内容2 - 2026年最強ツール「Local-Gen"
         },
         {
           "page_number": 4,
@@ -172,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「技術」より「対話」を。if塾流のAI貢献術",
-          "sub_title": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
-          "text_content": "「技術」より「対話」を。if塾流のAI貢献術",
+          "main_title": "「便利さ」ではなく「情緒」にAIを使う",
+          "sub_title": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
+          "text_content": "「便利さ」ではなく「情緒」にAIを使う",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-04.png",
           "image_file": "assets/img/posts/20260703_business-04.png",
-          "overlay_text": "「技術」より「対話」を。if塾流のAI貢献術",
-          "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
-          "alt": "内容3 - 「技術」より「対話」を。if塾流のAI貢"
+          "overlay_text": "「便利さ」ではなく「情緒」にAIを使う",
+          "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
+          "alt": "内容3 - 「便利さ」ではなく「情緒」にAIを使う"
         },
         {
           "page_number": 5,
@@ -243,7 +243,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-03T11:54:03",
+      "research_date": "2026-07-03T15:48:58",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生が「AI地域サポーター」で月5万稼",
+        "cover_text": "地域AIバブル到来！月50万を狙う「自治",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生が「AI地域サポーター」で月5万稼ぐ時代へ",
-            "subtext": "2026年7月最新：地方企業の救世主になる方法",
+            "headline": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+            "subtext": "2026年7月最新：補助金活用の勝ちパターン",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -267,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "地方企業の「発信力不足」が深刻な課題に",
-            "subtext": "魅力はあるのにSNSが止まっている地元の名店。でも、人手不足で最新のマルチモーダルAIを使いこなせる大人がいない…このギャップを埋めるのが君たちの世代です。",
+            "headline": "「動画の時代」から「AI地域体験」の時代へ",
+            "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -276,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "AI動画生成×自動翻訳で「世界へ」届ける",
-            "subtext": "最新のSora2やRunway Gen-4を活用し、スマホ1台でプロ級のPR動画を作成。2026年のインバウンド需要に対し、AIによる多言語字幕とアバター対応で地方企業の魅力を世界へ即座に発信します。",
+            "headline": "2026年最強ツール「Local-Gen 4.0」",
+            "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -285,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「技術」より「対話」を。if塾流のAI貢献術",
-            "subtext": "AIはあくまでツール。大事なのは店主の想いを言語化するヒアリング力です。if塾では、AIを『地域の声を増幅させるマイク』として捉え、人との繋がりを大切にする新時代の働き方を提唱しています。",
+            "headline": "「便利さ」ではなく「情緒」にAIを使う",
+            "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
