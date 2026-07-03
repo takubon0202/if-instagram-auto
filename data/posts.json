@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 177,
-    "last_updated": "2026-07-03T15:50:24.383213",
+    "last_updated": "2026-07-03T22:02:11.888345",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,25 @@
     {
       "id": "20260703_business",
       "post_id": "20260703_business",
-      "created_at": "2026-07-03T15:50:24",
+      "created_at": "2026-07-03T22:02:11",
       "datetime": "2026-07-03T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+      "theme": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
       "target_audience": "Students & Parents",
-      "title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-      "caption": "【2026年7月】地域経済の形が劇的に変わっています。\n\n夏休みを目前に控え、全国の自治体や教育機関が「選ばれるためのAI施策」を急いでいます。かつての動画制作のような単なる発信ではなく、今はAIを活用した「双方向の体験型コンテンツ」が最大の成長市場です。\n\n特に2026年後半に向けた予算編成が始まるこの時期、Local-Gen 4.0などの最新ツールを使いこなせる人材への需要は過去最高に。if塾では、単なるオペレーターではなく、地域の魅力を再定義できる「AIプロデューサー」を育成しています。\n\nあなたも、この夏のチャンスを掴みませんか？\n詳細はプロフィールのリンクから！",
-      "caption_text": "【2026年7月】地域経済の形が劇的に変わっています。\n\n夏休みを目前に控え、全国の自治体や教育機関が「選ばれるためのAI施策」を急いでいます。かつての動画制作のような単なる発信ではなく、今はAIを活用した「双方向の体験型コンテンツ」が最大の成長市場です。\n\n特に2026年後半に向けた予算編成が始まるこの時期、Local-Gen 4.0などの最新ツールを使いこなせる人材への需要は過去最高に。if塾では、単なるオペレーターではなく、地域の魅力を再定義できる「AIプロデューサー」を育成しています。\n\nあなたも、この夏のチャンスを掴みませんか？\n詳細はプロフィールのリンクから！",
+      "title": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+      "caption": "【2026年7月】夏休み目前！今、10代の間で起きている「AI副業」のリアルを知っていますか？\n\nもはや生成AIは宿題の代行ツールではなく、自分の価値を最大化する「ビジネスパートナー」です。最新のClaude 4.7は人間の感情理解が飛躍的に向上し、Gensparkは検索の概念を壊しました。\n\n「お金を稼ぐ」という体験を通じて、学校では教わらない「情報の取捨選択」と「論理的思考」を身につけるチャンスです。\n\nif塾では、AIを正しく使い、自分の未来を切り拓く力を育むサポートをしています。\n\n詳しいツール設定や具体的な案件獲得方法は、プロフィールのリンクからチェック！",
+      "caption_text": "【2026年7月】夏休み目前！今、10代の間で起きている「AI副業」のリアルを知っていますか？\n\nもはや生成AIは宿題の代行ツールではなく、自分の価値を最大化する「ビジネスパートナー」です。最新のClaude 4.7は人間の感情理解が飛躍的に向上し、Gensparkは検索の概念を壊しました。\n\n「お金を稼ぐ」という体験を通じて、学校では教わらない「情報の取捨選択」と「論理的思考」を身につけるチャンスです。\n\nif塾では、AIを正しく使い、自分の未来を切り拓く力を育むサポートをしています。\n\n詳しいツール設定や具体的な案件獲得方法は、プロフィールのリンクからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#生成AI",
-        "#地域創生",
-        "#副業",
-        "#自治体ビジネス",
-        "#最新ツール"
+        "#Claude4",
+        "#Genspark",
+        "#10代の稼ぎ方",
+        "#夏休み副業",
+        "#キャリア教育",
+        "#AI副業"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-          "sub_title": "2026年7月最新：補助金活用の勝ちパターン",
-          "text_content": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "main_title": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+          "sub_title": "2026年7月最新｜AIを使いこなすZ世代の新常識",
+          "text_content": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-01.png",
           "image_file": "assets/img/posts/20260703_business-01.png",
-          "overlay_text": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-          "subtext": "2026年7月最新：補助金活用の勝ちパターン",
-          "alt": "表紙 - 地域AIバブル到来！月50万を狙う「自治"
+          "overlay_text": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+          "subtext": "2026年7月最新｜AIを使いこなすZ世代の新常識",
+          "alt": "表紙 - 10代の夏休み革命！Claude 4.7"
         },
         {
           "page_number": 2,
@@ -58,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「動画の時代」から「AI地域体験」の時代へ",
-          "sub_title": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
-          "text_content": "「動画の時代」から「AI地域体験」の時代へ",
+          "main_title": "「バイト禁止」でもAIなら家でスキルになる",
+          "sub_title": "猛暑で外に出たくない、でも推し活や受験費用は必要。そんな10代が今、Claude 4.7を『思考の相棒』にしてコンテンツ制作を始めています。",
+          "text_content": "「バイト禁止」でもAIなら家でスキルになる",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-02.png",
           "image_file": "assets/img/posts/20260703_business-02.png",
-          "overlay_text": "「動画の時代」から「AI地域体験」の時代へ",
-          "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
-          "alt": "内容1 - 「動画の時代」から「AI地域体験」の時代"
+          "overlay_text": "「バイト禁止」でもAIなら家でスキルになる",
+          "subtext": "猛暑で外に出たくない、でも推し活や受験費用は必要。そんな10代が今、Claude 4.7を『思考の相棒』にしてコンテンツ制作を始めています。",
+          "alt": "内容1 - 「バイト禁止」でもAIなら家でスキルにな"
         },
         {
           "page_number": 3,
@@ -74,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年最強ツール「Local-Gen 4.0」",
-          "sub_title": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
-          "text_content": "2026年最強ツール「Local-Gen 4.0」",
+          "main_title": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
+          "sub_title": "2026年の鉄板は『特化型AI検索×高度推論AI』の組み合わせ。Gensparkで市場ニーズを秒で特定し、Claude 4.7でプロ顔負けの図解や記事を作成します。",
+          "text_content": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-03.png",
           "image_file": "assets/img/posts/20260703_business-03.png",
-          "overlay_text": "2026年最強ツール「Local-Gen 4.0」",
-          "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
-          "alt": "内容2 - 2026年最強ツール「Local-Gen"
+          "overlay_text": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
+          "subtext": "2026年の鉄板は『特化型AI検索×高度推論AI』の組み合わせ。Gensparkで市場ニーズを秒で特定し、Claude 4.7でプロ顔負けの図解や記事を作成します。",
+          "alt": "内容2 - Gensparkで爆速リサーチ、Clau"
         },
         {
           "page_number": 4,
@@ -90,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「便利さ」ではなく「情緒」にAIを使う",
-          "sub_title": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
-          "text_content": "「便利さ」ではなく「情緒」にAIを使う",
+          "main_title": "if塾流：AIは「代行」ではなく「増幅」に使う",
+          "sub_title": "ただAIに作らせるだけでは稼げません。自分の『好き』や『疑問』をAIにぶつけ、独自の視点を加える。これこそが2026年を生き抜く本当のキャリア教育です。",
+          "text_content": "if塾流：AIは「代行」ではなく「増幅」に使う",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-04.png",
           "image_file": "assets/img/posts/20260703_business-04.png",
-          "overlay_text": "「便利さ」ではなく「情緒」にAIを使う",
-          "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
-          "alt": "内容3 - 「便利さ」ではなく「情緒」にAIを使う"
+          "overlay_text": "if塾流：AIは「代行」ではなく「増幅」に使う",
+          "subtext": "ただAIに作らせるだけでは稼げません。自分の『好き』や『疑問』をAIにぶつけ、独自の視点を加える。これこそが2026年を生き抜く本当のキャリア教育です。",
+          "alt": "内容3 - if塾流：AIは「代行」ではなく「増幅」"
         },
         {
           "page_number": 5,
@@ -124,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-          "sub_title": "2026年7月最新：補助金活用の勝ちパターン",
-          "text_content": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
+          "main_title": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+          "sub_title": "2026年7月最新｜AIを使いこなすZ世代の新常識",
+          "text_content": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-01.png",
           "image_file": "assets/img/posts/20260703_business-01.png",
-          "overlay_text": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-          "subtext": "2026年7月最新：補助金活用の勝ちパターン",
-          "alt": "表紙 - 地域AIバブル到来！月50万を狙う「自治"
+          "overlay_text": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+          "subtext": "2026年7月最新｜AIを使いこなすZ世代の新常識",
+          "alt": "表紙 - 10代の夏休み革命！Claude 4.7"
         },
         {
           "page_number": 2,
@@ -140,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「動画の時代」から「AI地域体験」の時代へ",
-          "sub_title": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
-          "text_content": "「動画の時代」から「AI地域体験」の時代へ",
+          "main_title": "「バイト禁止」でもAIなら家でスキルになる",
+          "sub_title": "猛暑で外に出たくない、でも推し活や受験費用は必要。そんな10代が今、Claude 4.7を『思考の相棒』にしてコンテンツ制作を始めています。",
+          "text_content": "「バイト禁止」でもAIなら家でスキルになる",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-02.png",
           "image_file": "assets/img/posts/20260703_business-02.png",
-          "overlay_text": "「動画の時代」から「AI地域体験」の時代へ",
-          "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
-          "alt": "内容1 - 「動画の時代」から「AI地域体験」の時代"
+          "overlay_text": "「バイト禁止」でもAIなら家でスキルになる",
+          "subtext": "猛暑で外に出たくない、でも推し活や受験費用は必要。そんな10代が今、Claude 4.7を『思考の相棒』にしてコンテンツ制作を始めています。",
+          "alt": "内容1 - 「バイト禁止」でもAIなら家でスキルにな"
         },
         {
           "page_number": 3,
@@ -156,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年最強ツール「Local-Gen 4.0」",
-          "sub_title": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
-          "text_content": "2026年最強ツール「Local-Gen 4.0」",
+          "main_title": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
+          "sub_title": "2026年の鉄板は『特化型AI検索×高度推論AI』の組み合わせ。Gensparkで市場ニーズを秒で特定し、Claude 4.7でプロ顔負けの図解や記事を作成します。",
+          "text_content": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-03.png",
           "image_file": "assets/img/posts/20260703_business-03.png",
-          "overlay_text": "2026年最強ツール「Local-Gen 4.0」",
-          "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
-          "alt": "内容2 - 2026年最強ツール「Local-Gen"
+          "overlay_text": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
+          "subtext": "2026年の鉄板は『特化型AI検索×高度推論AI』の組み合わせ。Gensparkで市場ニーズを秒で特定し、Claude 4.7でプロ顔負けの図解や記事を作成します。",
+          "alt": "内容2 - Gensparkで爆速リサーチ、Clau"
         },
         {
           "page_number": 4,
@@ -172,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「便利さ」ではなく「情緒」にAIを使う",
-          "sub_title": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
-          "text_content": "「便利さ」ではなく「情緒」にAIを使う",
+          "main_title": "if塾流：AIは「代行」ではなく「増幅」に使う",
+          "sub_title": "ただAIに作らせるだけでは稼げません。自分の『好き』や『疑問』をAIにぶつけ、独自の視点を加える。これこそが2026年を生き抜く本当のキャリア教育です。",
+          "text_content": "if塾流：AIは「代行」ではなく「増幅」に使う",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260703_business-04.png",
           "image_file": "assets/img/posts/20260703_business-04.png",
-          "overlay_text": "「便利さ」ではなく「情緒」にAIを使う",
-          "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
-          "alt": "内容3 - 「便利さ」ではなく「情緒」にAIを使う"
+          "overlay_text": "if塾流：AIは「代行」ではなく「増幅」に使う",
+          "subtext": "ただAIに作らせるだけでは稼げません。自分の『好き』や『疑問』をAIにぶつけ、独自の視点を加える。これこそが2026年を生き抜く本当のキャリア教育です。",
+          "alt": "内容3 - if塾流：AIは「代行」ではなく「増幅」"
         },
         {
           "page_number": 5,
@@ -243,7 +245,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-03T15:48:58",
+      "research_date": "2026-07-03T22:00:48",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "地域AIバブル到来！月50万を狙う「自治",
+        "cover_text": "10代の夏休み革命！Claude 4.7",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "地域AIバブル到来！月50万を狙う「自治体公認」制作術",
-            "subtext": "2026年7月最新：補助金活用の勝ちパターン",
+            "headline": "10代の夏休み革命！Claude 4.7×Gensparkで月5万稼ぐ超効率副業",
+            "subtext": "2026年7月最新｜AIを使いこなすZ世代の新常識",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -267,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「動画の時代」から「AI地域体験」の時代へ",
-            "subtext": "これまでのPR動画は飽和状態。保護者や学生は、AIによるパーソナライズされた「移住・進学体験コンテンツ」を求めています。",
+            "headline": "「バイト禁止」でもAIなら家でスキルになる",
+            "subtext": "猛暑で外に出たくない、でも推し活や受験費用は必要。そんな10代が今、Claude 4.7を『思考の相棒』にしてコンテンツ制作を始めています。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -276,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年最強ツール「Local-Gen 4.0」",
-            "subtext": "リアルタイムの地域データを読み込み、3Dマップと対話型AIを数分で構築。2026年夏の観光振興予算を狙うなら今が構築の期限です。",
+            "headline": "Gensparkで爆速リサーチ、Claudeで魂を吹き込む",
+            "subtext": "2026年の鉄板は『特化型AI検索×高度推論AI』の組み合わせ。Gensparkで市場ニーズを秒で特定し、Claude 4.7でプロ顔負けの図解や記事を作成します。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -285,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「便利さ」ではなく「情緒」にAIを使う",
-            "subtext": "if塾の視点：技術自慢はNG。AIを使って、その土地の歴史や人の温かさをどう言語化し、ビジュアル化するか。この「翻訳力」こそが唯一無二の価値になります。",
+            "headline": "if塾流：AIは「代行」ではなく「増幅」に使う",
+            "subtext": "ただAIに作らせるだけでは稼げません。自分の『好き』や『疑問』をAIにぶつけ、独自の視点を加える。これこそが2026年を生き抜く本当のキャリア教育です。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
