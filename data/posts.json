@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 177,
-    "last_updated": "2026-07-03T22:02:11.888345",
+    "total_posts": 178,
+    "last_updated": "2026-07-04T11:51:44.701301",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260704_activity",
+      "post_id": "20260704_activity",
+      "created_at": "2026-07-04T11:51:44",
+      "datetime": "2026-07-04T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIを部下にする力。「プロンプト思考」の授業",
+      "target_audience": "Students & Parents",
+      "title": "AIを部下にする力。「プロンプト思考」の授業",
+      "caption": "【2026年7月】最新の教育現場からお届けします。\n\n今や、生成AIは「使うか使わないか」の議論を終え、いかに「自分の有能なアシスタント（部下）」として使いこなすかのフェーズに入りました。\n\n今日の授業では、生徒たちが最新のマルチモーダルAIを使い、自分のプロジェクトを形にするプロセスを学びました。\n\n大切なのは、AIに丸投げすることではありません。\n「自分の意図を論理的に伝える力（プロンプト思考力）」こそが、2026年を生きる学生に求められる真のスキルです。\n\n夏休みを前に、一歩先のスキルを身につけませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年7月】最新の教育現場からお届けします。\n\n今や、生成AIは「使うか使わないか」の議論を終え、いかに「自分の有能なアシスタント（部下）」として使いこなすかのフェーズに入りました。\n\n今日の授業では、生徒たちが最新のマルチモーダルAIを使い、自分のプロジェクトを形にするプロセスを学びました。\n\n大切なのは、AIに丸投げすることではありません。\n「自分の意図を論理的に伝える力（プロンプト思考力）」こそが、2026年を生きる学生に求められる真のスキルです。\n\n夏休みを前に、一歩先のスキルを身につけませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI教育",
+        "#プロンプト思考",
+        "#教育の最前線",
+        "#リスキリング",
+        "#AIアシスタント",
+        "#夏期講習"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを部下にする力。「プロンプト思考」の授業",
+          "sub_title": "2026年7月最新：夏の特別講習レポート",
+          "text_content": "AIを部下にする力。「プロンプト思考」の授業",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-01.png",
+          "image_file": "assets/img/posts/20260704_activity-01.png",
+          "overlay_text": "AIを部下にする力。「プロンプト思考」の授業",
+          "subtext": "2026年7月最新：夏の特別講習レポート",
+          "alt": "表紙 - AIを部下にする力。「プロンプト思考」の"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索」はもう古い？今の悩みは「聞き方」",
+          "sub_title": "2026年、宿題の悩みは『答えを見つけること』から『AIへの指示がうまくいかないこと』へ変化しています。",
+          "text_content": "「検索」はもう古い？今の悩みは「聞き方」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-02.png",
+          "image_file": "assets/img/posts/20260704_activity-02.png",
+          "overlay_text": "「検索」はもう古い？今の悩みは「聞き方」",
+          "subtext": "2026年、宿題の悩みは『答えを見つけること』から『AIへの指示がうまくいかないこと』へ変化しています。",
+          "alt": "内容1 - 「検索」はもう古い？今の悩みは「聞き方」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新マルチモーダルAIを使いこなす生徒たち",
+          "sub_title": "図解もコードも一瞬。大事なのは、自分のアイデアを具体化するための「言語化スキル」です。",
+          "text_content": "最新マルチモーダルAIを使いこなす生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-03.png",
+          "image_file": "assets/img/posts/20260704_activity-03.png",
+          "overlay_text": "最新マルチモーダルAIを使いこなす生徒たち",
+          "subtext": "図解もコードも一瞬。大事なのは、自分のアイデアを具体化するための「言語化スキル」です。",
+          "alt": "内容2 - 最新マルチモーダルAIを使いこなす生徒た"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを『答え』ではなく『思考の壁打ち』に",
+          "sub_title": "if塾では、AIに正解を求めず、思考を深めるための「プロンプト構成力」を育成しています。",
+          "text_content": "AIを『答え』ではなく『思考の壁打ち』に",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-04.png",
+          "image_file": "assets/img/posts/20260704_activity-04.png",
+          "overlay_text": "AIを『答え』ではなく『思考の壁打ち』に",
+          "subtext": "if塾では、AIに正解を求めず、思考を深めるための「プロンプト構成力」を育成しています。",
+          "alt": "内容3 - AIを『答え』ではなく『思考の壁打ち』に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIを部下にする力。「プロンプト思考」の授業",
+          "sub_title": "2026年7月最新：夏の特別講習レポート",
+          "text_content": "AIを部下にする力。「プロンプト思考」の授業",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-01.png",
+          "image_file": "assets/img/posts/20260704_activity-01.png",
+          "overlay_text": "AIを部下にする力。「プロンプト思考」の授業",
+          "subtext": "2026年7月最新：夏の特別講習レポート",
+          "alt": "表紙 - AIを部下にする力。「プロンプト思考」の"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索」はもう古い？今の悩みは「聞き方」",
+          "sub_title": "2026年、宿題の悩みは『答えを見つけること』から『AIへの指示がうまくいかないこと』へ変化しています。",
+          "text_content": "「検索」はもう古い？今の悩みは「聞き方」",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-02.png",
+          "image_file": "assets/img/posts/20260704_activity-02.png",
+          "overlay_text": "「検索」はもう古い？今の悩みは「聞き方」",
+          "subtext": "2026年、宿題の悩みは『答えを見つけること』から『AIへの指示がうまくいかないこと』へ変化しています。",
+          "alt": "内容1 - 「検索」はもう古い？今の悩みは「聞き方」"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "最新マルチモーダルAIを使いこなす生徒たち",
+          "sub_title": "図解もコードも一瞬。大事なのは、自分のアイデアを具体化するための「言語化スキル」です。",
+          "text_content": "最新マルチモーダルAIを使いこなす生徒たち",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-03.png",
+          "image_file": "assets/img/posts/20260704_activity-03.png",
+          "overlay_text": "最新マルチモーダルAIを使いこなす生徒たち",
+          "subtext": "図解もコードも一瞬。大事なのは、自分のアイデアを具体化するための「言語化スキル」です。",
+          "alt": "内容2 - 最新マルチモーダルAIを使いこなす生徒た"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを『答え』ではなく『思考の壁打ち』に",
+          "sub_title": "if塾では、AIに正解を求めず、思考を深めるための「プロンプト構成力」を育成しています。",
+          "text_content": "AIを『答え』ではなく『思考の壁打ち』に",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260704_activity-04.png",
+          "image_file": "assets/img/posts/20260704_activity-04.png",
+          "overlay_text": "AIを『答え』ではなく『思考の壁打ち』に",
+          "subtext": "if塾では、AIに正解を求めず、思考を深めるための「プロンプト構成力」を育成しています。",
+          "alt": "内容3 - AIを『答え』ではなく『思考の壁打ち』に"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260704_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260704_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260704_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260704_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-07-04T11:50:22",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIを部下にする力。「プロンプト思考」の",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIを部下にする力。「プロンプト思考」の授業",
+            "subtext": "2026年7月最新：夏の特別講習レポート",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「検索」はもう古い？今の悩みは「聞き方」",
+            "subtext": "2026年、宿題の悩みは『答えを見つけること』から『AIへの指示がうまくいかないこと』へ変化しています。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "最新マルチモーダルAIを使いこなす生徒たち",
+            "subtext": "図解もコードも一瞬。大事なのは、自分のアイデアを具体化するための「言語化スキル」です。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "AIを『答え』ではなく『思考の壁打ち』に",
+            "subtext": "if塾では、AIに正解を求めず、思考を深めるための「プロンプト構成力」を育成しています。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260703_business",
       "post_id": "20260703_business",
