@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 178,
-    "last_updated": "2026-07-04T15:37:10.334346",
+    "last_updated": "2026-07-04T21:11:44.485854",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,25 @@
     {
       "id": "20260704_activity",
       "post_id": "20260704_activity",
-      "created_at": "2026-07-04T15:37:10",
+      "created_at": "2026-07-04T21:11:44",
       "datetime": "2026-07-04T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
+      "theme": "AIと共創する夏。2026年最新ハッカソン速報",
       "target_audience": "Students & Parents",
-      "title": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-      "caption": "【2026年7月】ついにこの夏、伝説のハッカソンが進化して帰ってくる！\n\nみなさん、こんにちは！if塾です。✨\n生成AIがインフラ化した2026年、私たちは新たなステージへ進みます。\n\n「Tornado2026」は、ただのプログラミングイベントではありません。\nAIを「ツール」として完全に使いこなし、自分たちのアイデアを形にする\"次世代型\"のハッカソンです。🚀\n\n「AIに仕事を奪われる」と不安になる必要はありません。\n大事なのは、AIを最高のパートナーとしてどう動かすか。\n\nこの夏、if塾でしか味わえない「創造の爆発」を体験しませんか？\n詳細はプロフィール欄のリンクからチェックしてください！🔗\n\n#if塾 #2026年 #ハッカソン #生成AI #探究学習 #Tornado2026 #中高生プログラミング #夏休みイベント #AI教育",
-      "caption_text": "【2026年7月】ついにこの夏、伝説のハッカソンが進化して帰ってくる！\n\nみなさん、こんにちは！if塾です。✨\n生成AIがインフラ化した2026年、私たちは新たなステージへ進みます。\n\n「Tornado2026」は、ただのプログラミングイベントではありません。\nAIを「ツール」として完全に使いこなし、自分たちのアイデアを形にする\"次世代型\"のハッカソンです。🚀\n\n「AIに仕事を奪われる」と不安になる必要はありません。\n大事なのは、AIを最高のパートナーとしてどう動かすか。\n\nこの夏、if塾でしか味わえない「創造の爆発」を体験しませんか？\n詳細はプロフィール欄のリンクからチェックしてください！🔗\n\n#if塾 #2026年 #ハッカソン #生成AI #探究学習 #Tornado2026 #中高生プログラミング #夏休みイベント #AI教育",
+      "title": "AIと共創する夏。2026年最新ハッカソン速報",
+      "caption": "【2026年7月】最新の教育現場をお届けします！\n\nいよいよ夏休みが目前。if塾では本日、2026年夏のメインイベント『ハイブリッド・ハッカソン』を開催しました。\n\n数年前までは「AIを使うこと」自体が目的でしたが、2026年の今、AIはもはや「空気」のような存在。生徒たちはGPT-6ベースの開発エージェントを相棒に、自らのアイデアを凄まじいスピードで形にしています。\n\n私たちがこの夏、最も大切にしているのは「AIとの対話の質」です。ツールを使いこなす技術はもちろん、AIに何を解決させるのか？という人間ならではの視点が、これからの進路や受験でも重要視されます。\n\n今年の夏、if塾で一生モノの「共創力」を身につけませんか？\n\n詳細はプロフィールのリンクから特設ページへ！",
+      "caption_text": "【2026年7月】最新の教育現場をお届けします！\n\nいよいよ夏休みが目前。if塾では本日、2026年夏のメインイベント『ハイブリッド・ハッカソン』を開催しました。\n\n数年前までは「AIを使うこと」自体が目的でしたが、2026年の今、AIはもはや「空気」のような存在。生徒たちはGPT-6ベースの開発エージェントを相棒に、自らのアイデアを凄まじいスピードで形にしています。\n\n私たちがこの夏、最も大切にしているのは「AIとの対話の質」です。ツールを使いこなす技術はもちろん、AIに何を解決させるのか？という人間ならではの視点が、これからの進路や受験でも重要視されます。\n\n今年の夏、if塾で一生モノの「共創力」を身につけませんか？\n\n詳細はプロフィールのリンクから特設ページへ！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#ハッカソン",
-        "#生成AI",
-        "#AIエージェント",
-        "#プログラミング教育",
-        "#自由研究",
-        "#中高生"
+        "#夏休みハッカソン",
+        "#GPT6",
+        "#AI教育",
+        "#次世代リーダー",
+        "#プログラミング教室",
+        "#自由研究2026",
+        "#ハイブリッド開発"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-          "sub_title": "2026年7月最新｜AIを「道具」に変える夏",
-          "text_content": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
+          "main_title": "AIと共創する夏。2026年最新ハッカソン速報",
+          "sub_title": "2026.07.04：進路に差がつく『ハイブリッド開発』の現場から",
+          "text_content": "AIと共創する夏。2026年最新ハッカソン速報",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-01.png",
           "image_file": "assets/img/posts/20260704_activity-01.png",
-          "overlay_text": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-          "subtext": "2026年7月最新｜AIを「道具」に変える夏",
-          "alt": "表紙 - AIを飼い慣らせ！次世代ハッカソン「To"
+          "overlay_text": "AIと共創する夏。2026年最新ハッカソン速報",
+          "subtext": "2026.07.04：進路に差がつく『ハイブリッド開発』の現場から",
+          "alt": "表紙 - AIと共創する夏。2026年最新ハッカソ"
         },
         {
           "page_number": 2,
@@ -59,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに使われる側」で終わっていませんか？",
-          "sub_title": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは差別化できない時代、中高生の悩みは「何を作ればいいか分からない」に変化しています。",
-          "text_content": "「AIに使われる側」で終わっていませんか？",
+          "main_title": "「AI任せ」はもう古い。2026年、学生が直面する壁",
+          "sub_title": "生成AIが当たり前になった今、夏休みの自由制作で「自分らしさ」をどう出すか悩む生徒が増えています。",
+          "text_content": "「AI任せ」はもう古い。2026年、学生が直面する壁",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-02.png",
           "image_file": "assets/img/posts/20260704_activity-02.png",
-          "overlay_text": "「AIに使われる側」で終わっていませんか？",
-          "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは差別化できない時代、中高生の悩みは「何を作ればいいか分からない」に変化しています。",
-          "alt": "内容1 - 「AIに使われる側」で終わっていませんか"
+          "overlay_text": "「AI任せ」はもう古い。2026年、学生が直面する壁",
+          "subtext": "生成AIが当たり前になった今、夏休みの自由制作で「自分らしさ」をどう出すか悩む生徒が増えています。",
+          "alt": "内容1 - 「AI任せ」はもう古い。2026年、学生"
         },
         {
           "page_number": 3,
@@ -75,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントと共創する3日間",
-          "sub_title": "今年のTornadoは、最新のマルチモーダルAIをチームメンバーとして編成。生徒たちはPMとして、AIに指示を出し、検証し、プロダクトを爆速で組み上げます。",
-          "text_content": "自律型AIエージェントと共創する3日間",
+          "main_title": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
+          "sub_title": "指示を出すだけでなく、AIと議論しながらコードを組む。最新ツールを使いこなし、3時間でアプリを完成させる姿も。",
+          "text_content": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-03.png",
           "image_file": "assets/img/posts/20260704_activity-03.png",
-          "overlay_text": "自律型AIエージェントと共創する3日間",
-          "subtext": "今年のTornadoは、最新のマルチモーダルAIをチームメンバーとして編成。生徒たちはPMとして、AIに指示を出し、検証し、プロダクトを爆速で組み上げます。",
-          "alt": "内容2 - 自律型AIエージェントと共創する3日間"
+          "overlay_text": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
+          "subtext": "指示を出すだけでなく、AIと議論しながらコードを組む。最新ツールを使いこなし、3時間でアプリを完成させる姿も。",
+          "alt": "内容2 - 生徒の熱狂！『GPT-6搭載エージェント"
         },
         {
           "page_number": 4,
@@ -91,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「正解」を求めるより「問い」を立てる力を",
-          "sub_title": "if塾が重視するのは技術力以上に「課題発見力」。AIが答えを出す時代だからこそ、人間特有の視点で社会の歪みを見つけ、解決するプロセスを指導します。",
-          "text_content": "「正解」を求めるより「問い」を立てる力を",
+          "main_title": "指導者の視点：AI時代にこそ「問い」を育てる",
+          "sub_title": "if塾では、AIが解けない『なぜこれを作るのか？』という意志を重視。技術以上に、社会を動かす構想力を磨きます。",
+          "text_content": "指導者の視点：AI時代にこそ「問い」を育てる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-04.png",
           "image_file": "assets/img/posts/20260704_activity-04.png",
-          "overlay_text": "「正解」を求めるより「問い」を立てる力を",
-          "subtext": "if塾が重視するのは技術力以上に「課題発見力」。AIが答えを出す時代だからこそ、人間特有の視点で社会の歪みを見つけ、解決するプロセスを指導します。",
-          "alt": "内容3 - 「正解」を求めるより「問い」を立てる力を"
+          "overlay_text": "指導者の視点：AI時代にこそ「問い」を育てる",
+          "subtext": "if塾では、AIが解けない『なぜこれを作るのか？』という意志を重視。技術以上に、社会を動かす構想力を磨きます。",
+          "alt": "内容3 - 指導者の視点：AI時代にこそ「問い」を育"
         },
         {
           "page_number": 5,
@@ -125,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-          "sub_title": "2026年7月最新｜AIを「道具」に変える夏",
-          "text_content": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
+          "main_title": "AIと共創する夏。2026年最新ハッカソン速報",
+          "sub_title": "2026.07.04：進路に差がつく『ハイブリッド開発』の現場から",
+          "text_content": "AIと共創する夏。2026年最新ハッカソン速報",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-01.png",
           "image_file": "assets/img/posts/20260704_activity-01.png",
-          "overlay_text": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-          "subtext": "2026年7月最新｜AIを「道具」に変える夏",
-          "alt": "表紙 - AIを飼い慣らせ！次世代ハッカソン「To"
+          "overlay_text": "AIと共創する夏。2026年最新ハッカソン速報",
+          "subtext": "2026.07.04：進路に差がつく『ハイブリッド開発』の現場から",
+          "alt": "表紙 - AIと共創する夏。2026年最新ハッカソ"
         },
         {
           "page_number": 2,
@@ -141,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「AIに使われる側」で終わっていませんか？",
-          "sub_title": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは差別化できない時代、中高生の悩みは「何を作ればいいか分からない」に変化しています。",
-          "text_content": "「AIに使われる側」で終わっていませんか？",
+          "main_title": "「AI任せ」はもう古い。2026年、学生が直面する壁",
+          "sub_title": "生成AIが当たり前になった今、夏休みの自由制作で「自分らしさ」をどう出すか悩む生徒が増えています。",
+          "text_content": "「AI任せ」はもう古い。2026年、学生が直面する壁",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-02.png",
           "image_file": "assets/img/posts/20260704_activity-02.png",
-          "overlay_text": "「AIに使われる側」で終わっていませんか？",
-          "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは差別化できない時代、中高生の悩みは「何を作ればいいか分からない」に変化しています。",
-          "alt": "内容1 - 「AIに使われる側」で終わっていませんか"
+          "overlay_text": "「AI任せ」はもう古い。2026年、学生が直面する壁",
+          "subtext": "生成AIが当たり前になった今、夏休みの自由制作で「自分らしさ」をどう出すか悩む生徒が増えています。",
+          "alt": "内容1 - 「AI任せ」はもう古い。2026年、学生"
         },
         {
           "page_number": 3,
@@ -157,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントと共創する3日間",
-          "sub_title": "今年のTornadoは、最新のマルチモーダルAIをチームメンバーとして編成。生徒たちはPMとして、AIに指示を出し、検証し、プロダクトを爆速で組み上げます。",
-          "text_content": "自律型AIエージェントと共創する3日間",
+          "main_title": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
+          "sub_title": "指示を出すだけでなく、AIと議論しながらコードを組む。最新ツールを使いこなし、3時間でアプリを完成させる姿も。",
+          "text_content": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-03.png",
           "image_file": "assets/img/posts/20260704_activity-03.png",
-          "overlay_text": "自律型AIエージェントと共創する3日間",
-          "subtext": "今年のTornadoは、最新のマルチモーダルAIをチームメンバーとして編成。生徒たちはPMとして、AIに指示を出し、検証し、プロダクトを爆速で組み上げます。",
-          "alt": "内容2 - 自律型AIエージェントと共創する3日間"
+          "overlay_text": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
+          "subtext": "指示を出すだけでなく、AIと議論しながらコードを組む。最新ツールを使いこなし、3時間でアプリを完成させる姿も。",
+          "alt": "内容2 - 生徒の熱狂！『GPT-6搭載エージェント"
         },
         {
           "page_number": 4,
@@ -173,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「正解」を求めるより「問い」を立てる力を",
-          "sub_title": "if塾が重視するのは技術力以上に「課題発見力」。AIが答えを出す時代だからこそ、人間特有の視点で社会の歪みを見つけ、解決するプロセスを指導します。",
-          "text_content": "「正解」を求めるより「問い」を立てる力を",
+          "main_title": "指導者の視点：AI時代にこそ「問い」を育てる",
+          "sub_title": "if塾では、AIが解けない『なぜこれを作るのか？』という意志を重視。技術以上に、社会を動かす構想力を磨きます。",
+          "text_content": "指導者の視点：AI時代にこそ「問い」を育てる",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260704_activity-04.png",
           "image_file": "assets/img/posts/20260704_activity-04.png",
-          "overlay_text": "「正解」を求めるより「問い」を立てる力を",
-          "subtext": "if塾が重視するのは技術力以上に「課題発見力」。AIが答えを出す時代だからこそ、人間特有の視点で社会の歪みを見つけ、解決するプロセスを指導します。",
-          "alt": "内容3 - 「正解」を求めるより「問い」を立てる力を"
+          "overlay_text": "指導者の視点：AI時代にこそ「問い」を育てる",
+          "subtext": "if塾では、AIが解けない『なぜこれを作るのか？』という意志を重視。技術以上に、社会を動かす構想力を磨きます。",
+          "alt": "内容3 - 指導者の視点：AI時代にこそ「問い」を育"
         },
         {
           "page_number": 5,
@@ -229,22 +230,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "高崎翔太",
-        "role": "代表・講師",
+        "name": "渡辺柚気",
+        "role": "講師",
         "specialties": [
-          "AI",
-          "ビジネス",
-          "教育"
+          "プログラミング",
+          "デザイン"
         ],
-        "caption_text": "高崎翔太（代表・講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "takasaki_shota",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-04T15:35:52",
+      "research_date": "2026-07-04T21:10:25",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIを飼い慣らせ！次世代ハッカソン「To",
+        "cover_text": "AIと共創する夏。2026年最新ハッカソ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIを飼い慣らせ！次世代ハッカソン「Tornado2026」募集開始",
-            "subtext": "2026年7月最新｜AIを「道具」に変える夏",
+            "headline": "AIと共創する夏。2026年最新ハッカソン速報",
+            "subtext": "2026.07.04：進路に差がつく『ハイブリッド開発』の現場から",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「AIに使われる側」で終わっていませんか？",
-            "subtext": "生成AIが当たり前になった2026年。ただプロンプトを打つだけでは差別化できない時代、中高生の悩みは「何を作ればいいか分からない」に変化しています。",
+            "headline": "「AI任せ」はもう古い。2026年、学生が直面する壁",
+            "subtext": "生成AIが当たり前になった今、夏休みの自由制作で「自分らしさ」をどう出すか悩む生徒が増えています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントと共創する3日間",
-            "subtext": "今年のTornadoは、最新のマルチモーダルAIをチームメンバーとして編成。生徒たちはPMとして、AIに指示を出し、検証し、プロダクトを爆速で組み上げます。",
+            "headline": "生徒の熱狂！『GPT-6搭載エージェント』とのペアプロ",
+            "subtext": "指示を出すだけでなく、AIと議論しながらコードを組む。最新ツールを使いこなし、3時間でアプリを完成させる姿も。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「正解」を求めるより「問い」を立てる力を",
-            "subtext": "if塾が重視するのは技術力以上に「課題発見力」。AIが答えを出す時代だからこそ、人間特有の視点で社会の歪みを見つけ、解決するプロセスを指導します。",
+            "headline": "指導者の視点：AI時代にこそ「問い」を育てる",
+            "subtext": "if塾では、AIが解けない『なぜこれを作るのか？』という意志を重視。技術以上に、社会を動かす構想力を磨きます。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
