@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 200,
-    "last_updated": "2026-07-26T11:42:12.653862",
+    "last_updated": "2026-07-26T15:22:44.789064",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20260726_activity",
       "post_id": "20260726_activity",
-      "created_at": "2026-07-26T11:42:12",
+      "created_at": "2026-07-26T15:22:44",
       "datetime": "2026-07-26T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
@@ -229,21 +229,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "井上陽斗",
+        "name": "山﨑琢己",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "アプリ開発"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "山﨑琢己（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "yamazaki_takumi",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-26T11:41:52",
+      "research_date": "2026-07-26T15:22:24",
       "engagement": {
         "likes": 0,
         "comments": 0,
