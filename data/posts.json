@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 203,
-    "last_updated": "2026-07-29T11:32:54.758423",
+    "last_updated": "2026-07-29T15:15:41.464216",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20260729_development",
       "post_id": "20260729_development",
-      "created_at": "2026-07-29T11:32:54",
+      "created_at": "2026-07-29T15:15:41",
       "datetime": "2026-07-29T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
@@ -230,21 +230,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "渡辺柚気",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "デザイン"
+          "ロボット"
         ],
-        "caption_text": "渡辺柚気（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "watanabe_yuzuki",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-07-29T11:32:33",
+      "research_date": "2026-07-29T15:15:21",
       "engagement": {
         "likes": 0,
         "comments": 0,
