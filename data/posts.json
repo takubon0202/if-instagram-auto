@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 208,
-    "last_updated": "2026-08-03T16:16:33.502607",
+    "last_updated": "2026-08-03T22:45:59.338232",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,26 @@
     {
       "id": "20260803_announcement",
       "post_id": "20260803_announcement",
-      "created_at": "2026-08-03T16:16:33",
+      "created_at": "2026-08-03T22:45:59",
       "datetime": "2026-08-03T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
+      "theme": "【2026年最新】プログラミング教育が激変！AI必修化へ",
       "target_audience": "Students & Parents",
-      "title": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-      "caption": "【2026年8月】最新の夏休みトレンドをお届けします！☀️\n\n今、教育現場では「AIエージェント作成」の短期講座が爆発的に増えています。🤖✨\n\nかつては「プログラミング」が注目されましたが、2026年の現在は、AIに指示を出し、自分だけの秘書ツールを作るスキルが必須に。\n\n「AIを使いこなせる人」と「AIに使われる人」の差が、この夏ではっきりと分かれます。\n\nif塾では、単なる操作方法だけでなく、お子様の思考力を最大化するAI活用法を提案しています。\n\n自由研究のテーマが決まっていない方も、まだ間に合います！\n詳しくはプロフィール欄のリンクをチェック！🔗\n\n#if塾 #2026年 #生成AI #AIエージェント #自由研究 #最新教育 #リスキリング #夏休みの宿題",
-      "caption_text": "【2026年8月】最新の夏休みトレンドをお届けします！☀️\n\n今、教育現場では「AIエージェント作成」の短期講座が爆発的に増えています。🤖✨\n\nかつては「プログラミング」が注目されましたが、2026年の現在は、AIに指示を出し、自分だけの秘書ツールを作るスキルが必須に。\n\n「AIを使いこなせる人」と「AIに使われる人」の差が、この夏ではっきりと分かれます。\n\nif塾では、単なる操作方法だけでなく、お子様の思考力を最大化するAI活用法を提案しています。\n\n自由研究のテーマが決まっていない方も、まだ間に合います！\n詳しくはプロフィール欄のリンクをチェック！🔗\n\n#if塾 #2026年 #生成AI #AIエージェント #自由研究 #最新教育 #リスキリング #夏休みの宿題",
+      "title": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+      "caption": "【2026年8月】最新の教育ニュースをお届けします！\n\n文部科学省から、2028年度より先行実施される「次期学習指導要領」の全容が見えてきました。\n今回の目玉は、なんといっても「生成AIを活用したプログラミング学習」の本格導入です。\n\nこれまでは「どう書くか（Coding）」が中心でしたが、これからは「AIにどう指示し、何を創るか（Designing）」が問われる時代に突入します。\n\n「今のうちから何を準備すればいいの？」\n「AIを使ったら基礎力が身につかないのでは？」\n\nそんな不安をお持ちの保護者の皆様、ご安心ください。\nif塾では、2026年最新のAIツールを安全に使いこなし、論理的思考を深める独自カリキュラムを展開中です。\n\n変化の激しい2026年。お子様の未来を、私たちと一緒に準備しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
+      "caption_text": "【2026年8月】最新の教育ニュースをお届けします！\n\n文部科学省から、2028年度より先行実施される「次期学習指導要領」の全容が見えてきました。\n今回の目玉は、なんといっても「生成AIを活用したプログラミング学習」の本格導入です。\n\nこれまでは「どう書くか（Coding）」が中心でしたが、これからは「AIにどう指示し、何を創るか（Designing）」が問われる時代に突入します。\n\n「今のうちから何を準備すればいいの？」\n「AIを使ったら基礎力が身につかないのでは？」\n\nそんな不安をお持ちの保護者の皆様、ご安心ください。\nif塾では、2026年最新のAIツールを安全に使いこなし、論理的思考を深める独自カリキュラムを展開中です。\n\n変化の激しい2026年。お子様の未来を、私たちと一緒に準備しませんか？\n\n詳細はプロフィール欄のリンクからチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
+        "#教育改革",
+        "#文部科学省",
+        "#プログラミング教育",
         "#生成AI",
-        "#AIエージェント",
-        "#教育トレンド",
-        "#DX教育",
-        "#夏休み",
-        "#中学生",
-        "#高校生"
+        "#学習指導要領",
+        "#2028年問題",
+        "#子育てママ",
+        "#最新教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +45,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-          "sub_title": "8月3日更新：今すぐ差がつく最新教育トレンド",
-          "text_content": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
+          "main_title": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+          "sub_title": "2026年8月発表：文科省が示す2028年新課程の衝撃",
+          "text_content": "【2026年最新】プログラミング教育が激変！AI必修化へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-01.png",
           "image_file": "assets/img/posts/20260803_announcement-01.png",
-          "overlay_text": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-          "subtext": "8月3日更新：今すぐ差がつく最新教育トレンド",
-          "alt": "表紙 - 【2026年夏】乗り遅れるな！「AIエー"
+          "overlay_text": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+          "subtext": "2026年8月発表：文科省が示す2028年新課程の衝撃",
+          "alt": "表紙 - 【2026年最新】プログラミング教育が激"
         },
         {
           "page_number": 2,
@@ -60,15 +61,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIを「使う」から「作る」時代へ",
-          "sub_title": "2026年の夏休み、ただの調べ学習はもう古い？「自分専用のAI」を持てるかどうかが学力格差に直結しています。",
-          "text_content": "AIを「使う」から「作る」時代へ",
+          "main_title": "「コードを書かない」授業が当たり前に？",
+          "sub_title": "2028年度の先行実施に向け、生成AIを前提とした新学習指導要領の方針が固まりました。今の学習法では遅すぎるかもしれません。",
+          "text_content": "「コードを書かない」授業が当たり前に？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-02.png",
           "image_file": "assets/img/posts/20260803_announcement-02.png",
-          "overlay_text": "AIを「使う」から「作る」時代へ",
-          "subtext": "2026年の夏休み、ただの調べ学習はもう古い？「自分専用のAI」を持てるかどうかが学力格差に直結しています。",
-          "alt": "内容1 - AIを「使う」から「作る」時代へ"
+          "overlay_text": "「コードを書かない」授業が当たり前に？",
+          "subtext": "2028年度の先行実施に向け、生成AIを前提とした新学習指導要領の方針が固まりました。今の学習法では遅すぎるかもしれません。",
+          "alt": "内容1 - 「コードを書かない」授業が当たり前に？"
         },
         {
           "page_number": 3,
@@ -76,15 +77,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "短期講座が急増中！何が学べる？",
-          "sub_title": "最新の自律型AI構築ツールを使い、宿題のスケジュール管理や苦手克服を自動化する「パーソナルAI」を3日で完成させます。",
-          "text_content": "短期講座が急増中！何が学べる？",
+          "main_title": "AI×プログラミングで「創造力」を評価",
+          "sub_title": "文科省は、AIをツールとして使いこなし、複雑なシステムを構築する力を重視。単なる暗記ではなく「対話力（プロンプト）」が成績の鍵に。",
+          "text_content": "AI×プログラミングで「創造力」を評価",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-03.png",
           "image_file": "assets/img/posts/20260803_announcement-03.png",
-          "overlay_text": "短期講座が急増中！何が学べる？",
-          "subtext": "最新の自律型AI構築ツールを使い、宿題のスケジュール管理や苦手克服を自動化する「パーソナルAI」を3日で完成させます。",
-          "alt": "内容2 - 短期講座が急増中！何が学べる？"
+          "overlay_text": "AI×プログラミングで「創造力」を評価",
+          "subtext": "文科省は、AIをツールとして使いこなし、複雑なシステムを構築する力を重視。単なる暗記ではなく「対話力（プロンプト）」が成績の鍵に。",
+          "alt": "内容2 - AI×プログラミングで「創造力」を評価"
         },
         {
           "page_number": 4,
@@ -92,15 +93,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：失敗しないAIエージェント活用",
-          "sub_title": "大事なのは「丸投げ」ではなく「共創」。論理的思考力を養いながら、AIを相棒にする術をif塾で最速マスターしましょう。",
-          "text_content": "if塾流：失敗しないAIエージェント活用",
+          "main_title": "if塾なら「次世代AI活用術」が今すぐ学べる",
+          "sub_title": "当塾では2026年夏期講習より、最新のプログラミング特化型AIを導入。学校での先行実施に先駆け、圧倒的なリードを築きます。",
+          "text_content": "if塾なら「次世代AI活用術」が今すぐ学べる",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-04.png",
           "image_file": "assets/img/posts/20260803_announcement-04.png",
-          "overlay_text": "if塾流：失敗しないAIエージェント活用",
-          "subtext": "大事なのは「丸投げ」ではなく「共創」。論理的思考力を養いながら、AIを相棒にする術をif塾で最速マスターしましょう。",
-          "alt": "内容3 - if塾流：失敗しないAIエージェント活用"
+          "overlay_text": "if塾なら「次世代AI活用術」が今すぐ学べる",
+          "subtext": "当塾では2026年夏期講習より、最新のプログラミング特化型AIを導入。学校での先行実施に先駆け、圧倒的なリードを築きます。",
+          "alt": "内容3 - if塾なら「次世代AI活用術」が今すぐ学"
         },
         {
           "page_number": 5,
@@ -126,15 +127,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-          "sub_title": "8月3日更新：今すぐ差がつく最新教育トレンド",
-          "text_content": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
+          "main_title": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+          "sub_title": "2026年8月発表：文科省が示す2028年新課程の衝撃",
+          "text_content": "【2026年最新】プログラミング教育が激変！AI必修化へ",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-01.png",
           "image_file": "assets/img/posts/20260803_announcement-01.png",
-          "overlay_text": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-          "subtext": "8月3日更新：今すぐ差がつく最新教育トレンド",
-          "alt": "表紙 - 【2026年夏】乗り遅れるな！「AIエー"
+          "overlay_text": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+          "subtext": "2026年8月発表：文科省が示す2028年新課程の衝撃",
+          "alt": "表紙 - 【2026年最新】プログラミング教育が激"
         },
         {
           "page_number": 2,
@@ -142,15 +143,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIを「使う」から「作る」時代へ",
-          "sub_title": "2026年の夏休み、ただの調べ学習はもう古い？「自分専用のAI」を持てるかどうかが学力格差に直結しています。",
-          "text_content": "AIを「使う」から「作る」時代へ",
+          "main_title": "「コードを書かない」授業が当たり前に？",
+          "sub_title": "2028年度の先行実施に向け、生成AIを前提とした新学習指導要領の方針が固まりました。今の学習法では遅すぎるかもしれません。",
+          "text_content": "「コードを書かない」授業が当たり前に？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-02.png",
           "image_file": "assets/img/posts/20260803_announcement-02.png",
-          "overlay_text": "AIを「使う」から「作る」時代へ",
-          "subtext": "2026年の夏休み、ただの調べ学習はもう古い？「自分専用のAI」を持てるかどうかが学力格差に直結しています。",
-          "alt": "内容1 - AIを「使う」から「作る」時代へ"
+          "overlay_text": "「コードを書かない」授業が当たり前に？",
+          "subtext": "2028年度の先行実施に向け、生成AIを前提とした新学習指導要領の方針が固まりました。今の学習法では遅すぎるかもしれません。",
+          "alt": "内容1 - 「コードを書かない」授業が当たり前に？"
         },
         {
           "page_number": 3,
@@ -158,15 +159,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "短期講座が急増中！何が学べる？",
-          "sub_title": "最新の自律型AI構築ツールを使い、宿題のスケジュール管理や苦手克服を自動化する「パーソナルAI」を3日で完成させます。",
-          "text_content": "短期講座が急増中！何が学べる？",
+          "main_title": "AI×プログラミングで「創造力」を評価",
+          "sub_title": "文科省は、AIをツールとして使いこなし、複雑なシステムを構築する力を重視。単なる暗記ではなく「対話力（プロンプト）」が成績の鍵に。",
+          "text_content": "AI×プログラミングで「創造力」を評価",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-03.png",
           "image_file": "assets/img/posts/20260803_announcement-03.png",
-          "overlay_text": "短期講座が急増中！何が学べる？",
-          "subtext": "最新の自律型AI構築ツールを使い、宿題のスケジュール管理や苦手克服を自動化する「パーソナルAI」を3日で完成させます。",
-          "alt": "内容2 - 短期講座が急増中！何が学べる？"
+          "overlay_text": "AI×プログラミングで「創造力」を評価",
+          "subtext": "文科省は、AIをツールとして使いこなし、複雑なシステムを構築する力を重視。単なる暗記ではなく「対話力（プロンプト）」が成績の鍵に。",
+          "alt": "内容2 - AI×プログラミングで「創造力」を評価"
         },
         {
           "page_number": 4,
@@ -174,15 +175,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：失敗しないAIエージェント活用",
-          "sub_title": "大事なのは「丸投げ」ではなく「共創」。論理的思考力を養いながら、AIを相棒にする術をif塾で最速マスターしましょう。",
-          "text_content": "if塾流：失敗しないAIエージェント活用",
+          "main_title": "if塾なら「次世代AI活用術」が今すぐ学べる",
+          "sub_title": "当塾では2026年夏期講習より、最新のプログラミング特化型AIを導入。学校での先行実施に先駆け、圧倒的なリードを築きます。",
+          "text_content": "if塾なら「次世代AI活用術」が今すぐ学べる",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260803_announcement-04.png",
           "image_file": "assets/img/posts/20260803_announcement-04.png",
-          "overlay_text": "if塾流：失敗しないAIエージェント活用",
-          "subtext": "大事なのは「丸投げ」ではなく「共創」。論理的思考力を養いながら、AIを相棒にする術をif塾で最速マスターしましょう。",
-          "alt": "内容3 - if塾流：失敗しないAIエージェント活用"
+          "overlay_text": "if塾なら「次世代AI活用術」が今すぐ学べる",
+          "subtext": "当塾では2026年夏期講習より、最新のプログラミング特化型AIを導入。学校での先行実施に先駆け、圧倒的なリードを築きます。",
+          "alt": "内容3 - if塾なら「次世代AI活用術」が今すぐ学"
         },
         {
           "page_number": 5,
@@ -245,7 +246,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-08-03T16:15:05",
+      "research_date": "2026-08-03T22:44:33",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +254,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "【2026年夏】乗り遅れるな！「AIエー",
+        "cover_text": "【2026年最新】プログラミング教育が激",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "【2026年夏】乗り遅れるな！「AIエージェント作成」が自由研究の主流に",
-            "subtext": "8月3日更新：今すぐ差がつく最新教育トレンド",
+            "headline": "【2026年最新】プログラミング教育が激変！AI必修化へ",
+            "subtext": "2026年8月発表：文科省が示す2028年新課程の衝撃",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -269,8 +270,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "AIを「使う」から「作る」時代へ",
-            "subtext": "2026年の夏休み、ただの調べ学習はもう古い？「自分専用のAI」を持てるかどうかが学力格差に直結しています。",
+            "headline": "「コードを書かない」授業が当たり前に？",
+            "subtext": "2028年度の先行実施に向け、生成AIを前提とした新学習指導要領の方針が固まりました。今の学習法では遅すぎるかもしれません。",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -278,8 +279,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "短期講座が急増中！何が学べる？",
-            "subtext": "最新の自律型AI構築ツールを使い、宿題のスケジュール管理や苦手克服を自動化する「パーソナルAI」を3日で完成させます。",
+            "headline": "AI×プログラミングで「創造力」を評価",
+            "subtext": "文科省は、AIをツールとして使いこなし、複雑なシステムを構築する力を重視。単なる暗記ではなく「対話力（プロンプト）」が成績の鍵に。",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -287,8 +288,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：失敗しないAIエージェント活用",
-            "subtext": "大事なのは「丸投げ」ではなく「共創」。論理的思考力を養いながら、AIを相棒にする術をif塾で最速マスターしましょう。",
+            "headline": "if塾なら「次世代AI活用術」が今すぐ学べる",
+            "subtext": "当塾では2026年夏期講習より、最新のプログラミング特化型AIを導入。学校での先行実施に先駆け、圧倒的なリードを築きます。",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
