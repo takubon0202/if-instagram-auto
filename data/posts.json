@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 209,
-    "last_updated": "2026-08-04T22:07:29.524232",
+    "total_posts": 210,
+    "last_updated": "2026-08-05T11:27:56.030103",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260805_development",
+      "post_id": "20260805_development",
+      "created_at": "2026-08-05T11:27:56",
+      "datetime": "2026-08-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+      "target_audience": "Students & Parents",
+      "title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+      "caption": "【2026年8月】AIはついに「指示を待つ」段階を卒業しました。\n\nかつては「プロンプトエンジニアリング」が必須と言われましたが、2026年現在のトレンドは『エージェンティックAI（自律型AI）』への進化です。\n\n「これをやっておいて」とゴールを伝えるだけで、AIが自分でタスクを分解し、ネットで調べ、ドキュメントをまとめ上げる。そんな光景が当たり前になりつつあります。\n\n特に受験生や保護者の皆さんにとって、この夏は情報収集の効率が劇的に変わるターニングポイントです。\n\nif塾では、この最新AIを「丸投げ」するのではなく、どう共創していくかという「次世代の思考力」を伝えています。\n\n進化したAIの波に乗り遅れないために、まずは最新の自律ツールに触れてみませんか？\n\n詳細はプロフィールのリンクから！",
+      "caption_text": "【2026年8月】AIはついに「指示を待つ」段階を卒業しました。\n\nかつては「プロンプトエンジニアリング」が必須と言われましたが、2026年現在のトレンドは『エージェンティックAI（自律型AI）』への進化です。\n\n「これをやっておいて」とゴールを伝えるだけで、AIが自分でタスクを分解し、ネットで調べ、ドキュメントをまとめ上げる。そんな光景が当たり前になりつつあります。\n\n特に受験生や保護者の皆さんにとって、この夏は情報収集の効率が劇的に変わるターニングポイントです。\n\nif塾では、この最新AIを「丸投げ」するのではなく、どう共創していくかという「次世代の思考力」を伝えています。\n\n進化したAIの波に乗り遅れないために、まずは最新の自律ツールに触れてみませんか？\n\n詳細はプロフィールのリンクから！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#エージェンティックAI",
+        "#自律型AI",
+        "#AI教育",
+        "#最新テクノロジー",
+        "#プロンプトエンジニアリングの先へ",
+        "#夏休みの自由研究"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "sub_title": "2026年8月最新：プロンプト不要の時代へ",
+          "text_content": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-01.png",
+          "image_file": "assets/img/posts/20260805_development-01.png",
+          "overlay_text": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "subtext": "2026年8月最新：プロンプト不要の時代へ",
+          "alt": "表紙 - 指示待ちはもう終わり。自律型AIエージェ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「プロンプト疲れ」していませんか？",
+          "sub_title": "夏休みの自由研究や進路調査、AIに細かく指示を出すのが結局一番大変…そんな悩みが2026年の今、解消されつつあります。",
+          "text_content": "「プロンプト疲れ」していませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-02.png",
+          "image_file": "assets/img/posts/20260805_development-02.png",
+          "overlay_text": "「プロンプト疲れ」していませんか？",
+          "subtext": "夏休みの自由研究や進路調査、AIに細かく指示を出すのが結局一番大変…そんな悩みが2026年の今、解消されつつあります。",
+          "alt": "内容1 - 「プロンプト疲れ」していませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の主流『エージェンティックAI』",
+          "sub_title": "目的を伝えるだけで、AI自らが「思考・計画・実行」をループ。最新の自律モデルは、ブラウジングから資料作成まで勝手に完結させます。",
+          "text_content": "2026年の主流『エージェンティックAI』",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-03.png",
+          "image_file": "assets/img/posts/20260805_development-03.png",
+          "overlay_text": "2026年の主流『エージェンティックAI』",
+          "subtext": "目的を伝えるだけで、AI自らが「思考・計画・実行」をループ。最新の自律モデルは、ブラウジングから資料作成まで勝手に完結させます。",
+          "alt": "内容2 - 2026年の主流『エージェンティックAI"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「道具」から「相棒」へ",
+          "sub_title": "ただ使わせるのではなく、AIの思考プロセスを修正する『監督スキル』を。この夏、自律型AIを使いこなす側への一歩を踏み出そう。",
+          "text_content": "if塾流：AIを「道具」から「相棒」へ",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-04.png",
+          "image_file": "assets/img/posts/20260805_development-04.png",
+          "overlay_text": "if塾流：AIを「道具」から「相棒」へ",
+          "subtext": "ただ使わせるのではなく、AIの思考プロセスを修正する『監督スキル』を。この夏、自律型AIを使いこなす側への一歩を踏み出そう。",
+          "alt": "内容3 - if塾流：AIを「道具」から「相棒」へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "sub_title": "2026年8月最新：プロンプト不要の時代へ",
+          "text_content": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-01.png",
+          "image_file": "assets/img/posts/20260805_development-01.png",
+          "overlay_text": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+          "subtext": "2026年8月最新：プロンプト不要の時代へ",
+          "alt": "表紙 - 指示待ちはもう終わり。自律型AIエージェ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「プロンプト疲れ」していませんか？",
+          "sub_title": "夏休みの自由研究や進路調査、AIに細かく指示を出すのが結局一番大変…そんな悩みが2026年の今、解消されつつあります。",
+          "text_content": "「プロンプト疲れ」していませんか？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-02.png",
+          "image_file": "assets/img/posts/20260805_development-02.png",
+          "overlay_text": "「プロンプト疲れ」していませんか？",
+          "subtext": "夏休みの自由研究や進路調査、AIに細かく指示を出すのが結局一番大変…そんな悩みが2026年の今、解消されつつあります。",
+          "alt": "内容1 - 「プロンプト疲れ」していませんか？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "2026年の主流『エージェンティックAI』",
+          "sub_title": "目的を伝えるだけで、AI自らが「思考・計画・実行」をループ。最新の自律モデルは、ブラウジングから資料作成まで勝手に完結させます。",
+          "text_content": "2026年の主流『エージェンティックAI』",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-03.png",
+          "image_file": "assets/img/posts/20260805_development-03.png",
+          "overlay_text": "2026年の主流『エージェンティックAI』",
+          "subtext": "目的を伝えるだけで、AI自らが「思考・計画・実行」をループ。最新の自律モデルは、ブラウジングから資料作成まで勝手に完結させます。",
+          "alt": "内容2 - 2026年の主流『エージェンティックAI"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾流：AIを「道具」から「相棒」へ",
+          "sub_title": "ただ使わせるのではなく、AIの思考プロセスを修正する『監督スキル』を。この夏、自律型AIを使いこなす側への一歩を踏み出そう。",
+          "text_content": "if塾流：AIを「道具」から「相棒」へ",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260805_development-04.png",
+          "image_file": "assets/img/posts/20260805_development-04.png",
+          "overlay_text": "if塾流：AIを「道具」から「相棒」へ",
+          "subtext": "ただ使わせるのではなく、AIの思考プロセスを修正する『監督スキル』を。この夏、自律型AIを使いこなす側への一歩を踏み出そう。",
+          "alt": "内容3 - if塾流：AIを「道具」から「相棒」へ"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260805_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260805_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260805_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260805_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-08-05T11:26:24",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示待ちはもう終わり。自律型AIエージェ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示待ちはもう終わり。自律型AIエージェントの衝撃",
+            "subtext": "2026年8月最新：プロンプト不要の時代へ",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「プロンプト疲れ」していませんか？",
+            "subtext": "夏休みの自由研究や進路調査、AIに細かく指示を出すのが結局一番大変…そんな悩みが2026年の今、解消されつつあります。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "2026年の主流『エージェンティックAI』",
+            "subtext": "目的を伝えるだけで、AI自らが「思考・計画・実行」をループ。最新の自律モデルは、ブラウジングから資料作成まで勝手に完結させます。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾流：AIを「道具」から「相棒」へ",
+            "subtext": "ただ使わせるのではなく、AIの思考プロセスを修正する『監督スキル』を。この夏、自律型AIを使いこなす側への一歩を踏み出そう。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260804_education",
       "post_id": "20260804_education",
