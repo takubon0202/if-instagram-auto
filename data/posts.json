@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 237,
-    "last_updated": "2026-09-01T12:44:03.957110",
+    "last_updated": "2026-09-01T17:54:28.287796",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20260901_education",
       "post_id": "20260901_education",
-      "created_at": "2026-09-01T12:44:03",
+      "created_at": "2026-09-01T17:54:28",
       "datetime": "2026-09-01T09:00:00+09:00",
       "type": "carousel",
       "category": "education",
-      "theme": "2026年版：2026年のAI時代の教育",
+      "theme": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
       "target_audience": "Students & Parents",
-      "title": "2026年版：2026年のAI時代の教育",
-      "caption": "【2026年9月】2026年のAI時代の教育\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
-      "caption_text": "【2026年9月】2026年のAI時代の教育\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "title": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+      "caption": "【2026年9月】最新の大学入試情報をお届けします。📚\n\n今年の共通テスト「情報I」の結果を受け、多くの受験生が不安を感じていることでしょう。平均56.59点という数字は、これまでの「なんとかなる科目」から「合否を分ける重要科目」に変わったことを意味しています。\n\n2026年のトレンドは、ただ知識を詰め込むことではなく、問題の意図を素早く理解し、論理的に解を導き出す力です。\n\nif塾では、最新の入試傾向に合わせた専用プログラムで、あなたの現時点の偏差値から合格ラインまで最短ルートでガイドします！\n\n焦る必要はありません。今、この9月から正しい対策を始めれば十分に間に合います。一緒に合格を勝ち取りましょう！\n\n#大学入試 #共通テスト2027 #情報I #2026年受験 #教育コラム",
+      "caption_text": "【2026年9月】最新の大学入試情報をお届けします。📚\n\n今年の共通テスト「情報I」の結果を受け、多くの受験生が不安を感じていることでしょう。平均56.59点という数字は、これまでの「なんとかなる科目」から「合否を分ける重要科目」に変わったことを意味しています。\n\n2026年のトレンドは、ただ知識を詰め込むことではなく、問題の意図を素早く理解し、論理的に解を導き出す力です。\n\nif塾では、最新の入試傾向に合わせた専用プログラムで、あなたの現時点の偏差値から合格ラインまで最短ルートでガイドします！\n\n焦る必要はありません。今、この9月から正しい対策を始めれば十分に間に合います。一緒に合格を勝ち取りましょう！\n\n#大学入試 #共通テスト2027 #情報I #2026年受験 #教育コラム",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#if塾",
-        "#教育",
-        "#プログラミング教育",
-        "#AI時代",
-        "#子育て",
-        "#保護者向け",
-        "#将来のスキル"
+        "#共通テスト対策",
+        "#情報1",
+        "#受験生の親",
+        "#大学受験2027",
+        "#最新教育ニュース"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：2026年のAI時代の教育",
-          "sub_title": "9月の最新情報",
-          "text_content": "2026年版：2026年のAI時代の教育",
+          "main_title": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+          "sub_title": "9月1日更新：共通テストの難化に備える",
+          "text_content": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
           "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-01-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-01-fallback.png",
-          "overlay_text": "2026年版：2026年のAI時代の教育",
-          "subtext": "9月の最新情報",
-          "alt": "表紙 - 2026年版：2026年のAI時代の教育"
+          "image_url": "assets/img/posts/20260901_education-01.png",
+          "image_file": "assets/img/posts/20260901_education-01.png",
+          "overlay_text": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+          "subtext": "9月1日更新：共通テストの難化に備える",
+          "alt": "表紙 - 【2026年最新】情報I、平均56点の衝"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
+          "sub_title": "2026年本試験では平均56.59点と低迷。新課程導入から2年、予想以上の難化に受験生と保護者の不安がピークに達しています。",
+          "text_content": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
           "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-02-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-02-fallback.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "image_url": "assets/img/posts/20260901_education-02.png",
+          "image_file": "assets/img/posts/20260901_education-02.png",
+          "overlay_text": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
+          "subtext": "2026年本試験では平均56.59点と低迷。新課程導入から2年、予想以上の難化に受験生と保護者の不安がピークに達しています。",
+          "alt": "内容1 - 「去年より難しい…」共通テスト情報Iの平"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
+          "sub_title": "単なる用語暗記では太刀打ちできません。2026年度版の最新AI解析ツールを活用し、弱点であるプログラミングとデータ分析を徹底攻略します。",
+          "text_content": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
           "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-03-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-03-fallback.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "image_url": "assets/img/posts/20260901_education-03.png",
+          "image_file": "assets/img/posts/20260901_education-03.png",
+          "overlay_text": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
+          "subtext": "単なる用語暗記では太刀打ちできません。2026年度版の最新AI解析ツールを活用し、弱点であるプログラミングとデータ分析を徹底攻略します。",
+          "alt": "内容2 - if塾の視点：2026年の傾向は「思考力"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "9月から始める！得点を15点引き上げる3つのステップ",
+          "sub_title": "①過去問と新形式模試の徹底分析 ②Python等のコード理解の定着 ③1日15分の継続演習。if塾では個別の学習進捗をリアルタイム管理します。",
+          "text_content": "9月から始める！得点を15点引き上げる3つのステップ",
           "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-04-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-04-fallback.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "image_url": "assets/img/posts/20260901_education-04.png",
+          "image_file": "assets/img/posts/20260901_education-04.png",
+          "overlay_text": "9月から始める！得点を15点引き上げる3つのステップ",
+          "subtext": "①過去問と新形式模試の徹底分析 ②Python等のコード理解の定着 ③1日15分の継続演習。if塾では個別の学習進捗をリアルタイム管理します。",
+          "alt": "内容3 - 9月から始める！得点を15点引き上げる3"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：2026年のAI時代の教育",
-          "sub_title": "9月の最新情報",
-          "text_content": "2026年版：2026年のAI時代の教育",
+          "main_title": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+          "sub_title": "9月1日更新：共通テストの難化に備える",
+          "text_content": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
           "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-01-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-01-fallback.png",
-          "overlay_text": "2026年版：2026年のAI時代の教育",
-          "subtext": "9月の最新情報",
-          "alt": "表紙 - 2026年版：2026年のAI時代の教育"
+          "image_url": "assets/img/posts/20260901_education-01.png",
+          "image_file": "assets/img/posts/20260901_education-01.png",
+          "overlay_text": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+          "subtext": "9月1日更新：共通テストの難化に備える",
+          "alt": "表紙 - 【2026年最新】情報I、平均56点の衝"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
+          "sub_title": "2026年本試験では平均56.59点と低迷。新課程導入から2年、予想以上の難化に受験生と保護者の不安がピークに達しています。",
+          "text_content": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
           "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-02-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-02-fallback.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "image_url": "assets/img/posts/20260901_education-02.png",
+          "image_file": "assets/img/posts/20260901_education-02.png",
+          "overlay_text": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
+          "subtext": "2026年本試験では平均56.59点と低迷。新課程導入から2年、予想以上の難化に受験生と保護者の不安がピークに達しています。",
+          "alt": "内容1 - 「去年より難しい…」共通テスト情報Iの平"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
+          "sub_title": "単なる用語暗記では太刀打ちできません。2026年度版の最新AI解析ツールを活用し、弱点であるプログラミングとデータ分析を徹底攻略します。",
+          "text_content": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
           "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-03-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-03-fallback.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "image_url": "assets/img/posts/20260901_education-03.png",
+          "image_file": "assets/img/posts/20260901_education-03.png",
+          "overlay_text": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
+          "subtext": "単なる用語暗記では太刀打ちできません。2026年度版の最新AI解析ツールを活用し、弱点であるプログラミングとデータ分析を徹底攻略します。",
+          "alt": "内容2 - if塾の視点：2026年の傾向は「思考力"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "9月から始める！得点を15点引き上げる3つのステップ",
+          "sub_title": "①過去問と新形式模試の徹底分析 ②Python等のコード理解の定着 ③1日15分の継続演習。if塾では個別の学習進捗をリアルタイム管理します。",
+          "text_content": "9月から始める！得点を15点引き上げる3つのステップ",
           "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20260901_education-04-fallback.png",
-          "image_file": "assets/img/posts/20260901_education-04-fallback.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "image_url": "assets/img/posts/20260901_education-04.png",
+          "image_file": "assets/img/posts/20260901_education-04.png",
+          "overlay_text": "9月から始める！得点を15点引き上げる3つのステップ",
+          "subtext": "①過去問と新形式模試の徹底分析 ②Python等のコード理解の定着 ③1日15分の継続演習。if塾では個別の学習進捗をリアルタイム管理します。",
+          "alt": "内容3 - 9月から始める！得点を15点引き上げる3"
         },
         {
           "page_number": 5,
@@ -204,22 +202,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20260901_education-01-fallback.png",
+          "src": "assets/img/posts/20260901_education-01.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260901_education-02-fallback.png",
+          "src": "assets/img/posts/20260901_education-02.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260901_education-03-fallback.png",
+          "src": "assets/img/posts/20260901_education-03.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20260901_education-04-fallback.png",
+          "src": "assets/img/posts/20260901_education-04.png",
           "alt": "シーン4"
         },
         {
@@ -245,7 +243,7 @@
         "reason": "educationカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-01T12:43:41",
+      "research_date": "2026-09-01T17:53:01",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年版：2026年のAI時代の教育",
+        "cover_text": "【2026年最新】情報I、平均56点の衝",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年版：2026年のAI時代の教育",
-            "subtext": "9月の最新情報",
+            "headline": "【2026年最新】情報I、平均56点の衝撃。今から逆転する戦略",
+            "subtext": "9月1日更新：共通テストの難化に備える",
             "purpose": "問いかけ・逆説",
             "staff_image": null
           },
@@ -269,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "こんな悩みありませんか？",
-            "subtext": "2026年の課題",
+            "headline": "「去年より難しい…」共通テスト情報Iの平均点が大幅低下",
+            "subtext": "2026年本試験では平均56.59点と低迷。新課程導入から2年、予想以上の難化に受験生と保護者の不安がピークに達しています。",
             "purpose": "世の中の流れ（現状の課題）",
             "staff_image": null
           },
@@ -278,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の解決策をご紹介",
-            "subtext": "最新ツールで解決",
+            "headline": "if塾の視点：2026年の傾向は「思考力」と「応用力」の勝負",
+            "subtext": "単なる用語暗記では太刀打ちできません。2026年度版の最新AI解析ツールを活用し、弱点であるプログラミングとデータ分析を徹底攻略します。",
             "purpose": "if塾の考え（解決策・視点）",
             "staff_image": null
           },
@@ -287,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "今すぐ始めよう",
-            "subtext": "if塾で学ぶ",
+            "headline": "9月から始める！得点を15点引き上げる3つのステップ",
+            "subtext": "①過去問と新形式模試の徹底分析 ②Python等のコード理解の定着 ③1日15分の継続演習。if塾では個別の学習進捗をリアルタイム管理します。",
             "purpose": "今やるべきこと（提案）",
             "staff_image": null
           },
