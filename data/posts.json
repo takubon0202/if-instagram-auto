@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 237,
-    "last_updated": "2026-09-01T17:54:28.287796",
+    "total_posts": 238,
+    "last_updated": "2026-09-02T00:28:35.449147",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,295 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260902_development",
+      "post_id": "20260902_development",
+      "created_at": "2026-09-02T00:28:35",
+      "datetime": "2026-09-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "development",
+      "theme": "2026年秋、ついに「コードを書かない」が当たり前に？",
+      "target_audience": "Students & Parents",
+      "title": "2026年秋、ついに「コードを書かない」が当たり前に？",
+      "caption": "【2026年9月】最新の教育トレンドをお届け！\n\n「プログラミングを学びたいけど、コードが難解そう…」\nそんな壁は、2026年の今、完全に崩れ去りました。✨\n\n今注目されているのは、自然言語で直感的にAIと開発を進める「バイブコーディング」。\n専門用語を覚えなくても、あなたの「やりたい！」という想い（バイブス）があれば、AIが即座に形にしてくれる時代です。\n\nif塾では、この最新技術をいち早く取り入れ、\n「コードの書き方」ではなく「価値の生み出し方」を教えています。\n\nこの秋、あなたもAIと共に「創る楽しさ」を体験してみませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
+      "caption_text": "【2026年9月】最新の教育トレンドをお届け！\n\n「プログラミングを学びたいけど、コードが難解そう…」\nそんな壁は、2026年の今、完全に崩れ去りました。✨\n\n今注目されているのは、自然言語で直感的にAIと開発を進める「バイブコーディング」。\n専門用語を覚えなくても、あなたの「やりたい！」という想い（バイブス）があれば、AIが即座に形にしてくれる時代です。\n\nif塾では、この最新技術をいち早く取り入れ、\n「コードの書き方」ではなく「価値の生み出し方」を教えています。\n\nこの秋、あなたもAIと共に「創る楽しさ」を体験してみませんか？\n\n詳細はプロフィールのリンクからチェック！🔗",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#バイブコーディング",
+        "#AI駆動開発",
+        "#最新教育",
+        "#ノーコードの先へ",
+        "#プログラミング教育",
+        "#自由研究"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "sub_title": "9月最新：バイブコーディングが変える学びの常識",
+          "text_content": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-01.png",
+          "image_file": "assets/img/posts/20260902_development-01.png",
+          "overlay_text": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "subtext": "9月最新：バイブコーディングが変える学びの常識",
+          "alt": "表紙 - 2026年秋、ついに「コードを書かない」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "プログラミングは難しい、はもう古い？",
+          "sub_title": "「やりたいことはあるけど、構文エラーで挫折する」そんな悩みは、言葉で伝えるだけのAI駆動開発が解決しました。",
+          "text_content": "プログラミングは難しい、はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-02.png",
+          "image_file": "assets/img/posts/20260902_development-02.png",
+          "overlay_text": "プログラミングは難しい、はもう古い？",
+          "subtext": "「やりたいことはあるけど、構文エラーで挫折する」そんな悩みは、言葉で伝えるだけのAI駆動開発が解決しました。",
+          "alt": "内容1 - プログラミングは難しい、はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「バイブコーディング」で思考がそのまま形に",
+          "sub_title": "2026年主流の最新ツールは、曖昧な指示（バイブス）を解釈。自然言語で話しかけるだけで、アプリが目の前で組み上がります。",
+          "text_content": "「バイブコーディング」で思考がそのまま形に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-03.png",
+          "image_file": "assets/img/posts/20260902_development-03.png",
+          "overlay_text": "「バイブコーディング」で思考がそのまま形に",
+          "subtext": "2026年主流の最新ツールは、曖昧な指示（バイブス）を解釈。自然言語で話しかけるだけで、アプリが目の前で組み上がります。",
+          "alt": "内容2 - 「バイブコーディング」で思考がそのまま形"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「作る力」の伸ばし方",
+          "sub_title": "書き方を覚える時間は、何を解決するかの「構想力」へ。AIを相棒に、自由自在にアイデアを具現化するスキルを身につけます。",
+          "text_content": "if塾が提案する「作る力」の伸ばし方",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-04.png",
+          "image_file": "assets/img/posts/20260902_development-04.png",
+          "overlay_text": "if塾が提案する「作る力」の伸ばし方",
+          "subtext": "書き方を覚える時間は、何を解決するかの「構想力」へ。AIを相棒に、自由自在にアイデアを具現化するスキルを身につけます。",
+          "alt": "内容3 - if塾が提案する「作る力」の伸ばし方"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "sub_title": "9月最新：バイブコーディングが変える学びの常識",
+          "text_content": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-01.png",
+          "image_file": "assets/img/posts/20260902_development-01.png",
+          "overlay_text": "2026年秋、ついに「コードを書かない」が当たり前に？",
+          "subtext": "9月最新：バイブコーディングが変える学びの常識",
+          "alt": "表紙 - 2026年秋、ついに「コードを書かない」"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "プログラミングは難しい、はもう古い？",
+          "sub_title": "「やりたいことはあるけど、構文エラーで挫折する」そんな悩みは、言葉で伝えるだけのAI駆動開発が解決しました。",
+          "text_content": "プログラミングは難しい、はもう古い？",
+          "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-02.png",
+          "image_file": "assets/img/posts/20260902_development-02.png",
+          "overlay_text": "プログラミングは難しい、はもう古い？",
+          "subtext": "「やりたいことはあるけど、構文エラーで挫折する」そんな悩みは、言葉で伝えるだけのAI駆動開発が解決しました。",
+          "alt": "内容1 - プログラミングは難しい、はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「バイブコーディング」で思考がそのまま形に",
+          "sub_title": "2026年主流の最新ツールは、曖昧な指示（バイブス）を解釈。自然言語で話しかけるだけで、アプリが目の前で組み上がります。",
+          "text_content": "「バイブコーディング」で思考がそのまま形に",
+          "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-03.png",
+          "image_file": "assets/img/posts/20260902_development-03.png",
+          "overlay_text": "「バイブコーディング」で思考がそのまま形に",
+          "subtext": "2026年主流の最新ツールは、曖昧な指示（バイブス）を解釈。自然言語で話しかけるだけで、アプリが目の前で組み上がります。",
+          "alt": "内容2 - 「バイブコーディング」で思考がそのまま形"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾が提案する「作る力」の伸ばし方",
+          "sub_title": "書き方を覚える時間は、何を解決するかの「構想力」へ。AIを相棒に、自由自在にアイデアを具現化するスキルを身につけます。",
+          "text_content": "if塾が提案する「作る力」の伸ばし方",
+          "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260902_development-04.png",
+          "image_file": "assets/img/posts/20260902_development-04.png",
+          "overlay_text": "if塾が提案する「作る力」の伸ばし方",
+          "subtext": "書き方を覚える時間は、何を解決するかの「構想力」へ。AIを相棒に、自由自在にアイデアを具現化するスキルを身につけます。",
+          "alt": "内容3 - if塾が提案する「作る力」の伸ばし方"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260902_development-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260902_development-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260902_development-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260902_development-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "開発物",
+      "staff": {
+        "name": "加賀屋結眞",
+        "role": "講師",
+        "specialties": [
+          "AI",
+          "Webアプリ開発"
+        ],
+        "caption_text": "加賀屋結眞（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "kagaya_yuma",
+        "image_type": "teaching",
+        "reason": "developmentカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-09-02T00:27:02",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年秋、ついに「コードを書かない」",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年秋、ついに「コードを書かない」が当たり前に？",
+            "subtext": "9月最新：バイブコーディングが変える学びの常識",
+            "purpose": "成果物の完成画像＋キャッチコピー",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "プログラミングは難しい、はもう古い？",
+            "subtext": "「やりたいことはあるけど、構文エラーで挫折する」そんな悩みは、言葉で伝えるだけのAI駆動開発が解決しました。",
+            "purpose": "どんな悩みを解決？（Before/課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「バイブコーディング」で思考がそのまま形に",
+            "subtext": "2026年主流の最新ツールは、曖昧な指示（バイブス）を解釈。自然言語で話しかけるだけで、アプリが目の前で組み上がります。",
+            "purpose": "どうやって動く？（Process/機能）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾が提案する「作る力」の伸ばし方",
+            "subtext": "書き方を覚える時間は、何を解決するかの「構想力」へ。AIを相棒に、自由自在にアイデアを具現化するスキルを身につけます。",
+            "purpose": "使った結果は？（After/結果）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260901_education",
       "post_id": "20260901_education",
