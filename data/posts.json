@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 238,
-    "last_updated": "2026-09-02T12:04:02.286785",
+    "last_updated": "2026-09-02T17:07:51.919721",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,23 @@
     {
       "id": "20260902_development",
       "post_id": "20260902_development",
-      "created_at": "2026-09-02T12:04:02",
+      "created_at": "2026-09-02T17:07:51",
       "datetime": "2026-09-02T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "コード不要の「バイブ開発」が当たり前に？",
+      "theme": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
       "target_audience": "Students & Parents",
-      "title": "コード不要の「バイブ開発」が当たり前に？",
-      "caption": "【2026年9月】最新の開発スタイルをチェック！\n\n「プログラミング＝ひたすらコードを書く」という常識が、今まさに変わろうとしています。\n\n今注目されているのは『Vibe Coding（バイブコーディング）』。詳細なコード知識よりも、AIに的確な指示を出し、対話しながらアプリを組み上げていくスタイルです。\n\n「夏休みの自由研究でアプリを作ったけれど、次はもっと本格的なものに挑戦したい」\nそんな学生さんや、お子様の将来を考える保護者の皆様へ。\n\nif塾では、単なるコードの書き方ではなく、AIをパートナーとして「形にする力」を育んでいます。\n最新のAIツールを使いこなし、自分のアイデアを瞬時に形にする体験をしてみませんか？\n\n詳細はプロフィールのリンクから公式LINEをチェック！✨",
-      "caption_text": "【2026年9月】最新の開発スタイルをチェック！\n\n「プログラミング＝ひたすらコードを書く」という常識が、今まさに変わろうとしています。\n\n今注目されているのは『Vibe Coding（バイブコーディング）』。詳細なコード知識よりも、AIに的確な指示を出し、対話しながらアプリを組み上げていくスタイルです。\n\n「夏休みの自由研究でアプリを作ったけれど、次はもっと本格的なものに挑戦したい」\nそんな学生さんや、お子様の将来を考える保護者の皆様へ。\n\nif塾では、単なるコードの書き方ではなく、AIをパートナーとして「形にする力」を育んでいます。\n最新のAIツールを使いこなし、自分のアイデアを瞬時に形にする体験をしてみませんか？\n\n詳細はプロフィールのリンクから公式LINEをチェック！✨",
+      "title": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+      "caption": "【2026年9月】最新のテクノロジートレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のものかもしれません。\n\n今、中高生のエンジニアたちの間で熱いのが『Agentic AI（エージェント型AI）』の開発です。Pythonを使って、AIに「目標」を与えるだけで、AI自らがタスクを細分化し、実行し、修正まで行います。\n\nif塾でも、この自律型AIを自身の学習管理や自由研究に活用する生徒が急増中。単なるツール利用にとどまらず、「構造を理解して作る」力が、これからの入試やキャリアで決定的な差になります。\n\n夏休み明け、一歩先行くスキルを身につけませんか？\n\n詳細はプロフィールリンクをチェック！\n#if塾 #2026年 #AI開発 #Python学習 #中高生プログラミング #AgenticAI #自由研究 #最新技術",
+      "caption_text": "【2026年9月】最新のテクノロジートレンドをお届けします！\n\n「AIに何を聞けばいいかわからない…」\nそんな悩みはもう過去のものかもしれません。\n\n今、中高生のエンジニアたちの間で熱いのが『Agentic AI（エージェント型AI）』の開発です。Pythonを使って、AIに「目標」を与えるだけで、AI自らがタスクを細分化し、実行し、修正まで行います。\n\nif塾でも、この自律型AIを自身の学習管理や自由研究に活用する生徒が急増中。単なるツール利用にとどまらず、「構造を理解して作る」力が、これからの入試やキャリアで決定的な差になります。\n\n夏休み明け、一歩先行くスキルを身につけませんか？\n\n詳細はプロフィールリンクをチェック！\n#if塾 #2026年 #AI開発 #Python学習 #中高生プログラミング #AgenticAI #自由研究 #最新技術",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#VibeCoding",
-        "#バイブコーディング",
-        "#AI開発",
+        "#AIエージェント",
+        "#Python",
         "#プログラミング教育",
-        "#ノーコード",
-        "#最新テック"
+        "#自律型AI",
+        "#中高生エンジニア"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の「バイブ開発」が当たり前に？",
-          "sub_title": "2026年9月最新：AIと共鳴する新時代のモノづくり",
-          "text_content": "コード不要の「バイブ開発」が当たり前に？",
+          "main_title": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+          "sub_title": "2026年9月最新：指示待ちAIはもう古い？",
+          "text_content": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-01.png",
           "image_file": "assets/img/posts/20260902_development-01.png",
-          "overlay_text": "コード不要の「バイブ開発」が当たり前に？",
-          "subtext": "2026年9月最新：AIと共鳴する新時代のモノづくり",
-          "alt": "表紙 - コード不要の「バイブ開発」が当たり前に？"
+          "overlay_text": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+          "subtext": "2026年9月最新：指示待ちAIはもう古い？",
+          "alt": "表紙 - 中高生がPythonで放つ！自律型AIエ"
         },
         {
           "page_number": 2,
@@ -59,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミングは難しい」は過去の話？",
-          "sub_title": "文法ミスで悩む時間はもう終わり。2026年、学生が直面しているのは『コードの書き方』ではなく『AIへの伝え方』の壁です。",
-          "text_content": "「プログラミングは難しい」は過去の話？",
+          "main_title": "「AIを使いこなす」から「AIを働かせる」時代へ",
+          "sub_title": "プロンプトを入力し続ける毎日に疲れていませんか？2026年、中高生は自分で考えて動く『Agentic AI』を作り始めています。",
+          "text_content": "「AIを使いこなす」から「AIを働かせる」時代へ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-02.png",
           "image_file": "assets/img/posts/20260902_development-02.png",
-          "overlay_text": "「プログラミングは難しい」は過去の話？",
-          "subtext": "文法ミスで悩む時間はもう終わり。2026年、学生が直面しているのは『コードの書き方』ではなく『AIへの伝え方』の壁です。",
-          "alt": "内容1 - 「プログラミングは難しい」は過去の話？"
+          "overlay_text": "「AIを使いこなす」から「AIを働かせる」時代へ",
+          "subtext": "プロンプトを入力し続ける毎日に疲れていませんか？2026年、中高生は自分で考えて動く『Agentic AI』を作り始めています。",
+          "alt": "内容1 - 「AIを使いこなす」から「AIを働かせる"
         },
         {
           "page_number": 3,
@@ -75,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Vibe Coding（バイブコーディング）の衝撃",
-          "sub_title": "進化したGitHub CopilotやCursor、そして最新のマルチモーダルAI。言葉の「ニュアンス」を伝えるだけで、複雑なアプリが数分で組み上がる時代に。",
-          "text_content": "Vibe Coding（バイブコーディング）の衝撃",
+          "main_title": "Python×最新フレームワークで自律化を実装",
+          "sub_title": "LangChain 2.0以降の普及により、ブラウジング、コード実行、検証までをAIが自己ループで完結。中高生が一人で高度な秘書AIを開発可能です。",
+          "text_content": "Python×最新フレームワークで自律化を実装",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-03.png",
           "image_file": "assets/img/posts/20260902_development-03.png",
-          "overlay_text": "Vibe Coding（バイブコーディング）の衝撃",
-          "subtext": "進化したGitHub CopilotやCursor、そして最新のマルチモーダルAI。言葉の「ニュアンス」を伝えるだけで、複雑なアプリが数分で組み上がる時代に。",
-          "alt": "内容2 - Vibe Coding（バイブコーディン"
+          "overlay_text": "Python×最新フレームワークで自律化を実装",
+          "subtext": "LangChain 2.0以降の普及により、ブラウジング、コード実行、検証までをAIが自己ループで完結。中高生が一人で高度な秘書AIを開発可能です。",
+          "alt": "内容2 - Python×最新フレームワークで自律化"
         },
         {
           "page_number": 4,
@@ -91,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AIを乗りこなす力」",
-          "sub_title": "大事なのはAIに何をさせるかという『設計図』。バイブス（感性）を論理的なプロンプトに変換する力が、2026年以降の必須スキルになります。",
-          "text_content": "if塾が教える「AIを乗りこなす力」",
+          "main_title": "if塾の視点：受験勉強もAIが自律管理する未来",
+          "sub_title": "志望校の傾向分析から、弱点補強のカリキュラム作成、毎日の進捗確認まで。Agentic AIは「最高の学習パートナー」へと進化しています。",
+          "text_content": "if塾の視点：受験勉強もAIが自律管理する未来",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-04.png",
           "image_file": "assets/img/posts/20260902_development-04.png",
-          "overlay_text": "if塾が教える「AIを乗りこなす力」",
-          "subtext": "大事なのはAIに何をさせるかという『設計図』。バイブス（感性）を論理的なプロンプトに変換する力が、2026年以降の必須スキルになります。",
-          "alt": "内容3 - if塾が教える「AIを乗りこなす力」"
+          "overlay_text": "if塾の視点：受験勉強もAIが自律管理する未来",
+          "subtext": "志望校の傾向分析から、弱点補強のカリキュラム作成、毎日の進捗確認まで。Agentic AIは「最高の学習パートナー」へと進化しています。",
+          "alt": "内容3 - if塾の視点：受験勉強もAIが自律管理す"
         },
         {
           "page_number": 5,
@@ -125,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要の「バイブ開発」が当たり前に？",
-          "sub_title": "2026年9月最新：AIと共鳴する新時代のモノづくり",
-          "text_content": "コード不要の「バイブ開発」が当たり前に？",
+          "main_title": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+          "sub_title": "2026年9月最新：指示待ちAIはもう古い？",
+          "text_content": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-01.png",
           "image_file": "assets/img/posts/20260902_development-01.png",
-          "overlay_text": "コード不要の「バイブ開発」が当たり前に？",
-          "subtext": "2026年9月最新：AIと共鳴する新時代のモノづくり",
-          "alt": "表紙 - コード不要の「バイブ開発」が当たり前に？"
+          "overlay_text": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+          "subtext": "2026年9月最新：指示待ちAIはもう古い？",
+          "alt": "表紙 - 中高生がPythonで放つ！自律型AIエ"
         },
         {
           "page_number": 2,
@@ -141,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミングは難しい」は過去の話？",
-          "sub_title": "文法ミスで悩む時間はもう終わり。2026年、学生が直面しているのは『コードの書き方』ではなく『AIへの伝え方』の壁です。",
-          "text_content": "「プログラミングは難しい」は過去の話？",
+          "main_title": "「AIを使いこなす」から「AIを働かせる」時代へ",
+          "sub_title": "プロンプトを入力し続ける毎日に疲れていませんか？2026年、中高生は自分で考えて動く『Agentic AI』を作り始めています。",
+          "text_content": "「AIを使いこなす」から「AIを働かせる」時代へ",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-02.png",
           "image_file": "assets/img/posts/20260902_development-02.png",
-          "overlay_text": "「プログラミングは難しい」は過去の話？",
-          "subtext": "文法ミスで悩む時間はもう終わり。2026年、学生が直面しているのは『コードの書き方』ではなく『AIへの伝え方』の壁です。",
-          "alt": "内容1 - 「プログラミングは難しい」は過去の話？"
+          "overlay_text": "「AIを使いこなす」から「AIを働かせる」時代へ",
+          "subtext": "プロンプトを入力し続ける毎日に疲れていませんか？2026年、中高生は自分で考えて動く『Agentic AI』を作り始めています。",
+          "alt": "内容1 - 「AIを使いこなす」から「AIを働かせる"
         },
         {
           "page_number": 3,
@@ -157,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Vibe Coding（バイブコーディング）の衝撃",
-          "sub_title": "進化したGitHub CopilotやCursor、そして最新のマルチモーダルAI。言葉の「ニュアンス」を伝えるだけで、複雑なアプリが数分で組み上がる時代に。",
-          "text_content": "Vibe Coding（バイブコーディング）の衝撃",
+          "main_title": "Python×最新フレームワークで自律化を実装",
+          "sub_title": "LangChain 2.0以降の普及により、ブラウジング、コード実行、検証までをAIが自己ループで完結。中高生が一人で高度な秘書AIを開発可能です。",
+          "text_content": "Python×最新フレームワークで自律化を実装",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-03.png",
           "image_file": "assets/img/posts/20260902_development-03.png",
-          "overlay_text": "Vibe Coding（バイブコーディング）の衝撃",
-          "subtext": "進化したGitHub CopilotやCursor、そして最新のマルチモーダルAI。言葉の「ニュアンス」を伝えるだけで、複雑なアプリが数分で組み上がる時代に。",
-          "alt": "内容2 - Vibe Coding（バイブコーディン"
+          "overlay_text": "Python×最新フレームワークで自律化を実装",
+          "subtext": "LangChain 2.0以降の普及により、ブラウジング、コード実行、検証までをAIが自己ループで完結。中高生が一人で高度な秘書AIを開発可能です。",
+          "alt": "内容2 - Python×最新フレームワークで自律化"
         },
         {
           "page_number": 4,
@@ -173,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教える「AIを乗りこなす力」",
-          "sub_title": "大事なのはAIに何をさせるかという『設計図』。バイブス（感性）を論理的なプロンプトに変換する力が、2026年以降の必須スキルになります。",
-          "text_content": "if塾が教える「AIを乗りこなす力」",
+          "main_title": "if塾の視点：受験勉強もAIが自律管理する未来",
+          "sub_title": "志望校の傾向分析から、弱点補強のカリキュラム作成、毎日の進捗確認まで。Agentic AIは「最高の学習パートナー」へと進化しています。",
+          "text_content": "if塾の視点：受験勉強もAIが自律管理する未来",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260902_development-04.png",
           "image_file": "assets/img/posts/20260902_development-04.png",
-          "overlay_text": "if塾が教える「AIを乗りこなす力」",
-          "subtext": "大事なのはAIに何をさせるかという『設計図』。バイブス（感性）を論理的なプロンプトに変換する力が、2026年以降の必須スキルになります。",
-          "alt": "内容3 - if塾が教える「AIを乗りこなす力」"
+          "overlay_text": "if塾の視点：受験勉強もAIが自律管理する未来",
+          "subtext": "志望校の傾向分析から、弱点補強のカリキュラム作成、毎日の進捗確認まで。Agentic AIは「最高の学習パートナー」へと進化しています。",
+          "alt": "内容3 - if塾の視点：受験勉強もAIが自律管理す"
         },
         {
           "page_number": 5,
@@ -229,21 +228,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "加賀屋結眞",
+        "name": "井上陽斗",
         "role": "講師",
         "specialties": [
-          "AI",
-          "Webアプリ開発"
+          "プログラミング",
+          "ゲーム開発"
         ],
-        "caption_text": "加賀屋結眞（講師）"
+        "caption_text": "井上陽斗（講師）"
       },
       "staff_selection": {
-        "staff_id": "kagaya_yuma",
+        "staff_id": "inoue_haruto",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-02T12:02:34",
+      "research_date": "2026-09-02T17:06:27",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コード不要の「バイブ開発」が当たり前に？",
+        "cover_text": "中高生がPythonで放つ！自律型AIエ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コード不要の「バイブ開発」が当たり前に？",
-            "subtext": "2026年9月最新：AIと共鳴する新時代のモノづくり",
+            "headline": "中高生がPythonで放つ！自律型AIエージェント開発の衝撃",
+            "subtext": "2026年9月最新：指示待ちAIはもう古い？",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミングは難しい」は過去の話？",
-            "subtext": "文法ミスで悩む時間はもう終わり。2026年、学生が直面しているのは『コードの書き方』ではなく『AIへの伝え方』の壁です。",
+            "headline": "「AIを使いこなす」から「AIを働かせる」時代へ",
+            "subtext": "プロンプトを入力し続ける毎日に疲れていませんか？2026年、中高生は自分で考えて動く『Agentic AI』を作り始めています。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Vibe Coding（バイブコーディング）の衝撃",
-            "subtext": "進化したGitHub CopilotやCursor、そして最新のマルチモーダルAI。言葉の「ニュアンス」を伝えるだけで、複雑なアプリが数分で組み上がる時代に。",
+            "headline": "Python×最新フレームワークで自律化を実装",
+            "subtext": "LangChain 2.0以降の普及により、ブラウジング、コード実行、検証までをAIが自己ループで完結。中高生が一人で高度な秘書AIを開発可能です。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教える「AIを乗りこなす力」",
-            "subtext": "大事なのはAIに何をさせるかという『設計図』。バイブス（感性）を論理的なプロンプトに変換する力が、2026年以降の必須スキルになります。",
+            "headline": "if塾の視点：受験勉強もAIが自律管理する未来",
+            "subtext": "志望校の傾向分析から、弱点補強のカリキュラム作成、毎日の進捗確認まで。Agentic AIは「最高の学習パートナー」へと進化しています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
