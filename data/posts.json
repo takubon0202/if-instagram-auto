@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 238,
-    "last_updated": "2026-09-02T17:07:51.919721",
+    "total_posts": 239,
+    "last_updated": "2026-09-03T00:04:36.822101",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260903_ai_column",
+      "post_id": "20260903_ai_column",
+      "created_at": "2026-09-03T00:04:36",
+      "datetime": "2026-09-03T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+      "target_audience": "Students & Parents",
+      "title": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+      "caption": "【2026年9月】最新のAIトピックをお届けします！\n\nついにGPT-5のマルチモーダル推論と、自律的に動く「統合エージェント」機能が一般層にまで普及してきました。\n\n夏休みが明け、受験モードが本格化するこの時期。\n保護者の皆さまにお伝えしたいのは、AIは「カンニングツール」ではなく、最高の「学習パートナー」に進化したということです。\n\n動画や音声、手書きのノートまでを瞬時に理解するGPT-5を味方につけることで、お子様の学習効率は昨年の数倍に跳ね上がります。\n\nif塾では、最新のAIを単に使うだけでなく、AIを使って「自ら考える力」をどう伸ばすかを追求しています。\n\nこれからの学習環境について気になる方は、ぜひコメントやDMで教えてくださいね！\n\n#AI教育 #GPT5 #2026年最新 #教育ICT #if塾 #自律型エージェント #中学受験2027 #高校受験2027 #学習習慣",
+      "caption_text": "【2026年9月】最新のAIトピックをお届けします！\n\nついにGPT-5のマルチモーダル推論と、自律的に動く「統合エージェント」機能が一般層にまで普及してきました。\n\n夏休みが明け、受験モードが本格化するこの時期。\n保護者の皆さまにお伝えしたいのは、AIは「カンニングツール」ではなく、最高の「学習パートナー」に進化したということです。\n\n動画や音声、手書きのノートまでを瞬時に理解するGPT-5を味方につけることで、お子様の学習効率は昨年の数倍に跳ね上がります。\n\nif塾では、最新のAIを単に使うだけでなく、AIを使って「自ら考える力」をどう伸ばすかを追求しています。\n\nこれからの学習環境について気になる方は、ぜひコメントやDMで教えてくださいね！\n\n#AI教育 #GPT5 #2026年最新 #教育ICT #if塾 #自律型エージェント #中学受験2027 #高校受験2027 #学習習慣",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#GPT5",
+        "#AI教育",
+        "#マルチモーダル",
+        "#最新テック",
+        "#EdTech",
+        "#教育の未来"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "sub_title": "2026年9月3日：統合エージェントが日常へ",
+          "text_content": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-01.png",
+          "image_file": "assets/img/posts/20260903_ai_column-01.png",
+          "overlay_text": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "subtext": "2026年9月3日：統合エージェントが日常へ",
+          "alt": "表紙 - GPT-5完全普及！勉強のやり方が激変す"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIは調べるもの」はもう古い？",
+          "sub_title": "今の悩みは、情報の多さではなく「AIをどう使いこなすか」。GPT-5のマルチモーダル推論が一般化し、もはやAIはただのチャットボットではなく、隣で一緒に考える『専属コーチ』の役割を担い始めています。",
+          "text_content": "「AIは調べるもの」はもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-02.png",
+          "image_file": "assets/img/posts/20260903_ai_column-02.png",
+          "overlay_text": "「AIは調べるもの」はもう古い？",
+          "subtext": "今の悩みは、情報の多さではなく「AIをどう使いこなすか」。GPT-5のマルチモーダル推論が一般化し、もはやAIはただのチャットボットではなく、隣で一緒に考える『専属コーチ』の役割を担い始めています。",
+          "alt": "内容1 - 「AIは調べるもの」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "見て、聞いて、代行する「統合エージェント」",
+          "sub_title": "ノートをカメラで見せるだけで、弱点を分析し、翌朝までにカスタマイズされた復習スケジュールを自動作成。さらに、塾の予約や資料請求までAIが対話形式で代行する時代が、この2026年秋に本格化しています。",
+          "text_content": "見て、聞いて、代行する「統合エージェント」",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-03.png",
+          "image_file": "assets/img/posts/20260903_ai_column-03.png",
+          "overlay_text": "見て、聞いて、代行する「統合エージェント」",
+          "subtext": "ノートをカメラで見せるだけで、弱点を分析し、翌朝までにカスタマイズされた復習スケジュールを自動作成。さらに、塾の予約や資料請求までAIが対話形式で代行する時代が、この2026年秋に本格化しています。",
+          "alt": "内容2 - 見て、聞いて、代行する「統合エージェント"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代に伸びる子の特徴",
+          "sub_title": "ツールが賢くなるほど「何を問いかけるか（プロンプト思考力）」が学力の差になります。GPT-5に答えを出させるのではなく、思考のプロセスを深掘りさせる。この『対話力』を磨くことが、2026年以降の受験戦略の要です。",
+          "text_content": "if塾の視点：AI時代に伸びる子の特徴",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-04.png",
+          "image_file": "assets/img/posts/20260903_ai_column-04.png",
+          "overlay_text": "if塾の視点：AI時代に伸びる子の特徴",
+          "subtext": "ツールが賢くなるほど「何を問いかけるか（プロンプト思考力）」が学力の差になります。GPT-5に答えを出させるのではなく、思考のプロセスを深掘りさせる。この『対話力』を磨くことが、2026年以降の受験戦略の要です。",
+          "alt": "内容3 - if塾の視点：AI時代に伸びる子の特徴"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "sub_title": "2026年9月3日：統合エージェントが日常へ",
+          "text_content": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-01.png",
+          "image_file": "assets/img/posts/20260903_ai_column-01.png",
+          "overlay_text": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+          "subtext": "2026年9月3日：統合エージェントが日常へ",
+          "alt": "表紙 - GPT-5完全普及！勉強のやり方が激変す"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIは調べるもの」はもう古い？",
+          "sub_title": "今の悩みは、情報の多さではなく「AIをどう使いこなすか」。GPT-5のマルチモーダル推論が一般化し、もはやAIはただのチャットボットではなく、隣で一緒に考える『専属コーチ』の役割を担い始めています。",
+          "text_content": "「AIは調べるもの」はもう古い？",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-02.png",
+          "image_file": "assets/img/posts/20260903_ai_column-02.png",
+          "overlay_text": "「AIは調べるもの」はもう古い？",
+          "subtext": "今の悩みは、情報の多さではなく「AIをどう使いこなすか」。GPT-5のマルチモーダル推論が一般化し、もはやAIはただのチャットボットではなく、隣で一緒に考える『専属コーチ』の役割を担い始めています。",
+          "alt": "内容1 - 「AIは調べるもの」はもう古い？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "見て、聞いて、代行する「統合エージェント」",
+          "sub_title": "ノートをカメラで見せるだけで、弱点を分析し、翌朝までにカスタマイズされた復習スケジュールを自動作成。さらに、塾の予約や資料請求までAIが対話形式で代行する時代が、この2026年秋に本格化しています。",
+          "text_content": "見て、聞いて、代行する「統合エージェント」",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-03.png",
+          "image_file": "assets/img/posts/20260903_ai_column-03.png",
+          "overlay_text": "見て、聞いて、代行する「統合エージェント」",
+          "subtext": "ノートをカメラで見せるだけで、弱点を分析し、翌朝までにカスタマイズされた復習スケジュールを自動作成。さらに、塾の予約や資料請求までAIが対話形式で代行する時代が、この2026年秋に本格化しています。",
+          "alt": "内容2 - 見て、聞いて、代行する「統合エージェント"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AI時代に伸びる子の特徴",
+          "sub_title": "ツールが賢くなるほど「何を問いかけるか（プロンプト思考力）」が学力の差になります。GPT-5に答えを出させるのではなく、思考のプロセスを深掘りさせる。この『対話力』を磨くことが、2026年以降の受験戦略の要です。",
+          "text_content": "if塾の視点：AI時代に伸びる子の特徴",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260903_ai_column-04.png",
+          "image_file": "assets/img/posts/20260903_ai_column-04.png",
+          "overlay_text": "if塾の視点：AI時代に伸びる子の特徴",
+          "subtext": "ツールが賢くなるほど「何を問いかけるか（プロンプト思考力）」が学力の差になります。GPT-5に答えを出させるのではなく、思考のプロセスを深掘りさせる。この『対話力』を磨くことが、2026年以降の受験戦略の要です。",
+          "alt": "内容3 - if塾の視点：AI時代に伸びる子の特徴"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260903_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260903_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260903_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260903_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-09-03T00:03:04",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "GPT-5完全普及！勉強のやり方が激変す",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "GPT-5完全普及！勉強のやり方が激変する9月の最新ニュース",
+            "subtext": "2026年9月3日：統合エージェントが日常へ",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIは調べるもの」はもう古い？",
+            "subtext": "今の悩みは、情報の多さではなく「AIをどう使いこなすか」。GPT-5のマルチモーダル推論が一般化し、もはやAIはただのチャットボットではなく、隣で一緒に考える『専属コーチ』の役割を担い始めています。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "見て、聞いて、代行する「統合エージェント」",
+            "subtext": "ノートをカメラで見せるだけで、弱点を分析し、翌朝までにカスタマイズされた復習スケジュールを自動作成。さらに、塾の予約や資料請求までAIが対話形式で代行する時代が、この2026年秋に本格化しています。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AI時代に伸びる子の特徴",
+            "subtext": "ツールが賢くなるほど「何を問いかけるか（プロンプト思考力）」が学力の差になります。GPT-5に答えを出させるのではなく、思考のプロセスを深掘りさせる。この『対話力』を磨くことが、2026年以降の受験戦略の要です。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260902_development",
       "post_id": "20260902_development",
