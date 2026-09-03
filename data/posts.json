@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 239,
-    "last_updated": "2026-09-03T17:17:35.547003",
+    "last_updated": "2026-09-03T23:59:38.928025",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,26 @@
     {
       "id": "20260903_ai_column",
       "post_id": "20260903_ai_column",
-      "created_at": "2026-09-03T17:17:35",
+      "created_at": "2026-09-03T23:59:38",
       "datetime": "2026-09-03T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
+      "theme": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
       "target_audience": "Students & Parents",
-      "title": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-      "caption": "【2026年9月】最新のAIトレンドをお届けします！\n\nついに、AIは「指示を待つツール」から「自ら考えて実行する相棒」へと進化しました。\n\n最新のClaude 5やGemini 3.8 Flashでは、私たちが細かな手順を教えなくても、AIが自分で試行錯誤しながらゴールにたどり着きます。\n\n「宿題をやって」ではなく「この分野の理解を深めるための学習計画を立てて、必要な資料を集めておいて」といった高度な指示が、2026年の当たり前になっています。\n\nif塾では、AIに振り回されるのではなく、AIという優秀なエージェントを使いこなすための「思考力」を育てます。これからの時代、スキル以上に大切なのは「何を実現したいか」というビジョンです。\n\n皆さんは、自由になった時間で何を学びたいですか？コメントで教えてください！\n\n#if塾 #2026年 #AIエージェント #Claude5 #Gemini #教育DX #未来の学習",
-      "caption_text": "【2026年9月】最新のAIトレンドをお届けします！\n\nついに、AIは「指示を待つツール」から「自ら考えて実行する相棒」へと進化しました。\n\n最新のClaude 5やGemini 3.8 Flashでは、私たちが細かな手順を教えなくても、AIが自分で試行錯誤しながらゴールにたどり着きます。\n\n「宿題をやって」ではなく「この分野の理解を深めるための学習計画を立てて、必要な資料を集めておいて」といった高度な指示が、2026年の当たり前になっています。\n\nif塾では、AIに振り回されるのではなく、AIという優秀なエージェントを使いこなすための「思考力」を育てます。これからの時代、スキル以上に大切なのは「何を実現したいか」というビジョンです。\n\n皆さんは、自由になった時間で何を学びたいですか？コメントで教えてください！\n\n#if塾 #2026年 #AIエージェント #Claude5 #Gemini #教育DX #未来の学習",
+      "title": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+      "caption": "【2026年9月】進路相談もAIが下調べを終える時代に。\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものです。最新のChatGPT WorkやGrok Botなどの「自律型エージェント」は、あなたの意図を汲み取り、勝手にタスクを進めてくれます。\n\n例えば、受験生の保護者様なら：\n・併願校の最新入試要項の比較表作成\n・過去問の進捗管理と解き直しのリマインド\n・最新の教育ニュースの要約と共有\n\nこれらをAIが「自律的」にこなします。指示待ちの道具から、頼れるパートナーへ。\n2学期が始まり忙しくなるこの時期、AIエージェントを味方につけて、お子様と向き合う大切な時間を増やしませんか？\n\nif塾では、最新AIを使いこなし、思考力を高める次世代の学びを提供しています。詳細はプロフィールから！",
+      "caption_text": "【2026年9月】進路相談もAIが下調べを終える時代に。\n\n「AIに何を聞けばいいかわからない」という悩みは、もう過去のものです。最新のChatGPT WorkやGrok Botなどの「自律型エージェント」は、あなたの意図を汲み取り、勝手にタスクを進めてくれます。\n\n例えば、受験生の保護者様なら：\n・併願校の最新入試要項の比較表作成\n・過去問の進捗管理と解き直しのリマインド\n・最新の教育ニュースの要約と共有\n\nこれらをAIが「自律的」にこなします。指示待ちの道具から、頼れるパートナーへ。\n2学期が始まり忙しくなるこの時期、AIエージェントを味方につけて、お子様と向き合う大切な時間を増やしませんか？\n\nif塾では、最新AIを使いこなし、思考力を高める次世代の学びを提供しています。詳細はプロフィールから！",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#AIエージェント",
-        "#Claude5",
-        "#Gemini3.8",
+        "#ChatGPTWork",
+        "#GrokBot",
         "#自律型AI",
-        "#最新テクノロジー",
-        "#教育の未来"
+        "#DX教育",
+        "#中学受験2027",
+        "#高校受験2027",
+        "#最新テクノロジー"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +45,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-          "sub_title": "2026年9月最新：Claude 5 / Gemini 3.8の実力",
-          "text_content": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
+          "main_title": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+          "sub_title": "2026年9月最新：ChatGPT Work & Grok Bot自律活用術",
+          "text_content": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-01.png",
           "image_file": "assets/img/posts/20260903_ai_column-01.png",
-          "overlay_text": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-          "subtext": "2026年9月最新：Claude 5 / Gemini 3.8の実力",
-          "alt": "表紙 - 指示待ちはもう古い。自律型AIが「自分で"
+          "overlay_text": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+          "subtext": "2026年9月最新：ChatGPT Work & Grok Bot自律活用術",
+          "alt": "表紙 - 指示待ちはもう古い。AIが勝手に終わらせ"
         },
         {
           "page_number": 2,
@@ -59,15 +61,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプトを考える時間はもう不要？",
-          "sub_title": "これまでは人間が「手順」を教えていました。しかし2026年秋、AIは「目標」を伝えるだけで、勝手にツールを使いこなし、タスクを完遂する『自律型エージェント』へと進化しました。",
-          "text_content": "プロンプトを考える時間はもう不要？",
+          "main_title": "「次は何すればいい？」から卒業",
+          "sub_title": "これまでのAIは「1問1答」でしたが、2026年のAIエージェントは目標を1つ伝えるだけで、必要なプロセスを自分で考え、外部ツールを操作してタスクを完結させます。",
+          "text_content": "「次は何すればいい？」から卒業",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-02.png",
           "image_file": "assets/img/posts/20260903_ai_column-02.png",
-          "overlay_text": "プロンプトを考える時間はもう不要？",
-          "subtext": "これまでは人間が「手順」を教えていました。しかし2026年秋、AIは「目標」を伝えるだけで、勝手にツールを使いこなし、タスクを完遂する『自律型エージェント』へと進化しました。",
-          "alt": "内容1 - プロンプトを考える時間はもう不要？"
+          "overlay_text": "「次は何すればいい？」から卒業",
+          "subtext": "これまでのAIは「1問1答」でしたが、2026年のAIエージェントは目標を1つ伝えるだけで、必要なプロセスを自分で考え、外部ツールを操作してタスクを完結させます。",
+          "alt": "内容1 - 「次は何すればいい？」から卒業"
         },
         {
           "page_number": 3,
@@ -75,15 +77,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude 5 & Gemini 3.8が変える日常",
-          "sub_title": "「来週の旅行プランを立てて予約もして」と言えば、AIがブラウザを操作し、比較、予約、カレンダー登録まで実行。学生の皆さんのリサーチ作業やスケジュール管理も、AIが勝手に進めるフェーズに入っています。",
-          "text_content": "Claude 5 & Gemini 3.8が変える日常",
+          "main_title": "ChatGPT Workが家庭学習を変える",
+          "sub_title": "Grok Botと連携し、志望校の最新倍率調査から、苦手克服のためのスケジュール作成、参考書の購入手配まで、AIが自律的に実行。親御さんのタスク管理負担が激減します。",
+          "text_content": "ChatGPT Workが家庭学習を変える",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-03.png",
           "image_file": "assets/img/posts/20260903_ai_column-03.png",
-          "overlay_text": "Claude 5 & Gemini 3.8が変える日常",
-          "subtext": "「来週の旅行プランを立てて予約もして」と言えば、AIがブラウザを操作し、比較、予約、カレンダー登録まで実行。学生の皆さんのリサーチ作業やスケジュール管理も、AIが勝手に進めるフェーズに入っています。",
-          "alt": "内容2 - Claude 5 & Gemini 3."
+          "overlay_text": "ChatGPT Workが家庭学習を変える",
+          "subtext": "Grok Botと連携し、志望校の最新倍率調査から、苦手克服のためのスケジュール作成、参考書の購入手配まで、AIが自律的に実行。親御さんのタスク管理負担が激減します。",
+          "alt": "内容2 - ChatGPT Workが家庭学習を変え"
         },
         {
           "page_number": 4,
@@ -91,15 +93,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「部下」として使いこなす",
-          "sub_title": "重要なのは『丸投げ』ではなく『目標設定力』です。AIが自律的に動くからこそ、人間には「何を成し遂げたいか」という高い志と、AIの成果を評価する審美眼がこれまで以上に求められます。",
-          "text_content": "if塾の視点：AIを「部下」として使いこなす",
+          "main_title": "if塾の視点：AIを「部下」として扱う",
+          "sub_title": "大事なのは「丸投げ」ではなく「ゴール設定」。AIが自走するからこそ、人間は『何のためにそれをするか』という本質的な判断と、最終確認に集中するスキルが求められます。",
+          "text_content": "if塾の視点：AIを「部下」として扱う",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-04.png",
           "image_file": "assets/img/posts/20260903_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIを「部下」として使いこなす",
-          "subtext": "重要なのは『丸投げ』ではなく『目標設定力』です。AIが自律的に動くからこそ、人間には「何を成し遂げたいか」という高い志と、AIの成果を評価する審美眼がこれまで以上に求められます。",
-          "alt": "内容3 - if塾の視点：AIを「部下」として使いこ"
+          "overlay_text": "if塾の視点：AIを「部下」として扱う",
+          "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。AIが自走するからこそ、人間は『何のためにそれをするか』という本質的な判断と、最終確認に集中するスキルが求められます。",
+          "alt": "内容3 - if塾の視点：AIを「部下」として扱う"
         },
         {
           "page_number": 5,
@@ -125,15 +127,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-          "sub_title": "2026年9月最新：Claude 5 / Gemini 3.8の実力",
-          "text_content": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
+          "main_title": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+          "sub_title": "2026年9月最新：ChatGPT Work & Grok Bot自律活用術",
+          "text_content": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-01.png",
           "image_file": "assets/img/posts/20260903_ai_column-01.png",
-          "overlay_text": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-          "subtext": "2026年9月最新：Claude 5 / Gemini 3.8の実力",
-          "alt": "表紙 - 指示待ちはもう古い。自律型AIが「自分で"
+          "overlay_text": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+          "subtext": "2026年9月最新：ChatGPT Work & Grok Bot自律活用術",
+          "alt": "表紙 - 指示待ちはもう古い。AIが勝手に終わらせ"
         },
         {
           "page_number": 2,
@@ -141,15 +143,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "プロンプトを考える時間はもう不要？",
-          "sub_title": "これまでは人間が「手順」を教えていました。しかし2026年秋、AIは「目標」を伝えるだけで、勝手にツールを使いこなし、タスクを完遂する『自律型エージェント』へと進化しました。",
-          "text_content": "プロンプトを考える時間はもう不要？",
+          "main_title": "「次は何すればいい？」から卒業",
+          "sub_title": "これまでのAIは「1問1答」でしたが、2026年のAIエージェントは目標を1つ伝えるだけで、必要なプロセスを自分で考え、外部ツールを操作してタスクを完結させます。",
+          "text_content": "「次は何すればいい？」から卒業",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-02.png",
           "image_file": "assets/img/posts/20260903_ai_column-02.png",
-          "overlay_text": "プロンプトを考える時間はもう不要？",
-          "subtext": "これまでは人間が「手順」を教えていました。しかし2026年秋、AIは「目標」を伝えるだけで、勝手にツールを使いこなし、タスクを完遂する『自律型エージェント』へと進化しました。",
-          "alt": "内容1 - プロンプトを考える時間はもう不要？"
+          "overlay_text": "「次は何すればいい？」から卒業",
+          "subtext": "これまでのAIは「1問1答」でしたが、2026年のAIエージェントは目標を1つ伝えるだけで、必要なプロセスを自分で考え、外部ツールを操作してタスクを完結させます。",
+          "alt": "内容1 - 「次は何すればいい？」から卒業"
         },
         {
           "page_number": 3,
@@ -157,15 +159,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "Claude 5 & Gemini 3.8が変える日常",
-          "sub_title": "「来週の旅行プランを立てて予約もして」と言えば、AIがブラウザを操作し、比較、予約、カレンダー登録まで実行。学生の皆さんのリサーチ作業やスケジュール管理も、AIが勝手に進めるフェーズに入っています。",
-          "text_content": "Claude 5 & Gemini 3.8が変える日常",
+          "main_title": "ChatGPT Workが家庭学習を変える",
+          "sub_title": "Grok Botと連携し、志望校の最新倍率調査から、苦手克服のためのスケジュール作成、参考書の購入手配まで、AIが自律的に実行。親御さんのタスク管理負担が激減します。",
+          "text_content": "ChatGPT Workが家庭学習を変える",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-03.png",
           "image_file": "assets/img/posts/20260903_ai_column-03.png",
-          "overlay_text": "Claude 5 & Gemini 3.8が変える日常",
-          "subtext": "「来週の旅行プランを立てて予約もして」と言えば、AIがブラウザを操作し、比較、予約、カレンダー登録まで実行。学生の皆さんのリサーチ作業やスケジュール管理も、AIが勝手に進めるフェーズに入っています。",
-          "alt": "内容2 - Claude 5 & Gemini 3."
+          "overlay_text": "ChatGPT Workが家庭学習を変える",
+          "subtext": "Grok Botと連携し、志望校の最新倍率調査から、苦手克服のためのスケジュール作成、参考書の購入手配まで、AIが自律的に実行。親御さんのタスク管理負担が激減します。",
+          "alt": "内容2 - ChatGPT Workが家庭学習を変え"
         },
         {
           "page_number": 4,
@@ -173,15 +175,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：AIを「部下」として使いこなす",
-          "sub_title": "重要なのは『丸投げ』ではなく『目標設定力』です。AIが自律的に動くからこそ、人間には「何を成し遂げたいか」という高い志と、AIの成果を評価する審美眼がこれまで以上に求められます。",
-          "text_content": "if塾の視点：AIを「部下」として使いこなす",
+          "main_title": "if塾の視点：AIを「部下」として扱う",
+          "sub_title": "大事なのは「丸投げ」ではなく「ゴール設定」。AIが自走するからこそ、人間は『何のためにそれをするか』という本質的な判断と、最終確認に集中するスキルが求められます。",
+          "text_content": "if塾の視点：AIを「部下」として扱う",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260903_ai_column-04.png",
           "image_file": "assets/img/posts/20260903_ai_column-04.png",
-          "overlay_text": "if塾の視点：AIを「部下」として使いこなす",
-          "subtext": "重要なのは『丸投げ』ではなく『目標設定力』です。AIが自律的に動くからこそ、人間には「何を成し遂げたいか」という高い志と、AIの成果を評価する審美眼がこれまで以上に求められます。",
-          "alt": "内容3 - if塾の視点：AIを「部下」として使いこ"
+          "overlay_text": "if塾の視点：AIを「部下」として扱う",
+          "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。AIが自走するからこそ、人間は『何のためにそれをするか』という本質的な判断と、最終確認に集中するスキルが求められます。",
+          "alt": "内容3 - if塾の視点：AIを「部下」として扱う"
         },
         {
           "page_number": 5,
@@ -244,7 +246,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-03T17:16:06",
+      "research_date": "2026-09-03T23:57:26",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +254,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "指示待ちはもう古い。自律型AIが「自分で",
+        "cover_text": "指示待ちはもう古い。AIが勝手に終わらせ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "指示待ちはもう古い。自律型AIが「自分で考えて動く」時代へ",
-            "subtext": "2026年9月最新：Claude 5 / Gemini 3.8の実力",
+            "headline": "指示待ちはもう古い。AIが勝手に終わらせる時代へ",
+            "subtext": "2026年9月最新：ChatGPT Work & Grok Bot自律活用術",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -268,8 +270,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "プロンプトを考える時間はもう不要？",
-            "subtext": "これまでは人間が「手順」を教えていました。しかし2026年秋、AIは「目標」を伝えるだけで、勝手にツールを使いこなし、タスクを完遂する『自律型エージェント』へと進化しました。",
+            "headline": "「次は何すればいい？」から卒業",
+            "subtext": "これまでのAIは「1問1答」でしたが、2026年のAIエージェントは目標を1つ伝えるだけで、必要なプロセスを自分で考え、外部ツールを操作してタスクを完結させます。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -277,8 +279,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "Claude 5 & Gemini 3.8が変える日常",
-            "subtext": "「来週の旅行プランを立てて予約もして」と言えば、AIがブラウザを操作し、比較、予約、カレンダー登録まで実行。学生の皆さんのリサーチ作業やスケジュール管理も、AIが勝手に進めるフェーズに入っています。",
+            "headline": "ChatGPT Workが家庭学習を変える",
+            "subtext": "Grok Botと連携し、志望校の最新倍率調査から、苦手克服のためのスケジュール作成、参考書の購入手配まで、AIが自律的に実行。親御さんのタスク管理負担が激減します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -286,8 +288,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：AIを「部下」として使いこなす",
-            "subtext": "重要なのは『丸投げ』ではなく『目標設定力』です。AIが自律的に動くからこそ、人間には「何を成し遂げたいか」という高い志と、AIの成果を評価する審美眼がこれまで以上に求められます。",
+            "headline": "if塾の視点：AIを「部下」として扱う",
+            "subtext": "大事なのは「丸投げ」ではなく「ゴール設定」。AIが自走するからこそ、人間は『何のためにそれをするか』という本質的な判断と、最終確認に集中するスキルが求められます。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
