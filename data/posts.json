@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 239,
-    "last_updated": "2026-09-03T23:59:38.928025",
+    "total_posts": 240,
+    "last_updated": "2026-09-04T12:05:24.024471",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260904_business",
+      "post_id": "20260904_business",
+      "created_at": "2026-09-04T12:05:24",
+      "datetime": "2026-09-04T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+      "target_audience": "Students & Parents",
+      "title": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+      "caption": "【2026年9月】2学期がスタートしました！\n\n今、中高生の学習現場では「AIを家庭教師にする」ことが当たり前になっています。\n\nかつては塾に通うのが唯一の正解でしたが、2026年現在は『自分専用の学習Bot』を自作して、24時間いつでも質問できる環境を作る生徒が急増しています。\n\n最新のAIモデルは、画像認識精度が飛躍的に向上。\n学校のプリントやノートをスキャンするだけで、あなたの弱点に合わせた「定期テスト予想問題」を瞬時に生成してくれます。\n\n「AIに答えを聞く」のではなく「AIに導いてもらう」。\nこの使い分けができるかどうかが、これからの学力の分かれ道です。\n\nif塾では、AIを使いこなし、自走できる力を育てる最新メソッドを発信しています。\n\nあなたの学習パートナーは、もうポケットの中にいますよ。\n\n詳細が気になる方は、ぜひプロフィールから最新コラムをチェックしてください！",
+      "caption_text": "【2026年9月】2学期がスタートしました！\n\n今、中高生の学習現場では「AIを家庭教師にする」ことが当たり前になっています。\n\nかつては塾に通うのが唯一の正解でしたが、2026年現在は『自分専用の学習Bot』を自作して、24時間いつでも質問できる環境を作る生徒が急増しています。\n\n最新のAIモデルは、画像認識精度が飛躍的に向上。\n学校のプリントやノートをスキャンするだけで、あなたの弱点に合わせた「定期テスト予想問題」を瞬時に生成してくれます。\n\n「AIに答えを聞く」のではなく「AIに導いてもらう」。\nこの使い分けができるかどうかが、これからの学力の分かれ道です。\n\nif塾では、AIを使いこなし、自走できる力を育てる最新メソッドを発信しています。\n\nあなたの学習パートナーは、もうポケットの中にいますよ。\n\n詳細が気になる方は、ぜひプロフィールから最新コラムをチェックしてください！",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#AI教育",
+        "#定期テスト対策",
+        "#学習Bot",
+        "#中高生ママ",
+        "#AI活用術",
+        "#最新教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "sub_title": "【2026年9月】最新AI活用ニュース",
+          "text_content": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-01.png",
+          "image_file": "assets/img/posts/20260904_business-01.png",
+          "overlay_text": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "subtext": "【2026年9月】最新AI活用ニュース",
+          "alt": "表紙 - 教育費0円革命！AI家庭教師で定期テスト"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "sub_title": "2学期が始まり、テスト範囲の広さに絶望する中高生が急増。集団塾では解決できない「自分の苦手」に特化した対策が必要です。",
+          "text_content": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-02.png",
+          "image_file": "assets/img/posts/20260904_business-02.png",
+          "overlay_text": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "subtext": "2学期が始まり、テスト範囲の広さに絶望する中高生が急増。集団塾では解決できない「自分の苦手」に特化した対策が必要です。",
+          "alt": "内容1 - まだ高い塾代を払ってる？今の悩みは「自分"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "sub_title": "2026年はノーコードで「教科書準拠Bot」を作るのが当たり前。スマホのカメラでノートを読み込ませるだけで、即座に予想問題集が完成します。",
+          "text_content": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-03.png",
+          "image_file": "assets/img/posts/20260904_business-03.png",
+          "overlay_text": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "subtext": "2026年はノーコードで「教科書準拠Bot」を作るのが当たり前。スマホのカメラでノートを読み込ませるだけで、即座に予想問題集が完成します。",
+          "alt": "内容2 - 『GPT-5o』や『Claude 4』で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "sub_title": "if塾が推奨するのは「ソクラテス式対話」の設定。答えを教えるのではなく、ヒントを出して考えさせる。このマインドが偏差値を急上昇させます。",
+          "text_content": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-04.png",
+          "image_file": "assets/img/posts/20260904_business-04.png",
+          "overlay_text": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "subtext": "if塾が推奨するのは「ソクラテス式対話」の設定。答えを教えるのではなく、ヒントを出して考えさせる。このマインドが偏差値を急上昇させます。",
+          "alt": "内容3 - AIを「答え合わせ」に使わない。思考を促"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "sub_title": "【2026年9月】最新AI活用ニュース",
+          "text_content": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-01.png",
+          "image_file": "assets/img/posts/20260904_business-01.png",
+          "overlay_text": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+          "subtext": "【2026年9月】最新AI活用ニュース",
+          "alt": "表紙 - 教育費0円革命！AI家庭教師で定期テスト"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "sub_title": "2学期が始まり、テスト範囲の広さに絶望する中高生が急増。集団塾では解決できない「自分の苦手」に特化した対策が必要です。",
+          "text_content": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-02.png",
+          "image_file": "assets/img/posts/20260904_business-02.png",
+          "overlay_text": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+          "subtext": "2学期が始まり、テスト範囲の広さに絶望する中高生が急増。集団塾では解決できない「自分の苦手」に特化した対策が必要です。",
+          "alt": "内容1 - まだ高い塾代を払ってる？今の悩みは「自分"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "sub_title": "2026年はノーコードで「教科書準拠Bot」を作るのが当たり前。スマホのカメラでノートを読み込ませるだけで、即座に予想問題集が完成します。",
+          "text_content": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-03.png",
+          "image_file": "assets/img/posts/20260904_business-03.png",
+          "overlay_text": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+          "subtext": "2026年はノーコードで「教科書準拠Bot」を作るのが当たり前。スマホのカメラでノートを読み込ませるだけで、即座に予想問題集が完成します。",
+          "alt": "内容2 - 『GPT-5o』や『Claude 4』で"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "sub_title": "if塾が推奨するのは「ソクラテス式対話」の設定。答えを教えるのではなく、ヒントを出して考えさせる。このマインドが偏差値を急上昇させます。",
+          "text_content": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260904_business-04.png",
+          "image_file": "assets/img/posts/20260904_business-04.png",
+          "overlay_text": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+          "subtext": "if塾が推奨するのは「ソクラテス式対話」の設定。答えを教えるのではなく、ヒントを出して考えさせる。このマインドが偏差値を急上昇させます。",
+          "alt": "内容3 - AIを「答え合わせ」に使わない。思考を促"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260904_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260904_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260904_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260904_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-09-04T12:03:56",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "教育費0円革命！AI家庭教師で定期テスト",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "教育費0円革命！AI家庭教師で定期テストを攻略する2026年最新スタイル",
+            "subtext": "【2026年9月】最新AI活用ニュース",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "まだ高い塾代を払ってる？今の悩みは「自分専用」がないこと",
+            "subtext": "2学期が始まり、テスト範囲の広さに絶望する中高生が急増。集団塾では解決できない「自分の苦手」に特化した対策が必要です。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "『GPT-5o』や『Claude 4』で自分専用の学習Botを5分で自作",
+            "subtext": "2026年はノーコードで「教科書準拠Bot」を作るのが当たり前。スマホのカメラでノートを読み込ませるだけで、即座に予想問題集が完成します。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "AIを「答え合わせ」に使わない。思考を促すプロンプトが成功の鍵",
+            "subtext": "if塾が推奨するのは「ソクラテス式対話」の設定。答えを教えるのではなく、ヒントを出して考えさせる。このマインドが偏差値を急上昇させます。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260903_ai_column",
       "post_id": "20260903_ai_column",
