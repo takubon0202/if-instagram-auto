@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 240,
-    "last_updated": "2026-09-04T17:13:36.395627",
+    "last_updated": "2026-09-04T23:55:24.723342",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20260904_business",
       "post_id": "20260904_business",
-      "created_at": "2026-09-04T17:13:36",
+      "created_at": "2026-09-04T23:55:24",
       "datetime": "2026-09-04T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
-      "theme": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
+      "theme": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
       "target_audience": "Students & Parents",
-      "title": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-      "caption": "【2026年9月】最新の教育・ビジネス事情をお届けします。\n\n今や中高生にとって、AIは「調べる道具」から「価値を生み出すパートナー」へと進化しました。\n\n2026年の今、ライティングや画像販売はもはや特別なことではありません。\n夏休みが明け、受験や進路を意識するこの時期だからこそ、学力以外の「自力で稼ぐ力」に注目が集まっています。\n\n「AIに仕事を奪われる」と恐れるのではなく、「AIを使いこなして新しい市場を作る」視点を持つこと。\nこれこそが、if塾が提唱するこれからの10代に必須のマインドセットです。\n\n皆さんの周りでは、どのようにAIを活用していますか？\nぜひコメント欄で教えてください！\n\n#if塾 #2026年 #生成AI #AI副業 #中高生起業 #キャリア教育 #GPT5 #教育アップデート",
-      "caption_text": "【2026年9月】最新の教育・ビジネス事情をお届けします。\n\n今や中高生にとって、AIは「調べる道具」から「価値を生み出すパートナー」へと進化しました。\n\n2026年の今、ライティングや画像販売はもはや特別なことではありません。\n夏休みが明け、受験や進路を意識するこの時期だからこそ、学力以外の「自力で稼ぐ力」に注目が集まっています。\n\n「AIに仕事を奪われる」と恐れるのではなく、「AIを使いこなして新しい市場を作る」視点を持つこと。\nこれこそが、if塾が提唱するこれからの10代に必須のマインドセットです。\n\n皆さんの周りでは、どのようにAIを活用していますか？\nぜひコメント欄で教えてください！\n\n#if塾 #2026年 #生成AI #AI副業 #中高生起業 #キャリア教育 #GPT5 #教育アップデート",
+      "title": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+      "caption": "【2026年9月】最新の教育・副業トレンドをお届けします。\n\n今、地方で「AI×学生」の化学反応が起きています。\nかつての単なるSNS投稿代行は終わり、2026年は自律型AIを使いこなす学生が、地方企業のDXアドバイザーとして活躍する時代になりました。\n\n「生成AIを学んでも、どう使えばいいかわからない」\nそんな悩みを持つ学生や、我が子の将来を案じる保護者の皆様へ。\n\n答えは「地域」にあります。最新AIツールを使いこなし、目の前の困っている企業を助ける。この成功体験が、就活をも圧倒する真のキャリア形成に繋がります。\n\n今の時代、AIスキルは「持っている」だけでは不十分。「どう貢献に繋げるか」の視点をif塾で一緒に養いましょう。\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年9月】最新の教育・副業トレンドをお届けします。\n\n今、地方で「AI×学生」の化学反応が起きています。\nかつての単なるSNS投稿代行は終わり、2026年は自律型AIを使いこなす学生が、地方企業のDXアドバイザーとして活躍する時代になりました。\n\n「生成AIを学んでも、どう使えばいいかわからない」\nそんな悩みを持つ学生や、我が子の将来を案じる保護者の皆様へ。\n\n答えは「地域」にあります。最新AIツールを使いこなし、目の前の困っている企業を助ける。この成功体験が、就活をも圧倒する真のキャリア形成に繋がります。\n\n今の時代、AIスキルは「持っている」だけでは不十分。「どう貢献に繋げるか」の視点をif塾で一緒に養いましょう。\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AI副業",
-        "#中高生",
         "#生成AI",
-        "#ビジネス教育",
-        "#最新ニュース"
+        "#DX副業",
+        "#地方創生",
+        "#大学生の日常",
+        "#リスキリング",
+        "#キャリア教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-          "sub_title": "2026年最新版：生成AI副業のスタンダード",
-          "text_content": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
+          "main_title": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+          "sub_title": "2026年9月：地方企業を救う新しい働き方",
+          "text_content": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-01.png",
           "image_file": "assets/img/posts/20260904_business-01.png",
-          "overlay_text": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-          "subtext": "2026年最新版：生成AI副業のスタンダード",
-          "alt": "表紙 - 中高生がAIで月5万稼ぐのが「当たり前」"
+          "overlay_text": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+          "subtext": "2026年9月：地方企業を救う新しい働き方",
+          "alt": "表紙 - 大学生が月15万稼ぐ？2026年最新「A"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「お小遣い」の概念が変わる？",
-          "sub_title": "バイト禁止の校則下でも、スマホ一台でAIライティングや画像生成を駆使して収益化する10代が急増中。乗り遅れると経済感覚に差が出る時代です。",
-          "text_content": "「お小遣い」の概念が変わる？",
+          "main_title": "「やりたいこと」と「人手不足」のミスマッチ",
+          "sub_title": "地方の中小企業はSNSをやりたくても『AIを使える人材』が圧倒的に足りていません。一方で、学生はスキルを活かす場所を探しています。",
+          "text_content": "「やりたいこと」と「人手不足」のミスマッチ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-02.png",
           "image_file": "assets/img/posts/20260904_business-02.png",
-          "overlay_text": "「お小遣い」の概念が変わる？",
-          "subtext": "バイト禁止の校則下でも、スマホ一台でAIライティングや画像生成を駆使して収益化する10代が急増中。乗り遅れると経済感覚に差が出る時代です。",
-          "alt": "内容1 - 「お小遣い」の概念が変わる？"
+          "overlay_text": "「やりたいこと」と「人手不足」のミスマッチ",
+          "subtext": "地方の中小企業はSNSをやりたくても『AIを使える人材』が圧倒的に足りていません。一方で、学生はスキルを活かす場所を探しています。",
+          "alt": "内容1 - 「やりたいこと」と「人手不足」のミスマッ"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "主流は「GPT-5」と「ビデオ生成AI」",
-          "sub_title": "2026年現在は文章だけでなく、AI素材サイトへの動画・3Dモデル販売が主流。高度なプロンプト不要の「エージェント型AI」を使いこなすのが鍵。",
-          "text_content": "主流は「GPT-5」と「ビデオ生成AI」",
+          "main_title": "AIエージェントによる自動運用支援",
+          "sub_title": "2026年の主流は、Auto-GPT後継の『自律型AI』。これらを駆使して、学生が1人で複数社のSNS分析や動画編集、在庫最適化まで伴走支援しています。",
+          "text_content": "AIエージェントによる自動運用支援",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-03.png",
           "image_file": "assets/img/posts/20260904_business-03.png",
-          "overlay_text": "主流は「GPT-5」と「ビデオ生成AI」",
-          "subtext": "2026年現在は文章だけでなく、AI素材サイトへの動画・3Dモデル販売が主流。高度なプロンプト不要の「エージェント型AI」を使いこなすのが鍵。",
-          "alt": "内容2 - 主流は「GPT-5」と「ビデオ生成AI」"
+          "overlay_text": "AIエージェントによる自動運用支援",
+          "subtext": "2026年の主流は、Auto-GPT後継の『自律型AI』。これらを駆使して、学生が1人で複数社のSNS分析や動画編集、在庫最適化まで伴走支援しています。",
+          "alt": "内容2 - AIエージェントによる自動運用支援"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「稼ぐ」より「仕組み」を学ぶ",
-          "sub_title": "if塾が教えるのは単なる操作法ではなく、AIを『部下』として扱うマネジメント能力。技術が自動化されるからこそ、人間の『ディレクション力』が真の価値になります。",
-          "text_content": "「稼ぐ」より「仕組み」を学ぶ",
+          "main_title": "「技術」より「対話」が価値になる時代",
+          "sub_title": "if塾では、AIはあくまで道具と教えます。大切なのは地方の社長の想いをAIに正しく伝える『ブリッジング能力』。これが2026年の最強スキルです。",
+          "text_content": "「技術」より「対話」が価値になる時代",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-04.png",
           "image_file": "assets/img/posts/20260904_business-04.png",
-          "overlay_text": "「稼ぐ」より「仕組み」を学ぶ",
-          "subtext": "if塾が教えるのは単なる操作法ではなく、AIを『部下』として扱うマネジメント能力。技術が自動化されるからこそ、人間の『ディレクション力』が真の価値になります。",
-          "alt": "内容3 - 「稼ぐ」より「仕組み」を学ぶ"
+          "overlay_text": "「技術」より「対話」が価値になる時代",
+          "subtext": "if塾では、AIはあくまで道具と教えます。大切なのは地方の社長の想いをAIに正しく伝える『ブリッジング能力』。これが2026年の最強スキルです。",
+          "alt": "内容3 - 「技術」より「対話」が価値になる時代"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-          "sub_title": "2026年最新版：生成AI副業のスタンダード",
-          "text_content": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
+          "main_title": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+          "sub_title": "2026年9月：地方企業を救う新しい働き方",
+          "text_content": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
           "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-01.png",
           "image_file": "assets/img/posts/20260904_business-01.png",
-          "overlay_text": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-          "subtext": "2026年最新版：生成AI副業のスタンダード",
-          "alt": "表紙 - 中高生がAIで月5万稼ぐのが「当たり前」"
+          "overlay_text": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+          "subtext": "2026年9月：地方企業を救う新しい働き方",
+          "alt": "表紙 - 大学生が月15万稼ぐ？2026年最新「A"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「お小遣い」の概念が変わる？",
-          "sub_title": "バイト禁止の校則下でも、スマホ一台でAIライティングや画像生成を駆使して収益化する10代が急増中。乗り遅れると経済感覚に差が出る時代です。",
-          "text_content": "「お小遣い」の概念が変わる？",
+          "main_title": "「やりたいこと」と「人手不足」のミスマッチ",
+          "sub_title": "地方の中小企業はSNSをやりたくても『AIを使える人材』が圧倒的に足りていません。一方で、学生はスキルを活かす場所を探しています。",
+          "text_content": "「やりたいこと」と「人手不足」のミスマッチ",
           "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-02.png",
           "image_file": "assets/img/posts/20260904_business-02.png",
-          "overlay_text": "「お小遣い」の概念が変わる？",
-          "subtext": "バイト禁止の校則下でも、スマホ一台でAIライティングや画像生成を駆使して収益化する10代が急増中。乗り遅れると経済感覚に差が出る時代です。",
-          "alt": "内容1 - 「お小遣い」の概念が変わる？"
+          "overlay_text": "「やりたいこと」と「人手不足」のミスマッチ",
+          "subtext": "地方の中小企業はSNSをやりたくても『AIを使える人材』が圧倒的に足りていません。一方で、学生はスキルを活かす場所を探しています。",
+          "alt": "内容1 - 「やりたいこと」と「人手不足」のミスマッ"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "主流は「GPT-5」と「ビデオ生成AI」",
-          "sub_title": "2026年現在は文章だけでなく、AI素材サイトへの動画・3Dモデル販売が主流。高度なプロンプト不要の「エージェント型AI」を使いこなすのが鍵。",
-          "text_content": "主流は「GPT-5」と「ビデオ生成AI」",
+          "main_title": "AIエージェントによる自動運用支援",
+          "sub_title": "2026年の主流は、Auto-GPT後継の『自律型AI』。これらを駆使して、学生が1人で複数社のSNS分析や動画編集、在庫最適化まで伴走支援しています。",
+          "text_content": "AIエージェントによる自動運用支援",
           "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-03.png",
           "image_file": "assets/img/posts/20260904_business-03.png",
-          "overlay_text": "主流は「GPT-5」と「ビデオ生成AI」",
-          "subtext": "2026年現在は文章だけでなく、AI素材サイトへの動画・3Dモデル販売が主流。高度なプロンプト不要の「エージェント型AI」を使いこなすのが鍵。",
-          "alt": "内容2 - 主流は「GPT-5」と「ビデオ生成AI」"
+          "overlay_text": "AIエージェントによる自動運用支援",
+          "subtext": "2026年の主流は、Auto-GPT後継の『自律型AI』。これらを駆使して、学生が1人で複数社のSNS分析や動画編集、在庫最適化まで伴走支援しています。",
+          "alt": "内容2 - AIエージェントによる自動運用支援"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「稼ぐ」より「仕組み」を学ぶ",
-          "sub_title": "if塾が教えるのは単なる操作法ではなく、AIを『部下』として扱うマネジメント能力。技術が自動化されるからこそ、人間の『ディレクション力』が真の価値になります。",
-          "text_content": "「稼ぐ」より「仕組み」を学ぶ",
+          "main_title": "「技術」より「対話」が価値になる時代",
+          "sub_title": "if塾では、AIはあくまで道具と教えます。大切なのは地方の社長の想いをAIに正しく伝える『ブリッジング能力』。これが2026年の最強スキルです。",
+          "text_content": "「技術」より「対話」が価値になる時代",
           "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20260904_business-04.png",
           "image_file": "assets/img/posts/20260904_business-04.png",
-          "overlay_text": "「稼ぐ」より「仕組み」を学ぶ",
-          "subtext": "if塾が教えるのは単なる操作法ではなく、AIを『部下』として扱うマネジメント能力。技術が自動化されるからこそ、人間の『ディレクション力』が真の価値になります。",
-          "alt": "内容3 - 「稼ぐ」より「仕組み」を学ぶ"
+          "overlay_text": "「技術」より「対話」が価値になる時代",
+          "subtext": "if塾では、AIはあくまで道具と教えます。大切なのは地方の社長の想いをAIに正しく伝える『ブリッジング能力』。これが2026年の最強スキルです。",
+          "alt": "内容3 - 「技術」より「対話」が価値になる時代"
         },
         {
           "page_number": 5,
@@ -243,7 +244,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-04T17:12:08",
+      "research_date": "2026-09-04T00:00:00",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "中高生がAIで月5万稼ぐのが「当たり前」",
+        "cover_text": "大学生が月15万稼ぐ？2026年最新「A",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "中高生がAIで月5万稼ぐのが「当たり前」になった2026年9月の現実",
-            "subtext": "2026年最新版：生成AI副業のスタンダード",
+            "headline": "大学生が月15万稼ぐ？2026年最新「AI地域DX副業」が急増中",
+            "subtext": "2026年9月：地方企業を救う新しい働き方",
             "purpose": "金額 or 稼ぎ方",
             "staff_image": null
           },
@@ -267,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「お小遣い」の概念が変わる？",
-            "subtext": "バイト禁止の校則下でも、スマホ一台でAIライティングや画像生成を駆使して収益化する10代が急増中。乗り遅れると経済感覚に差が出る時代です。",
+            "headline": "「やりたいこと」と「人手不足」のミスマッチ",
+            "subtext": "地方の中小企業はSNSをやりたくても『AIを使える人材』が圧倒的に足りていません。一方で、学生はスキルを活かす場所を探しています。",
             "purpose": "何を使う？（手段）",
             "staff_image": null
           },
@@ -276,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "主流は「GPT-5」と「ビデオ生成AI」",
-            "subtext": "2026年現在は文章だけでなく、AI素材サイトへの動画・3Dモデル販売が主流。高度なプロンプト不要の「エージェント型AI」を使いこなすのが鍵。",
+            "headline": "AIエージェントによる自動運用支援",
+            "subtext": "2026年の主流は、Auto-GPT後継の『自律型AI』。これらを駆使して、学生が1人で複数社のSNS分析や動画編集、在庫最適化まで伴走支援しています。",
             "purpose": "具体的なツール（手順）",
             "staff_image": null
           },
@@ -285,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「稼ぐ」より「仕組み」を学ぶ",
-            "subtext": "if塾が教えるのは単なる操作法ではなく、AIを『部下』として扱うマネジメント能力。技術が自動化されるからこそ、人間の『ディレクション力』が真の価値になります。",
+            "headline": "「技術」より「対話」が価値になる時代",
+            "subtext": "if塾では、AIはあくまで道具と教えます。大切なのは地方の社長の想いをAIに正しく伝える『ブリッジング能力』。これが2026年の最強スキルです。",
             "purpose": "マインドセット（成功の秘訣）",
             "staff_image": null
           },
