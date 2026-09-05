@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 240,
-    "last_updated": "2026-09-04T23:55:24.723342",
+    "total_posts": 241,
+    "last_updated": "2026-09-05T12:07:05.259279",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20260905_activity",
+      "post_id": "20260905_activity",
+      "created_at": "2026-09-05T12:07:05",
+      "datetime": "2026-09-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "activity",
+      "theme": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+      "target_audience": "Students & Parents",
+      "title": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+      "caption": "【2026年9月】最新の授業風景をお届けします✨\n\nプログラミング学習の景色が、この1年で劇的に変わりました。\nかつては「AIに答えを聞く」だけだった学びが、今は「AIと議論しながら作り上げる」スタイルへ。\n\n今日のif塾では、AIエージェントをペアプログラミングのパートナーに迎え、複雑なアプリケーション開発に挑戦しました！\n\n「そこはもっと効率的な書き方があるんじゃない？」\n「この機能、ユーザーには使いにくいかも」\n\nAIからの鋭い指摘に驚きつつも、生徒たちは楽しそうに、そして真剣にコードを磨き上げています。\n\nこれからの時代に求められるのは、AIに仕事を奪われる不安ではなく、AIを最高のチームメンバーとしてリードする力です。\n\n2026年の秋、if塾で一生モノの「共創スキル」を身につけませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #プログラミング教育 #AIエージェント #ペアプログラミング #最新教育 #エンジニアリング #DX人材",
+      "caption_text": "【2026年9月】最新の授業風景をお届けします✨\n\nプログラミング学習の景色が、この1年で劇的に変わりました。\nかつては「AIに答えを聞く」だけだった学びが、今は「AIと議論しながら作り上げる」スタイルへ。\n\n今日のif塾では、AIエージェントをペアプログラミングのパートナーに迎え、複雑なアプリケーション開発に挑戦しました！\n\n「そこはもっと効率的な書き方があるんじゃない？」\n「この機能、ユーザーには使いにくいかも」\n\nAIからの鋭い指摘に驚きつつも、生徒たちは楽しそうに、そして真剣にコードを磨き上げています。\n\nこれからの時代に求められるのは、AIに仕事を奪われる不安ではなく、AIを最高のチームメンバーとしてリードする力です。\n\n2026年の秋、if塾で一生モノの「共創スキル」を身につけませんか？\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #プログラミング教育 #AIエージェント #ペアプログラミング #最新教育 #エンジニアリング #DX人材",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#次世代教育",
+        "#AI共創",
+        "#プログラミング教室",
+        "#ペアプログラミング",
+        "#STEM教育"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "sub_title": "2026年9月・if塾活動報告：AIエージェントとの共創",
+          "text_content": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-01.png",
+          "image_file": "assets/img/posts/20260905_activity-01.png",
+          "overlay_text": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "subtext": "2026年9月・if塾活動報告：AIエージェントとの共創",
+          "alt": "表紙 - AIは「使う」から「共に創る」へ。最新ペ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索しても答えがない」新時代の課題に挑む",
+          "sub_title": "AIにコードを書かせるだけでは、もう物足りない。2026年の学習は、複雑なロジックをどう対話で紐解くかが鍵です。",
+          "text_content": "「検索しても答えがない」新時代の課題に挑む",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-02.png",
+          "image_file": "assets/img/posts/20260905_activity-02.png",
+          "overlay_text": "「検索しても答えがない」新時代の課題に挑む",
+          "subtext": "AIにコードを書かせるだけでは、もう物足りない。2026年の学習は、複雑なロジックをどう対話で紐解くかが鍵です。",
+          "alt": "内容1 - 「検索しても答えがない」新時代の課題に挑"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "sub_title": "最新の自律型AIとリアルタイムで議論。生徒が意図を伝え、AIが改善案を出す。人間同士のようなペアプロが日常になりました。",
+          "text_content": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-03.png",
+          "image_file": "assets/img/posts/20260905_activity-03.png",
+          "overlay_text": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "subtext": "最新の自律型AIとリアルタイムで議論。生徒が意図を伝え、AIが改善案を出す。人間同士のようなペアプロが日常になりました。",
+          "alt": "内容2 - AIエージェントが「隣の席の相棒」になる"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「主導権」を握り続ける力",
+          "sub_title": "if塾では、AIの提案を鵜呑みにせず、設計図を書き直す力を重視。道具に頼るのではなく、パートナーとして使いこなす視点を育てます。",
+          "text_content": "大切なのは「主導権」を握り続ける力",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-04.png",
+          "image_file": "assets/img/posts/20260905_activity-04.png",
+          "overlay_text": "大切なのは「主導権」を握り続ける力",
+          "subtext": "if塾では、AIの提案を鵜呑みにせず、設計図を書き直す力を重視。道具に頼るのではなく、パートナーとして使いこなす視点を育てます。",
+          "alt": "内容3 - 大切なのは「主導権」を握り続ける力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "sub_title": "2026年9月・if塾活動報告：AIエージェントとの共創",
+          "text_content": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-01.png",
+          "image_file": "assets/img/posts/20260905_activity-01.png",
+          "overlay_text": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+          "subtext": "2026年9月・if塾活動報告：AIエージェントとの共創",
+          "alt": "表紙 - AIは「使う」から「共に創る」へ。最新ペ"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「検索しても答えがない」新時代の課題に挑む",
+          "sub_title": "AIにコードを書かせるだけでは、もう物足りない。2026年の学習は、複雑なロジックをどう対話で紐解くかが鍵です。",
+          "text_content": "「検索しても答えがない」新時代の課題に挑む",
+          "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-02.png",
+          "image_file": "assets/img/posts/20260905_activity-02.png",
+          "overlay_text": "「検索しても答えがない」新時代の課題に挑む",
+          "subtext": "AIにコードを書かせるだけでは、もう物足りない。2026年の学習は、複雑なロジックをどう対話で紐解くかが鍵です。",
+          "alt": "内容1 - 「検索しても答えがない」新時代の課題に挑"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "sub_title": "最新の自律型AIとリアルタイムで議論。生徒が意図を伝え、AIが改善案を出す。人間同士のようなペアプロが日常になりました。",
+          "text_content": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-03.png",
+          "image_file": "assets/img/posts/20260905_activity-03.png",
+          "overlay_text": "AIエージェントが「隣の席の相棒」になる瞬間",
+          "subtext": "最新の自律型AIとリアルタイムで議論。生徒が意図を伝え、AIが改善案を出す。人間同士のようなペアプロが日常になりました。",
+          "alt": "内容2 - AIエージェントが「隣の席の相棒」になる"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "大切なのは「主導権」を握り続ける力",
+          "sub_title": "if塾では、AIの提案を鵜呑みにせず、設計図を書き直す力を重視。道具に頼るのではなく、パートナーとして使いこなす視点を育てます。",
+          "text_content": "大切なのは「主導権」を握り続ける力",
+          "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20260905_activity-04.png",
+          "image_file": "assets/img/posts/20260905_activity-04.png",
+          "overlay_text": "大切なのは「主導権」を握り続ける力",
+          "subtext": "if塾では、AIの提案を鵜呑みにせず、設計図を書き直す力を重視。道具に頼るのではなく、パートナーとして使いこなす視点を育てます。",
+          "alt": "内容3 - 大切なのは「主導権」を握り続ける力"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260905_activity-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260905_activity-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260905_activity-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20260905_activity-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "活動報告",
+      "staff": {
+        "name": "藤本陽向",
+        "role": "講師",
+        "specialties": [
+          "プログラミング",
+          "ロボット"
+        ],
+        "caption_text": "藤本陽向（講師）"
+      },
+      "staff_selection": {
+        "staff_id": "fujimoto_hinata",
+        "image_type": "casual",
+        "reason": "activityカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-09-05T12:05:36",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "AIは「使う」から「共に創る」へ。最新ペ",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "AIは「使う」から「共に創る」へ。最新ペアプロ授業公開",
+            "subtext": "2026年9月・if塾活動報告：AIエージェントとの共創",
+            "purpose": "笑顔の集合写真 or 授業風景",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「検索しても答えがない」新時代の課題に挑む",
+            "subtext": "AIにコードを書かせるだけでは、もう物足りない。2026年の学習は、複雑なロジックをどう対話で紐解くかが鍵です。",
+            "purpose": "今日何をした？（出来事）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "AIエージェントが「隣の席の相棒」になる瞬間",
+            "subtext": "最新の自律型AIとリアルタイムで議論。生徒が意図を伝え、AIが改善案を出す。人間同士のようなペアプロが日常になりました。",
+            "purpose": "生徒の反応は？（様子）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "大切なのは「主導権」を握り続ける力",
+            "subtext": "if塾では、AIの提案を鵜呑みにせず、設計図を書き直す力を重視。道具に頼るのではなく、パートナーとして使いこなす視点を育てます。",
+            "purpose": "指導者の視点（気付き）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20260904_business",
       "post_id": "20260904_business",
