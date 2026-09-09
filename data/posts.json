@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 245,
-    "last_updated": "2026-09-09T00:06:57.456130",
+    "last_updated": "2026-09-09T12:15:23.335450",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20260909_development",
       "post_id": "20260909_development",
-      "created_at": "2026-09-09T00:06:57",
+      "created_at": "2026-09-09T12:15:23",
       "datetime": "2026-09-09T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
@@ -230,21 +230,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "山﨑琢己",
+        "name": "加賀屋結眞",
         "role": "講師",
         "specialties": [
-          "プログラミング",
-          "アプリ開発"
+          "AI",
+          "Webアプリ開発"
         ],
-        "caption_text": "山﨑琢己（講師）"
+        "caption_text": "加賀屋結眞（講師）"
       },
       "staff_selection": {
-        "staff_id": "yamazaki_takumi",
+        "staff_id": "kagaya_yuma",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-09T00:06:35",
+      "research_date": "2026-09-09T12:15:02",
       "engagement": {
         "likes": 0,
         "comments": 0,
