@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 258,
-    "last_updated": "2026-09-22T01:56:55.139390",
+    "last_updated": "2026-09-22T12:28:38.902922",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20260922_education",
       "post_id": "20260922_education",
-      "created_at": "2026-09-22T01:56:55",
+      "created_at": "2026-09-22T12:28:38",
       "datetime": "2026-09-22T09:00:00+09:00",
       "type": "carousel",
       "category": "education",
@@ -245,7 +245,7 @@
         "reason": "educationカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-09-22T01:56:32",
+      "research_date": "2026-09-22T12:28:17",
       "engagement": {
         "likes": 0,
         "comments": 0,
