@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 267,
-    "last_updated": "2026-10-01T13:19:56.007597",
+    "last_updated": "2026-10-01T19:25:51.242030",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20261001_ai_column",
       "post_id": "20261001_ai_column",
-      "created_at": "2026-10-01T13:19:56",
+      "created_at": "2026-10-01T19:25:51",
       "datetime": "2026-10-01T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "2026年版：Gemini 2026年最新機",
+      "theme": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
       "target_audience": "Students & Parents",
-      "title": "2026年版：Gemini 2026年最新機",
-      "caption": "【2026年10月】Gemini 2026年最新機能\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
-      "caption_text": "【2026年10月】Gemini 2026年最新機能\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "title": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+      "caption": "【2026年10月】OpenAI DevDay 2026で発表された内容が、私たちの日常を劇的に変えようとしています。\n\nついに発表された自律型エージェント『dots』。\nこれからは「プロンプトを打つ」手間すらなくなります。あなたが寝ている間に、AIが最適な学習プランを組み、必要な資料を揃え、関係各所への連絡まで済ませてくれる。\n\nさらに『ChatGPT Space』は、共有のデジタル空間にAIが常駐。保護者の皆さまにとっては「子供の学習の見守り」が、学生の皆さんにとっては「24時間隣にいる専属コーチ」が現実のものになります。\n\nif塾では、これら最新AIを単に使いこなすだけでなく、AIとどう「共生」し、人間にしかできない創造性をどう磨くかにフォーカスしています。\n\n皆さんは、自分の「dots」にまず何を任せたいですか？コメントで教えてください！\n\n#if塾 #2026年 #OpenAI #DevDay2026 #ChatGPT #dots #AIエージェント #教育ICT #最新テック",
+      "caption_text": "【2026年10月】OpenAI DevDay 2026で発表された内容が、私たちの日常を劇的に変えようとしています。\n\nついに発表された自律型エージェント『dots』。\nこれからは「プロンプトを打つ」手間すらなくなります。あなたが寝ている間に、AIが最適な学習プランを組み、必要な資料を揃え、関係各所への連絡まで済ませてくれる。\n\nさらに『ChatGPT Space』は、共有のデジタル空間にAIが常駐。保護者の皆さまにとっては「子供の学習の見守り」が、学生の皆さんにとっては「24時間隣にいる専属コーチ」が現実のものになります。\n\nif塾では、これら最新AIを単に使いこなすだけでなく、AIとどう「共生」し、人間にしかできない創造性をどう磨くかにフォーカスしています。\n\n皆さんは、自分の「dots」にまず何を任せたいですか？コメントで教えてください！\n\n#if塾 #2026年 #OpenAI #DevDay2026 #ChatGPT #dots #AIエージェント #教育ICT #最新テック",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#if塾",
-        "#AI",
+        "#OpenAI",
         "#ChatGPT",
-        "#Gemini",
-        "#生成AI",
-        "#AIツール",
-        "#最新テック"
+        "#AIエージェント",
+        "#最新技術",
+        "#教育の未来",
+        "#リスキリング"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：Gemini 2026年最新機",
-          "sub_title": "10月の最新情報",
-          "text_content": "2026年版：Gemini 2026年最新機",
+          "main_title": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+          "sub_title": "10月の超重要ニュース：dots & ChatGPT Space",
+          "text_content": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-01-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-01-fallback.png",
-          "overlay_text": "2026年版：Gemini 2026年最新機",
-          "subtext": "10月の最新情報",
-          "alt": "表紙 - 2026年版：Gemini 2026年最"
+          "image_url": "assets/img/posts/20261001_ai_column-01.png",
+          "image_file": "assets/img/posts/20261001_ai_column-01.png",
+          "overlay_text": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+          "subtext": "10月の超重要ニュース：dots & ChatGPT Space",
+          "alt": "表紙 - OpenAI 2026最新発表：AIは「"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "指示待ちは終わり。常時稼働AI『dots』登場",
+          "sub_title": "これまでのAIは「質問に答える」だけ。dotsは、あなたの睡眠中もタスクを自走し、朝にはレポートを完成させてくれる「自律型エージェント」です。",
+          "text_content": "指示待ちは終わり。常時稼働AI『dots』登場",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-02-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-02-fallback.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "image_url": "assets/img/posts/20261001_ai_column-02.png",
+          "image_file": "assets/img/posts/20261001_ai_column-02.png",
+          "overlay_text": "指示待ちは終わり。常時稼働AI『dots』登場",
+          "subtext": "これまでのAIは「質問に答える」だけ。dotsは、あなたの睡眠中もタスクを自走し、朝にはレポートを完成させてくれる「自律型エージェント」です。",
+          "alt": "内容1 - 指示待ちは終わり。常時稼働AI『dots"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "家族やチームで住む『ChatGPT Space』",
+          "sub_title": "メタバースとドキュメント管理が融合。AIエージェントがアバターとして常駐し、受験勉強の進捗管理や家族のスケジュール調整を自動で最適化します。",
+          "text_content": "家族やチームで住む『ChatGPT Space』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-03-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-03-fallback.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "image_url": "assets/img/posts/20261001_ai_column-03.png",
+          "image_file": "assets/img/posts/20261001_ai_column-03.png",
+          "overlay_text": "家族やチームで住む『ChatGPT Space』",
+          "subtext": "メタバースとドキュメント管理が融合。AIエージェントがアバターとして常駐し、受験勉強の進捗管理や家族のスケジュール調整を自動で最適化します。",
+          "alt": "内容2 - 家族やチームで住む『ChatGPT Sp"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "if塾の視点：AIを「部下」ではなく「バディ」に",
+          "sub_title": "単なる時短ツールとしてではなく、dotsに『自分の価値観』を学習させることが重要。2026年後半、AIとの対話不足は致命的なスキルの差になります。",
+          "text_content": "if塾の視点：AIを「部下」ではなく「バディ」に",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-04-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-04-fallback.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "image_url": "assets/img/posts/20261001_ai_column-04.png",
+          "image_file": "assets/img/posts/20261001_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを「部下」ではなく「バディ」に",
+          "subtext": "単なる時短ツールとしてではなく、dotsに『自分の価値観』を学習させることが重要。2026年後半、AIとの対話不足は致命的なスキルの差になります。",
+          "alt": "内容3 - if塾の視点：AIを「部下」ではなく「バ"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "2026年版：Gemini 2026年最新機",
-          "sub_title": "10月の最新情報",
-          "text_content": "2026年版：Gemini 2026年最新機",
+          "main_title": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+          "sub_title": "10月の超重要ニュース：dots & ChatGPT Space",
+          "text_content": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-01-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-01-fallback.png",
-          "overlay_text": "2026年版：Gemini 2026年最新機",
-          "subtext": "10月の最新情報",
-          "alt": "表紙 - 2026年版：Gemini 2026年最"
+          "image_url": "assets/img/posts/20261001_ai_column-01.png",
+          "image_file": "assets/img/posts/20261001_ai_column-01.png",
+          "overlay_text": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+          "subtext": "10月の超重要ニュース：dots & ChatGPT Space",
+          "alt": "表紙 - OpenAI 2026最新発表：AIは「"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "こんな悩みありませんか？",
-          "sub_title": "2026年の課題",
-          "text_content": "こんな悩みありませんか？",
+          "main_title": "指示待ちは終わり。常時稼働AI『dots』登場",
+          "sub_title": "これまでのAIは「質問に答える」だけ。dotsは、あなたの睡眠中もタスクを自走し、朝にはレポートを完成させてくれる「自律型エージェント」です。",
+          "text_content": "指示待ちは終わり。常時稼働AI『dots』登場",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-02-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-02-fallback.png",
-          "overlay_text": "こんな悩みありませんか？",
-          "subtext": "2026年の課題",
-          "alt": "内容1 - こんな悩みありませんか？"
+          "image_url": "assets/img/posts/20261001_ai_column-02.png",
+          "image_file": "assets/img/posts/20261001_ai_column-02.png",
+          "overlay_text": "指示待ちは終わり。常時稼働AI『dots』登場",
+          "subtext": "これまでのAIは「質問に答える」だけ。dotsは、あなたの睡眠中もタスクを自走し、朝にはレポートを完成させてくれる「自律型エージェント」です。",
+          "alt": "内容1 - 指示待ちは終わり。常時稼働AI『dots"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "2026年の解決策をご紹介",
-          "sub_title": "最新ツールで解決",
-          "text_content": "2026年の解決策をご紹介",
+          "main_title": "家族やチームで住む『ChatGPT Space』",
+          "sub_title": "メタバースとドキュメント管理が融合。AIエージェントがアバターとして常駐し、受験勉強の進捗管理や家族のスケジュール調整を自動で最適化します。",
+          "text_content": "家族やチームで住む『ChatGPT Space』",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-03-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-03-fallback.png",
-          "overlay_text": "2026年の解決策をご紹介",
-          "subtext": "最新ツールで解決",
-          "alt": "内容2 - 2026年の解決策をご紹介"
+          "image_url": "assets/img/posts/20261001_ai_column-03.png",
+          "image_file": "assets/img/posts/20261001_ai_column-03.png",
+          "overlay_text": "家族やチームで住む『ChatGPT Space』",
+          "subtext": "メタバースとドキュメント管理が融合。AIエージェントがアバターとして常駐し、受験勉強の進捗管理や家族のスケジュール調整を自動で最適化します。",
+          "alt": "内容2 - 家族やチームで住む『ChatGPT Sp"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "今すぐ始めよう",
-          "sub_title": "if塾で学ぶ",
-          "text_content": "今すぐ始めよう",
+          "main_title": "if塾の視点：AIを「部下」ではなく「バディ」に",
+          "sub_title": "単なる時短ツールとしてではなく、dotsに『自分の価値観』を学習させることが重要。2026年後半、AIとの対話不足は致命的なスキルの差になります。",
+          "text_content": "if塾の視点：AIを「部下」ではなく「バディ」に",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261001_ai_column-04-fallback.png",
-          "image_file": "assets/img/posts/20261001_ai_column-04-fallback.png",
-          "overlay_text": "今すぐ始めよう",
-          "subtext": "if塾で学ぶ",
-          "alt": "内容3 - 今すぐ始めよう"
+          "image_url": "assets/img/posts/20261001_ai_column-04.png",
+          "image_file": "assets/img/posts/20261001_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを「部下」ではなく「バディ」に",
+          "subtext": "単なる時短ツールとしてではなく、dotsに『自分の価値観』を学習させることが重要。2026年後半、AIとの対話不足は致命的なスキルの差になります。",
+          "alt": "内容3 - if塾の視点：AIを「部下」ではなく「バ"
         },
         {
           "page_number": 5,
@@ -204,22 +203,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20261001_ai_column-01-fallback.png",
+          "src": "assets/img/posts/20261001_ai_column-01.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261001_ai_column-02-fallback.png",
+          "src": "assets/img/posts/20261001_ai_column-02.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261001_ai_column-03-fallback.png",
+          "src": "assets/img/posts/20261001_ai_column-03.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261001_ai_column-04-fallback.png",
+          "src": "assets/img/posts/20261001_ai_column-04.png",
           "alt": "シーン4"
         },
         {
@@ -245,7 +244,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-01T13:19:35",
+      "research_date": "2026-10-01T19:24:32",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "2026年版：Gemini 2026年最",
+        "cover_text": "OpenAI 2026最新発表：AIは「",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "2026年版：Gemini 2026年最新機",
-            "subtext": "10月の最新情報",
+            "headline": "OpenAI 2026最新発表：AIは「使う」から「共に住む」時代へ",
+            "subtext": "10月の超重要ニュース：dots & ChatGPT Space",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "こんな悩みありませんか？",
-            "subtext": "2026年の課題",
+            "headline": "指示待ちは終わり。常時稼働AI『dots』登場",
+            "subtext": "これまでのAIは「質問に答える」だけ。dotsは、あなたの睡眠中もタスクを自走し、朝にはレポートを完成させてくれる「自律型エージェント」です。",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "2026年の解決策をご紹介",
-            "subtext": "最新ツールで解決",
+            "headline": "家族やチームで住む『ChatGPT Space』",
+            "subtext": "メタバースとドキュメント管理が融合。AIエージェントがアバターとして常駐し、受験勉強の進捗管理や家族のスケジュール調整を自動で最適化します。",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "今すぐ始めよう",
-            "subtext": "if塾で学ぶ",
+            "headline": "if塾の視点：AIを「部下」ではなく「バディ」に",
+            "subtext": "単なる時短ツールとしてではなく、dotsに『自分の価値観』を学習させることが重要。2026年後半、AIとの対話不足は致命的なスキルの差になります。",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
