@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 267,
-    "last_updated": "2026-10-01T19:25:51.242030",
+    "total_posts": 268,
+    "last_updated": "2026-10-02T02:25:17.837681",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,296 @@
     ]
   },
   "posts": [
+    {
+      "id": "20261002_business",
+      "post_id": "20261002_business",
+      "created_at": "2026-10-02T02:25:17",
+      "datetime": "2026-10-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "business",
+      "theme": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+      "target_audience": "Students & Parents",
+      "title": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+      "caption": "【2026年10月】最新の教育資金トレンドをお届けします。\n\nついに2027年1月からスタートする「新・こどもNISA」の事前予約が解禁されました！\n「まだ先の話」と思っていた方も、今月が大きな分岐点です。\n\n2026年の現在、インフレの影響で大学進学費用や留学費用は数年前の1.2倍以上に。預金だけで備える時代は完全に終わりました。\n\nif塾が提唱するのは「増やす」だけでなく「育てる」教育資金形成。\n子供と一緒に口座の成長を見守ることで、お金のリテラシーも同時に育む。これこそが、これからの時代に必要な家庭教育です。\n\n「何から始めたらいい？」「どの証券会社が2027年版に強い？」と迷っている方は、まず今すぐ事前エントリーの確認を！\n\n詳細は公式LINEでも解説中。プロフィールのリンクからチェックしてください✨",
+      "caption_text": "【2026年10月】最新の教育資金トレンドをお届けします。\n\nついに2027年1月からスタートする「新・こどもNISA」の事前予約が解禁されました！\n「まだ先の話」と思っていた方も、今月が大きな分岐点です。\n\n2026年の現在、インフレの影響で大学進学費用や留学費用は数年前の1.2倍以上に。預金だけで備える時代は完全に終わりました。\n\nif塾が提唱するのは「増やす」だけでなく「育てる」教育資金形成。\n子供と一緒に口座の成長を見守ることで、お金のリテラシーも同時に育む。これこそが、これからの時代に必要な家庭教育です。\n\n「何から始めたらいい？」「どの証券会社が2027年版に強い？」と迷っている方は、まず今すぐ事前エントリーの確認を！\n\n詳細は公式LINEでも解説中。プロフィールのリンクからチェックしてください✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#こどもNISA",
+        "#教育資金",
+        "#資産形成",
+        "#2027年1月始動",
+        "#投資教育",
+        "#家計管理"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "sub_title": "2026年10月最新：事前予約で差をつける先行投資戦略",
+          "text_content": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-01.png",
+          "image_file": "assets/img/posts/20261002_business-01.png",
+          "overlay_text": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "subtext": "2026年10月最新：事前予約で差をつける先行投資戦略",
+          "alt": "表紙 - 2027年1月「こどもNISA」始動！教"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "sub_title": "教育費のインフレ率は過去最高水準。現預金だけでは「進路の選択肢」が狭まるリスクが現実味を帯びています。",
+          "text_content": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-02.png",
+          "image_file": "assets/img/posts/20261002_business-02.png",
+          "overlay_text": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "subtext": "教育費のインフレ率は過去最高水準。現預金だけでは「進路の選択肢」が狭まるリスクが現実味を帯びています。",
+          "alt": "内容1 - 「大学無償化」だけでは足りない？2026"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "sub_title": "2026年10月から各証券会社で受付開始。旧制度を上回る柔軟な引き出し制限と、18歳までの運用メリットを最大限活用しましょう。",
+          "text_content": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-03.png",
+          "image_file": "assets/img/posts/20261002_business-03.png",
+          "overlay_text": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "subtext": "2026年10月から各証券会社で受付開始。旧制度を上回る柔軟な引き出し制限と、18歳までの運用メリットを最大限活用しましょう。",
+          "alt": "内容2 - 新生「こどもNISA」事前予約開始！最大"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "sub_title": "単なる貯蓄ではなく、子供が18歳になった時の『挑戦の軍資金』として定義。投資教育とセットで資産を渡すマインドが成功の鍵です。",
+          "text_content": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-04.png",
+          "image_file": "assets/img/posts/20261002_business-04.png",
+          "overlay_text": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "subtext": "単なる貯蓄ではなく、子供が18歳になった時の『挑戦の軍資金』として定義。投資教育とセットで資産を渡すマインドが成功の鍵です。",
+          "alt": "内容3 - if塾の視点：制度を「使う」前に「目的」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "sub_title": "2026年10月最新：事前予約で差をつける先行投資戦略",
+          "text_content": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "image_prompt": "Japanese anime style, 金額 or 稼ぎ方, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-01.png",
+          "image_file": "assets/img/posts/20261002_business-01.png",
+          "overlay_text": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+          "subtext": "2026年10月最新：事前予約で差をつける先行投資戦略",
+          "alt": "表紙 - 2027年1月「こどもNISA」始動！教"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "sub_title": "教育費のインフレ率は過去最高水準。現預金だけでは「進路の選択肢」が狭まるリスクが現実味を帯びています。",
+          "text_content": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "image_prompt": "Japanese anime style, 何を使う？（手段）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-02.png",
+          "image_file": "assets/img/posts/20261002_business-02.png",
+          "overlay_text": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+          "subtext": "教育費のインフレ率は過去最高水準。現預金だけでは「進路の選択肢」が狭まるリスクが現実味を帯びています。",
+          "alt": "内容1 - 「大学無償化」だけでは足りない？2026"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "sub_title": "2026年10月から各証券会社で受付開始。旧制度を上回る柔軟な引き出し制限と、18歳までの運用メリットを最大限活用しましょう。",
+          "text_content": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "image_prompt": "Japanese anime style, 具体的なツール（手順）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-03.png",
+          "image_file": "assets/img/posts/20261002_business-03.png",
+          "overlay_text": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+          "subtext": "2026年10月から各証券会社で受付開始。旧制度を上回る柔軟な引き出し制限と、18歳までの運用メリットを最大限活用しましょう。",
+          "alt": "内容2 - 新生「こどもNISA」事前予約開始！最大"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "sub_title": "単なる貯蓄ではなく、子供が18歳になった時の『挑戦の軍資金』として定義。投資教育とセットで資産を渡すマインドが成功の鍵です。",
+          "text_content": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "image_prompt": "Japanese anime style, マインドセット（成功の秘訣）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261002_business-04.png",
+          "image_file": "assets/img/posts/20261002_business-04.png",
+          "overlay_text": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+          "subtext": "単なる貯蓄ではなく、子供が18歳になった時の『挑戦の軍資金』として定義。投資教育とセットで資産を渡すマインドが成功の鍵です。",
+          "alt": "内容3 - if塾の視点：制度を「使う」前に「目的」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261002_business-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261002_business-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261002_business-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261002_business-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "ビジネスコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "businessカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-10-02T02:23:48",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2027年1月「こどもNISA」始動！教",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2027年1月「こどもNISA」始動！教育資金の常識が変わる",
+            "subtext": "2026年10月最新：事前予約で差をつける先行投資戦略",
+            "purpose": "金額 or 稼ぎ方",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「大学無償化」だけでは足りない？2026年の家計を襲う物価高",
+            "subtext": "教育費のインフレ率は過去最高水準。現預金だけでは「進路の選択肢」が狭まるリスクが現実味を帯びています。",
+            "purpose": "何を使う？（手段）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "新生「こどもNISA」事前予約開始！最大の特徴は「非課税枠の拡大」",
+            "subtext": "2026年10月から各証券会社で受付開始。旧制度を上回る柔軟な引き出し制限と、18歳までの運用メリットを最大限活用しましょう。",
+            "purpose": "具体的なツール（手順）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：制度を「使う」前に「目的」を言語化せよ",
+            "subtext": "単なる貯蓄ではなく、子供が18歳になった時の『挑戦の軍資金』として定義。投資教育とセットで資産を渡すマインドが成功の鍵です。",
+            "purpose": "マインドセット（成功の秘訣）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20261001_ai_column",
       "post_id": "20261001_ai_column",
