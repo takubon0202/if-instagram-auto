@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 269,
-    "last_updated": "2026-10-03T01:35:58.926360",
+    "last_updated": "2026-10-03T12:56:55.398493",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,22 @@
     {
       "id": "20261003_activity",
       "post_id": "20261003_activity",
-      "created_at": "2026-10-03T01:35:58",
+      "created_at": "2026-10-03T12:56:55",
       "datetime": "2026-10-03T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
+      "theme": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
       "target_audience": "Students & Parents",
-      "title": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-      "caption": "【2026年10月】最新の活動報告をお届けします！\n\n「プログラミングを学びたいけど、コードを覚えるのに時間がかかる…」\nそんな悩みは、2026年の今、過去のものになりつつあります。\n\n今日のif塾では、AIエージェントを指揮してアプリを『爆速開発』するワークショップを開催しました。\n\n驚くべきは、プログラミング未経験の生徒が、わずか1コマの授業で実用的なタスク管理アプリを完成させたこと。\n\nこれからの時代に求められるのは、コードを書く技術そのものよりも、AIに的確な指示を出し、複雑な課題を分解して解決に導く「ディレクション能力」です。\n\nif塾では、最新のAIツールを教育現場にいち早く取り入れ、未来を生き抜く『使いこなす力』を育んでいます。\n\n進路相談や、最新のAI学習体験についても随時受付中です！\n詳細はプロフィールのリンクからご確認ください✨",
-      "caption_text": "【2026年10月】最新の活動報告をお届けします！\n\n「プログラミングを学びたいけど、コードを覚えるのに時間がかかる…」\nそんな悩みは、2026年の今、過去のものになりつつあります。\n\n今日のif塾では、AIエージェントを指揮してアプリを『爆速開発』するワークショップを開催しました。\n\n驚くべきは、プログラミング未経験の生徒が、わずか1コマの授業で実用的なタスク管理アプリを完成させたこと。\n\nこれからの時代に求められるのは、コードを書く技術そのものよりも、AIに的確な指示を出し、複雑な課題を分解して解決に導く「ディレクション能力」です。\n\nif塾では、最新のAIツールを教育現場にいち早く取り入れ、未来を生き抜く『使いこなす力』を育んでいます。\n\n進路相談や、最新のAI学習体験についても随時受付中です！\n詳細はプロフィールのリンクからご確認ください✨",
+      "title": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+      "caption": "【2026年10月】AIの活用は「書く」から「操る」フェーズへ。\n\n本日開催された『Minds Japan Student AI Agent Ideathon』。そこで目にしたのは、コードを一行も書かずに、高度なAIエージェントを構築する学生たちの姿でした。\n\n2026年現在、プログラミングスキルはもはや「目的」ではなく、AIを動かすための「背景知識」へと変化しています。\n\n保護者の皆様から「今さらプログラミングを学んでもAIに取って代わられるのでは？」という不安の声をいただくこともあります。\n\nしかし、事実は逆です。AIが身近になった今だからこそ、人間の「課題発見力」と「AIへのディレクション能力」の価値がかつてないほど高まっています。\n\nif塾では、最新のAIツールを使いこなし、社会の課題を自力で解決できる『真のデジタルリテラシー』を指導しています。\n\n未来を創るのは、技術に振り回される人ではなく、技術を使いこなす人です。\n\n詳細はプロフィールのリンクから公式LINEをチェック！\n\n#if塾 #2026年 #AIエージェント #アイディアソン #中高生プログラミング #リスキリング #教育の未来 #AI教育",
+      "caption_text": "【2026年10月】AIの活用は「書く」から「操る」フェーズへ。\n\n本日開催された『Minds Japan Student AI Agent Ideathon』。そこで目にしたのは、コードを一行も書かずに、高度なAIエージェントを構築する学生たちの姿でした。\n\n2026年現在、プログラミングスキルはもはや「目的」ではなく、AIを動かすための「背景知識」へと変化しています。\n\n保護者の皆様から「今さらプログラミングを学んでもAIに取って代わられるのでは？」という不安の声をいただくこともあります。\n\nしかし、事実は逆です。AIが身近になった今だからこそ、人間の「課題発見力」と「AIへのディレクション能力」の価値がかつてないほど高まっています。\n\nif塾では、最新のAIツールを使いこなし、社会の課題を自力で解決できる『真のデジタルリテラシー』を指導しています。\n\n未来を創るのは、技術に振り回される人ではなく、技術を使いこなす人です。\n\n詳細はプロフィールのリンクから公式LINEをチェック！\n\n#if塾 #2026年 #AIエージェント #アイディアソン #中高生プログラミング #リスキリング #教育の未来 #AI教育",
       "hashtags": [
         "#if塾",
         "#2026年",
         "#AIエージェント",
-        "#ノーコード開発",
-        "#生成AI教育",
-        "#プロンプトエンジニアリング",
-        "#未来の教育",
-        "#アプリ開発"
+        "#アイディアソン",
+        "#デジタル教育",
+        "#課題発見力"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +41,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-          "sub_title": "2026年10月の最新授業レポ",
-          "text_content": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
+          "main_title": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+          "sub_title": "10/3最新：Minds Japan Student AI Agent Ideathon速報",
+          "text_content": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-01.png",
           "image_file": "assets/img/posts/20261003_activity-01.png",
-          "overlay_text": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-          "subtext": "2026年10月の最新授業レポ",
-          "alt": "表紙 - コード不要！AIエージェントと作る「爆速"
+          "overlay_text": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+          "subtext": "10/3最新：Minds Japan Student AI Agent Ideathon速報",
+          "alt": "表紙 - コード不要の時代へ。AIエージェントで変"
         },
         {
           "page_number": 2,
@@ -59,15 +57,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいこと」はあるけれど、コードが書けない？",
-          "sub_title": "2026年、プログラミングは『書く』から『指示する』時代へ。受験勉強と両立しながら成果を出したい学生の悩みを解決します。",
-          "text_content": "「やりたいこと」はあるけれど、コードが書けない？",
+          "main_title": "「うちの子、プログラミングしなくていいの？」",
+          "sub_title": "2026年、生成AIの進化により、コードを書く技術よりも『AIに何をさせるか』という設計力が受験やキャリアの最前線になっています。",
+          "text_content": "「うちの子、プログラミングしなくていいの？」",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-02.png",
           "image_file": "assets/img/posts/20261003_activity-02.png",
-          "overlay_text": "「やりたいこと」はあるけれど、コードが書けない？",
-          "subtext": "2026年、プログラミングは『書く』から『指示する』時代へ。受験勉強と両立しながら成果を出したい学生の悩みを解決します。",
-          "alt": "内容1 - 「やりたいこと」はあるけれど、コードが書"
+          "overlay_text": "「うちの子、プログラミングしなくていいの？」",
+          "subtext": "2026年、生成AIの進化により、コードを書く技術よりも『AIに何をさせるか』という設計力が受験やキャリアの最前線になっています。",
+          "alt": "内容1 - 「うちの子、プログラミングしなくていいの"
         },
         {
           "page_number": 3,
@@ -75,15 +73,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生徒がAIに「指示」して、30分で多機能ツールが完成",
-          "sub_title": "最新の自律型AIエージェントを活用。論理的なプロンプト一つで、バックエンドからUIデザインまで一気に組み上がる様子に教室が湧きました。",
-          "text_content": "生徒がAIに「指示」して、30分で多機能ツールが完成",
+          "main_title": "生活課題を解決する『AIエージェント』の衝撃",
+          "sub_title": "10月開催のアイディアソンでは、中高生が自律型AIを構築。プログラミング経験ゼロでも、社会問題を解決するアプリを数時間で完成させています。",
+          "text_content": "生活課題を解決する『AIエージェント』の衝撃",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-03.png",
           "image_file": "assets/img/posts/20261003_activity-03.png",
-          "overlay_text": "生徒がAIに「指示」して、30分で多機能ツールが完成",
-          "subtext": "最新の自律型AIエージェントを活用。論理的なプロンプト一つで、バックエンドからUIデザインまで一気に組み上がる様子に教室が湧きました。",
-          "alt": "内容2 - 生徒がAIに「指示」して、30分で多機能"
+          "overlay_text": "生活課題を解決する『AIエージェント』の衝撃",
+          "subtext": "10月開催のアイディアソンでは、中高生が自律型AIを構築。プログラミング経験ゼロでも、社会問題を解決するアプリを数時間で完成させています。",
+          "alt": "内容2 - 生活課題を解決する『AIエージェント』の"
         },
         {
           "page_number": 4,
@@ -91,15 +89,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：求められるのは「構想力」と「言語化能力」",
-          "sub_title": "技術の民主化が進んだ今、大切なのは『何を解決したいか』を明確に伝える力。if塾ではAIを使いこなすための思考プロセスを徹底指導しています。",
-          "text_content": "if塾の視点：求められるのは「構想力」と「言語化能力」",
+          "main_title": "if塾が教えるのは「指示の質」と「課題発見力」",
+          "sub_title": "これからの時代、AIを使いこなす鍵は『問いを立てる力』。if塾では技術の習得以上に、生活の中の不便に気づく感性を育てています。",
+          "text_content": "if塾が教えるのは「指示の質」と「課題発見力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-04.png",
           "image_file": "assets/img/posts/20261003_activity-04.png",
-          "overlay_text": "if塾の視点：求められるのは「構想力」と「言語化能力」",
-          "subtext": "技術の民主化が進んだ今、大切なのは『何を解決したいか』を明確に伝える力。if塾ではAIを使いこなすための思考プロセスを徹底指導しています。",
-          "alt": "内容3 - if塾の視点：求められるのは「構想力」と"
+          "overlay_text": "if塾が教えるのは「指示の質」と「課題発見力」",
+          "subtext": "これからの時代、AIを使いこなす鍵は『問いを立てる力』。if塾では技術の習得以上に、生活の中の不便に気づく感性を育てています。",
+          "alt": "内容3 - if塾が教えるのは「指示の質」と「課題発"
         },
         {
           "page_number": 5,
@@ -125,15 +123,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-          "sub_title": "2026年10月の最新授業レポ",
-          "text_content": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
+          "main_title": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+          "sub_title": "10/3最新：Minds Japan Student AI Agent Ideathon速報",
+          "text_content": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-01.png",
           "image_file": "assets/img/posts/20261003_activity-01.png",
-          "overlay_text": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-          "subtext": "2026年10月の最新授業レポ",
-          "alt": "表紙 - コード不要！AIエージェントと作る「爆速"
+          "overlay_text": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+          "subtext": "10/3最新：Minds Japan Student AI Agent Ideathon速報",
+          "alt": "表紙 - コード不要の時代へ。AIエージェントで変"
         },
         {
           "page_number": 2,
@@ -141,15 +139,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「やりたいこと」はあるけれど、コードが書けない？",
-          "sub_title": "2026年、プログラミングは『書く』から『指示する』時代へ。受験勉強と両立しながら成果を出したい学生の悩みを解決します。",
-          "text_content": "「やりたいこと」はあるけれど、コードが書けない？",
+          "main_title": "「うちの子、プログラミングしなくていいの？」",
+          "sub_title": "2026年、生成AIの進化により、コードを書く技術よりも『AIに何をさせるか』という設計力が受験やキャリアの最前線になっています。",
+          "text_content": "「うちの子、プログラミングしなくていいの？」",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-02.png",
           "image_file": "assets/img/posts/20261003_activity-02.png",
-          "overlay_text": "「やりたいこと」はあるけれど、コードが書けない？",
-          "subtext": "2026年、プログラミングは『書く』から『指示する』時代へ。受験勉強と両立しながら成果を出したい学生の悩みを解決します。",
-          "alt": "内容1 - 「やりたいこと」はあるけれど、コードが書"
+          "overlay_text": "「うちの子、プログラミングしなくていいの？」",
+          "subtext": "2026年、生成AIの進化により、コードを書く技術よりも『AIに何をさせるか』という設計力が受験やキャリアの最前線になっています。",
+          "alt": "内容1 - 「うちの子、プログラミングしなくていいの"
         },
         {
           "page_number": 3,
@@ -157,15 +155,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "生徒がAIに「指示」して、30分で多機能ツールが完成",
-          "sub_title": "最新の自律型AIエージェントを活用。論理的なプロンプト一つで、バックエンドからUIデザインまで一気に組み上がる様子に教室が湧きました。",
-          "text_content": "生徒がAIに「指示」して、30分で多機能ツールが完成",
+          "main_title": "生活課題を解決する『AIエージェント』の衝撃",
+          "sub_title": "10月開催のアイディアソンでは、中高生が自律型AIを構築。プログラミング経験ゼロでも、社会問題を解決するアプリを数時間で完成させています。",
+          "text_content": "生活課題を解決する『AIエージェント』の衝撃",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-03.png",
           "image_file": "assets/img/posts/20261003_activity-03.png",
-          "overlay_text": "生徒がAIに「指示」して、30分で多機能ツールが完成",
-          "subtext": "最新の自律型AIエージェントを活用。論理的なプロンプト一つで、バックエンドからUIデザインまで一気に組み上がる様子に教室が湧きました。",
-          "alt": "内容2 - 生徒がAIに「指示」して、30分で多機能"
+          "overlay_text": "生活課題を解決する『AIエージェント』の衝撃",
+          "subtext": "10月開催のアイディアソンでは、中高生が自律型AIを構築。プログラミング経験ゼロでも、社会問題を解決するアプリを数時間で完成させています。",
+          "alt": "内容2 - 生活課題を解決する『AIエージェント』の"
         },
         {
           "page_number": 4,
@@ -173,15 +171,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾の視点：求められるのは「構想力」と「言語化能力」",
-          "sub_title": "技術の民主化が進んだ今、大切なのは『何を解決したいか』を明確に伝える力。if塾ではAIを使いこなすための思考プロセスを徹底指導しています。",
-          "text_content": "if塾の視点：求められるのは「構想力」と「言語化能力」",
+          "main_title": "if塾が教えるのは「指示の質」と「課題発見力」",
+          "sub_title": "これからの時代、AIを使いこなす鍵は『問いを立てる力』。if塾では技術の習得以上に、生活の中の不便に気づく感性を育てています。",
+          "text_content": "if塾が教えるのは「指示の質」と「課題発見力」",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261003_activity-04.png",
           "image_file": "assets/img/posts/20261003_activity-04.png",
-          "overlay_text": "if塾の視点：求められるのは「構想力」と「言語化能力」",
-          "subtext": "技術の民主化が進んだ今、大切なのは『何を解決したいか』を明確に伝える力。if塾ではAIを使いこなすための思考プロセスを徹底指導しています。",
-          "alt": "内容3 - if塾の視点：求められるのは「構想力」と"
+          "overlay_text": "if塾が教えるのは「指示の質」と「課題発見力」",
+          "subtext": "これからの時代、AIを使いこなす鍵は『問いを立てる力』。if塾では技術の習得以上に、生活の中の不便に気づく感性を育てています。",
+          "alt": "内容3 - if塾が教えるのは「指示の質」と「課題発"
         },
         {
           "page_number": 5,
@@ -229,21 +227,21 @@
       ],
       "highlight": "活動報告",
       "staff": {
-        "name": "藤本陽向",
+        "name": "渡辺柚気",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ロボット"
+          "デザイン"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "渡辺柚気（講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "watanabe_yuzuki",
         "image_type": "casual",
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-03T01:34:38",
+      "research_date": "2026-10-03T12:55:39",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +249,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コード不要！AIエージェントと作る「爆速",
+        "cover_text": "コード不要の時代へ。AIエージェントで変",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コード不要！AIエージェントと作る「爆速」アプリ開発術",
-            "subtext": "2026年10月の最新授業レポ",
+            "headline": "コード不要の時代へ。AIエージェントで変わる2026年の学び",
+            "subtext": "10/3最新：Minds Japan Student AI Agent Ideathon速報",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -267,8 +265,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「やりたいこと」はあるけれど、コードが書けない？",
-            "subtext": "2026年、プログラミングは『書く』から『指示する』時代へ。受験勉強と両立しながら成果を出したい学生の悩みを解決します。",
+            "headline": "「うちの子、プログラミングしなくていいの？」",
+            "subtext": "2026年、生成AIの進化により、コードを書く技術よりも『AIに何をさせるか』という設計力が受験やキャリアの最前線になっています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -276,8 +274,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "生徒がAIに「指示」して、30分で多機能ツールが完成",
-            "subtext": "最新の自律型AIエージェントを活用。論理的なプロンプト一つで、バックエンドからUIデザインまで一気に組み上がる様子に教室が湧きました。",
+            "headline": "生活課題を解決する『AIエージェント』の衝撃",
+            "subtext": "10月開催のアイディアソンでは、中高生が自律型AIを構築。プログラミング経験ゼロでも、社会問題を解決するアプリを数時間で完成させています。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -285,8 +283,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾の視点：求められるのは「構想力」と「言語化能力」",
-            "subtext": "技術の民主化が進んだ今、大切なのは『何を解決したいか』を明確に伝える力。if塾ではAIを使いこなすための思考プロセスを徹底指導しています。",
+            "headline": "if塾が教えるのは「指示の質」と「課題発見力」",
+            "subtext": "これからの時代、AIを使いこなす鍵は『問いを立てる力』。if塾では技術の習得以上に、生活の中の不便に気づく感性を育てています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
