@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 270,
-    "last_updated": "2026-10-04T00:07:42.531268",
+    "last_updated": "2026-10-04T13:30:07.301570",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,23 @@
     {
       "id": "20261004_activity",
       "post_id": "20261004_activity",
-      "created_at": "2026-10-04T00:07:42",
+      "created_at": "2026-10-04T13:30:07",
       "datetime": "2026-10-04T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AI時代に勝つ「問いを立てる力」とは？",
+      "theme": "AIエージェントと共創する「問い」の授業",
       "target_audience": "Students & Parents",
-      "title": "AI時代に勝つ「問いを立てる力」とは？",
-      "caption": "【2026年10月】最新の教育現場からお届けします！\n\nAIが日常に溶け込んだ2026年。\n今、子どもたちに求められているのは「正解を出す力」ではなく「良い問いを立てる力」です。\n\n本日の授業では、最新のデジタネAIやHALLOウィンタースクール2026のカリキュラムを導入。\n「先生、こう聞いたらもっと面白い答えが返ってきた！」\nそんな驚きと発見が教室中に溢れました。\n\nif塾では、技術を使いこなすための「論理的思考力」を、最新ツールを通じて楽しく育んでいます。\nこの冬、お子様の可能性をさらに広げてみませんか？\n\n詳細はプロフィールのリンクから公式LINEをチェック！",
-      "caption_text": "【2026年10月】最新の教育現場からお届けします！\n\nAIが日常に溶け込んだ2026年。\n今、子どもたちに求められているのは「正解を出す力」ではなく「良い問いを立てる力」です。\n\n本日の授業では、最新のデジタネAIやHALLOウィンタースクール2026のカリキュラムを導入。\n「先生、こう聞いたらもっと面白い答えが返ってきた！」\nそんな驚きと発見が教室中に溢れました。\n\nif塾では、技術を使いこなすための「論理的思考力」を、最新ツールを通じて楽しく育んでいます。\nこの冬、お子様の可能性をさらに広げてみませんか？\n\n詳細はプロフィールのリンクから公式LINEをチェック！",
+      "title": "AIエージェントと共創する「問い」の授業",
+      "caption": "【2026年10月】最新の活動報告です✨\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\n2026年の現在、生成AIは「指示待ち」から、自らタスクを分解して実行する「エージェント型」へと進化しています。\n\n「コードが書ける」のはもはや前提条件。\n今の子供たちに必要なのは、AIを正しくナビゲートし、本質的な「問い」を立てる力です。\n\nif塾の授業では、最新のエージェントツールを導入し、生徒たちがAIと対話しながら複雑なシステムを構築しています。10月からの新カリキュラムでは、この「問いのデザイン」に特化したワークショップを強化中！\n\n未来を創る「思考のプロ」を、一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック🔗",
+      "caption_text": "【2026年10月】最新の活動報告です✨\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\n2026年の現在、生成AIは「指示待ち」から、自らタスクを分解して実行する「エージェント型」へと進化しています。\n\n「コードが書ける」のはもはや前提条件。\n今の子供たちに必要なのは、AIを正しくナビゲートし、本質的な「問い」を立てる力です。\n\nif塾の授業では、最新のエージェントツールを導入し、生徒たちがAIと対話しながら複雑なシステムを構築しています。10月からの新カリキュラムでは、この「問いのデザイン」に特化したワークショップを強化中！\n\n未来を創る「思考のプロ」を、一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック🔗",
       "hashtags": [
         "#if塾",
-        "#2026年10月",
-        "#デジタネAI",
-        "#HALLO",
+        "#2026年",
         "#プログラミング教育",
-        "#生成AI",
-        "#冬期講習2026",
+        "#生成AIエージェント",
         "#問いを立てる力",
-        "#最新教育"
+        "#ステム教育",
+        "#AI共生時代"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +42,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AI時代に勝つ「問いを立てる力」とは？",
-          "sub_title": "2026年10月最新！デジタネAI×HALLO最新報告",
-          "text_content": "AI時代に勝つ「問いを立てる力」とは？",
+          "main_title": "AIエージェントと共創する「問い」の授業",
+          "sub_title": "2026年10月最新：プログラミング学習の新常識",
+          "text_content": "AIエージェントと共創する「問い」の授業",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-01.png",
           "image_file": "assets/img/posts/20261004_activity-01.png",
-          "overlay_text": "AI時代に勝つ「問いを立てる力」とは？",
-          "subtext": "2026年10月最新！デジタネAI×HALLO最新報告",
-          "alt": "表紙 - AI時代に勝つ「問いを立てる力」とは？"
+          "overlay_text": "AIエージェントと共創する「問い」の授業",
+          "subtext": "2026年10月最新：プログラミング学習の新常識",
+          "alt": "表紙 - AIエージェントと共創する「問い」の授業"
         },
         {
           "page_number": 2,
@@ -60,15 +58,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIを「ただ使う」だけでは足りない時代に",
-          "sub_title": "2026年、生成AIは当たり前の道具になりました。しかし、「何を質問すればいいか分からない」という子どもたちの声が増えています。",
-          "text_content": "AIを「ただ使う」だけでは足りない時代に",
+          "main_title": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "sub_title": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
+          "text_content": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-02.png",
           "image_file": "assets/img/posts/20261004_activity-02.png",
-          "overlay_text": "AIを「ただ使う」だけでは足りない時代に",
-          "subtext": "2026年、生成AIは当たり前の道具になりました。しかし、「何を質問すればいいか分からない」という子どもたちの声が増えています。",
-          "alt": "内容1 - AIを「ただ使う」だけでは足りない時代に"
+          "overlay_text": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
+          "alt": "内容1 - 「答え」はAIが即座に出す時代。だからこ"
         },
         {
           "page_number": 3,
@@ -76,15 +74,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "HALLOウィンタースクール2026先行体験！",
-          "sub_title": "最新のデジタネAIを活用し、自ら課題を見つけ出す「プロンプト・エンジニアリング」を実践。生徒たちの目が輝いた瞬間です。",
-          "text_content": "HALLOウィンタースクール2026先行体験！",
+          "main_title": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "sub_title": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
+          "text_content": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-03.png",
           "image_file": "assets/img/posts/20261004_activity-03.png",
-          "overlay_text": "HALLOウィンタースクール2026先行体験！",
-          "subtext": "最新のデジタネAIを活用し、自ら課題を見つけ出す「プロンプト・エンジニアリング」を実践。生徒たちの目が輝いた瞬間です。",
-          "alt": "内容2 - HALLOウィンタースクール2026先行"
+          "overlay_text": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
+          "alt": "内容2 - 自走するAIエージェントを使いこなし、生"
         },
         {
           "page_number": 4,
@@ -92,15 +90,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が重視する「思考の解像度」",
-          "sub_title": "答えをAIに求めるのではなく、最適な答えを引き出すための『質の高い問い』。これこそが2027年の中学入試や将来に直結する武器になります。",
-          "text_content": "if塾が重視する「思考の解像度」",
+          "main_title": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "sub_title": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
+          "text_content": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-04.png",
           "image_file": "assets/img/posts/20261004_activity-04.png",
-          "overlay_text": "if塾が重視する「思考の解像度」",
-          "subtext": "答えをAIに求めるのではなく、最適な答えを引き出すための『質の高い問い』。これこそが2027年の中学入試や将来に直結する武器になります。",
-          "alt": "内容3 - if塾が重視する「思考の解像度」"
+          "overlay_text": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
+          "alt": "内容3 - 指導者の視点：AIを「道具」から「壁打ち"
         },
         {
           "page_number": 5,
@@ -126,15 +124,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AI時代に勝つ「問いを立てる力」とは？",
-          "sub_title": "2026年10月最新！デジタネAI×HALLO最新報告",
-          "text_content": "AI時代に勝つ「問いを立てる力」とは？",
+          "main_title": "AIエージェントと共創する「問い」の授業",
+          "sub_title": "2026年10月最新：プログラミング学習の新常識",
+          "text_content": "AIエージェントと共創する「問い」の授業",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-01.png",
           "image_file": "assets/img/posts/20261004_activity-01.png",
-          "overlay_text": "AI時代に勝つ「問いを立てる力」とは？",
-          "subtext": "2026年10月最新！デジタネAI×HALLO最新報告",
-          "alt": "表紙 - AI時代に勝つ「問いを立てる力」とは？"
+          "overlay_text": "AIエージェントと共創する「問い」の授業",
+          "subtext": "2026年10月最新：プログラミング学習の新常識",
+          "alt": "表紙 - AIエージェントと共創する「問い」の授業"
         },
         {
           "page_number": 2,
@@ -142,15 +140,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "AIを「ただ使う」だけでは足りない時代に",
-          "sub_title": "2026年、生成AIは当たり前の道具になりました。しかし、「何を質問すればいいか分からない」という子どもたちの声が増えています。",
-          "text_content": "AIを「ただ使う」だけでは足りない時代に",
+          "main_title": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "sub_title": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
+          "text_content": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-02.png",
           "image_file": "assets/img/posts/20261004_activity-02.png",
-          "overlay_text": "AIを「ただ使う」だけでは足りない時代に",
-          "subtext": "2026年、生成AIは当たり前の道具になりました。しかし、「何を質問すればいいか分からない」という子どもたちの声が増えています。",
-          "alt": "内容1 - AIを「ただ使う」だけでは足りない時代に"
+          "overlay_text": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
+          "alt": "内容1 - 「答え」はAIが即座に出す時代。だからこ"
         },
         {
           "page_number": 3,
@@ -158,15 +156,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "HALLOウィンタースクール2026先行体験！",
-          "sub_title": "最新のデジタネAIを活用し、自ら課題を見つけ出す「プロンプト・エンジニアリング」を実践。生徒たちの目が輝いた瞬間です。",
-          "text_content": "HALLOウィンタースクール2026先行体験！",
+          "main_title": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "sub_title": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
+          "text_content": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-03.png",
           "image_file": "assets/img/posts/20261004_activity-03.png",
-          "overlay_text": "HALLOウィンタースクール2026先行体験！",
-          "subtext": "最新のデジタネAIを活用し、自ら課題を見つけ出す「プロンプト・エンジニアリング」を実践。生徒たちの目が輝いた瞬間です。",
-          "alt": "内容2 - HALLOウィンタースクール2026先行"
+          "overlay_text": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
+          "alt": "内容2 - 自走するAIエージェントを使いこなし、生"
         },
         {
           "page_number": 4,
@@ -174,15 +172,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が重視する「思考の解像度」",
-          "sub_title": "答えをAIに求めるのではなく、最適な答えを引き出すための『質の高い問い』。これこそが2027年の中学入試や将来に直結する武器になります。",
-          "text_content": "if塾が重視する「思考の解像度」",
+          "main_title": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "sub_title": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
+          "text_content": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-04.png",
           "image_file": "assets/img/posts/20261004_activity-04.png",
-          "overlay_text": "if塾が重視する「思考の解像度」",
-          "subtext": "答えをAIに求めるのではなく、最適な答えを引き出すための『質の高い問い』。これこそが2027年の中学入試や将来に直結する武器になります。",
-          "alt": "内容3 - if塾が重視する「思考の解像度」"
+          "overlay_text": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
+          "alt": "内容3 - 指導者の視点：AIを「道具」から「壁打ち"
         },
         {
           "page_number": 5,
@@ -244,7 +242,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-04T00:06:16",
+      "research_date": "2026-10-04T13:28:54",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -252,15 +250,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AI時代に勝つ「問いを立てる力」とは？",
+        "cover_text": "AIエージェントと共創する「問い」の授業",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AI時代に勝つ「問いを立てる力」とは？",
-            "subtext": "2026年10月最新！デジタネAI×HALLO最新報告",
+            "headline": "AIエージェントと共創する「問い」の授業",
+            "subtext": "2026年10月最新：プログラミング学習の新常識",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -268,8 +266,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "AIを「ただ使う」だけでは足りない時代に",
-            "subtext": "2026年、生成AIは当たり前の道具になりました。しかし、「何を質問すればいいか分からない」という子どもたちの声が増えています。",
+            "headline": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+            "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -277,8 +275,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "HALLOウィンタースクール2026先行体験！",
-            "subtext": "最新のデジタネAIを活用し、自ら課題を見つけ出す「プロンプト・エンジニアリング」を実践。生徒たちの目が輝いた瞬間です。",
+            "headline": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+            "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -286,8 +284,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が重視する「思考の解像度」",
-            "subtext": "答えをAIに求めるのではなく、最適な答えを引き出すための『質の高い問い』。これこそが2027年の中学入試や将来に直結する武器になります。",
+            "headline": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+            "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
