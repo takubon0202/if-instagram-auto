@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 270,
-    "last_updated": "2026-10-04T13:30:07.301570",
+    "last_updated": "2026-10-04T19:04:12.855555",
     "categories": [
       "announcement",
       "development",
@@ -16,23 +16,24 @@
     {
       "id": "20261004_activity",
       "post_id": "20261004_activity",
-      "created_at": "2026-10-04T13:30:07",
+      "created_at": "2026-10-04T19:04:12",
       "datetime": "2026-10-04T09:00:00+09:00",
       "type": "carousel",
       "category": "activity",
-      "theme": "AIエージェントと共創する「問い」の授業",
+      "theme": "指示するだけはもう古い？自律型AIを作る中高生たち",
       "target_audience": "Students & Parents",
-      "title": "AIエージェントと共創する「問い」の授業",
-      "caption": "【2026年10月】最新の活動報告です✨\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\n2026年の現在、生成AIは「指示待ち」から、自らタスクを分解して実行する「エージェント型」へと進化しています。\n\n「コードが書ける」のはもはや前提条件。\n今の子供たちに必要なのは、AIを正しくナビゲートし、本質的な「問い」を立てる力です。\n\nif塾の授業では、最新のエージェントツールを導入し、生徒たちがAIと対話しながら複雑なシステムを構築しています。10月からの新カリキュラムでは、この「問いのデザイン」に特化したワークショップを強化中！\n\n未来を創る「思考のプロ」を、一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック🔗",
-      "caption_text": "【2026年10月】最新の活動報告です✨\n\nプログラミング学習の風景が、この1年で劇的に変わりました。\n2026年の現在、生成AIは「指示待ち」から、自らタスクを分解して実行する「エージェント型」へと進化しています。\n\n「コードが書ける」のはもはや前提条件。\n今の子供たちに必要なのは、AIを正しくナビゲートし、本質的な「問い」を立てる力です。\n\nif塾の授業では、最新のエージェントツールを導入し、生徒たちがAIと対話しながら複雑なシステムを構築しています。10月からの新カリキュラムでは、この「問いのデザイン」に特化したワークショップを強化中！\n\n未来を創る「思考のプロ」を、一緒に目指しませんか？\n\n詳細はプロフィールのリンクをチェック🔗",
+      "title": "指示するだけはもう古い？自律型AIを作る中高生たち",
+      "caption": "【2026年10月】最新の学びの現場レポート✨\n\n「AIに何を聞けばいい？」という時代は終わり、\n今は「どんなAIエージェントを作るか？」が\n中高生のスタンダードになりつつあります。\n\n今日のif塾では、話題のAgentic AI（自律型AI）の\nワークショップを開催しました！💻\n\n単にチャットで回答を得るのではなく、\n「ブラウザを操作して情報を集め、\nスプレッドシートにまとめて報告する」\nという一連の工程をAIに自走させる仕組みを自作。\n\n生徒たちは、自分が作ったエージェントが\n試行錯誤しながらタスクを完了させる姿を見て\n「プログラミングの本質がわかった！」と大興奮。 🚀\n\nこれからの時代に求められるのは、\nツールを使うスキルではなく、\n「価値を生む仕組み」を設計する力です。\n\nif塾で、一歩先の未来を一緒に作りませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
+      "caption_text": "【2026年10月】最新の学びの現場レポート✨\n\n「AIに何を聞けばいい？」という時代は終わり、\n今は「どんなAIエージェントを作るか？」が\n中高生のスタンダードになりつつあります。\n\n今日のif塾では、話題のAgentic AI（自律型AI）の\nワークショップを開催しました！💻\n\n単にチャットで回答を得るのではなく、\n「ブラウザを操作して情報を集め、\nスプレッドシートにまとめて報告する」\nという一連の工程をAIに自走させる仕組みを自作。\n\n生徒たちは、自分が作ったエージェントが\n試行錯誤しながらタスクを完了させる姿を見て\n「プログラミングの本質がわかった！」と大興奮。 🚀\n\nこれからの時代に求められるのは、\nツールを使うスキルではなく、\n「価値を生む仕組み」を設計する力です。\n\nif塾で、一歩先の未来を一緒に作りませんか？\n\n詳細はプロフィールのリンクをチェック！🔗",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#プログラミング教育",
-        "#生成AIエージェント",
-        "#問いを立てる力",
-        "#ステム教育",
-        "#AI共生時代"
+        "#AIエージェント",
+        "#AgenticAI",
+        "#中高生プログラミング",
+        "#次世代教育",
+        "#自律型AI",
+        "#最新教育"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -42,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントと共創する「問い」の授業",
-          "sub_title": "2026年10月最新：プログラミング学習の新常識",
-          "text_content": "AIエージェントと共創する「問い」の授業",
+          "main_title": "指示するだけはもう古い？自律型AIを作る中高生たち",
+          "sub_title": "2026年10月最新：Agentic AI開発の現場から",
+          "text_content": "指示するだけはもう古い？自律型AIを作る中高生たち",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-01.png",
           "image_file": "assets/img/posts/20261004_activity-01.png",
-          "overlay_text": "AIエージェントと共創する「問い」の授業",
-          "subtext": "2026年10月最新：プログラミング学習の新常識",
-          "alt": "表紙 - AIエージェントと共創する「問い」の授業"
+          "overlay_text": "指示するだけはもう古い？自律型AIを作る中高生たち",
+          "subtext": "2026年10月最新：Agentic AI開発の現場から",
+          "alt": "表紙 - 指示するだけはもう古い？自律型AIを作る"
         },
         {
           "page_number": 2,
@@ -58,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
-          "sub_title": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
-          "text_content": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "main_title": "「AIを使いこなす」の定義が変わった2026年の秋",
+          "sub_title": "これまではプロンプトを入力するだけ。でも今は、AIが自分で考え、調べ、実行する『エージェント』を自作する時代です。",
+          "text_content": "「AIを使いこなす」の定義が変わった2026年の秋",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-02.png",
           "image_file": "assets/img/posts/20261004_activity-02.png",
-          "overlay_text": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
-          "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
-          "alt": "内容1 - 「答え」はAIが即座に出す時代。だからこ"
+          "overlay_text": "「AIを使いこなす」の定義が変わった2026年の秋",
+          "subtext": "これまではプロンプトを入力するだけ。でも今は、AIが自分で考え、調べ、実行する『エージェント』を自作する時代です。",
+          "alt": "内容1 - 「AIを使いこなす」の定義が変わった20"
         },
         {
           "page_number": 3,
@@ -74,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
-          "sub_title": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
-          "text_content": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "main_title": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
+          "sub_title": "最新ツール『AgentForge v3』を使い、カレンダー予約から資料収集まで自律的に動く仕組みを14歳が実装しました。",
+          "text_content": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-03.png",
           "image_file": "assets/img/posts/20261004_activity-03.png",
-          "overlay_text": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
-          "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
-          "alt": "内容2 - 自走するAIエージェントを使いこなし、生"
+          "overlay_text": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
+          "subtext": "最新ツール『AgentForge v3』を使い、カレンダー予約から資料収集まで自律的に動く仕組みを14歳が実装しました。",
+          "alt": "内容2 - 「僕の代わりに宿題スケジュールを管理する"
         },
         {
           "page_number": 4,
@@ -90,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
-          "sub_title": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
-          "text_content": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "main_title": "「正解」を求める学びから「仕組み」を作る学びへ",
+          "sub_title": "AIエージェント開発は、論理的思考の究極形。if塾では、AIに何をさせるかという『目的設計力』を最重視しています。",
+          "text_content": "「正解」を求める学びから「仕組み」を作る学びへ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-04.png",
           "image_file": "assets/img/posts/20261004_activity-04.png",
-          "overlay_text": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
-          "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
-          "alt": "内容3 - 指導者の視点：AIを「道具」から「壁打ち"
+          "overlay_text": "「正解」を求める学びから「仕組み」を作る学びへ",
+          "subtext": "AIエージェント開発は、論理的思考の究極形。if塾では、AIに何をさせるかという『目的設計力』を最重視しています。",
+          "alt": "内容3 - 「正解」を求める学びから「仕組み」を作る"
         },
         {
           "page_number": 5,
@@ -124,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "AIエージェントと共創する「問い」の授業",
-          "sub_title": "2026年10月最新：プログラミング学習の新常識",
-          "text_content": "AIエージェントと共創する「問い」の授業",
+          "main_title": "指示するだけはもう古い？自律型AIを作る中高生たち",
+          "sub_title": "2026年10月最新：Agentic AI開発の現場から",
+          "text_content": "指示するだけはもう古い？自律型AIを作る中高生たち",
           "image_prompt": "Japanese anime style, 笑顔の集合写真 or 授業風景, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-01.png",
           "image_file": "assets/img/posts/20261004_activity-01.png",
-          "overlay_text": "AIエージェントと共創する「問い」の授業",
-          "subtext": "2026年10月最新：プログラミング学習の新常識",
-          "alt": "表紙 - AIエージェントと共創する「問い」の授業"
+          "overlay_text": "指示するだけはもう古い？自律型AIを作る中高生たち",
+          "subtext": "2026年10月最新：Agentic AI開発の現場から",
+          "alt": "表紙 - 指示するだけはもう古い？自律型AIを作る"
         },
         {
           "page_number": 2,
@@ -140,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
-          "sub_title": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
-          "text_content": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
+          "main_title": "「AIを使いこなす」の定義が変わった2026年の秋",
+          "sub_title": "これまではプロンプトを入力するだけ。でも今は、AIが自分で考え、調べ、実行する『エージェント』を自作する時代です。",
+          "text_content": "「AIを使いこなす」の定義が変わった2026年の秋",
           "image_prompt": "Japanese anime style, 今日何をした？（出来事）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-02.png",
           "image_file": "assets/img/posts/20261004_activity-02.png",
-          "overlay_text": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
-          "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
-          "alt": "内容1 - 「答え」はAIが即座に出す時代。だからこ"
+          "overlay_text": "「AIを使いこなす」の定義が変わった2026年の秋",
+          "subtext": "これまではプロンプトを入力するだけ。でも今は、AIが自分で考え、調べ、実行する『エージェント』を自作する時代です。",
+          "alt": "内容1 - 「AIを使いこなす」の定義が変わった20"
         },
         {
           "page_number": 3,
@@ -156,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
-          "sub_title": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
-          "text_content": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
+          "main_title": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
+          "sub_title": "最新ツール『AgentForge v3』を使い、カレンダー予約から資料収集まで自律的に動く仕組みを14歳が実装しました。",
+          "text_content": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
           "image_prompt": "Japanese anime style, 生徒の反応は？（様子）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-03.png",
           "image_file": "assets/img/posts/20261004_activity-03.png",
-          "overlay_text": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
-          "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
-          "alt": "内容2 - 自走するAIエージェントを使いこなし、生"
+          "overlay_text": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
+          "subtext": "最新ツール『AgentForge v3』を使い、カレンダー予約から資料収集まで自律的に動く仕組みを14歳が実装しました。",
+          "alt": "内容2 - 「僕の代わりに宿題スケジュールを管理する"
         },
         {
           "page_number": 4,
@@ -172,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
-          "sub_title": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
-          "text_content": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
+          "main_title": "「正解」を求める学びから「仕組み」を作る学びへ",
+          "sub_title": "AIエージェント開発は、論理的思考の究極形。if塾では、AIに何をさせるかという『目的設計力』を最重視しています。",
+          "text_content": "「正解」を求める学びから「仕組み」を作る学びへ",
           "image_prompt": "Japanese anime style, 指導者の視点（気付き）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261004_activity-04.png",
           "image_file": "assets/img/posts/20261004_activity-04.png",
-          "overlay_text": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
-          "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
-          "alt": "内容3 - 指導者の視点：AIを「道具」から「壁打ち"
+          "overlay_text": "「正解」を求める学びから「仕組み」を作る学びへ",
+          "subtext": "AIエージェント開発は、論理的思考の究極形。if塾では、AIに何をさせるかという『目的設計力』を最重視しています。",
+          "alt": "内容3 - 「正解」を求める学びから「仕組み」を作る"
         },
         {
           "page_number": 5,
@@ -242,7 +243,7 @@
         "reason": "activityカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-04T13:28:54",
+      "research_date": "2026-10-04T19:02:58",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "AIエージェントと共創する「問い」の授業",
+        "cover_text": "指示するだけはもう古い？自律型AIを作る",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "AIエージェントと共創する「問い」の授業",
-            "subtext": "2026年10月最新：プログラミング学習の新常識",
+            "headline": "指示するだけはもう古い？自律型AIを作る中高生たち",
+            "subtext": "2026年10月最新：Agentic AI開発の現場から",
             "purpose": "笑顔の集合写真 or 授業風景",
             "staff_image": null
           },
@@ -266,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「答え」はAIが即座に出す時代。だからこそ、何を問うか？",
-            "subtext": "2026年、コードを書く苦労は減りましたが「何を作りたいか」を言語化できない悩みが増えています。",
+            "headline": "「AIを使いこなす」の定義が変わった2026年の秋",
+            "subtext": "これまではプロンプトを入力するだけ。でも今は、AIが自分で考え、調べ、実行する『エージェント』を自作する時代です。",
             "purpose": "今日何をした？（出来事）",
             "staff_image": null
           },
@@ -275,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自走するAIエージェントを使いこなし、生徒が「設計者」に。",
-            "subtext": "最新の自律型AIを活用。生徒はコードを書く手ではなく、論理を組み立てる思考の核を学んでいます。",
+            "headline": "「僕の代わりに宿題スケジュールを管理するAI」が完成",
+            "subtext": "最新ツール『AgentForge v3』を使い、カレンダー予約から資料収集まで自律的に動く仕組みを14歳が実装しました。",
             "purpose": "生徒の反応は？（様子）",
             "staff_image": null
           },
@@ -284,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "指導者の視点：AIを「道具」から「壁打ち相手」へ昇華させる。",
-            "subtext": "if塾では、AIに正解を求めず、AIに適切な制約を与えて対話する「高度な問い」をカリキュラムの軸にしています。",
+            "headline": "「正解」を求める学びから「仕組み」を作る学びへ",
+            "subtext": "AIエージェント開発は、論理的思考の究極形。if塾では、AIに何をさせるかという『目的設計力』を最重視しています。",
             "purpose": "指導者の視点（気付き）",
             "staff_image": null
           },
