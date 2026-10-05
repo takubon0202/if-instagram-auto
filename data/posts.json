@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 271,
-    "last_updated": "2026-10-05T13:15:05.465773",
+    "last_updated": "2026-10-05T19:47:50.785983",
     "categories": [
       "announcement",
       "development",
@@ -16,25 +16,24 @@
     {
       "id": "20261005_announcement",
       "post_id": "20261005_announcement",
-      "created_at": "2026-10-05T13:15:05",
+      "created_at": "2026-10-05T19:47:50",
       "datetime": "2026-10-05T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
-      "theme": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
+      "theme": "2026年版：2026年冬期講習募集開始",
       "target_audience": "Students & Parents",
-      "title": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-      "caption": "【2026年10月】進路を考える今、知っておくべき「エンジニアの真実」\n\n「プログラミングを学ぶ＝コードが書けるようになる」という常識は、2026年の今、完全に過去のものとなりました。\n\n現在、主流となっているのは「エージェント型コーディング（バイブコーディング）」。\nAIが自律的にコードを書き、修正し、デプロイまで行うため、人間は「コードの実装者」から「AIを指揮するオーケストレーター」へと役割がシフトしています。\n\nこれからの学生に求められるのは、細かい文法を覚えることではありません。\n「どんな価値を創りたいか」を言語化し、AIという強力なチームを動かす設計能力です。\n\nif塾では、この最新の潮流に合わせたカリキュラムをいち早く導入しています。\n単なるスキルの習得ではなく、AI時代を生き抜く「指揮能力」を一緒に身につけませんか？\n\n詳細はプロフィール欄のリンクからチェック！🔗",
-      "caption_text": "【2026年10月】進路を考える今、知っておくべき「エンジニアの真実」\n\n「プログラミングを学ぶ＝コードが書けるようになる」という常識は、2026年の今、完全に過去のものとなりました。\n\n現在、主流となっているのは「エージェント型コーディング（バイブコーディング）」。\nAIが自律的にコードを書き、修正し、デプロイまで行うため、人間は「コードの実装者」から「AIを指揮するオーケストレーター」へと役割がシフトしています。\n\nこれからの学生に求められるのは、細かい文法を覚えることではありません。\n「どんな価値を創りたいか」を言語化し、AIという強力なチームを動かす設計能力です。\n\nif塾では、この最新の潮流に合わせたカリキュラムをいち早く導入しています。\n単なるスキルの習得ではなく、AI時代を生き抜く「指揮能力」を一緒に身につけませんか？\n\n詳細はプロフィール欄のリンクからチェック！🔗",
+      "title": "2026年版：2026年冬期講習募集開始",
+      "caption": "【2026年10月】2026年冬期講習募集開始\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "caption_text": "【2026年10月】2026年冬期講習募集開始\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#バイブコーディング",
-        "#エージェント型コーディング",
-        "#AI教育",
-        "#エンジニアの卵",
-        "#DX",
-        "#プログラミング学習",
-        "#キャリアデザイン"
+        "#if塾",
+        "#プログラミング塾",
+        "#お知らせ",
+        "#新コース",
+        "#生徒募集",
+        "#オンライン授業"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -44,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-          "sub_title": "10月の進路選びに必須の最新アップデート",
-          "text_content": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
+          "main_title": "2026年版：2026年冬期講習募集開始",
+          "sub_title": "10月の最新情報",
+          "text_content": "2026年版：2026年冬期講習募集開始",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-01.png",
-          "image_file": "assets/img/posts/20261005_announcement-01.png",
-          "overlay_text": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-          "subtext": "10月の進路選びに必須の最新アップデート",
-          "alt": "表紙 - コードを書く時代、終了。2026年秋の「"
+          "image_url": "assets/img/posts/20261005_announcement-01-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-01-fallback.png",
+          "overlay_text": "2026年版：2026年冬期講習募集開始",
+          "subtext": "10月の最新情報",
+          "alt": "表紙 - 2026年版：2026年冬期講習募集開始"
         },
         {
           "page_number": 2,
@@ -60,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「実装」はAIの仕事になりました",
-          "sub_title": "2026年、手動でのコーディングは過去のものに。自らコードを書く『実装者』の価値が急落し、今、エンジニアの定義が根底から変わっています。",
-          "text_content": "「実装」はAIの仕事になりました",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-02.png",
-          "image_file": "assets/img/posts/20261005_announcement-02.png",
-          "overlay_text": "「実装」はAIの仕事になりました",
-          "subtext": "2026年、手動でのコーディングは過去のものに。自らコードを書く『実装者』の価値が急落し、今、エンジニアの定義が根底から変わっています。",
-          "alt": "内容1 - 「実装」はAIの仕事になりました"
+          "image_url": "assets/img/posts/20261005_announcement-02-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-02-fallback.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -76,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "エージェントが自律駆動する「バイブコーディング」の衝撃",
-          "sub_title": "自然言語で『雰囲気（バイブス）』を伝えるだけで、複数のAIエージェントが設計からデバッグまで完結。人間は『オーケストレーター』として意思決定に専念する時代です。",
-          "text_content": "エージェントが自律駆動する「バイブコーディング」の衝撃",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-03.png",
-          "image_file": "assets/img/posts/20261005_announcement-03.png",
-          "overlay_text": "エージェントが自律駆動する「バイブコーディング」の衝撃",
-          "subtext": "自然言語で『雰囲気（バイブス）』を伝えるだけで、複数のAIエージェントが設計からデバッグまで完結。人間は『オーケストレーター』として意思決定に専念する時代です。",
-          "alt": "内容2 - エージェントが自律駆動する「バイブコーデ"
+          "image_url": "assets/img/posts/20261005_announcement-03-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-03-fallback.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -92,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AIを指揮する力」",
-          "sub_title": "これからの学びは構文暗記ではなく『プロンプトエンジニアリング』と『システム設計力』。if塾では、AIを使いこなしプロダクトを完成させる、真のリーダーシップを養います。",
-          "text_content": "if塾で学ぶ「AIを指揮する力」",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-04.png",
-          "image_file": "assets/img/posts/20261005_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AIを指揮する力」",
-          "subtext": "これからの学びは構文暗記ではなく『プロンプトエンジニアリング』と『システム設計力』。if塾では、AIを使いこなしプロダクトを完成させる、真のリーダーシップを養います。",
-          "alt": "内容3 - if塾で学ぶ「AIを指揮する力」"
+          "image_url": "assets/img/posts/20261005_announcement-04-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-04-fallback.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -126,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-          "sub_title": "10月の進路選びに必須の最新アップデート",
-          "text_content": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
+          "main_title": "2026年版：2026年冬期講習募集開始",
+          "sub_title": "10月の最新情報",
+          "text_content": "2026年版：2026年冬期講習募集開始",
           "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-01.png",
-          "image_file": "assets/img/posts/20261005_announcement-01.png",
-          "overlay_text": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-          "subtext": "10月の進路選びに必須の最新アップデート",
-          "alt": "表紙 - コードを書く時代、終了。2026年秋の「"
+          "image_url": "assets/img/posts/20261005_announcement-01-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-01-fallback.png",
+          "overlay_text": "2026年版：2026年冬期講習募集開始",
+          "subtext": "10月の最新情報",
+          "alt": "表紙 - 2026年版：2026年冬期講習募集開始"
         },
         {
           "page_number": 2,
@@ -142,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「実装」はAIの仕事になりました",
-          "sub_title": "2026年、手動でのコーディングは過去のものに。自らコードを書く『実装者』の価値が急落し、今、エンジニアの定義が根底から変わっています。",
-          "text_content": "「実装」はAIの仕事になりました",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-02.png",
-          "image_file": "assets/img/posts/20261005_announcement-02.png",
-          "overlay_text": "「実装」はAIの仕事になりました",
-          "subtext": "2026年、手動でのコーディングは過去のものに。自らコードを書く『実装者』の価値が急落し、今、エンジニアの定義が根底から変わっています。",
-          "alt": "内容1 - 「実装」はAIの仕事になりました"
+          "image_url": "assets/img/posts/20261005_announcement-02-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-02-fallback.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -158,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "エージェントが自律駆動する「バイブコーディング」の衝撃",
-          "sub_title": "自然言語で『雰囲気（バイブス）』を伝えるだけで、複数のAIエージェントが設計からデバッグまで完結。人間は『オーケストレーター』として意思決定に専念する時代です。",
-          "text_content": "エージェントが自律駆動する「バイブコーディング」の衝撃",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-03.png",
-          "image_file": "assets/img/posts/20261005_announcement-03.png",
-          "overlay_text": "エージェントが自律駆動する「バイブコーディング」の衝撃",
-          "subtext": "自然言語で『雰囲気（バイブス）』を伝えるだけで、複数のAIエージェントが設計からデバッグまで完結。人間は『オーケストレーター』として意思決定に専念する時代です。",
-          "alt": "内容2 - エージェントが自律駆動する「バイブコーデ"
+          "image_url": "assets/img/posts/20261005_announcement-03-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-03-fallback.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -174,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾で学ぶ「AIを指揮する力」",
-          "sub_title": "これからの学びは構文暗記ではなく『プロンプトエンジニアリング』と『システム設計力』。if塾では、AIを使いこなしプロダクトを完成させる、真のリーダーシップを養います。",
-          "text_content": "if塾で学ぶ「AIを指揮する力」",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261005_announcement-04.png",
-          "image_file": "assets/img/posts/20261005_announcement-04.png",
-          "overlay_text": "if塾で学ぶ「AIを指揮する力」",
-          "subtext": "これからの学びは構文暗記ではなく『プロンプトエンジニアリング』と『システム設計力』。if塾では、AIを使いこなしプロダクトを完成させる、真のリーダーシップを養います。",
-          "alt": "内容3 - if塾で学ぶ「AIを指揮する力」"
+          "image_url": "assets/img/posts/20261005_announcement-04-fallback.png",
+          "image_file": "assets/img/posts/20261005_announcement-04-fallback.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -204,22 +203,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20261005_announcement-01.png",
+          "src": "assets/img/posts/20261005_announcement-01-fallback.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261005_announcement-02.png",
+          "src": "assets/img/posts/20261005_announcement-02-fallback.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261005_announcement-03.png",
+          "src": "assets/img/posts/20261005_announcement-03-fallback.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261005_announcement-04.png",
+          "src": "assets/img/posts/20261005_announcement-04-fallback.png",
           "alt": "シーン4"
         },
         {
@@ -245,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-05T13:13:40",
+      "research_date": "2026-10-05T19:47:28",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -253,15 +252,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コードを書く時代、終了。2026年秋の「",
+        "cover_text": "2026年版：2026年冬期講習募集開始",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コードを書く時代、終了。2026年秋の「AI指揮者」革命",
-            "subtext": "10月の進路選びに必須の最新アップデート",
+            "headline": "2026年版：2026年冬期講習募集開始",
+            "subtext": "10月の最新情報",
             "purpose": "インパクト重視のタイトル",
             "staff_image": null
           },
@@ -269,8 +268,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「実装」はAIの仕事になりました",
-            "subtext": "2026年、手動でのコーディングは過去のものに。自らコードを書く『実装者』の価値が急落し、今、エンジニアの定義が根底から変わっています。",
+            "headline": "こんな悩みありませんか？",
+            "subtext": "2026年の課題",
             "purpose": "何が起きるのか？（概要）",
             "staff_image": null
           },
@@ -278,8 +277,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "エージェントが自律駆動する「バイブコーディング」の衝撃",
-            "subtext": "自然言語で『雰囲気（バイブス）』を伝えるだけで、複数のAIエージェントが設計からデバッグまで完結。人間は『オーケストレーター』として意思決定に専念する時代です。",
+            "headline": "2026年の解決策をご紹介",
+            "subtext": "最新ツールで解決",
             "purpose": "参加するとどうなる？（メリット）",
             "staff_image": null
           },
@@ -287,8 +286,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾で学ぶ「AIを指揮する力」",
-            "subtext": "これからの学びは構文暗記ではなく『プロンプトエンジニアリング』と『システム設計力』。if塾では、AIを使いこなしプロダクトを完成させる、真のリーダーシップを養います。",
+            "headline": "今すぐ始めよう",
+            "subtext": "if塾で学ぶ",
             "purpose": "いつ・どこで？（詳細）",
             "staff_image": null
           },
