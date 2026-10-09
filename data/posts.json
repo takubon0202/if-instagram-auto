@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 275,
-    "last_updated": "2026-10-09T13:43:14.290735",
+    "last_updated": "2026-10-09T19:51:44.400852",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20261009_business",
       "post_id": "20261009_business",
-      "created_at": "2026-10-09T13:43:14",
+      "created_at": "2026-10-09T19:51:44",
       "datetime": "2026-10-09T09:00:00+09:00",
       "type": "carousel",
       "category": "business",
@@ -245,7 +245,7 @@
         "reason": "businessカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-09T13:42:53",
+      "research_date": "2026-10-09T19:51:22",
       "engagement": {
         "likes": 0,
         "comments": 0,
