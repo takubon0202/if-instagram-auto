@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 285,
-    "last_updated": "2026-10-19T12:23:56.557198",
+    "last_updated": "2026-10-19T18:15:30.323463",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20261019_announcement",
       "post_id": "20261019_announcement",
-      "created_at": "2026-10-19T12:23:56",
+      "created_at": "2026-10-19T18:15:30",
       "datetime": "2026-10-19T09:00:00+09:00",
       "type": "carousel",
       "category": "announcement",
@@ -244,7 +244,7 @@
         "reason": "announcementカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-19T12:23:35",
+      "research_date": "2026-10-19T18:15:06",
       "engagement": {
         "likes": 0,
         "comments": 0,
