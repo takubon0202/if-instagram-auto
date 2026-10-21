@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 287,
-    "last_updated": "2026-10-21T00:36:21.356300",
+    "last_updated": "2026-10-21T12:26:36.937429",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20261021_development",
       "post_id": "20261021_development",
-      "created_at": "2026-10-21T00:36:21",
+      "created_at": "2026-10-21T12:26:36",
       "datetime": "2026-10-21T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
@@ -230,21 +230,22 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "藤本陽向",
-        "role": "講師",
+        "name": "高崎翔太",
+        "role": "代表・講師",
         "specialties": [
-          "プログラミング",
-          "ロボット"
+          "AI",
+          "ビジネス",
+          "教育"
         ],
-        "caption_text": "藤本陽向（講師）"
+        "caption_text": "高崎翔太（代表・講師）"
       },
       "staff_selection": {
-        "staff_id": "fujimoto_hinata",
+        "staff_id": "takasaki_shota",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-10-21T00:36:00",
+      "research_date": "2026-10-21T12:26:16",
       "engagement": {
         "likes": 0,
         "comments": 0,
