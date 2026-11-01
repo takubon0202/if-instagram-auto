@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 298,
-    "last_updated": "2026-11-01T19:46:33.366010",
+    "total_posts": 299,
+    "last_updated": "2026-11-02T02:04:46.376335",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,297 @@
     ]
   },
   "posts": [
+    {
+      "id": "20261102_announcement",
+      "post_id": "20261102_announcement",
+      "created_at": "2026-11-02T02:04:46",
+      "datetime": "2026-11-02T09:00:00+09:00",
+      "type": "carousel",
+      "category": "announcement",
+      "theme": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+      "target_audience": "Students & Parents",
+      "title": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+      "caption": "【2026年11月】最新の教育トレンドをお届けします！\n\nプログラミング教育のフェーズが完全に変わりました。\nこれまでは「コードを正しく書くこと」がゴールでしたが、2026年現在は「AIをパートナーとして、いかに高度なものを創り出すか」という『AI共創力』が教室選びの新しい基準になっています。\n\n「生成AIに頼ると思考力が落ちるのでは？」という不安の声も聞かれますが、if塾では【AIの回答を批判的に吟味し、より良い指示（プロンプト）に改善するプロセス】こそが、現代の論理的思考力だと定義しています。\n\n2027年度の入試改革でも、AI活用を前提とした問題解決能力が問われる動きが加速しています。今、この時期から最先端の環境に触れることが、お子様の将来の武器になります。\n\nif塾で、次世代の「創る力」を一緒に育てませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "caption_text": "【2026年11月】最新の教育トレンドをお届けします！\n\nプログラミング教育のフェーズが完全に変わりました。\nこれまでは「コードを正しく書くこと」がゴールでしたが、2026年現在は「AIをパートナーとして、いかに高度なものを創り出すか」という『AI共創力』が教室選びの新しい基準になっています。\n\n「生成AIに頼ると思考力が落ちるのでは？」という不安の声も聞かれますが、if塾では【AIの回答を批判的に吟味し、より良い指示（プロンプト）に改善するプロセス】こそが、現代の論理的思考力だと定義しています。\n\n2027年度の入試改革でも、AI活用を前提とした問題解決能力が問われる動きが加速しています。今、この時期から最先端の環境に触れることが、お子様の将来の武器になります。\n\nif塾で、次世代の「創る力」を一緒に育てませんか？\n\n詳細はプロフィール欄のリンクからチェック！✨",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#生成AI教育",
+        "#プログラミング教室",
+        "#AI共創力",
+        "#習い事",
+        "#DX教育",
+        "#エドテック",
+        "#2027年入試"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "sub_title": "11月発表：新学習指導要領を見据えた『AI共創力』の重要性",
+          "text_content": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-01.png",
+          "image_file": "assets/img/posts/20261102_announcement-01.png",
+          "overlay_text": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "subtext": "11月発表：新学習指導要領を見据えた『AI共創力』の重要性",
+          "alt": "表紙 - 2026年最新版！プログラミング教育は「"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "コードが書けるだけでは足りない時代？",
+          "sub_title": "生成AIの普及により、2026年の今、求められる力は「指示出し」から「AIとの協働」へと劇的に変化しています。お子様の教室選び、古い基準で止まっていませんか？",
+          "text_content": "コードが書けるだけでは足りない時代？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-02.png",
+          "image_file": "assets/img/posts/20261102_announcement-02.png",
+          "overlay_text": "コードが書けるだけでは足りない時代？",
+          "subtext": "生成AIの普及により、2026年の今、求められる力は「指示出し」から「AIとの協働」へと劇的に変化しています。お子様の教室選び、古い基準で止まっていませんか？",
+          "alt": "内容1 - コードが書けるだけでは足りない時代？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「AI共創力」が教室選びの決定打に",
+          "sub_title": "最新のマルチモーダルAIを駆使し、構想を形にする力が2027年度の入試や評価基準にも導入。if塾では、AIをツールとして使いこなし、課題解決を行う最新カリキュラムを導入しました。",
+          "text_content": "「AI共創力」が教室選びの決定打に",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-03.png",
+          "image_file": "assets/img/posts/20261102_announcement-03.png",
+          "overlay_text": "「AI共創力」が教室選びの決定打に",
+          "subtext": "最新のマルチモーダルAIを駆使し、構想を形にする力が2027年度の入試や評価基準にも導入。if塾では、AIをツールとして使いこなし、課題解決を行う最新カリキュラムを導入しました。",
+          "alt": "内容2 - 「AI共創力」が教室選びの決定打に"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で身につく「AIとの対話術」",
+          "sub_title": "ただ答えを聞くだけではなく、AIの回答を論理的に検証し、自分のアイデアを最大化させる実践型レッスン。この冬、全国の校舎およびオンラインで体験授業を強化中です。",
+          "text_content": "if塾で身につく「AIとの対話術」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-04.png",
+          "image_file": "assets/img/posts/20261102_announcement-04.png",
+          "overlay_text": "if塾で身につく「AIとの対話術」",
+          "subtext": "ただ答えを聞くだけではなく、AIの回答を論理的に検証し、自分のアイデアを最大化させる実践型レッスン。この冬、全国の校舎およびオンラインで体験授業を強化中です。",
+          "alt": "内容3 - if塾で身につく「AIとの対話術」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "sub_title": "11月発表：新学習指導要領を見据えた『AI共創力』の重要性",
+          "text_content": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "image_prompt": "Japanese anime style, インパクト重視のタイトル, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-01.png",
+          "image_file": "assets/img/posts/20261102_announcement-01.png",
+          "overlay_text": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+          "subtext": "11月発表：新学習指導要領を見据えた『AI共創力』の重要性",
+          "alt": "表紙 - 2026年最新版！プログラミング教育は「"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "コードが書けるだけでは足りない時代？",
+          "sub_title": "生成AIの普及により、2026年の今、求められる力は「指示出し」から「AIとの協働」へと劇的に変化しています。お子様の教室選び、古い基準で止まっていませんか？",
+          "text_content": "コードが書けるだけでは足りない時代？",
+          "image_prompt": "Japanese anime style, 何が起きるのか？（概要）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-02.png",
+          "image_file": "assets/img/posts/20261102_announcement-02.png",
+          "overlay_text": "コードが書けるだけでは足りない時代？",
+          "subtext": "生成AIの普及により、2026年の今、求められる力は「指示出し」から「AIとの協働」へと劇的に変化しています。お子様の教室選び、古い基準で止まっていませんか？",
+          "alt": "内容1 - コードが書けるだけでは足りない時代？"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "「AI共創力」が教室選びの決定打に",
+          "sub_title": "最新のマルチモーダルAIを駆使し、構想を形にする力が2027年度の入試や評価基準にも導入。if塾では、AIをツールとして使いこなし、課題解決を行う最新カリキュラムを導入しました。",
+          "text_content": "「AI共創力」が教室選びの決定打に",
+          "image_prompt": "Japanese anime style, 参加するとどうなる？（メリット）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-03.png",
+          "image_file": "assets/img/posts/20261102_announcement-03.png",
+          "overlay_text": "「AI共創力」が教室選びの決定打に",
+          "subtext": "最新のマルチモーダルAIを駆使し、構想を形にする力が2027年度の入試や評価基準にも導入。if塾では、AIをツールとして使いこなし、課題解決を行う最新カリキュラムを導入しました。",
+          "alt": "内容2 - 「AI共創力」が教室選びの決定打に"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾で身につく「AIとの対話術」",
+          "sub_title": "ただ答えを聞くだけではなく、AIの回答を論理的に検証し、自分のアイデアを最大化させる実践型レッスン。この冬、全国の校舎およびオンラインで体験授業を強化中です。",
+          "text_content": "if塾で身につく「AIとの対話術」",
+          "image_prompt": "Japanese anime style, いつ・どこで？（詳細）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261102_announcement-04.png",
+          "image_file": "assets/img/posts/20261102_announcement-04.png",
+          "overlay_text": "if塾で身につく「AIとの対話術」",
+          "subtext": "ただ答えを聞くだけではなく、AIの回答を論理的に検証し、自分のアイデアを最大化させる実践型レッスン。この冬、全国の校舎およびオンラインで体験授業を強化中です。",
+          "alt": "内容3 - if塾で身につく「AIとの対話術」"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261102_announcement-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261102_announcement-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261102_announcement-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261102_announcement-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "お知らせ",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "business",
+        "reason": "announcementカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-11-02T02:03:32",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "2026年最新版！プログラミング教育は「",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "2026年最新版！プログラミング教育は「書く」から「AIと創る」へ",
+            "subtext": "11月発表：新学習指導要領を見据えた『AI共創力』の重要性",
+            "purpose": "インパクト重視のタイトル",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "コードが書けるだけでは足りない時代？",
+            "subtext": "生成AIの普及により、2026年の今、求められる力は「指示出し」から「AIとの協働」へと劇的に変化しています。お子様の教室選び、古い基準で止まっていませんか？",
+            "purpose": "何が起きるのか？（概要）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "「AI共創力」が教室選びの決定打に",
+            "subtext": "最新のマルチモーダルAIを駆使し、構想を形にする力が2027年度の入試や評価基準にも導入。if塾では、AIをツールとして使いこなし、課題解決を行う最新カリキュラムを導入しました。",
+            "purpose": "参加するとどうなる？（メリット）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾で身につく「AIとの対話術」",
+            "subtext": "ただ答えを聞くだけではなく、AIの回答を論理的に検証し、自分のアイデアを最大化させる実践型レッスン。この冬、全国の校舎およびオンラインで体験授業を強化中です。",
+            "purpose": "いつ・どこで？（詳細）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20261101_activity",
       "post_id": "20261101_activity",
