@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 299,
-    "last_updated": "2026-11-02T20:38:01.917989",
+    "total_posts": 300,
+    "last_updated": "2026-11-03T05:42:59.646358",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,298 @@
     ]
   },
   "posts": [
+    {
+      "id": "20261103_education",
+      "post_id": "20261103_education",
+      "created_at": "2026-11-03T05:42:59",
+      "datetime": "2026-11-03T09:00:00+09:00",
+      "type": "carousel",
+      "category": "education",
+      "theme": "学校が変わる！2026年11月、教育改革の全貌が判明",
+      "target_audience": "Students & Parents",
+      "title": "学校が変わる！2026年11月、教育改革の全貌が判明",
+      "caption": "【2026年11月】教育の常識がまた一つ変わりました。\n\n先月10月5日、中央教育審議会（中教審）が次期学習指導要領の改訂に向けた「まとめ」を公表しました。注目すべきは、小学校での「情報の領域」の新設、そして中学校の「情報・技術科」への統合です。\n\n「うちの子、タブレットで動画を見ているだけだけど大丈夫？」\n「プログラミング教育、さらに難しくなるの？」\n\nそんな不安をお持ちの保護者の皆さま、ご安心ください。if塾では、この2026年の最新動向をいち早く分析し、お子様が「AIに使われる側」ではなく「AIを使いこなす側」になるためのカリキュラムを提供しています。\n\n2028年度の完全移行まで、あと少し。今からできる「考える力」の育て方を一緒に学びましょう！\n\n詳細はプロフィール欄のリンクからチェック💡",
+      "caption_text": "【2026年11月】教育の常識がまた一つ変わりました。\n\n先月10月5日、中央教育審議会（中教審）が次期学習指導要領の改訂に向けた「まとめ」を公表しました。注目すべきは、小学校での「情報の領域」の新設、そして中学校の「情報・技術科」への統合です。\n\n「うちの子、タブレットで動画を見ているだけだけど大丈夫？」\n「プログラミング教育、さらに難しくなるの？」\n\nそんな不安をお持ちの保護者の皆さま、ご安心ください。if塾では、この2026年の最新動向をいち早く分析し、お子様が「AIに使われる側」ではなく「AIを使いこなす側」になるためのカリキュラムを提供しています。\n\n2028年度の完全移行まで、あと少し。今からできる「考える力」の育て方を一緒に学びましょう！\n\n詳細はプロフィール欄のリンクからチェック💡",
+      "hashtags": [
+        "#if塾",
+        "#2026年",
+        "#教育改革",
+        "#中教審",
+        "#学習指導要領",
+        "#情報の領域",
+        "#情報技術科",
+        "#AI教育",
+        "#子育てママ",
+        "#教育コラム"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "sub_title": "「情報の領域」新設で親が知っておくべきこと",
+          "text_content": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-01.png",
+          "image_file": "assets/img/posts/20261103_education-01.png",
+          "overlay_text": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "subtext": "「情報の領域」新設で親が知っておくべきこと",
+          "alt": "表紙 - 学校が変わる！2026年11月、教育改革"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「パソコンが使える」だけではもう足りない？",
+          "sub_title": "10月の中教審まとめにより、2028年度からの教科再編が確定。小学校での「情報の領域」新設に、不安を感じる保護者が急増しています。",
+          "text_content": "「パソコンが使える」だけではもう足りない？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-02.png",
+          "image_file": "assets/img/posts/20261103_education-02.png",
+          "overlay_text": "「パソコンが使える」だけではもう足りない？",
+          "subtext": "10月の中教審まとめにより、2028年度からの教科再編が確定。小学校での「情報の領域」新設に、不安を感じる保護者が急増しています。",
+          "alt": "内容1 - 「パソコンが使える」だけではもう足りない"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "sub_title": "単なる操作スキルではなく、AIを使いこなし課題を解決する力が必須科目化。if塾では、2026年最新の生成AIツールを活用した対話型学習を推奨しています。",
+          "text_content": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-03.png",
+          "image_file": "assets/img/posts/20261103_education-03.png",
+          "overlay_text": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "subtext": "単なる操作スキルではなく、AIを使いこなし課題を解決する力が必須科目化。if塾では、2026年最新の生成AIツールを活用した対話型学習を推奨しています。",
+          "alt": "内容2 - 中学校は「情報・技術科」へ。論理思考が評"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "sub_title": "新指導要領の核は『探究心』です。if塾のメソッドでは、日々のニュースに「なぜ？」を3回繰り返すトレーニングで、情報活用能力の基礎を養います。",
+          "text_content": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-04.png",
+          "image_file": "assets/img/posts/20261103_education-04.png",
+          "overlay_text": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "subtext": "新指導要領の核は『探究心』です。if塾のメソッドでは、日々のニュースに「なぜ？」を3回繰り返すトレーニングで、情報活用能力の基礎を養います。",
+          "alt": "内容3 - 今すぐ家庭でできる「問いを立てる」習慣作"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "sub_title": "「情報の領域」新設で親が知っておくべきこと",
+          "text_content": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "image_prompt": "Japanese anime style, 問いかけ・逆説, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-01.png",
+          "image_file": "assets/img/posts/20261103_education-01.png",
+          "overlay_text": "学校が変わる！2026年11月、教育改革の全貌が判明",
+          "subtext": "「情報の領域」新設で親が知っておくべきこと",
+          "alt": "表紙 - 学校が変わる！2026年11月、教育改革"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「パソコンが使える」だけではもう足りない？",
+          "sub_title": "10月の中教審まとめにより、2028年度からの教科再編が確定。小学校での「情報の領域」新設に、不安を感じる保護者が急増しています。",
+          "text_content": "「パソコンが使える」だけではもう足りない？",
+          "image_prompt": "Japanese anime style, 世の中の流れ（現状の課題）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-02.png",
+          "image_file": "assets/img/posts/20261103_education-02.png",
+          "overlay_text": "「パソコンが使える」だけではもう足りない？",
+          "subtext": "10月の中教審まとめにより、2028年度からの教科再編が確定。小学校での「情報の領域」新設に、不安を感じる保護者が急増しています。",
+          "alt": "内容1 - 「パソコンが使える」だけではもう足りない"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "sub_title": "単なる操作スキルではなく、AIを使いこなし課題を解決する力が必須科目化。if塾では、2026年最新の生成AIツールを活用した対話型学習を推奨しています。",
+          "text_content": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "image_prompt": "Japanese anime style, if塾の考え（解決策・視点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-03.png",
+          "image_file": "assets/img/posts/20261103_education-03.png",
+          "overlay_text": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+          "subtext": "単なる操作スキルではなく、AIを使いこなし課題を解決する力が必須科目化。if塾では、2026年最新の生成AIツールを活用した対話型学習を推奨しています。",
+          "alt": "内容2 - 中学校は「情報・技術科」へ。論理思考が評"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "sub_title": "新指導要領の核は『探究心』です。if塾のメソッドでは、日々のニュースに「なぜ？」を3回繰り返すトレーニングで、情報活用能力の基礎を養います。",
+          "text_content": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "image_prompt": "Japanese anime style, 今やるべきこと（提案）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261103_education-04.png",
+          "image_file": "assets/img/posts/20261103_education-04.png",
+          "overlay_text": "今すぐ家庭でできる「問いを立てる」習慣作り",
+          "subtext": "新指導要領の核は『探究心』です。if塾のメソッドでは、日々のニュースに「なぜ？」を3回繰り返すトレーニングで、情報活用能力の基礎を養います。",
+          "alt": "内容3 - 今すぐ家庭でできる「問いを立てる」習慣作"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261103_education-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261103_education-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261103_education-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261103_education-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "教育コラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "profile",
+        "reason": "educationカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-11-03T05:41:48",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "学校が変わる！2026年11月、教育改革",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "学校が変わる！2026年11月、教育改革の全貌が判明",
+            "subtext": "「情報の領域」新設で親が知っておくべきこと",
+            "purpose": "問いかけ・逆説",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「パソコンが使える」だけではもう足りない？",
+            "subtext": "10月の中教審まとめにより、2028年度からの教科再編が確定。小学校での「情報の領域」新設に、不安を感じる保護者が急増しています。",
+            "purpose": "世の中の流れ（現状の課題）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "中学校は「情報・技術科」へ。論理思考が評価の軸に",
+            "subtext": "単なる操作スキルではなく、AIを使いこなし課題を解決する力が必須科目化。if塾では、2026年最新の生成AIツールを活用した対話型学習を推奨しています。",
+            "purpose": "if塾の考え（解決策・視点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "今すぐ家庭でできる「問いを立てる」習慣作り",
+            "subtext": "新指導要領の核は『探究心』です。if塾のメソッドでは、日々のニュースに「なぜ？」を3回繰り返すトレーニングで、情報活用能力の基礎を養います。",
+            "purpose": "今やるべきこと（提案）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20261102_announcement",
       "post_id": "20261102_announcement",
