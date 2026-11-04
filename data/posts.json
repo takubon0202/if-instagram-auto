@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 301,
-    "last_updated": "2026-11-04T13:58:17.726225",
+    "last_updated": "2026-11-04T20:29:11.649821",
     "categories": [
       "announcement",
       "development",
@@ -16,24 +16,26 @@
     {
       "id": "20261104_development",
       "post_id": "20261104_development",
-      "created_at": "2026-11-04T13:58:17",
+      "created_at": "2026-11-04T20:29:11",
       "datetime": "2026-11-04T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+      "theme": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
       "target_audience": "Students & Parents",
-      "title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-      "caption": "【2026年11月】最新の開発トレンドをお届け！\n\n今、教育現場でのプログラミングは「コードを書くこと」から「AIエージェントを指揮すること」へと劇的な進化を遂げています。\n\n立命館中等部の事例では、AIが自らバグを見つけ、機能改善を提案する『共創型開発』が当たり前に。もはやAIは単なる辞書ではなく、一緒に開発を進めるチームメンバーです。\n\n「AIに仕事を奪われる」のではなく「AIを使いこなして価値を生む」。\nこの冬、if塾で一生モノの『ディレクション能力』を身につけませんか？\n\n詳細はプロフィールのリンクをチェック！",
-      "caption_text": "【2026年11月】最新の開発トレンドをお届け！\n\n今、教育現場でのプログラミングは「コードを書くこと」から「AIエージェントを指揮すること」へと劇的な進化を遂げています。\n\n立命館中等部の事例では、AIが自らバグを見つけ、機能改善を提案する『共創型開発』が当たり前に。もはやAIは単なる辞書ではなく、一緒に開発を進めるチームメンバーです。\n\n「AIに仕事を奪われる」のではなく「AIを使いこなして価値を生む」。\nこの冬、if塾で一生モノの『ディレクション能力』を身につけませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "title": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+      "caption": "【2026年11月】ついに開発は「AIに教わる」から「AIと創る」フェーズへ。\n\n今月、多くの学生がGPT-5やGeminiの最新モデルを活用し、驚くべきスピードでアプリを完成させています。もはやプログラミング言語の暗記は不要。大切なのは「どんな未来を作りたいか」というビジョンです。\n\nif塾では、最新の生成AIを『開発パートナー』として迎え入れ、中高生が社会課題を解決するプロダクトを次々と生み出しています。\n\n2027年の受験や進路に向けて、今このスキルを身につけることは、最大のアドバンテージになります。\n\n「自分にも作れるかな？」と思った方は、ぜひプロフィール欄のリンクから最新のデモ体験会をチェックしてください！",
+      "caption_text": "【2026年11月】ついに開発は「AIに教わる」から「AIと創る」フェーズへ。\n\n今月、多くの学生がGPT-5やGeminiの最新モデルを活用し、驚くべきスピードでアプリを完成させています。もはやプログラミング言語の暗記は不要。大切なのは「どんな未来を作りたいか」というビジョンです。\n\nif塾では、最新の生成AIを『開発パートナー』として迎え入れ、中高生が社会課題を解決するプロダクトを次々と生み出しています。\n\n2027年の受験や進路に向けて、今このスキルを身につけることは、最大のアドバンテージになります。\n\n「自分にも作れるかな？」と思った方は、ぜひプロフィール欄のリンクから最新のデモ体験会をチェックしてください！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#AIエージェント",
-        "#立命館中等部",
-        "#次世代教育",
-        "#プログラミング学習",
-        "#中学生プログラマー",
-        "#最新テックニュース"
+        "#GPT5",
+        "#Gemini",
+        "#生成AI",
+        "#アプリ開発",
+        "#自由研究",
+        "#中高生エンジニア",
+        "#プログラミング教育",
+        "#DX"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -43,15 +45,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-          "sub_title": "2026年11月最新版：立命館中等部の共創事例",
-          "text_content": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "main_title": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+          "sub_title": "2026年11月最新版：学生アプリ開発の衝撃",
+          "text_content": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-01.png",
           "image_file": "assets/img/posts/20261104_development-01.png",
-          "overlay_text": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-          "subtext": "2026年11月最新版：立命館中等部の共創事例",
-          "alt": "表紙 - コードを書く時代は終わった？AIエージェ"
+          "overlay_text": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+          "subtext": "2026年11月最新版：学生アプリ開発の衝撃",
+          "alt": "表紙 - GPT-5×Geminiと創る！2026"
         },
         {
           "page_number": 2,
@@ -59,15 +61,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング学習」で挫折していませんか？",
-          "sub_title": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
-          "text_content": "「プログラミング学習」で挫折していませんか？",
+          "main_title": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
+          "sub_title": "従来の『独学』では壁が高すぎたアプリ開発。2026年の今、その壁はAIによって完全に消失しました。",
+          "text_content": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-02.png",
           "image_file": "assets/img/posts/20261104_development-02.png",
-          "overlay_text": "「プログラミング学習」で挫折していませんか？",
-          "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
-          "alt": "内容1 - 「プログラミング学習」で挫折していません"
+          "overlay_text": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
+          "subtext": "従来の『独学』では壁が高すぎたアプリ開発。2026年の今、その壁はAIによって完全に消失しました。",
+          "alt": "内容1 - 「やりたいこと」はあるけれど、コードが書"
         },
         {
           "page_number": 3,
@@ -75,15 +77,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "単なるツールから「自律型エージェント」の実装へ",
-          "sub_title": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
-          "text_content": "単なるツールから「自律型エージェント」の実装へ",
+          "main_title": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
+          "sub_title": "マルチモーダルAIが設計図を理解し、学生の意図を汲み取ってリアルタイムでデバッグ。もはやAIはツールではなく共創パートナーです。",
+          "text_content": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-03.png",
           "image_file": "assets/img/posts/20261104_development-03.png",
-          "overlay_text": "単なるツールから「自律型エージェント」の実装へ",
-          "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
-          "alt": "内容2 - 単なるツールから「自律型エージェント」の"
+          "overlay_text": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
+          "subtext": "マルチモーダルAIが設計図を理解し、学生の意図を汲み取ってリアルタイムでデバッグ。もはやAIはツールではなく共創パートナーです。",
+          "alt": "内容2 - GPT-5連携で実現！「指示」ではなく「"
         },
         {
           "page_number": 4,
@@ -91,15 +93,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「作る」から「育てる」開発体験へシフト",
-          "sub_title": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
-          "text_content": "「作る」から「育てる」開発体験へシフト",
+          "main_title": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
+          "sub_title": "コードを書く時間から『価値を考える時間』へ。if塾では、AIを使いこなし「問い」を立てる力を養います。",
+          "text_content": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-04.png",
           "image_file": "assets/img/posts/20261104_development-04.png",
-          "overlay_text": "「作る」から「育てる」開発体験へシフト",
-          "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
-          "alt": "内容3 - 「作る」から「育てる」開発体験へシフト"
+          "overlay_text": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
+          "subtext": "コードを書く時間から『価値を考える時間』へ。if塾では、AIを使いこなし「問い」を立てる力を養います。",
+          "alt": "内容3 - if塾生が証明！AIを相棒にして、わずか"
         },
         {
           "page_number": 5,
@@ -125,15 +127,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-          "sub_title": "2026年11月最新版：立命館中等部の共創事例",
-          "text_content": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "main_title": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+          "sub_title": "2026年11月最新版：学生アプリ開発の衝撃",
+          "text_content": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-01.png",
           "image_file": "assets/img/posts/20261104_development-01.png",
-          "overlay_text": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-          "subtext": "2026年11月最新版：立命館中等部の共創事例",
-          "alt": "表紙 - コードを書く時代は終わった？AIエージェ"
+          "overlay_text": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+          "subtext": "2026年11月最新版：学生アプリ開発の衝撃",
+          "alt": "表紙 - GPT-5×Geminiと創る！2026"
         },
         {
           "page_number": 2,
@@ -141,15 +143,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「プログラミング学習」で挫折していませんか？",
-          "sub_title": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
-          "text_content": "「プログラミング学習」で挫折していませんか？",
+          "main_title": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
+          "sub_title": "従来の『独学』では壁が高すぎたアプリ開発。2026年の今、その壁はAIによって完全に消失しました。",
+          "text_content": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-02.png",
           "image_file": "assets/img/posts/20261104_development-02.png",
-          "overlay_text": "「プログラミング学習」で挫折していませんか？",
-          "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
-          "alt": "内容1 - 「プログラミング学習」で挫折していません"
+          "overlay_text": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
+          "subtext": "従来の『独学』では壁が高すぎたアプリ開発。2026年の今、その壁はAIによって完全に消失しました。",
+          "alt": "内容1 - 「やりたいこと」はあるけれど、コードが書"
         },
         {
           "page_number": 3,
@@ -157,15 +159,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "単なるツールから「自律型エージェント」の実装へ",
-          "sub_title": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
-          "text_content": "単なるツールから「自律型エージェント」の実装へ",
+          "main_title": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
+          "sub_title": "マルチモーダルAIが設計図を理解し、学生の意図を汲み取ってリアルタイムでデバッグ。もはやAIはツールではなく共創パートナーです。",
+          "text_content": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-03.png",
           "image_file": "assets/img/posts/20261104_development-03.png",
-          "overlay_text": "単なるツールから「自律型エージェント」の実装へ",
-          "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
-          "alt": "内容2 - 単なるツールから「自律型エージェント」の"
+          "overlay_text": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
+          "subtext": "マルチモーダルAIが設計図を理解し、学生の意図を汲み取ってリアルタイムでデバッグ。もはやAIはツールではなく共創パートナーです。",
+          "alt": "内容2 - GPT-5連携で実現！「指示」ではなく「"
         },
         {
           "page_number": 4,
@@ -173,15 +175,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "「作る」から「育てる」開発体験へシフト",
-          "sub_title": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
-          "text_content": "「作る」から「育てる」開発体験へシフト",
+          "main_title": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
+          "sub_title": "コードを書く時間から『価値を考える時間』へ。if塾では、AIを使いこなし「問い」を立てる力を養います。",
+          "text_content": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-04.png",
           "image_file": "assets/img/posts/20261104_development-04.png",
-          "overlay_text": "「作る」から「育てる」開発体験へシフト",
-          "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
-          "alt": "内容3 - 「作る」から「育てる」開発体験へシフト"
+          "overlay_text": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
+          "subtext": "コードを書く時間から『価値を考える時間』へ。if塾では、AIを使いこなし「問い」を立てる力を養います。",
+          "alt": "内容3 - if塾生が証明！AIを相棒にして、わずか"
         },
         {
           "page_number": 5,
@@ -243,7 +245,7 @@
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-11-04T13:57:05",
+      "research_date": "2026-11-04T20:27:51",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -251,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コードを書く時代は終わった？AIエージェ",
+        "cover_text": "GPT-5×Geminiと創る！2026",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
-            "subtext": "2026年11月最新版：立命館中等部の共創事例",
+            "headline": "GPT-5×Geminiと創る！2026年「開発パートナー」時代の新常識",
+            "subtext": "2026年11月最新版：学生アプリ開発の衝撃",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -267,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「プログラミング学習」で挫折していませんか？",
-            "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
+            "headline": "「やりたいこと」はあるけれど、コードが書けなくて諦めていませんか？",
+            "subtext": "従来の『独学』では壁が高すぎたアプリ開発。2026年の今、その壁はAIによって完全に消失しました。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -276,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "単なるツールから「自律型エージェント」の実装へ",
-            "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
+            "headline": "GPT-5連携で実現！「指示」ではなく「対話」で生まれる超高度アプリ",
+            "subtext": "マルチモーダルAIが設計図を理解し、学生の意図を汲み取ってリアルタイムでデバッグ。もはやAIはツールではなく共創パートナーです。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -285,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "「作る」から「育てる」開発体験へシフト",
-            "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
+            "headline": "if塾生が証明！AIを相棒にして、わずか2週間で独自SNSをリリース",
+            "subtext": "コードを書く時間から『価値を考える時間』へ。if塾では、AIを使いこなし「問い」を立てる力を養います。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
