@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "3.0",
-    "total_posts": 301,
-    "last_updated": "2026-11-04T20:29:11.649821",
+    "total_posts": 302,
+    "last_updated": "2026-11-05T03:33:33.847453",
     "categories": [
       "announcement",
       "development",
@@ -13,6 +13,294 @@
     ]
   },
   "posts": [
+    {
+      "id": "20261105_ai_column",
+      "post_id": "20261105_ai_column",
+      "created_at": "2026-11-05T03:33:33",
+      "datetime": "2026-11-05T09:00:00+09:00",
+      "type": "carousel",
+      "category": "ai_column",
+      "theme": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+      "target_audience": "Students & Parents",
+      "title": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+      "caption": "【2026年11月】AIエージェントは「指示待ち」のフェーズを完全に超えました。\n\n「何をすればいい？」と悩む時間はもう終わりです。\n2026年現在の最新AIエージェントは、あなたの目標を理解し、勝手に動き、最短ルートを提示してくれます。\n\n受験生にとっては、24時間寄り添う「専属マネージャー」がいるようなもの。\nしかし、便利すぎるからこそ注意が必要なのは「自分の意思」をどこに置くかです。\n\nAIに目的地まで連れて行ってもらうのではなく、\n自分がどこへ行きたいのかをAIに明確に伝える力。\nそれが、この自律化時代を生き抜くための新しいスキルです。\n\nif塾では、AIを味方につけて自分らしい未来を切り拓く方法を発信しています。\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #AIエージェント #自律型AI #教育AI #AI活用術 #受験対策 #最新テクノロジー #AIニュース",
+      "caption_text": "【2026年11月】AIエージェントは「指示待ち」のフェーズを完全に超えました。\n\n「何をすればいい？」と悩む時間はもう終わりです。\n2026年現在の最新AIエージェントは、あなたの目標を理解し、勝手に動き、最短ルートを提示してくれます。\n\n受験生にとっては、24時間寄り添う「専属マネージャー」がいるようなもの。\nしかし、便利すぎるからこそ注意が必要なのは「自分の意思」をどこに置くかです。\n\nAIに目的地まで連れて行ってもらうのではなく、\n自分がどこへ行きたいのかをAIに明確に伝える力。\nそれが、この自律化時代を生き抜くための新しいスキルです。\n\nif塾では、AIを味方につけて自分らしい未来を切り拓く方法を発信しています。\n\n詳細はプロフィールのリンクから！\n\n#if塾 #2026年 #AIエージェント #自律型AI #教育AI #AI活用術 #受験対策 #最新テクノロジー #AIニュース",
+      "hashtags": [
+        "if塾",
+        "2026年",
+        "AIエージェント",
+        "自律型AI",
+        "教育の未来",
+        "AI活用術"
+      ],
+      "cta_url": "https://if-juku.net/",
+      "slides": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "sub_title": "2026年11月最新：進路選びの新常識",
+          "text_content": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-01.png",
+          "image_file": "assets/img/posts/20261105_ai_column-01.png",
+          "overlay_text": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "subtext": "2026年11月最新：進路選びの新常識",
+          "alt": "表紙 - 指示待ちは終了。勝手に動く「自律AIエー"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIが伴走する」時代へ",
+          "sub_title": "これまでのAIは命令が必要でしたが、2026年現在の最新エージェントは、目標（例：志望校合格）を伝えるだけでタスクを逆算し、スケジュール管理から資料集めまで自動で完結させます。",
+          "text_content": "「AIを使う」から「AIが伴走する」時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-02.png",
+          "image_file": "assets/img/posts/20261105_ai_column-02.png",
+          "overlay_text": "「AIを使う」から「AIが伴走する」時代へ",
+          "subtext": "これまでのAIは命令が必要でしたが、2026年現在の最新エージェントは、目標（例：志望校合格）を伝えるだけでタスクを逆算し、スケジュール管理から資料集めまで自動で完結させます。",
+          "alt": "内容1 - 「AIを使う」から「AIが伴走する」時代"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "受験・キャリア設計をAIが自動最適化",
+          "sub_title": "最新の自律型エージェントは、模試の結果や本人の得意不得意をリアルタイムで解析。24時間体制で学習プランを「勝手に」修正し、必要な参考書の注文や面談予約の提案まで行うようになっています。",
+          "text_content": "受験・キャリア設計をAIが自動最適化",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-03.png",
+          "image_file": "assets/img/posts/20261105_ai_column-03.png",
+          "overlay_text": "受験・キャリア設計をAIが自動最適化",
+          "subtext": "最新の自律型エージェントは、模試の結果や本人の得意不得意をリアルタイムで解析。24時間体制で学習プランを「勝手に」修正し、必要な参考書の注文や面談予約の提案まで行うようになっています。",
+          "alt": "内容2 - 受験・キャリア設計をAIが自動最適化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "sub_title": "作業をAIに任せられる今、人間に求められるのは「どの方向にAIを走らせるか」という意志決定。単なる知識習得ではなく、AIへの『ゴール設定能力』と『最終的な判断力』を養うことが、これからの合格の鍵です。",
+          "text_content": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-04.png",
+          "image_file": "assets/img/posts/20261105_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "subtext": "作業をAIに任せられる今、人間に求められるのは「どの方向にAIを走らせるか」という意志決定。単なる知識習得ではなく、AIへの『ゴール設定能力』と『最終的な判断力』を養うことが、これからの合格の鍵です。",
+          "alt": "内容3 - if塾の視点：AIを「使いこなす」能力の"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "pages": [
+        {
+          "page_number": 1,
+          "scene_id": 1,
+          "scene_name": "cover",
+          "layout_type": "cover",
+          "label": "表紙",
+          "main_title": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "sub_title": "2026年11月最新：進路選びの新常識",
+          "text_content": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-01.png",
+          "image_file": "assets/img/posts/20261105_ai_column-01.png",
+          "overlay_text": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+          "subtext": "2026年11月最新：進路選びの新常識",
+          "alt": "表紙 - 指示待ちは終了。勝手に動く「自律AIエー"
+        },
+        {
+          "page_number": 2,
+          "scene_id": 2,
+          "scene_name": "content1",
+          "layout_type": "content1",
+          "label": "内容1",
+          "main_title": "「AIを使う」から「AIが伴走する」時代へ",
+          "sub_title": "これまでのAIは命令が必要でしたが、2026年現在の最新エージェントは、目標（例：志望校合格）を伝えるだけでタスクを逆算し、スケジュール管理から資料集めまで自動で完結させます。",
+          "text_content": "「AIを使う」から「AIが伴走する」時代へ",
+          "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-02.png",
+          "image_file": "assets/img/posts/20261105_ai_column-02.png",
+          "overlay_text": "「AIを使う」から「AIが伴走する」時代へ",
+          "subtext": "これまでのAIは命令が必要でしたが、2026年現在の最新エージェントは、目標（例：志望校合格）を伝えるだけでタスクを逆算し、スケジュール管理から資料集めまで自動で完結させます。",
+          "alt": "内容1 - 「AIを使う」から「AIが伴走する」時代"
+        },
+        {
+          "page_number": 3,
+          "scene_id": 3,
+          "scene_name": "content2",
+          "layout_type": "content2",
+          "label": "内容2",
+          "main_title": "受験・キャリア設計をAIが自動最適化",
+          "sub_title": "最新の自律型エージェントは、模試の結果や本人の得意不得意をリアルタイムで解析。24時間体制で学習プランを「勝手に」修正し、必要な参考書の注文や面談予約の提案まで行うようになっています。",
+          "text_content": "受験・キャリア設計をAIが自動最適化",
+          "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-03.png",
+          "image_file": "assets/img/posts/20261105_ai_column-03.png",
+          "overlay_text": "受験・キャリア設計をAIが自動最適化",
+          "subtext": "最新の自律型エージェントは、模試の結果や本人の得意不得意をリアルタイムで解析。24時間体制で学習プランを「勝手に」修正し、必要な参考書の注文や面談予約の提案まで行うようになっています。",
+          "alt": "内容2 - 受験・キャリア設計をAIが自動最適化"
+        },
+        {
+          "page_number": 4,
+          "scene_id": 4,
+          "scene_name": "content3",
+          "layout_type": "content3",
+          "label": "内容3",
+          "main_title": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "sub_title": "作業をAIに任せられる今、人間に求められるのは「どの方向にAIを走らせるか」という意志決定。単なる知識習得ではなく、AIへの『ゴール設定能力』と『最終的な判断力』を養うことが、これからの合格の鍵です。",
+          "text_content": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
+          "image_url": "assets/img/posts/20261105_ai_column-04.png",
+          "image_file": "assets/img/posts/20261105_ai_column-04.png",
+          "overlay_text": "if塾の視点：AIを「使いこなす」能力の再定義",
+          "subtext": "作業をAIに任せられる今、人間に求められるのは「どの方向にAIを走らせるか」という意志決定。単なる知識習得ではなく、AIへの『ゴール設定能力』と『最終的な判断力』を養うことが、これからの合格の鍵です。",
+          "alt": "内容3 - if塾の視点：AIを「使いこなす」能力の"
+        },
+        {
+          "page_number": 5,
+          "scene_id": 5,
+          "scene_name": "thanks",
+          "layout_type": "thanks",
+          "label": "サンクス",
+          "main_title": "いつもありがとうございます！",
+          "sub_title": "詳細はプロフィール欄から",
+          "text_content": "いつもありがとうございます！",
+          "image_prompt": "Japanese anime style, アクション誘導, clean background, no text, no ui",
+          "image_url": "assets/img/posts/ifjukuthanks.png",
+          "image_file": "assets/img/posts/ifjukuthanks.png",
+          "overlay_text": "いつもありがとうございます！",
+          "subtext": "詳細はプロフィール欄から",
+          "alt": "サンクス - いつもありがとうございます！"
+        }
+      ],
+      "media": [
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261105_ai_column-01.png",
+          "alt": "シーン1"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261105_ai_column-02.png",
+          "alt": "シーン2"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261105_ai_column-03.png",
+          "alt": "シーン3"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/20261105_ai_column-04.png",
+          "alt": "シーン4"
+        },
+        {
+          "kind": "image",
+          "src": "assets/img/posts/ifjukuthanks.png",
+          "alt": "シーン5"
+        }
+      ],
+      "highlight": "AIコラム",
+      "staff": {
+        "name": "高崎翔太",
+        "role": "代表・講師",
+        "specialties": [
+          "AI",
+          "ビジネス",
+          "教育"
+        ],
+        "caption_text": "高崎翔太（代表・講師）"
+      },
+      "staff_selection": {
+        "staff_id": "takasaki_shota",
+        "image_type": "casual",
+        "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
+      },
+      "status": "published",
+      "research_date": "2026-11-05T03:32:15",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "notes_for_instagram": {
+        "cover_text": "指示待ちは終了。勝手に動く「自律AIエー",
+        "first_comment": "詳細は if-juku.net から",
+        "scenes": [
+          {
+            "scene_id": 1,
+            "scene_name": "cover",
+            "label": "表紙",
+            "headline": "指示待ちは終了。勝手に動く「自律AIエージェント」の衝撃",
+            "subtext": "2026年11月最新：進路選びの新常識",
+            "purpose": "ツール名 or 衝撃的な事実",
+            "staff_image": null
+          },
+          {
+            "scene_id": 2,
+            "scene_name": "content1",
+            "label": "内容1",
+            "headline": "「AIを使う」から「AIが伴走する」時代へ",
+            "subtext": "これまでのAIは命令が必要でしたが、2026年現在の最新エージェントは、目標（例：志望校合格）を伝えるだけでタスクを逆算し、スケジュール管理から資料集めまで自動で完結させます。",
+            "purpose": "これは何？（ツール紹介）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 3,
+            "scene_name": "content2",
+            "label": "内容2",
+            "headline": "受験・キャリア設計をAIが自動最適化",
+            "subtext": "最新の自律型エージェントは、模試の結果や本人の得意不得意をリアルタイムで解析。24時間体制で学習プランを「勝手に」修正し、必要な参考書の注文や面談予約の提案まで行うようになっています。",
+            "purpose": "どう使う？（活用例）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 4,
+            "scene_name": "content3",
+            "label": "内容3",
+            "headline": "if塾の視点：AIを「使いこなす」能力の再定義",
+            "subtext": "作業をAIに任せられる今、人間に求められるのは「どの方向にAIを走らせるか」という意志決定。単なる知識習得ではなく、AIへの『ゴール設定能力』と『最終的な判断力』を養うことが、これからの合格の鍵です。",
+            "purpose": "プロの視点（コツ・注意点）",
+            "staff_image": null
+          },
+          {
+            "scene_id": 5,
+            "scene_name": "thanks",
+            "label": "サンクス",
+            "headline": "いつもありがとうございます！",
+            "subtext": "詳細はプロフィール欄から",
+            "purpose": "アクション誘導",
+            "fixed_image": "assets/img/posts/ifjukuthanks.png"
+          }
+        ]
+      }
+    },
     {
       "id": "20261104_development",
       "post_id": "20261104_development",
