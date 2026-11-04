@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 301,
-    "last_updated": "2026-11-04T03:27:31.033394",
+    "last_updated": "2026-11-04T13:58:17.726225",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,24 @@
     {
       "id": "20261104_development",
       "post_id": "20261104_development",
-      "created_at": "2026-11-04T03:27:31",
+      "created_at": "2026-11-04T13:58:17",
       "datetime": "2026-11-04T09:00:00+09:00",
       "type": "carousel",
       "category": "development",
-      "theme": "コードはもう書かない。AIと「対話」で創る次世代開発術",
+      "theme": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
       "target_audience": "Students & Parents",
-      "title": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-      "caption": "【2026年11月】プログラミングの定義が、劇的に変わりました。\n\n「コードを1行ずつ書く」苦労はもう必要ありません。\n今、最も注目されているのは『Vibe Coding（バイブ・コーディング）』。\n\nあなたの頭の中にあるアイデアや「雰囲気」をAIエージェントに伝えるだけで、最新のAIが最適なコードを生成し、動くプロダクトに仕上げてくれます。\n\n2026年の冬、受験や進路に悩む学生こそ、この「AIを指揮する力」を身につけませんか？\n\nif塾では、技術の習得ではなく「AIと共に何を創るか」を大切にしています。\nこれからの時代、武器になるのは「書く力」ではなく「対話する力」です。\n\n最新のAI開発体験を、ぜひif塾で。\n\n#if塾 #2026年 #VibeCoding #AIエージェント #プログラミング教育 #最新ITトレンド #ノーコードの先へ #次世代の学び",
-      "caption_text": "【2026年11月】プログラミングの定義が、劇的に変わりました。\n\n「コードを1行ずつ書く」苦労はもう必要ありません。\n今、最も注目されているのは『Vibe Coding（バイブ・コーディング）』。\n\nあなたの頭の中にあるアイデアや「雰囲気」をAIエージェントに伝えるだけで、最新のAIが最適なコードを生成し、動くプロダクトに仕上げてくれます。\n\n2026年の冬、受験や進路に悩む学生こそ、この「AIを指揮する力」を身につけませんか？\n\nif塾では、技術の習得ではなく「AIと共に何を創るか」を大切にしています。\nこれからの時代、武器になるのは「書く力」ではなく「対話する力」です。\n\n最新のAI開発体験を、ぜひif塾で。\n\n#if塾 #2026年 #VibeCoding #AIエージェント #プログラミング教育 #最新ITトレンド #ノーコードの先へ #次世代の学び",
+      "title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+      "caption": "【2026年11月】最新の開発トレンドをお届け！\n\n今、教育現場でのプログラミングは「コードを書くこと」から「AIエージェントを指揮すること」へと劇的な進化を遂げています。\n\n立命館中等部の事例では、AIが自らバグを見つけ、機能改善を提案する『共創型開発』が当たり前に。もはやAIは単なる辞書ではなく、一緒に開発を進めるチームメンバーです。\n\n「AIに仕事を奪われる」のではなく「AIを使いこなして価値を生む」。\nこの冬、if塾で一生モノの『ディレクション能力』を身につけませんか？\n\n詳細はプロフィールのリンクをチェック！",
+      "caption_text": "【2026年11月】最新の開発トレンドをお届け！\n\n今、教育現場でのプログラミングは「コードを書くこと」から「AIエージェントを指揮すること」へと劇的な進化を遂げています。\n\n立命館中等部の事例では、AIが自らバグを見つけ、機能改善を提案する『共創型開発』が当たり前に。もはやAIは単なる辞書ではなく、一緒に開発を進めるチームメンバーです。\n\n「AIに仕事を奪われる」のではなく「AIを使いこなして価値を生む」。\nこの冬、if塾で一生モノの『ディレクション能力』を身につけませんか？\n\n詳細はプロフィールのリンクをチェック！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#VibeCoding",
         "#AIエージェント",
-        "#DX教育",
-        "#中高生プログラミング"
+        "#立命館中等部",
+        "#次世代教育",
+        "#プログラミング学習",
+        "#中学生プログラマー",
+        "#最新テックニュース"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +43,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-          "sub_title": "2026年11月最新版：Vibe Codingの衝撃",
-          "text_content": "コードはもう書かない。AIと「対話」で創る次世代開発術",
+          "main_title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "sub_title": "2026年11月最新版：立命館中等部の共創事例",
+          "text_content": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-01.png",
           "image_file": "assets/img/posts/20261104_development-01.png",
-          "overlay_text": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-          "subtext": "2026年11月最新版：Vibe Codingの衝撃",
-          "alt": "表紙 - コードはもう書かない。AIと「対話」で創"
+          "overlay_text": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "subtext": "2026年11月最新版：立命館中等部の共創事例",
+          "alt": "表紙 - コードを書く時代は終わった？AIエージェ"
         },
         {
           "page_number": 2,
@@ -57,15 +59,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「文系だから無理」は、もう過去の話です。",
-          "sub_title": "受験勉強に忙しい学生も、ITに詳しくない保護者も、言語の壁や構文エラーに悩まされる時代は終わりました。",
-          "text_content": "「文系だから無理」は、もう過去の話です。",
+          "main_title": "「プログラミング学習」で挫折していませんか？",
+          "sub_title": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
+          "text_content": "「プログラミング学習」で挫折していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-02.png",
           "image_file": "assets/img/posts/20261104_development-02.png",
-          "overlay_text": "「文系だから無理」は、もう過去の話です。",
-          "subtext": "受験勉強に忙しい学生も、ITに詳しくない保護者も、言語の壁や構文エラーに悩まされる時代は終わりました。",
-          "alt": "内容1 - 「文系だから無理」は、もう過去の話です。"
+          "overlay_text": "「プログラミング学習」で挫折していませんか？",
+          "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
+          "alt": "内容1 - 「プログラミング学習」で挫折していません"
         },
         {
           "page_number": 3,
@@ -73,15 +75,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントとの「共創」スタイルへ",
-          "sub_title": "CursorやReplitの進化により、あなたの『意図（Vibe）』を伝えるだけで、AIが設計からデプロイまで完結させます。",
-          "text_content": "自律型AIエージェントとの「共創」スタイルへ",
+          "main_title": "単なるツールから「自律型エージェント」の実装へ",
+          "sub_title": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
+          "text_content": "単なるツールから「自律型エージェント」の実装へ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-03.png",
           "image_file": "assets/img/posts/20261104_development-03.png",
-          "overlay_text": "自律型AIエージェントとの「共創」スタイルへ",
-          "subtext": "CursorやReplitの進化により、あなたの『意図（Vibe）』を伝えるだけで、AIが設計からデプロイまで完結させます。",
-          "alt": "内容2 - 自律型AIエージェントとの「共創」スタイ"
+          "overlay_text": "単なるツールから「自律型エージェント」の実装へ",
+          "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
+          "alt": "内容2 - 単なるツールから「自律型エージェント」の"
         },
         {
           "page_number": 4,
@@ -89,15 +91,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
-          "sub_title": "AIを使いこなす側になるために。論理的思考力さえあれば、週末だけで高度なアプリが完成する世界へ。",
-          "text_content": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
+          "main_title": "「作る」から「育てる」開発体験へシフト",
+          "sub_title": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
+          "text_content": "「作る」から「育てる」開発体験へシフト",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-04.png",
           "image_file": "assets/img/posts/20261104_development-04.png",
-          "overlay_text": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
-          "subtext": "AIを使いこなす側になるために。論理的思考力さえあれば、週末だけで高度なアプリが完成する世界へ。",
-          "alt": "内容3 - if塾が教えるのは「指示の出し方」ではな"
+          "overlay_text": "「作る」から「育てる」開発体験へシフト",
+          "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
+          "alt": "内容3 - 「作る」から「育てる」開発体験へシフト"
         },
         {
           "page_number": 5,
@@ -123,15 +125,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-          "sub_title": "2026年11月最新版：Vibe Codingの衝撃",
-          "text_content": "コードはもう書かない。AIと「対話」で創る次世代開発術",
+          "main_title": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "sub_title": "2026年11月最新版：立命館中等部の共創事例",
+          "text_content": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
           "image_prompt": "Japanese anime style, 成果物の完成画像＋キャッチコピー, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-01.png",
           "image_file": "assets/img/posts/20261104_development-01.png",
-          "overlay_text": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-          "subtext": "2026年11月最新版：Vibe Codingの衝撃",
-          "alt": "表紙 - コードはもう書かない。AIと「対話」で創"
+          "overlay_text": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+          "subtext": "2026年11月最新版：立命館中等部の共創事例",
+          "alt": "表紙 - コードを書く時代は終わった？AIエージェ"
         },
         {
           "page_number": 2,
@@ -139,15 +141,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "「文系だから無理」は、もう過去の話です。",
-          "sub_title": "受験勉強に忙しい学生も、ITに詳しくない保護者も、言語の壁や構文エラーに悩まされる時代は終わりました。",
-          "text_content": "「文系だから無理」は、もう過去の話です。",
+          "main_title": "「プログラミング学習」で挫折していませんか？",
+          "sub_title": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
+          "text_content": "「プログラミング学習」で挫折していませんか？",
           "image_prompt": "Japanese anime style, どんな悩みを解決？（Before/課題）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-02.png",
           "image_file": "assets/img/posts/20261104_development-02.png",
-          "overlay_text": "「文系だから無理」は、もう過去の話です。",
-          "subtext": "受験勉強に忙しい学生も、ITに詳しくない保護者も、言語の壁や構文エラーに悩まされる時代は終わりました。",
-          "alt": "内容1 - 「文系だから無理」は、もう過去の話です。"
+          "overlay_text": "「プログラミング学習」で挫折していませんか？",
+          "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
+          "alt": "内容1 - 「プログラミング学習」で挫折していません"
         },
         {
           "page_number": 3,
@@ -155,15 +157,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "自律型AIエージェントとの「共創」スタイルへ",
-          "sub_title": "CursorやReplitの進化により、あなたの『意図（Vibe）』を伝えるだけで、AIが設計からデプロイまで完結させます。",
-          "text_content": "自律型AIエージェントとの「共創」スタイルへ",
+          "main_title": "単なるツールから「自律型エージェント」の実装へ",
+          "sub_title": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
+          "text_content": "単なるツールから「自律型エージェント」の実装へ",
           "image_prompt": "Japanese anime style, どうやって動く？（Process/機能）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-03.png",
           "image_file": "assets/img/posts/20261104_development-03.png",
-          "overlay_text": "自律型AIエージェントとの「共創」スタイルへ",
-          "subtext": "CursorやReplitの進化により、あなたの『意図（Vibe）』を伝えるだけで、AIが設計からデプロイまで完結させます。",
-          "alt": "内容2 - 自律型AIエージェントとの「共創」スタイ"
+          "overlay_text": "単なるツールから「自律型エージェント」の実装へ",
+          "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
+          "alt": "内容2 - 単なるツールから「自律型エージェント」の"
         },
         {
           "page_number": 4,
@@ -171,15 +173,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
-          "sub_title": "AIを使いこなす側になるために。論理的思考力さえあれば、週末だけで高度なアプリが完成する世界へ。",
-          "text_content": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
+          "main_title": "「作る」から「育てる」開発体験へシフト",
+          "sub_title": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
+          "text_content": "「作る」から「育てる」開発体験へシフト",
           "image_prompt": "Japanese anime style, 使った結果は？（After/結果）, clean background, no text, no ui",
           "image_url": "assets/img/posts/20261104_development-04.png",
           "image_file": "assets/img/posts/20261104_development-04.png",
-          "overlay_text": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
-          "subtext": "AIを使いこなす側になるために。論理的思考力さえあれば、週末だけで高度なアプリが完成する世界へ。",
-          "alt": "内容3 - if塾が教えるのは「指示の出し方」ではな"
+          "overlay_text": "「作る」から「育てる」開発体験へシフト",
+          "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
+          "alt": "内容3 - 「作る」から「育てる」開発体験へシフト"
         },
         {
           "page_number": 5,
@@ -227,21 +229,21 @@
       ],
       "highlight": "開発物",
       "staff": {
-        "name": "井上陽斗",
+        "name": "藤本陽向",
         "role": "講師",
         "specialties": [
           "プログラミング",
-          "ゲーム開発"
+          "ロボット"
         ],
-        "caption_text": "井上陽斗（講師）"
+        "caption_text": "藤本陽向（講師）"
       },
       "staff_selection": {
-        "staff_id": "inoue_haruto",
+        "staff_id": "fujimoto_hinata",
         "image_type": "teaching",
         "reason": "developmentカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-11-04T03:26:13",
+      "research_date": "2026-11-04T13:57:05",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -249,15 +251,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "コードはもう書かない。AIと「対話」で創",
+        "cover_text": "コードを書く時代は終わった？AIエージェ",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "コードはもう書かない。AIと「対話」で創る次世代開発術",
-            "subtext": "2026年11月最新版：Vibe Codingの衝撃",
+            "headline": "コードを書く時代は終わった？AIエージェントと創る次世代アプリ開発",
+            "subtext": "2026年11月最新版：立命館中等部の共創事例",
             "purpose": "成果物の完成画像＋キャッチコピー",
             "staff_image": null
           },
@@ -265,8 +267,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "「文系だから無理」は、もう過去の話です。",
-            "subtext": "受験勉強に忙しい学生も、ITに詳しくない保護者も、言語の壁や構文エラーに悩まされる時代は終わりました。",
+            "headline": "「プログラミング学習」で挫折していませんか？",
+            "subtext": "構文を覚えるだけの勉強はもう古い。2026年、学生が直面しているのは『AIをどう使いこなして形にするか』という設計力の壁です。",
             "purpose": "どんな悩みを解決？（Before/課題）",
             "staff_image": null
           },
@@ -274,8 +276,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "自律型AIエージェントとの「共創」スタイルへ",
-            "subtext": "CursorやReplitの進化により、あなたの『意図（Vibe）』を伝えるだけで、AIが設計からデプロイまで完結させます。",
+            "headline": "単なるツールから「自律型エージェント」の実装へ",
+            "subtext": "立命館中等部では、指示待ちのAIではなく、自らタスクを推論して実行する『AIエージェント』を組み込んだアプリ開発が標準になっています。",
             "purpose": "どうやって動く？（Process/機能）",
             "staff_image": null
           },
@@ -283,8 +285,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾が教えるのは「指示の出し方」ではなく「設計思考」",
-            "subtext": "AIを使いこなす側になるために。論理的思考力さえあれば、週末だけで高度なアプリが完成する世界へ。",
+            "headline": "「作る」から「育てる」開発体験へシフト",
+            "subtext": "if塾ではAIを『開発パートナー』として定義。生徒はPM（プロジェクトマネージャー）として、AIの思考回路をデザインする高度な創造性を磨いています。",
             "purpose": "使った結果は？（After/結果）",
             "staff_image": null
           },
