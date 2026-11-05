@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 302,
-    "last_updated": "2026-11-05T14:17:48.832263",
+    "last_updated": "2026-11-05T20:25:20.144238",
     "categories": [
       "announcement",
       "development",
@@ -16,22 +16,25 @@
     {
       "id": "20261105_ai_column",
       "post_id": "20261105_ai_column",
-      "created_at": "2026-11-05T14:17:48",
+      "created_at": "2026-11-05T20:25:20",
       "datetime": "2026-11-05T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
-      "theme": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
+      "theme": "2026年版：Gemini 2026年最新機",
       "target_audience": "Students & Parents",
-      "title": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-      "caption": "【2026年11月】いよいよ入試シーズン本番が近づいてきましたね。 \n\n今月リリースされたGoogleの最新モデル「Gemini 4 Carbon」が、学習効率を劇的に変えると話題です。\n\nこれまでのAIは長い文章だと途中で精度が落ちることがありましたが、Carbonは数千ページに及ぶ複数ドキュメントを同時に、かつ高精度に分析することに特化しています。\n\n「あの参考書とこの問題集、何が違うの？」\n「志望校の出題傾向を過去10年分まとめて分析して」\n\nそんな高度な要求にも、Carbonなら瞬時に答えてくれます。 \n\nただし、if塾が大切にしているのは「AIを使いこなす側の思考力」です。便利だからこそ、最後は自分の頭で考える。そんな「AIとの共生」を、if塾で一緒に学びませんか？\n\n最新のAI活用法を知りたい方は、ぜひプロフィールから詳細をチェックしてください！\n\n#if塾 #2026年 #Gemini4 #GoogleAI #受験生 #保護者 #最新テクノロジー #AI教育 #学習効率",
-      "caption_text": "【2026年11月】いよいよ入試シーズン本番が近づいてきましたね。 \n\n今月リリースされたGoogleの最新モデル「Gemini 4 Carbon」が、学習効率を劇的に変えると話題です。\n\nこれまでのAIは長い文章だと途中で精度が落ちることがありましたが、Carbonは数千ページに及ぶ複数ドキュメントを同時に、かつ高精度に分析することに特化しています。\n\n「あの参考書とこの問題集、何が違うの？」\n「志望校の出題傾向を過去10年分まとめて分析して」\n\nそんな高度な要求にも、Carbonなら瞬時に答えてくれます。 \n\nただし、if塾が大切にしているのは「AIを使いこなす側の思考力」です。便利だからこそ、最後は自分の頭で考える。そんな「AIとの共生」を、if塾で一緒に学びませんか？\n\n最新のAI活用法を知りたい方は、ぜひプロフィールから詳細をチェックしてください！\n\n#if塾 #2026年 #Gemini4 #GoogleAI #受験生 #保護者 #最新テクノロジー #AI教育 #学習効率",
+      "title": "2026年版：Gemini 2026年最新機",
+      "caption": "【2026年11月】Gemini 2026年最新機能\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
+      "caption_text": "【2026年11月】Gemini 2026年最新機能\n\nif塾からお届けします。\n\n詳細はプロフィール欄から！",
       "hashtags": [
         "#if塾",
         "#2026年",
-        "#Gemini4Carbon",
-        "#AI活用術",
-        "#受験対策",
-        "#Google最新"
+        "#if塾",
+        "#AI",
+        "#ChatGPT",
+        "#Gemini",
+        "#生成AI",
+        "#AIツール",
+        "#最新テック"
       ],
       "cta_url": "https://if-juku.net/",
       "slides": [
@@ -41,15 +44,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-          "sub_title": "2026年最新版｜Google最強モデルの実力",
-          "text_content": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
+          "main_title": "2026年版：Gemini 2026年最新機",
+          "sub_title": "11月の最新情報",
+          "text_content": "2026年版：Gemini 2026年最新機",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-01.png",
-          "image_file": "assets/img/posts/20261105_ai_column-01.png",
-          "overlay_text": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-          "subtext": "2026年最新版｜Google最強モデルの実力",
-          "alt": "表紙 - Gemini 4 Carbon 遂に解禁"
+          "image_url": "assets/img/posts/20261105_ai_column-01-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-01-fallback.png",
+          "overlay_text": "2026年版：Gemini 2026年最新機",
+          "subtext": "11月の最新情報",
+          "alt": "表紙 - 2026年版：Gemini 2026年最"
         },
         {
           "page_number": 2,
@@ -57,15 +60,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "膨大な参考書、まだ手作業で整理してる？",
-          "sub_title": "「複数資料の比較が大変」「長文の要約でミスが出る」…そんな悩みはGemini 4 Carbonで解決。Googleの最新技術が、24時間稼働の優秀な家庭教師に進化しました。",
-          "text_content": "膨大な参考書、まだ手作業で整理してる？",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-02.png",
-          "image_file": "assets/img/posts/20261105_ai_column-02.png",
-          "overlay_text": "膨大な参考書、まだ手作業で整理してる？",
-          "subtext": "「複数資料の比較が大変」「長文の要約でミスが出る」…そんな悩みはGemini 4 Carbonで解決。Googleの最新技術が、24時間稼働の優秀な家庭教師に進化しました。",
-          "alt": "内容1 - 膨大な参考書、まだ手作業で整理してる？"
+          "image_url": "assets/img/posts/20261105_ai_column-02-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-02-fallback.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -73,15 +76,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "100冊以上の資料を一瞬で「横断分析」",
-          "sub_title": "Carbon最大の特徴は超長時間タスクの完遂力。過去問10年分と教科書を同時に読み込ませ、自分の苦手傾向を正確に抽出する『志望校特化型分析』が可能になりました。",
-          "text_content": "100冊以上の資料を一瞬で「横断分析」",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-03.png",
-          "image_file": "assets/img/posts/20261105_ai_column-03.png",
-          "overlay_text": "100冊以上の資料を一瞬で「横断分析」",
-          "subtext": "Carbon最大の特徴は超長時間タスクの完遂力。過去問10年分と教科書を同時に読み込ませ、自分の苦手傾向を正確に抽出する『志望校特化型分析』が可能になりました。",
-          "alt": "内容2 - 100冊以上の資料を一瞬で「横断分析」"
+          "image_url": "assets/img/posts/20261105_ai_column-03-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-03-fallback.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -89,15 +92,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：思考力を奪われない「対話型」活用術",
-          "sub_title": "答えを聞くのではなく「解法のヒントを3つ段階的に出して」と指示するのが2026年の常識。AIをカンニングツールではなく、論理的思考を深めるパートナーに設定しましょう。",
-          "text_content": "if塾流：思考力を奪われない「対話型」活用術",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-04.png",
-          "image_file": "assets/img/posts/20261105_ai_column-04.png",
-          "overlay_text": "if塾流：思考力を奪われない「対話型」活用術",
-          "subtext": "答えを聞くのではなく「解法のヒントを3つ段階的に出して」と指示するのが2026年の常識。AIをカンニングツールではなく、論理的思考を深めるパートナーに設定しましょう。",
-          "alt": "内容3 - if塾流：思考力を奪われない「対話型」活"
+          "image_url": "assets/img/posts/20261105_ai_column-04-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-04-fallback.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -123,15 +126,15 @@
           "scene_name": "cover",
           "layout_type": "cover",
           "label": "表紙",
-          "main_title": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-          "sub_title": "2026年最新版｜Google最強モデルの実力",
-          "text_content": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
+          "main_title": "2026年版：Gemini 2026年最新機",
+          "sub_title": "11月の最新情報",
+          "text_content": "2026年版：Gemini 2026年最新機",
           "image_prompt": "Japanese anime style, ツール名 or 衝撃的な事実, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-01.png",
-          "image_file": "assets/img/posts/20261105_ai_column-01.png",
-          "overlay_text": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-          "subtext": "2026年最新版｜Google最強モデルの実力",
-          "alt": "表紙 - Gemini 4 Carbon 遂に解禁"
+          "image_url": "assets/img/posts/20261105_ai_column-01-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-01-fallback.png",
+          "overlay_text": "2026年版：Gemini 2026年最新機",
+          "subtext": "11月の最新情報",
+          "alt": "表紙 - 2026年版：Gemini 2026年最"
         },
         {
           "page_number": 2,
@@ -139,15 +142,15 @@
           "scene_name": "content1",
           "layout_type": "content1",
           "label": "内容1",
-          "main_title": "膨大な参考書、まだ手作業で整理してる？",
-          "sub_title": "「複数資料の比較が大変」「長文の要約でミスが出る」…そんな悩みはGemini 4 Carbonで解決。Googleの最新技術が、24時間稼働の優秀な家庭教師に進化しました。",
-          "text_content": "膨大な参考書、まだ手作業で整理してる？",
+          "main_title": "こんな悩みありませんか？",
+          "sub_title": "2026年の課題",
+          "text_content": "こんな悩みありませんか？",
           "image_prompt": "Japanese anime style, これは何？（ツール紹介）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-02.png",
-          "image_file": "assets/img/posts/20261105_ai_column-02.png",
-          "overlay_text": "膨大な参考書、まだ手作業で整理してる？",
-          "subtext": "「複数資料の比較が大変」「長文の要約でミスが出る」…そんな悩みはGemini 4 Carbonで解決。Googleの最新技術が、24時間稼働の優秀な家庭教師に進化しました。",
-          "alt": "内容1 - 膨大な参考書、まだ手作業で整理してる？"
+          "image_url": "assets/img/posts/20261105_ai_column-02-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-02-fallback.png",
+          "overlay_text": "こんな悩みありませんか？",
+          "subtext": "2026年の課題",
+          "alt": "内容1 - こんな悩みありませんか？"
         },
         {
           "page_number": 3,
@@ -155,15 +158,15 @@
           "scene_name": "content2",
           "layout_type": "content2",
           "label": "内容2",
-          "main_title": "100冊以上の資料を一瞬で「横断分析」",
-          "sub_title": "Carbon最大の特徴は超長時間タスクの完遂力。過去問10年分と教科書を同時に読み込ませ、自分の苦手傾向を正確に抽出する『志望校特化型分析』が可能になりました。",
-          "text_content": "100冊以上の資料を一瞬で「横断分析」",
+          "main_title": "2026年の解決策をご紹介",
+          "sub_title": "最新ツールで解決",
+          "text_content": "2026年の解決策をご紹介",
           "image_prompt": "Japanese anime style, どう使う？（活用例）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-03.png",
-          "image_file": "assets/img/posts/20261105_ai_column-03.png",
-          "overlay_text": "100冊以上の資料を一瞬で「横断分析」",
-          "subtext": "Carbon最大の特徴は超長時間タスクの完遂力。過去問10年分と教科書を同時に読み込ませ、自分の苦手傾向を正確に抽出する『志望校特化型分析』が可能になりました。",
-          "alt": "内容2 - 100冊以上の資料を一瞬で「横断分析」"
+          "image_url": "assets/img/posts/20261105_ai_column-03-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-03-fallback.png",
+          "overlay_text": "2026年の解決策をご紹介",
+          "subtext": "最新ツールで解決",
+          "alt": "内容2 - 2026年の解決策をご紹介"
         },
         {
           "page_number": 4,
@@ -171,15 +174,15 @@
           "scene_name": "content3",
           "layout_type": "content3",
           "label": "内容3",
-          "main_title": "if塾流：思考力を奪われない「対話型」活用術",
-          "sub_title": "答えを聞くのではなく「解法のヒントを3つ段階的に出して」と指示するのが2026年の常識。AIをカンニングツールではなく、論理的思考を深めるパートナーに設定しましょう。",
-          "text_content": "if塾流：思考力を奪われない「対話型」活用術",
+          "main_title": "今すぐ始めよう",
+          "sub_title": "if塾で学ぶ",
+          "text_content": "今すぐ始めよう",
           "image_prompt": "Japanese anime style, プロの視点（コツ・注意点）, clean background, no text, no ui",
-          "image_url": "assets/img/posts/20261105_ai_column-04.png",
-          "image_file": "assets/img/posts/20261105_ai_column-04.png",
-          "overlay_text": "if塾流：思考力を奪われない「対話型」活用術",
-          "subtext": "答えを聞くのではなく「解法のヒントを3つ段階的に出して」と指示するのが2026年の常識。AIをカンニングツールではなく、論理的思考を深めるパートナーに設定しましょう。",
-          "alt": "内容3 - if塾流：思考力を奪われない「対話型」活"
+          "image_url": "assets/img/posts/20261105_ai_column-04-fallback.png",
+          "image_file": "assets/img/posts/20261105_ai_column-04-fallback.png",
+          "overlay_text": "今すぐ始めよう",
+          "subtext": "if塾で学ぶ",
+          "alt": "内容3 - 今すぐ始めよう"
         },
         {
           "page_number": 5,
@@ -201,22 +204,22 @@
       "media": [
         {
           "kind": "image",
-          "src": "assets/img/posts/20261105_ai_column-01.png",
+          "src": "assets/img/posts/20261105_ai_column-01-fallback.png",
           "alt": "シーン1"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261105_ai_column-02.png",
+          "src": "assets/img/posts/20261105_ai_column-02-fallback.png",
           "alt": "シーン2"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261105_ai_column-03.png",
+          "src": "assets/img/posts/20261105_ai_column-03-fallback.png",
           "alt": "シーン3"
         },
         {
           "kind": "image",
-          "src": "assets/img/posts/20261105_ai_column-04.png",
+          "src": "assets/img/posts/20261105_ai_column-04-fallback.png",
           "alt": "シーン4"
         },
         {
@@ -242,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-11-05T14:16:42",
+      "research_date": "2026-11-05T20:24:59",
       "engagement": {
         "likes": 0,
         "comments": 0,
@@ -250,15 +253,15 @@
         "shares": 0
       },
       "notes_for_instagram": {
-        "cover_text": "Gemini 4 Carbon 遂に解禁",
+        "cover_text": "2026年版：Gemini 2026年最",
         "first_comment": "詳細は if-juku.net から",
         "scenes": [
           {
             "scene_id": 1,
             "scene_name": "cover",
             "label": "表紙",
-            "headline": "Gemini 4 Carbon 遂に解禁。11月の受験対策はAIが変える",
-            "subtext": "2026年最新版｜Google最強モデルの実力",
+            "headline": "2026年版：Gemini 2026年最新機",
+            "subtext": "11月の最新情報",
             "purpose": "ツール名 or 衝撃的な事実",
             "staff_image": null
           },
@@ -266,8 +269,8 @@
             "scene_id": 2,
             "scene_name": "content1",
             "label": "内容1",
-            "headline": "膨大な参考書、まだ手作業で整理してる？",
-            "subtext": "「複数資料の比較が大変」「長文の要約でミスが出る」…そんな悩みはGemini 4 Carbonで解決。Googleの最新技術が、24時間稼働の優秀な家庭教師に進化しました。",
+            "headline": "こんな悩みありませんか？",
+            "subtext": "2026年の課題",
             "purpose": "これは何？（ツール紹介）",
             "staff_image": null
           },
@@ -275,8 +278,8 @@
             "scene_id": 3,
             "scene_name": "content2",
             "label": "内容2",
-            "headline": "100冊以上の資料を一瞬で「横断分析」",
-            "subtext": "Carbon最大の特徴は超長時間タスクの完遂力。過去問10年分と教科書を同時に読み込ませ、自分の苦手傾向を正確に抽出する『志望校特化型分析』が可能になりました。",
+            "headline": "2026年の解決策をご紹介",
+            "subtext": "最新ツールで解決",
             "purpose": "どう使う？（活用例）",
             "staff_image": null
           },
@@ -284,8 +287,8 @@
             "scene_id": 4,
             "scene_name": "content3",
             "label": "内容3",
-            "headline": "if塾流：思考力を奪われない「対話型」活用術",
-            "subtext": "答えを聞くのではなく「解法のヒントを3つ段階的に出して」と指示するのが2026年の常識。AIをカンニングツールではなく、論理的思考を深めるパートナーに設定しましょう。",
+            "headline": "今すぐ始めよう",
+            "subtext": "if塾で学ぶ",
             "purpose": "プロの視点（コツ・注意点）",
             "staff_image": null
           },
