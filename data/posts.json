@@ -2,7 +2,7 @@
   "metadata": {
     "version": "3.0",
     "total_posts": 309,
-    "last_updated": "2026-11-12T03:30:58.477570",
+    "last_updated": "2026-11-12T14:52:42.425129",
     "categories": [
       "announcement",
       "development",
@@ -16,7 +16,7 @@
     {
       "id": "20261112_ai_column",
       "post_id": "20261112_ai_column",
-      "created_at": "2026-11-12T03:30:58",
+      "created_at": "2026-11-12T14:52:42",
       "datetime": "2026-11-12T09:00:00+09:00",
       "type": "carousel",
       "category": "ai_column",
@@ -245,7 +245,7 @@
         "reason": "ai_columnカテゴリの優先ルールに基づいて選択"
       },
       "status": "published",
-      "research_date": "2026-11-12T03:30:35",
+      "research_date": "2026-11-12T14:52:23",
       "engagement": {
         "likes": 0,
         "comments": 0,
